@@ -1,7 +1,7 @@
 ---
 title: "No More Freezes in Naraka: Point Blades – Effective Solutions Inside"
-date: 2024-11-03T02:39:27.193Z
-updated: 2024-11-07T01:47:45.489Z
+date: 2024-11-12T17:08:35.286Z
+updated: 2024-11-17T04:58:25.087Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## System requirements
 
 | **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
 | **Network**          | Broadband Internet connection                                                                                  | Broadband Internet connection                                                                                  |
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Close background programs
 
@@ -76,28 +90,8 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -136,13 +130,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -160,23 +147,17 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -193,17 +174,17 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
 If your game still crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -214,37 +195,11 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -260,8 +215,28 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -269,13 +244,6 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -302,6 +270,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
@@ -309,6 +284,13 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -333,20 +315,17 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-ways-to-record-google-voice-calls/"><u>[New] 2024 Approved Easy Ways to Record Google Voice Calls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>[New] Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-recommendations-top-5-windows-screen-cutting-apps/"><u>[New] In 2024, Expert Recommendations Top 5 Windows Screen Cutting Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ranking-apples-most-valuable-gif-tools/"><u>[Updated] Ranking Apple's Most Valuable GIF Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-common-errors-with-corsairs-icue-software-in-modern-windows-environments/"><u>Diagnosing and Fixing Common Errors with Corsair's iCUE Software in Modern Windows Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-half-life-alyx-performance-tackling-latency-and-frame-rate-issues-on-windows/"><u>Enhance Your Half-Life: Alyx Performance - Tackling Latency & Frame Rate Issues on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977023816-get-your-hands-on-the-latest-gigabyte-audio-drivers-at-no-cost/"><u>Get Your Hands on the Latest Gigabyte Audio Drivers at No Cost!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-v30-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-baldurs-gate-3-from-freezing-or-crashing-on-windows-computers/"><u>How to Stop Baldur's Gate 3 From Freezing or Crashing on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-recurrent-breakdowns-of-ghostwire-tokyo-in-your-gaming-session/"><u>How to Stop Recurrent Breakdowns of Ghostwire: Tokyo in Your Gaming Session</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-a34-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy A34 5G Phone that is Locked?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-struggling-with-the-game-resolve-ready-or-not-consistent-crashes-on-your-pc/"><u>Stop Struggling with the Game - Resolve 'Ready or Not' Consistent Crashes on Your PC!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-when-iphones-control-center-stops-responding/"><u>Top 8 Solutions When iPhone's Control Center Stops Responding</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-solution-to-cyberpunk-2077s-input-lag-challenge/"><u>Understanding the Solution to Cyberpunk ⁣2077'S Input Lag Challenge</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-bring-back-disappearing-video-icon-on-fb-watch/"><u>[Updated] Bring Back Disappearing Video Icon on FB Watch</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-guide-to-enable-dynamic-hdr-in-windows-11/"><u>[Updated] In 2024, Guide to Enable Dynamic HDR in Windows 11</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>2024 Approved Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/advice-on-preserving-power-in-your-xbox-joystick/"><u>Advice on Preserving Power in Your Xbox Joystick</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-game-freezes-in-far-cry-6-on-personal-computers/"><u>Eliminating Game Freezes in Far Cry 6 on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-clarity-fixes-previously-blurry-screenshots-of-outriders/"><u>Enhanced Visual Clarity Fixes Previously Blurry Screenshots of Outriders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-recordings-with-the-free-downloadable-m-audio-fast-track-ultra-driver/"><u>Improve Your Recordings with the Free Downloadable M-Audio Fast Track Ultra Driver</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-androids-premier-sound-editing-tools-a-top-10-list-that-doesnt-feature-audacity/"><u>New Exploring Androids Premier Sound Editing Tools A Top-10 List that Doesnt Feature Audacity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gtfo-crashes-a-step-by-step-solution-approach/"><u>Overcoming GTFO Crashes: A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-obs-mic-issues-top-6-remedies-available/"><u>Solve Your OBS Mic Issues: Top 6 Remedies Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-the-black-screen-issue-on-steam-in-just-7-easy-steps/"><u>Ultimate Guide: Solve the Black Screen Issue on Steam in Just 7 Easy Steps</u></a></li>
 </ul></div>
 

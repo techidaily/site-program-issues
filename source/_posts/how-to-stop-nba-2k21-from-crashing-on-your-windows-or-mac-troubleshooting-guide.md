@@ -1,7 +1,7 @@
 ---
 title: How to Stop NBA 2K21 From Crashing on Your Windows or Mac - Troubleshooting Guide
-date: 2024-08-23T17:29:56.951Z
-updated: 2024-08-24T17:29:56.951Z
+date: 2024-11-12T23:09:53.292Z
+updated: 2024-11-17T04:25:41.397Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -56,9 +63,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -70,17 +74,25 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
@@ -89,13 +101,14 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -120,9 +133,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -136,8 +146,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +153,24 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-navigating-authentic-growth-proven-youtube-view-strategies/"><u>[New] 2024 Approved Navigating Authentic Growth Proven YouTube View Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts/"><u>[New] In 2024, The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beat-bazaar-curation-of-superior-dj-video-samples-for-download/"><u>[Updated] Beat Bazaar Curation of Superior DJ Video Samples for Download</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unleash-the-full-potential-of-your-chat-on-whatsapp/"><u>2024 Approved Unleash the Full Potential of Your Chat on WhatsApp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-distracting-display-solutions-for-continuous-monitor-flutter/"><u>Defeat the Distracting Display - Solutions for Continuous Monitor Flutter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-season-8-exploring-the-changes-in-frame-rate-and-performance/"><u>Fortnite Season 8: Exploring the Changes in Frame Rate and Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-discord-overlays-back-with-simple-steps-a-step-by-step-guide/"><u>Get Your Discord Overlays Back with Simple Steps - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-quality-streaming-top-5-recorder-devices-reviewed/"><u>High-Quality Streaming Top 5 Recorder Devices Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-nox-player-collapses-on-your-windowsmac-computer/"><u>How to Fix Continuous Nox Player Collapses on Your Windows/Mac Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-adobe-failed-to-launch-problem-with-error-0xc0000022/"><u>How to Overcome 'Adobe Failed to Launch' Problem with Error 0xC0000022</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-ways-to-prevent-war-thunder-from-crashing/"><u>Mastering Stability: Effective Ways to Prevent War Thunder From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-in-far-cry-6-on-pc-expert-tips-and-solutions-applied/"><u>Overcome Technical Glitches in Far Cry 6 on PC - Expert Tips and Solutions Applied</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-overcome-lego-star-wars-pc-crash-for-skywalker-saga/"><u>Resolved Issues: Overcome Lego Star Wars PC Crash for Skywalker Saga</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-battery-not-recognized-with-easy-troubleshooting-steps/"><u>Solve 'Battery Not Recognized' With Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide/"><u>Top-Ranking Mac Devices : An Expert's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-get-your-evil-genius-game-running-smoothly/"><u>Unlocking the Secrets to Get Your Evil Genius Game Running Smoothly</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1728485599814-fall-guys/"><u>ストレージ破壊後の回復：『Fall Guys』における「ファイル見つかりません」エラーを克服する手順</u></a></li>
+</ul></div>
 

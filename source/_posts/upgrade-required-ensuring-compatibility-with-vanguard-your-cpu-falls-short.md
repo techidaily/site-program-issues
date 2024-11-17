@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Required: Ensuring Compatibility with Vanguard - Your CPU Falls Short"
-date: 2024-08-23T17:26:57.105Z
-updated: 2024-08-24T17:26:57.105Z
+date: 2024-11-12T21:08:47.822Z
+updated: 2024-11-17T07:39:40.743Z
 tags:
   - win11
   - win10
@@ -38,15 +38,19 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
 Check if the game runs normally now. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,9 +61,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
@@ -76,22 +77,32 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  Game crashes are usually driver-related and can indicate a wrong, faulty or outdated graphics driver. To keep Star Wars Squadrons running smoothly and boost the game’s performance, you should update your graphics driver to the latest.
@@ -108,9 +119,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -131,6 +139,13 @@ There are mainly two ways you can do the driver update:
 **1)** Launch Steam and go to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
@@ -157,8 +172,12 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### On GeForce Experience
 
 **1)** Run GeForce Experience.
@@ -171,14 +190,15 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Adjust the graphics settings
 
  Improper settings of Star Wars Squadrons can trigger unexpected crashing, especially if the setup is too demanding for your machine. By adjusting the settings appropriately, you can reduce the number of crashes and the game will still look beautiful. Here’s how:
@@ -189,6 +209,13 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Change** button next to Screen Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
@@ -197,18 +224,19 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall the game
 
  Reinstalling always sounds troublesome, but it’s a solid fix for stubborn gaming problems. After you uninstall the game, make sure to**delete all the related game files** . Then, download the latest version of Star Wars Squadrons and it should be working without any issues.
@@ -225,8 +253,6 @@ There are mainly two ways you can do the driver update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +260,24 @@ There are mainly two ways you can do the driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-art-of-creating-compelling-youtube-video-outlines/"><u>[New] 2024 Approved The Art of Creating Compelling YouTube Video Outlines</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>[Updated] Capture Dynamic Movements IPad Timelapse Tips for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screensnapper-summit-the-ultimate-guide-to-capturing/"><u>[Updated] ScreenSnapper Summit The Ultimate Guide to Capturing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-undoing-streams-a-complete-list-of-25-procedures-for-twitch/"><u>2024 Approved Undoing Streams A Complete List of 25 Procedures for Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-problems-master-the-fix-with-these-proven-techniques/"><u>Code Vein Freezing Problems? Master the Fix with These Proven Techniques!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-newest-software-patch-for-hdmi-to-usb-interface/"><u>Download: Newest Software Patch for HDMI to USB Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-successfully-starting-saints-row-pc-version-without-errors/"><u>Essential Tips for Successfully Starting Saints Row PC Version Without Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719371847315-fixing-faulty-windows-keys-in-a-minute/"><u>Fixing Faulty Windows Keys in a Minute</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hardware-hurdles-whats-necessary-for-big-sur-for-2024/"><u>Hardware Hurdles What's Necessary for Big Sur for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/innovate-your-images-with-leading-snapchat-effects-for-2024/"><u>Innovate Your Images with Leading Snapchat Effects for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-solutions-to-fix-a-non-responsive-rust-application-tips-and-insights/"><u>Latest Solutions to Fix a Non-Responsive Rust Application: Tips and Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-geforce-troubleshooting-fixes-and-tips-to-keep-your-graphics-software-running-smoothly/"><u>Mastering GeForce Troubleshooting: Fixes and Tips to Keep Your Graphics Software Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-stuck-on-loading-screen-heres-the-solution/"><u>Roblox Stuck on Loading Screen? Here's the Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tf2-wont-start-here-are-the-solutions/"><u>TF2 Won't Start? Here Are the Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-obs-software-errors-on-windows-1110/"><u>Troubleshooting and Solving OBS Software Errors on WIndows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-rogue-company-how-to-prevent-pc-disruptions/"><u>Troubleshooting Rogue Company: How to Prevent PC Disruptions</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V29 Pro | Dr.fone</u></a></li>
+</ul></div>
 

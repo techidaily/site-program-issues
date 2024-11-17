@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Video Memory Issues in Black Myth Wukong Game for Windows Computers
-date: 2024-08-23T17:17:46.123Z
-updated: 2024-08-24T17:17:46.123Z
+date: 2024-11-15T00:06:51.874Z
+updated: 2024-11-16T20:03:14.650Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 6. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Increase virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  1\. If you’re using Intel 13th, 14th Gen CPU…
 
  As warned by the game devs, Black Myth: Wukong may have the ‘out of video memory’ problem on an Intel 13th or 14th generation CPU (see more on the **[Intel CPU voltage bug](https://www.pcmag.com/news/intel-hints-13th-14th-gen-desktop-chip-bug-results-in-permanent-damage)**  if you’re interested). And they’re working on a solution to fix it. At this stage, here are some workarounds that you can try.
@@ -59,14 +66,8 @@ thumbnail: https://thmb.techidaily.com/dc229e7dd5dce04caabe58bbbc326bcfc746011c8
 2. Go to**Advanced Tuning Section** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/intel-xtu-advanced.png)
 3. Scroll down to **Per Core Tuning** , and change all Ratio Multipliers to**54x** . Then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/core-ratio.png)
 4. If 54x doesn’t work well for you, try 52x instead:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/performance-ratio.png)
 
  If you’re not using an Intel 13th or 14th Gen CPU, but still seeing the out of video memory problem in Black Myth: Wukong, please move on to the next method to see if it helps.
@@ -85,17 +86,18 @@ To check your graphics card version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/directx-diagnostic-tool-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If your graphics card is older or below the required one, then you may need to consider upgrading to a more advanced one.
 
  If this is not the case, but you’re still seeing the out of video memory problem in BMW, please move on to the next method below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  3\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to the out of video memory problem in Black Myth: Wukong, so if the above methods don’t help to stop the error message, it’s likely that you have a corrupted or outdated graphics driver. Intel and AMD have released the game-optimized version of the drivers, so you should update your drivers to see if it helps.
@@ -114,9 +116,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ###  Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.** 
@@ -129,9 +128,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -157,31 +153,34 @@ To do so, first visit the website of your GPU manufacturer:
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Epic Games Launcher
 
 1. On Epic Game Launcher, find Black Myth: Wukong in your **Library** . Click **the three dots** on the right side of the game line and select**Manage** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If verifying the game files doesn’t help to fix the out of the video memory problem in BMW, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  5\. Run the game with DirectX11
 
  According to some gamers, the workaround for the out of video memory problem in Black Myth: Wukong is to run the game with DirectX 11\. This could be because of the long-known issues between Unreal Engine and DirectX 12\. To do so:
@@ -193,6 +192,14 @@ To do so, first visit the website of your GPU manufacturer:
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Under the launch options, add **\-dx11** . Then save and try to launch Black Myth: Wukong to see if how it works.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 
 ###  On Epic Games Launcher
@@ -210,9 +217,12 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  6\. Lower in-game graphics settings
 
  Other than running the game with DirectX 11, lowering the in-game graphics settings also helps to fix the out of video memory problem for some.
@@ -223,10 +233,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ##  7\. Increase virtual memory
 
  Another common reason for memory problems like the out of video memory error in Black Myth: Wukong could be insufficient virtual RAM space. To see if this is your case, you can try to increase the virtual memory to allow more RAM resources for the game to run. To do so:
@@ -237,33 +243,37 @@ To do so, first visit the website of your GPU manufacturer:
 2. Under the **Advanced**  tab, click **Settings** .  
 ![how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/settings-1.png)
 3. Select the **Advanced**  tab and then click **Change…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/advanced-settings.png)
 4. Uncheck **Automatically manage paging file size for all drives** .  
 ![how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck-the-option-1.png)
 5. Select your C drive and then tick **Custom size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/custom-size.png)
 6. Type in the values for **Initial size**  and **Maximum size** . Then click **OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 7. Microsoft recommends that the virtual memory you set is **no less than 1.5 times and no more than 3 times** the size of your RAM. To check RAM on Windows, follow the instructions below.
 * On your keyboard, press **Windows + R keys** simultaneously to invoke the Run box.
 * Type **msinfo32.exe** and press Enter.  
     
 ![check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/msinfor.exe_.png)
 * Scroll down and look for the **Installed Physical Memory (RAM)** entry.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
 ![how to check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/Total-virtual-memory.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 1 GB (Gigabyte) = 1000 MB (Megabyte)
 
  So in my case, the recommended initial size is: 8 GB \* 1000 \* 1.5 = 12000 MB
@@ -285,8 +295,6 @@ For the recommended maximum size, it will be: 8 GB \* 1000 \* 3 = 24000 MB
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +302,18 @@ For the recommended maximum size, it will be: 8 GB \* 1000 \* 3 = 24000 MB
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-sticker-creation-from-gifs-a-step-by-step-tutorial-for-discs-and-chats/"><u>[New] Sticker Creation From GIFs A Step-by-Step Tutorial for Discs and Chats</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-prioritize-performance-our-picks-for-the-best-video-players/"><u>[Updated] 2024 Approved Prioritize Performance Our Picks for the Best Video Players</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>[Updated] In 2024, Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insider-guide-to-listening-to-podcasts-on-your-iphone/"><u>[Updated] The Insider Guide to Listening to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-youtube-shorts-when-thumbnails-disappear-without-notice-for-2024/"><u>Common YouTube Shorts When Thumbnails Disappear Without Notice for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discount-hunting-for-chinese-made-vr-devices/"><u>Discount Hunting for Chinese-Made VR Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-display-woes-resolving-black-screen-issues-effectively/"><u>Fixing Your Display Woes: Resolving Black Screen Issues Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-nioh-2-complete-edition-lag-top-techniques-for-a-smooth-play/"><u>Overcoming Nioh 2 Complete Edition Lag: Top Techniques for a Smooth Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-youtube-stuttering-when-video-halts-but-sound-persists-in-chromefirefox/"><u>Solving YouTube Stuttering: When Video Halts but Sound Persists in Chrome/Firefox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992118972-troubleshooting-guide-for-grand-theft-auto-5-stuttering-problems-fixed/"><u>Troubleshooting Guide for Grand Theft Auto 5 Stuttering Problems, Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-troubled-wires-effective-techniques-to-prevent-fallout-3-crashing-on-win10/"><u>Untangling Troubled Wires: Effective Techniques to Prevent Fallout 3 Crashing on Win10</u></a></li>
+</ul></div>
 

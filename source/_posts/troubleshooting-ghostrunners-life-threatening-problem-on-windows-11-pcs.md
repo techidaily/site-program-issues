@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Ghostrunner's Life-Threatening Problem on Windows 11 PCs
-date: 2024-08-23T17:29:00.368Z
-updated: 2024-08-24T17:29:00.368Z
+date: 2024-11-14T09:56:06.555Z
+updated: 2024-11-16T21:47:11.325Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If there’s anything more frustrating than having no internet, it would be the 
 * [Fix 7: Allow Steam through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [If all else fails…](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check Steam server status
 
  The first thing you should check is whether Steam servers are down for the moment. This is because occasionally, Steam would schedule maintenance for the servers to patch possible bugs and install new features. As such, the servers will be taken down.
@@ -37,9 +44,6 @@ If there’s anything more frustrating than having no internet, it would be the 
 * If the servers are indeed down, then there’s not much you can do but wait for the developer staff to do their thing and recover the servers.
 * If the servers are up and running and yet the error occurs, please move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Restart your network devices
 
  Once you’ve eliminated server maintenance as a possible cause, you should start look into your own home network. It is possible that your modem & router are being overflooded with data, screeching your internet to such a halt that Steam could not connect to its servers.
@@ -49,13 +53,15 @@ Here’s how you can restart your modem & router:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Launch Steam and check if the warning error is fixed. If yes, then great! If it still pops up, please head onto**Fix 3** , below.
@@ -74,6 +80,14 @@ Here’s how you can restart your modem & router:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -82,8 +96,12 @@ Here’s how you can restart your modem & router:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Flush DNS and renew your IP
 
  Generally, your computer automatically stores IP address and domain name system results so as to speed up subsequent requests to the same domains. But overtime, the cached information may have gone corrupt, outdated or otherwise incorrect, preventing you from connecting to the servers.
@@ -106,18 +124,9 @@ To renew your IP:
 3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset WinSock
 
  Winsock is a catalog of data that allows computer programs to access the internet. But sometimes the entries in the catalog may be incorrect or have gone corrupt, causing a network error. To verify if this is the case, you can perform a Winsock reset.
@@ -127,14 +136,16 @@ Here’s how to go about it:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. In the Administrator Command Prompt window, enter**netsh winsock reset** , then press**Enter** ; then type**netsh winteep reset proxy** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/net.png)
 3. Click**Close** to exit the window.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
 
 ### Fix 6: Modify Steam properties
@@ -147,15 +158,32 @@ Here are the steps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.png)
 3. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 4. On your desktop, right-click on**Steam** and click**Properties** .
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Allow Steam through Windows Firewall
 
@@ -166,13 +194,18 @@ Here are the steps:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
@@ -194,8 +227,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +234,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/failed-connection-with-anticheat-system-how-to-fix-it-on-eft/"><u>'Failed Connection with Anticheat System': How to Fix It on EFT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[New] Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[Updated] Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-lineup-elite-webcam-mounts/"><u>2024 Approved Superior Lineup Elite Webcam Mounts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211329361-9798869331427-astrological-numerology/"><u>Astrological Numerology | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connect-the-app-engine-url-back-in-the-google-apps-routines-interface-add-a-new-or-existing-action-then-enter-the-generated-app-engine-url-from-step-4-into-548/"><u>Connect the App Engine URL: Back in the Google App's Routines Interface, Add a New or Existing Action, Then Enter the Generated App Engine URL From Step 4 Into the URL Field. Save and Name Your Routine Accordingly.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cure-your-game-fixes-for-the-persistent-directx-glitch-in-anno-1800/"><u>Cure Your Game: Fixes for the Persistent DirectX Glitch in Anno 1800</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-red-dead-online-disruptions-a-comprehensive-guide-for-a-smooth-gaming-experience/"><u>Eliminate Red Dead Online Disruptions: A Comprehensive Guide for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993587867-how-to-solve-silent-twitch-stream-problems-now-working/"><u>How to Solve Silent Twitch Stream Problems – Now Working</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-p55t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel P55T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-performance-improved-pc-crashes-no-longer-an-issue/"><u>Red Dead Redemption 2 Performance Improved: PC Crashes No Longer an Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474710283-stuck-with-late-imessages-on-iphone-try-these-effective-methods-for-swift-communication/"><u>Stuck with Late iMessages on iPhone? Try These Effective Methods for Swift Communication.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-for-resolving-delay-issues-on-the-naraka-platform-what-you-need-to-know/"><u>Tips for Resolving Delay Issues on the Naraka Platform – What You Need To Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-address-and-correct-acrocef-exe-glitches/"><u>Troubleshooting Tips: How to Address and Correct AcroCEF Exe Glitches</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-below-is-a-list-of-top-5-free-wmv-splitters-which-can-help-you-split-your-frames-without-damaging-the-quality-of-your-video/"><u>Updated In 2024, Below Is a List of Top 5 Free WMV Splitters Which Can Help You Split Your Frames without Damaging the Quality of Your Video</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rust Display Anomaly Resolution Techniques for Seamless Experience
-date: 2024-11-03T20:01:23.457Z
-updated: 2024-11-07T01:09:00.056Z
+date: 2024-11-14T06:56:26.729Z
+updated: 2024-11-17T06:39:03.620Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
@@ -40,35 +47,28 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
- If the black screen occurs again, don’t worry. There are still other fixes you can try.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -106,13 +106,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -122,13 +115,6 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
@@ -143,19 +129,33 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -194,24 +194,17 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/solved-fallout-3-freezes-on-windows-11/"><u>[Solved] Fallout 3 Freezes on Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-cost-effective-gaming-selecting-the-best-keyboard-choices/"><u>[Updated] 2024 Approved Cost-Effective Gaming Selecting the Best Keyboard Choices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discover-9-easy-no-cost-editing-software-options/"><u>2024 Approved Discover 9 Easy, No-Cost Editing Software Options</u></a></li>
-<li><a href="https://win-forum.techidaily.com/aura-carver-digital-photo-frame-review-display-and-share-photos/"><u>Aura Carver Digital Photo Frame Review: Display and Share Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-battlefield-glitches-effective-solutions-to-warzone-50-31-installation-problems-on-pc/"><u>Conquer the Battlefield Glitches: Effective Solutions to Warzone [5.0, 3.1] Installation Problems on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-heart-issues-during-initial-boot-sequence/"><u>Diagnosing and Fixing 'Atomic Heart' Issues During Initial Boot Sequence</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-optimized-for-windows-users-of-latest-and-legacy-versions/"><u>Download the Newest Magicard Rio Pro Driver: Optimized for Windows Users of Latest and Legacy Versions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-navigation-for-social-media-and-more-expand-your-reach-top-menu-options/"><u>Easy Navigation for Social Media & More - Expand Your Reach | Top Menu Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-discord-overlay-back-on-a-fast-and-simple-guide/"><u>Get Your Discord Overlay Back On - A Fast and Simple Guide!</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-how-i-find-great-free-games-on-steam/"><u>Here's How I Find Great Free Games on Steam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stabilize-content-warning-application-and-prevent-pc-freezes-during-use/"><u>How to Stabilize 'Content Warning' Application and Prevent PC Freezes During Use</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-eliminating-lags-in-the-avatar-realm-within-pandoras-edge-regions/"><u>Mastering Smooth Playthroughs: Eliminating Lags in the Avatar Realm Within Pandora's Edge Regions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-20-unrestricted-pubg-montage-samples/"><u>Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ere-guide-uploading-vids-for-youtube-for-2024/"><u>Premiere Guide Uploading Vids for YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-to-farm-management-simulator-2022-not-opening/"><u>Quick Solutions to Farm Management Simulator 2022 Not Opening</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-youtube-issues-chrome-and-firefox-audience-still-hears-sound-while-videos-stutter/"><u>Resolving YouTube Issues: Chrome and Firefox - Audience Still Hears Sound While Videos Stutter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-sound-savants-playbook-for-efficient-audible-records/"><u>The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-pause-in-ascents-launch-now-solved/"><u>Understanding the Pause in Ascent's Launch - Now Solved</u></a></li>
-<li><a href="https://network-issues.techidaily.com/uninstalling-gpu-drivers-with-ease-via-window-8s-safe-mode/"><u>Uninstalling GPU Drivers with Ease via Window 8’S Safe Mode</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-efficient-video-cutting-techniques-to-boost-your-content-for-2024/"><u>[Updated] Efficient Video Cutting Techniques to Boost Your Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-essential-guide-to-vitas-complete-video-editing-software-for-2024/"><u>[Updated] The Essential Guide to Vita's Complete Video Editing Software for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-wallet-friendly-mirrorless-choices/"><u>2024 Approved Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-stalling-or-freezing-on-windows-11-heres-how-to-smoothly-resolve-it/"><u>Chrome Stalling or Freezing on Windows 11? Here's How to Smoothly Resolve It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-stop-football-manager-2020-from-crashing-on-pc/"><u>Effective Ways to Stop Football Manager 2020 From Crashing on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-the-rec-room-microphone-issue-on-pc-the-ultimate-2024-guide-for-gamers-and-podcasters/"><u>How to Fix the Rec Room Microphone Issue on PC: The Ultimate 2024 Guide for Gamers and Podcasters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-pro-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 11 Pro After iOS Update? | Stellar</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>In 2024, The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-player-value-4-pivotal-enhancements-for-xbox-rewards/"><u>Redefining Player Value: 4 Pivotal Enhancements for Xbox Rewards</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-error-6634/"><u>Ultimate Guide: Resolving Call of Duty: Warzone's Error 6634</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-lag-problems-with-avatar-game-on-pandoras-frontier-adventure/"><u>Ultimate Guide: Resolving Lag Problems with Avatar Game on Pandora’s Frontier Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991603015-update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix</u></a></li>
 </ul></div>
 

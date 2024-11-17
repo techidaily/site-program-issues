@@ -1,7 +1,7 @@
 ---
 title: "Silent Dragonlords: How to Restore Sound in Your Adventure Through Skyrim"
-date: 2024-08-23T17:28:52.111Z
-updated: 2024-08-24T17:28:52.111Z
+date: 2024-11-16T09:16:32.992Z
+updated: 2024-11-17T04:11:10.886Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 7. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your computer specs
 
  The minimum system requirements need to be met to run _Borderlands 3_ smoothly; otherwise, you’re likely to encounter game issues like freezing, lagging and crashing.
@@ -54,6 +67,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
@@ -64,9 +84,6 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 2: Rule out driver issues
 
  An incompatible graphics driver is one of the most common causes of game issues, such as the game freezing, lagging, and crashing.
@@ -81,16 +98,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click the name of your graphics card and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
@@ -101,9 +112,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
@@ -131,9 +139,12 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -158,9 +169,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
 If the game still freezes, then move on to the fix below.
@@ -175,16 +183,10 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
@@ -202,9 +204,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
@@ -225,9 +224,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
@@ -238,15 +234,21 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Check for Windows updates
 
  Regularly updating your operating system is crucial for resolving compatibility issues and security vulnerabilities that may cause game issues. Follow the instructions below:
@@ -255,18 +257,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Adjust your virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -291,9 +287,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
@@ -305,8 +298,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
@@ -316,8 +313,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8: Reinstall the Epic Games Launcher
 
  If all else fails and you are still experiencing game freezing issues, reinstalling the game can often resolve underlying problems
@@ -332,18 +333,29 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
@@ -363,8 +375,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -372,4 +382,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-video-editing-with-timestamps-and-on-screen-text/"><u>[New] Efficient Video Editing with Timestamps & On-Screen Text</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-tech-worlds-dissecting-ar-mr-and-vr/"><u>[Updated] 2024 Approved Exploring Tech Worlds Dissecting AR, MR, & VR</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-advanced-settings-for-uniform-stream-lighting/"><u>[Updated] In 2024, Advanced Settings for Uniform Stream Lighting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-exquisite-text-effects-for-adobes-affects/"><u>[Updated] Unleash Creativity Exquisite Text Effects For Adobe's Affects</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dts-m4v-movavi/"><u>無料で高品質DTS M4Vに変換可能! 動画編集サービスMovaviをご利用ください。</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi 13T</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/melding-images-and-songs-into-screens/"><u>Melding Images and Songs Into Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skip-the-struggle-speed-up-shader-optimization-for-a-better-run-of-battlefront-ii/"><u>Skip the Struggle: Speed Up Shader Optimization for a Better Run of Battlefront II</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-instructions-for-downloading-and-saving-streaming-videos-from-flowplayer-in-mp4-or-avi-on-macs-and-pcs/"><u>Step-by-Step Instructions for Downloading and Saving Streaming Videos From FlowPlayer in MP4 or AVI on Macs & PCs</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-5-free-online-tone-tools-for-easy-use-for-2024/"><u>Top 5 Free Online Tone Tools for Easy Use for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-blue-screen-in-helldivers-version-2/"><u>Troubleshooting and Repairing 'Blue Screen' In Helldivers Version 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-connect-wont-load-heres-how-to-resolve-it/"><u>Ubisoft Connect Won't Load? Here's How to Resolve It</u></a></li>
+</ul></div>
 

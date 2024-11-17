@@ -1,7 +1,7 @@
 ---
 title: 'New World' Game Fixed - Say Goodbye to PC Restarting Problems with New Update
-date: 2024-11-03T03:10:27.094Z
-updated: 2024-11-07T04:04:50.890Z
+date: 2024-11-13T00:49:24.196Z
+updated: 2024-11-17T04:28:49.374Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ There is nothing more frustrating than buying a video game and not being able to
 8. **[Configure your in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Meet the minimum system requirements
 
 **The minimum system requirements to play**   **Total War:**
@@ -71,14 +64,14 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure your computer meets the requirements, then move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable your antivirus temporarily
 
@@ -90,13 +83,6 @@ Here is how to view your computer specifications:
 
 If your game still crashes, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run your game as an administrator**
 
  Steam sometimes can’t access certain game files on your computer under normal user mode, which could lead to the_Total War_ crashing issue. To see if that’s the cause of your issue, follow the instructions below:
@@ -106,10 +92,10 @@ If your game still crashes, move on and try the fix below.
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
@@ -123,13 +109,6 @@ If your game still crashes, move on and try the fix below.
 **4)**  Restart_Total War_ from Steam.
 
  Now, check if this fixed the crashing issue. If your problem still exists, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -163,6 +142,13 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -185,13 +171,6 @@ There are two ways you can get the right driver for your graphics card:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -223,6 +202,13 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
@@ -234,13 +220,6 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -255,6 +234,13 @@ If your issue persists, go ahead with the next fix, below.
 **3)**  Click the**ADVANCED** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-227.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Modify the graphics settings following the screenshot below, then click CONFIRM to save the changes.
 
@@ -271,6 +257,13 @@ If your game crashes again, try the fix below.
 **1)** Right-click the Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
@@ -296,6 +289,19 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
@@ -307,10 +313,10 @@ If your game crashes again, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should be able to run_Total War_ without crashing now. Enjoy your game! If you have any questions or suggestions, feel free to leave a comment below.
@@ -336,15 +342,17 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>[New] Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-complete-guide-to-eradicating-youtube-keep-queue/"><u>[Updated] 2024 Approved The Complete Guide to Eradicating YouTube Keep Queue</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfectly-synchronized-clip-composites-via-modes/"><u>[Updated] In 2024, Perfectly Synchronized Clip Composites via Modes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/break-through-the-frozen-frame-resolving-far-cry-loading-screen-issues/"><u>Break Through the Frozen Frame: Resolving Far Cry ^[Loading Screen Issues]()</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-x-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone X to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-itel-p55-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fixes-for-the-notorious-ue4-bug-the-unreal-process-has-crashed-dilemma-in-outriders/"><u>Mastering Fixes for the Notorious UE4 Bug - The 'Unreal Process Has Crashed' Dilemma in Outriders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launching-problems-with-starfield-in-steamxbox-platforms/"><u>Overcoming Launching Problems with Starfield in Steam/Xbox Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-potential-an-in-depth-look-at-the-features-and-functions-of-the-garmin-forerunner-265/"><u>Unveiling the Potential: An In-Depth Look at the Features and Functions of the Garmin Forerunner 265</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-directx-troubles-fix-it-fast-using-these-easy-4-methods/"><u>Warzone DirectX Troubles? Fix It Fast Using These Easy 4 Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-eliminating-pc-hacks-and-freezes-during-(span-stylecolor-0078af)halo-3(span)-sessions/"><u>[Comprehensive Solutions] Eliminating PC Hacks and Freezes During <Span Style=color: #0078AF;>Halo 3</Span> Sessions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unleash-creativity-with-these-free-web-photo-editors/"><u>[New] Unleash Creativity with These Free Web Photo Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-ai-photo-editor-software/"><u>[Updated] Best AI Photo Editor Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-viewer-count-challenge-worldwide-youtuber-leaders/"><u>[Updated] In 2024, The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-ring-alarm-solutions-the-ultimate-guide-to-the-doorbell-pro/"><u>Comprehensive Ring Alarm Solutions: The Ultimate Guide to the Doorbell Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-fix-frame-rate-hiccups-in-age-of-empires-iv/"><u>Comprehensive Solutions to Fix Frame Rate Hiccups in Age of Empires IV</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mcuicntexe-entry-point-not-found-error-on-windows/"><u>How to Fix the “McUICnt.exe Entry Point Not Found” Error on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-tutorial-on-correcting-the-dead-by-daylight-e8014-glitch/"><u>In-Depth Tutorial on Correcting the Dead by Daylight E8014 Glitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-explores-high-dynamic-range-photography/"><u>IPhone Explores High Dynamic Range Photography</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/revolutionary-features-in-configuring-jvm-environment-options-a-user-friendly-guide/"><u>Revolutionary Features in Configuring JVM Environment Options - A User-Friendly Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-ready-or-not-keeps-failing-issues-for-windows-users/"><u>Troubleshooting Guide: Resolving 'Ready or Not Keeps Failing' Issues for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-startup-problems-in-stardew-valley-game/"><u>Troubleshooting Tips - Overcoming Startup Problems in Stardew Valley Game</u></a></li>
 </ul></div>
 

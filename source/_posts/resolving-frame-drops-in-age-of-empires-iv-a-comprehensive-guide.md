@@ -1,7 +1,7 @@
 ---
 title: "Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide"
-date: 2024-11-01T20:21:43.188Z
-updated: 2024-11-06T19:45:25.807Z
+date: 2024-11-14T08:33:04.790Z
+updated: 2024-11-17T08:27:26.006Z
 tags:
   - win11
   - win10
@@ -39,33 +39,20 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -81,14 +68,14 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -122,19 +109,19 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -145,6 +132,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
@@ -160,27 +154,7 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Do the crashes disappear now? If not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall the game
 
@@ -190,9 +164,23 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -228,19 +216,20 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>[New] 2024 Approved Boost Channels to Partner Status in Under 90 Days, Start Now</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ice-and-elegance-the-2022-winter-olympics-in-china/"><u>[New] Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-tag-like-a-pro-the-most-trending-hashtags-on-instagram-to-increase-engagement/"><u>[Updated] 2024 Approved Tag Like a Pro The Most Trending Hashtags on Instagram to Increase Engagement</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-enhancing-videos-with-online-filters/"><u>2024 Approved The Ultimate Guide to Enhancing Videos with Online Filters</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/surface-pro-up-to-windows-11/"><u>効率よくセキュリティを保ちながら、Surface Pro 지 up to Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-2-bugfix-top-solutions-for-game-stability/"><u>Alan Wake 2 Bugfix: Top Solutions for Game Stability</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tips-and-solutions-addressing-and-resolving-pc-crash-issues-in-overwatch-2/"><u>Comprehensive Tips & Solutions: Addressing and Resolving PC Crash Issues in Overwatch 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-the-atomic-heart-catastrophe-mastering-startup-survival-tactics/"><u>Conquering the 'Atomic Heart' Catastrophe: Mastering Startup Survival Tactics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-crusader-kings-iii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Stop Crusader Kings III From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/from-passive-to-active-income-profitable-facebook-tactics/"><u>From Passive to Active Income Profitable Facebook Tactics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/harnessing-the-power-of-free-windows-video-tools-for-2024/"><u>Harnessing the Power of Free Windows Video Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-to-boost-fps-and-eliminate-hitches-in-naraka-bladepoint-gameplay/"><u>Tips to Boost FPS and Eliminate Hitches in Naraka: Bladepoint Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tips-for-enhancing-your-ark-sanctuary-defense-pc-gameplay-with-an-fps-boost/"><u>Top Tips for Enhancing Your ARK: Sanctuary Defense PC Gameplay with an FPS Boost</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-thrifty-shopping-for-cameras-the-most-economical-lists-under-100-for-2024/"><u>[New] Thrifty Shopping for Cameras The Most Economical Lists Under $100 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unveiling-vidmas-video-capturing-excellence/"><u>[Updated] In 2024, Unveiling Vidma's Video Capturing Excellence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-smaller-brands-bigger-impacts-infographics-for-2024/"><u>[Updated] Smaller Brands, Bigger Impacts (Infographics) for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-comparison-of-ipad-vs-ipad-air-features/"><u>A Comprehensive Comparison of iPad Vs. IPad Air Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-challenge-of-error-code-103003-in-your-arma-tarkov-gameplay/"><u>Beat the Challenge of Error Code 103003 in Your ARMA Tarkov Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-claude-ai-is-claude-ai-the-better-chatbot/"><u>ChatGPT Vs. Claude AI: Is Claude AI the Better Chatbot?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-managing-high-cpu-usage-on-starfield-latest-techniques/"><u>Comprehensive Guide to Managing High CPU Usage on Starfield - Latest Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-steps-to-prevent-manor-lords-from-crashing-on-your-computer/"><u>Easy Steps to Prevent Manor Lords From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-common-issue-of-non-responsive-razer-synapse-launcher/"><u>Effective Solutions for the Common Issue of Non-Responsive Razer Synapse Launcher</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-gratuitous-text-animations/"><u>In 2024, Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/porcelain-or-earthenware-tiles-smooth-and-unglazed/"><u>Porcelain or Earthenware Tiles (Smooth and Unglazed)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210192657-9781683507680-the-money-man/"><u>The Money Man | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-gas-station-simulator-from-crashing-on-windows/"><u>Troubleshooting Guide: How to Stop 'Gas Station Simulator' From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-assassins-creed-origins-crash-issues/"><u>Ultimate Guide: Solving Assassin's Creed Origins Crash Issues</u></a></li>
 </ul></div>
 

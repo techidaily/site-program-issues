@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Users Unable to Access Discord Application
-date: 2024-10-31T20:43:36.053Z
-updated: 2024-11-07T02:17:54.257Z
+date: 2024-11-15T02:04:35.627Z
+updated: 2024-11-17T07:11:07.906Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -44,13 +57,6 @@ Here is how to verify the integrity of Dauntless:
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
@@ -64,13 +70,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -86,6 +85,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -98,6 +104,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -107,10 +120,16 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -139,22 +158,15 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -186,18 +198,16 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-through-facebooks-recent-content-policy-shifts/"><u>[Updated] Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/6-quick-tricks-to-revive-your-blacked-out-oculum-link-connection/"><u>6 Quick Tricks to Revive Your Blacked-Out Oculum Link Connection</u></a></li>
-<li><a href="https://win-tips.techidaily.com/affordable-access-obtain-your-microsoft-project-and-visio-professional-licenses-today-just-20-on-zdnet/"><u>Affordable Access: Obtain Your Microsoft Project & Visio Professional Licenses Today - Just $20 on ZDNet!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-examination-unveiling-the-performance-of-googles-latest-smartphone-pixel-e6/"><u>Comprehensive Examination: Unveiling the Performance of Google's Latest Smartphone, Pixel E6</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-walkthrough-for-bulk-tiktok-download/"><u>Comprehensive Walkthrough for Bulk TikTok Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-for-persistent-valheim-crashes-on-windows-and-mac-systems/"><u>Effective Remedies for Persistent Valheim Crashes on Windows and Mac Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-for-addressing-overwatch-2s-pc-stability-problems/"><u>Ensuring Smooth Gameplay: Strategies for Addressing Overwatch 2'S PC Stability Problems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/flawless-visual-shifts-for-filmmakers/"><u>Flawless Visual Shifts for Filmmakers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-pc-mic-functionality-in-rec-room-updated/"><u>Guide to Restoring PC Mic Functionality in Rec Room [Updated ]</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-camon-30-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Camon 30 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overwatch-wont-launch-fixed/"><u>Overwatch Won't Launch [FIXED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rekindling-the-audio-effective-solutions-to-silence-problems-in-evil-genius-2/"><u>Rekindling the Audio: Effective Solutions to Silence Problems in Evil Genius 2</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cutting-edge-recording-gear-the-ultimate-voice-recorders-2023/"><u>[New] 2024 Approved Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-realms-united-identifying-the-7-best-strategy-rivals/"><u>2024 Approved Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024s-top-selection-of-smart-key-finders-reviewed/"><u>2024'S Top Selection of Smart Key Finders Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-water-management-ensures-that-crops-receive-adequate-moisture-with-minimal-waste-preventing-erosion-and-nutrient-runoff-which-are-essential-for-th588/"><u>Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-instant-access-the-ultimate-guide-to-validity-fingerprint-scanner-drivers/"><u>Get Instant Access: The Ultimate Guide to Validity Fingerprint Scanner Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-mordhau-game-crashes-effective-troubleshooting-steps/"><u>Resolving Mordhau Game Crashes: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-how-to-get-your-discord-application-running-smoothly-again/"><u>Solving the Issue: How to Get Your Discord Application Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-your-call-of-duty-warzone-from-crashing/"><u>Troubleshooting Guide: How to Stop Your Call of Duty Warzone From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-overcome-hitman-3-connectivity-errors/"><u>Troubleshooting Steps to Overcome Hitman 3 Connectivity Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-epson-xp-420-drivers-direct-download-links-available-here/"><u>Update Your Epson XP-420 Drivers - Direct Download Links Available Here!</u></a></li>
 </ul></div>
 

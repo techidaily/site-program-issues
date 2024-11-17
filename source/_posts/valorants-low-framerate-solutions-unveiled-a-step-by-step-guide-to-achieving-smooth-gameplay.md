@@ -1,7 +1,7 @@
 ---
 title: "Valorant's Low Framerate Solutions Unveiled: A Step-by-Step Guide to Achieving Smooth Gameplay"
-date: 2024-11-05T00:43:24.994Z
-updated: 2024-11-06T16:28:15.212Z
+date: 2024-11-09T18:51:31.105Z
+updated: 2024-11-17T09:57:17.823Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
@@ -85,35 +78,14 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -126,25 +98,11 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
@@ -155,17 +113,31 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the lagging issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set the game process priority to high
@@ -197,10 +169,31 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -217,10 +210,10 @@ Here’s how to do it:
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -232,6 +225,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Lower in-game settings
 
@@ -261,22 +261,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/smr-sound-mastery-selecting-the-ideal-microphone-for-2024/"><u>[New] ASMR Sound Mastery Selecting the Ideal Microphone for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-reimagining-your-message-innovative-video-concepts/"><u>[New] In 2024, Reimagining Your Message Innovative Video Concepts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-secure-footage-leading-stabilizers-on-youtube/"><u>[New] In 2024, Secure Footage Leading Stabilizers on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-boost-image-size-retain-resolution/"><u>[Updated] Boost Image Size, Retain Resolution</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-seamless-audiovisual-mixes-in-audacity/"><u>[Updated] Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-updating-hp-officejet-pro-6970-windows-drivers/"><u>Complete Guide to Downloading & Updating HP OfficeJet Pro 6970 Windows Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 15 Pro | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy Z Flip 5 ?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-mfs-xbox-series-xs-how-to-fix-dev-error-6068-and-enhance-your-gaming-experience/"><u>Mastering MFS Xbox Series X/S: How to Fix Dev Error 6068 and Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-cod-warzone-tips-to-enhance-frame-rate-and-eliminate-stuttering/"><u>Optimizing Performance in COD: Warzone - Tips to Enhance Frame Rate and Eliminate Stuttering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-errors-for-a-successful-launch-of-evil-genius-2/"><u>Overcoming Errors for a Successful Launch of Evil Genius 2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/refreshing-your-zoom-app-a-comprehensive-walkthrough-for-windows-and-macs/"><u>Refreshing Your Zoom App – A Comprehensive Walkthrough for Windows & Macs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-activating-call-of-duty-black-ops-4/"><u>RESOLVED: Troubleshooting Steps for Activating Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-browsing-restored-the-ultimate-strategies-for-resolving-flickering-glitches-in-google-chrome-on-windows-computers-2024-edition/"><u>Seamless Browsing Restored: The Ultimate Strategies for Resolving Flickering Glitches in Google Chrome on Windows Computers - 2024 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixing-the-issue-when-stardew-valley-doesnt-start/"><u>Solved: Fixing the Issue When Stardew Valley Doesn't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-non-functional-thaumaturge-feature/"><u>Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-game-breaking-crashes-in-football-manager-2022-for-windows-users/"><u>Troubleshooting Tips: Resolving Game-Breaking Crashes in Football Manager 2022 for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-luminous-color-corrector-kit/"><u>[New] Luminous Color Corrector Kit</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-detailed-examination-of-djis-latest-uav-inspire-1/"><u>[Updated] Detailed Examination of DJI's Latest UAV, Inspire 1</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>2024 Approved Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-of-pc-gaming-raider-ge78-review-highlights/"><u>Apex of PC Gaming: Raider GE78 Review Highlights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-zoom-the-intricacies-of-iphone-xs-lens-tech-for-2024/"><u>Beyond Zoom The Intricacies of iPhone X's Lens Tech for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-roadblocks-in-forza-horizon-5-a-guide-to-fixing-endless-startup-loads/"><u>Clearing Roadblocks in Forza Horizon 5: A Guide to Fixing Endless Startup Loads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996122488-effortless-ways-to-stop-control-crashes-and-boost-productivity/"><u>Effortless Ways to Stop 'Control Crashes' And Boost Productivity!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-get-your-lucidsound-ls30-mic-up-and-running-again/"><u>How To Get Your LucidSound LS30 Mic Up and Running Again</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers/"><u>In 2024, Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-engineering-an-emotional-movie-segment/"><u>In 2024, Engineering an Emotional Movie Segment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-immediate-resolution-of-your-fortnite-account-login-problems/"><u>Quick Solutions for Immediate Resolution of Your Fortnite Account Login Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-vr-undetected-discover-these-6-essential-fixes/"><u>Steam VR Undetected? Discover These 6 Essential Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-to-prevent-rainbow-six-extraction-from-freezing-or-crashing-on-pc-setup/"><u>Tips and Tricks to Prevent Rainbow Six Extraction From Freezing or Crashing on PC Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transformative-impact-of-apple-vision-pro-on-businesses-insights-from-top-enterprises-rebooting-operations/"><u>Transformative Impact of Apple Vision Pro on Businesses: Insights From Top Enterprises Rebooting Operations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-fallout-3-failure-to-load-problems-expert-strategies-for-game-loading/"><u>Troubleshoot Fallout 3 Failure to Load Problems - Expert Strategies for Game Loading</u></a></li>
 </ul></div>
 

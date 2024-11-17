@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issues: Troubleshooting Steps for FIFA 19 Game Crashes on Windows Machines"
-date: 2024-10-30T23:11:05.898Z
-updated: 2024-11-06T23:27:06.346Z
+date: 2024-11-13T08:03:01.393Z
+updated: 2024-11-16T21:14:49.369Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -65,23 +72,9 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -101,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -120,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  Alternatively, if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
@@ -149,6 +149,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -156,10 +163,10 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
@@ -174,13 +181,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -192,6 +192,13 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -206,13 +213,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
@@ -246,14 +246,16 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-full-screen-in-obs-no-more-worry-for-2024/"><u>[New] Full Screen in Obs, No More Worry for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002331287-solved-pubg-stuttering-quickly-and-easily/"><u>[Solved] PUBG Stuttering | Quickly & Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993273408-bioshock-2-ultimate-hd-revisit-updated-fixes-and-enhancements/"><u>BioShock 2: Ultimate HD Revisit - Updated Fixes and Enhancements!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2020-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2020) iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012746206-lost-ark-pc-freezing-issues-discover-proven-fixes/"><u>Lost Ark PC Freezing Issues? Discover Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-guide-optimize-your-dayz-looting-techniques/"><u>Quick Guide: Optimize Your DayZ Looting Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-the-dead-space-reboot-starting-issue-2024-tips-and-solutions/"><u>Ultimate Fixes for the Dead Space Reboot Starting Issue - 2024 Tips & Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-enhance-your-beats-free-luts-galore-on-mini-and-air-series/"><u>[New] In 2024, Enhance Your Beats - Free LUTS Galore on Mini & Air Series</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>[New] Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launching-challenges-with-helldivers-2-on-steam/"><u>How to Overcome Launching Challenges with Helldivers 2 on Steam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-apex-artistry-best-portable-machines-for-uhd-filmmaking/"><u>In 2024, Apex Artistry Best Portable Machines for UHD Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-smoothly-transition-sounds-with-audition/"><u>In 2024, How to Smoothly Transition Sounds with Audition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-personalize-your-channel-with-free-pics/"><u>In 2024, Personalize Your Channel With Free Pics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-blank-screens-effective-solutions-for-overwatch-startup-issues/"><u>Overcoming Blank Screens: Effective Solutions for Overwatch Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009584521-pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-perks-for-your-gopro-camera/"><u>Premier Perks for Your GoPro Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-sound-in-evil-genius-2-troubleshooting-guide/"><u>Restore Sound in Evil Genius 2 - Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-no-more-crashing-in-star-wars-squadrons-expert-tips-unveiled/"><u>Troubleshooting Complete: No More Crashing in Star Wars: Squadrons - Expert Tips Unveiled</u></a></li>
 </ul></div>
 

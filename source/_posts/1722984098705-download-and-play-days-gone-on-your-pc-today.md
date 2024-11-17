@@ -1,7 +1,7 @@
 ---
 title: Download and Play 'Days Gone' On Your PC Today!
-date: 2024-08-23T17:27:29.984Z
-updated: 2024-08-24T17:27:29.984Z
+date: 2024-11-14T09:42:44.827Z
+updated: 2024-11-17T00:37:50.146Z
 tags:
   - win11
   - win10
@@ -75,13 +75,17 @@ However, if this didn’t help, proceed to the next fix.
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**CONFIRM** .  
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
 **CHROMATIC ABERRATION:** OFF  
@@ -105,8 +109,18 @@ However, if this didn’t help, proceed to the next fix.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -128,19 +142,42 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Disable fullscreen optimizations
 
  Many gamers found that there are certain CPU demanding games that are particularly affected by low FPS issues when enabling fullscreen optimizations. Although Days Gone might not be one of them, you can actually attempt to disable fullscreen optimizations to check if this helps improve your gaming experience:
@@ -149,9 +186,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the**Compatibility** tab. Check the box**Disable fullscreen optimizations** . Then click**Change high DPI settings** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-fullscreen-optimization.jpg)
@@ -164,10 +198,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this didn’t make a difference, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Customize graphics performance preference
 
@@ -177,9 +215,6 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference ](https://images.drivereasy.com/wp-content/uploads/2021/05/display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Scroll down and find**Graphics settings** and click on it.  
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-from-display.jpg)
@@ -188,16 +223,10 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Then open your game’s installation folder. (Usually in C:Days goneDays GoneBendGameBinariesWin64) Click on**DaysGone.exe** and click**Add** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Options** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
@@ -206,9 +235,6 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After saving the changes, launch Days Gone and check if it helped.
 
 ## 7\. Disable background apps
@@ -222,20 +248,18 @@ After saving the changes, launch Days Gone and check if it helped.
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/privacy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Background apps** . Under the section**Let apps run in the background** , toggle the button to turn it**Off** .  
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Now launch Days Gone and check it can help fix the low frame rate.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Disable Windows 10 Game Mode
 
  Game Mode is a feature introduced to Windows 10 to make gaming a much better experience. But many PC gamers have noticed that with Game Mode enabled, performance issues such as poorer frame rates, stutters and freezes would arise. To prevent these from happening, you can follow the steps below to turn off Game Mode:
@@ -246,13 +270,17 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
 ![disable Windows 10 game mode](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you’ve done this, you should be able to get a noticeable improvement.
 
 ---
@@ -265,8 +293,6 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +300,19 @@ Now launch Days Gone and check it can help fix the low frame rate.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-stickers-full-tutorial-for-turning-gifs-in-chat-apps-like-discord-and-telegram/"><u>2024 Approved Journey to Stickers Full Tutorial for Turning GIFs in Chat Apps Like Discord and Telegram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-your-video-subtitle-skills-using-these-top-online-aids-for-2024/"><u>Boost Your Video Subtitle Skills Using These Top Online Aids for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-stability-for-spellbreak-on-pc-troubleshooting-guide/"><u>Enhance Stability for Spellbreak on PC: Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-novice-to-pro-creating-impressive-fb-covers/"><u>From Novice to Pro Creating Impressive FB Covers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-achieving-perfect-picture-quality-on-zoom/"><u>In 2024, Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y02t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y02T</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-ultra-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Ultra? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-minecraft-game-crashes-our-6-step-fix-plan/"><u>Say Goodbye to Minecraft Game Crashes: Our 6-Step Fix Plan</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-virtual-aviation-experience-resolving-persistent-crashes-in-mfs-2020-for-windows-users/"><u>Stabilize Your Virtual Aviation Experience: Resolving Persistent Crashes in MFS 2020 for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-cod-black-ops-cold-war-not-boot-error-on-your-desktop/"><u>Step-by-Step Guide to Resolve Cod: Black Ops Cold War Not Boot Error on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998229888-the-ultimate-guide-to-starting-age-of-empires-iv-without-a-glitch/"><u>The Ultimate Guide to Starting Age of Empires IV Without a Glitch!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-the-overwatch-2-launch-issue-problems-resolved/"><u>Top 7 Solutions to the Overwatch 2 Launch Issue : Problems Resolved</u></a></li>
+</ul></div>
 

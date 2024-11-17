@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-11-05T17:23:23.750Z
-updated: 2024-11-06T18:20:04.463Z
+date: 2024-11-13T02:45:36.063Z
+updated: 2024-11-17T01:55:10.537Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -63,16 +70,10 @@ FIFA 20 DirectX Error
 ---
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Unplug ccontrollers
@@ -92,26 +93,13 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -137,13 +125,6 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -174,6 +155,13 @@ Here is how to do it:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
@@ -206,24 +194,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-free-tools-roundup-leading-online-video-capture-tech-for-2024/"><u>[New] Free Tools Roundup Leading Online Video Capture Tech for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-stand-out-on-youtube-with-these-20-top-font-choices/"><u>[New] In 2024, Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[Updated] In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-creative-backgrounds-for-engaging-thumbnails/"><u>2024 Approved Creative Backgrounds for Engaging Thumbnails</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-into-the-full-screen-era-for-fb-video-viewing/"><u>2024 Approved Step Into the Full-Screen Era for FB Video Viewing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-solution-guide-turning-xml-and-ttml-into-srt-for-2024/"><u>Comprehensive Solution Guide Turning XML & TTML Into SRT for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-acrocefexe-program-malfunction/"><u>Effective Solutions for Resolving AcroCEF.exe Program Malfunction</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-resolving-camera-connectivity-problems-on-your-device-running-snap-apps/"><u>Guide: Resolving Camera Connectivity Problems on Your Device Running Snap Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-strategizing-with-snapshots-a-guide-to-instagram-video-marketing/"><u>In 2024, Strategizing with Snapshots A Guide to Instagram Video Marketing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maintain-a-consistently-professional-demeanor-when-dealing-with-difficult-or-dissatisfied-customers-demonstrating-empathy-while-providing-solutions-in-line-505/"><u>Maintain a Consistently Professional Demeanor when Dealing with Difficult or Dissatisfied Customers, Demonstrating Empathy While Providing Solutions in Line with Our Company Policies and Procedures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-no-more-frozen-frames-in-warframe/"><u>Overcoming Gameplay Disruptions: No More Frozen Frames in Warframe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-pc-malfunction-in-elite-dangerous-tips-for-smooth-gaming-experience/"><u>Overcoming the PC Malfunction in Elite Dangerous - Tips for Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-itunes-connection-issues-with-iphone-on-microsofts-latest-os-windows-11/"><u>Resolving iTunes Connection Issues with iPhone on Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988454128-the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-realme-c51-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Realme C51 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002065939-trouble-launching-call-of-duty-modern-warfare-2-here-are-solutions/"><u>Trouble Launching Call of Duty: Modern Warfare 2? Here Are Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-eradicating-permanent-image-issues-from-your-display/"><u>Ultimate Guide: Eradicating Permanent Image Issues From Your Display</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastery-in-momentum-regaining-erased-reddit-posts-for-2024/"><u>[New] Mastery in Momentum Regaining Erased Reddit Posts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-million-view-achievement-and-its-monetary-benefit/"><u>[Updated] Million View Achievement and Its Monetary Benefit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>[Updated] Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-syncing-audiovideo-online-collective/"><u>[Updated] Syncing Audio/Video Online Collective</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-of-media-imports-in-windows-10/"><u>[Updated] Unlocking the Potential of Media Imports in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-repairing-hitman-3s-persistent-connection-failed-glitch/"><u>Expert Advice on Repairing Hitman 3'S Persistent 'Connection Failed' Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-update-or-download-logitech-g403-mouse-drivers-for-optimal-performance-on-your-computer/"><u>How to Update or Download Logitech G403 Mouse Drivers for Optimal Performance on Your Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>In 2024, The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Overcoming Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reviving-retro-gaming-and-pc-building-insights/"><u>Reviving Retro Gaming & PC Building Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-full-disk-utilization-issues-in-windows-10-effective-solutions-explored/"><u>Tackling Full Disk Utilization Issues in Windows 10: Effective Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-prevent-star-citizen-crashing-on-your-pc-whats-fixed/"><u>Troubleshoot and Prevent Star Citizen Crashing on Your PC – What's Fixed?</u></a></li>
 </ul></div>
 

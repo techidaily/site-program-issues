@@ -1,7 +1,7 @@
 ---
 title: How to Address and Repair the BOCW User Interface Gaffe (Error 27711)
-date: 2024-10-30T17:35:31.001Z
-updated: 2024-11-06T23:28:42.287Z
+date: 2024-11-11T23:18:14.444Z
+updated: 2024-11-16T18:54:07.230Z
 tags:
   - win11
   - win10
@@ -43,16 +43,16 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the Steam client and start L.A. Noire to check if it works well now. If not, move on to the next fix below.
 
@@ -67,26 +67,26 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
@@ -104,6 +104,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Browse Local Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
@@ -117,16 +124,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Opt out of all beta programs
@@ -142,26 +143,38 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select**NONE – Opt out of all beta programs** from the drop-down menu under Beta participation and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
@@ -175,16 +188,16 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
@@ -205,13 +218,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 **2)** Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
@@ -248,18 +254,15 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-and-relive-essential-win10-game-techniques/"><u>[New] 2024 Approved Capture and Relive Essential Win10 Game Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-guide-to-youtube-video-resolutions-and-aspects/"><u>[New] In 2024, Essential Guide to YouTube Video Resolutions & Aspects</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>[New] Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-video-editing-software-tutorial-for-trimming-and-modifying-clips-in-windows-11/"><u>Free Video Editing Software: Tutorial for Trimming and Modifying Clips in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-firefox-freezing-issues-a-step-by-step-tutorial/"><u>How to Resolve Firefox Freezing Issues: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-escape-from-tarkov-from-frequently-crashing-on-your-computer/"><u>How to Stop 'Escape From Tarkov' From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-software-selection-upload-videos-for-twitter/"><u>In 2024, Premium Software Selection Upload Videos for Twitter</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/es-nook-making-eye-catching-mac-videos-for-youtube-for-2024/"><u>Newbies' Nook Making Eye-Catching Mac Videos for YouTube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-eliminating-latency-problems-in-lol-gameplay/"><u>Solution Guide: Eliminating Latency Problems in LoL Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-minecraft-crashes-a-step-by-step-guide/"><u>Troubleshooting Minecraft Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-for-counter-strike-2-pc-crashes-cs2/"><u>Ultimate Troubleshooting for Counter-Strike 2 PC Crashes (CS2)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-swift-safari-essential-techniques-to-enhance-browser-performance-on-iphones/"><u>Unlocking Swift Safari: Essential Techniques to Enhance Browser Performance on iPhones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/wmv-swf/"><u>WMV から SWFへの強力な無料オンラインコンバータ</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screencaptureapps-recording-your-next-google-meet-for-2024/"><u>[New] ScreenCaptureApps Recording Your Next Google Meet for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-evaluating-screen-recording-vsdc-reviewed-plus-competitors-spotlight-for-2024/"><u>[Updated] Evaluating Screen Recording VSDC Reviewed + Competitors Spotlight for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-spectrum-signatures-filmmakers-guide-to-adjustment-for-2024/"><u>[Updated] Spectrum Signatures Filmmaker's Guide to Adjustment for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-the-world-of-simple-nft-production-techniques/"><u>[Updated] Step Into the World of Simple NFT Production Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-fintes-rugged-laptop-sleeve-designed-for-macbook-pro-13-best-value-protection/"><u>A Comprehensive Review of Finte's Rugged Laptop Sleeve Designed for MacBook Pro (13) - Best Value Protection!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-farming-simulator-22-with-these-fixes/"><u>Overcome Launch Errors in Farming Simulator 22 with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-hurdles-in-madden-20-on-windows-troubleshooting-tips/"><u>Overcoming Compatibility Hurdles in Madden 20 on Windows - Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-google-meet-camera-wont-work-properly/"><u>Quick Fixes for When Your Google Meet Camera Won't Work Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-app/"><u>Resolving 'No Available Camera Input' Error in Snap App</u></a></li>
 </ul></div>
 

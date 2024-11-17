@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Resolving Apex Legends Technical Snags and Crashes
-date: 2024-11-01T18:44:57.508Z
-updated: 2024-11-06T17:44:23.179Z
+date: 2024-11-14T07:07:07.481Z
+updated: 2024-11-17T02:22:10.159Z
 tags:
   - win11
   - win10
@@ -75,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  1\. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl, Shift,**  and **Enter**  on your keyboard at the same time to run Command Prompt as administrator. You will be prompted for permission. Click **Yes** to run**Command Prompt** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
@@ -118,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  3\. Open the browsing history in your browser, then search_<https://accounts.respawn.com/steam\_login.php?securityToken>_ to locate the URL of the page you used when linking your EA and Steam account. Click that URL to open it. Normally, you should see a page like the following:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Click**Sign in through Steam** .
 
@@ -148,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Wait until the verifying process completes.
@@ -159,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -181,32 +174,38 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -218,6 +217,13 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -240,24 +246,24 @@ thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>[New] A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leap-into-instagram-stardom-with-ease/"><u>[New] In 2024, Leap Into Instagram Stardom with Ease</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-uniting-choreography-with-crafted-audio-in-instagram-for-2024/"><u>[New] Uniting Choreography with Crafted Audio in Instagram for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>[Updated] Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-everything-you-need-to-succeed-with-youtube-short-videos/"><u>2024 Approved Everything You Need to Succeed with YouTube Short Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-remove-dull-backgrounds-from-pictures/"><u>2024 Approved Strategies to Remove Dull Backgrounds From Pictures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-uncomplicated-approaches-to-saving-gameplay/"><u>2024 Approved Uncomplicated Approaches to Saving Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-address-rainbow-six-extractions-performance-issues-and-crashes-in-pc-setup/"><u>Comprehensive Tips to Address Rainbow Six Extraction's Performance Issues and Crashes in PC Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-elden-rings-launch-hurdle-a-step-by-estep-guide-to-fixing-the-games-black-screen-glitch/"><u>Conquering Elden Ring's Launch Hurdle: A Step-by-eStep Guide to Fixing the Game's Black Screen Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-overcoming-the-csgo-user-logon-error/"><u>Effective Fixes for Overcoming the CSGO User Logon Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-launch-problems-with-your-thaumaturge-on-windows-computers/"><u>Expert Guide: Resolving Launch Problems with Your Thaumaturge on Windows Computers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enable-cyberpunk-2077-graphics-acceleration-in-windows-10/"><u>How to Enable Cyberpunk 2077 Graphics Acceleration in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/manage-your-stress-chronic-stress-may-weaken-your-immune-system-making-you-more-susceptcuable-to-infections-like-utis-consider-trying-relaxation-techniques-597/"><u>Manage Your Stress: Chronic Stress May Weaken Your Immune System, Making You More Susceptcuable to Infections Like UTIs. Consider Trying Relaxation Techniques Such as Meditation, Yoga or Deep Breathing Exercises to Help Manage Stress Levels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fixes-a-step-by-step-guide-to-solve-call-of-duty-warzones-ominous-black-screen-problem-in-2amstagram-year-2024/"><u>Mastering Fixes: A Step-by-Step Guide to Solve Call of Duty Warzone's Ominous Black Screen Problem in 2Amstagram Year 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/play-smoother-than-ever-cyberpunk-2077s-persistent-latency-challenges-fixed/"><u>Play Smoother than Ever: Cyberpunk 2077'S Persistent Latency Challenges Fixed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-f5-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco F5 Pro 5G Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-crashing-on-windows/"><u>Troubleshooting Guide - How To Stop Hell Let Loose From Crashing on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-movie-substitutes-7-recommended/"><u>[Updated] 2024 Approved Discover Movie Substitutes, #7 Recommended</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superb-culmination-for-vr-journeys/"><u>[Updated] Superb Culmination for VR Journeys</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-professional-gamers-showcase-live-recording-in-obs/"><u>2024 Approved Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/"><u>Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-guide-to-configuring-a-new-meta-vr-headset-profile-for-questquest-2/"><u>Beginner's Guide to Configuring a New Meta VR Headset Profile for Quest/Quest 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-fps-and-smooth-out-stutters-ultimate-guide-to-enhancing-fortnite-warzone-performance/"><u>Boost Your FPS & Smooth Out Stutters: Ultimate Guide to Enhancing Fortnite Warzone Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-free-replacements-for-photoshop-here/"><u>Discover the Best Free Replacements for Photoshop Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-performance-fixes-for-mass-effect-legendary-collection-eliminating-frame-drops-and-stutters/"><u>Enhanced Performance Fixes for Mass Effect Legendary Collection: Eliminating Frame Drops & Stutters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-blackwood-delays-in-the-elder-scrolls-online/"><u>Fixing the Blackwood Delays in The Elder Scrolls Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005997024-football-manager-2023-struggling-to-boot-heres-how-you-can-resolve-it/"><u>Football Manager 2023 Struggling to Boot? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-smooth-blocks-solving-freezing-issues-in-pc-version-of-minecraft/"><u>Get Smooth Blocks: Solving Freezing Issues in PC Version of Minecraft</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi K70 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-f25-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo F25 Pro 5G FRP?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-invisible-vibes-dimming-music-on-computers/"><u>In 2024, Invisible Vibes Dimming Music on Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-overcoming-cannot-connect-to-the-server-in-lost-ark/"><u>Mastering the Fix: Overcoming 'Cannot Connect to the Server' In Lost Ark</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/ottimizzazione-del-gestione-dello-spazio-su-un-disco-di-backup-con-lutilizzo-dello-schama-di-backup-di-aomei/"><u>Ottimizzazione Del Gestione Dello Spazio Su Un Disco Di Backup Con L'Utilizzo Dello SCHAMA DI BACKUP Di AOMEI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-on-troubleshooting-and-fixing-gta-v-stutter-issues/"><u>Resolved: Ultimate Guide on Troubleshooting and Fixing GTA V Stutter Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-that-annoying-pixel-dance-easy-fix-for-constant-screen-flashing/"><u>Say Goodbye To That Annoying Pixel Dance - Easy Fix for Constant Screen Flashing</u></a></li>
 </ul></div>
 

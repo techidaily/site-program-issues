@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-11-03T00:38:55.377Z
-updated: 2024-11-06T21:49:28.437Z
+date: 2024-11-11T16:41:40.967Z
+updated: 2024-11-17T03:18:59.633Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ Here is how to reset Winsock data:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:**Close bandwidth hogging applications**
 
  If you’re running other programs like OneDrive, Dropbox or iCloud that use lots of bandwidth, or your family is streaming videos on YouTube or Netflix, Fallout 76 may lose connection from its game server. So you should close these bandwidth hungry apps and services to see if it can fix the**Fallout 76 disconnected from server** issue.
@@ -68,18 +75,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -94,13 +101,6 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -124,23 +124,9 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -161,6 +147,13 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -188,13 +181,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
@@ -212,10 +198,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
@@ -223,10 +209,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
@@ -241,9 +227,23 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -254,10 +254,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
@@ -287,18 +287,18 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-low-cost-cameras-list/"><u>[New] In 2024, The Ultimate Low-Cost Cameras List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-silent-insights-into-improving-visual-elements/"><u>[New] Silent Insights Into Improving Visual Elements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-advanced-method-for-combining-gopro-footage-with-full-spherical-vids-for-2024/"><u>[Updated] Advanced Method for Combining GoPro Footage with Full Spherical Vids for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-smartphone-intro-maker-tools-choosing-the-right-one-for-2024/"><u>[Updated] Smartphone Intro Maker Tools Choosing the Right One for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-tips-for-effective-google-podcast-sharing/"><u>2024 Approved Advanced Tips for Effective Google Podcast Sharing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/affordable-audio-bliss-how-these-spectacular-35-wireless-buds-dominate-the-market-and-why-you-shouldnt-miss-them-spotlight/"><u>Affordable Audio Bliss: How These Spectacular $35 Wireless Buds Dominate the Market and Why You Shouldn't Miss Them – Spotlight</u></a></li>
-<li><a href="https://program-issues.techidaily.com/city-skylines-2-pc-stability-fixes-stop-the-game-from-crashing/"><u>City Skylines 2 PC Stability Fixes: Stop the Game From Crashing!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevated-requirements-alert-is-your-processor-compatible-with-vanguards-updated-system-demands/"><u>Elevated Requirements Alert! Is Your Processor Compatible with Vanguard's Updated System Demands?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-startup-crashes-optimizing-your-system-for-a-smooth-far-cry-6-experience/"><u>Eliminating Startup Crashes: Optimizing Your System for a Smooth Far Cry 6 Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006705526-origin-is-live-again-update-completed-successfully/"><u>Origin Is Live Again - Update Completed Successfully!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-cod-world-at-war-2-error-code-4128-issue/"><u>Resolving the COD: World at War 2 Error Code 4128 Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-conduct-the-dos-and-donts-of-twitch-user-blocks/"><u>Streaming Conduct: The Dos and Don'ts of Twitch User Blocks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-alan-wake-2-crashes/"><u>Ultimate Troubleshooting Guide for Alan Wake 2 Crashes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-peek-inside-how-do-vr-headsets-connect-for-2024/"><u>[New] Peek Inside How Do VR Headsets Connect for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>[New] Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-in-purchasing-pristine-stock-images/"><u>[Updated] 2024 Approved Mastery in Purchasing Pristine Stock Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-phantom-replay-masterclass/"><u>[Updated] In 2024, Phantom Replay Masterclass</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-anonymous-access-to-instagrams-hidden-narratives-device-guide/"><u>2024 Approved Anonymous Access to Instagram's Hidden Narratives Device Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-launch-failure-of-farming-simulator-22-and-get-back-to-cultivating/"><u>How to Fix the Launch Failure of Farming Simulator 22 and Get Back to Cultivating</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-call-of-duty-black-ops-4-solutions-unveiled/"><u>How To Overcome Launch Problems in Call Of Duty: Black Ops 4 - Solutions Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-unveil-full-length-videos-in-yt-for-2024/"><u>How to Unveil Full-Length Videos in YT for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-the-minds-of-machines-palm-2-and-gpt-4-analysis/"><u>Inside the Minds of Machines: PaLM 2 and GPT-4 Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/three-fee-free-methods-for-mixing-audio-in-imovie-projects/"><u>Three Fee-Free Methods for Mixing Audio in iMovie Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-screen-issues-in-persona-5-strikers/"><u>Troubleshooting Guide: Fixing Black Screen Issues in Persona 5 Strikers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2024-11-03T03:01:23.654Z
-updated: 2024-11-06T20:23:59.274Z
+date: 2024-11-11T10:16:55.409Z
+updated: 2024-11-16T22:29:32.656Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
@@ -54,6 +47,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -65,10 +65,10 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
@@ -92,29 +92,16 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -137,22 +124,16 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -177,6 +158,13 @@ If the crashing still happens, continue with the next solution below.
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -205,20 +193,18 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-color-theory-and-how-to-use-it/"><u>[New] Color Theory And How To Use It</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-online-editors-the-essential-guide/"><u>[New] In 2024, Free Online Editors The Essential Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>[New] What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-real-time-action-in-overwatch/"><u>[Updated] 2024 Approved Recording Real-Time Action in Overwatch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-m6-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco M6 Pro 4G without App | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-instructions-configuring-hyper-v-in-the-latest-version-of-windows-windows-11/"><u>Expert Instructions: Configuring Hyper-V in the Latest Version of Windows (Windows 11)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-far-cry-6-game-from-freezing-or-crashing-on-your-pc-solutions-and-tips/"><u>How to Stop Far Cry 6 Game From Freezing or Crashing on Your PC - Solutions & Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi 14 Ultra?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-discord-display-issues-eliminate-the-black-screen-error-when-sharing-your-screen/"><u>Mastering Discord Display Issues: Eliminate the Black Screen Error When Sharing Your Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-difficulties-with-call-of-duty-black-ops-cold-war-on-personal-computers/"><u>Overcoming Launch Difficulties with Call of Duty: Black Ops Cold War on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-what-to-do-when-your-qbittorent-freezes/"><u>Resolving Issues: What to Do When Your qBittorent Freezes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-resource-on-how-netflix-is-revolutionizing-home-entertainment-services/"><u>The Comprehensive Resource on How Netflix Is Revolutionizing Home Entertainment Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-pc-launch-issues-with-valorant-updated-guide-for-202/"><u>The Ultimate Fixes for PC Launch Issues with Valorant - Updated Guide for 202</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/whatsapp-status-now-with-symphony-for-2024/"><u>WhatsApp Status, Now with Symphony for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-dragon-age-origins-keep-freezing-in-windows-10-heres-the-solution/"><u>Why Does Dragon Age: Origins Keep Freezing in Windows 10? Here's the Solution!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>[New] 2024 Approved Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-livescreen-capture-halt-guidebook/"><u>[New] LiveScreen Capture Halt Guidebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-crafting-for-the-modern-youtube-creator/"><u>[Updated] Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-maplestory-disruptions-effective-fixes-for-windows-10-users/"><u>Avoiding MapleStory Disruptions: Effective Fixes for Windows 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-issues-resolved-fixes-and-updates/"><u>CoD Vanguard PC Issues Resolved : Fixes and Updates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/evaluating-photoshop-sway-effective-or-not/"><u>Evaluating Photoshop Sway Effective or Not?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-total-war-three-kingdoms-game-crash-problem/"><u>Fixing the Total War: Three Kingdoms Game Crash Problem</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-fix-popcorn-movie-app-issues-with-apple-tv-no-more-streaming-problems-using-5kplayer/"><u>How to Fix Popcorn Movie App Issues with Apple TV - No More Streaming Problems Using 5KPlayer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-k11-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo K11 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-persistent-issues-with-dread-hungers-performance-on-windows-machines/"><u>Overcoming Persistent Issues with Dread Hunger's Performance on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-5-strikers-banish-your-pc-game-crashing-woes-for-an-uninterrupted-adventure/"><u>Persona 5 Strikers - Banish Your PC Game Crashing Woes for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-ensuring-uninterrupted-gameplay-of-watch-dogs-legion-on-your-pc/"><u>Troubleshooting Success: Ensuring Uninterrupted Gameplay of Watch Dogs: Legion on Your PC</u></a></li>
 </ul></div>
 

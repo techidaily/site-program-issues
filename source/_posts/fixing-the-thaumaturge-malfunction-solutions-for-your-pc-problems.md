@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2024-11-03T02:20:30.416Z
-updated: 2024-11-06T16:12:00.826Z
+date: 2024-11-14T01:46:21.722Z
+updated: 2024-11-17T06:05:37.879Z
 tags:
   - win11
   - win10
@@ -35,15 +35,22 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -57,29 +64,22 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -98,16 +98,10 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -138,13 +132,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -153,15 +140,28 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
@@ -188,22 +188,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>[New] In 2024, From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-dji-flight-pattern-review-phantom-3/"><u>[Updated] In 2024, DJI Flight Pattern Review - Phantom 3</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streaming-galore-top-nine-game-portals/"><u>[Updated] Streaming Galore Top Nine Game Portals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-what-makes-vegaspro-2019-stand-out-an-examination/"><u>2024 Approved What Makes VegasPro 2019 Stand Out? An Examination</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-tribes-of-midgard-from-crashing-down/"><u>Effective Solutions for Preventing Tribes of Midgard From Crashing Down</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-cyber-threats-in-the-push-for-green-energy-understanding-the-security-challenges/"><u>Emerging Cyber Threats in the Push for Green Energy: Understanding the Security Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixes for 'Black Screen' Problems in Magic: The Gathering Online Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-a79-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of A79 5G?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-launch-dota-navigate-around-a-stuck-loading-screen-and-get-back-into-gameplay/"><u>How to Successfully Launch Dota Navigate Around a Stuck Loading Screen and Get Back Into Gameplay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-repairing-non-responsive-intel-graphics-drivers-and-support-tools/"><u>Optimizing Performance: Repairing Non-Responsive Intel Graphics Drivers and Support Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit-for-2024/"><u>Pro Tips for Crafting & Sharing Content on Reddit for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-kiln-should-be-loaded-with-care-ensuring-tiles-do-not-touch-each-other-and-theres-enough-space-for-heat-circulation/"><u>The Kiln Should Be Loaded with Care, Ensuring Tiles Do Not Touch Each Other and There's Enough Space for Heat Circulation.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-to-eliminate-lag-and-stutter-in-your-cyberpunk-2077-gameplay/"><u>Troubleshooting Complete: How to Eliminate Lag & Stutter in Your Cyberpunk 2077 Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminate-lag-and-stutter-when-enjoying-assassins-creed-odyssey-pc-edition/"><u>Ultimate Guide: Eliminate Lag and Stutter When Enjoying Assassin's Creed Odyssey (PC Edition)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-my-beat-saber-experience-frequent-interruptions-fix-now/"><u>Why Does My Beat Saber Experience Frequent Interruptions? Fix Now!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6s-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6s?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-creating-eastern-villas-in-the-virtual-realm/"><u>[New] 2024 Approved Creating Eastern Villas in the Virtual Realm</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-novices-guide-to-selecting-key-gopro-enhancements/"><u>[New] A Novice's Guide to Selecting Key GoPro Enhancements</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-safe-surveillance-strategies-blurring-sensitive-content-for-2024/"><u>[New] Safe Surveillance Strategies Blurring Sensitive Content for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-music-enhanced-imagery-web-edition/"><u>2024 Approved Music-Enhanced Imagery Web Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram/"><u>2024 Approved Smooth Streams Combining a Multitude of Images & Videos for Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/actor-rights-free-movie-downloads-license/"><u>Actor Rights Free Movie Downloads License</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/animatedapp-full-guide-24-edition-for-2024/"><u>AnimatedApp Full Guide '24 Edition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-patch-update-corrects-ui-flaw-error-id-2711/"><u>Black Ops Cold War Patch Update Corrects UI Flaw, Error ID 27^11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-overcoming-frames-per-second-drops-in-splitgate/"><u>Boost Your Gaming Experience: Overcoming Frames Per Second Drops in Splitgate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013430824-breaking-news-finally-la-noire-releases-for-windows-and-mac-users/"><u>Breaking News: Finally, LA Noire Releases for Windows and Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-solving-elex-ii-constant-freezing-and-crashes-on-pc/"><u>Comprehensive Guide to Solving Elex II Constant Freezing and Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-age-of-empires-iv-up-and-running-a-guide-to-fix-installation-problems/"><u>Getting Age of Empires IV Up and Running - A Guide to Fix Installation Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-and-shutdowns-in-starfield-while-playing-on-a-personal-laptopdesktop/"><u>How to Fix Freezing and Shutdowns in Starfield While Playing on a Personal Laptop/Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-issues-with-monster-hunter-stories-2-wings-of-ruin-solutions-and-help/"><u>Overcoming Launch Issues with Monster Hunter Stories 2: Wings of Ruin - Solutions & Help</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-and-dailymotion-unveiling-core-variations-for-2024/"><u>YouTube & Dailymotion Unveiling Core Variations for 2024</u></a></li>
 </ul></div>
 

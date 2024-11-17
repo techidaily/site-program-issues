@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies to Resolve Terraria's Disconnection Issues
-date: 2024-11-04T21:40:03.736Z
-updated: 2024-11-07T03:33:13.453Z
+date: 2024-11-09T22:11:57.004Z
+updated: 2024-11-17T06:38:44.547Z
 tags:
   - win11
   - win10
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
 If this doesn’t help, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Repair game files
 
@@ -63,9 +63,23 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Click**LOCAL FILES** , then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
 
@@ -79,28 +93,8 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -125,10 +119,10 @@ If this doesn’t solve your problem, move on to the next fix.
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Add the game to the exception list
@@ -139,6 +133,19 @@ If this doesn’t solve your problem, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
@@ -163,23 +170,23 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -190,13 +197,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -205,17 +205,17 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -253,18 +253,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-fast-track-to-find-insta-follower-lapses/"><u>[Updated] 2024 Approved The Fast Track to Find Insta Follower Lapses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eradicate-youtube-stutter-and-stream-smoothly-again/"><u>Eradicate YouTube Stutter and Stream Smoothly Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-foundations-to-frontiers-gpt-versions-explained/"><u>From Foundations to Frontiers: GPT Versions Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-house-flipper-2-crashing-on-pc/"><u>How to Fix House Flipper 2 Crashing on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>In 2024, The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/livestream-titans-clash/"><u>LiveStream Titans Clash</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-apex-legends-effective-fixes-for-error-code-23-bugs/"><u>Mastering Apex Legends: Effective Fixes for Error Code 23 Bugs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/razer-book-13-review-pint-sized-powerhouse/"><u>Razer Book 13 Review: Pint-Sized Powerhouse</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snowrunner-crashing-woes-overcome-master-these-fixes-to-enjoy-uninterrupted-gameplay-on-windows-machines/"><u>Snowrunner Crashing Woes Overcome? Master These Fixes to Enjoy Uninterrupted Gameplay on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-to-prevent-sudden-shutdowns-enhancing-stability-for-state-of-decay-2-players/"><u>Top Strategies to Prevent Sudden Shutdowns: Enhancing Stability for State of Decay 2 Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-a-bright-future-in-halo-infinite-visual-glitches/"><u>Troubleshooting Tips for a Bright Future in Halo Infinite Visual Glitches</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-facebook-refuses-to-fade-away/"><u>Why Facebook Refuses to 'Fade Away'</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-banishing-the-blank-screen-from-youtube-videos/"><u>[New] In 2024, Banishing the Blank Screen From YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/audio-amplification-for-impressive-instagram-reels/"><u>Audio Amplification for Impressive Instagram Reels</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/conveying-cinematic-dreams-through-screenwriting/"><u>Conveying Cinematic Dreams Through Screenwriting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-fifa-21-experience-expert-tactics-to-eliminate-pc-freezing-and-crashing-complete-instructional-guide/"><u>Enhance Your FIFA 21 Experience: Expert Tactics to Eliminate PC Freezing and Crashing - Complete Instructional Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-and-prevent-the-constant-freezing-issue-in-f1-202amoor-a-guide/"><u>Fix & Prevent the Constant Freezing Issue in F1 202Amoor: A Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808369224-fix-desktop-icons-gone-astray-on-windows-11-now-resolved/"><u>Fix Desktop Icons Gone Astray on Windows 11 - Now Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-black-display-problems-in-far-cry-6-a-comprehensive-guide/"><u>Fixing Black Display Problems in Far Cry 6: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-warcraft-3-reforged-from-crashing-on-your-pc-tips-and-tricks/"><u>How to Stop Warcraft 3 Reforged From Crashing on Your PC (Tips & Tricks)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-forgotten-basics-of-instagram-reels-success/"><u>In 2024, The Forgotten Basics of Instagram Reels Success</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v29-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V29 ProFRP Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-call-of-duty-black-ops-4-wont-start-up/"><u>Resolved: Fixes for 'Call of Duty Black Ops 4 Won't Start Up'</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1865632-9781782796862-rising-in-love/"><u>Rising in Love | Free Book</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screenrecording-excellence-in-newsoftvision-10plus-for-2024/"><u>ScreenRecording Excellence in NewSoftVision 10+ for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/seamless-capture-and-share-iphone-to-snapchat-backup-guide/"><u>Seamless Capture & Share IPhone to Snapchat Backup Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-battlefront-2-hacked-beat-error-code-327-with-this-ultimate-fix-tutorial/"><u>Star Wars Battlefront 2 Hacked? Beat Error Code 327 with This Ultimate Fix Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-a-smooth-playthrough-addressing-fortnites-visual-hitches-on-pc/"><u>Top Tips for a Smooth Playthrough: Addressing Fortnite's Visual Hitches on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-iphone-is-ignored-by-itunes-on-windows-11/"><u>Troubleshooting Steps When Your iPhone Is Ignored by iTunes on Windows 11</u></a></li>
 </ul></div>
 

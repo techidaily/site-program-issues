@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront II Performance Issues Resolved - No More Lags
-date: 2024-11-02T04:00:15.317Z
-updated: 2024-11-06T22:22:29.278Z
+date: 2024-11-13T10:15:37.170Z
+updated: 2024-11-16T22:04:53.847Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -90,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
@@ -104,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest DayZ patch
 
  The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -111,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  If a patch is available, just download and install it to see if it can fix the FPS drops issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify the graphics settings
 
@@ -129,46 +136,19 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
@@ -225,18 +205,31 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -245,6 +238,13 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
@@ -274,16 +274,15 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-anonymous-footage-blurring-private-sections-in-video/"><u>2024 Approved Anonymous Footage Blurring Private Sections in Video</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/auditory-revolution-at-your-feet-with-klipschs-flexus-200/"><u>Auditory Revolution at Your Feet with Klipsch’s Flexus 200</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-13c-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi 13C to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gamer-gold-grindings-pewdiepies-profit-profile-for-2024/"><u>Gamer Gold Grindings PewDiePie's Profit Profile for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-and-prevent-euro-truck-simulator-2-from-crashing-on-your-computer/"><u>How to Repair and Prevent Euro Truck Simulator 2 From Crashing on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-alan-wake-2-from-crashing-essential-fixes-and-advice-for-players/"><u>How to Stop Alan Wake 2 From Crashing: Essential Fixes and Advice for Players</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x9b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X9b</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/make-your-followers-go-wow-how-to-create-engaging-stop-motion-videos-on-instagram-for-2024/"><u>Make Your Followers Go Wow How to Create Engaging Stop Motion Videos on Instagram for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005915242-overcoming-obs-recording-troubles-successfully-captured/"><u>Overcoming OBS Recording Troubles – Successfully Captured!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-humanity-fails-to-take-off-an-in-depth-look/"><u>Troubleshooting Steps When Humanity Fails to Take Off - An In-Depth Look</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-transition-from-youtube-to-instagram-reels/"><u>[New] In 2024, Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-game-capture-in-the-latest-windows-11/"><u>[Updated] Navigating Game Capture in the Latest Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-common-steam-issue-cant-link-with-local-steam-software/"><u>Fixing the Common Steam Issue: Can't Link With Local Steam Software?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium.</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-small-scale-transportation-significant-dates-breaking-news-and-undercover-trends/"><u>Navigating the World of Small Scale Transportation: Significant Dates, Breaking News & Undercover Trends</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/save-and-enjoy-nba-matches-anywhere-easy-steps-for-downloading-videos-as-mp4-mov-avi-flv-wmv-or-mkv/"><u>Save & Enjoy NBA Matches Anywhere: Easy Steps for Downloading Videos as MP4, MOV, AVI, FLV, WMV or MKV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-high-latency-in-bless-unleashed-steps-to-reduce-lag-and-improve-pc-performance/"><u>Solving High Latency in Bless Unleashed: Steps to Reduce Lag and Improve PC Performance</u></a></li>
 </ul></div>
 

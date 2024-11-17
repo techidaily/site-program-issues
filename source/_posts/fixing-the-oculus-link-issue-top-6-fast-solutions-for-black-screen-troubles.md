@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Oculus Link Issue: Top 6 Fast Solutions for Black Screen Troubles"
-date: 2024-08-23T17:30:31.631Z
-updated: 2024-08-24T17:30:31.631Z
+date: 2024-11-16T04:46:19.338Z
+updated: 2024-11-17T00:33:24.858Z
 tags:
   - win11
   - win10
@@ -44,31 +44,29 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your Steam client and games
 
  Before using the Remote Play feature, make sure your Steam client is updated. It can be a prerequisite to use the feature smoothly. Although most of the time, it will automatically download an update if there’s one available, you can always update it manually by selecting the**Steam** tab and click**Check for Steam Client Updates** .  
   
 ![check for Steam client updates](https://images.drivereasy.com/wp-content/uploads/2020/10/update-Steam-client.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  After you’ve updated your Steam client, also make sure that you have your game updated. An update would most possibly fix some known bugs, which can guarantee a better gaming experience.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your drivers
 
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
@@ -87,23 +85,23 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, try connecting to your remote computer to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Disable hardware encoding
 
@@ -113,10 +111,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
@@ -125,12 +119,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now try reconnecting your device to check if the issue persists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
 
@@ -138,28 +136,33 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
@@ -173,9 +176,6 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -189,18 +189,35 @@ To set a static IP address, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To check them, you can:
 
 * Right-click on the Start button and select**Windows PowerShell (Admin)** .  
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -218,6 +235,13 @@ To check them, you can:
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve set a static IP address, try connecting to your devices to check if it works.
 
 ---
@@ -232,8 +256,6 @@ To check them, you can:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +263,18 @@ To check them, you can:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-real-time-unfollowers-detection-on-insta/"><u>[New] In 2024, Real-Time Unfollowers Detection on Insta</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-viewer-count-challenge-worldwide-youtuber-leaders-for-2024/"><u>[New] The Ultimate Viewer Count Challenge Worldwide YouTuber Leaders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-troubleshoot-non-loading-twitch-broadcasts-7-fixed-tips/"><u>Effective Ways to Troubleshoot Non-Loading Twitch Broadcasts (7 Fixed Tips)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-addressing-football-manager-2019-crash-issues-without-frustration/"><u>Expert Advice for Addressing Football Manager 2019 Crash Issues Without Frustration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-recurrent-sony-vegas-software-crashes-efficiently/"><u>Fixing Recurrent Sony Vegas Software Crashes Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-store-repair-techniques-error-0x80073d26/"><u>Mastering Microsoft Store Repair Techniques: Error 0X80073D26</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-msi-afterburner-gpu-compatibility-issues-with-windows-11/"><u>Resolving MSI Afterburner GPU Compatibility Issues with Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007350562-troubleshooting-cyberpunk-2077s-surprising-error-2024-expert-tips-inside/"><u>Troubleshooting Cyberpunk 2077'S Surprising Error 2024 - Expert Tips Inside</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-movie-magic-made-simple-a-step-by-step-guide/"><u>Updated 2024 Approved Movie Magic Made Simple A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>Updated In 2024, PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15 Plus</u></a></li>
+</ul></div>
 

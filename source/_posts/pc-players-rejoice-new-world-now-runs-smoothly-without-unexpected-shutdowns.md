@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2024-11-01T22:30:02.770Z
-updated: 2024-11-06T22:06:02.360Z
+date: 2024-11-15T22:14:11.964Z
+updated: 2024-11-17T08:23:57.252Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 7. **[Disable your controller](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your specs
 
  Detroit: Become human is arguably a graphically demanding title. So before you dive into any complicated fixes, first**make sure your rig meets the game requirements** . Because if it doesn’t, maybe it’s time for an upgrade.
@@ -70,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -84,10 +84,10 @@ Here’s an example of how to check the game integrity on Steam:
 3. Wait until the checking to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
@@ -99,13 +99,6 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -131,6 +124,13 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -139,13 +139,6 @@ If this fix failed to solve your issue, please move on to the next one.
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -157,7 +150,21 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -166,10 +173,10 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
@@ -190,19 +197,6 @@ If the crashing reappears, please check out the next fix.
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -229,24 +223,14 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dominant-alternatives-to-game-bars-recorder-functionality/"><u>[New] In 2024, Dominant Alternatives to Game Bar's Recorder Functionality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplify-with-top-10-free-mac-tools-for-screen-recording-for-2024/"><u>[New] Simplify with Top 10 Free Mac Tools for Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[New] Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elevate-your-edits-pro-level-photo-color-techniques/"><u>[Updated] In 2024, Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-cutting-edge-tips-for-drone-video-refining/"><u>2024 Approved Cutting-Edge Tips for Drone Video Refining</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-10-inspirational-hr-journeys-unveiled/"><u>2024 Approved Top 10 Inspirational HR Journeys Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-redmi-13c-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi Redmi 13C.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-seamless-gameplay-with-beyond-light-destiny-2-now-stable-and-optimized-for-pc-players/"><u>Enjoy Seamless Gameplay with BEYOND LIGHT - Destiny 2 Now Stable and Optimized for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-recurring-snowrunner-pc-crash-issues-quickly-and-easily/"><u>Expert Advice: Resolving Recurring SnowRunner PC Crash Issues Quickly and Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hell-let-loose-pc-version-stability-fixes-and-solutions/"><u>Hell Let Loose PC Version Stability: Fixes & Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 14 without Password?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-crashes-on-windows-11-find-solutions-with-our-2023-best-practices/"><u>MapleStory Crashes on Windows 11? Find Solutions with Our 2023 Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides:</u></a></li>
-<li><a href="https://program-issues.techidaily.com/permanent-solution-to-prevent-everspace-2-pc-from-freezing-or-crashing/"><u>Permanent Solution to Prevent Everspace 2 PC From Freezing or Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-resolve-chromes-freezing-issue-on-windows-10/"><u>Quick Solutions: Resolve Chrome's Freezing Issue on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-minecraft-error-codes-a-step-by-step-guide-to-correcting-the-crossbow-issue/"><u>Resolving Minecraft Error Codes: A Step-by-Step Guide to Correcting the Crossbow Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-ps4-from-randomly-freezing-a-beginners-guide/"><u>Step by Step Solutions to Stop PS4 From Randomly Freezing - A Beginner's Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] 2024 Approved YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-virtualblender-for-all-operating-systems/"><u>2024 Approved VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/las-mejores-practicas-para-respaldo-de-correos-electronicos-y-archivos-adjuntos-con-gmail-guia-completa/"><u>Las Mejores Prácticas Para Respaldo De Correos Electrónicos Y Archivos Adjuntos Con Gmail: Guía Completa</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-minecraft-experience-expert-advice-for-resolving-lag-and-hiccups/"><u>Optimize Your Minecraft Experience: Expert Advice for Resolving Lag and Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-sea-of-thieves-not-loading-a-step-by-step-guide/"><u>Solving Sea of Thieves Not Loading - A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-video-vroom-guide-rotating-images-to-gain-insta-momentum/"><u>The Video Vroom Guide Rotating Images to Gain Insta Momentum</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-repair-windows-issues-with-logitechs-configurator-software/"><u>Troubleshoot & Repair Windows Issues with Logitech's Configurator Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-diablo-immortal-still-unavailable-for-desktops/"><u>Why Is Diablo Immortal Still Unavailable for Desktops?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-11-02T16:29:36.641Z
-updated: 2024-11-06T21:32:05.323Z
+date: 2024-11-12T05:12:46.373Z
+updated: 2024-11-17T08:00:06.407Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -53,13 +46,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -75,16 +61,16 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,11 +87,25 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
@@ -114,13 +114,6 @@ There are mainly two ways you can update the graphics driver:
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -137,6 +130,13 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -163,20 +163,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-live-broadcasting-on-instagram/"><u>[New] In 2024, OBS Live Broadcasting on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-best-script-writing-website/"><u>[Updated] Best Script Writing Website</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[Updated] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturecast-unveiling-2023s-best-recording-software/"><u>2024 Approved CaptureCast Unveiling 2023'S Best Recording Software</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-outlining-operational-offshoots/"><u>2024 Approved Outlining Operational Offshoots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-ways-to-fix-an-unresponsive-epic-games-launcher-on-any-device/"><u>Easy Ways to Fix an Unresponsive Epic Games Launcher on Any Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-red-dead-online-keeps-freezing-or-crashing-on-your-pc/"><u>Fixing the Issue: Why Red Dead Online Keeps Freezing or Crashing on Your PC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-defend-against-the-dangers-of-fraudgpt-and-secure-your-digital-safety/"><u>How to Defend Against the Dangers of FraudGPT and Secure Your Digital Safety</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-path-of-exiles-inability-to-connect-with-the-game-server/"><u>How to Fix Path of Exile's Inability to Connect with the Game Server</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-high-fps-on-dying-light-expert-hacks-and-solutions-to-optimize-your-gameplay/"><u>Mastering High FPS on Dying Light: Expert Hacks and Solutions to Optimize Your Gameplay 💥</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-resolution-of-directx-errors-for-a-smooth-run-of-battlefield-2042/"><u>Mastering the Resolution of DirectX Errors for a Smooth Run of Battlefield 2042</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-strategies-to-bypass-and-complete-updates-quickly/"><u>Microsoft Flight Simulator 2020 - Strategies to Bypass and Complete Updates Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-cortana-guided-steps-for-smooth-operation/"><u>Reviving Your Cortana: Guided Steps for Smooth Operation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-protecting-your-privacy-a-curated-list-of-cam-covers/"><u>[New] In 2024, Protecting Your Privacy A Curated List of Cam Covers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tock-strategy-streams-the-most-valuable-online-sources/"><u>[New] Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-nextgen-youtuber-tools-studio-vs-beta-version-for-2024/"><u>[Updated] NextGen YouTuber Tools Studio Vs. Beta Version for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-fixes-for-persistent-black-screen-problems-in-zoom-on-pc/"><u>Complete Fixes for Persistent Black Screen Problems in Zoom on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-a-non-functional-paradox-launcher-a-step-by-step-approach/"><u>Diagnosing & Repairing a Non-Functional Paradox Launcher: A Step-by-Step Approach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-ios-screen-recording-techniques-for-2024/"><u>Effortless iOS Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-bug-squashed-how-to-stop-ue4-madness-and-prevent-unreal-process-crashes/"><u>Outriders Bug Squashed: How to Stop 'UE4-Madness' And Prevent Unreal Process Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-palworld-eos-login-errors-with-these-6-proven-solutions/"><u>Resolving Palworld EOS Login Errors with These 6 Proven Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-steps-to-tackle-kernelbasedll-crashes-effectively/"><u>Simple Steps to Tackle KernelBase.dll Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-driving-awaits-fix-guide-to-get-your-forza-horizon-4-running/"><u>Smooth Driving Awaits: Fix Guide to Get Your Forza Horizon 4 Running</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-optimal-performance-a-guide-to-refreshing-intel-drivers-in-windows/"><u>Unlock Optimal Performance: A Guide to Refreshing Intel Drivers in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-12-setup-guide-for-the-steam-deck-gamer/"><u>Windows 12 Setup Guide for the Steam Deck Gamer</u></a></li>
 </ul></div>
 

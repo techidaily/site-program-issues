@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-11-05T00:12:31.455Z
-updated: 2024-11-06T20:28:19.907Z
+date: 2024-11-12T02:42:53.902Z
+updated: 2024-11-17T01:50:07.985Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -42,8 +49,23 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
@@ -74,14 +96,14 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
- When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 ### Fix 5 – Scan and repair game files
 
@@ -95,20 +117,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -119,21 +134,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -159,22 +160,24 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comprehensive-mac-recorder-plus-audio/"><u>[Updated] In 2024, Comprehensive Mac Recorder Plus Audio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-compreehers-guide-to-srt-file-flexibility-for-2024/"><u>[Updated] The Compreeher’s Guide to SRT File Flexibility for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010200073-experience-days-gone-on-pc-new-release-alert/"><u>Experience Days Gone on PC - New Release Alert!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-how-to-ensure-warzone-utilizes-gpu-resources-in-windows-11/"><u>Fixing: How to Ensure Warzone Utilizes GPU Resources in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-economical-vr-headsets-from-the-east/"><u>In 2024, Economical VR Headsets From the East</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-videography-starter-pack-openers-and-more/"><u>In 2024, Free Videography Starter Pack Openers & More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-launch-issues-resolved-what-you-need-to-know/"><u>MapleStory Launch Issues Resolved - What You Need To Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/multiversus-launching-issues-here-are-proven-fixes-for-players-facing-pc-boot-problems/"><u>MultiVersus Launching Issues? Here Are Proven Fixes for Players Facing PC Boot Problems!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-best-1080p-video-editing-software-of-the-year/"><u>New Edit Like a Pro Best 1080P Video Editing Software of the Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-the-notorious-security-breach-bug-is-now-patched-in-fnaf/"><u>PC Players Rejoice: The Notorious Security Breach Bug Is Now Patched in FNAF!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-unite-conquer-persistent-crashes-during-horizon-forbidden-west-gameplay/"><u>PC Players Unite! Conquer Persistent Crashes During Horizon Forbidden West Gameplay</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-70-lite-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor 70 Lite 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-overcome-unable-to-connect-in-kodi-and-access-directories/"><u>Resolved: How to Overcome 'Unable to Connect' In Kodi and Access Directories</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-cortana-journey-backup-and-restore-guide/"><u>Secure Your Cortana Journey: Backup and Restore Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-call-of-duty-wwii-screen-glitches-on-pc-with-easy-fixes/"><u>Solve Your Call of Duty: WWII Screen Glitches on PC with Easy Fixes!</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-mastering-the-art-of-mkv-stream-playback/"><u>Ultimate Tutorial: Mastering the Art of MKV Stream Playback</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-step-by-step-journey-mac-and-pcs-path-to-tiktok-videos/"><u>[New] A Step-by-Step Journey Mac & PC's Path to TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-level-up-your-farming-life-explore-7-14-mods/"><u>[New] In 2024, Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premium-android-photography-alterations/"><u>[New] Premium Android Photography Alterations</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-hotspot-solutions-for-your-laptop-spotlight-on-topmate-c302/"><u>Budget-Friendly Hotspot Solutions for Your Laptop - Spotlight on TopMate C302</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-persona/"><u>Comprehensive Guide to Fixing Persona</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-windows-users-with-broken-amd-radeon-applications/"><u>Comprehensive Solution for Windows Users with Broken AMD Radeon Applications</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elite-tech-selection-the-15-finest-cameras-for-2024/"><u>Elite Tech Selection – The 15 Finest Cameras for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-wont-start-fixes-for-persistent-loading-screens/"><u>Football Manager 2021 Won't Start: Fixes for Persistent Loading Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-freeing-up-vram-a-guide-to-clearing-video-memory-issues/"><u>Fortnite Freeing Up VRAM: A Guide to Clearing Video Memory Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-broken-taskbar-on-your-windows-11-computer/"><u>How to Repair a Broken Taskbar on Your Windows 11 Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010377946-instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-youtube-content-a-guide-on-crafting-scripts-with-chatgpt/"><u>Mastering the Art of YouTube Content: A Guide on Crafting Scripts with ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210404357-9780799356953-my-pad-met-engele/"><u>My pad met engele | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nvidias-gaming-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Nvidia's Gaming Overlay Not Responding? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-reading-choices-explore-the-best-ai-recommendation-websites-for-your-next-book/"><u>Smart Reading Choices: Explore the Best AI Recommendation Websites for Your Next Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-troublesome-maplestory-boot-problems-ensures-seamless-play/"><u>Solution for Troublesome Maplestory Boot Problems Ensures Seamless Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-fixing-issues-when-your-microsoft-outlook-wont-open/"><u>Step-by-Step Guide: Fixing Issues When Your Microsoft Outlook Won't Open</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-mobile-journaling-applications/"><u>Top 6 Must-Have Mobile Journaling Applications</u></a></li>
 </ul></div>
 

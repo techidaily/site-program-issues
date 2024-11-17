@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2024-11-01T02:33:28.425Z
-updated: 2024-11-06T18:56:59.551Z
+date: 2024-11-16T04:47:30.583Z
+updated: 2024-11-16T20:28:29.983Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1\. End the Resolve process
@@ -58,6 +64,13 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
@@ -67,10 +80,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
@@ -99,16 +112,10 @@ No luck? Don’t worry. We have a few more fixes for you.
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
@@ -124,33 +131,19 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
@@ -179,6 +172,13 @@ No luck? Don’t worry. We have a few more fixes for you.
  In the meantime, you should disable VPN services, such as NordVPN, ExpressVPN.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8\. Allow TCP Network Port Access
 
@@ -223,19 +223,14 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capturing-the-moment-masterful-techniques-for-excellent-edits/"><u>[New] Capturing the Moment Masterful Techniques for Excellent Edits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>[New] Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-second-master-the-techniques-to-avoid-system-crashes-tips/"><u>Alan Wake ^ Second - Master the Techniques to Avoid System Crashes (Tips )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2020-crashes-try-these-proven-methods-for-a-seamless-gaming-experience/"><u>Football Manager 2020 Crashes? Try These Proven Methods for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-release-delayed-heres-how-you-can-play-now/"><u>Football Manager 2022 Release Delayed? Here's How You Can Play Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-past-a-glitch-ultimate-guide-for-thawing-out-stuck-windows-updates/"><u>Getting Past a Glitch: Ultimate Guide for Thawing Out Stuck Windows Updates</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y77t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-gameplay-in-ark-survival-evolved-with-top-notch-fps-enhancements-on-pc/"><u>Maximize Your Gameplay in ARK: Survival Evolved with Top-Notch FPS Enhancements on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-your-among-us-online-talk-a-guide-for-windows-users/"><u>Revive Your 'Among Us' Online Talk: A Guide for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-note-12-pro-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi Note 12 Pro 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-32-complimentary-backup-solutions-your-definitive-guide-and-analysis/"><u>Top 32 Complimentary Backup Solutions: Your Definitive Guide & Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012078915-troubleshoot-and-resolve-football-manager-2021-pc-freezing-problems-easily/"><u>Troubleshoot and Resolve Football Manager 2021 PC Freezing Problems Easily!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-secrets-of-openai-your-ultimate-guide/"><u>Unveiling the Secrets of OpenAI: Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/updating-and-downloading-latest-epson-printer-drivers-for-windows-10-a-comprehensive-guide/"><u>Updating and Downloading Latest Epson Printer Drivers for Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[Updated] First-Time Streamers Unite Learn OBS & Broadcast to Youtube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-syncing-to-capturing-a-complete-itunes-journey/"><u>[Updated] From Syncing to Capturing A Complete iTunes Journey</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>2024 Approved Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-fortnites-stuttering-performance-issues-tips-and-fixes/"><u>Addressing Fortnite's Stuttering Performance Issues: Tips & Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-and-safeguard-periscope-videos-effectively/"><u>Capture & Safeguard Periscope Videos Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-the-dark-initial-display-error-in-elden-ring/"><u>Diagnosing and Solving the Dark Initial Display Error in Elden Ring</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-key-drone-upgrades-and-supplies-for-2024/"><u>The Ultimate Guide Key Drone Upgrades & Supplies for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-the-black-screen-issue-in-zoom-for-desktop-users/"><u>Troubleshoot and Fix the Black Screen Issue in Zoom for Desktop Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-11-and-ghostrunner-overcoming-deadly-game-crashes-with-proven-methods/"><u>Windows 11 and Ghostrunner: Overcoming Deadly Game Crashes with Proven Methods</u></a></li>
 </ul></div>
 

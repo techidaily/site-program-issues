@@ -1,7 +1,7 @@
 ---
 title: How to Stop Halo
-date: 2024-08-23T17:29:51.261Z
-updated: 2024-08-24T17:29:51.261Z
+date: 2024-11-12T21:53:20.548Z
+updated: 2024-11-16T20:28:34.051Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -89,18 +96,23 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Relaunch_Diablo 3_ from the Blizzard Battle.net app.
 
 If your game crashes again, go ahead with the fix below.
@@ -116,6 +128,13 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **Diablo 3 > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **Begin Scan** .
 
@@ -135,10 +154,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  If a patch is available, install it, then run your game again to check whether the crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
@@ -153,9 +168,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-514.png)
@@ -164,9 +176,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-516.png)
@@ -190,31 +199,24 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 8: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Diablo 3_ , keeping it from functioning properly. Try running your game in compatibility mode to see if it fixes your issue. Here is how to do it:
@@ -223,9 +225,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-512.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
@@ -235,8 +234,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
@@ -244,6 +247,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You should be able to play_Diablo 3_ now. If your problem still exists, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or the Blizzard Battle.net app
 
@@ -260,25 +270,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
  Relaunch your game to check if the crashing issue has been resolved. If not, check the fix below.
@@ -289,9 +284,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-441.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
@@ -300,11 +292,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Right-click the**Battle.net app** , then click **Uninstall/Change** .
 
  If you’re prompted about permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
 
@@ -323,8 +329,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -332,4 +336,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-eliminate-audio-problems-in-halo-infinite/"><u>Comprehensive Solutions to Eliminate Audio Problems in Halo Infinite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-capabilities-of-the-usechatgpt-copilot-browser-add-on/"><u>Discovering the Capabilities of the UseChatGPT Copilot Browser Add-On</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sound-in-roblox-games-for-windows-users-windows-1110/"><u>How to Restore Sound in Roblox Games for Windows Users (Windows 11/10)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/insurgency-overcoming-stability-issues-in-the-new-sandstorm-update/"><u>Insurgency: Overcoming Stability Issues in the New Sandstorm Update!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-x90s-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo X90S FRP Without Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/look-up-tables-enhancing-visual-storytelling/"><u>Look-Up Tables Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-5-favorite-free-offline-car-racing-games-of-2024/"><u>Our 5 Favorite Free Offline Car Racing Games of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-overcome-lengthy-boot-time-in-star-wars-battlefront-ii-pc/"><u>Quick Guide to Overcome Lengthy Boot Time in Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-diagnosing-and-repairing-sound-errors-on-windows-10/"><u>Step-by-Step Guide to Diagnosing & Repairing Sound Errors on Windows 10</u></a></li>
+</ul></div>
 

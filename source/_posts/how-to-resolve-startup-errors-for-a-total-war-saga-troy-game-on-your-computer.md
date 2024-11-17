@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve Startup Errors for A Total War Saga: Troy Game on Your Computer"
-date: 2024-08-23T17:30:49.296Z
-updated: 2024-08-24T17:30:49.296Z
+date: 2024-11-12T18:52:16.040Z
+updated: 2024-11-17T09:43:52.299Z
 tags:
   - win11
   - win10
@@ -77,9 +77,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -92,6 +89,13 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run the game, you should give this fix a try.
@@ -100,9 +104,23 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -110,9 +128,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  Chances are the crashing issue has been triggered by a corrupted game file. If that’s indeed the cause, you should attempt to verify the integrity of all the game files, using the built-in tool of Steam, Origin, or Epic Games Launcher.
@@ -127,9 +142,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
@@ -137,9 +149,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -159,8 +174,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
@@ -170,6 +189,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If verifying the integrity of game files didn’t resolve your issue, you should take a stab at Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Close unnecessary programs
 
@@ -199,9 +225,6 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -210,18 +233,12 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Extra Info:**Unreal Engine crashes**
 
  Some players reported that they’ve encountered crashes relating to Unreal Engine and received an error message reading “Unreal Engine is exiting due to D3D device being lost.” If that’s also the problem for you, here are two articles you can refer to:
@@ -244,8 +261,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +268,20 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-recipe-rendezvous-top-30-channels-with-a-taste-for-success/"><u>[Updated] 2024 Approved Recipe Rendezvous Top 30 Channels with a Taste for Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-infographic-lens-on-2017s-youtube-numerical-truths/"><u>[Updated] In 2024, The Infographic Lens on 2017'S Youtube Numerical Truths</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-mac-video-tools-beyond-standard-bandicam/"><u>[Updated] Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elevate-your-videography-on-tiktok-2-ways/"><u>2024 Approved Elevate Your Videography on TikTok (2 Ways)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-issues-and-fixes-for-playing-evil-genius-2/"><u>Common Issues and Fixes for Playing Evil Genius 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-handling-the-asset-not-found-mistake-error-4201-in-genshin-impact/"><u>Expert Advice on Handling the 'Asset Not Found' Mistake (Error #4201) in Genshin Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-black-screen-problem-when-playing-overwatch/"><u>Fixing the Mysterious Black Screen Problem When Playing Overwatch</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-narrative-excellence-with-ai-assistance/"><u>Game Narrative Excellence with AI Assistance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-steams-problems-when-attempting-to-access-its-servers/"><u>How to Resolve Steam's Problems When Attempting to Access Its Servers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-11-pro-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 11 Pro Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-canvass-skin-removal-an-experts-handbook/"><u>Mastering Canvas's Skin Removal An Expert's Handbook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000799950-stop-that-minecraft-outdated-drivers-error-easy-fix-inside/"><u>Stop That 'Minecraft Outdated Drivers' Error! Easy Fix Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tactical-strategies-to-combat-the-0xc0000005-error-code-in-black-ops-cold-war/"><u>Tactical Strategies to Combat the 0xC0000005 Error Code in Black Ops Cold War</u></a></li>
+</ul></div>
 

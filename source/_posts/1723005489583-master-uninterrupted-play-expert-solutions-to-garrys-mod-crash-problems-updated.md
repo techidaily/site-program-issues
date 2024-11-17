@@ -1,7 +1,7 @@
 ---
 title: "Master Uninterrupted Play: Expert Solutions to Garry's Mod Crash Problems - Updated !"
-date: 2024-08-23T17:30:45.788Z
-updated: 2024-08-24T17:30:45.788Z
+date: 2024-11-14T08:36:52.002Z
+updated: 2024-11-17T01:57:42.781Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 5. **[Run the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your PC specs
 
  To troubleshoot the game crashing issue, the very first step is to check your PC specs. If your PC doesn’t meet the game’s minimum system requirements, you may need to upgrade your PC first.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx-display.jpg)
 4. Click**Exit** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After confirming that your device is powerful enough to run the game, move on to the next fix.
 
 ### Fix 2: Repair your system files
@@ -68,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Launch the game again and check if your problem has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -86,11 +101,15 @@ Launch the game again and check if your problem has been resolved.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Click**LOCAL FILES** and select**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Wait a few minutes for Steam to scan and repair game files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check if the crashing issue persists.
 
@@ -106,31 +125,13 @@ If this method gives you no luck, go for the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 4. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If the crashing issue persists after you install the latest graphics driver, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 5: Run the game in DirectX 11 mode
 
  Some players found that running the game in DirectX 11 mode can fix the crashing issue in Five Nights at Freddy’s: Security Breach. As a temporary workaround, you can give it a shot. Here’s how:
@@ -139,14 +140,33 @@ If this method gives you no luck, go for the next fix.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Under the**General** tab, add**\-dx11** to the**LAUNCH OPTIONS** . This will force the game to run in DirectX 11 mode.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. Close the window.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the crashing issue persists, continue with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  The applications running in the background could interfere with your game and cause it to crash at startup. To see if that’s the case, you can perform a clean boot. This will restart your PC with only essential services running, allowing you to figure out the potential conflicting software. Here’s how to do it:
@@ -156,14 +176,16 @@ If the crashing issue persists, continue with the next fix.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
@@ -184,8 +206,6 @@ If the crashing issue persists, continue with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +213,23 @@ If the crashing issue persists, continue with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>[New] Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-lore-of-roguelites-amidst-classic-rpgs/"><u>[New] In 2024, The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-side-by-side-progopro-analysis/"><u>[New] Side by Side ProGoPro Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-storytellers-sanctum-summit-selections/"><u>[New] Storytellers Sanctum – Summit Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-players-guide-fixing-the-infamous-error-code-23-glitch/"><u>Apex Legends Players Guide: Fixing the Infamous Error Code 23 Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-fixes-for-fifa-21-crashing-on-your-computer-in-depth-strategies-and-solutions/"><u>Definitive Fixes for FIFA 21 Crashing on Your Computer - In-Depth Strategies & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-prevent-repeated-crashing-of-immortals-fenyx-rising/"><u>Effective Solutions to Prevent Repeated Crashing of Immortals: Fenyx Rising</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-p55plus-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of P55+ using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>In 2024, 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-k11-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo K11 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-troubleshooting-solving-the-crossbow-error-code-dilemma/"><u>Minecraft Troubleshooting: Solving the Crossbow Error Code Dilemma</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-unsubscription-protocol-for-minecraft-lands/"><u>Post-Unsubscription Protocol for Minecraft Lands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-when-minecraft-wont-start-step-by-step-solution/"><u>Quick Fixes When Minecraft Won’t Start – Step-by-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-soundscape-of-evil-genius-2-a-step-by-step-troubleshooting/"><u>Reviving Soundscape of Evil Genius 2 - A Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essentials-of-joining-xbox-game-pass/"><u>The Essentials of Joining Xbox Game Pass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-logging-into-palworld-with-eos-here-are-six-effective-fixes-to-try/"><u>Trouble Logging Into Palworld with EOS? Here Are Six Effective Fixes to Try!</u></a></li>
+</ul></div>
 

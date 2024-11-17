@@ -1,7 +1,7 @@
 ---
 title: Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again
-date: 2024-11-06T00:34:24.387Z
-updated: 2024-11-06T17:30:50.978Z
+date: 2024-11-14T21:58:23.720Z
+updated: 2024-11-16T17:42:50.019Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 If the game is still crashing, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -106,10 +113,10 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -117,10 +124,10 @@ OR
 4. Relaunch the game and check whether it launch properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -138,23 +145,16 @@ OR
 4. Start rainbow six and Uplay will open and ask to link your account
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then your game will start automatically!
 
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
@@ -164,15 +164,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
 
@@ -181,13 +182,6 @@ OR
 5. Launch Rainbow Six Siege to check.
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Uplay
 
@@ -198,14 +192,21 @@ OR
 2. Set**View in Large icons** and click**Program and Features** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
 4. After uninstalling uPlay. Go to the[Uplay official website](https://uplay.ubisoft.com/en-GB) to download the latest version.
@@ -234,24 +235,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-a-complete-guide-to-premiere-pro-full-scene-preview-for-2024/"><u>[New] A Complete Guide to Premiere Pro Full Scene Preview for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-capturing-the-essence-recording-conversations-on-whatsapp-efficiently/"><u>[New] Capturing the Essence Recording Conversations on WhatsApp Efficiently</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-identifying-the-optimal-cloud-data-vaults/"><u>[New] In 2024, Identifying the Optimal Cloud Data Vaults</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-building-brand-buzz-the-power-of-instagram-story-quizzes/"><u>[Updated] Building Brand Buzz The Power of Instagram Story Quizzes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/core-skills-in-video-and-film-creation/"><u>Core Skills in Video and Film Creation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-continuous-gaming-say-goodbye-to-halo-infinite-freezes/"><u>Effortless Fixes for Continuous Gaming: Say Goodbye to Halo Infinite Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-issues-in-mass-effect-trilogy-legendary-edition/"><u>Fixes for Stuttering Issues in Mass Effect Trilogy - Legendary Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-origin-application-failure-to-launch-in-windows-11/"><u>Fixing the Issue: 'Origin' Application Failure to Launch in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210932836-9781855843721-from-sunspots-to-strawberries/"><u>From Sunspots to Strawberries | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gta-5-stuck-at-logo-screen-discover-fixes-for-game-not-loading/"><u>GTA 5 Stuck at Logo Screen? Discover Fixes for Game Not Loading</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashing-in-aliens-fireteam-elite-for-pc-users/"><u>How to Resolve Continuous Crashing in Aliens: Fireteam Elite for PC Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-audio-visual-harmony-youtube-music-inclusion-guide/"><u>In 2024, The Art of Audio-Visual Harmony YouTube Music Inclusion Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-the-id-cooling-fx360-pro-high-efficiency-and-affordable-cooling-review/"><u>The Ultimate Guide to the ID-Cooling FX360 Pro: High Efficiency & Affordable Cooling – Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-performance-drop-in-forza-horizon-5-on-pc/"><u>Troubleshooting: Resolving Performance Drop in Forza Horizon 5 on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-doom-eternal-game-crashes/"><u>Ultimate Guide: Resolving DOOM Eternal Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-tricks-for-fluid-gameplay-in-the-ascent-enhance-stutter-free-experience-and-elevate-fps/"><u>Ultimate Tricks for Fluid Gameplay in The Ascent – Enhance Stutter-Free Experience & Elevate FPS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unleash-your-stream-potential-on-youtube-with-just-a-handful-of-followers-for-2024/"><u>Unleash Your Stream Potential on YouTube with Just a Handful of Followers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-users-overcome-your-battlenet-launcher-problems-with-these-tips-and-tricks/"><u>Windows Users, Overcome Your Battle.net Launcher Problems with These Tips and Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-capture-dialogue-and-appraise/"><u>[New] In 2024, Capture Dialogue & Appraise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-the-best-6-apps-to-supercharge-your-instagram-reels-for-2024/"><u>[Updated] Discover the Best 6 Apps to Supercharge Your Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-enhancing-podcast-appeal-crafting-effective-intros/"><u>[Updated] Enhancing Podcast Appeal Crafting Effective Intros</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/202/"><u>頂尖族譜網站列表 - 免費或支付功能的選擇：留意 202</u></a></li>
+<li><a href="https://win-answers.techidaily.com/goproandpc/"><u>簡単GoPro動画カット&コンポーズツール：PCとスマホ向け</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-overcoming-dota-2s-vac-lockout/"><u>A Comprehensive Guide: Overcoming Dota 2'S VAC Lockout</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-solving-voice-chat-not-working-due-to-content-warnings/"><u>Comprehensive Guide: Solving 'Voice Chat Not Working' Due to Content Warnings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/counter-strike-2-stuttering-and-dip-in-fps-solutions-for-gamers/"><u>Counter-Strike 2 Stuttering and Dip in FPS Solutions for Gamers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915352909-essential-social-networking-sites-exploring-facebook-twitter-instagram-and-youtube/"><u>Essential Social Networking Sites: Exploring Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-my-dead-hp-monitor-a-complete-solution-breakdown/"><u>How I Fixed My Dead HP Monitor - A Complete Solution Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-constant-freezing-and-crashes-in-ghostwire-tokyo-for-windows-users/"><u>How to Resolve Constant Freezing and Crashes in Ghostwire: Tokyo for Windows Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-crafting-compelling-video-narratives-using-captivate/"><u>In 2024, Crafting Compelling Video Narratives Using Captivate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-on-pc-freeze-up-discover-effective-fixes-now/"><u>Minecraft on PC Freeze-Up? Discover Effective Fixes Now!</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>New 2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-dev-error-6634-comprehensive-guide/"><u>Resolving Call of Duty: Warzone Dev Error 6634 – Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-continuous-glitches-and-crashes-in-assassins-creed-valhalla-on-desktops/"><u>Troubleshooting Guide for Continuous Glitches and Crashes in Assassin's Creed: Valhalla on Desktops</u></a></li>
 </ul></div>
 

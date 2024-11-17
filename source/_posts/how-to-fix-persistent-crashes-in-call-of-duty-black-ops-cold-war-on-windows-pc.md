@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-11-05T00:35:26.407Z
-updated: 2024-11-07T01:29:59.764Z
+date: 2024-11-14T04:00:04.250Z
+updated: 2024-11-17T03:37:58.536Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -45,13 +52,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -85,23 +85,29 @@ OR
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
- If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ### Fix 4: Reinstall your game
 
@@ -113,10 +119,16 @@ OR
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
@@ -142,22 +154,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/new-world-stability-issues-how-to-ensure-your-game-runs-without-interruption-on-windows-or-mac/"><u>'New World' Stability Issues: How to Ensure Your Game Runs Without Interruption on Windows or Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-best-fps-for-smooth-professional-video-recordings/"><u>[Updated] In 2024, The Best FPS for Smooth, Professional Video Recordings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-motion-control-in-vr-keeping-nausea-at-bay/"><u>2024 Approved Motion Control in VR Keeping Nausea at Bay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-frustration-8-effective-ways-to-keep-vrchat-running-smoothly-on-your-desktop/"><u>Avoid Frustration: 8 Effective Ways to Keep VRChat Running Smoothly on Your Desktop</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-navigating-workplace-rules-and-potential-firing-cases/"><u>ChatGPT: Navigating Workplace Rules and Potential Firing Cases</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-free-gaming-with-pathfinder-wrath-of-the-righteeus-updated-fixes-released/"><u>Crash-Free Gaming with Pathfinder: Wrath of the Righteeus Updated Fixes Released</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-the-frequent-pc-freezes-during-your-f1-2021-gaming-sessions/"><u>Expert Advice: Resolving the Frequent PC Freezes During Your F1 2021 Gaming Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-blackout-6-rapid-solutions-for-your-non-functional-oculus-link/"><u>Fixing the Blackout: 6 Rapid Solutions for Your Non-Functional Oculus Link</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-red-dead-redemption-2-graphics-glitch-errgfxstate-resolved/"><u>Fixing the Red Dead Redemption 2 Graphics Glitch: ERR_GFX_STATE Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-with-non-responsive-razer-synapse-application/"><u>How to Resolve the Problem with Non-Responsive Razer Synapse Application</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-play-40c-by-drfone-android-unlock-android-unlock/"><u>How to unlock Play 40C</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-video-amounts-stored-64-vs-128gb-comparison/"><u>In 2024, Video Amounts Stored 64 vs 128GB Comparison</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001157288-the-unavailability-of-football-manager-2n-workarounds-to-kick-start-your-game-today/"><u>The Unavailability of Football Manager 2N: Workarounds to Kick-Start Your Game Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/uncovering-stealthy-strategies-the-top-8-secret-methods-for-cable-free-mobile-charging/"><u>Uncovering Stealthy Strategies: The Top 8 Secret Methods for Cable-Free Mobile Charging</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlocking-videos-on-fb-with-2023-mobile-utility/"><u>Unlocking Videos on FB with 2023 Mobile Utility</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-your-digital-library-with-an-audible-membership/"><u>Unlocking Your Digital Library with an Audible Membership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instigate-inspiration-top-20-ideas-for-ig-masterpieces/"><u>[New] Instigate Inspiration Top 20 Ideas for IG Masterpieces</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2022s-golden-age-for-ice-dancing-showcases-for-2024/"><u>2022'S Golden Age for Ice Dancing Showcases for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-gratuite-dun-fichier-ogg-en-m4a-un-guide-simple-avec-movavi-online/"><u>Conversion Gratuite D'un Fichier OGG en M4A : Un Guide Simple Avec Movavi Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-blackout-blues-ended-key-steps-for-a-smooth-gameplay-experience/"><u>Cyberpunk 2077 Blackout Blues Ended - Key Steps for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xis-endgame-bug-fix-a-step-by-step-solution-to-prevent-game-crashes/"><u>Dragon Quest XI's Endgame Bug Fix - A Step-by-Step Solution to Prevent Game Crashes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-twelve-souths-compact-and-secure-compass-pro/"><u>Expert Analysis of Twelve South's Compact and Secure Compass Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-connection-errors-successfully/"><u>How to Overcome League of Legends Internet Connection Errors Successfully</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-content-creation-ai-software-at-your-fingertips/"><u>Maximize Content Creation: AI Software at Your Fingertips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-prevent-total-war-saga-troy-from-crashing/"><u>Optimizing Your PC to Prevent Total War Saga: Troy From Crashing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s24plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S24+ Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-minecraft-crashes-in-6-easy-steps-a-step-by-step-troubleshooting-guide/"><u>Stop Minecraft Crashes in 6 Easy Steps: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-multiple-versus-from-crashing-discover-the-8-most-effective-solutions/"><u>Stop Multiple Versus From Crashing! Discover the 8 Most Effective Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-on-day-2-of-ces-2023-top-innovations-and-breakthroughs-insights-from-zdnet/"><u>Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-wmv-video-editing-software/"><u>Updated The Ultimate Guide to Free WMV Video Editing Software</u></a></li>
 </ul></div>
 

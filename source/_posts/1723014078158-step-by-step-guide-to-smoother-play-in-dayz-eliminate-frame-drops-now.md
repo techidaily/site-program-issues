@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Smoother Play in DayZ - Eliminate Frame Drops Now!
-date: 2024-08-23T17:29:48.242Z
-updated: 2024-08-24T17:29:48.242Z
+date: 2024-11-15T02:45:49.418Z
+updated: 2024-11-17T09:32:48.012Z
 tags:
   - win11
   - win10
@@ -53,19 +53,26 @@ thumbnail: https://thmb.techidaily.com/381275c18c5ffabfab194a612a1683e1ab2c627fa
 2. In Display settings, scroll down the page and select**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
@@ -80,9 +87,6 @@ If this solution doesn’t help, continue with the next fix below.
 
  You can update your graphics drivers manually by going to the manufacturer’s website ([NVIDIA](http://nvidia.com/drivers) ,[AMD](https://www.amd.com/en/support) ,[Intel](https://downloadcenter.intel.com/) ) for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics, and your Windows version, and it will download and install them correctly.
@@ -93,6 +97,13 @@ If this solution doesn’t help, continue with the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -112,20 +123,29 @@ If the stuttering issue persists, move on to the next fix.
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Enable VSync
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
@@ -135,9 +155,14 @@ But if it doesn’t, take a look at the next fix.
 1. Right-click your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
 ### Via AMD Radeon Settings
@@ -145,25 +170,10 @@ But if it doesn’t, take a look at the next fix.
 1. Right-click your desktop and select**AMD Radeon Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amdradeon-settings.jpg)
 2. Click the**Gaming** Tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
@@ -177,24 +187,22 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Allocate more RAM
 
  The RAM helps computers improve frame rates and frame pacing during gaming. In many cases, you need to allocate more RAM to games, especially for the games that use a lot of mods, like Minecraft. To do so:
@@ -202,16 +210,18 @@ If the stuttering issue remains, try the next fix.
 1. Open your**Minecraft client** and navigate to the**Installations** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
 Launch Minecraft and see if this helps fix the stuttering.
@@ -224,9 +234,6 @@ If this solution doesn’t work, take a look at the next fix.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 8: Reinstall Minecraft
 
  If none of the methods above seem to work for you, try reinstalling the game as a last resort. First, uninstall the current version of Minecraft from your computer, then reinstall the latest version of it. After that, relaunch the game to check if the stuttering issue is solved.
@@ -243,8 +250,6 @@ If this solution doesn’t work, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +257,18 @@ If this solution doesn’t work, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/our-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>[New] Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-monetization-mastery-secrets-success/"><u>[New] YouTube Monetization Mastery Secrets Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-installer-woes-heres-how-to-get-it-right-in-no-time/"><u>Discord Installer Woes? Here's How to Get It Right in No Time!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210580395-9781647553081-ghostly-tales-of-minnesota-2nd-ed/"><u>Ghostly Tales of Minnesota (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-improve-lost-arks-fps-and-enhance-smooth-gameplay-experience/"><u>How To Improve Lost Ark's FPS & Enhance Smooth Gameplay Experience</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme Phone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-stepping-into-silence-fading-out-audio-in-adobe-premiere-pro/"><u>In 2024, Stepping Into Silence Fading Out Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-se-2020-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone SE (2020)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-twin-technical-troubles-how-to-fix-concurrent-computer-errors-on-pc/"><u>Taming Twin Technical Troubles: How to Fix Concurrent Computer Errors on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-lag-in-fallout-3-when-playing-on-windows-10-pcs/"><u>Troubleshooting Persistent Lag in Fallout 3 when Playing on Windows 10 PCs</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/understanding-the-risks-is-your-web-browsers-assistant-a-potential-threat-and-steps-for-removal/"><u>Understanding the Risks: Is Your Web Browser's Assistant a Potential Threat and Steps for Removal?</u></a></li>
+</ul></div>
 

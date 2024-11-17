@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multiplayer: Effective Fixes for the 'New World Connection Error'"
-date: 2024-08-23T17:30:44.649Z
-updated: 2024-08-24T17:30:44.649Z
+date: 2024-11-12T04:47:07.779Z
+updated: 2024-11-16T20:34:45.510Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
@@ -62,6 +59,13 @@ If this doesn’t help, try the next fix.
 
 If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Update the graphics driver
 
  The latest GPU drivers are essential for video games. If your graphics driver is outdated or faulty, game performance could be impacted and you might even get errors and crashes. Although this is not directly related to the connection error, we suggest that you keep your graphics card driver up-to-date for the best gaming experience.
@@ -73,11 +77,6 @@ If this doesn’t solve your problem, move on to the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -87,10 +86,6 @@ The powerful video editing program for your Windows PC</a>
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Configure your firewall settings
 
  One possible cause of the “cannot connect to the server error” is that your firewall is blocking your connection to the Lost Ark server. Here’s how to check if Lost Ark is allowed through the firewall, and configture the settings if needed:
@@ -103,11 +98,16 @@ The powerful video editing program for your Windows PC</a>
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add the game to the exception list
 
@@ -119,13 +119,14 @@ The powerful video editing program for your Windows PC</a>
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6: Check your DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t give you luck, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -133,6 +134,19 @@ The powerful video editing program for your Windows PC</a>
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -144,16 +158,31 @@ Here are the steps:
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -165,14 +194,14 @@ Here are the steps:
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -181,11 +210,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
+
 ## Fix 7: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, the chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -198,9 +228,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -215,8 +242,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +249,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-formula-for-a-high-ranking-online-persona-for-2024/"><u>[New] The Formula for a High-Ranking Online Persona for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-epicurean-epiphanies-filming-feast-creation/"><u>[Updated] 2024 Approved Epicurean Epiphanies Filming Feast Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-media-battlefield-tiktoks-top-10-twitters-for-2024/"><u>[Updated] The Social Media Battlefield TikTok's Top 10 Twitters for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/calendar-integration-for-efficient-google-meets-for-2024/"><u>Calendar Integration for Efficient Google Meets for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/current-status-of-xbox-live-are-there-any-issues-or-downtime-today/"><u>Current Status of Xbox Live: Are There Any Issues or Downtime Today?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-when-msi-afterburner-doesnt-detect-your-gpu-on-recent-windows-versions-windows-1011/"><u>Effective Fixes when MSI Afterburner Doesn't Detect Your GPU on Recent Windows Versions (Windows 10/11)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-patching-up-outpost-armageddons-pc-shutdown-glitches/"><u>Effective Solutions for Patching Up Outpost: Armageddon's PC Shutdown Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-roblox-not-launching-problem-top-tips/"><u>Fixing the Roblox Not Launching Problem – Top Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-to-reduce-high-cpu-usage-by-god-of-war/"><u>Optimizing System Performance to Reduce High CPU Usage by God of War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-continuous-freezing-and-shutdowns-of-nox-player-on-pc-explained/"><u>Resolved Issue: Continuous Freezing and Shutdowns of Nox Player on PC Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-pc-stuttering-in-minecraft-with-2023s-latest-fixes-and-hacks/"><u>Resolving PC Stuttering in Minecraft With 2023'S Latest Fixes and Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/secure-your-scare-how-to-prevent-and-solve-crash-issues-in-fnaf-for-windows-players/"><u>Secure Your Scare: How to Prevent and Solve Crash Issues in FNaF for Windows Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/the-integration-of-pharmacogenomics-into-clinical-trials-is-becoming-more-common-to-assess-the-safety-and-efficacy-of-new-drugs-across-different-genetic-bac369/"><u>The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-windows-11-devices-bluetooth-connection-fixed/"><u>Troubleshooting Your Windows 11 Device's Bluetooth Connection - Fixed!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+</ul></div>
 

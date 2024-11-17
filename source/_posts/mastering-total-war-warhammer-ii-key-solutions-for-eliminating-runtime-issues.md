@@ -1,7 +1,7 @@
 ---
 title: "Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues"
-date: 2024-11-06T00:36:45.866Z
-updated: 2024-11-07T04:08:07.132Z
+date: 2024-11-13T05:41:20.456Z
+updated: 2024-11-17T00:38:14.771Z
 tags:
   - win11
   - win10
@@ -31,10 +31,16 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Launch the game in windowed mode
@@ -53,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
+<span id="1938141">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
@@ -85,10 +91,10 @@ There are mainly two ways to update your graphics driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -109,15 +115,15 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -129,16 +135,16 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -149,15 +155,15 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -200,22 +206,21 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-future-vistas-in-the-metaverse-top-30-encouraging-quotes/"><u>[New] Future Vistas in the Metaverse Top 30 Encouraging Quotes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[New] Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-choosing-the-right-display-elevate-your-xbox-series-x-experience/"><u>[Updated] Choosing the Right Display - Elevate Your Xbox Series X Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-zoom-in-on-roblox/"><u>2024 Approved How to Zoom in on Roblox</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-game-fixing-dev-error-5573-in-warzone-for-console-and-pc-users/"><u>Conquer the Game: Fixing Dev Error 5573 in Warzone for Console & PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expertly-defeating-call-of-dutys-fps-hurdles-modern-warfare-edition/"><u>Expertly Defeating Call of Duty's FPS Hurdles: Modern Warfare Edition</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-game-of-team-fortress-2-wont-open/"><u>How to Fix When Your Game of Team Fortress 2 Won't Open</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-gameplay-smoothness-overcoming-stutters-and-increasing-fps-on-valorant/"><u>Improving Gameplay Smoothness - Overcoming Stutters and Increasing FPS on Valorant</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-m34-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy M34</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-screens-methods-to-remove-sound-tracks-from-mp4-mkv-avi-mov-wmv-videos/"><u>New 2024 Approved Silent Screens Methods to Remove Sound Tracks From MP4, MKV, AVI, MOV, WMV Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-league-of-legends-performance-issues-ultimate-troubleshooting/"><u>Overcome League of Legends Performance Issues – Ultimate Troubleshooting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-solved-modern-warfare-2-consistent-frame-rates-restored-for-a-smooth-gaming-experience-on-windows-systems/"><u>Troubleshooting Solved: Modern Warfare 2 – Consistent Frame Rates Restored for a Smooth Gaming Experience on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-black-screen-issue-in-persona-5-strikers/"><u>Troubleshooting Tips: Fixing the Black Screen Issue in Persona 5 Strikers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000765820-world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-streamlining-video-transmission-from-facebook-to-whatsapp/"><u>[Updated] 2024 Approved Streamlining Video Transmission From Facebook to WhatsApp</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-systematic-guide-unearthing-youtubes-concealed-content/"><u>[Updated] 2024 Approved Systematic Guide Unearthing YouTube's Concealed Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-innovative-apps-to-design-stunning-openings-for-2024/"><u>[Updated] 5 Innovative Apps to Design Stunning Openings for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>[Updated] In 2024, Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-youtube-video-reaction-ideas/"><u>Best YouTube Video Reaction Ideas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-house-flipper-2-keeps-crashing-on-pcs/"><u>Effective Fixes for When House Flipper 2 Keeps Crashing on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-modern-warfare-running-again/"><u>Fixing the Issue: How to Get Modern Warfare Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hogwarts-legacy-gaming-glitches-resolved-top-6-tips-for-a-seamless-experience/"><u>Hogwarts Legacy Gaming Glitches Resolved: Top 6 Tips for a Seamless Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-guides.techidaily.com/hp-screenshot-mastery-techniques-for-all-your-pcs-and-tablets/"><u>HP Screenshot Mastery: Techniques for All Your PCs and Tablets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-multiplayer-malfunctions-in-eldn-ring-with-these-simple-fixes/"><u>Overcome Multiplayer Malfunctions in Eldn Ring with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-zoom-display-hiccups-tips-and-solutions-for-dealing-with-computer-screen-glitches-updated-2-groovy-2024/"><u>Overcoming Zoom Display Hiccups: Tips and Solutions for Dealing with Computer Screen Glitches (Updated 2 Groovy 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-players-guide-overcoming-error-3-0x0001000b-challenge/"><u>Rainbow Six Siege Players' Guide: Overcoming Error 3-0X0001000B Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-microsoft-edge-stability-issues-in-windows-11-with-these-tips/"><u>Resolve Microsoft Edge Stability Issues in Windows 11 with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic5-ultimate-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic5 Ultimate Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-20-gratis-inspirationstools-for-video-arkitektur-2024-komplett-utbud/"><u>Top 20 Gratis Inspirationstools För Video Arkitektur 2024 - Komplett Utbud</u></a></li>
 </ul></div>
 

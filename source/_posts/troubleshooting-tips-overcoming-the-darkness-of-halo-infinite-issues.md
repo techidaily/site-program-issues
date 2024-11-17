@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming the Darkness of Halo Infinite Issues"
-date: 2024-08-23T17:27:21.254Z
-updated: 2024-08-24T17:27:21.254Z
+date: 2024-11-12T17:19:44.788Z
+updated: 2024-11-17T05:12:34.235Z
 tags:
   - win11
   - win10
@@ -42,9 +42,23 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -62,6 +76,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After updating drivers, restart your PC and check if your problem has been resolved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,10 +90,6 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 If updating drivers doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  Temp files are referred to temporary files, which are files that your operating system only needed to exist temporarily while in use. But they are now just wasting space. This can slow down your PC and significantly affects the performance. To fix it, you can delete the files and it won’t cause any problems. Below are the steps you can follow.
@@ -82,26 +99,31 @@ If updating drivers doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable background applications
 
  Games require a considerable amount of memory to function properly. If too many unwanted or unnecessary programs keep running in the background, there will be insufficient memory, which causes the freezing issue. To solve the problem, you can disable some background applications.
@@ -115,15 +137,16 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -135,24 +158,16 @@ To verify the integrity of your game files, follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
 ## 6\. Uninstall Multiplayer High-Res Textures
@@ -169,9 +184,6 @@ To verify the integrity of your game files, follow the steps below:
 
 If this doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable in-game overlay
 
  Halo Infinite’s in-game overlay is a feature that aims to improve your gaming experience. But sometimes they just do the opposite of that, eating up bandwidth or introducing compatibility problems. In this case, you’ll need to disable it. Follow the instructions below to do so.
@@ -181,8 +193,12 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
@@ -213,8 +229,6 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +236,18 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-sincere-evaluation-of-a-digital-audio-player/"><u>[New] 2024 Approved The Sincere Evaluation of a Digital Audio Player</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-audio-notes-essential-tips/"><u>[New] Mastering Audio Notes Essential Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-remedying-unexpected-oneself-display-during-online-interactions/"><u>[New] Remedying Unexpected Oneself Display During Online Interactions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-tech-savvy-strategies-to-maximize-whiteboard-functionality-across-devices/"><u>[Updated] 2024 Approved Tech-Savvy Strategies to Maximize Whiteboard Functionality Across Devices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ideal-6-screen-recorders-for-mac-users/"><u>[Updated] In 2024, Ideal 6 Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-to-resolve-world-of-warcraft-stability-issues-and-game-crashes/"><u>Easy Solutions to Resolve 'World of Warcraft' Stability Issues & Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-frequent-valorant-clashes-and-freezes-on-desktops/"><u>Expert Tips for Preventing Frequent Valorant Clashes and Freezes on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997439572-instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-cult-of-the-lamb-steps-to-resolve-pc-game-crashes/"><u>Revive Cult of the Lamb: Steps to Resolve PC Game Crashes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-free-dvd-video-players-download-compatible-with-windows-10-and-macos/"><u>Top-Ranked Free DVD Video Players: Download Compatible with Windows 10 & macOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-s-hottest-4k8k-video-editing-tools-a-comprehensive-guide/"><u>Updated In 2024, S Hottest 4K/8K Video Editing Tools A Comprehensive Guide</u></a></li>
+</ul></div>
 

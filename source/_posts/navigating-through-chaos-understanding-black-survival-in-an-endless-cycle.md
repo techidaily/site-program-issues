@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle"
-date: 2024-11-06T03:37:14.669Z
-updated: 2024-11-06T19:34:22.537Z
+date: 2024-11-11T08:20:26.443Z
+updated: 2024-11-17T06:54:33.971Z
 tags:
   - win11
   - win10
@@ -93,6 +93,13 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**STAR WARS Jedi: Fallen Order** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38-2.jpg)
@@ -100,6 +107,13 @@ If this doesn’t work for you, then go ahead with the next fix.
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This could take several minutes. Wait for the process to be complete. Then, relaunch your game to test your issue.
 
@@ -119,10 +133,10 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-00-54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -189,13 +203,6 @@ If your issue continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory to three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -205,13 +212,6 @@ If your issue continues to occur, go to the next fix.
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -229,14 +229,14 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
 
- Restart your computer after the update is complete, then relaunch your game. If the issue persists, try the fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your computer after the update is complete, then relaunch your game. If the issue persists, try the fix, below.
 
 ### Fix 8: Reinstall your game
 
@@ -287,6 +287,13 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-26-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-32.jpg)
@@ -321,13 +328,6 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Select **Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-30.jpg)
@@ -337,13 +337,6 @@ If your issues still exist, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-35.jpg)
 
  Restart your game to see if this worked for you. If it didn’t, check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -398,6 +391,13 @@ If your issues still exist, read on and check the fix below.
 
  If your game still won’t launch, don’t worry! There are still 3 more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your PS4 system software
 
  Outdated system software could also cause _**STAR WARS Jedi**_ to fail. To see if that’s the problem for you, try updating your PlayStation 4 system software. Here is how to do it:
@@ -413,6 +413,13 @@ If your issues still exist, read on and check the fix below.
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-24-41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Restart your game to see if this resolves your issues.
 
@@ -438,13 +445,6 @@ If your problem persists, move on to the fix below.
 
 If your issue still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Restore your PS4 settings to default
 
  If your issue is caused by improper game settings, restoring your device to its default factory settings should be able to fix it. Follow the instructions below to see how to restore your PS4 to its default settings:
@@ -460,10 +460,10 @@ If your issue still exists, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-39-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Press the **PS button** on your controller.
@@ -502,24 +502,24 @@ If your issue still exists, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-12-essential-metaverse-prototypes-demystifying-vr/"><u>[Updated] In 2024, 12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>[Updated] In 2024, Simplify Screen Capture The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-songwriting-in-action-a-guide-to-creating-content-with-musicians-for-2024/"><u>[Updated] Songwriting in Action A Guide to Creating Content with Musicians for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-itel-unlock-without-password-by-drfone-android/"><u>5 Solutions For Itel Unlock Without Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-making-your-steam-games-work-seamlessly-in-windows-11/"><u>Comprehensive Guide: Making Your Steam Games Work Seamlessly in Windows 11</u></a></li>
-<li><a href="https://discover-community.techidaily.com/effizientes-festplattenduplikation-mit-windows-systemen-windows-111087/"><u>Effizientes Festplattenduplikation Mit Windows-Systemen (Windows 11/10/8/7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976494754-effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-borderlands-3-gameplay-effective-solutions-to-fix-low-fps-on-pc/"><u>Enhance Your Borderlands 3 Gameplay: Effective Solutions to Fix Low FPS on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010179905-gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/handling-common-browser-errors-when-ie-wont-show-the-webpage-anymore/"><u>Handling Common Browser Errors: When IE Won't Show the Webpage Anymore</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-repair-failed-connections-in-microsoft-outlook/"><u>How To Successfully Repair Failed Connections in Microsoft Outlook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-pc-issues-when-playing-no-rest-for-the-wicked-tips-and-tricks-to-optimize-your-experience/"><u>Solving PC Issues When Playing 'No Rest for the Wicked': Tips and Tricks to Optimize Your Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-resolve-dev-error-6034-on-pc-and-xbox/"><u>Solving the Mystery: A Step-by-Step Guide to Resolve Dev Error 6034 on PC and Xbox</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-cant-launch-battlefield-4-on-windows-heres-how/"><u>Solving the Problem - Can’t Launch Battlefield 4 on Windows? Here’s How</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speedy-repairs-enhancing-performance-and-reducing-lags-in-assassins-creed-valhalla/"><u>Speedy Repairs: Enhancing Performance & Reducing Lags in Assassins Creed: Valhalla</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/stream-like-a-pro-3-key-strategies-for-lol-gamers-for-2024/"><u>Stream Like a Pro 3 Key Strategies for LOL Gamers for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-8-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-samsung-ubd-k8500-review/"><u>[New] 2024 Approved Samsung UBD-K8500 Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[New] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unlock-potential-with-free-premiere-pro-plans-for-2024/"><u>[New] Unlock Potential with Free Premiere Pro Plans for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms-for-2024/"><u>[Updated] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-x-master-recorder-software-pc-edition/"><u>[Updated] X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-delving-into-t-series-revenue-generation-on-video-platforms/"><u>2024 Approved Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bust-the-hurdles-comprehensive-fixes-for-continuous-gameplay-in-sea-of-thieves/"><u>Bust the Hurdles: Comprehensive Fixes for Continuous Gameplay in Sea of Thieves</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-windows-11-spotlight-feature-when-it-stops-functioning/"><u>How To Restore Windows 11 'Spotlight' Feature When It Stops Functioning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-places-for-free-text-visual-enhancements/"><u>In 2024, Top Places for Free Text Visual Enhancements</u></a></li>
+<li><a href="https://program-issues.techidaily.com/noise-problem-solved-enhancing-your-twitch-streams-volume-and-quality/"><u>Noise Problem Solved: Enhancing Your Twitch Stream's Volume and Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/palette-knives-can-be-used-to-scrape-off-excess-underglaze-or-create-textured-effects/"><u>Palette Knives Can Be Used to Scrape Off Excess Underglaze or Create Textured Effects.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-kurtzpel-app-crash-dilemma-a-comprehensive-guide/"><u>Resolving the KurtzPel App Crash Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-company-game-stability-issues-fixed-now-running-smoothly-on-pc/"><u>Rogue Company Game Stability Issues Fixed: Now Running Smoothly on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/service-suspension-blizzard-inaccessible/"><u>Service Suspension: Blizzard Inaccessible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-discord-from-unexpectedly-closing/"><u>Step-by-Step Solutions to Stop Discord From Unexpectedly Closing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unleash-endless-prosperity-with-dragons-riches-a-complete-guide-for-pc/"><u>Unleash Endless Prosperity with 'Dragon's Riches': A Complete Guide for PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-exclusive-frame-per-second-advancements-in-mass-effects-premier-legacies-collection/"><u>Unlocking Exclusive Frame-Per-Second Advancements in Mass Effect's Premier Legacies Collection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU
-date: 2024-10-30T17:13:12.710Z
-updated: 2024-11-06T21:09:35.984Z
+date: 2024-11-15T19:10:48.806Z
+updated: 2024-11-17T05:31:26.080Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -48,13 +41,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -76,6 +62,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -92,20 +86,27 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -140,24 +141,24 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -166,6 +167,13 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -181,10 +189,10 @@ To optimize the graphics settings, follow the steps below:
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -199,13 +207,6 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
@@ -219,16 +220,10 @@ To optimize the graphics settings, follow the steps below:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -257,19 +252,18 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-iphoneandroid-photo-background-subtraction-for-2024/"><u>[New] Best iPhone/Android Photo Background Subtraction for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-melodic-mobile-alerts-download-classical-ringtones-here/"><u>[New] Melodic Mobile Alerts Download Classical Ringtones Here</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-rhythmic-resonance-incor-written-by-assistant/"><u>[New] Rhythmic Resonance Incor Written by Assistant</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-through-the-best-pc-vr-headset-lineup-of-2023/"><u>[Updated] Navigating Through the Best PC VR Headset Lineup of 2023</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-key-to-making-youtube-videos-stand-out-on-instagram-stories-for-2024/"><u>[Updated] The Key to Making YouTube Videos Stand Out on Instagram Stories for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-tone-refactoring-pro/"><u>2024 Approved Radiant Tone Refactoring Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013592535-battling-persistent-pc-issues-with-tower-of-fantasy-solutions-unveiled/"><u>Battling Persistent PC Issues with Tower of Fantasy – Solutions Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/biomutant-troubleshooting-for-pc-top-solutions-to-stop-crashing-issues/"><u>Biomutant Troubleshooting for PC: Top Solutions to Stop Crashing Issues</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-list-11-streamers-go-to-audio-devices-for-2024/"><u>Essential List 11 Streamers' Go-To Audio Devices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-challenges-of-satisfactory-frame-rate-reductions-in-video-games/"><u>Overcoming Challenges of Satisfactory Frame Rate Reductions in Video Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-gamers-rejoice-the-2024-freeze-edition-is-here/"><u>Rainbow Six Siege Gamers Rejoice: The 2024 Freeze Edition Is Here!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-anno-1800-graphics-issue-fixing-directx-problems/"><u>Resolved Anno 1800 Graphics Issue - Fixing DirectX Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-when-your-msi-laptops-light-feature-wont-work-with-windows-os/"><u>Solving the Dilemma: When Your MSI Laptop's Light Feature Won't Work with Windows OS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782761-9781620553794-the-great-work-of-the-flesh/"><u>The Great Work of the Flesh | Free Book</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>[New] 2024 Approved Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-correcting-unsteady-flight-footage-artifacts-for-2024/"><u>[New] Correcting Unsteady Flight Footage Artifacts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[Updated] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-playtime-fixing-common-reasons-for-pc-gaming-crashes/"><u>How To Ensure Uninterrupted Playtime - Fixing Common Reasons for PC Gaming Crashes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g04-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G04 Phone without PIN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/iphone-and-itunes-connection-issue-on-windows-aturate-a-solution-for-when-your-iphone-doesnt-show-up-in-itunes/"><u>IPhone and iTunes Connection Issue on Windows Aturate a Solution for when Your iPhone Doesn't Show up in iTunes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-the-eternal-return-tactics-to-sustain-black-survival-successfully/"><u>Navigating the Eternal Return: Tactics to Sustain Black Survival Successfully</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/orbital-accountancy-revival-guide/"><u>Orbital Accountancy Revival Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-call-of-duty-black-ops-cold-war-from-crashing-your-pc-in-202n/"><u>Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-postponement-of-alan-wake-2-release/"><u>Troubleshooting the Postponement of Alan Wake 2 Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-hack-list-resolving-finals-wont-launch-issues-before-going-live-in-202n4/"><u>Ultimate Hack List: Resolving 'Finals Won't Launch' Issues Before Going Live in 202N4</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-audio-essentials-removing-background-noise-for-crisp-sound/"><u>Updated 2024 Approved FCPX Audio Essentials Removing Background Noise for Crisp Sound</u></a></li>
 </ul></div>
 

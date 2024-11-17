@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your MSI Dragon Centre Stops Responding
-date: 2024-11-04T17:34:58.019Z
-updated: 2024-11-06T16:26:08.768Z
+date: 2024-11-13T06:19:27.242Z
+updated: 2024-11-16T19:56:59.080Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 3. [**Verify Warframe cache files**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your home network
 
@@ -96,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 Your game still freezes? Try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Lower in-game graphics settings
 
  If you’re gaming on an old computer, try lowering the graphics settings a little bit so your game can run smoother. Here’s how to do it:
@@ -107,10 +113,10 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
@@ -122,19 +128,19 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
@@ -174,21 +180,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-hub-error-code-48/"><u>[FIXED] Hub Error Code 48</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-prime-net-selections-personalized-alarm-rhythm-files/"><u>[New] Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-splitcam-analysis-where-does-it-rank-among-recorders/"><u>[New] SplitCam Analysis Where Does It Rank Among Recorders?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-a60-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel A60 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-and-evaluation-of-ankers-premium-26800mah-battery-pack-setup/"><u>Comprehensive Guide and Evaluation of Anker's Premium 26800mAh Battery Pack Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-the-dark-screen-issue-in-far-cry-6/"><u>Expert Guide: Resolving the Dark Screen Issue in Far Cry 6</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-guide-why-wont-farming-simulator-22-launch-find-out-here/"><u>Fix Guide: Why Won't Farming Simulator 22 Launch? Find Out Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-for-assassins-creed-syndicate-expert-anti-crash-solutions-in-202n4/"><u>How To Ensure Smooth Gameplay For Assassin's Creed Syndicate? Expert Anti-Crash Solutions in 202N4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-football-manager-2n22-unavailability-problem-solution-explained/"><u>How to Fix the Football Manager 2N22 Unavailability Problem – Solution Explained</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-safekeeping-sensitive-visuals-from-public-eyes/"><u>In 2024, Safekeeping Sensitive Visuals From Public Eyes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/make-your-moments-shine-top-highlight-video-editing-software/"><u>Make Your Moments Shine Top Highlight Video Editing Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-constant-kodi-malfunctions-weve-fixed-it/"><u>Say Goodbye to Constant Kodi Malfunctions – We’ve Fixed It!</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Reno 11 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolve-opengl-context-creation-failure-in-qsurfaceformat/"><u>Troubleshooting Guide: Resolve 'OpenGL Context Creation Failure' In QSurfaceFormat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-persistent-crashes-of-fuser-in-windows-environment/"><u>Troubleshooting: Overcoming Persistent Crashes of Fuser in Windows Environment</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-nubia-red-magic-8s-proplus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nubia Red Magic 8S Pro+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>[New] 2024 Approved Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-google-chrome-crashing-easily/"><u>[Solved] Google Chrome Crashing. Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-hunt-down-these-10-vectors-stock-image-websites/"><u>[Updated] 2024 Approved Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-riches-with-best-hash-tags-tips-for-2024/"><u>[Updated] YouTube Riches with Best Hash Tags Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-maximizing-performance-optimal-settings-for-logitech-webcam/"><u>2024 Approved Maximizing Performance Optimal Settings for Logitech Webcam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-dirt-5-pc-malfunctions-effective-troubleshooting-techniques/"><u>Eliminating Dirt 5 PC Malfunctions: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-error-steam-friends-network-now-accessible/"><u>Fixing the Error: 'Steam Friends Network' Now Accessible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-streams-resolving-app-crashes-during-live-broadcasts/"><u>How to Fix Discord Streams: Resolving App Crashes During Live Broadcasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-t2x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo T2x 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-wolcen-overcoming-pc-compatibility-and-stability-challenges/"><u>Mastering Wolcen: Overcoming PC Compatibility and Stability Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickening-the-pace-resolving-slow-launches-in-fallout-4-gaming-experience/"><u>Quickening the Pace: Resolving Slow Launches in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recmaster-screen-recorder-review/"><u>Recmaster Screen Recorder Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-14-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 14 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-blue-screen-error-in-hell-divers-the-twin-heroes-ii-gameplay/"><u>The Ultimate Fix for 'Blue Screen' Error in Hell Divers: The Twin Heroes II Gameplay</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-syma-airamax-n2i-rc-helicopter-combining-quality-with-economy/"><u>The Ultimate Guide to Syma AIRAMAX N2i RC Helicopter - Combining Quality with Economy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-repairing-guilty-gear-strive-pc-instability-issues/"><u>Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-stability-issues-causing-king-of-fighters-xv-to-crash-on-pc-systems/"><u>Understanding and Resolving the Stability Issues Causing 'King of Fighters XV' To Crash on PC Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-meme-generation-made-easy-top-10-apps-for-android-and-ios-for-2024/"><u>Updated Meme Generation Made Easy Top 10 Apps for Android & iOS for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-nokia-c22-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C22 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

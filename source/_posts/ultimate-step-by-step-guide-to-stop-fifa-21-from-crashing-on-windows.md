@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows
-date: 2024-11-04T20:39:38.831Z
-updated: 2024-11-06T20:03:46.549Z
+date: 2024-11-15T17:42:15.989Z
+updated: 2024-11-17T10:16:29.823Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -82,28 +89,28 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -134,27 +141,26 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -175,10 +181,10 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -203,21 +209,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[New] In 2024, Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-offer-top-business-cloud-solutions/"><u>[Updated] In 2024, Best Offer Top Business Cloud Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swift-transformation-androids-best-vid-upgrades/"><u>[Updated] Swift Transformation Android's Best Vid Upgrades</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-color-grading-with-ease-a-compreranble-guide-for-pscc-users/"><u>2024 Approved Mastering Color Grading with Ease A Compreranble Guide for PSCC Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/capturing-a-full-view-iphone-filming-secrets-for-social-feeds-for-2024/"><u>Capturing a Full View IPhone Filming Secrets for Social Feeds for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-repairing-acrocefexe-application-failures/"><u>Comprehensive Guide to Repairing 'acrocef.exe' Application Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-the-lagging-and-freezing/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop the Lagging and Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-not-initialized-errors-for-vanguard-abilities-in-valorant/"><u>Expert Tips for Fixing 'Not Initialized' Errors for Vanguard Abilities in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-black-screen-at-launch-issue-in-elden-ring-a-comprehensive-guide/"><u>Fixing the 'Black Screen at Launch' Issue in Elden Ring: A Comprehensive Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphones-wi-fi-connection-woes-effective-strategies-and-tips/"><u>How to Resolve iPhone's Wi-Fi Connection Woes - Effective Strategies and Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 VIP Phone?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-guide-to-10-premium-vector-websites/"><u>In 2024, Ultimate Guide to 10 Premium Vector Websites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/level-up-your-gameplay-combat-sudden-fps-dips-irregular-hiccups-and-sporadic-lags-in-real-time-gaming-environments/"><u>Level Up Your Gameplay: Combat Sudden FPS Dips, Irregular Hiccups & Sporadic Lags in Real-Time Gaming Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-stuck-on-loading-errors-in-football-manager-2021-game/"><u>Resolving 'Stuck on Loading' Errors in Football Manager 2021 Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-doom-eternal-from-crashing/"><u>Troubleshooting Steps to Stop DOOM Eternal From Crashing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cual-es-la-mejor-razon-para-elegir-a-movavi-descubra-los-beneficios-de-nuestros-servicios/"><u>¿Cuál Es La Mejor Razón Para Elegir a Movavi? ¡Descubra Los Beneficios De Nuestros Servicios!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-essential-guide-to-twitters-video-converters/"><u>2024 Approved The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-optimal-gameplay-expert-techniques-to-increase-frame-rates-and-counter-low-fps-issues-in-valorant/"><u>Achieve Optimal Gameplay: Expert Techniques to Increase Frame Rates & Counter Low FPS Issues in Valorant</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-facebooks-gesture-communication-benefits/"><u>Deciphering Facebook’s Gesture Communication Benefits</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-driver-software-for-your-hp-color-laserjet-mfp-m477-quick-free-download-options-available/"><u>Essential Driver Software for Your HP Color Laserjet MFP M477 - Quick, Free Download Options Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gta-5-freezes-no-more-troubleshooting-tips-for-smooth-gameplay/"><u>GTA 5 Freezes No More - Troubleshooting Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a79-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A79 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Bootloader Easily</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-7-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 7 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gameplay-awaits-tackle-and-prevent-halo-infinites-pc-freezes-using-our-7-step-method/"><u>Seamless Gameplay Awaits: Tackle and Prevent Halo Infinite's PC Freezes Using Our 7-Step Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplified-steps-to-resolve-windows-cant-finish-installing/"><u>Simplified Steps to Resolve Windows Can't Finish Installing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-overcoming-window-freezes-with-google-chrome-on-windows-11/"><u>Step-by-Step Guide: Overcoming Window Freezes with Google Chrome on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-creating-multi-point-directions-on-google-maps/"><u>Step-by-Step Tutorial for Creating Multi-Point Directions on Google Maps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-a-smooth-maplestory-experience-overcoming-crashing-problems-on-windows-11-updated-guide/"><u>Top Tips for a Smooth MapleStory Experience: Overcoming Crashing Problems on Windows 11 (Updated Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-amd-radeon-software-launch-issues/"><u>Troubleshooting Guide: Resolving AMD Radeon Software Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-slime-rancher-2-stop-game-crashes-on-your-personal-computer/"><u>Troubleshooting Tips for 'Slime Rancher 2': Stop Game Crashes on Your Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-why-robocop-rogue-city-wont-start-on-your-pc/"><u>Troubleshooting Tips: Why RoboCop: Rogue City Won't Start on Your PC</u></a></li>
 </ul></div>
 

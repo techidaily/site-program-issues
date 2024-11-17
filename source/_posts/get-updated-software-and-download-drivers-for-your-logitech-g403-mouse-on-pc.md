@@ -1,7 +1,7 @@
 ---
 title: Get Updated Software & Download Drivers for Your Logitech G403 Mouse on PC
-date: 2024-08-23T17:28:03.784Z
-updated: 2024-08-24T17:28:03.784Z
+date: 2024-11-09T19:28:01.257Z
+updated: 2024-11-17T00:45:18.745Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 6. [**Use a VPN**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Run on a virtual machine](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Repair game installation
 
  First you need to make sure you have the latest version, and check if your game files are intact. You can do a quick check to find out.
@@ -44,6 +51,13 @@ Here’s how to do it on Nexon Launcher:
 2. In the left pane, select**Game Configure** . Under**Repair / Uninstall** , click**Repair Installation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-verify-2.jpg)
 3. Once done, restart your game and test the results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help you, check out the next fix below.
 
@@ -72,19 +86,26 @@ To do so, simply follow these instructions:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, do a reboot and check if MapleStory stops crashing.
 
  If the latest drivers don’t do the trick for you, you can move on to the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit the registry
 
@@ -93,18 +114,19 @@ To do so, simply follow these instructions:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) and type or paste**regedit** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar, paste **ComputerHKEY\_LOCAL\_MACHINESOFTWAREWOW6432NodeWizetMapleStory** and press**Enter** . Double click**soScreenMode**  and change the value to**3** . Click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-registry.jpg)
 3. Now enter the game and test the gameplay.
 
  If this trick doesn’t give you luck, you can undo it and continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Make sure Windows is up to date
 
  You also need to check if you’re on the latest system. Windows updates sometimes improve the compatibility of legacy software.
@@ -114,20 +136,26 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -136,8 +164,12 @@ Here’s how you can check for updates manually:
  If this method doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6:**Use a VPN**
 
  It may sound strange, but there’re players mentioning that the game crash could be triggered by disconnection. If that’s your case, you can use a VPN to workaround this issue. VPN servers tend to have a more stable connection.
@@ -164,8 +196,6 @@ And here’re some VPNs we like:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +203,20 @@ And here’re some VPNs we like:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-maximize-visuals-in-youtubespace-with-effective-tools/"><u>[New] 2024 Approved Maximize Visuals in YouTubespace with Effective Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-insta-popularity-on-youtube-jake-pauls-story-unfolded/"><u>[New] Insta-Popularity on Youtube Jake Paul’s Story Unfolded</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
+<li><a href="https://article-helps.techidaily.com/estimating-music-video-production-expenses-for-2024/"><u>Estimating Music Video Production Expenses for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-heart-of-iron-4-crash-errors-a-comprehensive-solution-breakdown/"><u>Fixing Heart of Iron 4 Crash Errors: A Comprehensive Solution Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone SE to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-lite-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Lite by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-focus-with-our-select-8-windows-pomodoro-tools/"><u>Maximize Focus with Our Select 8 Windows Pomodoro Tools</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restoring-smooth-windows-10-display/"><u>Restoring Smooth Windows 10 Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-hiccups-in-the-mass-effect-legendary-edition-for-xbox-series-xs/"><u>Troubleshooting Fixed Hiccups in the Mass Effect Legendary Edition for Xbox Series X|S</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-roblox-wont-open-errors-tips-for-2n2/"><u>Troubleshooting Steps to Fix 'Roblox Won't Open' Errors (Tips for 2N2)</u></a></li>
+</ul></div>
 

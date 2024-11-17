@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Performance in The Ascent by Boosting Frame Rates & Fixing Stutter Issues
-date: 2024-08-19T16:57:49.351Z
-updated: 2024-08-20T16:57:49.351Z
+date: 2024-11-09T16:22:35.265Z
+updated: 2024-11-16T18:12:16.093Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 4. [**Disable Steam overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Disable Microsoft Device Association Root Enumerator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -58,17 +65,11 @@ To keep your graphics driver up-to-date, here are two options for you:
 1. In the Windows search box, type**graphics settings** and select**Graphics settings** from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
 
@@ -79,21 +80,33 @@ If this method doesn’t work, try the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Disable Steam overlay
 
  The in-game overlay is another common cause of FPS-related issues. You could simply turn it off and see if this helps improve the performance.
@@ -101,12 +114,24 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
@@ -121,28 +146,10 @@ Restart the game and test. Still no luck? Continue to the next fix.
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Adjust the NVIDIA settings
 
  If all the methods above don’t help and you’re using an NVIDIA graphics card, adjusting specific graphical settings may increase your FPS in Elden Ring.
@@ -150,12 +157,32 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -172,8 +199,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +206,21 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-video-content-conversion-xml-ssa-and-ttml-to-srt-guide/"><u>[New] Mastering Video Content Conversion XML, SSA & TTML to SRT Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-secrets-to-high-quality-sims-4-gameplay-recordings/"><u>[New] Secrets to High-Quality Sims 4 Gameplay Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-fast-forward-tools-mastering-video-controls/"><u>[New] Ultimate Fast-Forward Tools Mastering Video Controls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-in-depth-look-at-fraps-screen-capture/"><u>[Updated] In 2024, In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/2-memory-miracle-unleashed-stellar-tech-rescues-thousands-of-lost-images/"><u>2 Memory Miracle Unleashed: Stellar Tech Rescues Thousands of Lost Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-video-marketing-boost-with-free-intro-creations/"><u>2024 Approved Video Marketing Boost with Free Intro Creations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-with-these-painless-fixes-for-dying-light-fps-problems/"><u>Boost Your Gaming Experience with These Painless Fixes for Dying Light FPS Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-star-citizens-crash-fix-for-windows-users/"><u>Ensuring Smooth Gameplay: Star Citizen's Crash Fix for Windows Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a25-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A25 5Gwith/without a PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-technology-expert-tips-from-toms-hardware-blog/"><u>Navigating Through Technology: Expert Tips From Tom's Hardware Blog</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fix-the-continuous-crashes-in-the-king-of-fighters-xv-on-pc/"><u>Troubleshooting Guide: Fix the Continuous Crashes in 'The King of Fighters XV' On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-diablo-immortal-from-crashing-on-your-pc/"><u>Troubleshooting Steps: Stop Diablo Immortal From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-services-down-heres-how-to-get-your-connection-up/"><u>Ubisoft Services Down? Here's How to Get Your Connection Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-haldll-faults-in-windows-os-from-vista-to-windows-11/"><u>Understanding and Repairing hal.dll Faults in Windows OS From Vista to Windows 11</u></a></li>
+</ul></div>
 

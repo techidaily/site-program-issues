@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Stop Path of Exile From Lagging or Crashing
-date: 2024-08-23T17:28:09.626Z
-updated: 2024-08-24T17:28:09.626Z
+date: 2024-11-13T07:55:07.787Z
+updated: 2024-11-16T19:47:13.397Z
 tags:
   - win11
   - win10
@@ -42,18 +42,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -65,22 +66,31 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -89,15 +99,27 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -126,24 +148,26 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -153,9 +177,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
@@ -175,8 +196,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +203,26 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-highlighting-key-developments-in-windows-movie-maker-releases/"><u>[Updated] Highlighting Key Developments in Windows Movie Maker Releases</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[Updated] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtly-lowering-volume-alives-guide/"><u>[Updated] Subtly Lowering Volume Alive’s Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-proven-tips-for-lowering-cpu-demand-by-zoom-on-your-pc/"><u>6 Proven Tips for Lowering CPU Demand by Zoom on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-your-next-interview-a-step-by-step-guide-using-chatgpt/"><u>Ace Your Next Interview: A Step-by-Step Guide Using ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-sequel-delayed-heres-your-step-by-step-fix-guide/"><u>Alan Wake Sequel Delayed? Here's Your Step-by-Step Fix Guide!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/9-free-youtube-logo-makers/"><u>Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997393249-comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-stutters-in-overwatch-with-these-effective-tricks/"><u>Eliminate Stutters in Overwatch with These Effective Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-establish-protective-measures-and-controls-on-your-childs-discord-account/"><u>How to Establish Protective Measures and Controls on Your Child’s Discord Account</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-infinix-note-30-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Infinix Note 30 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-proven-methods-to-keep-minecraft-running-smoothly-on-your-pc-this-year/"><u>Mastering Stability: Proven Methods to Keep Minecraft Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-frame-rate-in-rainbow-six-extraction-effective-fixes-for-gamers/"><u>Maximize Frame Rate in Rainbow Six Extraction: Effective Fixes for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pacific-storm-unleashed-celebrating-the-fix-of-call-of-duty-warzones-notorious-glitch/"><u>Pacific Storm Unleashed: Celebrating the Fix of Call of Duty: Warzone's Notorious Glitch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scriptwriting-the-creative-process-for-2024/"><u>Scriptwriting The Creative Process for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-the-issue-of-heavy-cpu-demands-on-your-gameplay-god-of-war-edition/"><u>Tackling the Issue of Heavy CPU Demands on Your Gameplay - God of War Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-deadly-development-glitches-in-modern-warfarewarzone/"><u>Troubleshooting Guide: Overcoming Deadly Development Glitches in Modern Warfare/Warzone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>Updated 2024 Approved S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+</ul></div>
 

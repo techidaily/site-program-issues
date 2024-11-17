@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Machine: Effective Solutions to Prevent PC Crashes"
-date: 2024-11-03T01:21:08.302Z
-updated: 2024-11-06T18:27:52.019Z
+date: 2024-11-13T19:16:23.038Z
+updated: 2024-11-16T18:20:32.141Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -61,19 +54,19 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
@@ -83,6 +76,13 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
@@ -109,10 +109,10 @@ The outdated or broken graphics driver often crashes the game.
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -125,10 +125,10 @@ The outdated or broken graphics driver often crashes the game.
 3. Copy and paste the commands below and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `-useallavailablecores -high`
@@ -165,24 +165,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-evaluating-auroras-high-dynamic-range-benefits/"><u>[New] Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-designers-alley-no-cost-high-impact-text-psdfree/"><u>[Updated] 2024 Approved Designers' Alley No-Cost, High-Impact Text PSDFree</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/4-proven-methods-for-perfect-instagram-video-loops-for-2024/"><u>4 Proven Methods for Perfect Instagram Video Loops for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boosting-instagram-video-speed-onlinemobile/"><u>Boosting Instagram Video Speed Online/Mobile</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-constant-crashes-in-age-of-empires-iv-on-your-computer/"><u>Fixing Constant Crashes in Age of Empires IV on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-overcome-a-black-screen-on-discord-during-screen-share/"><u>Fixing the Issue: How to Overcome a Black Screen on Discord During Screen Share</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-smartphone-solutions-top-voice-changer-applications/"><u>In 2024, Smartphone Solutions Top Voice Changer Applications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-spurring-instagram-audience-for-more-vids/"><u>In 2024, Spurring Instagram Audience for More Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content/"><u>Leveraging Windows 10'S Photos App A Guide to Adding Text to Visual Content</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nintendo-faceoff-which-wins-out-the-compact-lite-or-the-vivid-oled/"><u>Nintendo Faceoff: Which Wins Out, the Compact Lite or the Vivid OLED?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013713976-pc-users-struggle-with-launching-necromunda-hired-gun-game-troubleshooting-tips-inside/"><u>PC Users Struggle with Launching Necromunda: Hired Gun Game - Troubleshooting Tips Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-msvcr110dll-missing-error-in-helldivers-2-a-step-by-step-guide/"><u>Resolving the 'MSVCR110.dll Missing' Error in Helldivers 2: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-delays-in-baldurs-gate-discover-our-proven-stuttering-solutions/"><u>Say Goodbye to Game Delays in Baldur's Gate - Discover Our Proven Stuttering Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-davinci-resolve-non-launch-errors-in-windows-environments/"><u>Solving DaVinci Resolve Non-Launch Errors in Windows Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-game-crashes-on-windows-effective-fixes-and-solutions-for-gamers/"><u>Stop Game Crashes on Windows: Effective Fixes & Solutions for Gamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-versatility-of-virtual-worlds-for-2024/"><u>The Versatility of Virtual Worlds for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fixing Battle.net Launcher Issues on Windows 10 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-a-flawless-overwatch-launch-eradicate-the-black-screen-dilemma/"><u>Unlocking the Secrets to a Flawless Overwatch Launch: Eradicate the Black Screen Dilemma</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-mobile-camera-apps-iphone-and-android-comparison/"><u>[New] Prime Mobile Camera Apps IPhone & Android Comparison</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mooth-loop-setup-tailoring-youtube-content-for-television/"><u>[New] Smooth Loop Setup Tailoring YouTube Content for Television</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-mememix-download-now/"><u>[New] Ultimate Mememix Download Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-contrasting-youtubes-ownership-norms-with-cc-ideals-for-2024/"><u>[Updated] Contrasting YouTube's Ownership Norms with CC Ideals for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-comparison-of-gif-creators/"><u>[Updated] The Ultimate Comparison of GIF Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-launching-zoom-sessions-smoothly-with-android/"><u>2024 Approved Launching Zoom Sessions Smoothly with Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/becoming-a-color-connoisseur-top-techniques-for-2024/"><u>Becoming a Color Connoisseur Top Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012194031-fallout-3-wont-start-top-fixes-and-solutions/"><u>Fallout 3 Won't Start? Top Fixes & Solutions !</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-3-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Ace 3 Phone without PIN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-wealth-hack-unleashing-the-full-potential-of-skybound-treasures/"><u>Pc Game Wealth Hack: Unleashing the Full Potential of 'Skybound Treasures'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-friendship-dilemma-regaining-connection-with-a-comprehensive-fix/"><u>Steam Friendship Dilemma: Regaining Connection with a Comprehensive Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-crash-problems-with-total-war-saga-troy-on-pc/"><u>Troubleshooting and Resolving Crash Problems with Total War Saga: Troy on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-repairing-your-pathfinder-game-controller-when-keys-fail/"><u>Troubleshooting Tips: Repairing Your Pathfinder Game Controller When Keys Fail</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-lag-and-connection-errors-on-the-most-recent-update/"><u>Ultimate Guide: Solving Lag and Connection Errors on the Most Recent Update</u></a></li>
 </ul></div>
 

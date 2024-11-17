@@ -1,7 +1,7 @@
 ---
 title: Seamless Gameplay Awaits - Resolve Fortnite's Launching Glitches Now
-date: 2024-08-23T17:30:09.110Z
-updated: 2024-08-24T17:30:09.110Z
+date: 2024-11-14T01:41:57.842Z
+updated: 2024-11-17T09:41:13.190Z
 tags:
   - win11
   - win10
@@ -83,15 +83,9 @@ To do so, follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
@@ -123,38 +117,30 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
-4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
-5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
-6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
+4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
+5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
+6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
+
 #### 2\. Adjust settings in System Properties
 
  To fix the issue if your Fortnite won’t load, you can also adjust your system settings:
@@ -163,20 +149,53 @@ Below lists out some PC settings you can configure:
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
 
@@ -193,8 +212,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +219,20 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-improving-accessibility-with-on-screen-text-elements-on-youtube-videos/"><u>[Updated] In 2024, Improving Accessibility with On-Screen Text Elements on YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-minecrafts-persistent-frozen-screen-a-comprehensive-guide-to-smoother-gameplay/"><u>Beat Minecraft's Persistent Frozen Screen : A Comprehensive Guide to Smoother Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/constraint-b-ensure-to-maintain-the-original-documents-sentence-structure-and-punctuation-after-translation/"><u>Constraint B: Ensure to Maintain the Original Document's Sentence Structure and Punctuation After Translation.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-elite-dangerous-from-crashing-your-pc-expert-tips/"><u>How to Stop Elite Dangerous From Crashing Your PC - Expert Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>In 2024, Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-no-more-sifu-performance-lag/"><u>Optimizing Your PC Settings: No More 'Sifu' Performance Lag</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-linksys-ae2500-device-drivers-free-downloads-inside/"><u>Quick Guide: Linksys AE2500 Device Drivers – Free Downloads Inside</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-lenovos-ideapad-130s-striking-a-balance-between-battery-life-and-user-comfort/"><u>Review of Lenovo's IdeaPad 130S: Striking a Balance Between Battery Life and User Comfort</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-apples-realm-ai-how-it-eclipses-gpt/"><u>Revolutionary Apple's RealM AI: How It Eclipses GPT-</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-integrating-a-pinterest-feed-into-your-facebook-business-profile/"><u>Step-by-Step Guide: Integrating a Pinterest Feed Into Your Facebook Business Profile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-free-online-ai-video-enhancement-tools-for-windows-and-mac/"><u>Top 10 Free Online AI Video Enhancement Tools for Windows and Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-setting-up-your-psn-profile-on-the-go/"><u>Ultimate Guide: Setting Up Your PSN Profile on the Go</u></a></li>
+</ul></div>
 

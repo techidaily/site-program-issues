@@ -1,7 +1,7 @@
 ---
 title: Overcoming Persistent PC Disruptions While Using Microsoft's 2020 Aviation Game
-date: 2024-08-23T17:27:27.637Z
-updated: 2024-08-24T17:27:27.637Z
+date: 2024-11-15T19:19:57.844Z
+updated: 2024-11-17T03:35:24.311Z
 tags:
   - win11
   - win10
@@ -34,9 +34,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -45,27 +42,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -76,17 +66,25 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
@@ -103,17 +101,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Click**Clear history** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -141,9 +148,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -154,9 +182,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
@@ -176,8 +201,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +208,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-creative-freedom-the-best-9-online-editors-for-beginners-for-2024/"><u>[New] Creative Freedom The Best 9 Online Editors for Beginners for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-finding-your-ideal-screen-recorder-obs-or-fraps/"><u>[New] Finding Your Ideal Screen Recorder OBS or Fraps?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-group-video-chat-apps-for-video-conferences-and-meetings-for-2024/"><u>[New] Top Group Video Chat Apps For Video Conferences and Meetings for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-idea-to-reality-explore-these-12-inspirational-free-image-websites/"><u>[Updated] 2024 Approved From Idea to Reality – Explore These 12 Inspirational Free Image Websites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967350296-biliary-tract-carcinoma-includes-cancers-affecting-the-gallbladder-and-bile-ducts/"><u>Biliary Tract Carcinoma Includes Cancers Affecting the Gallbladder and Bile Ducts.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
+<li><a href="https://win-great.techidaily.com/guida-completa-per-cancellare-un-hard-disk-esterno-con-windows-nativo/"><u>Guida Completa per Cancellare Un Hard Disk Esterno Con Windows Nativo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hogwarts-legacy-optimization-hacks-improve-your-gaming-experience-with-these-6-fixes/"><u>Hogwarts Legacy Optimization Hacks - Improve Your Gaming Experience with These 6 Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting/"><u>In 2024, How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-zoom-for-fb-live-broadcasts/"><u>Mastering Zoom for FB Live Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/online-method-for-altering-video-proportions-for-2024/"><u>Online Method for Altering Video Proportions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-5-strikers-screen-flicker-fixes-how-to-restore-vibrant-colors-and-clear-imagery/"><u>Persona 5 Strikers Screen Flicker Fixes – How to Restore Vibrant Colors and Clear Imagery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-pathfinder-wrath-of-the-righteous-freezes-in-windows-and-mac-os-now-running-smoothly/"><u>Solution for Pathfinder: Wrath of the Righteous Freezes in Windows and Mac OS - Now Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-preventing-super-fast-applications-from-freezing-your-pc/"><u>Solutions for Preventing 'Super-Fast' Applications From Freezing Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-diablo-ii-reborn-why-wont-it-start/"><u>Troubleshooting Diablo II Reborn - Why Won't It Start?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-overcoming-eos-account-login-problems/"><u>Troubleshooting Palworld: Overcoming EOS Account Login Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-battle-royale-call-of-duty-warzone-not-locating-pvp-games/"><u>Troubleshooting Steps: Resolving Issues with Battle Royale - Call of Duty: Warzone Not Locating PvP Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-ghostwire-tokyo-from-continuously-crashing-on-desktop/"><u>Troubleshooting Tips - Stop 'Ghostwire: Tokyo' From Continuously Crashing on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-steams-persistent-black-screen-issue-a-7-step-solution/"><u>Troubleshooting Tips for Steam's Persistent Black Screen Issue - A 7-Step Solution</u></a></li>
+</ul></div>
 

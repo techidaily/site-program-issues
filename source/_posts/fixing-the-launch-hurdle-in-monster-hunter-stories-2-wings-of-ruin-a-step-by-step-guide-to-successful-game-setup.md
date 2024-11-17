@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-10-31T23:21:23.107Z
-updated: 2024-11-06T16:16:17.396Z
+date: 2024-11-14T17:03:39.109Z
+updated: 2024-11-16T22:04:24.120Z
 tags:
   - win11
   - win10
@@ -101,13 +101,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -126,24 +119,37 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
 
@@ -158,22 +164,15 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -205,13 +204,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change DirectX settings
 
  When your FIFA 20 crashes with an error message mentioning “DirectX,” you’re most likely having a DirectX issue that requires you to change related settings of the game.
@@ -227,13 +219,6 @@ In case you don’t know how, here’s the guidance:
  Type**DIRECTX\_SELECT = 1** and click**Find Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
@@ -259,18 +244,18 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -290,6 +275,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -311,6 +303,13 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -325,6 +324,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Close unnecessary programs
 
  Chances are that some of the programs running on your PC is clashing with FIFA 20\. Although this kind of software conflicts doesn’t come up very often, it’s still worth checking. For instance, you can completely shut down some overlays and then wait to see if the crashing issue reoccurs. If you did notice one or more programs that might potentially conflict with FIFA 20, uninstall them from your PC or at least try to disable them while the game is running.
@@ -336,10 +342,10 @@ dism.exe /online /cleanup-image /restorehealth
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
@@ -368,22 +374,24 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-google-voice-calls/"><u>[Updated] How To Record Google Voice Calls</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726222804436-wma-mkv-movavi/"><u>安価なオンラインWMA MKVコンバータアプリケーション：詳細解説 – Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/acesse-key-do-movavi-video-converter-download-gratuito-agora/"><u>Acesse Key Do Movavi Video Converter - Download Gratuito Agora!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-gopro-tools-for-deep-sea-cinematography/"><u>Best Gopro Tools for Deep-Sea Cinematography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deal-with-persistent-fortnight-crashes-on-desktop-latest-solutions-players/"><u>Deal with Persistent Fortnight Crashes on Desktop - Latest Solutions Players</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/discovering-the-best-10-websites-where-you-can-access-premium-montage-music/"><u>Discovering the Best 10 Websites Where You Can Access Premium Montage Music</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/effective-ways-to-save-a-temporary-image-from-your-word-documents/"><u>Effective Ways to Save a Temporary Image From Your Word Documents</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o469/"><u>Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 12 Pro 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-in-chivalry-2-addressing-and-correcting-crashes/"><u>Mastering Stability in Chivalry 2: Addressing and Correcting Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-gionee-f3-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Gionee F3 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quickly-resolve-bluestacks-software-issues-5-simple-fixes/"><u>Quickly Resolve BlueStacks Software Issues: 5 Simple Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-rust-is-unresponsive-issue-top-strategies-for-developers/"><u>Resolving the 'Rust Is Unresponsive' Issue: Top Strategies for Developers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-free-from-the-fog-unsticking-sea-of-thieves-load-screen-woes/"><u>Resolving the Issue: Free From the Fog - Unsticking 'Sea of Thieves' Load Screen Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005288838-the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-lag-in-dying-light-video-game/"><u>Troubleshooting Tips: Overcoming Lag in Dying Light Video Game</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bridging-content-gap-youtube-videos-to-instagram/"><u>[Updated] In 2024, Bridging Content Gap YouTube Videos to Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>2024 Approved Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tless-and-economical-the-best-free-youtube-name-generators/"><u>Effortless & Economical The Best Free YouTube Name Generators</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-apple-homepod-mini-music-streaming-smart-functions-and-beyond/"><u>Expert Analysis of the Apple HomePod Mini - Music Streaming, Smart Functions, and Beyond</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004834772-fix-disco-elysium-pc-issues-unravel-the-mystery-and-keep-the-music-going/"><u>Fix Disco Elysium PC Issues: Unravel the Mystery and Keep the Music Going</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003629034-fix-your-gameplay-stop-minecraft-dungeon-pcs-from-frequent-crashing-easy-tips-inside/"><u>Fix Your Gameplay: Stop Minecraft Dungeon PCs From Frequent Crashing – Easy Tips Inside</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-12-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 12 online without SIM Card?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-listening-experience-ios-podcast-mastery/"><u>In 2024, Maximize Your Listening Experience IOS Podcast Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-tips-for-overcoming-minecrafts-exit-code-0-challenge/"><u>Master Tips for Overcoming Minecraft's Exit Code 0 Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-your-final-release-from-failing-essential-tips-and-tricks-for-a-successful-2024-launch/"><u>Prevent Your Final Release From Failing: Essential Tips & Tricks for a Successful 2024 Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-fixed-bluetooth-pairing-error-in-win-os/"><u>Quick Guide to Fixed: Bluetooth Pairing Error in Win OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reversed-problem-how-to-regain-connection-in-microsoft-outlook/"><u>Reversed Problem: How to Regain Connection in Microsoft Outlook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986886208-sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-why-destiny-2-previously-failed-to-start-on-windows-devices/"><u>Solution Found! Why Destiny 2 Previously Failed to Start on Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-how-to-stop-your-gas-station-simulator-from-freezing-on-a-windows-computer/"><u>Solution Guide: How to Stop Your Gas Station Simulator From Freezing on a Windows Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-uploading-impeccable-content-on-youtube-for-2024/"><u>The Ultimate Guide to Uploading Impeccable Content on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-house-flipper-2-freezing-issues-on-your-windows-computer/"><u>Troubleshooting Tips: Resolving House Flipper 2 Freezing Issues on Your Windows Computer</u></a></li>
 </ul></div>
 

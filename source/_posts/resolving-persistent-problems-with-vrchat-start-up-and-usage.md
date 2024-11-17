@@ -1,7 +1,7 @@
 ---
 title: Resolving Persistent Problems with VRChat Start-Up and Usage
-date: 2024-08-23T17:27:18.965Z
-updated: 2024-08-24T17:27:18.965Z
+date: 2024-11-09T20:20:34.278Z
+updated: 2024-11-17T06:22:54.123Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -42,15 +55,33 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -62,9 +93,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
@@ -76,8 +104,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -88,24 +120,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -114,9 +146,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -136,14 +165,16 @@ No advertising on the website.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -155,6 +186,14 @@ No advertising on the website.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
@@ -174,8 +213,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +220,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-hades-crashing-on-pc/"><u>[SOLVED] Hades Crashing on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cloud-haven-discovering-the-quintessential-savers-for-your-files-for-2024/"><u>[Updated] Cloud Haven Discovering the Quintessential Savers for Your Files for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-bridging-avi-and-gif-with-filmoras-seamless-conversion-tools/"><u>[Updated] In 2024, Bridging AVI & GIF with Filmora's Seamless Conversion Tools</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-troubleshooting-how-to-fix-game-crashes-on-pc/"><u>Battlefield 2042 Troubleshooting: How to Fix Game Crashes on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-13t-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi 13T Pro?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/constraint-a-utilize-old-english-lexical-choices-and-grammatical-structures-in-the-conversion/"><u>Constraint A: Utilize Old English Lexical Choices and Grammatical Structures in the Conversion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-fortnite-load-time-troubles-with-these-simple-tips/"><u>End Fortnite Load Time Troubles with These Simple Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-baseline-to-boosted-performance-the-unique-features-of-gpt-4-gpt-4-turbo-and-gpt-n/"><u>From Baseline to Boosted Performance: The Unique Features of GPT-4, GPT-4 Turbo, & GPT-N</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-rainbow-six-siege-black-screen-on-pc/"><u>How to Fix Rainbow Six Siege Black Screen on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-enterprise-account-the-complete-guidebook/"><u>Instagram Enterprise Account The Complete Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/price-efficiency-index-top-cloud-stores-of-the-year-for-2024/"><u>Price-Efficiency Index Top Cloud Stores of the Year for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-continuous-freezing-issues-in-immortals-fenyx-rising/"><u>Troubleshooting Guide for Continuous Freezing Issues in Immortals Fenyx Rising</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-gaming-headsets-the-ultimate-guide-to-solving-g435-audio-issues/"><u>Troubleshooting Silent Gaming Headsets: The Ultimate Guide to Solving G435 Audio Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-d3dx924dll-file-not-found-issue/"><u>Troubleshooting the d3dx9_24.dll File Not Found Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Finally, L.A. Noire Is Here! - Compatible with Your Personal Computer
-date: 2024-08-23T17:29:15.955Z
-updated: 2024-08-24T17:29:15.955Z
+date: 2024-11-14T03:01:32.904Z
+updated: 2024-11-17T02:09:21.738Z
 tags:
   - win11
   - win10
@@ -55,26 +55,31 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Launch the DXSETUP.exe file
 
  If L.A. Noire doesn’t launch the right way and a DirectX error appears, the corresponding solution is to launch the DXSETUP.exe file and install DirectX 9.
@@ -83,9 +88,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
@@ -94,9 +96,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Open the**3rd folder** .
 
 **5)** Launch the**DXSETUP.exe file** .
@@ -106,8 +105,12 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Opt out of all beta programs
 
  Game developers usually release Beta version before an official update is available. However, they can contain bugs and even cause the game instability. So if you’re participating in the Steam beta, try opting out so that L.A. Noire can launch in the normal version.
@@ -115,6 +118,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 **1)** Launch Steam. Then, select the**Steam** tab at the upper left corner and click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Account** and click the**Change** button under Beta participation.
 
@@ -124,13 +134,17 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
  According to a lot of players, the Steam desktop theatre mode will also cause L.A. Noire not launching. Try disabling this option and see if that solves your problem.
@@ -144,8 +158,12 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
@@ -153,6 +171,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Update your graphics driver
 
@@ -170,15 +195,19 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -199,8 +228,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +235,22 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-iphone-photos-quick-editing-hacks/"><u>[Updated] Perfect iPhone Photos Quick Editing Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-gastronomes-blueprint-filming-feasts/"><u>[Updated] The Gastronome’s Blueprint Filming Feasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-must-have-features-in-drone-gimbals/"><u>2024 Approved Top 10 Must-Have Features in Drone Gimbals</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/automatic-data-safeguarding-setting-up-scheduled-backups-on-windows-11-10-8-and-7/"><u>Automatic Data Safeguarding: Setting Up Scheduled Backups on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comprehensive-guide-to-healthcare-financial-operations-streamlining-the-revenue-lifecycle-summary-report/"><u>Comprehensive Guide to Healthcare Financial Operations: Streamlining the Revenue Lifecycle - Summary Report</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-tutorial-fix-the-problem-when-deathloop-refuses-to-start/"><u>Detailed Tutorial: Fix the Problem When Deathloop Refuses to Start</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratis-conversor-de-arquivos-wma-para-ogg-online-movavi/"><u>Gratis Conversor De Arquivos WMA Para OGG Online - Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-12-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme 12 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-issues-ensuring-proper-operation-of-thaumaturge-tool/"><u>Overcoming Compatibility Issues: Ensuring Proper Operation of Thaumaturge Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-error-guide-overcoming-errgfxstate-hurdles/"><u>Red Dead Redemption 2 Visual Error Guide - Overcoming ERR_GFX_STATE Hurdles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-finals-continuous-crash-issue-on-your-computer/"><u>Solving the 'Finals' Continuous Crash Issue on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-and-gaming-controllers-ensuring-seamless-detection-on-windows-machines/"><u>Steam and Gaming Controllers: Ensuring Seamless Detection on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-for-dealing-with-fortnites-monochrome-screen-errors-on-window-based-computers/"><u>Tips for Dealing with Fortnite's Monochrome Screen Errors on Window-Based Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unravel-the-mystery-of-mass-effects-ultimate-firepower-drops/"><u>Unravel the Mystery of Mass Effect's Ultimate Firepower Drops!</u></a></li>
+</ul></div>
 

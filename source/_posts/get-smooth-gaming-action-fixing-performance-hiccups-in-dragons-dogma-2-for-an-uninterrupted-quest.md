@@ -1,7 +1,7 @@
 ---
 title: "Get Smooth Gaming Action: Fixing Performance Hiccups in Dragon's Dogma 2 for an Uninterrupted Quest."
-date: 2024-08-23T17:27:47.600Z
-updated: 2024-08-24T17:27:47.600Z
+date: 2024-11-11T22:37:03.220Z
+updated: 2024-11-16T17:19:56.825Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developers of Forza Horizon 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -39,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -65,10 +69,24 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -84,14 +102,14 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Forza Horizon 5\. If you have a powerful PC, just skip this fix.
@@ -107,18 +125,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  If you haven’t tried this fix, just tweak your graphics card settings in Nvidia or AMD control panel to see if the in-game FPS boosts. Some players fix this issue after modified theire graphics card settings.
@@ -143,14 +149,8 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -165,15 +165,16 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  For those who love sharing game highlight videos, the background recording and Xbox Game Bar feature in Windows 10 is convenient. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -185,6 +186,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -202,8 +211,6 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +218,17 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>[New] In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-securing-smooth-timelines-to-avoid-frame-drops-in-obs/"><u>[Updated] 2024 Approved Securing Smooth Timelines to Avoid Frame Drops in OBS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-zooms-heavy-load-6-strategies-to-lower-cpu-usage/"><u>Battle Zoom's Heavy Load: 6 Strategies to Lower CPU Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-siri-perfecting-iphone-conversations/"><u>ChatGPT and Siri: Perfecting iPhone Conversations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-usb-30-driver-update-easy-installation-steps-for-windows-11-users/"><u>Intel USB 3.0 Driver Update – Easy Installation Steps for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-barriers-to-accessing-final-tests-online-essential-tips/"><u>Overcoming Barriers to Accessing Final Tests Online : Essential Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-skype-message-failure-effective-strategies-and-solutions/"><u>Overcoming Skype Message Failure - Effective Strategies and Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-xiaomi-13t-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Xiaomi 13T has been deleted</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-audio-issues-on-windows-11-with-these-five-essential-steps/"><u>Troubleshoot Audio Issues on Windows 11 with These Five Essential Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-the-not-installed-error-in-eac-launch-sequence/"><u>Troubleshooting Guide: Addressing the Not Installed Error in EAC Launch Sequence</u></a></li>
+</ul></div>
 

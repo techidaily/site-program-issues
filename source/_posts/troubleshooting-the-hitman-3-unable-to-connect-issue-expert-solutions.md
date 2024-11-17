@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the 'Hitman 3 Unable to Connect' Issue: Expert Solutions"
-date: 2024-11-05T03:50:36.470Z
-updated: 2024-11-07T04:10:15.863Z
+date: 2024-11-15T00:09:09.723Z
+updated: 2024-11-17T00:54:33.133Z
 tags:
   - win11
   - win10
@@ -56,48 +56,53 @@ If it’s not the server, please move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Run as administrator
 
@@ -110,6 +115,13 @@ Some players suggest Run as administrator could fix this issue.
 4. Reboot the game and check.
 
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -127,20 +139,14 @@ If this method doesn’t help, please move to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
- If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Method 5: Clear game cache
 
@@ -191,24 +197,24 @@ If this method doesn’t help, please move to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>[New] 2024 Approved Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-secret-to-striking-visuals-optimal-video-aspect-ratios/"><u>[New] In 2024, The Secret to Striking Visuals Optimal Video Aspect Ratios</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-playback-issues-resolving-video-not-showing-sony-a6400/"><u>[New] Playback Issues Resolving Video Not Showing Sony A6400</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-avoid-monetization-mishaps-essential-youtube-checks/"><u>[Updated] Avoid Monetization Mishaps Essential YouTube Checks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-facetime-capturing-conversations-live/"><u>[Updated] Mastering FaceTime Capturing Conversations Live</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/anthem-loading-issue-resolution-no-more-hanging-screens/"><u>Anthem Loading Issue Resolution: No More Hanging Screens</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-image-editors-tips-for-text-in-pictures/"><u>Essential Image Editors Tips for Text in Pictures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-your-favorite-songs-without-paying-15-resources-revealed/"><u>How to Get Your Favorite Songs Without Paying: 15 Resources Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-fps-issues-and-hitches-in-call-of-duty-modern-warfare-ii/"><u>How to Resolve FPS Issues and Hitches in Call of Duty: Modern Warfare II</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings/"><u>In-Depth Analysis of InShot's Features and Rankings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/is-rainbow-six-siege-up-for-an-overhaul-uncovering-the-truth/"><u>Is Rainbow Six Siege Up for an Overhaul ? Uncovering the Truth!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-granblue-fantasy-overcoming-relink-disruptions-and-stabilizing-performance-on-pc/"><u>Mastering Granblue Fantasy: Overcoming ReLink Disruptions and Stabilizing Performance on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-last-epoch-startup-problems-on-pc-expert-tips-and-patch-notes-for-202e/"><u>Overcome Last Epoch Startup Problems on PC: Expert Tips and Patch Notes for 202E</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-101-overcoming-intermittent-freezes-during-gray-zone-warfare-sessions/"><u>PC Troubleshooting 101: Overcoming Intermittent Freezes During Gray Zone Warfare Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-successful-solutions-for-when-saints-row-fails-to-start-on-your-pc/"><u>Resolving Issues: Successful Solutions for When Saints Row Fails to Start on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stability-guide-resolving-rocket-leagues-persistent-crashing-issues/"><u>Stability Guide: Resolving Rocket League's Persistent Crashing Issues</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-new-comic-book-hero-movies-of-2016-download-samples-for-free-preview/"><u>Top New Comic Book Hero Movies of 2016: Download Samples for Free Preview</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-war-thunder-game-speed-top-fps-solutions/"><u>Ultimate Guide: Boosting Your War Thunder Game Speed - Top FPS Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-image-enlargers-making-photographs-larger-without-losing-quality/"><u>[New] Best Image Enlargers Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filmmakers-toolkit-masterful-avi-to-gif-conversion-via-filmora-windowsmacos/"><u>[New] Filmmaker’s Toolkit Masterful AVI to GIF Conversion via Filmora (Windows/macOS)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-logitech-g-hub-not-working-on-windows/"><u>[SOLVED] Logitech G HUB Not Working on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-weekly-must-watch-excellence-in-igtv-for-2024/"><u>[Updated] Weekly Must-Watch Excellence in IGTV for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ibeatpro-tips-for-mobile-music-video-filmmaking/"><u>2024 Approved IBeatPro Tips for Mobile Music Video Filmmaking</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>Apeak Recorder Reviewed Speed, Quality, and Ease of Use Scored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-hurdle-connect-to-origin-successfully-now/"><u>Bypassing the Hurdle: Connect to Origin Successfully Now</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-your-facebook-experience-privacy-controls/"><u>Enhancing Your Facebook Experience: Privacy Controls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-11-proplus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme 11 Pro+?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-computer-from-crashing-while-playing-madden-21/"><u>How to Prevent Your Computer From Crashing While Playing Madden '21</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-creator-to-consumer-securing-a-spot-on-apples-listings/"><u>In 2024, From Creator to Consumer Securing a Spot on Apple’s Listings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/medium-application-malfunction-on-desktop-solutions-unveiled/"><u>Medium Application Malfunction on Desktop: Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-connection-to-server-lost-errors-in-escape-from-tarkov/"><u>Resolving Connection To Server Lost Errors in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-among-us-persistent-load-error-fix-and-troubleshooting-guide/"><u>Solving the 'Among Us' Persistent Load Error - Fix & Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-persistent-issues-with-among-us-avoid-downtime/"><u>Step-by-Step Fixes for Persistent Issues with Among Us - Avoid Downtime</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-setting-up-the-arctic-horizon-interface-in-kodi/"><u>Step-by-Step Guide: Setting Up the Arctic Horizon Interface in Kodi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-turning-on-windows-11s-high-dynamic-range-mode-for-2024/"><u>Step-by-Step Turning On Windows 11'S High Dynamic Range Mode for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-call-of-duty-warzone-refuses-to-open/"><u>Troubleshooting Steps for When 'Call of Duty: Warzone' Refuses to Open</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Black Myth Wukong FPS Drops & Lags on PC
-date: 2024-08-23T17:17:47.261Z
-updated: 2024-08-24T17:17:47.261Z
+date: 2024-11-10T01:04:25.496Z
+updated: 2024-11-16T18:37:25.762Z
 tags:
   - win11
   - win10
@@ -57,6 +57,14 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 3. Select the SSD that you want to create the library folder on, and click**Add** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/add-drive-steam.png)
 4. A new drive will appear on your Steam Storage interface.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/new-drive.png)
 5. Then select the drive that has Black Myth: Wukong installed,**tick the box** next to BMW, and click**Move** in the bottom right.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/move-game.png)
@@ -66,6 +74,13 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 
  If installing Black Myth: Wukong on your SSD doesn’t help with the lags, stutters or frame rate dopping issues, please move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Ensure your computer is not overheating
 
  If you’re playing BMW on a laptop, it’s possible that the cooling system is not powerful enough to keep your computer cool when the game is running. In that case, your laptop could get overheat, and Wukong will then suffer from frame rate drops and lags problems. To alleviate it, simply put your laptop on a stand, or better if you have a cooling pad.
@@ -74,6 +89,13 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 
  If this is not why Black Myth: Wukong lags, stutters, or has FPS dropping issues for you, please move on to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Optimize in-game settings
 
  The following in-game settings have proofed effective to the lagging, stuttering and frame rate dropping issues on our computers with different hardware components. Try them out to see if they work the charm for you:
@@ -81,31 +103,35 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 1. Launch Black Myth: Wukong and hit the Esc button, then select**Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-settings-1.png)
 2. You can first try the recommended settings by selecting**Apply Recommeneded Graphics Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/recommend-settings.png)
 3. If the recommended settings don’t work well for you, try the following settings instead:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-detaled-graphics-settings.png)
 4. Note that you can also try to set**Visual Effect Quality** ,**Hair Quality** , and**Globa Illumination Quality** to**Low** instead, as they should help increase frame rates.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Then try the following settings for your display. You can also try 3840×2160 and 2160×1080 as the Display Resolution. Lower resolution usually helps to increase frame rates.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-display-settings.png)
 6. If you’re using an Nvidia 20 or 30 series GPU, you can try**FSR** for**Super Resolution Sampling** and turn off**Full Ray Tracing** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/fsr-on-ray-tracing-off.png)
 7. If you’re using a 40 series Nvidia GPU, try**DLSS** instead.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/dlss.png)
 
  See if the above graphics settings help to improve your game performance by reducing the lags, and stutters and increasing the frame rate. If they don’t help much, move on to the other fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Update the graphics card driver (to the game-optimized version)
 
  An outdated or incorrect display card driver could also be the culprit to the lagging, stuttering, and FPS dropping problems in Black Myth: Wukong, so if the above methods don’t help BMW to run properly, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps, especially when there are game-optimized versions of the display card drivers released by hardware manufacturers.
@@ -118,21 +144,23 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
  If updating the display card driver doesn’t help with the lagging, stuttering, or frame rate-dropping problems in Black Myth: Wukong, please move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  5\. Run Black Myth Wukong in compatibility mode and as admin
 
  According to some gamers, running Black Myth: Wukong in compatibility mode for Windows 7 or Windows 8 and also as an administrator fixed the lagging and stuttering issues for them. To see if they do the trick for you as well:
@@ -149,8 +177,12 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
  Now open Black Myth: Wukong to see if it still experiences lags, stutters, and frame rate drops. If the problems remain, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  6\. Try to launch Black Myth Wukong with DirectX 11 or DirectX 12
 
  This is also mentioned by some gamers to have worked for their stuttering, lagging, and frame rate dropping problems with Black Myth: Wukong. To see if it does the trick for you:
@@ -160,13 +192,14 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Under the launch options, add **\-dx11** . Then save and try to launch Black Myth: Wukong to see if how it works.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. If the crashing problem with Persona 3 Reload remains, try to change the command to **\-dx12** and see if it helps.
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -183,8 +216,6 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +223,18 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerating-or-slowing-down-video-playback-on-insta-stories/"><u>2024 Approved Accelerating or Slowing Down Video Playback on Insta Stories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-improvements-addressing-frame-rate-dips-and-stuttering-on-pc/"><u>Battlefield 2042 Performance Improvements: Addressing Frame Rate Dips and Stuttering on PC</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guide-to-legally-downloading-films-from-sony-crackle-platform/"><u>Guide to Legally Downloading Films From Sony Crackle Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-could-not-create-the-java-virtual-machine-error-on-windows/"><u>How to Fix the “Could Not Create the Java Virtual Machine” Error on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-htc-u23-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on HTC U23 Pro online without jailbreak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-picture-in-picture-in-browsing-with-edge/"><u>In 2024, Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/masterful-strategies-to-correct-the-fatal-ark-error-in-your-system/"><u>Masterful Strategies to Correct the Fatal Ark Error in Your System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peer-reviews-unpacking-vllo-experience/"><u>Peer Reviews Unpacking VLLO Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slay-your-foes-in-3d-god-of-war-fps-battle-begins-on-personal-computers/"><u>Slay Your Foes in 3D: God of War FPS Battle Begins on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-the-rockstar-games-launcher-malfunction-expert-tips-for-2n4/"><u>Troubleshoot the Rockstar Games Launcher Malfunction - Expert Tips for 2N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-minecraft-unresponsive-issues-on-windows/"><u>Troubleshooting: Fixes for 'Minecraft Unresponsive' Issues on Windows</u></a></li>
+</ul></div>
 

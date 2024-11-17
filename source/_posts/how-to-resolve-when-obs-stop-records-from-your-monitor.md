@@ -1,7 +1,7 @@
 ---
 title: How to Resolve When OBS Stop Records From Your Monitor
-date: 2024-08-23T17:27:48.800Z
-updated: 2024-08-24T17:27:48.800Z
+date: 2024-11-15T06:23:31.948Z
+updated: 2024-11-17T04:02:00.345Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Check that your PC is capable
 
@@ -54,10 +67,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -67,6 +76,13 @@ To play Hitman 3, you need a PC with the following minimum specs:
 **windows firewall** and click **Windows Defender Firewall**  from the results.
 
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
@@ -80,15 +96,19 @@ To play Hitman 3, you need a PC with the following minimum specs:
   
 ![allow HITMAN 3 through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-HITMAN-3-through-windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then browse for HITMAN 3 and follow the instructions to allow your game through the firewall.
 
  If you’re using other anti-virus software, make sure you whitelist HITMAN 3\. If it still didn’t help you boot up HITMAN 3 properly, try the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
@@ -105,9 +125,12 @@ To play Hitman 3, you need a PC with the following minimum specs:
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you are not familiar with computer hardware, and if you don’t have the time to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -120,15 +143,23 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -161,8 +192,12 @@ Here’s how:
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
@@ -171,9 +206,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable unnecessary programs
 
  Sometimes, the programs running in the background can interfere with Hitman 3\. What’s more, some of them, such as Media Players and web browsers have been constantly using the resources that possibly trigger the black screen in Hitman 3.
@@ -186,16 +218,10 @@ Here’s how to disable programs in Task Manager:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
   
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the **Startup**  tab, you can additionally prevent some programs from starting up on system boot. This will lower your overall cpu usage when using your PC.  
   
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
@@ -214,8 +240,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +247,26 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-brief-beatcasts-role-of-the-melody/"><u>[Updated] 2024 Approved Brief Beatcasts Role of the Melody</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-digital-dexterity-fine-tuning-funny-videos-for-facebook-and-insta-laughs/"><u>[Updated] 2024 Approved Digital Dexterity Fine-Tuning Funny Videos for Facebook and Insta Laughs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-filmmakers-toolkit-making-compelling-youtube-trailers/"><u>[Updated] Filmmaker's Toolkit Making Compelling YouTube Trailers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/civilization-vi-crashing-woes-heres-how-you-can-get-smooth-gameplay-again/"><u>Civilization VI Crashing Woes? Here's How You Can Get Smooth Gameplay Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-error-preventing-my-minecraft-launcher-from-updating-successfully/"><u>How I Fixed the Error Preventing My Minecraft Launcher From Updating Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-the-component-object-model-surrogate-stopped/"><u>How to Resolve When the 'Component Object Model Surrogate Stopped'</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-tantalizing-titles-designer/"><u>In 2024, Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-unlock-your-creative-potential-top-ipad-video-editors/"><u>In 2024, Unlock Your Creative Potential Top iPad Video Editors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-visual-hurdles-a-guide-to-correcting-black-screens-in-destiny-2/"><u>Overcoming Visual Hurdles: A Guide to Correcting Black Screens in Destiny 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-failed-to-connect-issues-for-path-of-exile-players-comprehensive-guide/"><u>Resolving 'Failed to Connect' Issues for Path of Exile Players - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snowrunner-stability-issues-on-desktop-heres-how-to-prevent-the-unexpected-shutdowns-and-restarts/"><u>SnowRunner Stability Issues on Desktop? Here's How to Prevent the Unexpected Shutdowns and Restarts!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-non-responsive-amd-radeon-graphics-driver/"><u>Solving the Issue of Non-Responsive AMD Radeon Graphics Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-bluestacks-from-crashing-a-step-by-step-guide-for-instant-fixes/"><u>Stop BlueStacks From Crashing: A Step-by-Step Guide for Instant Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-your-mouse-control-glitches-in-resident-evil-village/"><u>Troubleshooting and Solving Your Mouse Control Glitches in Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlock-virtual-realms-on-your-phone-with-simple-steps-for-2024/"><u>Unlock Virtual Realms on Your Phone with Simple Steps for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

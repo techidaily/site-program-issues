@@ -1,7 +1,7 @@
 ---
 title: Enhanced Stability Now in Disco Elysium for a Smoother PC Experience
-date: 2024-08-23T17:28:26.956Z
-updated: 2024-08-24T17:28:26.956Z
+date: 2024-11-12T04:54:56.405Z
+updated: 2024-11-17T04:39:58.235Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d5d13fb577cc5620ebbaf2970abea56dace77d9e5
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -59,11 +66,16 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -71,8 +83,12 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -87,9 +103,20 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -130,15 +157,8 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -150,15 +170,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Launch **Steam** and go to your **LIBRARY** , then right click on Forza Horizon 5 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
@@ -172,13 +185,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 Run Forza Horizon 5 to see you can play it smoothly.
 
 ---
@@ -194,8 +212,6 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +219,20 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mobile-lut-shifts-enhancing-imagesvideos/"><u>[New] Mobile LUT Shifts Enhancing Images/Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamline-video-production-with-free-music/"><u>[Updated] In 2024, Streamline Video Production with Free Music</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-no-more-glitches-working-obs-cameras/"><u>[Updated] No More Glitches Working OBS Cameras</u></a></li>
+<li><a href="https://fox-place.techidaily.com/beste-zugabezeit-loser-furs-xxclone-erweckt-ihr-portal-in-kompletten-steinrausch/"><u>BESTE ZUGABEZEIT-LÖSER FÜRS XXClone: ERWECKT IHR PORTAL IN KOMPLETTEN STEINRAUSCH!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/days-gone-fixed-issues-and-enhanced-performance-for-pc-gamers/"><u>Days Gone: Fixed Issues and Enhanced Performance for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-play-overcoming-psychonauts-2s-crash-problems-on-pc/"><u>Expert Advice for a Smooth Play: Overcoming Psychonauts 2'S Crash Problems on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-ntdlldll-error-resolved-solutions-for-stability-issues-in-windows-11-and-10/"><u>Fixing the ntdll.dll Error: Resolved Solutions for Stability Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y36i-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y36i</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dev-error-6328-in-call-of-duty-warzone-pro-tips-and-solutions/"><u>Overcoming Dev Error 6328 in Call of Duty: Warzone – Pro Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-ubisoft-connect-malfunction-effective-solutions-for-gamers-in-2-cuff-links-2024/"><u>Resolving Ubisoft Connect Malfunction: Effective Solutions for Gamers in 2 Cuff Links 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/securely-transforming-youtube-videos-top-3-reliable-methods-for-2024/"><u>Securely Transforming YouTube Videos Top 3 Reliable Methods for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-viewing-guide-watching-x-men-saga-from-beginning-to-end/"><u>The Ultimate Viewing Guide: Watching X-Men Saga From Beginning to End</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stability Secrets: Avoiding Daily Driven Game Crashes This Year, 2024"
-date: 2024-11-03T21:27:24.050Z
-updated: 2024-11-06T18:49:12.207Z
+date: 2024-11-14T21:56:49.481Z
+updated: 2024-11-17T06:33:23.599Z
 tags:
   - win11
   - win10
@@ -60,29 +60,9 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then move to the next fix.
 
@@ -96,13 +76,6 @@ Here is how to view your computer specifications:
 
 If your game still crashes, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run your game as an administrator**
 
  Steam sometimes can’t access certain game files on your computer under normal user mode, which could lead to the_Total War_ crashing issue. To see if that’s the cause of your issue, follow the instructions below:
@@ -111,6 +84,13 @@ If your game still crashes, move on and try the fix below.
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -118,13 +98,6 @@ If your game still crashes, move on and try the fix below.
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Restart_Total War_ from Steam.
 
@@ -162,6 +135,13 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -184,6 +164,13 @@ There are two ways you can get the right driver for your graphics card:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -215,23 +202,9 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -240,6 +213,13 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -252,10 +232,10 @@ If your issue persists, go ahead with the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-226.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the**ADVANCED** .
@@ -266,9 +246,29 @@ If your issue persists, go ahead with the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-656.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
 If your game crashes again, try the fix below.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Steam
 
@@ -298,19 +298,6 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
@@ -320,6 +307,13 @@ If your game crashes again, try the fix below.
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -348,16 +342,18 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/asterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[New] Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tips-for-iphone-voice-note-making/"><u>[Updated] 2024 Approved Essential Tips for iPhone Voice Note Making</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/buzzfeed-gurus-flashing-with-snapchat-for-2024/"><u>BuzzFeed Gurus Flashing with Snapchat for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/downloadless-video-sizing-application-adjust-video-length-and-quality-costlessly-on-the-internet/"><u>Downloadless Video Sizing Application - Adjust Video Length and Quality Costlessly on the Internet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995710809-improve-dota-2-gaming-experience-overcome-frame-rate-drops-on-windows-1110/"><u>Improve Dota 2 Gaming Experience: Overcome Frame Rate Drops on Windows 11/10!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-11r-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus 11R? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rise-and-shine-naturally-unboxing-the-heimvision-a80s-sunrise-light-therapy-clock/"><u>Rise and Shine Naturally: Unboxing the HeimVision A80S Sunrise Light Therapy Clock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-clearing-up-fuzzy-graphics-in-outriders/"><u>Solved! Clearing Up Fuzzy Graphics in Outriders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009987243-swtor-launch-woes-heres-how-you-can-easily-solve-them/"><u>SWTOR Launch Woes? Here's How You Can Easily Solve Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fifas-game-of-the-year-solutions-for-fm2022-pc-crashes/"><u>Troubleshooting FIFA's Game of the Year: Solutions for FM2022 PC Crashes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>[New] 2024 Approved Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-arsenal-of-skills-the-finest-7-fps-selections/"><u>[New] Arsenal of Skills The Finest 7 FPS Selections</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-scouting-grounds-websites-for-finding-sponsorships-in-videography-for-2024/"><u>[Updated] Scouting Grounds Websites for Finding Sponsorships in Videography for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crisp-and-clear-gameplay-fixing-the-hazy-visuals-in-cod-warzone-pc/"><u>Crisp and Clear Gameplay: Fixing the Hazy Visuals in COD: Warzone (PC)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-gaming-performance-solutions-to-fix-stuttering-and-increase-fps-on-the-ascent/"><u>Improve Gaming Performance: Solutions to Fix Stuttering & Increase FPS on 'The Ascent'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-huawei-nova-y91-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Huawei Nova Y91 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-repairs-for-a-broken-madden-nfl-22-experience/"><u>Speedy Repairs for a Broken Madden NFL 22 Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-jedi-overcoming-pc-performance-problems-and-game-crashes-in-fallen-order/"><u>Star Wars Jedi: Overcoming PC Performance Problems and Game Crashes in Fallen Order</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-eliminate-error-80070057-from-your-cod-black-ops-cold-war-gameplay/"><u>Step-by-Step Guide to Eliminate Error 80070057 From Your COD: Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-google-chrome-not-opening-properly/"><u>Troubleshooting Steps for Google Chrome Not Opening Properly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-using-live-photos-features-with-ios-16s-new-functionality/"><u>Unveiling the Secrets of Using Live Photos Features with iOS 16'S New Functionality</u></a></li>
 </ul></div>
 

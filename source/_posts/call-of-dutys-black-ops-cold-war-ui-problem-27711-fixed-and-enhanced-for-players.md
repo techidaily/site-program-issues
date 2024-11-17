@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-11-01T02:01:45.177Z
-updated: 2024-11-07T03:23:40.836Z
+date: 2024-11-10T01:17:48.186Z
+updated: 2024-11-16T23:06:51.222Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 4. **[Scan and repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Lower the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Avoid PC overheating
 
  Black Ops Cold War is a graphic-intensive application that will put load on your CPU and GPU. When these component overheats, the computer will stop functioning to protect the hardware from physical damage, and thus your game freezes.
@@ -36,10 +49,16 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
@@ -61,24 +80,10 @@ There are two ways for you to do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Disable fullscreen optimizations
 
@@ -90,34 +95,41 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
@@ -132,16 +144,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -178,16 +190,16 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-ultimate-directory-where-to-download-youtube-ringtones/"><u>[New] Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-recording-your-youtube-livestreams/"><u>[Updated] In 2024, Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-fixing-latency-and-elevating-frame-rates-in-watch-dogs-legion/"><u>Enhance Your Gaming Experience: Fixing Latency and Elevating Frame Rates in Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-the-latest-intel-integrated-graphics-drivers-for-windows-11-download-and-installation-tutorial/"><u>Ensure Optimal Performance with the Latest Intel Integrated Graphics Drivers for Windows 11 - Download & Installation Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-reducing-discord-cpu-drain-expert-strategies/"><u>Master the Art of Reducing Discord CPU Drain - Expert Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-rogue-companys-stability-improved-for-pc-users/"><u>Say Goodbye to Crashes: Rogue Company's Stability Improved for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcome-video-card-glitches-in-the-sims-4/"><u>The Ultimate Guide to Overcome 'Video Card Glitches in The Sims 4'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-game-freezes-for-cod-black-ops-cold-war-players/"><u>Troubleshooting Game Freezes for COD: Black Ops Cold War Players</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-issues-top-8-solutions-for-iphoneipad-connection-woes/"><u>Troubleshooting Wi-Fi Issues: Top 8 Solutions for iPhone/iPad Connection Woes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030065311-pc/"><u>ソフトウェア不必要でPCインスタストーリーを継承する方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-division-2-performance-enhancements-tackling-the-2024-frame-rate-dip-and-motion-hitches/"><u>'The Division 2' Performance Enhancements: Tackling the 2024 Frame Rate Dip and Motion Hitches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transform-playtime-into-memories-with-switch-videos-for-2024/"><u>[New] Transform Playtime Into Memories with Switch Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blues-with-fortnite-a-players-handbook-on-fixing-error-code-84/"><u>Beat the Blues with Fortnite: A Player’s Handbook on Fixing Error Code 84</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-cannot-start-sea-of-thieves-problem-quickly/"><u>How to Fix the 'Cannot Start Sea of Thieves' Problem Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-pc-crashes-solved-for-the-latest-updates-of-2024/"><u>Lego Star Wars: The Skywalker Saga - PC Crashes Solved for the Latest Updates of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-fps-activating-and-using-gpu-with-cyberpunk-2077-on-a-windows-10-pc/"><u>Maximizing FPS: Activating and Using GPU with Cyberpunk 2077 on a Windows 10 PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-distinctions-between-echo-pop-and-echo-dot-a-comprehensive-guide/"><u>The Distinctions Between Echo Pop and Echo Dot - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transforming-scripted-words-into-powerful-video-soundtracks-for-2024/"><u>Transforming Scripted Words Into Powerful Video Soundtracks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-continuous-crashes-in-watch-dogs-legion-on-desktop-systems/"><u>Troubleshooting and Solving Continuous Crashes in Watch Dogs: Legion on Desktop Systems</u></a></li>
 </ul></div>
 

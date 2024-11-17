@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on How To Fix Dead By Daylight's Error 8014 Issue
-date: 2024-08-23T17:28:48.608Z
-updated: 2024-08-24T17:28:48.608Z
+date: 2024-11-13T05:44:28.683Z
+updated: 2024-11-16T20:27:25.536Z
 tags:
   - win11
   - win10
@@ -46,14 +46,18 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Optimize graphics settings
 
  If you’re using a laptop or multi-GPU system, make sure the dedicated GPU is properly utilized. If not, you’ll see huge FPS drops and it’s better to tweak the settings for maximum performance
@@ -61,22 +65,28 @@ To keep your graphics driver up-to-date, here are two options for you:
 1. In the Windows search box, type**graphics settings** and select**Graphics settings** from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -89,10 +99,14 @@ If this method doesn’t work, try the next solution.
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -101,16 +115,26 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
-3. Untick**Enable the Steam Overlay while in-game** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
+3. Untick**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
 Restart the game and test. Still no luck? Continue to the next fix.
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
@@ -122,18 +146,20 @@ Restart the game and test. Still no luck? Continue to the next fix.
 2. Double-click**Software devices** to open the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Adjust the NVIDIA settings
 
  If all the methods above don’t help and you’re using an NVIDIA graphics card, adjusting specific graphical settings may increase your FPS in Elden Ring.
@@ -146,8 +172,12 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Apply the changes and see if you’re able to play the game as expected.
 
 ---
@@ -163,8 +193,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +200,21 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids/"><u>[Updated] In 2024, Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-perfection-editing-numbers-on-tiktok/"><u>2024 Approved The Path to Perfection Editing Numbers on TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992179229-enhance-your-gameplay-addressing-fps-dips-in-farming-simulator-grower-you-may-need-to-evaluate-your-growing-conditions-and-adjust-accordingly/"><u>Enhance Your Gameplay: Addressing FPS Dips in Farming Simulator Grower, You May Need to Evaluate Your Growing Conditions and Adjust Accordingly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/finding-a-stable-playthrough-solutions-to-overcome-wolcens-pc-issues/"><u>Finding a Stable Playthrough: Solutions to Overcome Wolcen's PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-error-code-6-glitches-in-pc-versions-of-warzone-and-modern-combat-series/"><u>How to Resolve 'Error Code 6' Glitches in PC Versions of Warzone and Modern Combat Series</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 14 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-navigating-picture-landscapes-on-pexelscom/"><u>In 2024, Navigating Picture Landscapes on Pexels.com</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-sony-xperia-5-v-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Sony Xperia 5 V Phone Now with These Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-yuva-3-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Yuva 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/msi-dragon-center-woes-heres-how-to-get-it-working-again/"><u>MSI Dragon Center Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-keeping-fortnite-runs-smooth-without-interruption/"><u>Overcoming Common Issues: Keeping Fortnite Runs Smooth Without Interruption</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intersection-of-ai-and-graphics-understanding-dlss-update-35-by-nvidia/"><u>The Intersection of AI and Graphics: Understanding DLSS Update 3.5 by Nvidia</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/why-highlighted-content-flourishes-on-instagram-stories/"><u>Why Highlighted Content Flourishes on Instagram Stories</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-fellowes-microban-wired-keyboard-is-your-best-bet-for-savings-and-performance/"><u>Why the Fellowes Microban Wired Keyboard Is Your Best Bet for Savings and Performance</u></a></li>
+</ul></div>
 

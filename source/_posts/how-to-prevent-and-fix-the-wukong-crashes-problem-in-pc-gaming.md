@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix the 'Wukong Crashes' Problem in PC Gaming
-date: 2024-08-23T17:17:34.946Z
-updated: 2024-08-24T17:17:34.946Z
+date: 2024-11-14T01:08:57.408Z
+updated: 2024-11-17T05:33:43.280Z
 tags:
   - win11
   - win10
@@ -41,8 +41,12 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
  If this is not your case, please move on to the other methods below regarding the crashing, freezing and black screen issues in Black Myth: Wukong.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  2\. Clean reinstall your display card driver
 
  Another very common reason for game crashes and freezes is an outdated or faulty graphics card driver, and Black Myth: Wukong is no exception. In this case, it’s recommended that you do a clean reinstallation of the display card driver, to avoid problems from shader caches.
@@ -52,17 +56,11 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 2. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 3. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 4. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 5. Your computer should restart when the old driver files for your graphics card are cleaned.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 6. Restart your computer afterward. Your computer will now have the generic display card driver provided by Windows.
 
  Now it’s time to update your display card driver. Game Science recommends different approaches for different brands.
@@ -83,9 +81,6 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. You can also pick the older drivers by clicking the**View all driver versions** button.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/de-view-older-drivers.png)
 5. Click the download button on the right to download the older driver that you need.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/old-amd-driver.png)
@@ -96,15 +91,16 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
  If a clean reinstallation of the graphics card driver doesn’t help with the crashes and freezes in Black Myth: Wukong, please move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Verify the game files integrity
 
  For a big game like Black Myth: Wukong, it’s not strange that some game files might be missing or corrupted during the download and installation. So if you’re experiencing constant crashes and freezes in BMW, you should try to verify the game files. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Launch Steam.
@@ -116,6 +112,13 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Epic Games Launcher
 
 1. On Epic Game Launcher, find Black Myth: Wukong in your **Library** . Click **the three dots** on the right side of the game line and select **Manage** .  
@@ -126,9 +129,6 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If verifying the game files still doesn’t help to fix the freezes and crashes in Black Myth: Wukong, please move on.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Windows
 
  If your system isn’t updated regularly, there could be missing Visual C++ Redistributable Runtimes or other compatibility issues that can cause crashes and freezes in Black Myth: Wukong. To make sure that you have the latest available updates installed:
@@ -136,29 +136,31 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then try your Black Myth: Wukong again to see if it still crashes and freezes. If the problem remains, please move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Close unnecessary background applications
 
@@ -173,14 +175,16 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select the above-mentioned application and click**End Task** to close them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
+
  Then run Black Myth: Wukong again and see if it still crashes, freezes and has black screen. If the problem still remains, please move on to the next fix below.
 
 ## 6\. Repair system files
@@ -195,7 +199,22 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
 
@@ -212,8 +231,6 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +238,26 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-mlb-the-show-21-server-issue/"><u>[Fixed] MLB The Show 21 Server Issue</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-approaches-to-non-sound-media/"><u>[New] Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[New] In 2024, SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-list-of-10-invisible-stories-watchers-for-2024/"><u>[New] List of 10 Invisible Stories Watchers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-omnipresent-iptv-networking-model-for-2024/"><u>[New] Omnipresent IPTV Networking Model for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-far-cry-6-not-launching-on-pc/"><u>[SOLVED] ‘Far Cry 6 Not Launching’ on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-augment-creativity-a-compreenas-of-best-android-drawing-tools-for-2024/"><u>[Updated] Augment Creativity A Compreenas of Best Android Drawing Tools for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-dramatic-footage-showdown-hero5-against-star/"><u>[Updated] In 2024, Dramatic Footage Showdown Hero5 Against Star</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevating-media-quality-from-xmlssattml-to-premium-srt-for-2024/"><u>Elevating Media Quality From XML/SSA/TTML to Premium SRT for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-game-interruptions-how-to-prevent-frequent-overwatch-pc-software-failures/"><u>Eliminating Game Interruptions: How to Prevent Frequent Overwatch ² PC Software Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-batman-arkham-knight-crashing-and-critical-bugs/"><u>Fixes for Batman: Arkham Knight Crashing and Critical Bugs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamlessly-streaming-social-media-vids-via-television/"><u>In 2024, Seamlessly Streaming Social Media Vids via Television</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-error-resolution-0x80072f8f/"><u>Mastering Windows Error Resolution: 0X80072f8f</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-directx-drawing-issues/"><u>Resolved: Troubleshooting DirectX Drawing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-to-fix-final-fantasy-xv-pc-game-crashes/"><u>Resolved: Troubleshooting Steps to Fix Final Fantasy XV PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-of-undetected-gpus-by-msi-afterburner-in-windows-10-and-windows-11-environments/"><u>Solving the Dilemma of Undetected GPUs by MSI Afterburner in Windows 10 and Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/this-title-indicates-that-it-is-a-step-by-step-guide-to-fixing-startup-issues-and-includes-the-current-year-for-freshness/"><u>This Title Indicates that It Is a Step-by-Step Guide to Fixing Startup Issues and Includes the Current Year for Freshness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-how-to-resolve-minecraft-unresponsive-issues-on-your-computer/"><u>Troubleshooting Fixes: How to Resolve 'Minecraft Unresponsive' Issues on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-pc-crashes-in-wolcen-lords-of-mayhem/"><u>Troubleshooting Guide: Fixing PC Crashes in Wolcen: Lords of Mayhem</u></a></li>
+</ul></div>
 

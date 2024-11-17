@@ -1,7 +1,7 @@
 ---
 title: How to Get Crusader Kings III Running Smoothly After PC Crashes – Expert Tips Included
-date: 2024-08-23T17:29:38.781Z
-updated: 2024-08-24T17:29:38.781Z
+date: 2024-11-11T00:36:39.739Z
+updated: 2024-11-16T21:25:00.727Z
 tags:
   - win11
   - win10
@@ -58,16 +58,17 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
@@ -80,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
@@ -87,8 +95,12 @@ thumbnail: https://thmb.techidaily.com/a8f5e8f2d61f7d24178d3fc6463600a5991de5722
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -123,8 +135,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -133,9 +149,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -155,8 +168,18 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -166,8 +189,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
@@ -178,9 +205,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -189,13 +213,17 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3) Restart your computer.
 
 4) Download the installation package from[https://www.epicgames.com/store/en-US/download](https://www.epicgames.com/store/en-US/download) and install it on your computer.
@@ -215,8 +243,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +250,23 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>[New] 2024 Approved Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-trivia-titans-of-the-year-best-general-knowledge-sites/"><u>[New] In 2024, Trivia Titans of the Year - Best General Knowledge Sites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-soundwaves-compreeved-websites-for-skype-audio/"><u>[Updated] The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-15-unboxing-clips-reviewed-youtubes-standout-channels-of-2024/"><u>[Updated] Top 15 Unboxing Clips Reviewed YouTube's Standout Channels of 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-hdr-masterclass-from-basics-to-brilliance/"><u>2024 Approved IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/captivate-with-time-lapse-artistry-on-samsung-phones/"><u>Captivate with Time-Lapse Artistry on Samsung Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-making-your-google-meet-camera-function-again/"><u>Effective Solutions: Making Your Google Meet Camera Function Again</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform-for-2024/"><u>Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>In 2024, Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x8b-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor X8b to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-system-for-smooth-starfield-gameplay-avoidance-of-crashes/"><u>Optimizing Your System for Smooth Starfield Gameplay: Avoidance of Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-stability-improvements-and-crash-fixes-whats-new-in-the-2024-update/"><u>Phasmophobia Stability Improvements & Crash Fixes: What's New in the 2024 Update?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilizing-deathloop-for-pc-effective-strategies-to-stop-unexpected-game-interruptions/"><u>Stabilizing Deathloop for PC: Effective Strategies to Stop Unexpected Game Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-better-gaming-experience-in-ring-of-elysium-by-boosting-your-fps/"><u>Unlock Better Gaming Experience in Ring of Elysium by Boosting Your FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-the-cancellation-of-diablo-immortals-planned-release-on-personal-computers-explained/"><u>Update: The Cancellation of Diablo Immortal's Planned Release on Personal Computers Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-battle-against-black-ops-cold-war-ui-error-27711-complete-resolution-steps-inside/"><u>Winning The Battle Against Black Ops Cold War UI Error 27711 - Complete Resolution Steps Inside!</u></a></li>
+</ul></div>
 

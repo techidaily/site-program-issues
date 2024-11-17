@@ -1,7 +1,7 @@
 ---
 title: "Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs"
-date: 2024-10-31T19:29:39.828Z
-updated: 2024-11-07T01:14:19.508Z
+date: 2024-11-12T17:55:34.484Z
+updated: 2024-11-16T21:31:27.714Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Even since its demo, House Flipper 2 has gained popularity and positive reviews 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Make sure your machine meets the system requirements for House Flipper 2
 
  Technically speaking, House Flipper 2 doesn’t have rather high requirements for your computer, especially when compared to other games. So if your House Flipper 2 crashes easily, one of the first things you need to check is whether your computer meets the minimum system requirements for the game. If your machine is below or just at the requirements, you may need to upgrade your hardware for House Flipper 2 to run smoothly.
@@ -64,13 +57,6 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Start House Flipper 2 with a command
 
  If your House Flipper 2 keeps crashing even from the very beginning, you can try the following command to see if it helps:
@@ -84,13 +70,6 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update Windows
 
  System updates from Windows usually help to stabilize and optimize the overall computer environment. So if your system isn’t updated regularly, there could be compatibility issues that can cause House Flipper 2 to crash easily. To make sure that you have the latest available updates installed:
@@ -102,13 +81,6 @@ Here are the requirements for your reference:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -135,13 +107,6 @@ Here are the requirements for your reference:
 * **[I have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[I have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5.1 I have an Nvidia display card
 
 1. Right-click on your desktop and select**NVIDIA Control Panel** .  
@@ -149,10 +114,10 @@ Here are the requirements for your reference:
 2. Select**Manage 3D settings** on the left menu, and select**Program Settings** on the right panel. Then click the**Add** button.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Navigate to the folder where you install House Flipper 2\. (It’ll most likely be C:\\Program Files (x86)\\Steam\\steamapps\\common\\House Flipper 2). Then select the executable file for House Flipper 2.
@@ -163,6 +128,13 @@ Here are the requirements for your reference:
 6. Click**Apply** to save the changes.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-18.png)
 
  Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5.2 I have an AMD display card
 
@@ -205,10 +177,10 @@ Here are the requirements for your reference:
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -234,6 +206,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -257,6 +236,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
@@ -267,8 +253,22 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. On the top right corner of the menu, click the settings icon. Then select the **Graphics**  tab and navigate to **Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
@@ -287,13 +287,6 @@ To tell which drive you have, please view the Task Manager in this way:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with House Flipper 2 and are free from the pain of constant crashes, it’s highly recommended that you install the game on your SSD.
@@ -314,6 +307,19 @@ To tell which drive you have, please view the Task Manager in this way:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -338,17 +344,19 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops-for-2024/"><u>[New] Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-how-to-grow-youtube-subscriber/"><u>[Updated] How to Grow Youtube Subscriber</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-backward-play-a-comprehensive-walkthrough/"><u>[Updated] In 2024, Instagram Backward Play A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-bugs-in-dragon-quest-xi-expert-guide-for-a-smooth-gaming-experience/"><u>Beat the Bugs in Dragon Quest XI: Expert Guide for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725290144156-blu-ray/"><u>Blu-Rayディスク使いこなしガイド:知識編集・再生・変換手順完全マニュアル</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-se-2020-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone SE (2020) without the Previous Owner?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-youtube-green-screen-issues/"><u>How To Fix YouTube Green Screen Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y27-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y27 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimized-gtfo-eliminating-frame-rate-dropouts-smoothing-out-stutters-and-elevating-gaming-performance/"><u>Optimized GTFO: Eliminating Frame Rate Dropouts, Smoothing Out Stutters & Elevating Gaming Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-league-of-legends-internet-linkage-troubleshooting/"><u>Solution for League of Legends Internet Linkage Troubleshooting</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/the-no-nonsense-guide-to-lively-tiktok-live-visits/"><u>The No-Nonsense Guide to Lively TikTok Live Visits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-rainbow-six-siege-slowdown-and-lags/"><u>Ultimate Fix for Rainbow Six Siege Slowdown and Lags</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-audiovisual-perfection-leading-audio-enhancement-apps-for-2024/"><u>[Updated] Audiovisual Perfection Leading Audio Enhancement Apps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficiency-and-speed/"><u>[Updated] Efficiency and Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-players-manual-to-overcome-graphics-hiccups-and-improve-flow-in-aoe-4-gaming/"><u>A Player's Manual to Overcome Graphics Hiccups and Improve Flow in AoE 4 Gaming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-k70e-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi K70E FRP Bypass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/attention-stirrer-supreme/"><u>Attention Stirrer Supreme</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-a-smooth-wow-gaming-experience-avoid-frequent-crashes/"><u>Expert Tips for a Smooth WoW Gaming Experience - Avoid Frequent Crashes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-11-proipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 11 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-m14-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy M14 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-remedy-simple-fixes-for-directx-errors-in-fifa-19/"><u>Master the Remedy: Simple Fixes for DirectX Errors in FIFA 19</u></a></li>
+<li><a href="https://win11.techidaily.com/tomorrows-technology-today-a-new-windows-era/"><u>Tomorrow's Technology Today: A New Windows Era</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-crashes-and-freezes-during-deathloop-sessions-pc-and-ps5/"><u>Troubleshooting Steps to Fix Crashes and Freezes During Deathloop Sessions (PC & PS5)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-helldivers-ii-overcoming-startup-black-screens/"><u>Troubleshooting Tips for Helldivers II: Overcoming Startup Black Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-the-midnight-hue-fixes-for-fortnites-dark-screen-problem-on-windows-machines/"><u>Winning Against the Midnight Hue: Fixes for Fortnite's Dark Screen Problem on Windows Machines</u></a></li>
 </ul></div>
 

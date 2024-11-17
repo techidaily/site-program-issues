@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-11-04T20:27:52.253Z
-updated: 2024-11-07T02:54:47.965Z
+date: 2024-11-12T05:01:28.196Z
+updated: 2024-11-17T06:29:14.319Z
 tags:
   - win11
   - win10
@@ -43,19 +43,39 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -64,13 +84,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
@@ -91,13 +104,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -124,23 +130,23 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -170,20 +176,21 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-simplified-techniques-for-capturing-vimeo-content/"><u>[New] 2024 Approved Simplified Techniques for Capturing Vimeo Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-from-novice-to-virtuoso-taking-control-with-screen-recordings-in-macos/"><u>[New] From Novice to Virtuoso Taking Control with Screen Recordings in macOS</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-viewers-to-earnings-youtube-earning-basics/"><u>[New] From Viewers to Earnings YouTube Earning Basics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-analyzing-aurora-hdr-quality/"><u>2024 Approved Analyzing Aurora HDR Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-up-the-haze-tips-for-sharpening-visuals-in-call-of-duty-warzone-on-your-computer/"><u>Clearing Up the Haze: Tips for Sharpening Visuals in Call of Duty: Warzone on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-course-correction-how-to-keep-manor-lords-running-smoothly-on-windows/"><u>Crash Course Correction: How to Keep Manor Lords Running Smoothly on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998072967-fix-the-crashing-issue-in-elite-dangerous-on-your-computer-today/"><u>Fix the Crashing Issue in Elite Dangerous on Your Computer Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-your-computer-when-new-world-keeps-crashing-tips-and-tricks/"><u>How to Fix Your Computer When 'New World' Keeps Crashing: Tips & Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-evolution-continues-iphone-xs-photographic-advancements/"><u>In 2024, The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-the-field-in-remotely-recorded-content-creation/"><u>Leading the Field in Remotely Recorded Content Creation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011818124-the-principle-of-operation-involving-charging-particles-and-collecting-them-on-plates-with-an-opposite-charge/"><u>The Principle of Operation Involving Charging Particles and Collecting Them on Plates with an Opposite Charge.</u></a></li>
-<li><a href="https://win-unique.techidaily.com/the-ultimate-guide-to-free-video-editing-tools-for-converting-avi-to-mp4-2014-edition/"><u>The Ultimate Guide to Free Video Editing Tools for Converting AVI to MP4 (2014 Edition)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-10-solutions-for-resolving-issue-with-game-stray-not-starting/"><u>Top 10 Solutions for Resolving Issue with Game Stray Not Starting</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-21-screen-recording-tools-without-watermarks-discover-the-best-free-options-by-movavi/"><u>Top 21 Screen Recording Tools Without Watermarks - Discover the Best Free Options by Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-directx-drawing-failures/"><u>Ultimate Troubleshooting Techniques for DirectX Drawing Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007764563-fixed-screen-shimmering-troubles-heres-how-to-stop-it-once-and-for-all/"><u>[FIXED] Screen Shimmering Troubles? Here's How to Stop It Once and For All!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-enhance-snaps-with-cultural-pop-culture-learn-anime-on-snapchat/"><u>[New] Enhance Snaps with Cultural Pop-Culture Learn Anime On Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-cameras-to-elevate-live-stream-engagement-on-twitch/"><u>[New] In 2024, Ideal Cameras to Elevate Live Stream Engagement on Twitch</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-easy-obs-youtube-live-streaming-guide/"><u>[Updated] In 2024, Easy OBS YouTube Live Streaming Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pinnacle-mac-recording-options-top-5-for-clarity/"><u>[Updated] In 2024, Pinnacle Mac Recording Options Top 5 for Clarity</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefront-iis-shader-woes-master-quick-tweaks-for-smoother-gameplay/"><u>Battlefront II's Shader Woes? Master Quick Tweaks for Smoother Gameplay!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974721418-download-logitech-audio-driver-software-compatible-with-windows-11-7-and-8/"><u>Download Logitech Audio Driver Software Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-stop-spellbreak-from-freezing-on-your-desktop-pc/"><u>Expert Tips to Stop Spellbreak From Freezing on Your Desktop PC</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/fast-conversion-guide-transforming-webm-files-into-mkv-format/"><u>Fast Conversion Guide: Transforming WebM Files Into MKV Format</u></a></li>
+<li><a href="https://fox-access.techidaily.com/master-quick-red-eye-correction-in-iphone-photos-for-free-for-2024/"><u>Master Quick Red-Eye Correction in iPhone Photos for FREE for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-memory-glitch-fix-understanding-error-12707/"><u>Modern Warfare 3 Memory Glitch Fix: Understanding Error 12707</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-server-woes-a-step-by-step-guide-to-restoring-connection-stability/"><u>Rainbow Six Siege Server Woes? A Step-by-Step Guide to Restoring Connection Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-runtime-errors-successful-installation-tips-for-playing-robocop-rogue-city-on-pc/"><u>Resolving Runtime Errors: Successful Installation Tips for Playing Robocop: Rogue City on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-fps-matches-ping-issues-warzone-edition/"><u>Ultimate Guide to Solving FPS Matches' Ping Issues - Warzone Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-innovation-four-revolutionary-updates-for-paint/"><u>Unveiling Innovation: Four Revolutionary Updates for Paint</u></a></li>
 </ul></div>
 

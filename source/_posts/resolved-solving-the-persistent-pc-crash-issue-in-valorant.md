@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Solving the Persistent PC Crash Issue in Valorant"
-date: 2024-11-01T20:57:09.462Z
-updated: 2024-11-06T20:52:25.196Z
+date: 2024-11-14T08:45:39.534Z
+updated: 2024-11-16T22:12:28.774Z
 tags:
   - win11
   - win10
@@ -33,22 +33,21 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
@@ -87,6 +86,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
@@ -94,10 +100,10 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Delete temp files
@@ -110,13 +116,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
@@ -127,20 +126,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
- After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
-
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
 ## 4\. Disable firewall and antivirus software
 
@@ -152,20 +145,27 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -192,20 +192,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-harmonizing-history-best-theme-songs-in-anime-for-2024/"><u>[New] Harmonizing History Best Theme Songs in Anime for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-your-quick-guide-to-excellent-zoom-meetings-for-2024/"><u>[New] Your Quick Guide to Excellent Zoom Meetings for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-customize-video-speed-to-match-your-desired-watch-time/"><u>[Updated] 2024 Approved Customize Video Speed to Match Your Desired Watch Time</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screenshot-supreme-in-depth-recorder-reviews-for-2024/"><u>[Updated] Screenshot Supreme In-Depth Recorder Reviews for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/"><u>Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-common-maplestory-launching-troubles-expert-advice-and-tips/"><u>Easy Fixes for Common MapleStory Launching Troubles: Expert Advice and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-terraria-woes-a-six-step-guide-to-reestablishing-connection/"><u>Fix Your Terraria Woes: A Six-Step Guide to Reestablishing Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-red-magic-9-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Red Magic 9 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/learn-selective-picture-clarity-reduction/"><u>Learn Selective Picture Clarity Reduction</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-animated-logo-magic-11-free-tools-and-pro-design-tips/"><u>New In 2024, Animated Logo Magic 11 Free Tools and Pro Design Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-not-found-dilemma-msvcr110dll-in-helldivers-2/"><u>Overcoming the 'Not Found' Dilemma: MSVCR110.dll in HellDivers 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-dealing-with-persistent-death-stranding-pc-instability-problems/"><u>Resolved: Dealing with Persistent Death Stranding PC Instability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-shared-running-ready-or-not-smoothly-on-pcs-no-more-glitches/"><u>Solution Shared: Running 'Ready or Not' Smoothly on PCs No More Glitches!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-comparison-of-affordable-indoor-hdtv-antennas-spotlight-on-1byone-digitals-budget-friendly-choice/"><u>The Ultimate Comparison of Affordable Indoor HDTV Antennas: Spotlight on 1byOne Digital's Budget-Friendly Choice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/"><u>Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>[New] How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[Updated] 2024 Approved Mastering Video Calls Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-essential-tools-to-upgrade-your-tiktok-creations-top-10-free/"><u>[Updated] Essential Tools to Upgrade Your TikTok Creations (Top 10 Free)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-master-your-channel-identity-with-smart-naming-for-2024/"><u>[Updated] Master Your Channel Identity with Smart Naming for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-on-pc-resolving-persistent-stability-issues-and-crashes/"><u>Assassin's Creed Valhalla on PC - Resolving Persistent Stability Issues & Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-itel-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Itel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-game-protection-violation-notifications/"><u>Deciphering And Fixing Game Protection Violation Notifications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-downloading-and-setting-up-toshiba-printer-software-on-windows/"><u>Easy Tips for Downloading and Setting Up Toshiba Printer Software on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/elevez-la-definition-et-le-pouvoir-visuel-de-vos-clips-video-grace-a-winxvideo-intelligence-artificielle/"><u>Élevez La Définition Et Le Pouvoir Visuel De Vos Clips Vidéo Grâce À Winxvideo Intelligence Artificielle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-loading-error-expert-tips-to-get-you-playing-sooner/"><u>Football Manager 2021 Loading Error: Expert Tips to Get You Playing Sooner</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-ebx-3-black-screen-problem-on-desktop-fixes-and-workarounds/"><u>Hitman Ebx 3 Black Screen Problem on Desktop - Fixes and Workarounds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-peeling-back-layers-what-every-snapchat-emoji-hides/"><u>In 2024, Peeling Back Layers What Every Snapchat Emoji Hides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-solve-the-battlefield-5-wont-start-problem-a-step-by-step-guide/"><u>Quick Solution: How to Solve the 'Battlefield 5 Won't Start' Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-mastering-fixes-for-minecraft-error-with-exit-code-0/"><u>Resolving the Issue: Mastering Fixes for Minecraft Error with Exit Code 0</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-an-unrecognized-flash-drive-function-again/"><u>Step-by-Step Guide: Making an Unrecognized Flash Drive Function Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000440225-stop-paladins-from-crashing-with-these-proven-fixes/"><u>Stop Paladins From Crashing with These Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-dota-2s-frame-rate-decreases-in-windows-11-and-how-to-fix-it/"><u>Troubleshooting: Why Dota 2'S Frame Rate Decreases in Windows 11 and How to Fix It</u></a></li>
 </ul></div>
 

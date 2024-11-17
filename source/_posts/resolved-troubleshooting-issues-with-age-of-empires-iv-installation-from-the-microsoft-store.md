@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Issues with Age of Empires IV Installation From the Microsoft Store"
-date: 2024-08-23T17:27:37.132Z
-updated: 2024-08-24T17:27:37.132Z
+date: 2024-11-11T08:18:58.649Z
+updated: 2024-11-16T20:06:01.575Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -50,13 +57,17 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Scan and repair your game files
 
  If your game files are missing or corrupted, you’re likely to encounter many issues when playing Microsoft Flight Simulator. To see if that’s the case, you can scan and repair your game files via Steam or Windows. Here’s how:
@@ -68,9 +79,6 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-properties.jpg)
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 5. **Relaunch** Microsoft Flight Simulator and test if you can get past the checking for updates screen.
 
 #### Windows
@@ -81,9 +89,6 @@ If the issue remains, try the next fix.
 3. On the page that opens, select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
@@ -95,18 +100,20 @@ If this method doesn’t work for you, go ahead with the next fix.
 1. On your keyboard, press the**Window logo key** . Then type**check for updates** . Click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your network driver
 
  If you’re having trouble loading Microsoft Flight Simulator, you may encounter a connectivity issue. The connection error could be caused by a faulty or outdated network driver. To fix the issue, you need to make sure you’re using the latest network driver.
@@ -119,14 +126,8 @@ If this method doesn’t work for you, go ahead with the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
@@ -153,6 +154,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 If the problem persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Check your security software
 
  The antivirus and malware checkers can close down or block the normal operation of certain applications, even if they are legitimate and safe. To ensure the Microsoft Flight Simulator works properly, you can add the game to the exclusions list. Here’s how:
@@ -167,6 +175,14 @@ on Windows 10:
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
@@ -179,9 +195,6 @@ on Windows 11:
 2. From the left navigation panel, select**Privacy & security** . Then click**Windows Security** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
@@ -190,9 +203,6 @@ on Windows 11:
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 #### Other antivirus programs
 
  The way to add Microsoft Flight Simulator as an exception to your antivirus software will vary depending on the software you’re using. You can refer to your security software’s support website.
@@ -212,9 +222,6 @@ on Windows 11:
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Use a VPN
 
  If your connection is poor, you may experience the issue of Microsoft Flight Simulator being stuck on the checking for updates screen. To gain a better Internet connection, you can give a VPN a try.
@@ -230,8 +237,12 @@ Here are some gaming VPNs we recommend:
 If this method doesn’t solve your problem, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8: Do a clean install
 
  If none of the fixes above solve your problem, try uninstalling and reinstalling the game completely. Before doing a clean install, search the[Bugs & Issue forum](https://forums.flightsimulator.com/c/bugs-and-issues/200)  in case other players shared additional troubleshooting steps.
@@ -242,9 +253,14 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -259,9 +275,14 @@ If this method doesn’t solve your problem, check out the last fix.
 3. Click on **Uninstall**  to confirm your choice.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Note: If you have installed the packages in a custom folder, search for that folder instead.
 5. Move any leftover files or folders to the Recycle Bin.
 6. **Reinstall** the game from Steam.
@@ -280,8 +301,6 @@ If this method doesn’t solve your problem, check out the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -289,4 +308,18 @@ If this method doesn’t solve your problem, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-exploring-beyond-vlc-a-modern-streamers-guide/"><u>[New] Exploring Beyond VLC A Modern Streamer's Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>[New] Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fuel-the-spark-essential-themes-for-youtube-success/"><u>[Updated] Fuel the Spark Essential Themes for YouTube Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-retrieve-flawless-copyright-free-images/"><u>[Updated] In 2024, How to Retrieve Flawless, Copyright-Free Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>2024 Approved Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-elden-ring-gameplay-top-six-methods-to-eliminate-fps-issues/"><u>Boost 'Elden Ring' Gameplay: Top Six Methods to Eliminate FPS Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-resolving-vrchats-pc-stability-issues-with-8-proven-fixes/"><u>Essential Tips: Resolving VRChat's PC Stability Issues with 8 Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-6-techniques-to-resolve-dreamlight-valleys-pc-compatibility-woes/"><u>Mastering Stability: 6 Techniques to Resolve Dreamlight Valley's PC Compatibility Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-alienware-command-center-malfunctions/"><u>Step-by-Step Solution for Alienware Command Center Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-mlb-the-show-21-network-glitches-resolved/"><u>Troubleshooting Guide: MLB The Show 21 Network Glitches Resolved</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-the-champion-top-ranked-furbo-camera-review/"><u>Unleashing the Champion: Top Ranked Furbo Camera Review</u></a></li>
+</ul></div>
 

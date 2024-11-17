@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
-date: 2024-10-30T22:44:31.206Z
-updated: 2024-11-07T03:19:43.750Z
+date: 2024-11-10T07:36:51.635Z
+updated: 2024-11-17T02:51:49.225Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-light-2-automatic-updates-1200x850.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### On Epic Games Launcher
 
  1) Open your Epic Games Launcher. Navigate to your game in the**LIBRARY** .
@@ -81,10 +88,10 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**CPU or Memory tab** to check whether anything is using up large chunks of your CPU or RAM (for instance, a web browser with dozens of tabs open).
@@ -108,22 +115,15 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  button. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then you’ll be asked to restart your computer.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -149,13 +149,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/dying-light-2-geforce-game-ready-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To get the latest graphics driver, you can go to the manufacturer’s download page and follow the on-screen instructions to manually download and install the correct driver corresponding with your system.
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) [AMD](https://www.amd.com/en/support)
@@ -168,22 +161,35 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating drivers, restart your PC and test your gameplay. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify integrity of game files
 
@@ -243,6 +249,13 @@ Now scroll down and make these changes:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then apply the changes. Press the**Esc** key and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/apply-the-changes.png)
@@ -274,29 +287,22 @@ Locate the game’s installation folder on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-light-2-browse-local-files.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then open the files**ph > work > bin > x64** . Click the very top to copy the file path.
 
  4) Paste the path of the game’s installation file into the address bar. Then double-click on the game’s exe.file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-add-to-the-list-gpu-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Once it’s added to the list, simply select it and click**Options** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Choose**High performance** and click**Save** .  
   
@@ -305,6 +311,13 @@ Locate the game’s installation folder on Steam:
  Doing this will make sure that the game runs on the best graphics processor you have on your computer, not holding back any performance.
 
  However, if this doesn’t give you any performance boost, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Scan your PC for corrupted files
 
@@ -319,13 +332,6 @@ Locate the game’s installation folder on Steam:
  3) If Fortect detects any issues on your PC, click**Start Repair** to start the repair process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When the process is complete, restart your PC.
 
@@ -348,19 +354,22 @@ When the process is complete, restart your PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-hero5-black-versus-yi-4k-latest-updates-on-high-res-cameras/"><u>[Updated] Hero5 Black Versus Yi 4K Latest Updates on High-Res Cameras</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/exclusive-fb-to-mp3-conversion-just-click-instant-results/"><u>Exclusive FB to MP3 Conversion - Just Click, Instant Results</u></a></li>
-<li><a href="https://win-popular.techidaily.com/fonetastic-guide-fix-bebehen-ios-versions-14-15-and-16-for-restored-internet-connection-using-fonetool/"><u>Fonetastic Guide: Fix Bebehen iOS Versions 14, 15, and 16 for Restored Internet Connection Using FoneTool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-overcoming-frequent-interruptions-while-gaming-diablo-the-third/"><u>Guide: Overcoming Frequent Interruptions While Gaming Diablo the Third</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-easily-fix-the-connection-timed-out-hurdle-during-download/"><u>How to Easily Fix the 'Connection Timed Out' Hurdle During Download</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-mobile-photography-mastering-leading-lines/"><u>In 2024, Elevate Your Mobile Photography Mastering Leading Lines</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-an-emoji-of-yourself-on-android-and-iphone-emoji-yourself/"><u>In 2024, How to Make an Emoji of Yourself on Android and iPhone Emoji Yourself</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oneplus-nord-n30-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 OnePlus Nord N30 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/sichere-moglichkeiten-um-bilder-von-ios-geraten-auf-pc-zu-ubertragen-top-6-losungen-mitohne-itunes/"><u>Sichere Möglichkeiten, Um Bilder Von iOS-Geräten Auf PC Zu Übertragen - Top 6 Lösungen Mit/Ohne iTunes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-break-free-from-anthems-infinite-loading-screens-easily/"><u>Solved: How to Break Free From Anthem's Infinite Loading Screens Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-thaumaturge-game-crash-issues-on-your-pc/"><u>Solving the Thaumaturge Game Crash Issues on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-the-unyielding-midnight-hue-disruption-during-your-fortnite-sessions-on-a-windows-machine/"><u>Tackling the Unyielding Midnight Hue Disruption During Your Fortnite Sessions on a Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-enhancing-download-velocity-in-utorrent-applications/"><u>Troubleshooting and Enhancing Download Velocity in uTorrent Applications</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-new-worlds-a-look-at-vr-today/"><u>[New] Navigating New Worlds A Look at VR Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-mobility-in-film-crafting-youtubes-best-thumbnails-for-2024/"><u>[Updated] Navigating Mobility in Film Crafting YouTubes' Best Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>[Updated] Step-by-Step Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-tales-of-arise-game-crash-issues-solutions-explored/"><u>Fixes for 'Tales of Arise' Game Crash Issues: Solutions Explored</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-f25-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo F25 Pro 5G Device SIM</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-stunning-dell-xps-13-7390-convertible-ultrabook-review/"><u>In-Depth Analysis of the Stunning Dell XPS 13 7390 Convertible Ultrabook Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-performance-boost-overcoming-doubled-frame-rate-drop/"><u>PC Performance Boost: Overcoming Doubled Frame Rate Drop</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ripperpro-for-macos-x-convert-dvds-into-itunes-compatible-mp4-files-and-protected-dvd-ripping/"><u>RipperPro for MacOS X – Convert DVDs Into iTunes-Compatible MP4 Files & Protected DVD Ripping</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-dota-2-delays-revolutionary-techniques-to-enhance-performance/"><u>Say Goodbye to Dota 2 Delays: Revolutionary Techniques to Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-overcome-football-manager-2019-freezing-problems/"><u>Step-by-Step Solutions to Overcome Football Manager 2019 Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solving-itunes-detected-audio-issue-for-seamless-listening-experience/"><u>Step-by-Step: Solving iTunes Detected Audio Issue for Seamless Listening Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-verdict-on-using-itop-for-screen-capture-for-2024/"><u>The Verdict on Using ITop for Screen Capture for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-windows-system-crashes-for-xcom-2-players/"><u>Troubleshooting Windows System Crashes for XCOM 2 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminate-sims-4-slow-performance-issues-on-your-pc/"><u>Ultimate Guide: Eliminate Sims 4 Slow Performance Issues on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-motorola-moto-g13-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Motorola Moto G13? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-rally-championship-10-wrc-10-troubleshooting-guide-how-to-prevent-crashing-on-pc/"><u>World Rally Championship 10 (WRC 10) Troubleshooting Guide: How to Prevent Crashing on PC</u></a></li>
 </ul></div>
 

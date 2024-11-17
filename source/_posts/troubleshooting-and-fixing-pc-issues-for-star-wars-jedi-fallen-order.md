@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Fixing PC Issues for 'Star Wars Jedi: Fallen Order'"
-date: 2024-11-02T20:47:35.284Z
-updated: 2024-11-06T19:19:09.308Z
+date: 2024-11-13T04:42:04.440Z
+updated: 2024-11-16T17:02:34.694Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 3) See if your Shadowplay can record now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Reinstall NVIDIA Driver
@@ -51,24 +51,24 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -78,16 +78,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -109,21 +103,14 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-edge-video-cutting-techniques-to-boost-engagement/"><u>[New] Instagram Edge Video Cutting Techniques to Boost Engagement</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pro-video-gear-expert-recommendations-for-youtube-clips/"><u>[Updated] 2024 Approved Pro Video Gear Expert Recommendations for YouTube Clips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-immersive-vr-capture-mastery-9-techniques-for-success/"><u>2024 Approved Immersive VR Capture Mastery 9 Techniques for Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-sneaky-soundtrack-watching-youtube-unobtrusively/"><u>2024 Approved Sneaky Soundtrack Watching YouTube Unobtrusively</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010151198-city-skylines-2-pc-stability-fixes-stop-the-game-from-crashing/"><u>City Skylines 2 PC Stability Fixes: Stop the Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-age-of-empires-iv-performance-to-eliminate-gameplay-interruptions/"><u>Enhancing Age of Empires IV Performance to Eliminate Gameplay Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012801291-halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-failures-a-solution-to-constant-rust-crashes/"><u>How To Stop Frequent Failures: A Solution to Constant Rust Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-your-device-a-guide-to-navigating-androids-quick-settings/"><u>Mastering Your Device: A Guide to Navigating Android's Quick Settings</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/microsoft-onedrivesynologyqnap-nas/"><u>Microsoft OneDriveからSynology/QNAP NASへの信頼性の高いバックアップ方法を解説</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-exception-access-violation-issues-proactive-defense-strategies-for-it-professionals/"><u>Overcoming Exception Access Violation Issues : Proactive Defense Strategies for IT Professionals</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-nvidia-geforce-error-message-code-0x0003/"><u>Resolved: Fixing the NVIDIA GeForce Error Message (Code 0X0003)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-google-meets-camera-problems/"><u>Step-by-Step Guide: Resolving Google Meet's Camera Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-gameplay-disruptions-quick-repairs-for-division-2-sudden-crashes/"><u>Stop Gameplay Disruptions: Quick Repairs for Division 2 Sudden Crashes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-skype-recorder-to-use-2023/"><u>Top 10 Skype Recorder to Use 2023</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-chasing-deals-on-vr-gear-in-china/"><u>[New] In 2024, Chasing Deals on VR Gear in China</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-isyncslideshow-integrate-ios-plus-sierra-images/"><u>[Updated] 2024 Approved ISyncSlideshow Integrate iOS + Sierra Images</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/a-beginners-guide-to-vulkan-runtime-libraries-definition-usage-and-common-issues/"><u>A Beginner's Guide to Vulkan Runtime Libraries: Definition, Usage, and Common Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arise-and-conquer-eliminating-critical-glitches-in-ue4/"><u>Arise and Conquer: Eliminating Critical Glitches in UE4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-how-to-solve-steam-fatal-error-failed-to-connect-issue-for-smooth-gaming-experience/"><u>Expert Guide: How to Solve 'Steam Fatal Error - Failed to Connect' Issue for Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-when-naraka-bladepoint-keeps-crashing-down/"><u>Fixes and Solutions for When Naraka: Bladepoint Keeps Crashing Down</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-auditory-explorers-manual-crafting-unique-sounds-and-ringtones-for-android-users/"><u>In 2024, The Auditory Explorer's Manual Crafting Unique Sounds & Ringtones for Android Users</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/top-picks-stream-the-best-4k-uhd-movies-on-amazon-prime-video-during-coronavirus-lockdown/"><u>Top Picks: Stream the Best 4K UHD Movies on Amazon Prime Video During Coronavirus Lockdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-with-destiny-2s-revolutionary-202fix-for-epic-broccoli-battles/"><u>Unlock the Secrets with Destiny 2'S Revolutionary 202ˈ@Fix for Epic Broccoli Battles!</u></a></li>
 </ul></div>
 

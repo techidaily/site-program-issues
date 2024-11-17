@@ -1,7 +1,7 @@
 ---
 title: Understanding
-date: 2024-08-23T17:29:59.807Z
-updated: 2024-08-24T17:29:59.807Z
+date: 2024-11-12T21:12:41.609Z
+updated: 2024-11-17T06:49:20.128Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Display** tab and view your graphics’ info.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-7.jpg)
@@ -73,8 +80,12 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  If you’re using a wrong or out-of-date graphics driver, your gaming experience with Mafia Definitive Edition may feel like a glitchy ride. To let the game launch smoothly and run at the first-class condition at all times, you should install the latest GPU driver.
@@ -101,19 +112,12 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,6 +135,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Mafia: Definitive Edition** from the game list and click**Manage** . Then, click**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-5.jpg)
@@ -140,6 +151,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **3)** Double-click the**mafiadefinitiveedition.exe file** instead of the launcher.exe file to start the game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Options** .
 
@@ -157,9 +175,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
  Some games require additional access to Windows files before they can launch and operate properly. To allow the necessary permissions for Mafia Definitive Edition, you’re suggested to run the game and game launcher as an administrator.
@@ -168,16 +183,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click the**Compatibility** tab, and then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You also need to grant the game launcher administrator rights as follows:
 
@@ -185,23 +211,21 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Select the**Compatability** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now relaunch the game to test if this method works. Still no luck? No worries, there are two more fixes to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of your game files
 
  Missing or corrupted game file is also one of the possible causes of your Mafia Definitive Edition not launching problem. You can simply use the built-in repair tool to fix it:
@@ -220,6 +244,13 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Local Files** tab, and click**Verify the integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-7.jpg)
@@ -234,23 +265,6 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
@@ -259,17 +273,10 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Temporarily disable your antivirus
 
  Many users install antivirus to protect their computers from potential threats or attacks. If you do too, make sure your antivirus doesn’t identify your game as malware by mistake and blocks it from launching.
@@ -292,8 +299,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +306,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>[New] In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-versamix-suite-mac-and-pc/"><u>[New] VersaMix Suite - Mac & PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-brainiac-challenge-gk-quizzes/"><u>[Updated] In 2024, Ultimate Brainiac Challenge - GK Quizzes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-to-file-solutions-with-apowersoft-for-2024/"><u>[Updated] Screen-to-File Solutions with Apowersoft for 2024</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windowsw11w10w8w7-itunes/"><u>如何在不同版本的Windows系统（W11、W10、W8、W7）中找回资料库 - iTunes数据恢复指南</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-downloads-on-your-steam-platform/"><u>How To Ensure Uninterrupted Downloads On Your Steam Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-continuous-freezing-in-formula-1-202n-during-your-pc-race/"><u>How to Overcome Continuous Freezing in Formula 1 202N During Your PC Race</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streamer-soundscape-the-top-5-headset-guidebook/"><u>In 2024, Streamer Soundscape The Top 5 Headset Guidebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/input-delay-no-more-how-cd-projekt-red-addresses-cyberpunk-2077s-glitch/"><u>Input Delay No More: How CD Projekt Red Addresses Cyberpunk 2077'S Glitch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-professional-presentations-8-essential-strategies-for-zoom-mastery-tech-innovator/"><u>Mastering Professional Presentations: 8 Essential Strategies for Zoom Mastery | Tech Innovator</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-errors-effective-fixes-for-playing-starfield-on-steamxbox/"><u>Overcoming Startup Errors: Effective Fixes for Playing Starfield on Steam/Xbox</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-complete-guide-to-using-the-high-capacity-maxoak-battery-bank-185wh-with-50000mah-revealed/"><u>The Complete Guide to Using the High-Capacity MaxOak Battery Bank - 185Wh with 50,000mAh Revealed</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-powerdirector-alternatives-for-android-and-ios/"><u>Unleash Your Creativity Top PowerDirector Alternatives for Android and iOS</u></a></li>
+</ul></div>
 

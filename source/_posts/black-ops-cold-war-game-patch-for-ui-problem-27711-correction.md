@@ -1,7 +1,7 @@
 ---
 title: "Black Ops: Cold War Game Patch for UI Problem 27711 Correction"
-date: 2024-11-02T19:34:48.000Z
-updated: 2024-11-06T21:29:49.640Z
+date: 2024-11-14T23:31:41.274Z
+updated: 2024-11-17T05:44:08.151Z
 tags:
   - win11
   - win10
@@ -40,25 +40,18 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -90,13 +83,20 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,15 +114,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -152,19 +152,20 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-gain-more-views-beginners-guide-to-youtube-seo/"><u>[New] 2024 Approved Gain More Views Beginner’s Guide to YouTube SEO</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>[New] The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-fortnite-lag-issues/"><u>[SOLVED] How to Fix Fortnite Lag Issues</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-50plus-best-tiktok-quotes-to-inspire-you-and-make-videos-go-viral/"><u>[Updated] In 2024, 50+ Best TikTok Quotes to Inspire You and Make Videos Go Viral</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-brain-mechanisms-guiding-high-stakes-business-conclusions/"><u>[Updated] In 2024, Brain Mechanisms Guiding High-Stakes Business Conclusions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-overflow-to-order-edited-strategies-for-huge-tiktoks/"><u>[Updated] In 2024, From Overflow to Order Edited Strategies for Huge TikToks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-gaming-in-warzone-by-boosting-fps-and-reducing-lags/"><u>Achieve Uninterrupted Gaming in Warzone by Boosting FPS & Reducing Lags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/detailed-guide-to-preventing-starfield-from-freezing-or-crashing-on-pc-setups/"><u>Detailed Guide to Preventing Starfield From Freezing or Crashing on PC Setups</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficiently-set-up-your-epson-wf-3720-with-new-driver-downloads-expert-tips-and-tricks/"><u>Efficiently Set Up Your Epson WF-3720 with New Driver Downloads - Expert Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-prevent-fallout-3-from-crashing-on-windows-10/"><u>Fixes & Solutions: Prevent Fallout 3 From Crashing on Windows 10</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-down-under-with-aussie-slang-definitions/"><u>Get Down Under With Aussie Slang Definitions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/non-standard-video-editing-applications-on-windows-for-2024/"><u>Non-Standard Video Editing Applications on WIndows for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-in-bless-unleashed-a-guide-to-overcoming-high-latency-problems/"><u>Seamless Gaming in Bless Unleashed: A Guide to Overcoming High Latency Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-truth-is-out-why-you-wont-find-assassins-creed-valhalla-missing-from-stores/"><u>The Truth Is Out: Why You Won't Find Assassin's Creed Valhalla Missing From Stores</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-discover-top-15-youtube-sources-for-sci-education-for-2024/"><u>[Updated] Discover Top 15 YouTube Sources for Sci-Education for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-shooter-downloader-fast-and-simple-installation-guide/"><u>DayZ Shooter Downloader: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fish-tastic-top-5-action-cameras-for-catch/"><u>Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-proven-fixes-to-stop-pathfinder-wrath-of-the-righteous-from-crashing-down/"><u>Five Proven Fixes to Stop 'Pathfinder: Wrath of the Righteous' From Crashing Down</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-a1-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo A1 5G Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lava-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lava</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-examine-groups-collaborative-media-on-messenger/"><u>In 2024, Examine Group's Collaborative Media on Messenger</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012300188-la-noire-now-available-for-pc-release-issue-resolved/"><u>L.A. Noire Now Available for PC - Release Issue Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-reduced-frame-rates-in-farming-simulator-22-on-pc/"><u>Resolved: Reduced Frame Rates in Farming Simulator 22 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-mysterious-black-display-problems-with-zoom-on-your-computer-the-2024-how-to-manual/"><u>Resolving the Mysterious Black Display Problems with Zoom on Your Computer - The 2024 How-To Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-correcting-wwe-2k-battlegrounds-dx11-error-on-pc/"><u>Step-by-Step Solution for Correcting WWE 2K Battlegrounds' DX11 Error on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/subscribe-to-success-4-indispensable-audible-benefits/"><u>Subscribe to Success: 4 Indispensable Audible Benefits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-setup-issues-fixing-closure-errors-effectively/"><u>Troubleshooting GeForce Setup Issues - Fixing Closure Errors Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-when-resident-evil-village-wont-launch-correctly/"><u>Troubleshooting Guide for When Resident Evil Village Won't Launch Correctly</u></a></li>
 </ul></div>
 

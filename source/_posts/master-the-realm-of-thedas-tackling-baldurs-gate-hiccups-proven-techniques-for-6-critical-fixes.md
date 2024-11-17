@@ -1,7 +1,7 @@
 ---
 title: "Master the Realm of Thedas: Tackling Baldur's Gate Hiccups - Proven Techniques for 6 Critical Fixes!"
-date: 2024-08-23T17:30:37.586Z
-updated: 2024-08-24T17:30:37.586Z
+date: 2024-11-12T19:31:17.884Z
+updated: 2024-11-16T23:57:58.814Z
 tags:
   - win11
   - win10
@@ -51,20 +51,20 @@ There are two ways for you to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Disable fullscreen optimizations
 
  Fullscreen Optimizations is expected to improve games’ performance when they run in fullscreen mode, but that’s not always the case. If you keep running into Cold War freezing, you should disable this option.
@@ -76,21 +76,36 @@ Here are the steps:
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
-4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
-5. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
+4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
+5. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
+
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
 
 ### Fix 4 – Scan and repair corrupted game files
@@ -106,8 +121,12 @@ Here are the steps:
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Lower the in-game graphics settings
 
  Many players report Call of Duty Cold War can hardly run smoothly on the high or ultra graphics settings. So if you’ve attempted all the fixes above with no success, you may need to sacrifice the visuals and opt for the lower settings.
@@ -116,11 +135,16 @@ Here are the steps:
 2. Select the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-8.jpg)
 3. Lower the parameters under each section according to your needs.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
+
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
 
 ---
@@ -136,8 +160,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +167,19 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>[New] Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-diy-gif-creation-extracting-motion-from-youtube-videos/"><u>[Updated] 2024 Approved DIY GIF Creation Extracting Motion From YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterful-methods-for-adding-melodies-to-ig-media/"><u>[Updated] In 2024, Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-open-library-legal-gaming-tracks-downloadable/"><u>2024 Approved Open Library Legal Gaming Tracks Downloadable</u></a></li>
+<li><a href="https://program-issues.techidaily.com/all-clear-la-noires-long-awaited-debut-arrives-on-windows-and-mac-pc/"><u>All Clear: L.A. Noire's Long-Awaited Debut Arrives on Windows and Mac PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combatting-fraudgpt-essential-self-defense-tips/"><u>Combatting FraudGPT: Essential Self-Defense Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-timers-roadmap-earning-money-from-periscope-chats-for-2024/"><u>First-Timer's Roadmap Earning Money From Periscope Chats for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guaranteed-iphone-memory-restoration-your-data-awaits-purchase-today/"><u>Guaranteed iPhone Memory Restoration – Your Data Awaits, Purchase Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-gaming-experience-overcoming-low-fps-issues-in-the-division-2/"><u>Maximize Your Gaming Experience: Overcoming Low Fps Issues in The Division 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-crash-on-launch-solutions-for-successful-game-boot-up/"><u>Sea of Thieves Crash on Launch - Solutions for Successful Game Boot-Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-why-your-warframe-game-wont-start/"><u>Solving the Issue: Why Your Warframe Game Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-ensuring-a-smooth-gaming-experience-in-call-of-duty-mw2-without-crashing/"><u>Troubleshooting Tips: Ensuring a Smooth Gaming Experience in Call of Duty: MW2 without Crashing</u></a></li>
+</ul></div>
 

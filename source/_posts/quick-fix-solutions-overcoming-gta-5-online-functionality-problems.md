@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Solutions: Overcoming 'GTA 5 Online' Functionality Problems"
-date: 2024-08-23T17:30:00.970Z
-updated: 2024-08-24T17:30:00.970Z
+date: 2024-11-12T17:45:25.876Z
+updated: 2024-11-17T10:03:46.374Z
 tags:
   - win11
   - win10
@@ -63,23 +63,31 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -102,31 +110,34 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and R at the same time to open the Run dialog. Then type control and press Enter to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -135,24 +146,30 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
@@ -179,16 +196,15 @@ Here are the system requirements for Control:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -204,9 +220,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 8: Verify the game file
 
  The faulty game files may also crash the game. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -227,8 +240,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -238,16 +255,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 11: Reinstall the game
 
  If none of the fixes above works for you, you may need to try reinstalling the game to see if it would crash again. Normally, Control won’t crash after you reinstall it.
@@ -265,8 +275,6 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +282,24 @@ See if this fix works for you. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-essential-tips-for-attending-tiktok-live-events/"><u>[New] In 2024, Essential Tips for Attending TikTok Live Events</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-rapid-methods-unsettle-and-rearrange-your-video-list/"><u>[Updated] Rapid Methods Unsettle and Rearrange Your Video List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlining-video-features-youtube-annotations-guide/"><u>[Updated] Streamlining Video Features YouTube Annotations Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-vanguard-maker-guild-sights-sonics-and-memories/"><u>2024 Approved Vanguard Maker Guild Sights, Sonics & Memories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-release-analysis-call-of-duty-modern-warfare-3-performance-issues-and-frame-rate-hiccups/"><u>2024 Release Analysis: Call of Duty: Modern Warfare 3 Performance Issues and Frame Rate Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-frame-rate-in-ark-survival-evolved-ultimate-guide-for-gamers/"><u>Boosting Frame Rate in ARK: Survival Evolved - Ultimate Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993417584-deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-add-youtube-annotations-and-cards-in-2024/"><u>How to Add YouTube Annotations and Cards, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-your-pcs-performance-for-a-smooth-cs2-gaming-experience-with-low-latency/"><u>How to Optimize Your PC's Performance for a Smooth CS2 Gaming Experience with Low Latency</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-fallout-76-frame-rate-tackling-the-persistent-problem-of-in-game-jitters/"><u>Improving Fallout 76 Frame Rate: Tackling the Persistent Problem of In-Game Jitters</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y78plus-t1-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y78+ (T1) Edition to Gmail | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-smoothness-guide-to-reducing-lag-and-elevating-fps-on-fall-guys/"><u>Maximizing Smoothness: Guide to Reducing Lag and Elevating FPS on Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spellbreak-crashing-no-more-effective-fixes-for-a-seamless-pc-experience/"><u>Spellbreak Crashing No More: Effective Fixes for a Seamless PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-brings-an-end-to-latency-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Update Brings an End to Latency in The Elder Scrolls Online’s Blackwood Zone</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone is not listed when I run the software? | Stellar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Phasmophobia: Tackling High Processor Usage"
-date: 2024-11-06T00:08:40.829Z
-updated: 2024-11-06T17:23:10.624Z
+date: 2024-11-15T18:41:47.316Z
+updated: 2024-11-16T18:51:27.192Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -54,14 +47,14 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -74,13 +67,6 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -111,14 +97,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -134,6 +127,13 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -161,22 +161,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>[New] In 2024, How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-personalize-your-mobile-experience-with-inshot/"><u>[New] Personalize Your Mobile Experience with InShot</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-merge-ppt-deck-with-cinematic-capabilities-for-2024/"><u>[Updated] Merge PPT Deck with Cinematic Capabilities for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-select-your-perfect-outro-soundtrack-online-for-free/"><u>2024 Approved Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-stutter-and-lag-in-the-latest-games-advanced-optimization-techniques/"><u>Conquering Stutter and Lag in the Latest Games - Advanced Optimization Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/curated-collection-of-top-tamil-ringtone-downloads-platforms/"><u>Curated Collection of Top Tamil Ringtone Downloads Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-restoring-missing-game-noises-in-minecraft-for-desktop-users/"><u>Expert Guide to Restoring Missing Game Noises in Minecraft for Desktop Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experts-reveal-how-to-fix-recurring-game-crashes-in-valorant-on-windows/"><u>Experts Reveal How to Fix Recurring Game Crashes in Valorant on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cult-of-the-lamb-stability-issues-for-a-smooth-gaming-experience-on-windows/"><u>Fixing Cult of the Lamb Stability Issues for a Smooth Gaming Experience on Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-g35-usb-headphones-drivers-latest-version-for-win-7-810-supported/"><u>Free Logitech G35 USB Headphones Drivers - Latest Version for Win 7, 8/10 Supported</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-web-tool-seamlessly-integrate-your-videos-online-in-just-minutes/"><u>Free Web Tool: Seamlessly Integrate Your Videos Online in Just Minutes!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-stealthiest-instagram-story-viewers-for-2024/"><u>The Stealthiest Instagram Story Viewers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-discord-java-script-glitches-with-these-tips/"><u>Troubleshoot Discord Java Script Glitches with These Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-window-bluescreen-glitches-in-call-of-duty-wwii-fixed/"><u>Troubleshooting and Resolving Window Bluescreen Glitches in Call of Duty: WWII [FIXED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-eliminating-stuttering-in-the-starfield-audio-experience/"><u>Troubleshooting Success: Eliminating Stuttering in the Starfield Audio Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wrc-10-pc-installation-issues-fixed-fifas-official-game-now-stable/"><u>WRC 10 PC Installation Issues Fixed - FIFA's Official Game Now Stable</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-decoding-popular-themes-in-youtube-commentary/"><u>[Updated] In 2024, Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/399-for-cutting-edge-tech-get-the-new-moto-g-stylus-5g-phone/"><u>$399 for Cutting-Edge Tech - Get the New Moto G Stylus 5G Phone!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-hurdles-of-non-responsive-logitech-gaming-applications-expert-fixes-inside/"><u>Beat the Hurdles of Non-Responsive Logitech Gaming Applications – Expert Fixes Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-rainbow-six-siege-online-play-errors/"><u>Diagnosing & Repairing Rainbow Six Siege Online Play Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-strategies-for-launch-troubleshooting/"><u>Division 2 Won't Start? Top Strategies for Launch Troubleshooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-enable-mp4-media-player-compatibility-in-windows-881/"><u>How to Enable MP4 Media Player Compatibility in Windows 8/8.1</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lava-yuva-3-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lava Yuva 3 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-dungeon-stability-hacks-for-a-smooth-gaming-experience-on-pc/"><u>Minecraft Dungeon Stability Hacks for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-and-secure-transfer-phone-numbers-using-apples-airdrop-on-your-iphone/"><u>Simple and Secure: Transfer Phone Numbers Using Apple's AirDrop on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-mute-challenges-restoring-sound-for-a-flawless-twitch-stream/"><u>Solved: Overcoming Mute Challenges - Restoring Sound for a Flawless Twitch Stream</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-4k-showcase-must-see-video-clips-for-any-enthusiast/"><u>The Ultimate 4K Showcase Must-See Video Clips for Any Enthusiast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-how-to-seamlessly-transform-vob-files-into-high-quality-avi-format-at-no-cost/"><u>The Ultimate Guide: How to Seamlessly Transform VOB Files Into High-Quality AVI Format at No Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/watchos-11-update-guide-determining-eligible-and-ineligible-apple-watch-models-for-the-latest-os/"><u>WatchOS 11 Update Guide: Determining Eligible and Ineligible Apple Watch Models for the Latest OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 </ul></div>
 

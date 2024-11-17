@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily"
-date: 2024-11-03T17:50:08.359Z
-updated: 2024-11-06T21:52:47.069Z
+date: 2024-11-15T07:46:33.520Z
+updated: 2024-11-17T02:05:46.299Z
 tags:
   - win11
   - win10
@@ -46,30 +46,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Set priority to high for Vegas Pro
 
@@ -79,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
@@ -103,24 +90,18 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart your PC and check if Vegas crashes again.
 
 If the issue is still there, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics card driver
 
@@ -140,19 +121,19 @@ If the issue is still there, you can move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Import your footage via the Explorer window
 
@@ -161,13 +142,6 @@ If the issue is still there, you can move on to the next fix.
 1. Click**Explorer** , then you’ll be able to search files on your PC via the left-side navigation panel. (If you can’t find the Explorer button, press**Alt** and**1** to enable the Explorer window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
@@ -192,6 +166,13 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
 
@@ -207,12 +188,26 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable a CPU processor for Vegas Pro
 
@@ -223,27 +218,20 @@ If the issue is still there, you can move on to the next fix.
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
@@ -271,16 +259,24 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-interactive-multiplayer-experiences-online/"><u>[Updated] Interactive Multiplayer Experiences Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-g42-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia G42 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-record-switch-gameplay/"><u>2024 Approved How To Record Switch Gameplay</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y27-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y27 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-unlaunchable-alan-wake-2-comprehensive-troubleshooting-techniques/"><u>Fixing the Unlaunchable Alan Wake 2: Comprehensive Troubleshooting Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005786799-how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won't Open - 2024 Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/improving-file-streaming-quality/"><u>Improving File Streaming Quality</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-critical-top-5-minute-tight-video-capturers-guide/"><u>In 2024, Critical Top 5 Minute-Tight Video Capturers Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/mastering-the-art-of-online-presence-with-innovative-tiktok-names-for-2024/"><u>Mastering the Art of Online Presence with Innovative TikTok Names for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-is-live-again-update-completed-successfully/"><u>Origin Is Live Again - Update Completed Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solution-overcoming-battlefield-5-launch-failure-for-gamers/"><u>Quick Solution: Overcoming 'Battlefield 5 Launch Failure' For Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-bandicam-ultimate-guide-to-screen-capture/"><u>[New] Exploring Bandicam Ultimate Guide to Screen Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] In 2024, Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-step-by-step-pubg-vocal-changes-made-easy/"><u>[Updated] In 2024, Step-by-Step PUBG Vocal Changes Made Easy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-tips-for-navigating-discord-message-interaction/"><u>2024 Approved Quick Tips for Navigating Discord Message Interaction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-guidance-from-toms-experts/"><u>Advanced Computing Guidance From Tom's Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-bg-adventure-conquer-common-issues-with-these-effective-6-strategies/"><u>Enhance Your BG Adventure: Conquer Common Issues with These Effective 6 Strategies!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-hacks-to-restore-your-clownfish-voip-adjusters-functionality/"><u>Fixes and Hacks to Restore Your Clownfish VOIP Adjuster's Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seaside-shots-comparison-gopro-hero5-and-sjcam-sj7/"><u>In 2024, Seaside Shots Comparison GoPro Hero5 & SJCAM SJ7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-starfield-startup-dilemma-fixes-for-steam-and-xbox-users/"><u>Overcoming the Starfield Startup Dilemma: Fixes for Steam & Xbox Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-performance-boost-resolving-the-double-drop-in-fps/"><u>PC Performance Boost: Resolving the Double Drop in FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/polymorphisms-in-the-vkorc1-gene-affect-warfarin-sensitivity-and-metabolism-necessitating-personalized-dose-adjustments/"><u>Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-cyberpunk-2077-installation-problems-on-steam-platform/"><u>Resolved: Fixing Cyberpunk 2077 Installation Problems on Steam Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tech-wizardry-unveiled-eradicate-chromes-window-freezes-in-windows-11-instantly/"><u>Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ost-benefit-analysis-should-you-sign-up-for-youtube-premium-for-2024/"><u>The Cost-Benefit Analysis Should You Sign Up for YouTube Premium for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-top-photo-protection-apps-reviewed/"><u>The Top Photo Protection Apps Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-constant-screen-flutter-issues/"><u>Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-smoother-pc-playthroughs-addressing-twofold-fps-drops-effectively/"><u>Unlocking Smoother PC Playthroughs: Addressing Twofold FPS Drops Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-montage-image-assembly-for-2024/"><u>Unveiling the Secrets of Montage Image Assembly for 2024</u></a></li>
 </ul></div>
 

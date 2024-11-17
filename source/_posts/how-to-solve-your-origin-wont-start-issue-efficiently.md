@@ -1,7 +1,7 @@
 ---
 title: How to Solve Your Origin Won't Start Issue Efficiently
-date: 2024-08-23T17:29:39.973Z
-updated: 2024-08-24T17:29:39.973Z
+date: 2024-11-11T20:18:19.714Z
+updated: 2024-11-17T06:27:08.863Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
@@ -35,6 +42,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
@@ -57,8 +71,12 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -76,9 +94,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
@@ -95,9 +110,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
@@ -108,11 +120,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Disable firewall and antivirus software
 
  Windows firewall or antivirus software can help protect your computer from malware attacks. But sometimes they would block your game from launching or accessing the internet. Therefore, we would suggest you disable those antivirus software and Windows firewall temporarily before launching Among Us:
@@ -124,18 +140,32 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -153,8 +183,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +190,16 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-a-new-era-of-visual-clarity-the-10-list-of-top-monitors-for-macs/"><u>[New] A New Era of Visual Clarity The #10 List of Top Monitors for Macs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>[Updated] In 2024, Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximizing-igtv-impact-effective-tips-for-vertical-video-conversion/"><u>2024 Approved Maximizing IGTV Impact Effective Tips for Vertical Video Conversion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008853146-how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-black-ops-cold-war-error-xc0000005/"><u>Resolved: Overcoming the Black Ops Cold War Error XC0000005</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-how-to-fix-freezing-issues-in-fallout-4-on-pc/"><u>Troubleshooting Made Easy: How to Fix Freezing Issues in Fallout 4 on PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-when-your-pc-rejects-the-installation-of-a-new-driver/"><u>Troubleshooting Steps When Your PC Rejects the Installation of a New Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-the-solution-to-overcome-fallout-4s-persistent-black-screen-challenge/"><u>Uncover the Solution to Overcome Fallout 4'S Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unfold-the-latest-features-of-samsungs-new-galaxy-z-fold-6-pricing-and-launch-details/"><u>Unfold the Latest Features of Samsung's New Galaxy Z Fold 6 - Pricing & Launch Details</u></a></li>
+</ul></div>
 

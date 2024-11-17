@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Unresponsive Minecraft Gameplay in Windows Environments
-date: 2024-11-01T19:04:52.237Z
-updated: 2024-11-06T17:42:22.301Z
+date: 2024-11-16T06:49:58.514Z
+updated: 2024-11-16T23:58:09.570Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -62,6 +62,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 6. [**Unblock the game from Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
 
@@ -78,22 +85,15 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -133,10 +133,16 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Use your integrated graphics card
@@ -148,10 +154,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
@@ -165,6 +171,13 @@ OR
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -180,13 +193,6 @@ OR
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -211,24 +217,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-fb-videos-to-audible-pleasures-online-mp3-creation-secrets/"><u>[Updated] FB Videos to Audible Pleasures Online MP3 Creation Secrets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>[Updated] Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-iphone-camera-apps-for-pro-shots-and-free-use/"><u>2024 Approved Best iPhone Camera Apps for Pro Shots and Free Use</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>2024 Approved Connectivity at Its Peak USB-C & the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/best-fixes-for-persistent-f1-2020-stability-issues-on-windows-and-macos/"><u>Best Fixes for Persistent F1 2020 Stability Issues on Windows and MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/busting-through-blockades-repairing-your-pcs-troubles-with-game-endings/"><u>Busting Through Blockades: Repairing Your PC's Troubles with Game Endings</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/easily-navigate-your-digital-content-with-our-flipbook-page-turning-buttons-try-now-at-flipbuildercom/"><u>Easily Navigate Your Digital Content with Our Flipbook Page-Turning Buttons - Try Now at FlipBuilder.com</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-gameplay-in-the-elder-scrolls-online-solving-the-persistent-blackwood-delays/"><u>Improved Gameplay in The Elder Scrolls Online: Solving the Persistent Blackwood Delays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-new-ios-17-update-essential-for-your-iphone-or-ipad/"><u>Is the New iOS 17 Update Essential for Your iPhone or iPad?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-volume-control-the-art-of-audio-ducking-with-powerdirector/"><u>New In 2024, Mastering Volume Control The Art of Audio Ducking with PowerDirector</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-apex-legends-glitches-in-depth-solutions-for-smoother-playing-experience/"><u>Overcome Apex Legends Glitches: In-Depth Solutions for Smoother Playing Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-ensuring-seamless-execution-of-saints-row-on-your-computer/"><u>Step-by-Step Solution: Ensuring Seamless Execution of Saints Row on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008222597-stop-the-dread-of-crashing-controls-easy-fixes-inside/"><u>Stop the Dread of Crashing Controls – Easy Fixes Inside</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy M34 5G Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tp-link-ub400-bluetooth-dongle-find-download-and-update-software-today/"><u>TP-Link UB400 Bluetooth Dongle: Find, Download & Update Software Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-top-5-fixes-to-stop-winwordexe-from-freezing/"><u>Troubleshooting Made Easy: Top 5 Fixes to Stop WINWORD.EXE From Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-dayz-drop-secrets-score-more-weapons-quickly/"><u>Unlock DayZ Drop Secrets: Score More Weapons Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-overcoming-frequent-game-shutdowns-and-crashes/"><u>Valheim PC Stability Guide: Overcoming Frequent Game Shutdowns and Crashes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>[New] Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-guide-to-free-cloud-communication-software/"><u>[New] In 2024, Comprehensive Guide to Free Cloud Communication Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fade-perfection-quick-tips-and-tricks/"><u>[Updated] 2024 Approved Fade Perfection Quick Tips and Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-psycho-social-signal-customization-ps-console-edition/"><u>[Updated] Psycho-Social Signal Customization PS Console Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-review-best-kindle-format-azw3-ebook-readers-available/"><u>Expert Review: Best Kindle Format (.AZW3) eBook Readers Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-constant-crashing-in-age-of-empires-4-for-windows-users/"><u>How to Prevent Constant Crashing in Age of Empires 4 for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashing-in-the-full-edition-of-nioh-2/"><u>How to Resolve Persistent Crashing in the Full Edition of Nioh 2</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-granblue-fantasys-launch-errors-the-relink-solution/"><u>Mastering the Fix for Granblue Fantasy's Launch Errors: The ReLink Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-death-stranding-optimized-settings-for-a-perfect-gaming-session/"><u>Overcome Game Crashes in Death Stranding: Optimized Settings for a Perfect Gaming Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-lag-issues-in-world-of-warcraft-with-these-proven-2024-tweaks/"><u>Resolve Lag Issues in World of Warcraft with These Proven 2024 Tweaks!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-application-failure-to-start-on-windows-comprehensive-troubleshooting-guide/"><u>Solving 'Application Failure to Start on Windows': Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-10-tips-for-eliminating-lag-in-call-of-duty-black-ops-cold-war/"><u>Top 10 Tips for Eliminating Lag in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989606702-troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-application-couldnt-start-correctly-hurdle-in-adobe-software/"><u>Troubleshooting Tips: Overcoming the 'Application Couldn't Start Correctly' Hurdle in Adobe Software</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-create-stunning-animations-top-ios-and-android-stop-motion-apps-for-2024/"><u>Updated Create Stunning Animations Top iOS and Android Stop Motion Apps for 2024</u></a></li>
 </ul></div>
 

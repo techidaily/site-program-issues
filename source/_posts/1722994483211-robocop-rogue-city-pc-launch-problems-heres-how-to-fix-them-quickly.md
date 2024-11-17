@@ -1,7 +1,7 @@
 ---
 title: RoboCop - Rogue City PC Launch Problems? Here's How to Fix Them Quickly!
-date: 2024-08-23T17:29:49.283Z
-updated: 2024-08-24T17:29:49.283Z
+date: 2024-11-15T19:04:26.125Z
+updated: 2024-11-17T09:56:24.285Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -61,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -76,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
@@ -101,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -109,18 +114,24 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Change Epic Games Launcher Properties
 
  Some players reported that this issue can be fixed by changing the properties of Epic Games Launcher. Here’s how to do it:
@@ -130,8 +141,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -140,9 +155,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -169,19 +181,29 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Epic Games Launcher
 
@@ -196,13 +218,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Restart your computer.
 
 4) Download the installation package from[https://www.epicgames.com/store/en-US/download](https://www.epicgames.com/store/en-US/download) and install it on your computer.
@@ -222,8 +243,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +250,18 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-vrecorder-free-easy-setup-guide/"><u>[Updated] In 2024, VRecorder Free Easy Setup Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-license-free-mcb-video-backgrounds-for-2024/"><u>[Updated] License-Free MCB Video Backgrounds for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-hacks-to-prevent-your-cities-skylines-game-from-crashing/"><u>Expert Hacks to Prevent Your Cities: Skylines Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-pacific-drive-running-smoothly-again-essential-troubleshooting-steps/"><u>Get Your Pacific Drive Running Smoothly Again - Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-pop-ups-on-your-windows-device-solutions-and-tips/"><u>How to Fix Audio Pop-Ups on Your Windows Device - Solutions & Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-playing-hevc-videos-on-your-windows-10-pc/"><u>Step-by-Step Guide to Playing HEVC Videos on Your Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-a-non-updatable-minecraft-native-launcher/"><u>Step-by-Step Solution for a Non-Updatable Minecraft Native Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-discords-resource-demand-comprehensive-fixes-for-elevated-cpu-use/"><u>Taming Discord's Resource Demand : Comprehensive Fixes for Elevated CPU Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-when-investing-in-a-new-projector/"><u>The Ultimate Checklist When Investing in a New Projector</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-when-deathloop-wont-start/"><u>Troubleshooting Tips: Fixing the Issue When Deathloop Won't Start</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-5-best-online-stop-motion-makers/"><u>Updated 2024 Approved 5 Best Online Stop Motion Makers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Understanding and Fixing Black Ops Cold War Error Code Eight-Eight Seven A-Zero-Zero Zero Five"
-date: 2024-08-23T17:27:41.805Z
-updated: 2024-08-24T17:27:41.805Z
+date: 2024-11-15T17:49:34.198Z
+updated: 2024-11-16T20:13:30.936Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 
  Also, many users find that installing the latest Windows 10 gets rid of the Starcraft 2 crashing issue. Therefore, you’ll need to check for updates and always keep your OS up to date for a smoothing gaming experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Scan and Repair for Starcraft 2
 
  If you run into any Blizzard in-game problems, you can try the**Scan and Repair** feature in the**Battle.net application** , which automatically scans and repairs the problems in your game. To scan and repair your Starcraft 2, here’s how to do it:
@@ -46,11 +53,22 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 2. Select your Starcraft 2.
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
-5. Wait for the repair to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Wait for the repair to finish.
+
 ### Fix 3: Update your graphics card driver
 
  If you’re an avid gamer, you must know how important a graphics card driver means, and how an outdated or corrupt graphics card driver causes your game to crash, lag or load forever, etc. Therefore, you should always check the current driver version and keep your graphics card driver up-to-date.
@@ -83,9 +101,6 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 **OR** click**_Update All_** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ , which comes with a 30-day no question asked money back guarantee.)  
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
 
 ### Fix 4: Stop overclocking
@@ -104,8 +119,12 @@ _Note: This method applies only to the_ non-reference model cards_._
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset your Starcraft 2 in-game options
 
  Sometimes Starcraft 2 will fail to recognize your graphics driver since it’s been changed or whatsoever. Resetting your in-game options can always do the trick if this is the culprit of your Starcraft 2 crashing.
@@ -120,18 +139,12 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
 
  If you don’t know how to do it, you can consult your antivirus documentation for instructions or search **How to Add Antivirus Exclusions to \[name of your antivirus app\]** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 7: Run Starcraft 2 as administrator
 
  Starcraft 2 crashing issues can occur if you have limited access to the game file. To fix it, you can run Starcraft 2 exe. as administrator permanently:
@@ -141,9 +154,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 3. Navigate to the**Compatibility** tab.
 4. Check the**Run this program as administrator** box.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Set Affinity for Starcraft 2
 
  Most users have reported that Starcraft 2 can’t utilize all of the CPU cores. So, the best fix for this is to set the affinity for the game from the Task Manager.
@@ -157,6 +167,13 @@ _Note: This method applies only to the_ non-reference model cards_._
 7. Click**OK** and then go back to your game.
 
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Run Starcraft 2 in windowed mode
 
@@ -177,28 +194,38 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Type **msconfig** and press **Enter** to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -213,8 +240,6 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +247,16 @@ _Note: This method applies only to the_ non-reference model cards_._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-ultimate-blueprint-for-earning-money-on-tiktok-8-strategies/"><u>[New] The Ultimate Blueprint for Earning Money on TikTok (8 Strategies)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-webcam-options-for-professional-zoom-use/"><u>[Updated] Optimal Webcam Options for Professional Zoom Use</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-overview-evolution-of-apples-ios-from-10-through-180/"><u>A Comprehensive Overview: Evolution of Apple's iOS From 1.0 Through 18.0</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/"><u>Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-painting-made-easy-with-free-online-editors/"><u>Digital Painting Made Easy with Free Online Editors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-pc-stability-problems-solutions-and-fixes/"><u>God of War PC Stability Problems - Solutions and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-persistent-issues-why-is-rocket-league-still-crashing/"><u>Solving Persistent Issues: Why Is Rocket League Still Crashing ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/"><u>Troubleshooting Steps to Stop 'Forza Horizon 5' From Freezing on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo X100 Pro | Dr.fone</u></a></li>
+</ul></div>
 

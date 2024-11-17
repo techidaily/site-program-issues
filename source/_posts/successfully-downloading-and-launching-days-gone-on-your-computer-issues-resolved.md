@@ -1,7 +1,7 @@
 ---
 title: Successfully Downloading and Launching 'Days Gone' On Your Computer [ISSUES RESOLVED]
-date: 2024-08-23T17:28:10.822Z
-updated: 2024-08-24T17:28:10.822Z
+date: 2024-11-11T04:29:20.641Z
+updated: 2024-11-16T16:26:53.184Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -38,8 +45,12 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -49,9 +60,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,20 +90,26 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -104,9 +118,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +132,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +139,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-instant-impression-audiovisual-capture/"><u>[New] In 2024, Instant Impression Audiovisual Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-6-reel-enhancing-applications-for-instagram/"><u>[Updated] 2024 Approved Top 6 Reel-Enhancing Applications for Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-get-into-the-world-of-assassins-creed-mirage-ultimate-launch-fix-guide-for-gamers/"><u>Can't Get Into the World of Assassin's Creed: Mirage? Ultimate Launch Fix Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-pubg-gameplay-interruptions-with-these-simple-fixes/"><u>Eliminate PUBG Gameplay Interruptions with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android/"><u>In 2024, Go Pro Simple Techniques for Captivating Slow Motion Videos on Android</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-narzo-60-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme Narzo 60 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-nwstoreexe-program-malfunction-a-comprehensive-guide/"><u>Resolving the nw_store.exe Program Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-unresponsive-gameplay-no-more-freezes-in-warframe/"><u>Solution for Unresponsive Gameplay - No More Freezes in Warframe</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transform-your-medical-practice-enhancing-patient-care-through-abbyy-paperless-data-solutions/"><u>Transform Your Medical Practice: Enhancing Patient Care Through ABBYY Paperless Data Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-roblox-windows-errors-swift-fixes-to-get-you-back-in-the-game-updated/"><u>Troubleshooting Roblox Windows Errors: Swift Fixes to Get You Back in the Game - Updated</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-for-a-stable-windows-11-photo-experience-for-2024/"><u>Troubleshooting Tips for a Stable Windows 11 Photo Experience for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-of-custom-commands-in-chatgpt-features-and-benefits-explained/"><u>Unveiling the Potential of Custom Commands in ChatGPT: Features and Benefits Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-dragon-age-inquisition-wont-start-diagnosis-and-fixes/"><u>Why Dragon Age Inquisition Won't Start: Diagnosis & Fixes</u></a></li>
+</ul></div>
 

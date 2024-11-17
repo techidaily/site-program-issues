@@ -1,7 +1,7 @@
 ---
 title: "Ghostwire: Tokyo Stability Improvement - No More PC Crashes"
-date: 2024-08-23T17:29:10.132Z
-updated: 2024-08-24T17:29:10.132Z
+date: 2024-11-14T06:04:06.453Z
+updated: 2024-11-17T06:59:05.121Z
 tags:
   - win11
   - win10
@@ -80,22 +80,27 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -114,14 +119,24 @@ If it doesn’t work for you, move to the next fix.
 2. Right-click on**Left 4 Dead 2** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
 
@@ -133,6 +148,13 @@ You can also disable Steam overlay in Left 4 Dead 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
 If it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Disable add-ons
 
@@ -161,9 +183,6 @@ To check if your add-ons are the fault, here the following things to do:
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -175,8 +194,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +201,26 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/diagnosis-and-repair-why-is-my-(span-stylecolor-0078af)halo-3(span)-game-crashing-expert-advice-for-players/"><u>[Diagnosis & Repair] Why Is My <Span Style=color: #0078AF;>Halo 3</Span> Game Crashing? Expert Advice for Players</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-navigating-your-way-through-vr-headset-selection-is-the-mobile-experience-more-attractive-than-tethered-tech/"><u>[New] 2024 Approved Navigating Your Way Through VR Headset Selection Is the Mobile Experience More Attractive Than Tethered Tech?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-engaging-audiences-with-wirecast-hosted-facebook-streams/"><u>[New] In 2024, Engaging Audiences with Wirecast-Hosted Facebook Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-royale-gamers-unite-eradicating-warzones-pc-and-console-error-code-5573-a-comprehensive-guide/"><u>Battle Royale Gamers Unite! Eradicating Warzone’s PC & Console Error Code 5573: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/comprehensive-instructions-how-to-take-out-nvidia-drivers-in-windows-11/"><u>Comprehensive Instructions: How to Take Out Nvidia Drivers in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-game-hiccups-masterful-tweaks-to-fix-fallout-4-freezing-on-windows-machine/"><u>Eliminate Game Hiccups: Masterful Tweaks to Fix Fallout 4 Freezing on Windows Machine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-data-security-when-utilizing-tailored-gpt-models-like-chatgpt/"><u>Ensuring Data Security When Utilizing Tailored GPT Models Like ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-starfield-game-crashes-on-pc-systems/"><u>Expert Tips for Fixing Starfield Game Crashes on PC Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explorar-o-portugues-todas-as-formas-de-saudar/"><u>Explorar O Português: Todas As Formas De Saudar</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211308837-9798990415102-fierce-boundaries/"><u>Fierce Boundaries | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-unstuck-from-your-screen-overcoming-minecrafts-endless-loading-issue/"><u>Get Unstuck From Your Screen: Overcoming Minecraft's Endless Loading Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-google-bard-the-ultimate-guide-on-leveraging-googles-advanced-ai-chat-technology/"><u>Introducing Google Bard - The Ultimate Guide on Leveraging Google’s Advanced AI Chat Technology</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-troubles-get-your-monster-hunter-rise-game-running-again/"><u>Persistent Troubles? Get Your Monster Hunter Rise Game Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-pc-performance-hiccups-in-assassins-creed-valhalla/"><u>Resolved: Troubleshooting PC Performance Hiccups in Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-persona-4-golden-crashing-issues/"><u>Solved: Persona 4 Golden Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-troubleshoot-and-stop-no-rest-for-the-wicked-from-crashing-on-your-pc/"><u>Steps to Troubleshoot and Stop 'No Rest for the Wicked' From Crashing on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-horizon-of-conversational-ai-what-lies-beyond-chatgpt/"><u>The Horizon of Conversational AI: What Lies Beyond ChatGPT?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-mobile-face-off-determining-if-iphone-or-android-suits-you-best/"><u>The Ultimate Mobile Face-Off: Determining if iPhone or Android Suits You Best</u></a></li>
+</ul></div>
 

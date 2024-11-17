@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2024-11-04T03:34:25.078Z
-updated: 2024-11-07T02:11:42.644Z
+date: 2024-11-16T07:53:14.717Z
+updated: 2024-11-17T06:11:51.526Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -65,13 +72,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -82,6 +82,13 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -105,6 +112,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -113,10 +134,16 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
@@ -125,25 +152,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -161,23 +174,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -218,19 +230,21 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-social-media-trends-with-data-graphics/"><u>[New] In 2024, Charting Social Media Trends with Data Graphics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>[New] The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-conversion-suite-for-mp4fb-sharing/"><u>[New] Top Conversion Suite for MP4/FB Sharing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-uncover-the-best-free-ultimate-3d-videos-playing-solutions-for-2024/"><u>[New] Uncover the Best Free, Ultimate 3D Videos Playing Solutions for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-demystifying-youtube-premium-membership-benefits/"><u>[Updated] Demystifying YouTube Premium Membership Benefits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-virtual-worlds-worth-playing/"><u>2024 Approved Essential Virtual Worlds Worth Playing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-a-non-launching-business-a-comprehensive-guide/"><u>Effective Strategies to Resolve a Non-Launching Business : A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-incorrect-setup-for-the-amd-ryzen-performance-monitor/"><u>How to Solve Incorrect Setup for the AMD Ryzen Performance Monitor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-photo-edits-partially-blurring-content/"><u>Innovative Photo Edits Partially Blurring Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-itunes-recognition-errors-iphone-unseen-by-windows-11/"><u>Overcoming iTunes Recognition Errors: IPhone Unseen by Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oxford-3000-reimagined-for-word-mastery/"><u>Oxford 3000 Reimagined for Word Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro391/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health.</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/user-friendly-guide-stop-frequent-outriders-game-crashes/"><u>User-Friendly Guide: Stop Frequent Outriders Game Crashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[New] 2024 Approved Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>[New] In 2024, From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stealthy-edits-blur-without-compromising-quality/"><u>[New] Stealthy Edits Blur Without Compromising Quality</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-video-posting-on-twitter-and-tumblr-connection/"><u>[Updated] 2024 Approved Video Posting on Twitter and Tumblr Connection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-sponsorships-by-using-famebit-for-2024/"><u>[Updated] How to Find YouTube Sponsorships by Using FameBit for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-game-capture-kit-tools-and-methodologies/"><u>2024 Approved The Ultimate Game Capture Kit Tools and Methodologies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-disconnection-the-six-key-techniques-to-restore-terraria-connectivity/"><u>Defeat Disconnection: The Six Key Techniques to Restore Terraria Connectivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-stability-addressing-warzone-20-pc-crash-problems/"><u>Fixing Game Stability: Addressing Warzone 2.0 PC Crash Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-driver-problems-for-windows-11-users/"><u>How to Fix IDT HD Audio Driver Problems for Windows 11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-picdistort-a-comprehensive-guide-to-image-alteration/"><u>In 2024, PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigate-through-itunes-recording-like-a-pro-for-2024/"><u>Navigate Through iTunes Recording Like a Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005134870-no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-among-us-stuck-at-boot-screens-tips-and-tricks-to-get-back-into-the-game/"><u>Overcome Among Us Stuck at Boot Screens - Tips and Tricks to Get Back Into the Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-error-getting-netflix-up-and-running-again-on-xbox-gaming-system/"><u>Overcome Error: Getting Netflix Up and Running Again on Xbox Gaming System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-with-valheim-expert-tips-and-tricks/"><u>Overcoming Startup Difficulties with Valheim : Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/participate-actively-in-continuous-learning-activities-including-webinars-workshops-training-sessions-to-improve-product-knowledge-and-stay-up-to-date-on-in402/"><u>Participate Actively in Continuous Learning Activities, Including Webinars, Workshops, Training Sessions to Improve Product Knowledge and Stay Up-to-Date on Industry Trends Relevant to Customer Support Best Practices</u></a></li>
 </ul></div>
 

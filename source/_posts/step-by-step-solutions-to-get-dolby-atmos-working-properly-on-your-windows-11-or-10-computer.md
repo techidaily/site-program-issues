@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions to Get Dolby Atmos Working Properly on Your Windows 11 or 10 Computer
-date: 2024-08-19T16:57:52.084Z
-updated: 2024-08-20T16:57:52.084Z
+date: 2024-11-11T07:44:13.464Z
+updated: 2024-11-17T00:42:21.245Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -58,6 +65,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -86,6 +100,13 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Reset your preferences
 
  According to Adobe, resetting your preferences is a useful fix to stop Premiere Pro from crashing. If you haven’t tried this fix yet, just give it a shot.
@@ -95,8 +116,12 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
@@ -108,22 +133,12 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Launch Premiere Pro and go to**File** \>**Project Settings** \>**General** .  
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Remove media cache files
 
  Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
@@ -131,16 +146,18 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 See if this fix stops the crashing. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Close CPU / memory hogging applications
 
  Premiere Pro is a resource intensive application. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and causes Premiere Pro to crash. If it’s the case, closing those CPU / memory hogging applications may get Premiere Pro work again, Here is how to do it:
@@ -149,9 +166,6 @@ See if this fix stops the crashing. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
@@ -166,13 +180,17 @@ To cool down your computer, you may need to
 * Make sure your computer is in a**cool environment.**
 * Use a**better cooling system** for your computer if yours is not powerful enough.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -190,8 +208,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +215,24 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>[New] In 2024, Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[Updated] In 2024, Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-apps-revolutionizing-video-talks/"><u>[Updated] Innovative Apps Revolutionizing Video Talks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitches-secure-uninterrupted-fun-with-mortal-kombat-11-fixes/"><u>Beat the Glitches: Secure Uninterrupted Fun with Mortal Kombat 11 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/curbing-the-starfield-apps-high-cpu-consumption-strategies-for-202n4/"><u>Curbing the Starfield App’s High CPU Consumption: Strategies for 202N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-the-notorious-error-103003-in-tarkov-a-comprehensive-guide/"><u>Deciphering and Fixing the Notorious Error 103003 in Tarkov: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embark-on-a-journey-through-augmented-space/"><u>Embark on a Journey Through Augmented Space</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-flawlessly-moving-data-and-settings-to-your-latest-iphone-model-featuring-advice-from-zdnet/"><u>Expert Tips for Flawlessly Moving Data and Settings to Your Latest iPhone Model, Featuring Advice From ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nubia-red-magic-9-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nubia Red Magic 9 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-epson-wf-7710-printer-on-windows-downloads-for-win10-win81-win8-and-win7/"><u>Install Your Epson WF-7710 Printer on Windows: Downloads for Win10, Win8.1, Win8 & Win7</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-a-seamless-cs2-experience-fixing-frame-rate-hiccups/"><u>Optimizing Your PC for a Seamless CS2 Experience – Fixing Frame Rate Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-slow-response-times-tips-to-enhance-your-gaming-session-in-the-recent-version-of-the-new-world/"><u>Resolving Slow Response Times: Tips to Enhance Your Gaming Session in the Recent Version of the New World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-restored-ending-black-desert-online-crash-issues/"><u>Seamless Gaming Experience Restored: Ending Black Desert Online Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-sony-vegas-sudden-shutdown-problems-for-smooth-editing/"><u>Solving the Sony Vegas Sudden Shutdown Problems for Smooth Editing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-laptop-face-off-how-the-newest-samsung-galaxy-book-stands-up-against-the-macbook-pro-insights/"><u>The Ultimate Laptop Face-Off: How the Newest Samsung Galaxy Book Stands Up Against the MacBook Pro | Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987226683-unseen-by-steam-here-are-eight-fixes-for-your-unresponsive-vr-headset/"><u>Unseen by Steam? Here Are Eight Fixes for Your Unresponsive VR Headset.</u></a></li>
+</ul></div>
 

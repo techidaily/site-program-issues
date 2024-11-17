@@ -1,7 +1,7 @@
 ---
 title: Left Er 4 Dead 2 No Longer Crashes - Solutions Explored
-date: 2024-08-23T17:27:52.389Z
-updated: 2024-08-24T17:27:52.389Z
+date: 2024-11-10T19:26:30.903Z
+updated: 2024-11-17T00:35:47.312Z
 tags:
   - win11
   - win10
@@ -78,13 +78,22 @@ Overloading is one of the most common causes of game crashing issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **4)** Launch Team Fortress 2 again to see if it still crashes.
 
 If the problem persists, try fix 3, below.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -115,18 +124,29 @@ There are two ways you can get the latest correct driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-05-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-05-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -141,22 +161,27 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Right-click **Team Fortress 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)**  Wait for this process to be complete, and then relaunch your game.
 
  You should now be able to launch your game and play it! If your problem still exists, try the fix, below.
@@ -171,9 +196,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Team Fortress 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-18.jpg)
@@ -205,8 +227,12 @@ Here is how to do it:
 If not, try the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Run TF2 in compatibility mode
 
  Sometimes, Windows updates may not be compatible with Team Fortress 2, causing it to stop working. If you’ve updated your computer recently, try running your game in compatibility mode to see if it fixes your issue.
@@ -217,12 +243,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Go to **steamapps** \> **common** \> **Team Fortress 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-56.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3 )** Right-click **hl2.exe** and select **Properties** .
 
@@ -236,18 +266,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-16-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and try running the game on**Windows 7**  mode.
 
  If your game still crashes under the compatibility mode, check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall Team Fortress 2 and/or Steam
 
  If the game or the game launcher isn’t properly installed on your PC, you’re likely to run into the crashing issue. In this case, try reinstalling TF2 and/or Steam to see if it resolves your issue. Here is how to do it:
@@ -277,16 +301,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** On your keyboard, press the **Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-1.jpg)
@@ -299,16 +317,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Right-click **Steam** , then**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam again.
 
 **8)** Right-click the **Steam icon**  and select **Open file location** .
@@ -320,8 +332,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-23-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **10)**  Relaunch Steam and Team Fortress 2.
 
  Hopefully, you’re able to play Team Fortress 2 now! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -338,8 +354,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -347,4 +361,22 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-7-cost-free-tiktok-edits-for-mac-users/"><u>[New] In 2024, Top 7 Cost-Free TikTok Edits for Mac Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-youtube-trailer-creation-with-filmora/"><u>[New] Mastering YouTube Trailer Creation with Filmora</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-monthly-earnings-potential-on-youtube/"><u>[Updated] Monthly Earnings Potential on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>[Updated] Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-loading-screens-fixed-a-step-by-step-guide/"><u>Among Us Loading Screens Fixed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-common-issues-your-step-by-step-guide-to-boot-up-borderlands-3-without-fail/"><u>Defeating Common Issues – Your Step-by-Step Guide to Boot Up Borderlands 3 Without Fail</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-hp-laptop-screen-flickering-or-blinking-issues/"><u>How To Fix HP Laptop Screen Flickering Or Blinking Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-hourly-heavy-hitters-top-ten-youtube-video-rankings-in-a-day/"><u>In 2024, Hourly Heavy Hitters Top Ten YouTube Video Rankings in a Day</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987435863-rapid-results-with-star-wars-battlefront-ii-shaders-no-more-stuck-tuning/"><u>Rapid Results with Star Wars Battlefront II Shaders: No More Stuck Tuning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-common-issues-and-solutions-for-starcraft-2-pc-crashes/"><u>Resolved: Common Issues and Solutions for StarCraft 2 PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-steps-for-samurai-warriors-5-continuous-pc-freezes-and-crashes/"><u>Solved! Troubleshooting Steps for Samurai Warriors 5 Continuous PC Freezes & Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-error-code-103003-in-sivaks-cauldron-update/"><u>Step-by-Step Guide to Resolve Error Code 103003 in Sivak's Cauldron Update</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210163435-9781684099368-there-is-no-cheese/"><u>There Is No Cheese | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009374231-troubleshoot-and-enhance-your-steam-remote-play-experience-today/"><u>Troubleshoot and Enhance Your Steam Remote Play Experience Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unavailable-feature-fixed-monitor-displays-do-not-recognize-current-input-timing/"><u>Unavailable Feature: [FIXED] Monitor Displays Do Not Recognize Current Input Timing</u></a></li>
+</ul></div>
 

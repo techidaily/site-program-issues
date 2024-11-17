@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix Frame Rate Issues in Dying Light 2 for PC Gamers"
-date: 2024-10-31T23:04:17.683Z
-updated: 2024-11-07T03:58:49.651Z
+date: 2024-11-16T02:22:55.423Z
+updated: 2024-11-17T06:38:37.415Z
 tags:
   - win11
   - win10
@@ -47,18 +47,24 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -90,9 +96,23 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -124,13 +144,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -138,13 +151,6 @@ Here is how to do it:
  If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
 
@@ -156,16 +162,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
 
@@ -198,15 +204,21 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-showcase-a-dialogue-in-one-instagram-post/"><u>[Updated] 2024 Approved Showcase a Dialogue in One Instagram Post</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-fix-live-video-interrupted-on-facebook-in-2024/"><u>2023 | How to Fix Live Video Interrupted on Facebook, In 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone X to iPad | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-frame-rates-in-war-thunder-expert-guide-to-boosting-your-fps-in-the-latest-game-patch/"><u>Improving Frame Rates in War Thunder - Expert Guide to Boosting Your FPS in the Latest Game Patch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/path-of-exile-connectivity-woes-heres-your-ultimate-solution-in-depth-analysis-for-the-2024-playthrough/"><u>Path of Exile Connectivity Woes? Here's Your Ultimate Solution - In-Depth Analysis for the 2024 Playthrough</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013603855-pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/cketing-sales-how-ad-revenue-transforms-youtube-videos-for-2024/"><u>Skyrocketing Sales How Ad Revenue Transforms YouTube Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-final-nightmare-aftermath-update-securing-your-pc-from-game-crashes/"><u>The Final Nightmare Aftermath Update: Securing Your PC From Game Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-the-audio-input-for-oculus-quest-ebrary-inc/"><u>Troubleshooting and Repairing the Audio Input for Oculus Quest Ebrary, Inc</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-first-to-last-your-guide-to-youtube-video-looping-101-for-2024/"><u>[New] From First to Last Your Guide to YouTube Video Looping 101 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[Updated] 2024 Approved Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-echoes-unleashed-mac-studio-techniques/"><u>2024 Approved Echoes Unleashed Mac Studio Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/break-the-bond-detach-your-instagram-and-facebook/"><u>Break the Bond: Detach Your Instagram and Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997546909-endure-no-more-sea-of-thieves-crash-issues-now-solved/"><u>Endure No More: Sea of Thieves Crash Issues Now Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experiencing-issues-with-cortana-heres-how-you-can-resolve-them/"><u>Experiencing Issues With Cortana? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-pc-gaming-woes-overcome-grounded-crashes/"><u>Fix Your PC Gaming Woes: Overcome 'Grounded' Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014066369-fixes-in-place-for-seamless-play-grand-theft-auto-vs-gta-nv-stuttering-problem-solved/"><u>Fixes in Place for Seamless Play: Grand Theft Auto V's (GTA Nv) Stuttering Problem Solved.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-mount-and-blade-2-bannerlord-crash-problems-with-ease/"><u>Fixing Your Mount & Blade 2: Bannerlord Crash Problems with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hp-monitor-wont-turn-on-discover-the-solutions-fixed/"><u>HP Monitor Won't Turn On? Discover the Solutions (FIXED)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-techniques-for-perfecting-your-voice-with-morphvox/"><u>In 2024, Advanced Techniques for Perfecting Your Voice with MorphVOX</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-insiders-guide-to-tiktok-on-apple-and-windows-systems/"><u>In 2024, The Insider's Guide to TikTok on Apple and Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-the-release-of-urban-planners-challenge-skycrapes-unbound/"><u>Resolving Issues with the Release of Urban Planner's Challenge: Skycrapes Unbound</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixes-successfully-downloading-and-playing-tiny-tinas-wonderlands-on-your-desktop-pc/"><u>Troubleshooting & Fixes - Successfully Downloading and Playing Tiny Tina’s Wonderlands on Your Desktop PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-behavior-manual/"><u>Unified YouTube Behavior Manual</u></a></li>
 </ul></div>
 

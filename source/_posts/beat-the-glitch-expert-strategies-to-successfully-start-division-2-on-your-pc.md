@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Expert Strategies to Successfully Start Division 2 on Your PC !"
-date: 2024-08-23T17:28:41.017Z
-updated: 2024-08-24T17:28:41.017Z
+date: 2024-11-10T02:57:57.952Z
+updated: 2024-11-16T20:43:54.880Z
 tags:
   - win11
   - win10
@@ -41,14 +41,19 @@ Take Avast as an example:
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -73,17 +78,24 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -92,15 +104,26 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix bring no luck, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -109,19 +132,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -136,8 +154,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +161,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-follower-fallout-on-instagram-how-to-spot-it/"><u>2024 Approved Follower Fallout on Instagram How to Spot It</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>2024 Approved Preeminent 5 Photo Background Changer Tools IPhone X/8/7 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/adobe-application-start-up-problems-fixing-the-causes-behind-code-0xc0000022-and-ensuring-smooth-operation/"><u>Adobe Application Start-Up Problems: Fixing the Causes Behind Code 0xC0000022 and Ensuring Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-dark-screens-effective-troubleshooting-techniques/"><u>Conquering Dark Screens: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-to-playing-fifa-19-effective-fix-for-game-crashes-on-pc/"><u>Get Back to Playing FIFA 19: Effective Fix for Game Crashes on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-gear-up-with-smart-techniques-elevating-your-ps4-gameplay-capture-abilities/"><u>In 2024, Gear Up with Smart Techniques Elevating Your PS4 Gameplay Capture Abilities</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-nubia-flip-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Nubia Flip 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030508198-pcmwavmp3/"><u>PCMオーディオファイルの一括でWAV/MP3形式への高品位・迅速な変換方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prepare-for-the-new-features-with-the-nearing-release-of-windows-11s-2024-version/"><u>Prepare for the New Features with the Nearing Release of Windows 11’S 2024 Version!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-network-delays-in-league-of-legends/"><u>Resolved: How to Fix Network Delays in League of Legends</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-step-by-step-guide-to-fix-pacific-drive-crashes-on-your-computer/"><u>Resolving Issues: Step-by-Step Guide to Fix Pacific Drive Crashes on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-spotify-connection-errors-in-win11/"><u>Tackling Spotify Connection Errors in Win11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/44oj44ot44od44ox44oc44od44kv44k544gr44ki44kv44k744k544gn44gn44gplus44gb44kt44glpydku4rmnijjga7jg5njgrnjg4jjg7vjg6rjg5tjg7zjgrjg7zjgajg4njg63jg4pjg5fjg5zjg4p23/"><u>ドロップボックスにアクセスできませんか? 今月のベスト・リピーターはドロップボックス風サイト!</u></a></li>
+</ul></div>
 

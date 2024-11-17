@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Freeze Issues in Halo Infinite on Your Computer: A Step-by-Step Guide with Seven Simple Solutions"
-date: 2024-11-01T17:08:22.688Z
-updated: 2024-11-06T18:56:48.141Z
+date: 2024-11-12T19:25:06.169Z
+updated: 2024-11-16T21:16:36.651Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ We understand how frustrating it can be to run into the freezing issue when play
 
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update your graphics driver
 
  Your graphics driver is essential for getting top performance from your GPU.**If you’re using an outdated graphics driver** while playing a demanding game such as Halo Infinite, you’re more likely to encounter the freezing issue. In this case, you should update your graphics driver. It can fix performance bottlenecks and introduce improvements that make your game run smoothly.
@@ -69,6 +62,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -82,10 +82,10 @@ We understand how frustrating it can be to run into the freezing issue when play
 If updating drivers doesn’t help, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Delete temp files
@@ -98,38 +98,18 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
@@ -163,14 +143,14 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
@@ -184,9 +164,29 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 If this doesn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay
 
@@ -198,26 +198,13 @@ If this doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now relaunch your game and you should be able to play in rows without having the annoying freezing issue.
@@ -231,6 +218,13 @@ If this doesn’t help, try the next fix below.
 3. Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it’s completed, launch Halo Infinite and test the gameplay.
 
@@ -255,16 +249,14 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-setting-and-changing-personalized-iphone-tones/"><u>[New] Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-secrets-to-audio-visual-cohesion-on-facebook-for-2024/"><u>[New] Unveiling the Secrets to Audio-Visual Cohesion on Facebook for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992324291-solved-valheim-wont-launch-at-startup-2024/"><u>[Solved] Valheim Won't Launch at Startup 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-gameplay-fix-high-latency-in-call-of-dutys-latest-update-warzone-20/"><u>Improve Your Gameplay: Fix High Latency in Call of Duty's Latest Update, Warzone 2.0</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-metaverse-vs-multi-meva-key-differences-explained/"><u>In 2024, Exploring Metaverse Vs. Multi-Meva Key Differences Explained</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/leading-laughter-photo-maker-for-2024/"><u>Leading Laughter Photo Maker for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-resolution-why-is-my-grand-theft-auto-v-not-starting-and-how-to-fix-it/"><u>Step-by-Step Resolution: Why Is My Grand Theft Auto V Not Starting, and How to Fix It?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-smartphones-with-superior-video-capture-capabilities/"><u>Top 10 Smartphones with Superior Video Capture Capabilities</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-9-coupes-de-videos-gratuites-et-en-direct-sur-internet/"><u>Top 9 Coupes De Vidéos Gratuites Et En Direct Sur Internet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-recurring-fortnite-crashes-on-your-computer/"><u>Troubleshooting Guide: Resolving Recurring Fortnite Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-frame-drops-and-lag-in-warframe-gaming/"><u>Comprehensive Guide to Overcoming Frame Drops and Lag in Warframe Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/critical-reasons-to-elevate-xboxs-loyalty-benefits/"><u>Critical Reasons to Elevate Xbox's Loyalty Benefits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ffxiv-version-check-errors-solutions-and-workarounds-for-players/"><u>FFXIV Version Check Errors: Solutions and Workarounds for Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-touchpad-to-respond-fixing-scroll-issues-effectively/"><u>Getting Your Touchpad to Respond: Fixing Scroll Issues Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-make-your-mac-detect-an-external-screen-tips-and-tricks/"><u>How to Make Your Mac Detect an External Screen: Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-add-emojis-to-videos-the-ultimate-guide/"><u>New How to Add Emojis to Videos The Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-stability-keeping-hell-let-loose-playable-on-your-computer/"><u>Optimizing Stability: Keeping Hell Let Loose Playable on Your Computer</u></a></li>
 </ul></div>
 

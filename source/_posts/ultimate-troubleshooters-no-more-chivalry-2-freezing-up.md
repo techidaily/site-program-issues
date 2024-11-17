@@ -1,7 +1,7 @@
 ---
 title: "Ultimate TroubleShooters: No More Chivalry 2 Freezing Up"
-date: 2024-08-23T17:28:42.044Z
-updated: 2024-08-24T17:28:42.044Z
+date: 2024-11-09T19:29:26.176Z
+updated: 2024-11-17T10:09:57.674Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Left 4 Dead 2 crash issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -83,9 +80,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -93,9 +95,6 @@ OR
 
 If it doesn’t work for you, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -114,11 +113,16 @@ If it doesn’t work for you, move to the next fix.
 2. Right-click on**Left 4 Dead 2** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
 
@@ -127,13 +131,31 @@ You can also disable Steam overlay in Left 4 Dead 2.
 1. Run Steam client and head to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
 If it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5\. Disable add-ons
 
  If your game keeps crashing when you want to load into an addon map, it probably your addons are causing those crashes. When the addon map is attempting to load a texture or model that has already been loaded from another addon you’ve got installed, you’ll get a crash.
@@ -151,8 +173,12 @@ To check if your add-ons are the fault, here the following things to do:
 9. Find the exact add-on that causes the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -175,8 +201,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +208,22 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-deleting-discord-servers/"><u>[New] Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-depth-look-is-inshot-the-premier-editing-tool/"><u>[Updated] In-Depth Look Is InShot the Premier Editing Tool?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-players-experiencing-new-world-connection-errors/"><u>Comprehensive Fixes for Players Experiencing New World Connection Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-correct-your-minecraft-crossbow-problems-today/"><u>Decode and Correct Your Minecraft Crossbow Problems Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-prime-places-for-pixel-soundtracks/"><u>Discovering Prime Places for Pixel Soundtracks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-free-webm-players-how-to-play-webm-video-files/"><u>In 2024, Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s17t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S17t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-techniques-for-fixing-games-that-keep-freezing-or-crashing-updated/"><u>In-Depth Techniques for Fixing Games That Keep Freezing or Crashing (Updated )</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-tech-innovations-ai-chatbot-applications-and-augmented-reality-dominate-this-weeks-headlines-insights-from-zdnet/"><u>Leading Tech Innovations: AI, Chatbot Applications & Augmented Reality Dominate This Week's Headlines - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-game-crashes-overcome-nba-2k23-hurdles-with-these-7-pro-tips-and-fixes/"><u>Stop PC Game Crashes: Overcome NBA 2K23 Hurdles with These 7 Pro Tips & Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tracing-the-past-a-concise-guide-to-the-history-of-electric-vehicles/"><u>Tracing the Past: A Concise Guide to the History of Electric Vehicles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007368022-troubleshooting-success-now-you-can-start-team-fortress-2-without-hiccups/"><u>Troubleshooting Success! Now You Can Start Team Fortress 2 Without Hiccups</u></a></li>
+</ul></div>
 

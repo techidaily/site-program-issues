@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Ensuring Smooth Performance for Full Version of 'Horizon Forbidden West'"
-date: 2024-08-23T17:30:14.875Z
-updated: 2024-08-24T17:30:14.875Z
+date: 2024-11-11T09:26:48.186Z
+updated: 2024-11-17T04:16:24.463Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developers of Forza Horizon 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -39,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/76cb87841297f436650576e356aab992c1ddd1148
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -63,9 +66,20 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -73,6 +87,13 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -88,13 +109,14 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Forza Horizon 5\. If you have a powerful PC, just skip this fix.
@@ -134,15 +156,8 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -169,16 +184,25 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Run Forza Horizon 5 to see you can play it smoothly.
 
 ---
@@ -194,8 +218,6 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +225,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-becoming-a-pro-in-lut-creation/"><u>[New] Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[Updated] 2024 Approved Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-ultra-rich-viewable-ventures/"><u>[Updated] In 2024, Ultra-Rich Viewable Ventures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-monitor-choices-the-10-list-for-mac-users/"><u>2024 Approved Innovative Monitor Choices The #10 List For Mac Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artistic-advancements-top-smartphone-innovations-for-2024/"><u>Artistic Advancements Top Smartphone Innovations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-why-your-pacific-drive-wont-launch-and-how-to-overcome-it/"><u>Diagnose & Repair: Why Your Pacific Drive Won't Launch and How to Overcome It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-game-crashing-issues/"><u>How to Fix Game Crashing Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987672252-optimizing-gpu-performance-for-warzone-on-windows-11-fixed/"><u>Optimizing GPU Performance for Warzone on Windows 11 - Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-problems-in-your-atomic-heart-app/"><u>Overcoming Initialization Problems in Your Atomic Heart App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reimagining-ubisofts-hit-series-with-watch-dogs-legion-critique/"><u>Reimagining Ubisoft's Hit Series with Watch Dogs: Legion Critique</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-black-ops-cold-war-interface-bug-27711-fixed/"><u>Resolved: Black Ops Cold War Interface Bug 27711 Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-dinosaur-adventures-ultimate-guide-to-solve-jurassic-world-evolution-crashes/"><u>Smooth Dinosaur Adventures: Ultimate Guide to Solve Jurassic World Evolution Crashes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/striking-setups-to-impress-online-audiences/"><u>Striking Setups to Impress Online Audiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-game-startup-issues-ensuring-your-system-has-easy-anti-cheat-installed-for-smooth-operation/"><u>Troubleshooting Game Startup Issues: Ensuring Your System Has Easy Anti-Cheat Installed for Smooth Operation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/trying-the-ultra-compact-controllers-for-macbooks-no-more-clutter/"><u>Trying the Ultra-Compact Controllers for MacBooks - No More Clutter!</u></a></li>
+</ul></div>
 

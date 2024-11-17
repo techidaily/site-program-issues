@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'File Is Locked' Issue on Steam: A Comprehensive Guide"
-date: 2024-08-23T17:28:33.932Z
-updated: 2024-08-24T17:28:33.932Z
+date: 2024-11-10T06:57:44.260Z
+updated: 2024-11-17T04:58:21.813Z
 tags:
   - win11
   - win10
@@ -42,15 +42,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
@@ -65,24 +67,30 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -94,17 +102,19 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -132,16 +142,33 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -170,8 +197,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +204,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-picsart-analysis-and-tutorial/"><u>[New] In 2024, Ultimate PicsArt Analysis & Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture/"><u>[Updated] 2024 Approved Precision in Practice Detailed Manual on Windows PC Live TV Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>[Updated] Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>[Updated] In 2024, Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/11-step-by-step-pathways-to-perfect-grading-for-2024/"><u>11 Step by Step Pathways to Perfect Grading for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-lag-and-hiccups-expert-fixes-for-apex-legends-engine-woes/"><u>Banish Your Lag and Hiccups - Expert Fixes for Apex Legends' Engine Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-troubleshooting-and-fixing-crash-issues-in-outpost-infinity-siege-for-windows-users/"><u>Comprehensive Guide: Troubleshooting and Fixing Crash Issues in Outpost: Infinity Siege for Windows Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-xcover-7-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy XCover 7? Try These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-of-back-n4-blood-from-killing-your-computer-tips-and-solutions/"><u>How to Prevent Your Game of 'Back N4 Blood' From Killing Your Computer: Tips & Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g13-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G13 Screen | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000643663-microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-effective-fixes-for-the-notorious-scavengers-game-crashing-problem/"><u>PC Gaming Relief: Effective Fixes for the Notorious Scavengers Game Crashing Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001186968-quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-persistent-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Persistent Black Screen Issue</u></a></li>
+</ul></div>
 

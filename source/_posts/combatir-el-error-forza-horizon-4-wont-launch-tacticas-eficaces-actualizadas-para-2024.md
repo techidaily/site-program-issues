@@ -1,7 +1,7 @@
 ---
 title: "Combatir El Error 'Forza Horizon 4 Won't Launch': Tácticas Eficaces Actualizadas Para 2024"
-date: 2024-08-23T17:29:36.405Z
-updated: 2024-08-24T17:29:36.405Z
+date: 2024-11-10T01:48:54.583Z
+updated: 2024-11-17T08:02:10.920Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -41,15 +48,27 @@ Here’s how to do it on the Epic Games client:
 1. Open your Epic Games client and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  It’s very likely that your game won’t run when you’re using**a broken or outdated graphics driver** . If you’re an avid gamer, you should always keep your drivers up to date so as to avoid compatibility and performance issues.
@@ -63,9 +82,6 @@ If this doesn’t help, you can take a look at the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
@@ -81,11 +97,31 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -94,31 +130,26 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install the latest Visual C++ redistributable
 
  Some gamers reported that**installing the latest Visual C++ redistributable package** fixes the issue, so you can try the same and see how it goes.
@@ -126,8 +157,12 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
@@ -138,9 +173,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
@@ -153,8 +185,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +192,19 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-avoidance-of-windows-10-photos-application-hang-ups/"><u>[Updated] Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-compelling-documentary-narratives/"><u>Crafting Compelling Documentary Narratives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deal-with-outdated-minecraft-drivers-learn-the-simple-trick-to-upgrade-and-enjoy-smooth-gameplay/"><u>Deal with 'Outdated' Minecraft Drivers? Learn the Simple Trick to Upgrade and Enjoy Smooth Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvddvd-decrypter/"><u>DVDコピーに失敗するDVD Decrypterの対策 - エラー解析・効果的な利用法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-measuring-your-macbooks-internal-heat-levels/"><u>Guide: Measuring Your MacBook's Internal Heat Levels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-nba-2k21-constant-black-screen-issue-troubleshooting-guide/"><u>How to Resolve NBA 2K21 Constant Black Screen Issue - Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-balancing-act-camera-gimbals-for-drones/"><u>In 2024, Balancing Act Camera Gimbals for Drones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-novices-route-to-revenue-in-the-youtube-realm/"><u>In 2024, The Novice's Route to Revenue in the YouTube Realm</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-amd-radeon-rx-470-drivers-quick-download-guide/"><u>Latest AMD Radeon RX 470 Drivers: Quick Download Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-resident-evil-village-crashes-on-your-pc/"><u>Solution Guide: Overcoming Resident Evil Village Crashes on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-solutions-for-ubisoft-connect-malfunctions-as-of-2024/"><u>Top Solutions for Ubisoft Connect Malfunctions as of 2024</u></a></li>
+</ul></div>
 

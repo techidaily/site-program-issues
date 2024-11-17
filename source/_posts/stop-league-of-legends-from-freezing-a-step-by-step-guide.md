@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2024-11-06T00:51:13.237Z
-updated: 2024-11-06T23:46:27.083Z
+date: 2024-11-14T07:26:53.905Z
+updated: 2024-11-17T02:00:42.233Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -118,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -146,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -162,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -175,15 +168,22 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -208,21 +208,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs-for-2024/"><u>[New] Play Anywhere, Anytime The Ultimate Collection of the Best GB Advance Emulators on PCs for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-titanfall-2-keeps-crashing-quickly-and-easily/"><u>[Solved] Titanfall 2 Keeps Crashing | Quickly & Easily</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-quick-color-concealment-in-premiere/"><u>[Updated] 2024 Approved Quick Color Concealment in Premiere</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-editorial-powerhouses-free-for-web-enthusiasts-for-2024/"><u>[Updated] Editorial Powerhouses Free for Web Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-expense-full-experience-the-fcp-way/"><u>2024 Approved No Expense, Full Experience The FCP Way</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-crash-overcome-halo-infinite-keeps-freezing-on-your-computer-using-7-easy-fixes/"><u>Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-lag-a-step-by-step-guide-to-resolve-mw2s-dev-error-6068-tailored/"><u>Defeating Lag: A Step-by-Step Guide to Resolve MW2's Dev Error 6068 (Tailored )</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-safe-techniques-for-maintaining-your-hdtvs-clarity-and-shine/"><u>Expert Tips: Safe Techniques for Maintaining Your HDTV's Clarity and Shine</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-ideal-whatsapp-ringtone-ios-and-android-guide/"><u>In 2024, Crafting the Ideal WhatsApp Ringtone - iOS & Android Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-unlocking-social-networks-the-pathway-to-a-facebook-profile/"><u>In 2024, Unlocking Social Networks The Pathway to a Facebook Profile</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-instance-connection-in-path-of-exile-comprehensive-fixes-and-tips/"><u>Mastering Instance Connection in Path of Exile: Comprehensive Fixes & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-tackling-persistent-freezes-in-warframe/"><u>Overcoming Gameplay Disruptions: Tackling Persistent Freezes in Warframe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-recurring-content-warning-failures-in-windows-systems/"><u>Step-by-Step Guide to Resolve Recurring Content Warning Failures in Windows Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-s18-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo S18 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-roblox-launch-issue/"><u>Ultimate Guide: Solving the Roblox Launch Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/davinci-resolve-wont-open-common-hurdles-and-how-to-clear-them-in-windows-os/"><u>DaVinci Resolve Won't Open: Common Hurdles and How to Clear Them in Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-and-techniques-for-fixing-mtg-arenas-troublesome-black-screen-displays/"><u>Expert Tips and Techniques for Fixing MTG Arena's Troublesome Black Screen Displays</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fast-track-your-download-speed-with-these-simple-fixes/"><u>Fast Track Your Download Speed with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-epics-ls-0013-launcher-glitch-in-fortnite/"><u>Fixes for Epic's LS-0013 Launcher Glitch in Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-fixes-upfront-ls-0013-initialization-flaw-now-solved/"><u>Fortnite Fixes Upfront: LS-0013 Initialization Flaw Now Solved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-g42-5g-lock-screen-password-by-drfone-android/"><u>How To Change Nokia G42 5G Lock Screen Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 6s Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrate-gpt-4-seamlessly-into-your-chatgpt-now/"><u>Integrate GPT-4 Seamlessly Into Your ChatGPT Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459927854-issue-with-iphone-app-downloads-discover-10-quick-fixes-that-work/"><u>Issue with iPhone App Downloads? Discover 10 Quick Fixes That Work!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mx/"><u>MXプレーヤー用コーデックダウンロード＆設置手順: 任意の動画形式再生可能に！</u></a></li>
+<li><a href="https://program-issues.techidaily.com/naraka-point-blank-solved-game-issues-and-fixes/"><u>Naraka: Point Blank - Solved Game Issues & Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-pitfalls-of-iphone-12-ultimate-troubleshooting-tips-and-fixes/"><u>Navigating the Pitfalls of iPhone 12 - Ultimate Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-facebook-insight-into-its-history-user-engagement-and-primary-characteristics/"><u>Navigating the World of Facebook: Insight Into Its History, User Engagement, and Primary Characteristics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-mlb-the-show-21-connectivity-problems-and-how-to-fix-them/"><u>Resolved: MLB The Show 21 Connectivity Problems and How to Fix Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-drops-on-dayz-quick-guide-to-smooth-gaming-experience/"><u>Troubleshooting FPS Drops on DayZ - Quick Guide to Smooth Gaming Experience</u></a></li>
 </ul></div>
 

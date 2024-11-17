@@ -1,7 +1,7 @@
 ---
 title: "Sewer Line Damage:"
-date: 2024-08-23T17:28:50.938Z
-updated: 2024-08-24T17:28:50.938Z
+date: 2024-11-14T19:28:34.236Z
+updated: 2024-11-17T01:27:01.167Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -42,6 +49,13 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
@@ -49,8 +63,12 @@ Here’s how to allow the ESO launcher through the firewall.
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Delete the program data
 
  If the program data has corrupted, you may encounter the ESO not loading issue. In this case, we need to delete corrupted files. The launcher will redownload missing files automatically.
@@ -61,9 +79,6 @@ Here’s how to allow the ESO launcher through the firewall.
 3. Find and delete the ProgramData folder.
 4. Restart the ESO Launcher to check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -76,8 +91,12 @@ Here’s how to allow the ESO launcher through the firewall.
 5. Relaunch the game and check to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  The Elder Scrolls Online is an online game that requires connecting servers. Make sure you have a stable network with updated drivers. Updating your drivers to the latest version always help. With the latest working driver, you’ll have a better gaming experience.
@@ -102,15 +121,9 @@ OR
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,8 +137,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +144,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-online-obsession-the-8-must-watch-titles/"><u>[New] Online Obsession The 8 Must-Watch Titles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives-for-2024/"><u>[Updated] Jujutsu Kaisen Characters in the World of TikTok Creatives for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-avoid-maplestory-disruptions-in-windows-10-with-our-2023-best-practices/"><u>Expert Advice: Avoid MapleStory Disruptions in Windows 10 with Our 2023 Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-how-to-resolve-logitech-speaker-and-headset-software-problems-on-windows/"><u>Fixing Issues: How to Resolve Logitech Speaker & Headset Software Problems on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-note-50-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme Note 50 by Name | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/leave-windows-native-sync-behind-with-our-advanced-secure-data-protection-solution/"><u>Leave Windows Native Sync Behind with Our Advanced, Secure Data Protection Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-taming-the-lag-in-elder-scrolls-onlines-blackwood-expansion/"><u>Resolved - Taming the Lag in Elder Scrolls Online's Blackwood Expansion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-frame-drops-and-performance-lags-in-outriders/"><u>Resolved: Fixing Frame Drops and Performance Lags in Outriders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11-for-2024/"><u>The Ultimate Guide Top 5 Ways to Record Audio in Windows 11 for 2024</u></a></li>
+</ul></div>
 

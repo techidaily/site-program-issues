@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems"
-date: 2024-10-31T23:01:20.757Z
-updated: 2024-11-07T03:10:18.404Z
+date: 2024-11-15T08:59:04.321Z
+updated: 2024-11-17T02:24:29.691Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -90,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -109,29 +115,22 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 2. Click **Verify** to start verifying the game files.  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1983582">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
 
  See if you can play the game without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Ashen patch
 
@@ -142,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
  Run Ashen again to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows Update
 
@@ -161,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
 
@@ -211,31 +210,31 @@ Select your graphics card manufacturer first:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card settings
 
@@ -244,33 +243,34 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
@@ -312,24 +312,24 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-journey-to-freedom-with-free-movie-player-os-x-and-windows/"><u>[New] Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-logitech-4k-pro-webcam-a-comprehensive-overview/"><u>[Updated] 2024 Approved Logitech 4K Pro Webcam - A Comprehensive Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-sns-hdr-pros-value-and-comparisons/"><u>[Updated] Evaluating SNS HDR Pro's Value & Comparisons</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>[Updated] Master Video Editing Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-year-and-a-half-later-the-transformation-of-an-abandoned-iphone-insights-from-zdnet/"><u>A Year and a Half Later: The Transformation of an Abandoned iPhone – Insights From ZDNet</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/best-free-and-premium-pdf-reader-apps-for-iphone-x11se-top-11-picks/"><u>Best Free & Premium PDF Reader Apps for iPhone X/11/SE: Top 11 Picks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversione-gratuita-e-facile-da-mkv-a-avi-con-movavis-online-tools/"><u>Conversione Gratuita E Facile Da MKV a AVI Con Movavi's OnLine Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/core-understanding-of-narrative-frameworks-for-2024/"><u>Core Understanding of Narrative Frameworks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-modern-warfare-3-continuous-crashing-issues-in-pc-version-with-quick-tips/"><u>Fix Modern Warfare 3 Continuous Crashing Issues in PC Version with Quick Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-adobe-premiere-pro-crashes-on-windows-1110/"><u>Fixes and Solutions: Resolving Adobe Premiere Pro Crashes on Windows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-ghost-recon-breakpoints-crash-problems-a-fast-and-simple-guide/"><u>Fixing Ghost Recon Breakpoint's Crash Problems - A Fast and Simple Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hardware-not-found-on-rainbow-six-expedition-comprehensive-driver-solutions/"><u>Fixing Hardware Not Found on Rainbow Six Expedition: Comprehensive Driver Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-program-cant-start-because-a-microsoft-visual-cplusplus-runtime-library-was-missing-in-adobe-software/"><u>How to Fix 'The Program Can't Start Because a Microsoft Visual C++ Runtime Library Was Missing' In Adobe Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-persistent-crash-issues-in-metro-exodus-enhanced-edition-pc/"><u>How to Fix Persistent Crash Issues in Metro Exodus Enhanced Edition (PC)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-f14-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-persistent-nvidia-driver-failures/"><u>Resolving Persistent Nvidia Driver Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008712954-revamped-century-age-of-ashes-game-now-stable-and-smooth-for-pc-users/"><u>Revamped 'Century: Age of Ashes' Game Now Stable and Smooth for PC Users!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-stability-issues-with-code-vean-for-pc-players/"><u>Solving Stability Issues with Code Vean for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wave-goodbye-to-your-pcs-troublesome-last-epoch-crashes-a-comprehensive-guide-full-of-fresh-fixes-from-2024/"><u>Wave Goodbye to Your PC's Troublesome Last Epoch Crashes: A Comprehensive Guide Full of Fresh Fixes From 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-sonic-savant-archive-acquire-and-examine-tracks/"><u>[New] 2024 Approved Sonic Savant Archive Acquire & Examine Tracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-enhancing-your-facebook-experience-mastering-story-uploads-for-2024/"><u>[New] Enhancing Your Facebook Experience Mastering Story Uploads for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-youtube-music-blends/"><u>[Updated] In 2024, Mastering YouTube Music Blends</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>[Updated] The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-troubles-heres-how-to-speedily-unblock-game-load-failures/"><u>Apex Troubles? Here's How to Speedily Unblock Game Load Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/"><u>Common Causes & Fixes for Persona 3 Flare PC Instability Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-trick-for-gamers-use-blow-dryer-to-prepare-your-high-end-gpus-cabling-before-setup/"><u>Essential Trick for Gamers: Use Blow Dryer to Prepare Your High-End GPU's Cabling Before Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-optimizing-visual-performance-in-forza-horizon-5s-latest-upgrade/"><u>Fixes for Optimizing Visual Performance in Forza Horizon #5'S Latest Upgrade</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-spark-20-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Spark 20.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010795706-mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/"><u>Mount & Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-seguro-y-confiable-verificar-la-integridad-de-su-plataforma-web-y-software/"><u>Movavi Seguro Y Confiable - Verificar La Integridad De Su Plataforma Web Y Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-setup-for-a-smooth-cs2-experience-decreasing-lag-and-ping-times/"><u>Optimizing Your PC Setup for a Smooth CS2 Experience: Decreasing Lag and Ping Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-ui-issue-27711-on-call-of-duty-black-ops-cold-war-for-smoother-gaming/"><u>Overcome UI Issue #27711 on 'Call of Duty: Black Ops Cold War' For Smoother Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-company-updates-end-pc-game-hiccups-seamless-playtime-guaranteed/"><u>Rogue Company Updates End PC Game Hiccups - Seamless Playtime Guaranteed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/"><u>Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-magic-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Magic 5 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-palette-of-creative-ideas-from-6-graphic-websites-for-2024/"><u>The Ultimate Palette of Creative Ideas From 6 Graphic Websites for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-reducing-warzone-20-lag/"><u>Ultimate Guide: Reducing Warzone 2.0 Lag</u></a></li>
 </ul></div>
 

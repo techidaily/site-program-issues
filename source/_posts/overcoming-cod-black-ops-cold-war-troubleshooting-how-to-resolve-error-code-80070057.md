@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Cod: Black Ops Cold War Troubleshooting: How to Resolve Error Code 80070057?"
-date: 2024-08-23T17:30:25.892Z
-updated: 2024-08-24T17:30:25.892Z
+date: 2024-11-15T08:53:35.747Z
+updated: 2024-11-17T05:34:58.538Z
 tags:
   - win11
   - win10
@@ -59,8 +59,12 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  One quick fix to**Overwatch black screen issue** is running the game as an administrator. This is because Overwatch sometimes can’t access certain game files on your computer under normal user mode, which could result in the black screen issue.
@@ -70,6 +74,13 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **1)** Right-click the**Overwatch icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-676.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
@@ -89,9 +100,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable fullscreen optimizations on Windows 10
 
  If you’re on Windows 10, disabling fullscreen optimizations might be able to fix Overwatch black screen issue. Here is how to do it:
@@ -104,9 +112,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-727.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Relaunch Overwatch to see if this has resolved your issue. If not, read on and try the fix below.
 
 ---
@@ -125,39 +130,18 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-685.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click**Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-686.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: End unwanted background programs
 
  Some programs running on your computer may conflict with Overwatch or the game launcher, resulting in black screen error on launch.
@@ -184,13 +168,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -207,9 +184,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
@@ -220,12 +194,16 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Try launching Overwatch to see if it works properly now. If not, read on and check the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Delete the game cache folder**
 
@@ -238,8 +216,12 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
@@ -258,9 +240,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7:**Repair the game**
 
  The black screen issue on Overwatch is sometimes caused by damaged or missing game files. If that’s the case for you, you need to verify the integrity of your game files. Here is how to do it:
@@ -276,8 +255,12 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-716.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch Overwatch to check if this fixed your issue. If not, read on and try the fix below.
 
 ---
@@ -310,16 +293,19 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game after the update is complete.
 
 If your problem persists, check the fix 10, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 10: Uninstall Razer Synapse
 
  If you’re using Razer Synapse for your devices, chances are that the program is exactly the culprit of the Overwatch black screen issue. Many players have fixed the issue by either uninstalling Razer Synapse or updating it. Here is how to uninstall the program:
@@ -328,36 +314,38 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-721.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Right-click**Razer Synapse** , then click**Uninstall** .
 
 If you’re prompted about permissions, select Continue
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-722.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-724-1024x640.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Relaunch Overwatch to test your issue.
 
  Hopefully, this article helped in resolving your issue. If you have any questions or suggestions, feel free to leave a comment below.
@@ -375,8 +363,6 @@ If you’re prompted about permissions, select Continue
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -384,4 +370,17 @@ If you’re prompted about permissions, select Continue
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-diving-into-the-world-of-igtv/"><u>[Updated] Step-by-Step Diving Into the World of IGTV</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-fixes-for-issues-updating-the-official-minecraft-game-launcher/"><u>Common Fixes for Issues Updating the Official Minecraft Game Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-oculus-visual-disturbancies-by-upgrading-graphic-drivers/"><u>Guide to Overcoming Oculus Visual Disturbancies by Upgrading Graphic Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-play-7t-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor Play 7T Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-gt-10-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix GT 10 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-difficulties-getting-cyberpunk-2077-to-start-up/"><u>Overcoming Technical Difficulties: Getting Cyberpunk 2077 to Start Up</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scouring-deals-low-priced-gopro-cameras-for-2024/"><u>Scouring Deals Low-Priced GoPro Cameras for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/swap-your-expensive-applemeta-ar-headsets-for-these-budget-friendly-xr-options-my-top-picks-revealed/"><u>Swap Your Expensive Apple/Meta AR Headsets for These Budget-Friendly XR Options - My Top Picks Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/terraria-2024-update-causing-crashes-heres-how-to-resolve-them-quickly/"><u>Terraria 2024 Update Causing Crashes? Here's How to Resolve Them Quickly</u></a></li>
+</ul></div>
 

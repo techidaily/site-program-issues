@@ -1,7 +1,7 @@
 ---
 title: "How to Gain Access: Overcome Fortnite's 'No Permission to Play' Hurdle"
-date: 2024-08-23T17:28:47.461Z
-updated: 2024-08-24T17:28:47.461Z
+date: 2024-11-11T22:35:22.286Z
+updated: 2024-11-17T01:08:11.973Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **DirectX**          | **DirectX 11.0**                                             |
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -59,15 +63,19 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -77,13 +85,24 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method: Update your graphics card
 
  The Fortnite black screen problem may occur when your graphics card driver is outdated or faulty. Upgrading your graphics card will help you prevent black screen problem from happening. In addition to solving the black screen issue, updating drivers can also improve your computer performance and give you less hassle when playing games.
@@ -117,11 +136,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -141,9 +164,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -151,17 +171,18 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,8 +198,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +205,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>[Updated] In 2024, Agriculture Adventures The Ultimate Farmer's Game Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques/"><u>[Updated] SDR Vs. HDRI Elevating Your Content with Advanced Color Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-bang-for-your-buck-in-depth-asus-chromebook-flip-c302ca-review/"><u>Best Bang-for-Your-Buck: In-Depth Asus Chromebook Flip C302CA Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-the-darkness-troubleshooting-total-black-screens-on-pc-while-playing-rainbow-six-siege/"><u>Decode the Darkness: Troubleshooting Total Black Screens on PC While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-para-volver-a-instalar-el-sistema-operativo-desde-un-disco-duro-externa-en-espanol/"><u>Guía Paso a Paso Para Volver a Instalar El Sistema Operativo Desde Un Disco Duro Externa | En Español</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-innovations-enhancers-that-excite/"><u>In 2024, Instagram Innovations Enhancers that Excite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solution-overcome-sluggish-performance-in-assassins-creed-valhalla/"><u>Instant Solution: Overcome Sluggish Performance in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-dev-error-5573-on-your-cod-warzone-game-whether-youre-on-a-computer-or-console/"><u>Mastering the Fixes to Dev Error 5573 on Your COD: Warzone Game, Whether You're on a Computer or Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-pausing-in-cyberpunk-2077-fixed-unfreeze-your-game-now/"><u>No More Pausing in Cyberpunk 2077 – Fixed! Unfreeze Your Game Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-the-elder-scrolls-online-addressed-blackwoods-lag-problems/"><u>Troubleshooting Complete: How The Elder Scrolls Online Addressed Blackwood's Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-outriders-not-starting-on-pcs-during-the-2022-update/"><u>Troubleshooting Steps: Outriders Not Starting on PCs During the 2022 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-required-enhance-your-cpu-to-comply-with-vanguards-minimum-specs/"><u>Update Required: Enhance Your CPU to Comply with Vanguard's Minimum Specs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zenith-resolution-for-virtual-voyages/"><u>Zenith Resolution for Virtual Voyages</u></a></li>
+</ul></div>
 

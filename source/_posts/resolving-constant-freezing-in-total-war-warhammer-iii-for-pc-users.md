@@ -1,7 +1,7 @@
 ---
 title: "Resolving Constant Freezing in Total War: Warhammer III for PC Users"
-date: 2024-08-23T17:29:32.827Z
-updated: 2024-08-24T17:29:32.827Z
+date: 2024-11-15T09:16:11.666Z
+updated: 2024-11-17T00:35:15.379Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c8ce7d91fb957aab4992042fdfbf5a4bd1a84b3cb
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -55,9 +62,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run System File Checker
 
  If some system files get corrupted after Windows 10 updates, you can run the System File Checker tool to repair those files and help unfreeze your computer. Here’s how to run System File Checker:
@@ -65,9 +69,14 @@ OR
 1. In the Windows search box, type**cmd** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
@@ -76,9 +85,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Clear your browsing data
 
  Alternatively, you can try clearing your browsing data in Chrome. This can help remove any nasty cookies that might be causing Chrome to freeze. Here’s how to clear your browsing data in Chrome:
@@ -86,18 +92,41 @@ OR
 1. At the top right in Chrome, click the**three dots** \>**More tools** \>**Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -108,9 +137,14 @@ OR
 1. Type **chrome://extensions** in the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc3f96a48a.png)
 2. **Toggle off** all extensions to disable them.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
@@ -123,15 +157,27 @@ OR
 1. At the top right in Chrome, click the**three dots** \>**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
 2. At the bottom, click**Advanced** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -140,16 +186,10 @@ OR
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Restart Chrome to check the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 7: Uninstall and reinstall Chrome
 
  If none of the above worked for you, reinstalling Chrome is also worth a try — you can first go to Control Panel to uninstall Chrome, then download the latest version of Chrome from[its official website](https://www.google.com/chrome/) .
@@ -167,8 +207,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +214,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximize-your-engagement-with-full-screen-facebook-videos/"><u>[New] 2024 Approved Maximize Your Engagement with Full-Screen Facebook Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-immersive-home-cinema-top-10-blu-ray-choices/"><u>[New] In 2024, Immersive Home Cinema Top 10 Blu-Ray Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discovering-the-power-of-hdr-in-iphone-photography/"><u>[Updated] Discovering the Power of HDR in iPhone Photography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-behind-the-scenes-of-online-content-monetization/"><u>2024 Approved Behind the Scenes of Online Content Monetization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986075919-black-screen-dilemma-solutions-that-work/"><u>Black Screen Dilemma - Solutions that Work!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-and-record-a-2023-look-at-camstudios-capabilities/"><u>Capture and Record A 2023 Look at CamStudio's Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-down-high-resource-consumption-in-starfield-advanced-tips-and-tricks-for-the-current-year/"><u>Cutting Down High Resource Consumption in Starfield: Advanced Tips and Tricks for the Current Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-gaming-without-interruptions-patch-update-resolves-total-war-warhammer-iii-crashes-on-windows-platforms/"><u>Enjoy Gaming Without Interruptions: Patch Update Resolves 'Total War: Warhammer III' Crashes on Windows Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-creating-an-online-application-using-chatgpt-technology/"><u>Guide: Creating an Online Application Using ChatGPT Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/identifying-factors-for-fluctuating-frames-per-second-fps-issues/"><u>Identifying Factors for Fluctuating Frames Per Second (FPS) Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-the-secrets-of-turning-online-videos-into-desktop-music-files/"><u>In 2024, Unlocking the Secrets of Turning Online Videos Into Desktop Music Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-shadowplay-hiccups-effortless-recording-tips-for-windows-users/"><u>Overcome ShadowPlay Hiccups - Effortless Recording Tips for Windows Users</u></a></li>
+</ul></div>
 

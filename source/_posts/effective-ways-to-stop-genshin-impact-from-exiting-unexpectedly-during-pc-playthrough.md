@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Stop Genshin Impact From Exiting Unexpectedly During PC Playthrough
-date: 2024-08-23T17:26:52.434Z
-updated: 2024-08-24T17:26:52.434Z
+date: 2024-11-12T04:47:40.421Z
+updated: 2024-11-17T06:50:47.160Z
 tags:
   - win11
   - win10
@@ -42,7 +42,22 @@ Here’s how to verify file integrity on Steam:
 2. Right click**Back 4 Blood** and select**Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-3.jpg)
 3. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** .. and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[latest B4B hotfix](https://www.back4blood.com/en-us/news/october-11-2021-hotfix) is available now. During the verification process, your game files will be updated as well.
 
@@ -50,9 +65,6 @@ Once done, restart your game and see if it crashes again.
 
  If Steam can’t find any faulty game files, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Game crashes are usually driver-related, meaning that you might be using**a broken or outdated graphics driver** . If you want to fully enjoy the latest AAA titles like Back 4 Blood, first make sure if your drivers are also up to date.
@@ -72,9 +84,6 @@ Once done, restart your game and see if it crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Check for conflicting programs
 
  Some software, especially**hardware tuning utilities** such as MSI Afterburner and Razer Synapse 3, could undermine the stability of your system and thus crash 3D programs. To avoid these interferences, you can do a clean boot and see how it goes.
@@ -82,33 +91,34 @@ Once done, restart your game and see if it crashes again.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Make sure Windows is up to date
 
  Microsoft rolls out system updates for Windows every now and then, mainly addressing compatibility issues and improving overall performance. To get the most of your hardware, you should always make sure your system is up to date.
@@ -122,23 +132,21 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’re sure Windows is up to date, restart your PC and test the gameplay in Back 4 Blood.
 
  If your system is already the latest, simply move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Move game files to your Steam drive
 
  According to some players,**moving game files to the same drive of Steam** might be a cure to the fix. So if you have your games installed in another drive, try moving them to your Steam drive and check the result. This trick was originally used to fix the disconnection issue.
@@ -151,6 +159,13 @@ Here’s how you can check for updates manually:
 
  If this method doesn’t work for you, you can try the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Change in-game graphics settings
 
  There’re reports showing that**NVIDIA DLSS** might be the culprit of Back 4 Blood crashing. If you have this feature enabled, you can turn it off and see if the game stops crashing.
@@ -162,6 +177,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-disable-dlss.jpg)
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, this post helps you fix the crashing issue in Back 4 Blood. If you have any questions or ideas, just give us a shout in the comments below.
@@ -172,8 +194,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +201,23 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-trendsetting-boomerangs-explained/"><u>[Updated] SnapChat's Trendsetting Boomerangs Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ps4-screen-recording-techniques-for-professional-gamers/"><u>2024 Approved Ps4 Screen Recording Techniques for Professional Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y100i-power-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y100i Power 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/basic-to-breakthrough-content-crafting-the-top-10-simplest-youtube-projects/"><u>Basic to Breakthrough Content Crafting the Top 10 Simplest YouTube Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-sims-4-graphics-issue-with-your-video-card/"><u>Fixing The Sims #4 Graphics Issue with Your Video Card</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ghost-recon-breakpoint-stability-solutions-end-crashing-worries-now/"><u>Ghost Recon Breakpoint Stability Solutions - End Crashing Worries Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-note-12t-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi Note 12T Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unrestricted-gaming-beats-digital-download/"><u>In 2024, Unrestricted Gaming Beats Digital Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-nfl-2e-troubleshooting-pc-issues-and-preventing-crashes/"><u>Madden NFL 2E - Troubleshooting PC Issues and Preventing Crashes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimize-your-digital-library-perfect-pages-and-sizes-with-flipbuilder/"><u>Optimize Your Digital Library - Perfect Pages & Sizes with FlipBuilder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-bypassing-edgenuity-courses-seamlessly-for-2024/"><u>Quick Guide Bypassing Edgenuity Courses Seamlessly for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-last-of-us-part-ii-tackling-and-resolving-puzzling-performance-bugs/"><u>The Last of Us Part II - Tackling and Resolving Puzzling Performance Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vrchat-wont-launch-expert-advice-for-resolving-your-virtual-world-problems/"><u>VRChat Won't Launch? Expert Advice for Resolving Your Virtual World Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-mayhem-effective-fix-for-frequent-computer-game-crashes-unveiled/"><u>Wolcen Mayhem: Effective Fix for Frequent Computer Game Crashes Unveiled</u></a></li>
+</ul></div>
 

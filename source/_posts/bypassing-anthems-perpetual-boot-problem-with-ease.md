@@ -1,7 +1,7 @@
 ---
 title: Bypassing Anthem's Perpetual Boot Problem with Ease
-date: 2024-11-04T02:32:25.350Z
-updated: 2024-11-06T17:00:43.018Z
+date: 2024-11-15T17:56:35.256Z
+updated: 2024-11-17T04:38:57.265Z
 tags:
   - win11
   - win10
@@ -72,30 +72,30 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it doesn’t work, you can directly run the game executable as an admin. You can use Steam to**find the game installation path** :
 
 1. Open your Steam library and right-click The Ascent. Select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
 3. Your local game folder will pop up and you should be able to find the game executable there.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve tried to run the game as admin but it still won’t launch, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -107,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If verifying your game files doesn’t solve your problem, try the next fix.
 
@@ -127,19 +134,6 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -149,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
  Restart your PC for the new driver to take effect. If updating graphics driver doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run The Ascent in DirectX 11
@@ -162,16 +156,31 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 1. Open your Steam library and find The Ascent. Right-click the game then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Check your antivirus
 
@@ -184,13 +193,6 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 * If available, set your antivirus software to**game mode** .
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -207,23 +209,9 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -252,6 +240,13 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
 5. Disable the problem program and reboot your PC.
 
@@ -277,18 +272,24 @@ thumbnail: https://thmb.techidaily.com/7d4ac3d8c9076518086c796719296f1fe2886affc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dissecting-the-features-of-inshots-editing-software/"><u>[Updated] 2024 Approved Dissecting the Features of InShot's Editing Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humorous-file-downloader-examination/"><u>2024 Approved Humorous File Downloader Examination</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-gta-5-lag-and-stutters-fixes-that-work/"><u>Dealing with GTA 5 Lag and Stutters – Fixes That Work</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essentials-to-skyrocketing-video-views-on-youtube-for-2024/"><u>Essentials to Skyrocketing Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/insider-tips-maximizing-youtube-edits-with-finalcut-pro-for-2024/"><u>Insider Tips Maximizing YouTube Edits with FinalCut Pro for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instantaneously-crafting-creative-collage-imagery-for-fb-for-2024/"><u>Instantaneously Crafting Creative Collage Imagery for FB for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/marvels-cinematic-crossover-a-thorough-breakdown-of-the-pros-and-cons-in-the-avengers/"><u>Marvel's Cinematic Crossover - A Thorough Breakdown of the Pros and Cons in 'The Avengers'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-issues-resolving-scavengers-game-crashing-problems/"><u>PC Gaming Issues: Resolving Scavengers Game Crashing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-forza-horizon-3-stability-issues-pc-optimization-tips/"><u>Resolving Forza Horizon 3 Stability Issues - PC Optimization Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-glitches-assassins-creed-valhalla-on-pc-now-ultra-stable-after-fix/"><u>Say Goodbye to Glitches: Assassin's Creed Valhalla on PC Now Ultra-Stable After Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-issues-with-cortanas-unresponsiveness-a-step-by-step-guide/"><u>Solving Issues with Cortana's Unresponsiveness: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-issues-how-to-prevent-samurai-warriors-nary-warriors-from-freezing/"><u>Troubleshoot PC Issues: How to Prevent Samurai Warriors Nary Warriors From Freezing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services/"><u>Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-eluding-digital-footprints-while-enjoying-instagram-stories-online-for-2024/"><u>[New] Eluding Digital Footprints While Enjoying Instagram Stories Online for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>[Updated] 2024 Approved Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleash-your-youtube-potential-steps-to-finding-and-managing-video-collab-partners/"><u>[Updated] In 2024, Unleash Your YouTube Potential Steps to Finding & Managing Video Collab Partners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-initiating-your-online-journey-a-step-by-step-guide-to-youtube/"><u>[Updated] Initiating Your Online Journey A Step-by-Step Guide to YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-psd-text-styling/"><u>2024 Approved Advanced PSD Text Styling</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-startup-problems-with-amd-radeon-tools/"><u>Comprehensive Guide to Fixing Startup Problems with AMD Radeon Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-diagnosing-and-repairing-the-persistent-dark-mode-glitch-in-rainbow-six-siege-for-windows/"><u>Expert Advice: Diagnosing and Repairing the Persistent Dark Mode Glitch in Rainbow Six Siege for Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-beat-saber-solving-frequent-game-interruptions-and-crashes/"><u>Fix Your Beat Saber: Solving Frequent Game Interruptions and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-halo-infinite-audio-troubles-with-easy-to-follow-tips-and-techniques/"><u>Fixing Your Halo Infinite Audio Troubles with Easy-to-Follow Tips and Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-mfc-nwdw-printing-software-for-windows-computers/"><u>Get the Latest Brother MFC-Nwdw Printing Software for Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-solving-the-lego-star-wars-the-skywalker-saga-pc-game-stalling-issues-in-202/"><u>Guide to Solving the Lego Star Wars: The Skywalker Saga PC Game Stalling Issues in 202^</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-stabilizing-your-pc-fixing-recurring-crashes-in-palworld/"><u>Guide to Stabilizing Your PC: Fixing Recurring Crashes in Palworld</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-delays-proven-fixes-and-tips-for-a-smooth-pc-experience-in/"><u>Overcoming Game Delays: Proven Fixes and Tips for a Smooth PC Experience In</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-sound-recognition-technology/"><u>Premier Sound Recognition Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-resolve-persistent-steam-crashes-in-minutes/"><u>Quick Fixes: Resolve Persistent Steam Crashes in Minutes!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-is-not-working-on-laptop-fixed/"><u>Sound Is Not Working on Laptop [Fixed]</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-connections-to-nvidia-geforce-ex/"><u>Troubleshooting Failed Connections to NVIDIA GeForce Ex</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-helldivers-2-not-launching-expert-tips-to-get-it-running-on-steam-again/"><u>Why Is My Helldivers 2 Not Launching? Expert Tips to Get It Running on Steam Again</u></a></li>
 </ul></div>
 

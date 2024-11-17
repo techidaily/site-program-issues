@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lag in Your Stream and Recording with Obs - a Complete Guide
-date: 2024-08-23T17:27:07.477Z
-updated: 2024-08-24T17:27:07.477Z
+date: 2024-11-14T04:03:28.372Z
+updated: 2024-11-17T03:00:26.528Z
 tags:
   - win11
   - win10
@@ -48,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -58,18 +62,29 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -93,22 +108,12 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -119,6 +124,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -127,9 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -140,9 +149,6 @@ iv. Restart your PC.
 
 See if this issue reappears. If not, you have fixed this issue!
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Bonus tip: How to fix Discord connection errors?
 
  It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
@@ -161,9 +167,23 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -178,8 +198,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +205,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/1722996370617-fixed-6-fixes-for-baldurs-gate-stuttering-and-freezing-issues/"><u>[Fixed] 6 Fixes for Baldur’s Gate Stuttering & Freezing Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-libertycapture-suite-2024s-open-source-videography/"><u>[New] LibertyCapture Suite 2024'S Open Source Videography</u></a></li>
+<li><a href="https://discover-data.techidaily.com/2/"><u>完成快速数据迁移：将老电脑信息传输到新电脑的便捷方法（2种）</u></a></li>
+<li><a href="https://program-issues.techidaily.com/blender-software-stability-troubleshooting-fix-crashes-on-windows-and-macos/"><u>Blender Software Stability Troubleshooting: Fix Crashes on Windows and MacOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-ps5-dualsense-controllers-charger-guide/"><u>Comprehensive PS5 DualSense Controllers Charger Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/critical-fix-in-ios-update-how-version-1751-resolves-the-zombie-photos-issue/"><u>Critical Fix in iOS Update: How Version 17.5.1 Resolves the 'Zombie Photos' Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-frustrating-delays-for-a-smoother-cyberpunk-prise-quest-experience/"><u>How to Eliminate Frustrating Delays for a Smoother Cyberpunk Prise Quest Experience</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/immediate-action-for-macs-flashy-question-mark-icons/"><u>Immediate Action for Mac's Flashy Question-Mark Icons</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-insta-twist-techniques-for-turning-photos-into-viral-sensations-on-social-media/"><u>In 2024, Insta-Twist Techniques for Turning Photos Into Viral Sensations on Social Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-quick-video-cuts-on-windows-11-photos-for-2024/"><u>Master Quick Video Cuts on Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-elden-rings-dark-startup-a-guide-to-clearing-the-first-hurdle/"><u>Solving Elden Ring's Dark Startup: A Guide to Clearing the First Hurdle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-a-step-by-step-walkthrough-for-stable-cyberpunk-2077-gameplay/"><u>Solving PC Issues: A Step-by-Step Walkthrough for Stable Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-armored-core-vi-game-crash-on-startup-issues/"><u>Step-by-Step Guide: Solving 'Armored Core VI' Game Crash on Startup Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-recording-voice-chats-in-line-for-both-computer-and-handheld-devices/"><u>Step-by-Step Tutorial: Recording Voice Chats in LINE for Both Computer & Handheld Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/swift-troubleshooting-techniques-for-assassins-creed-valhalla-performance-delays/"><u>Swift Troubleshooting Techniques for Assassin's Creed: Valhalla Performance Delays</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210432942-9780760371404-the-ultimate-guide-to-psychic-abilities/"><u>The Ultimate Guide to Psychic Abilities | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-nvidia-gamestream-not-working-common-fixes-explored/"><u>Why Is My NVIDIA GameStream Not Working? Common Fixes Explored</u></a></li>
+</ul></div>
 

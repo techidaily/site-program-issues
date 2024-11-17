@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue with Armored Core VI: Fires of Rubicon Failure to Start"
-date: 2024-08-23T17:30:36.360Z
-updated: 2024-08-24T17:30:36.360Z
+date: 2024-11-16T02:48:29.280Z
+updated: 2024-11-17T06:48:45.254Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -38,13 +51,34 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -58,16 +92,10 @@ wireless router
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,14 +109,16 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -99,30 +129,25 @@ wireless router
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Delete the game cache files
 
  The faulty game files can also lead to various issues with Warzone including the 6328 dev error. In this case, you should try cleaning up the cache.
@@ -140,6 +165,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -157,8 +190,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +197,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/bypassing-chrome-freeze-problems-in-windows-10-expert-advice/"><u>Bypassing Chrome Freeze Problems in Windows 10: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/expanding-social-footprint-tying-igtv-and-facebook-together-for-2024/"><u>Expanding Social Footprint Tying IGTV & Facebook Together for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-everspace-2-pc-game-freeze-issues-solutions-and-tips/"><u>Fixing Everspace 2 PC Game Freeze Issues - Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-framespikes-in-outriders-a-comprehensive-tutorial-for-pc-players/"><u>Fixing Framespikes in Outriders: A Comprehensive Tutorial for PC Players</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-bluetooth-connection-solutions-that-work/"><u>Fixing the Silent Bluetooth Connection: Solutions That Work!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssing-imovies-capabilities-for-youtube-video-perfection/"><u>Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-free-football-filming-and-editing-essentials/"><u>In 2024, Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-x-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone X Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f04-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F04 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-dauntless-gaming-on-your-pc-no-more-crashing/"><u>Master Dauntless Gaming on Your PC: No More Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-game-no-more-crashing-in-world-of-tanks-blitz/"><u>Master the Game - No More Crashing in World of Tanks Blitz</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-record-hulu-everywhere-windowsmaciosandroid-for-2024/"><u>Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-fixing-the-wow-launch-issue-on-your-computer/"><u>Success Story: Fixing the WoW Launch Issue on Your Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-streaming-experience-with-these-9-filter-power-ups/"><u>Transform Your Streaming Experience with These 9 Filter Power-Ups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-phasmophobia-vr-performance/"><u>Troubleshooting Guide: Resolving Issues with Phasmophobia VR Performance</u></a></li>
+</ul></div>
 

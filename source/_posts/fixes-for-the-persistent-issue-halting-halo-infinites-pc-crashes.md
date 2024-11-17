@@ -1,7 +1,7 @@
 ---
 title: "Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes"
-date: 2024-10-31T21:43:39.084Z
-updated: 2024-11-07T01:00:17.412Z
+date: 2024-11-15T19:33:24.623Z
+updated: 2024-11-16T18:02:17.230Z
 tags:
   - win11
   - win10
@@ -44,20 +44,13 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,8 +65,22 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -91,39 +98,33 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -140,31 +141,18 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase your virtual memory
 
@@ -176,6 +164,14 @@ Now you can play and check if the crash stops.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
@@ -186,19 +182,6 @@ Now you can play and check if the crash stops.
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -233,20 +216,17 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-audio-callback-collector-iphone-2024-model/"><u>[New] Audio Callback Collector - iPhone 2024 Model</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-efficient-slide-capture/"><u>[New] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-conversion-handbook-srt-to-various-formats/"><u>[Updated] In 2024, Ultimate Conversion Handbook SRT to Various Formats</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-excellent-low-cost-webcam-snipper-app/"><u>2024 Approved Excellent Low-Cost Webcam Snipper App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-grab-speech-file-and-review/"><u>2024 Approved Grab Speech File & Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-troubleshooting-and-solving-total-war-warhammer-iis-performance-problems/"><u>Expert Tips for Troubleshooting and Solving Total War: WARHAMMER II's Performance Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-correctly-address-and-resolve-connection-problems-on-halo-infinite-your-ultimate-guide/"><u>How to Correctly Address and Resolve Connection Problems on Halo Infinite - Your Ultimate Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-proplus-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 Pro+ 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-interactive-virtual-warehouse-exploration/"><u>In 2024, Interactive Virtual Warehouse Exploration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-issues-restoring-your-steam-friend-connections/"><u>No More Issues: Restoring Your Steam Friend Connections</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-steam-and-xbox-hurdles-getting-starfield-game-to-start-smoothly/"><u>Overcoming Steam and Xbox Hurdles - Getting Starfield Game to Start Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-the-winwordexe-file-not-working-issue/"><u>Quick Solutions: Resolving the winword.exe File Not Working Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-success-story-dealing-with-persistent-black-screen-glitches/"><u>Solution Success Story: Dealing with Persistent Black Screen Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-persistent-minecraft-crashes-a-step-by-step-guide/"><u>Solving the Issue of Persistent Minecraft Crashes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-your-video-library-youtubes-to-dailymotion-directly/"><u>[Updated] 2024 Approved Optimize Your Video Library YouTubes to Dailymotion Directly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>[Updated] In 2024, Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-screen-saver-successes-a-video-showcase-evaluation-for-2024/"><u>[Updated] Screen Saver Successes - A Video Showcase Evaluation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-core-elements-of-zd-soft-recording-features/"><u>[Updated] The Core Elements of ZD Soft Recording Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-tips-for-major-bugs-in-activisions-popular-fps-games/"><u>Essential Troubleshooting Tips for Major Bugs in Activision's Popular FPS Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-of-alan-wake-2-not-releasing-what-can-you-do/"><u>Fixing the Issue of Alan Wake 2 Not Releasing – What Can You Do?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-darkness-resolving-your-halo-infinites-screen-issue/"><u>How to Overcome Darkness: Resolving Your Halo Infinite's Screen Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-choices-the-5-foremost-webcams-for-live-gamers/"><u>In 2024, Premier Choices The 5 Foremost Webcams for Live Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visualpuzzle-editor/"><u>In 2024, VisualPuzzle Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-mejores-programas-de-edicion-gopro-en-2023-una-lista-con-ranking-y-comparativa/"><u>Los Mejores Programas De Edición GoPro en 2023: Una Lista Con Ranking Y Comparativa</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-crashes-in-division-2-ultimate-guide/"><u>Troubleshooting Steps to Resolve Crashes in Division 2: Ultimate Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-storytelling-power-up-gopros-15-best-color-look-ups-explained/"><u>Visual Storytelling Power-Up GoPro's 15 Best Color Look-Ups Explained</u></a></li>
 </ul></div>
 

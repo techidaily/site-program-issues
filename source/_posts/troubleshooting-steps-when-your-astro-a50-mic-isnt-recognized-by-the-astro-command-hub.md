@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Astro A50 Mic Isn't Recognized by the Astro Command Hub
-date: 2024-08-23T17:30:56.436Z
-updated: 2024-08-24T17:30:56.436Z
+date: 2024-11-12T09:00:51.581Z
+updated: 2024-11-17T07:39:00.212Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 2\. Update Windows
 
  If your system isn’t updated regularly, there could be compatibility issues that can cause RoboCop: Rogue City to crash. This is because RoboCop: Rogue City requires Shader Model 6.6 atomics and DirectX 12 for certain Windows operating systems. To make sure that you have the latest available updates installed:
@@ -64,12 +61,20 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then try your RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on to the next fix.
@@ -98,6 +103,13 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -110,9 +122,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -123,11 +132,15 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -135,6 +148,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Launch RoboCop: Rogue City again and see if the latest graphics driver helps to stop the crashing. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Verify game files
 
@@ -145,14 +165,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then launch RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on.
@@ -160,22 +181,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Make sure your computer is not overheating
 
  It’s also worth noting that a very common reason why games crash is that the computer is overheating, especially when the CPU and GPU are running hot. So if the ventilation for your computer is rather poor, or not strong enough for all your hardware components when resource-hungry programs like games are running, then there’ll be problems like sudden computer shut down and constant game crashes, among many other PC performance issues.
@@ -186,9 +197,6 @@ Key features:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Repair damaged system files
 
 **Repairing corrupted or damaged system files** could also help fix crashing problems with games like RoboCop: Rogue City. This is because the integrity of Windows system files is essential for the overall system’s proper operation and stability, while errors in critical system files can cause crashes, freezes, and problems that affect gaming performance.
@@ -201,9 +209,6 @@ Key features:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -222,8 +227,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +234,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/op-profit-generating-online-entertainer/"><u>[New] Top Profit Generating Online Entertainer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-guide-to-recovering-stopped-fb-livestreams/"><u>[Updated] Guide to Recovering Stopped FB Livestreams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pinterest-video-extraction-top-5-free-tools-ranked/"><u>2024 Approved Pinterest Video Extraction Top 5 Free Tools Ranked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-14-ultra-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi 14 Ultra to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-lag-woes-in-naraka-game-fix-your-play-experience-now/"><u>Beat Lag Woes in Naraka Game - Fix Your Play Experience Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
+<li><a href="https://program-issues.techidaily.com/flawless-gaming-experience-how-to-prevent-rocket-league-crashes/"><u>Flawless Gaming Experience: How to Prevent Rocket League Crashes</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-find-x7-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find X7 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-mini-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 mini With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-investigating-the-financial-benefits-of-each-youtube-watcher/"><u>In 2024, Investigating the Financial Benefits of Each YouTube Watcher</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-lenovo-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Lenovo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009315769-lost-ark-quiet-dilemma-solved-audio-fixes-inside/"><u>Lost Ark Quiet Dilemma Solved – Audio Fixes Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-back-online-after-recent-fix-no-more-connection-troubles/"><u>Origin Back Online After Recent Fix - No More Connection Troubles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-league-of-legends-2024-connection-issue-loop-glitch/"><u>Resolved: League of Legends' 2024 Connection Issue Loop Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-end-of-delays-improving-server-responsiveness-in-blackwood-the-elder-scrolls-online-edition/"><u>The End of Delays: Improving Server Responsiveness in 'Blackwood' - The Elder Scrolls Online Edition</u></a></li>
+</ul></div>
 

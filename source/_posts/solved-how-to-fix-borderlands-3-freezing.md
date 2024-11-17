@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to Fix Borderlands 3 Freezing?"
-date: 2024-11-02T20:04:46.428Z
-updated: 2024-11-07T01:04:23.536Z
+date: 2024-11-10T01:12:09.521Z
+updated: 2024-11-17T05:04:07.167Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 7. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your computer specs
 
  The minimum system requirements need to be met to run _Borderlands 3_ smoothly; otherwise, you’re likely to encounter game issues like freezing, lagging and crashing.
@@ -56,13 +49,6 @@ Follow the instructions below to view your computer hardware information:
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-38-20.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Type **dxdiag** , then press**Enter** on your keyboard.
 
@@ -92,6 +78,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
@@ -100,22 +93,29 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**Driver** tab, then click**Roll Back Driver** .
 
  If you don’t have the Roll Back Driver option, that means you’re already using the old graphics driver,[**try updating your device drivers**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -135,9 +135,23 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -146,6 +160,13 @@ Follow the instructions below to view your computer hardware information:
 **4)** Try launching your game.
 
  If your problem continues to occur, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -168,10 +189,10 @@ Follow the instructions below to view your computer hardware information:
 If the game still freezes, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: **Verify the game** files
@@ -204,13 +225,6 @@ If your issue persists, check the fix below.
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
@@ -274,13 +288,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -290,10 +297,10 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
@@ -327,13 +334,6 @@ If your issue persists, check the fix below.
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click **Uninstall a program** .
 
@@ -372,24 +372,15 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-strategies-to-locate-your-clandestine-snaps/"><u>[New] 2024 Approved Strategies to Locate Your Clandestine Snaps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-red-dead-redemption-2-stuttering-and-fps-issues/"><u>[SOLVED] Red Dead Redemption 2 Stuttering and FPS Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-prime-videos-social-stardom-on-twitter/"><u>[Updated] 2024 Approved Amazon Prime Video's Social Stardom on Twitter</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-5-samsung-gear-vr-games/"><u>[Updated] 2024 Approved Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-from-novice-to-pro-your-journey-with-the-io-screener-for-2024/"><u>[Updated] From Novice to Pro Your Journey with the IO Screener for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-game-testers-and-beta-gamers-online-for-2024/"><u>[Updated] Game Testers & Beta Gamers Online for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-gaming-glitches-top-8-fixes-to-keep-marvels-guardians-of-the-galaxy-running-smoothly-on-your-pc/"><u>Beat Gaming Glitches: Top 8 Fixes to Keep Marvel's 'Guardians of the Galaxy' Running Smoothly on Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/core-principles-of-e-storytelling/"><u>Core Principles of E-Storytelling</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://program-issues.techidaily.com/halo-3-pc-freezing-problems-heres-how-you-can-overcome-them/"><u>Halo 3 PC Freezing Problems? Here's How You Can Overcome Them!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004263400-how-to-fix-the-problem-when-genshin-impact-wont-open-effective-tips/"><u>How to Fix the Problem When Genshin Impact Won't Open: Effective Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-mir4-game-freezing-issues-on-pc/"><u>How to Resolve Mir4 Game Freezing Issues on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-techniques-to-resolve-frame-drops-and-boost-fps-for-the-ascent-enthusiasts/"><u>Mastering Smooth Gameplay: Techniques to Resolve Frame Drops & Boost FPS for The Ascent Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-cycle-of-rebirth-strategies-for-black-resilience-and-triumph/"><u>Mastering the Cycle of Rebirth: Strategies for Black Resilience and Triumph</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-optimization-of-frame-rates-in-outriders-for-an-uninterrupted-adventure/"><u>Mastering the Optimization of Frame Rates in Outriders for an Uninterrupted Adventure</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/open-the-door-to-win11s-password-protection-with-these-11-pro-tips/"><u>Open the Door to Win11's Password Protection with These 11 Pro Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-geforce-experience-errors-tips-and-solutions-to-keep-it-running-smoothly/"><u>Overcome GeForce Experience Errors: Tips and Solutions to Keep It Running Smoothly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-standard-screen-aspect-ratio/"><u>Restoring Standard Screen Aspect Ratio</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209221170-troubleshoot-and-fix-disk-read-errors-on-your-windows-10-pc-today/"><u>Troubleshoot and Fix Disk Read Errors on Your Windows 10 PC Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-locate-your-youtube-fanbase/"><u>[New] 2024 Approved How to Locate Your YouTube Fanbase</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultimate-media-creator-win8/"><u>[Updated] 2024 Approved Ultimate Media Creator Win8</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] In 2024, Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-iii-error-solved-now-ready-for-adventure/"><u>Baldur's Gate III Error Solved - Now Ready for Adventure</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-social-presence-with-ripls-best-practices/"><u>Elevate Your Social Presence with Ripl's Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enabling-hyper-v-feature-on-your-windows-11-pc-a-complete-walkthrough/"><u>Enabling Hyper-V Feature on Your Windows 11 PC - A Complete Walkthrough</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-hidden-treasure-troves-of-snapchat-tones/"><u>In 2024, Unveiling the Hidden Treasure Troves of Snapchat Tones</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-roblox-error-277-successfully-expert-tips-for-players-using-pcs-updated/"><u>Navigate Roblox Error 277 Successfully: Expert Tips for Players Using PCs (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stutter-and-glitch-in-call-of-dutys-warzone-gameplay/"><u>Resolving Stutter and Glitch in Call of Duty's Warzone Gameplay</u></a></li>
 </ul></div>
 

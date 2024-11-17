@@ -1,7 +1,7 @@
 ---
 title: Get the Smooth Gameplay Experience with Cyberpunk 2077'S Input Latency Fixed
-date: 2024-08-23T17:27:22.422Z
-updated: 2024-08-24T17:27:22.422Z
+date: 2024-11-11T09:40:20.881Z
+updated: 2024-11-17T02:58:54.085Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -54,13 +67,30 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,21 +99,27 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
-4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
-5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
+4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
+5. Launch the game and check.
+
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -112,19 +148,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -139,8 +165,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +172,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-essential-iphones-dive-into-these-top-5-podcast-tools-for-2024/"><u>[New] Essential iPhones Dive Into These Top 5 Podcast Tools for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/accelerate-your-4k-media-with-this-complimentary-video-transformer-for-intel-nvidia-and-amd-users/"><u>Accelerate Your 4K Media with This Complimentary Video Transformer for Intel, Nvidia, and AMD Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-pc-game-crashes-ultimate-troubleshooting-guide/"><u>Biomutant PC Game Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-zoom-resource-hogging-discover-these-efficiencies-to-cut-down-cpu-drain/"><u>Conquering Zoom Resource Hogging: Discover These Efficiencies to Cut Down CPU Drain</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-nk-2077s-fps-challenge-past-problem-present-solution/"><u>Cyberpunk Nk 2077'S FPS Challenge: Past Problem, Present Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dont-miss-out-all-you-need-to-know-about-the-anticipated-samsung-unpacked-event-2025-schedule-announcements-and-hidden-gems/"><u>Don't Miss Out: All You Need to Know About the Anticipated Samsung Unpacked Event 2025 – Schedule, Announcements & Hidden Gems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-cpu-power-achieve-optimal-performance-with-vanguard-software/"><u>Enhance CPU Power, Achieve Optimal Performance with Vanguard Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-launch-your-first-session-with-vrecorder-for-2024/"><u>How to Launch Your First Session with VRecorder for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-back-4-blood-ue4-gobi-error-expert-tips-and-solutions/"><u>How to Overcome 'Back 4 Blood - UE4 Gobi Error': Expert Tips and Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to share/fake gps on Uber for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-13-ultra-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 13 Ultra Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/multiversus-crash-solved-top-8-methods-to-stabilize-your-game/"><u>MultiVersus Crash Solved: Top 8 Methods to Stabilize Your Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-crash-troubles-heres-your-ultimate-guide-to-2ebarriers-2024-resolutions/"><u>Phasmophobia Crash Troubles? Here's Your Ultimate Guide to 2Ebarriers 2024 Resolutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-credible-power-consumption-forecasts-in-win-11-setup/"><u>Reestablishing Credible Power Consumption Forecasts in Win 11 Setup</u></a></li>
+<li><a href="https://win-tips.techidaily.com/save-your-favorite-tumblr-videos-in-popular-formats-on-any-device/"><u>Save Your Favorite Tumblr Videos in Popular Formats on Any Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-how-to-remove-lag-and-stutters-from-half-life-alyx-gameplay/"><u>Solving Performance Issues: How to Remove Lag & Stutters From Half-Life: Alyx Gameplay</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-headphones-a-comprehensive-list/"><u>Top-Rated Headphones : A Comprehensive List</u></a></li>
+</ul></div>
 

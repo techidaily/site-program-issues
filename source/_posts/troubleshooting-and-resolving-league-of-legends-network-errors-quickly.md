@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving League of Legends Network Errors Quickly
-date: 2024-08-23T17:27:44.126Z
-updated: 2024-08-24T17:27:44.126Z
+date: 2024-11-12T23:24:52.854Z
+updated: 2024-11-16T16:02:45.257Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
 
@@ -85,9 +92,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
@@ -100,16 +104,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
@@ -138,32 +136,57 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Click the**BETAS tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Relaunch and play Oxygen Not Included.
 
@@ -184,9 +207,6 @@ If the game crashing issue persists, check the fix below.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7:**Update your Graphics driver**
 
  Another common cause of Oxygen Not Included crashing issues is an outdated or a faulty graphics driver. Try updating your graphics driver to see if that’s the problem for you. There are 2 ways you can do it:
@@ -217,9 +237,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -227,15 +244,29 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8:**Check for Windows updates**
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep Oxygen Not Included from crashing. Here is how to do it:
@@ -244,9 +275,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -267,23 +295,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
  Hopefully, you’re able to play Oxygen Not Included now. If you have any questions or suggestions, feel free to leave a comment below.
@@ -300,8 +326,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -309,4 +333,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-vlogging-selecting-the-best-cameras-and-lenses-for-2024/"><u>[Updated] Exploring Vlogging Selecting the Best Cameras & Lenses for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-wealth-accumulation-mr-beasts-journey/"><u>[Updated] In 2024, Wealth Accumulation Mr. Beast's Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/disrupting-the-norms-standing-out-from-mass-market-tiktoks-for-2024/"><u>Disrupting the Norms Standing Out From Mass-Market TikToks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escaping-the-deadlock-expert-tips-to-get-out-of-minecrafts-loading-loop/"><u>Escaping the Deadlock: Expert Tips to Get Out of Minecraft's Loading Loop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-reopen-discord-if-it-gets-stuck-on-startup/"><u>How to Successfully Reopen Discord if It Gets Stuck on Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995789012-organophosphates-inhibit-acetylcholinesterase-leading-to-an-accumulation-of-acetylcholine-causing-muscarinic-symptoms-but-not-primarily-cardiotoxicity/"><u>Organophosphates Inhibit Acetylcholinesterase Leading to an Accumulation of Acetylcholine, Causing Muscarinic Symptoms but Not Primarily Cardiotoxicity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-runescape-crash-problems-for-smooth-gaming/"><u>Resolving Persistent RuneScape Crash Problems for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-troubleshooting-guide-for-shader-problems-in-star-wars-battlefront-ii/"><u>Speedy Troubleshooting Guide for Shader Problems in Star Wars Battlefront II</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/sx720hs-review-balancing-size-and-extensive-zooming-capabilities/"><u>SX720HS Review - Balancing Size and Extensive Zooming Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-system-do-you-need-to-retain-it/"><u>The Role of MSDA80.DLL in Your System - Do You Need to Retain It?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone XS</u></a></li>
+</ul></div>
 

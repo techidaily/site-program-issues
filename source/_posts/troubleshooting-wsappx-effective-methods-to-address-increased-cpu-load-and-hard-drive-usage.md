@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting WSAPPX: Effective Methods to Address Increased CPU Load and Hard Drive Usage"
-date: 2024-08-23T17:28:02.633Z
-updated: 2024-08-24T17:28:02.633Z
+date: 2024-11-14T08:03:07.901Z
+updated: 2024-11-16T18:06:04.925Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
 
@@ -61,6 +68,19 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements, read on and check the fix, below.
 
 ### Fix 2:**Restart your computer**
@@ -69,9 +89,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -85,23 +102,27 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -110,9 +131,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -125,6 +143,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
@@ -135,9 +160,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 5:**Change branches in Oxygen Not Included**
 
  If you’ve updated your game recently, and your game starts crashing now and then, try reverting your game version by changing your branch. Here is how to do it:
@@ -149,8 +171,12 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
@@ -169,16 +195,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
  **What is Microsoft Visual C++ 2015 runtime?**
@@ -230,9 +250,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -246,8 +263,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -264,27 +285,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
  Hopefully, you’re able to play Oxygen Not Included now. If you have any questions or suggestions, feel free to leave a comment below.
@@ -301,8 +320,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -310,4 +327,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionary-videography-uncovering-the-top-cameras-of-2024/"><u>[Updated] Revolutionary Videography Uncovering the Top Cameras of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-for-fixing-the-no-user-can-log-on-error-in-csgo/"><u>5 Proven Methods for Fixing the 'No User Can Log On' Error in CSGO</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-through-blockade-unlocking-lords-of-mayhem-post-launch-problems/"><u>Battle Through Blockade: Unlocking 'Lords of Mayhem' Post-Launch Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-action-the-fastest-most-effective-home-filmmaking-tricks-for-2024/"><u>Capture the Action The Fastest, Most Effective Home Filmmaking Tricks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-personalized-intelligent-agents-gpt-driven-chatgpt/"><u>Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-tips-to-repair-the-game-crashing-issue-error-code-5573-in-warzone-on-console-and-desktop/"><u>Definitive Tips to Repair the Game Crashing Issue (Error Code 5573) in Warzone on Console and Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-graphics-failed-to-initialize-solved/"><u>Destiny 2 Graphics Failed to Initialize [SOLVED]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A15 5G Phone Without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011122696-immerse-yourself-in-open-world-adventure-play-yakuza-like-a-dragon-on-pc/"><u>Immerse Yourself in Open-World Adventure – Play Yakuza: Like A Dragon on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-video-frustrations-find-solutions-now-for-2024/"><u>Instagram Video Frustrations? Find Solutions Now for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dota-2-gameplay-on-windows-11-to-prevent-frames-per-second-fps-decline/"><u>Optimizing Dota 2 Gameplay on Windows 11 to Prevent Frames Per Second (FPS) Decline</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-ue4-glitch-solved-stop-unreal-process-has-crashed-errors/"><u>Outriders UE4 Glitch Solved: Stop 'Unreal Process Has Crashed' Errors!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-libxml2dll-is-missing-error-a-comprehensive-guide/"><u>Solving the 'Libxml2.dll Is Missing' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990708433-troubleshooting-complete-blackout-on-your-far-cry-6-gameplay/"><u>Troubleshooting Complete Blackout on Your Far Cry 6 Gameplay!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-basics-of-telegram-a-comprehensive-overview/"><u>Understanding the Basics of Telegram: A Comprehensive Overview</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/yokus-island-express-examined-unexpected-journeys-unveiled/"><u>Yoku's Island Express Examined: Unexpected Journeys Unveiled</u></a></li>
+</ul></div>
 

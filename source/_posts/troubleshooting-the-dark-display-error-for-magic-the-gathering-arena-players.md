@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Dark Display Error for Magic: The Gathering Arena Players"
-date: 2024-08-23T17:30:18.443Z
-updated: 2024-08-24T17:30:18.443Z
+date: 2024-11-16T03:20:40.098Z
+updated: 2024-11-16T20:01:52.899Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -44,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -54,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -64,19 +75,10 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -84,8 +86,12 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
@@ -108,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -117,11 +130,16 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -137,8 +155,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +162,22 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-best-look-ups-for-gopro-movies-select-15-luts/"><u>[Updated] Best Look-Ups for GoPro Movies Select 15 LUTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>2024 Approved Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/5-simple-methods-to-set-any-song-from-google-play-as-a-custom-ringtone-on-android-devices/"><u>5 Simple Methods to Set Any Song From Google Play as a Custom Ringtone on Android Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-mohu-leaf-30-tv-antenna-striking-value-and-functionality/"><u>Expert Analysis of the Mohu Leaf 30 TV Antenna: Striking Value and Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/final-answer-tackling-and-triumphing-over-robloxs-endless-launch-sequence/"><u>Final Answer: Tackling and Triumphing Over Roblox's Endless Launch Sequence</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-on-point-boosting-division-2s-graphics-for-a-seamless-playthrough/"><u>Game On Point! Boosting Division 2'S Graphics for a Seamless Playthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-online-expert-advice-on-fixing-service-stopped-errors-in-hamachi/"><u>Get Back Online: Expert Advice on Fixing 'Service Stopped' Errors in Hamachi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-black-screen-problem-on-your-epic-games-launcher/"><u>How to Overcome the Black Screen Problem on Your Epic Games Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/magic-the-gathering-arena-conquering-the-darkness-issue-for-smooth-playing-experience/"><u>Magic: The Gathering Arena - Conquering the Darkness Issue for Smooth Playing Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-online-wmvaac-aac-wmv/"><u>Movavi의 오토바이오(Online) 무료 WMV/AAC 코어 링크, 비교 및 변환 기술 - AAC 대 WMV</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/movie-magic-for-minis-teach-your-child-to-create-their-own-films-for-2024/"><u>Movie Magic for Minis Teach Your Child to Create Their Own Films for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connection-hurdles-in-lost-ark-a-guide-to-stable-gameplay/"><u>Overcoming Connection Hurdles in Lost Ark - A Guide to Stable Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-troubleshooting-guide-fixing-crashes-in-the-latest-update/"><u>Phasmophobia Troubleshooting Guide: Fixing Crashes in the Latest Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-crashes-fixing-hell-let-loose-on-your-computer/"><u>Say Goodbye to Game Crashes – Fixing Hell Let Loose on Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-se-2020-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone SE (2020)</u></a></li>
+</ul></div>
 

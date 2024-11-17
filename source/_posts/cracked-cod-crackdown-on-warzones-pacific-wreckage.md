@@ -1,7 +1,7 @@
 ---
 title: "Cracked Cod: Crackdown on Warzone's Pacific Wreckage"
-date: 2024-08-23T17:30:32.777Z
-updated: 2024-08-24T17:30:32.777Z
+date: 2024-11-14T19:49:23.353Z
+updated: 2024-11-17T06:28:50.688Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the privacy settings
 
  Make sure your camera was allowed to the Discord. Many people didn’t open the toggle and cause the camera not working issue.
@@ -39,13 +46,24 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Rearrange your USB device (USB camera only)
 
  If your USB ports are overwhelming, your camera might not work properly. The USB port can handle the limited number of endpoints, if there are too many devices plugged in, it may lead to the error.
@@ -59,9 +77,6 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -70,8 +85,12 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -109,8 +128,12 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your system
 
  The outdated operating system could be the reason for the camera not working problem, the new version may have a patch to fix bugs. So update your system may help you fix the problem.
@@ -124,9 +147,6 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -137,24 +157,37 @@ If your camera is still not working on Discord, move to the next fix.
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
 11. Install it on your computer and try the camera.
 
@@ -170,8 +203,6 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +210,24 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/isual-snips-tool-for-2024/"><u>[New] Visual Snips Tool for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-monochrome-modification-for-2024/"><u>[Updated] Mastering the Art of Monochrome Modification for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-sound-sculpting-on-android-the-7-ultimate-audio-editing-apps/"><u>[Updated] Sound Sculpting on Android The 7 Ultimate Audio Editing Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-2022-update-understanding-and-resolving-the-leaf-error-code/"><u>Apex Legends 2022 Update: Understanding and Resolving the 'Leaf' Error Code</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-site-performance-using-cookiebot-solutions/"><u>Boosting Site Performance Using Cookiebot Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-8-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 8 Safe and Legal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extensive-review-capturing-every-angle-with-gear-360-for-2024/"><u>Extensive Review Capturing Every Angle with Gear 360 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-umwandlung-von-h264-in-h265-mit-reduzierter-dateigrosse-und-unversehrbarer-bildqualitat/"><u>Gratis Umwandlung Von H.264 In H.265 Mit Reduzierter Dateigröße Und Unversehrbarer Bildqualität</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-unreal-process-has-crashed-error-in-outriders-game/"><u>How to Overcome 'Unreal Process Has Crashed' Error in Outriders Game</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-warping-letters-in-photographyvideo/"><u>In 2024, Warping Letters in Photography/Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-addressing-sea-of-thieves-initial-boot-issues/"><u>Mastering the Solution: Addressing 'Sea of Thieves' Initial Boot Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-error-6-in-call-of-duty-modern-warfare-and-diver-wars-on-pc/"><u>Resolved: Fixing Error 6 in Call of Duty Modern Warfare & Diver Wars on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-game-sounds-overcoming-silence-in-fallout-4-on-desktops-and-laptops/"><u>Restoring Game Sounds: Overcoming Silence in Fallout 4 on Desktops and Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-persona-5-strikers-game-crashes-on-pc/"><u>Troubleshooting: Fixing Persona 5 Strikers Game Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-solving-guilty-gear-strive-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Solving Guilty Gear Strive PC Game Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-full-power-of-your-graphics-card-troubleshooting-warzones-gpu-usage-on-windows-10-devices/"><u>Unlock the Full Power of Your Graphics Card: Troubleshooting Warzone's GPU Usage on Windows 10 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/warzone-not-working-heres-what-you-need-to-know/"><u>Warzone Not Working? Here's What You Need to Know!</u></a></li>
+</ul></div>
 

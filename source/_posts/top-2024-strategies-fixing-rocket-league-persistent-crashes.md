@@ -1,7 +1,7 @@
 ---
 title: "Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes"
-date: 2024-11-05T03:53:06.425Z
-updated: 2024-11-07T02:52:10.402Z
+date: 2024-11-10T04:56:25.025Z
+updated: 2024-11-17T08:48:01.805Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
@@ -70,18 +77,25 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -110,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -128,21 +135,14 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,14 +167,21 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[New] 2024 Approved Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-ranked-spots-for-boosting-youtube-videos-for-2024/"><u>[New] Top-Ranked Spots for Boosting YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/battle-of-timepieces-how-the-new-pixel-watch-compares-to-samsungs-galaxy-watch-5-pro-engadget/"><u>Battle of Timepieces: How the New Pixel Watch Compares to Samsung's Galaxy Watch 5 Pro | Engadget</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-crash-blues-masterful-tips-to-prevent-subnautica-below-zero-breaks-on-desktop-computers/"><u>Beat the Crash Blues: Masterful Tips to Prevent Subnautica: Below Zero Breaks on Desktop Computers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-facetune-guide-elevating-your-image-quality/"><u>In 2024, Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-call-of-duty-warzone-memory-error-0-1766-on-xbox-and-pc-efficiently/"><u>Resolve Call of Duty: Warzone 'Memory Error 0-1766' On Xbox and PC Efficiently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-error-887a0005-in-call-of-duty-black-ops-cold-war/"><u>Resolving the 'Error: 887A0005' In Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-against-launch-glitches-in-pathfinder-wrath-of-the-righteeous-expert-tips-and-tricks/"><u>Winning Against Launch Glitches in Pathfinder: Wrath of the Righteeous - Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-best-text-plugins-for-ae-users/"><u>[New] Top 10 Best Text Plugins for AE Users</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-elevate-video-views-twitter-to-facebook-transition-for-2024/"><u>[Updated] Elevate Video Views Twitter to Facebook Transition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-halo-infinites-audiovisual-malfunctions-efficiently/"><u>Diagnosing and Repairing Halo Infinite's Audiovisual Malfunctions Efficiently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-iphone-driver-downloads-for-windows-10-users/"><u>Easy iPhone Driver Downloads for Windows 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-google-meet-troubleshooting-solutions-for-a-non-functional-webcam/"><u>Fixing Google Meet: Troubleshooting Solutions for a Non-Functional Webcam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-10-a-step-by-step-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-discords-overlay-problem-quickly-and-easily-ultimate-fixes-inside/"><u>How to Resolve Discord's Overlay Problem Quickly and Easily – Ultimate Fixes Inside!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-digital-diaries-of-a-mini-guy-top-6-techniques-for-recording-games/"><u>In 2024, Digital Diaries of a Mini-Guy Top 6 Techniques for Recording Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-13-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 13</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-enhancement-how-the-latest-nahimic-audio-driver-revamps-your-audio-quality/"><u>Instant Enhancement: How the Latest Nahimic Audio Driver Revamps Your Audio Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-starting-hogwarts-legacy-successfully-latest-updates/"><u>Step-by-Step Solutions for Starting Hogwarts Legacy Successfully - Latest Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-restore-functionality-of-the-steelseries-arctis-7-headset-mic/"><u>Steps to Restore Functionality of the SteelSeries Arctis 7 Headset Mic</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-charging-your-playstation-5-dualsense-console-controller/"><u>Troubleshooting Guide: Charging Your PlayStation 5 DualSense Console Controller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-battlefront-ii-pc-gaming-stability-issues/"><u>Troubleshooting Steps: Battlefront II PC Gaming Stability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-ghostrunner-deadlock-issue-on-your-windows-10-system/"><u>Troubleshooting the Ghostrunner Deadlock Issue on Your Windows 10 System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-ai-the-essential-handbook-for-modern-day-guardians/"><u>Understanding Generative AI: The Essential Handbook for Modern-Day Guardians</u></a></li>
 </ul></div>
 

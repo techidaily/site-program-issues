@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Prevent and Fix 'Black Myth Wukong' From Freezing or Crashing on PC Systems
-date: 2024-08-23T17:17:44.980Z
-updated: 2024-08-24T17:17:44.980Z
+date: 2024-11-12T01:26:34.369Z
+updated: 2024-11-17T05:28:33.795Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If this is not your case, please move on to the other methods below regarding the crashing, freezing and black screen issues in Black Myth: Wukong.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Clean reinstall your display card driver
 
  Another very common reason for game crashes and freezes is an outdated or faulty graphics card driver, and Black Myth: Wukong is no exception. In this case, it’s recommended that you do a clean reinstallation of the display card driver, to avoid problems from shader caches.
@@ -49,10 +56,6 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 2. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 3. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 4. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
@@ -78,6 +81,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. You can also pick the older drivers by clicking the**View all driver versions** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/de-view-older-drivers.png)
 5. Click the download button on the right to download the older driver that you need.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/old-amd-driver.png)
@@ -88,8 +99,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If a clean reinstallation of the graphics card driver doesn’t help with the crashes and freezes in Black Myth: Wukong, please move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Verify the game files integrity
 
  For a big game like Black Myth: Wukong, it’s not strange that some game files might be missing or corrupted during the download and installation. So if you’re experiencing constant crashes and freezes in BMW, you should try to verify the game files. To do so:
@@ -101,14 +116,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the **Installed Files**  tab and click on the **Verified integrity of game files**  button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Epic Games Launcher
@@ -116,9 +132,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On Epic Game Launcher, find Black Myth: Wukong in your **Library** . Click **the three dots** on the right side of the game line and select **Manage** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
 
@@ -131,21 +152,34 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then try your Black Myth: Wukong again to see if it still crashes and freezes. If the problem remains, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  5\. Close unnecessary background applications
 
  As noted by Game Science, the following background applications and services could cause performance issues like crashes, stutters, low frame rate, and screen tearing in Black Myth: Wukong:
@@ -161,14 +195,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select the above-mentioned application and click**End Task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then run Black Myth: Wukong again and see if it still crashes, freezes and has black screen. If the problem still remains, please move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Repair system files
 
  If you are facing persistent issues with Black Myth: Wukong and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial.
@@ -181,14 +209,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team. 
 
 ---
@@ -204,8 +226,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +233,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-words-to-wax-mastering-voice-note-techniques/"><u>[New] 2024 Approved From Words to Wax Mastering Voice Note Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-building-captivating-instagram-feed-layouts/"><u>[New] In 2024, Building Captivating Instagram Feed Layouts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-reviving-obs-camera-glitches/"><u>[Updated] 2024 Approved Reviving OBS Camera Glitches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-gt-3-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme GT 3 FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-sea-of-thieves-errors-a-guide-to-getting-your-game-running-smoothly/"><u>Dealing with Sea of Thieves Errors: A Guide to Getting Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-pc-version-now-fully-functional-enjoy-gaming-seamlessly/"><u>Destiny 2 PC Version Now Fully Functional: Enjoy Gaming Seamlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-analysis-dough-spectrum-27-oled-game-display-elite-color-precision-and-superior-quality/"><u>Expert Analysis: Dough Spectrum 27 OLED Game Display - Elite Color Precision & Superior Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exploring-common-causes-and-solutions-to-grand-theft-auto-v-game-crashing-issues/"><u>Exploring Common Causes and Solutions to Grand Theft Auto V Game Crashing Issues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gratis-strategies-for-streaming-c-span-videos-online-for-2024/"><u>Gratis Strategies for Streaming C-Span Videos Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-virtualblender-for-all-operating-systems/"><u>In 2024, VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-12-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-rocket-league-stability-say-goodbye-to-game-crashes-with-these-tips/"><u>Master Rocket League Stability - Say Goodbye to Game Crashes with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-disruptions-a-step-by-nstep-solution-for-among-us-players-on-pc/"><u>Overcoming Voice Chat Disruptions: A Step-by-nStep Solution for Among Us Players on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-now-available-for-far-cry-6-initial-pc-startup-issues/"><u>Resolved: Fixes Now Available for Far Cry 6 Initial PC Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Solving DirectX Issues in Battlefield 2042: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-a-comprehensive-2024-guide-to-roller-champions-multiplayer-tactics/"><u>Step-by-Step Strategy: A Comprehensive 2024 Guide to Roller Champions Multiplayer Tactics</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/steps-voor-het-herstellen-van-weggereduceerde-beelden-in-de-discord-en-windows-omgeving/"><u>Steps Voor Het Herstellen Van Weggereduceerde Beelden in De Discord en Windows-Omgeving</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlock-the-magic-of-custom-snaps-and-effortless-lenses/"><u>Unlock the Magic of Custom Snaps & Effortless Lenses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-early-football-manager-2022-access-tackling-and-solving-launch-delays/"><u>Unlocking Early Football Manager 2022 Access: Tackling and Solving Launch Delays</u></a></li>
+</ul></div>
 

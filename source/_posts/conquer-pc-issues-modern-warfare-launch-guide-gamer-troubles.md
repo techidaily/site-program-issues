@@ -1,7 +1,7 @@
 ---
 title: "Conquer PC Issues: Modern Warfare Launch Guide Gamer Troubles"
-date: 2024-10-31T20:58:00.303Z
-updated: 2024-11-06T16:12:36.109Z
+date: 2024-11-10T02:20:12.688Z
+updated: 2024-11-17T02:03:56.198Z
 tags:
   - win11
   - win10
@@ -39,28 +39,21 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -73,6 +66,13 @@ If this doesn’t do the trick, try the next fix below.
 3. When the Properties window opens, select the Compatibility tab. Then check the box next to Run this program as an administrator. Then click Apply > OK to save the changes.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Close conflicting or non-essential programs
 
@@ -90,20 +90,13 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
@@ -130,10 +123,10 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
@@ -143,6 +136,13 @@ If this doesn’t do the trick, try the next fix below.
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -160,6 +160,13 @@ If this doesn’t do the trick, try the next fix below.
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
@@ -179,22 +186,21 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -234,17 +240,21 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-optimal-platforms-for-remote-team-engagement/"><u>[New] 2024 Approved Optimal Platforms for Remote Team Engagement</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-develop-meme-art-in-adobe-suite/"><u>[New] In 2024, Develop Meme Art in Adobe Suite</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-camera-roll-to-screen-share-photos-fast-and-simple/"><u>2024 Approved From Camera Roll to Screen Share Photos Fast and Simple</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/acer-laptop-dvd-troubleshooting-for-windows-11-users-with-and-without-built-in-drives/"><u>Acer Laptop DVD Troubleshooting for Windows 11 Users – With and Without Built-In Drives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-performance-issues-in-jurasspresson-world-evolution/"><u>Fixing Performance Issues in Jurasspresson World Evolution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-a-smooth-race-experience-with-f1-2021-no-more-pc-game-crashes/"><u>Getting a Smooth Race Experience with F1 2021: No More PC Game Crashes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-crafting-video-trailers-to-elevate-sales/"><u>In 2024, The Art of Crafting Video Trailers to Elevate Sales</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003697175-league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-troubleshooting-steps-for-a-smooth-street-fighter-6-gaming-experience-on-pc/"><u>Top 6 Troubleshooting Steps for a Smooth Street Fighter 6 Gaming Experience on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-whea-uncorrectable-failures/"><u>Ultimate Guide: Resolving WHEA Uncorrectable Failures</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-s23plus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy S23+? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-expertly-lit-the-17-must-haves-for-youtubers/"><u>[New] In 2024, Expertly Lit The 17 Must-Haves for Youtubers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-tools-for-virtual-meeting-efficiency/"><u>[New] Premium Tools for Virtual Meeting Efficiency</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-eating-the-trend-top-food-moments-on-tiktok/"><u>2024 Approved Eating the Trend Top Food Moments on TikTok</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a38-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A38 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/audio-problems-on-win11-try-driver-reload/"><u>Audio Problems on Win11? Try Driver Reload</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-devices-move-images-and-videos-from-pc-for-2024/"><u>Bridging Devices Move Images & Videos From PC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/freeze-troubles-fix-your-game-pathfinder-wrath-of-the-righteous-on-pc/"><u>Freeze Troubles? Fix Your Game: Pathfinder - Wrath Of The Righteous On PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-instructions-for-the-latest-hp-84t-g3-driver-updates/"><u>Installation Instructions for the Latest HP 84T G3 Driver Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/level-up-your-gaming-six-proven-fixes-for-stabilizing-call-of-duty-mw2-performance/"><u>Level Up Your Gaming: Six Proven Fixes for Stabilizing Call of Duty: MW2 Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-pc-problems-heres-how-to-resolve-them/"><u>Sons of the Forest PC Problems? Here's How to Resolve Them!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-fixes-for-persistent-discord-streaming-issues/"><u>Troubleshooting Complete Fixes for Persistent Discord Streaming Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-experience-overcoming-closure-errors-efficiently/"><u>Troubleshooting GeForce Experience: Overcoming Closure Errors Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011958748-troubleshooting-oxygen-not-included-game-crashes-solutions-inside/"><u>Troubleshooting Oxygen Not Included Game Crashes: Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-cyberpunk-2077-computer-freezing-issues/"><u>Ultimate Solution for Cyberpunk 2077 Computer Freezing Issues</u></a></li>
 </ul></div>
 

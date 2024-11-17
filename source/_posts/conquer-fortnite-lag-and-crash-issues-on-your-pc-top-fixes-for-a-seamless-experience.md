@@ -1,7 +1,7 @@
 ---
 title: Conquer Fortnite Lag & Crash Issues on Your PC – Top Fixes for a Seamless Experience
-date: 2024-11-03T18:37:43.144Z
-updated: 2024-11-07T00:53:09.783Z
+date: 2024-11-14T07:32:04.969Z
+updated: 2024-11-16T21:23:11.126Z
 tags:
   - win11
   - win10
@@ -66,23 +66,9 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: **Update your graphics driver**
 
@@ -99,6 +85,13 @@ If this didn’t help in resolving your problem, try the fix below.
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
@@ -136,16 +129,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run your game in compatibility mode
@@ -155,13 +142,6 @@ If not, try the next fix.
 **1)** Right-click the **Terraria icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -176,6 +156,13 @@ If not, try the next fix.
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game and/or Steam
 
@@ -195,15 +182,22 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-250.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Download and install _Terraria_  again.
 
@@ -215,31 +209,31 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -261,16 +255,16 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -297,21 +291,20 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>[New] 2024 Approved Mastering the Art of Viral Videos 1M+ Audience Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-livestream-audiovideo-creators-hub/"><u>[New] LiveStream Audio/Video Creators Hub</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-gt-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme GT 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-periscope-basics-understanding-costs-benefits-and-account-creation/"><u>2024 Approved Periscope Basics Understanding Costs, Benefits & Account Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/finding-the-perfect-fit-step-by-step-tips-for-retrieving-your-car-stereos-security-code/"><u>Finding the Perfect Fit: Step-by-Step Tips for Retrieving Your Car Stereo's Security Code</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-persistent-freezing-in-final-fantasy-xv-pc-version/"><u>Fixes and Solutions for Persistent Freezing in Final Fantasy XV PC Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-httpswwwusgsgovspecial-topicwater-science-570/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/professional-vuelaravel-stack-application-with-json-api-integration-created-by-creative-tim/"><u>Professional Vue/Laravel Stack Application with JSON API Integration - Created by Creative Tim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reducing-high-cpu-consumption-issues-while-playing-phasmophobia/"><u>Reducing High CPU Consumption Issues While Playing Phasmophobia</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-error-resolved-ensuring-easy-anti-cheat-is-installed-correctly-to-avoid-game-launch-issues/"><u>Steam Error Resolved: Ensuring Easy Anti-Cheat Is Installed Correctly to Avoid Game Launch Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-eliminating-the-opaque-screen-glitch-in-star-wars-battlefront-ii-gaming/"><u>Step-by-Step Solution: Eliminating the Opaque Screen Glitch in Star Wars Battlefront II Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-your-amd-radeon-drivers-wont-launch/"><u>Troubleshooting Steps for When Your AMD Radeon Drivers Won't Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-ghostrunner-errors-for-smooth-windows-10-gaming/"><u>Ultimate Guide: Eliminating Ghostrunner Errors for Smooth Windows 10 Gaming</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-filmora-coupon-code-2022-7-ways-to-find2022-full-list/"><u>Updated 2024 Approved Filmora Coupon Code 2022 - 7 Ways to Find(2022 Full List)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/voice-command-enhancements-for-oculus-quest-with-mondly/"><u>Voice Command Enhancements for Oculus Quest with Mondly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-blitz-photo-screening-for-windows-users-for-2024/"><u>[New] Blitz Photo Screening for Windows Users for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>[New] In 2024, Beyond Expectations The New Samsung UBD-K8500 Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>[New] SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-pathway-to-pinnacle-chromatic-precision-for-2024/"><u>[New] The Pathway to Pinnacle Chromatic Precision for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-advanced-sound-switching-techniques/"><u>2024 Approved Navigating Advanced Sound-Switching Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-error-resolved-eradicating-the-infamous-0x00001338-glitch-on-windows-pcs/"><u>Call of Duty Vanguard Error Resolved: Eradicating the Infamous 0X00001338 Glitch on Windows PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-ipad-pro-sizes-11-inch-or-129-inch-with-m1m2-chips-a-comprehensive-comparison/"><u>Choosing Between IPad Pro Sizes: 11-Inch or 12.9-Inch with M1/M2 Chips? A Comprehensive Comparison</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-reversing-recent-windows-11-system-updates/"><u>Complete Tutorial on Reversing Recent Windows 11 System Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-stop-stray-from-crashing-your-pc-top-6-fixes/"><u>Effective Solutions: Stop 'Stray' From Crashing Your PC - Top 6 Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-cyberpunk-2077s-ice-age-update-patches-game-freezes/"><u>Overcome Cyberpunk 2077'S Ice Age: Update Patches Game Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-forza-horizon-5-suddenly-stopping-on-your-pc-a-step-by-step-guide/"><u>Solving the Issue of Forza Horizon 5 Suddenly Stopping on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-nvidia-control-panel-crashes-and-failure-to-load/"><u>Solving the Issue of Nvidia Control Panel Crashes and Failure to Load</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-assassins-creed-odyssey-from-crashing-on-windows-easy-fixes-inside/"><u>Stop Assassin's Creed Odyssey From Crashing on Windows: Easy Fixes Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-6-simple-minecraft-house-ideas/"><u>Top 6 Simple Minecraft House Ideas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-silent-steel-solving-no-audio-issues-in-fallout-4/"><u>Troubleshooting Silent Steel: Solving 'No Audio' Issues in Fallout 4</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-10-31T19:30:28.013Z
-updated: 2024-11-06T20:47:47.434Z
+date: 2024-11-14T20:32:11.878Z
+updated: 2024-11-17T00:12:34.119Z
 tags:
   - win11
   - win10
@@ -26,24 +26,18 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Quit MSI Afterburner
 
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -69,6 +63,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -77,10 +78,10 @@ There are mainly two methods for you to update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Verify the game integrity
@@ -93,16 +94,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
@@ -118,14 +119,20 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Launch the game in your game folder
 
@@ -135,16 +142,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -161,19 +168,6 @@ There are mainly two methods for you to update the graphics driver:
 2) Type**firewall.cpl** in the box, and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -209,17 +203,19 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1723008600524-detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-comparing-igs-new-features-reels-vs-stories/"><u>[New] 2024 Approved Comparing IG's New Features Reels Vs Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-audiences-with-effective-and-appealing-video-previews/"><u>[New] In 2024, Captivate Audiences with Effective and Appealing Video Previews</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-inclusive-iptv-service-distribution/"><u>[New] In 2024, Inclusive IPTV Service Distribution</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beginners-choices-superior-gopro-accessories/"><u>[Updated] Beginner’s Choices Superior GoPro Accessories</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-fixes-to-stop-euro-truck-simulator-2-from-crashing-on-your-windows-computer/"><u>Common Fixes to Stop Euro Truck Simulator 2 From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/guide-de-sauvegarde-reussie-sur-wd-my-passport-decouvrez-ces-trois-strategies-pour-reprendre-le-controle-de-vos-partitions/"><u>Guide De Sauvegarde Réussie Sur WD My Passport : Découvrez Ces Trois Stratégies Pour Reprendre Le Contrôle De Vos Partitions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-stuck-loading-screen-in-dota-2-for-a-smooth-gameplay-experience/"><u>How to Fix Stuck Loading Screen in Dota 2 for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/interpreting-storage-identities-c-drive-and-d-drive-tale/"><u>Interpreting Storage Identities: C Drive & D Drive Tale</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-darkness-a-step-by-step-solution-to-black-screens-in-destiny-2/"><u>Overcoming Darkness: A Step-by-Step Solution to Black Screens in Destiny 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-fixing-recurring-wwe-2k22-crash-problems-on-pc/"><u>Ultimate Guide to Fixing Recurring WWE 2K22 Crash Problems on PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enchanting-escapades-childhood-playtime-picks-for-2024/"><u>[New] Enchanting Escapades Childhood Playtime Picks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-gpu-chronicles-radeon-reimagined-for-2024/"><u>[New] GPU Chronicles Radeon Reimagined for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-your-gopro-videos-with-simple-edits/"><u>[New] In 2024, Elevate Your GoPro Videos with Simple Edits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unraveling-the-process-of-uploading-360-footage-to-youtube/"><u>2024 Approved Unraveling the Process of Uploading 360° Footage to YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-stability-how-to-prevent-crashes-on-pcs/"><u>Cult of the Lamb Stability: How to Prevent Crashes on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-arma-3-crashes-top-strategies-and-updates-from-the-latest-patch/"><u>Fix Your Arma 3 Crashes: Top Strategies and Updates From the Latest Patch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcome-apex-legends-glitch-the-ultimate-solution-for-error-code/"><u>Guide to Overcome Apex Legends Glitch: The Ultimate Solution for Error Code ⅩⅢ</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-black-screen-issue-in-hitman-3-on-your-pc/"><u>How to Fix the Black Screen Issue in Hitman 3 on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obsidian-client-performance-boosted-no-more-lag-in-stream-or-record-modes/"><u>Obsidian Client Performance Boosted: No More Lag in Stream or Record Modes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-tips-how-to-recover-deleted-admin-username-and-password-on-macos-with-minimal-fuss/"><u>Quick Tips: How to Recover Deleted Admin Username & Password on macOS with Minimal Fuss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-sudden-pc-shutdowns-with-our-6-trusted-solutions-for-recurring-crashes/"><u>Say Goodbye to Sudden PC Shutdowns with Our 6 Trusted Solutions for Recurring Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009461689-solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1961555-9780983346678-stepping-into-ourselves/"><u>Stepping Into Ourselves | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
 

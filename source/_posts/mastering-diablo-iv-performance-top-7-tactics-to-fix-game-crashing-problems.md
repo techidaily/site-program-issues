@@ -1,7 +1,7 @@
 ---
 title: "Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems"
-date: 2024-11-02T00:53:57.267Z
-updated: 2024-11-06T19:02:54.057Z
+date: 2024-11-10T09:06:49.532Z
+updated: 2024-11-16T23:27:11.562Z
 tags:
   - win11
   - win10
@@ -66,15 +66,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -93,35 +93,15 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -151,13 +131,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -168,18 +141,32 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -190,6 +177,13 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
@@ -221,16 +215,20 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-step-by-step-guide-to-360-videos-with-ios/"><u>[New] In 2024, Step-by-Step Guide to 360 Videos with iOS</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>[Updated] 2024 Approved The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-html-authoring-software-for-windows-developers-top-picks/"><u>Best Free HTML Authoring Software for Windows Developers: Top Picks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-failed-remote-procedure-calls-expert-tips-inside/"><u>Mastering the Fix for Failed Remote Procedure Calls - Expert Tips Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-hurdles-successfully-getting-fifa-21-to-boot/"><u>Overcoming Hurdles: Successfully Getting FIFA 21 to Boot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-frequent-fuser-applications-failures-on-pc-systems/"><u>Resolving Frequent Fuser Applications Failures on PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-performance-issues-tips-to-resolve-lag-and-frame-drops/"><u>Solving Dragon's Dogma 2 Performance Issues: Tips to Resolve Lag & Frame Drops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-flickering-a-step-by-step-guide-to-enhancing-warzone-performance/"><u>Troubleshooting Flickering: A Step-by-Step Guide to Enhancing Warzone Performance</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-samsungs-latest-offer-the-ultimate-guide-to-copilotplus-top-windows-laptop-bargain-on-zdnet/"><u>Unveiling Samsung's Latest Offer: The Ultimate Guide to Copilot+ - Top Windows Laptop Bargain on ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994286282-xbox-one-users-no-longer-face-issues-with-netflix-all-systems-go/"><u>Xbox One Users No Longer Face Issues with Netflix - All Systems Go!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-boosting-game-speed-optimizing-minecrafts-ram-usage-for-2024/"><u>[New] Boosting Game Speed Optimizing Minecraft's RAM Usage for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastery-made-easy-10-best-mac-drawing-programs-complimentary/"><u>[New] Mastery Made Easy 10 Best Mac Drawing Programs (Complimentary)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-templates-for-introducing-panzoids/"><u>2024 Approved Optimal Templates for Introducing Panzoids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-comprehensive-guide-to-canon-time-lapse-video-for-2024/"><u>A Comprehensive Guide to Canon Time-Lapse Video for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-bypassing-fortnites-stuck-loading-phase-a-comprehebly-guide/"><u>Effortlessly Bypassing Fortnite's Stuck Loading Phase: A Comprehebly Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-honor-x8b-frp-by-drfone-android/"><u>How Can We Bypass Honor X8b FRP?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-memory-error-12707-in-call-of-duty-modern-warfare-3/"><u>How to Resolve Memory Error 12707 in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>In 2024, Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/jedi-in-trouble-no-more-resolving-star-wars-game-launch-problems-efficiently/"><u>Jedi in Trouble No More: Resolving Star Wars Game Launch Problems Efficiently</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubles-heres-how-you-can-stop-praey-from-crashing/"><u>PC Troubles? Here's How You Can Stop Praey From Crashing!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-stop-star-citizen-from-crashing-on-windows-platforms/"><u>Solution for Stop Star Citizen From Crashing on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-warzone-directx-glitch-a-four-step-guide/"><u>Solving the Warzone DirectX Glitch: A Four-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-prevent-frequent-freezing-in-cyberpunks-latest-hit-deathloop-across-multiple-consoles/"><u>Steps to Prevent Frequent Freezing in Cyberpunk's Latest Hit: Deathloop Across Multiple Consoles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-saints-row-resolving-pc-startup-issues/"><u>Troubleshooting Saints Row: Resolving PC Startup Issues</u></a></li>
 </ul></div>
 

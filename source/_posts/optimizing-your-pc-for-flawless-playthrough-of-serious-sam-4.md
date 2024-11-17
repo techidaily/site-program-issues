@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your PC for Flawless Playthrough of Serious Sam 4
-date: 2024-08-23T17:29:43.438Z
-updated: 2024-08-24T17:29:43.438Z
+date: 2024-11-15T20:48:12.882Z
+updated: 2024-11-17T08:45:41.558Z
 tags:
   - win11
   - win10
@@ -49,16 +49,34 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/dxdiag-1.jpg)
 2. In the pop-up window, you can check your system information about**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx-diagnostic-tool.jpg)
 3. Navigate to the**Display** tab, you’ll see the**graphics card** information.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/directx-display.jpg)
 4. Click**Exit** .
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After confirming that your device is powerful enough to run the game, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Repair your system files
 
  The FNAF Security Breach crashing issue could also be caused by corrupted or damaged system files. Repairing system files may help solve your problem. If you’re looking for a powerful tool to repair your system, consider giving Fortect a try.
@@ -69,15 +87,22 @@ thumbnail: https://thmb.techidaily.com/337350c11ae587c77e044eafd70c0e67c4637d755
 2. Open Fortect. You’ll be asked to run a free scan of your computer. Click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 Launch the game again and check if your problem has been resolved.
@@ -97,9 +122,6 @@ Launch the game again and check if your problem has been resolved.
 
 If this method gives you no luck, go for the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  Graphics cards are essential to video games. To get the best performance out of your hardware, you should keep your graphics driver up to date. If you’re using a faulty or outdated graphics driver, FNAF Security Breach crashing is more likely to occur.
@@ -110,11 +132,23 @@ If this method gives you no luck, go for the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 4. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -128,19 +162,17 @@ If this method gives you no luck, go for the next fix.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Under the**General** tab, add**\-dx11** to the**LAUNCH OPTIONS** . This will force the game to run in DirectX 11 mode.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. Close the window.
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 If the crashing issue persists, continue with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -149,19 +181,28 @@ If the crashing issue persists, continue with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your PC and launch Five Nights at Freddy’s: Security Breach to check if the game crashes again. If not, open the**System Configuration** window again to enable services and applications one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
@@ -179,8 +220,6 @@ If the crashing issue persists, continue with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +227,23 @@ If the crashing issue persists, continue with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-save-your-favorite-tiktok-content-securely-on-devices/"><u>[New] In 2024, Save Your Favorite TikTok Content - Securely on Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-novices-route-to-rapidly-play-videos-on-snapchat-for-2024/"><u>[Updated] The Novice's Route to Rapidly Play Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitches-step-by-step-solutions-for-persistent-pc-gaming-crashes/"><u>Beat the Glitches: Step-by-Step Solutions for Persistent PC Gaming Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discover-whats-next-for-rainbow-six-siege-free-improvements-and-additions-coming/"><u>Discover What’s Next for Rainbow Six Siege – Free Improvements and Additions Coming !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-guide-locating-mislaid-airpods-and-preventive-measures-for-future-losses-insights/"><u>Essential Guide: Locating Mislaid AirPods & Preventive Measures for Future Losses - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-boosting-sims-4-pc-performance-this-year/"><u>Expert Advice for Boosting Sims 4 PC Performance This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-ending-manor-lords-pc-gameplay-interruptions/"><u>Expert Advice: Ending Manor Lords PC Gameplay Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006145462-fix-your-fortnite-login-issues-fast-expert-solutions/"><u>Fix Your Fortnite Login Issues Fast: Expert Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-call-of-duty-vanguard-error-code-5573-complete-guide/"><u>Fixing Call of Duty: Vanguard Error Code 5573 - Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-samsung-adb-drivers-instantly-here/"><u>Get Your Samsung ADB Drivers Instantly Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-stutter-and-hangs/"><u>Guide to Fixing Path of Exile Stutter and Hangs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-nba-2k24-gameplay-issues-a-step-by-step-guide-to-correcting-error-727e66ac/"><u>Resolve Your NBA 2K24 Gameplay Issues: A Step-by-Step Guide to Correcting Error 727E66ac</u></a></li>
+<li><a href="https://discover-great.techidaily.com/step-by-step-guide-to-setting-up-the-aliunde-plugin-on-your-kodi-device/"><u>Step-by-Step Guide to Setting Up the Aliunde Plugin on Your Kodi Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-superuser-access-challenges/"><u>Tackling Windows' Superuser Access Challenges</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y02t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y02T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/troubleshooting-roku-effective-fixes-for-mp4-format-issues/"><u>Troubleshooting Roku: Effective Fixes for MP4 Format Issues!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Star Wars Jedi: Fallen Order Failure to Start"
-date: 2024-08-23T17:29:14.733Z
-updated: 2024-08-24T17:29:14.733Z
+date: 2024-11-12T10:03:25.677Z
+updated: 2024-11-16T18:50:45.866Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e970228c987.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on **Microsoft Visual C++ 2013 Restributable**  and click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e970866556c.jpg)
@@ -71,6 +78,13 @@ Does this look familiar?
  4) Click **Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e97104a9d9a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes**  when asked by User Account Control.
 
@@ -90,6 +104,13 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e970228c987.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on **Microsoft Visual C++ 2013 Restributable**  and click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e972d8e48d8.jpg)
@@ -101,8 +122,12 @@ Does this look familiar?
  6) Reboot your Windows and run Acrobat Reader to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3 – Check for damaged system files
 
  Missing or corrupted system files can cause your applications to crash or malfunction. To check if your computer system is corrupted while optimizing its capabilities and performance, you could use a **[professional PC repair tool](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -114,21 +139,19 @@ Does this look familiar?
  2) Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Hopefully one of the methods above resolved the 0xc0000022 error on your PC. If you have any questions or suggestions, please feel free to leave a comment below.
 
 * [Application Errors](https://tools.techidaily.com/drivereasy/download/)
@@ -141,8 +164,6 @@ Does this look familiar?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +171,23 @@ Does this look familiar?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-visual-quests-hunt-for-pristine-pexels-images/"><u>[Updated] 2024 Approved Enhancing Visual Quests Hunt for Pristine Pexels Images</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unlocking-new-potentials-with-macos-11-big-sur/"><u>[Updated] 2024 Approved Unlocking New Potentials with macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-tech-video-magnifier-kit/"><u>[Updated] High-Tech Video Magnifier Kit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-zte-blade-a73-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to ZTE Blade A73 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-severe-errors-in-ark-software/"><u>Expert Advice on Overcoming Severe Errors in Ark Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-blackout-on-discord-during-screen-shares/"><u>How to Fix a Blackout on Discord During Screen Shares</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor 70 Lite 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-solutions-for-persistent-warzone-20-crashes-on-pcs/"><u>Mastering Stability: Effective Solutions for Persistent Warzone 2.0 Crashes on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-how-to-stop-windows-explorers-screen-flicker-when-using-chrome/"><u>Step-by-Step Fixes: How to Stop Windows Explorer's Screen Flicker When Using Chrome</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-non-opening-discord-app-running-again/"><u>Step-by-Step Guide to Get Your Non-Opening Discord App Running Again</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-hero-series-advance-from-4-to-5-for-2024/"><u>The Hero Series Advance From 4 to 5 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-starfield-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Resolving Starfield Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012852214-windows-11-users-rejoice-microsoft-edges-previous-crashing-problem-solved/"><u>Windows 11 Users Rejoice! Microsoft Edge's Previous Crashing Problem Solved.</u></a></li>
+</ul></div>
 

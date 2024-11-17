@@ -1,7 +1,7 @@
 ---
 title: PC Troubles? Solving Subnautica Below Zero Stability Issues Once and For All!
-date: 2024-08-19T16:57:56.987Z
-updated: 2024-08-20T16:57:56.987Z
+date: 2024-11-11T08:13:44.799Z
+updated: 2024-11-17T07:07:11.590Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,14 +50,15 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
@@ -71,8 +69,12 @@ thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066a
 If the issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Verify the integrity of game files
 
  Corrupted game files could also trigger game crashing issues. If it’s the case, you may need to verify if there’s an integrity issue with the game files.
@@ -82,9 +84,20 @@ If the issue persists, try the next fix below.
 1. Launch**Steam** and go to your**LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
@@ -114,6 +127,13 @@ If the issue persists, try the next fix below.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Perform a clean boot
 
  Metro Exodus PC Enhanced Edition may crash if it conflicts with another application on your PC. If don’t know which application conflicts with the game, it’s necessary to perform a clean boot.
@@ -127,24 +147,30 @@ To perform a clean boot, just follow the steps below:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -163,8 +189,6 @@ To perform a clean boot, just follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +196,26 @@ To perform a clean boot, just follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-convert-your-youtube-files-effortlessly-to-webm/"><u>[New] 2024 Approved Convert Your YouTube Files Effortlessly to WebM</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-storytelling-integrating-fun-custom-emojis/"><u>[New] Mastering Instagram Storytelling Integrating Fun, Custom Emojis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimizing-video-income-on-youtube-a-practical-guide/"><u>[Updated] 2024 Approved Optimizing Video Income on Youtube A Practical Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>[Updated] In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-freshly-taken-images-dissection-and-secondary-ideas/"><u>2024 Approved Freshly Taken Images Dissection & Secondary Ideas</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/bite-size-flavors-top-eating-moments-on-tiktok/"><u>Bite-Size Flavors Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-stabilizing-samurai-warriors-5-gameplay-on-your-computer-system/"><u>Effective Solutions for Stabilizing Samurai Warriors 5 Gameplay on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-f1-2021-solving-pc-performance-issues-and-frame-rate-dips/"><u>Fixing F1 2021: Solving PC Performance Issues and Frame Rate Dips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-fallout-76-stability-problems-and-stop-the-game-from-crashing/"><u>How to Resolve Fallout 76 Stability Problems and Stop the Game From Crashing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-revolutionize-your-room-strategies-to-record-clear-sound/"><u>In 2024, Revolutionize Your Room Strategies to Record Clear Sound</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-s17-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo S17 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-the-delay-a-deep-dive-into-why-guilty-gear-strive-is-postponed/"><u>Navigating Through the Delay: A Deep Dive Into Why 'Guilty Gear Strive' Is Postponed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/premier-audio-broadcasts-networks-for-2024/"><u>Premier Audio Broadcasts Networks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-bg-woes-top-6-solutions-to-baldurs-gate-lag-and-hitches/"><u>Resolving BG Woes: Top 6 Solutions to Baldur's Gate Lag and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-nier-gestaltreplicant-remaster-heres-what-to-do/"><u>Trouble with NieR Gestalt/Replicant Remaster? Here's What To Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-darkest-dungeon-2s-frequent-game-crashes-on-windows-pc/"><u>Troubleshooting Guide: Resolving Darkest Dungeon 2'S Frequent Game Crashes on Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-inability-to-update-or-retrieve-game-data-from-the-cloud/"><u>Troubleshooting Steam's Inability to Update or Retrieve Game Data From the Cloud</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-face-off-what-sets-pro-apart-from-express/"><u>Updated Final Cut Face-Off What Sets Pro Apart From Express</u></a></li>
+</ul></div>
 

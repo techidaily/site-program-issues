@@ -1,7 +1,7 @@
 ---
 title: Overcoming Challenges in Star Wars Battlefront II - Fix for Game Crashes Unveiled
-date: 2024-11-05T02:11:24.562Z
-updated: 2024-11-06T18:55:56.570Z
+date: 2024-11-09T16:30:40.708Z
+updated: 2024-11-17T08:55:29.745Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -49,27 +42,7 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if the game runs normally now. If not, move on to the second fix.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of your game files
 
@@ -81,6 +54,13 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
@@ -88,19 +68,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
 
@@ -110,18 +77,25 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -144,6 +118,13 @@ There are mainly two ways you can do the driver update:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -169,10 +150,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Origin
@@ -187,6 +168,13 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
@@ -198,13 +186,6 @@ There are mainly two ways you can do the driver update:
 **2)** Click the**cogwheel icon** in the upper right corner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Toggle off**In-Game Overlay** .
 
@@ -227,16 +208,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
@@ -246,6 +221,13 @@ There are mainly two ways you can do the driver update:
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -274,18 +256,24 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-delightful-stream-extractor-report/"><u>[New] 2024 Approved Delightful Stream Extractor Report</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-free-memery-masters-explore-and-share-joy/"><u>2024 Approved Free Memery Masters Explore & Share Joy</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/airpods-pro-two-years-in-do-they-continue-to-justify-the-hype/"><u>AirPods Pro: Two Years In, Do They Continue To Justify The Hype?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-webm-vers-ogg-gratuit-services-en-ligne-de-movavi/"><u>Conversion WebM Vers Ogg Gratuit - Services en Ligne De Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/"><u>Effective Solutions for Overcoming Dead by Daylight's Error 8014 Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/"><u>Effective Solutions for Preventing PC Malfunctions When Playing 'Battlefront II'</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-guide-to-creating-amazing-ig-films/"><u>In 2024, The Essential Guide to Creating Amazing IG Films</u></a></li>
-<li><a href="https://win-online.techidaily.com/perfektes-kopieren-ihrer-windows-10-festplatte-auf-einen-ssd-mithilfe-von-gparted-profi-tipps-und-andere-losungen/"><u>Perfektes Kopieren Ihrer Windows 10 Festplatte Auf Einen SSD Mithilfe Von GParted - Profi-Tipps Und Andere Lösungen</u></a></li>
-<li><a href="https://windows11.techidaily.com/prevent-chrome-from-saving-webp-images-in-windows/"><u>Prevent Chrome From Saving WebP Images in Windows</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/recuperation-facile-et-gratuite-de-donnees-sur-votre-disque-dur-externe-seagate-avec-ces-outils-logiciels-elites/"><u>Recuperation Facile Et Gratuite De Données Sur Votre Disque Dur Externe Seagate Avec Ces Outils Logiciels Elites !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-the-fifa-19-directx-issue-in-a-jiffy-expert-tips-inside/"><u>Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-resource-finding-and-updating-surface-book-2-driver-software-in-no-time/"><u>Ultimate Resource: Finding & Updating Surface Book 2 Driver Software in No Time</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-seo-essentials-for-climbing-the-youtube-popularity-ladder/"><u>[New] 2024 Approved SEO Essentials for Climbing the YouTube Popularity Ladder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reducing-decibels-gradually-in-fl/"><u>[New] Reducing Decibels Gradually in FL</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ubstitute-filmmaking-gems-at-7-spot-for-2024/"><u>[New] Substitute Filmmaking Gems at #7 Spot for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-zombification-extravaganza-8-epic-titles-ranked-for-2024/"><u>[New] Zombification Extravaganza - 8 Epic Titles Ranked for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-league-of-legends-lag-issue/"><u>[SOLVED] League of Legends Lag Issue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-boosting-your-windows-photos-feed-incorporating-audio-elements/"><u>[Updated] 2024 Approved Boosting Your Windows Photos Feed Incorporating Audio Elements</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-high-performance-camera-by-panasonic-fz80/"><u>Affordable High Performance Camera by Panasonic - FZ80</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-m34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Galaxy M34 5G has native HEVC support?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-vector-databases-contribute-to-improving-ai/"><u>How Do Vector Databases Contribute to Improving AI?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-ascent-game-continuously-crashing-on-your-computer/"><u>How to Fix the 'Ascent' Game Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-mute-google-meet/"><u>How to Mute Google Meet?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-resolve-bluetooth-issues-in-windows-11-comprehensive-troubleshooting-guide/"><u>How to Resolve Bluetooth Issues in Windows 11: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/invest-in-memories-at-a-cost-you-love-the-akaso-ek7000/"><u>Invest in Memories at a Cost You Love - The AKASO EK7000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-first-time-load-problems-fixing-the-black-screen-on-launch-for-helldivers-ii/"><u>Overcoming First-Time Load Problems: Fixing the Black Screen on Launch for Helldivers II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-heart-of-iron-iv-common-errors-a-comprehensive-guide/"><u>Resolving Heart of Iron IV Common Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-resolve-when-your-discord-client-wont-start-up/"><u>Steps to Resolve When Your Discord Client Won't Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-razer-synapse-cannot-open/"><u>Troubleshooting Tips: Overcoming 'Razer Synapse Cannot Open'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-the-hiccups-in-age-of-empires-4-gameplay/"><u>Troubleshooting Tips: Stop the Hiccups in Age of Empires 4 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-scavengers-keeping-you-from-gaming-on-your-computer/"><u>Ultimate Fix for Scavengers Keeping You From Gaming On Your Computer</u></a></li>
 </ul></div>
 

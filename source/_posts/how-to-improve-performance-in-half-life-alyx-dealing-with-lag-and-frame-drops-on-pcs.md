@@ -1,7 +1,7 @@
 ---
 title: "How to Improve Performance in 'Half-Life: Alyx': Dealing with Lag and Frame Drops on PCs"
-date: 2024-08-23T17:29:42.298Z
-updated: 2024-08-24T17:29:42.298Z
+date: 2024-11-14T03:39:14.101Z
+updated: 2024-11-16T18:11:30.969Z
 tags:
   - win11
   - win10
@@ -49,8 +49,12 @@ You may not have to try them all. Just choose the one you need.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver
 
  One of the most common causes of the low FPS issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -83,9 +87,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -96,9 +97,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
@@ -111,6 +109,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -119,10 +124,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Restart your computer, and then relaunch your game to see if this worked for you.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -138,9 +147,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
@@ -149,13 +167,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
@@ -166,23 +188,35 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Method 5: Overclock your GPU
 
  A slight overclock about by 10-15% can also improve your game’s performance. This is because overclocking your GPU can unlock the full potential of your graphics card and boost your FPS in Ring of Elysium. Check **[here](https://tools.techidaily.com/drivereasy/download/)**  to see how to do it.
@@ -203,8 +237,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +244,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-comprehensible-guide-to-efficient-zoom-capturing/"><u>[New] 2024 Approved Comprehensible Guide to Efficient Zoom Capturing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[New] 2024 Approved Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-master-the-art-of-earning-on-tiktok-a-guide-to-8-proven-techniques/"><u>[New] 2024 Approved Master the Art of Earning on TikTok A Guide to 8 Proven Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-8-stability-tools-for-high-definition-cameras/"><u>[Updated] 2024 Approved Best 8 Stability Tools for High-Definition Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-twist-techniques-for-tailoring-your-photos-on-the-fly/"><u>[Updated] Insta-Twist Techniques for Tailoring Your Photos on the Fly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-bug-blues-the-ultimate-guide-to-stop-insurgency-sandstorm-from-crashing/"><u>Banishing Bug Blues: The Ultimate Guide to Stop Insurgency Sandstorm From Crashing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comprehensive-tutorial-optimize-your-system-with-the-pc-health-check-application/"><u>Comprehensive Tutorial: Optimize Your System with the PC Health Check Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-control-difficulties-with-the-mouse-in-resident-evil-village/"><u>How to Overcome Control Difficulties with the Mouse in Resident Evil Village</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-a14-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy A14 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-pacific-drive-from-crashing-on-windows-and-mac-systems/"><u>Step-by-Step Guide: Stop Pacific Drive From Crashing on Windows and Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-perpetual-challenge-decoding-the-concepts-behind-eternal-black-return/"><u>The Perpetual Challenge: Decoding the Concepts Behind Eternal Black Return</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-corrupted-disks-in-steam-games-smoothly/"><u>Troubleshooting and Fixing Corrupted Disks in Steam Games Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-11-path-to-past-games-archive/"><u>Windows 11: Path to Past Games Archive</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of 'Like A Dragon': Achieve Unlimited Prosperity on Your PC"
-date: 2024-08-23T17:30:16.114Z
-updated: 2024-08-24T17:30:16.114Z
+date: 2024-11-10T09:29:58.246Z
+updated: 2024-11-17T05:37:29.228Z
 tags:
   - win11
   - win10
@@ -80,25 +80,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
@@ -107,20 +105,35 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
@@ -144,32 +157,44 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
 
@@ -180,8 +205,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 5: Overclock your GPU
 
  A slight overclock about by 10-15% can also improve your game’s performance. This is because overclocking your GPU can unlock the full potential of your graphics card and boost your FPS in Ring of Elysium. Check **[here](https://tools.techidaily.com/drivereasy/download/)**  to see how to do it.
@@ -202,8 +231,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +238,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/hannel-alchemy-turning-viewers-into-believers/"><u>[New] Channel Alchemy Turning Viewers Into Believers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-goovision-promax-high-res-os-capturer/"><u>[New] In 2024, GooVision ProMax High-Res OS Capturer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-30-whatsapp-biographies-for-every-astrology-follower/"><u>[Updated] Top 30 WhatsApp Biographies for Every Astrology Follower</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos/"><u>A Step-by-Step Approach for Creating & Merging Stunning HDR Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-fixes-for-dealing-with-stop-error-0x000n007b-a-comprehensive-guide/"><u>Essential Fixes for Dealing With Stop Error 0X000n007b: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-not-found-issue-when-trying-to-enter-fortnite/"><u>How to Fix the 'Not Found' Issue When Trying to Enter Fortnite</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-20-youtube-friendly-facebook-video-editors/"><u>In 2024, Top 20 YouTube-Friendly Facebook Video Editors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/last-epoch-wont-boot-on-your-pc-masterful-fixes-and-updates-for-a-seamless-gaming-experience-202n/"><u>Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-inclusive-mission-expanding-education-reach-to-70-millionplus/"><u>Mondly's Inclusive Mission: Expanding Education Reach to 70 Million+</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-fall-guys-not-starting-up-correctly-play-without-interruptions/"><u>Step-by-Step Fixes for Fall Guys Not Starting Up Correctly - Play Without Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-quick-fixes-with-ios-shortcuts-18-essential-techniques/"><u>Ultimate Guide to Quick Fixes with iOS Shortcuts – 18 Essential Techniques</u></a></li>
+</ul></div>
 

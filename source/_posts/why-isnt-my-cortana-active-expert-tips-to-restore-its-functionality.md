@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2024-11-01T23:40:27.537Z
-updated: 2024-11-06T21:45:33.973Z
+date: 2024-11-11T06:55:48.654Z
+updated: 2024-11-17T05:05:28.451Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
@@ -53,10 +53,16 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Region & language.**
@@ -81,15 +87,22 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -113,10 +126,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -136,28 +149,15 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -183,17 +183,15 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fixing-failed-video-uploads-on-facebook-live-features/"><u>[New] Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-techniques-for-fascinating-vlog-dialogue-structure/"><u>[New] Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor440/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-stutter-issues-in-fallout-4-a-complete-guide/"><u>Fixing Stutter Issues in Fallout 4 - A Complete Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-amd-radeon-drivers-on-your-windows-machine-free-download/"><u>How to Install AMD Radeon Drivers on Your Windows Machine: Free Download</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>In 2024, Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-t2x-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo T2x 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nailing-down-the-solution-your-definitive-guide-to-fixing-steam-error-code-130/"><u>Nailing Down the Solution: Your Definitive Guide to Fixing Steam Error Code 130</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-struggles-a-guide-to-fixing-red-dead-redemption-2s-initial-launch-problems/"><u>No More Struggles: A Guide to Fixing Red Dead Redemption 2'S Initial Launch Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-bulk-transformation-of-m2p-footage-to-high-quality-mp4-files/"><u>Step-by-Step Tutorial on Bulk Transformation of M2P Footage to High-Quality MP4 Files</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-j5-tactical-pro-flashlight-v1-reviewed-unmatched-resilience-in-a-compact-package/"><u>The J5 Tactical Pro Flashlight (V1) Reviewed: Unmatched Resilience in a Compact Package</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-oculus-links-dark-dilemma-in-just-six-steps/"><u>Troubleshoot Oculus Link's Dark Dilemma in Just Six Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-ipad-360-video-creation-for-facebook/"><u>[New] 2024 Approved The Ultimate iPad 360 Video Creation for Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[New] 2024 Approved Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-clearer-view-deeper-insight-zoom-techniques-in-videoleap/"><u>[New] Clearer View, Deeper Insight Zoom Techniques in Videoleap</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beautifying-videos-for-youtube-viewers/"><u>[Updated] In 2024, Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-warzone-directx-issues-four-effective-measures-detailed/"><u>Diagnosing and Fixing 'Warzone DirectX Issues' – Four Effective Measures Detailed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-prevent-and-resolve-gzw-crashes-on-your-computer-system/"><u>Effective Solutions to Prevent and Resolve GZW Crashes on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-smooth-gameplay-resolving-forza-horizon-5s-lag-complications/"><u>Enhancing Smooth Gameplay: Resolving Forza Horizon 5'S Lag Complications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-list-top-business-vault/"><u>Exclusive List Top Business Vault</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-rtx-3080-anomaly-buster-for-gamers/"><u>Nvidia's RTX 3080 Anomaly Buster for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-persistent-launch-problem-in-football-manager-202n/"><u>Troubleshooting the Persistent Launch Problem in Football Manager 202N</u></a></li>
 </ul></div>
 

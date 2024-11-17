@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting Your Origin Account Online Again"
-date: 2024-08-23T17:29:01.521Z
-updated: 2024-08-24T17:29:01.521Z
+date: 2024-11-11T06:42:46.588Z
+updated: 2024-11-17T00:52:34.550Z
 tags:
   - win11
   - win10
@@ -37,7 +37,21 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -49,9 +63,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
 There are mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
@@ -67,6 +78,13 @@ There are mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -84,15 +102,16 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
 
@@ -100,9 +119,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -111,9 +127,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -132,6 +145,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -140,9 +160,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -162,8 +179,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +186,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/1723011030971-fixed-grounded-crashing-on-pc-2024-tips/"><u>[Fixed] Grounded Crashing on PC - 2024 Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-extensions-for-speeding-up-facebook-videos-effortlessly/"><u>[Updated] In 2024, Top 10 Extensions for Speeding up Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-no-cost-dvd-extraction-tools-for-win10-and-win11-download-the-complete-software-packages/"><u>Best No-Cost DVD Extraction Tools for Win10 and Win11 - Download the Complete Software Packages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000252277-fix-overwatch-2s-startup-problems-in-202n-top-7-solutions-you-need-to-try/"><u>Fix Overwatch 2'S Startup Problems in 202N - Top 7 Solutions You Need to Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funimate-android-adventure-the-apk-breakdown/"><u>Funimate Android Adventure The APK Breakdown</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-x6-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-the-persistent-problem-of-vray-crashes-in-windows-or-mac-systems/"><u>How to Solve the Persistent Problem of Vray Crashes in Windows or Mac Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audible-annotators-top-selections-for-offline-text-conversion/"><u>In 2024, Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-edge-browser-freezes-and-closes-a-guide-for-windows-nix-users/"><u>Resolving Edge Browser Freezes and Closes: A Guide for Windows Nix Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-unseen-screen-blackouts/"><u>Resolving Unseen Screen Blackouts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-common-slowdowns-for-the-spotify-web-player-fixes-and-tips/"><u>Solve Common Slowdowns for the Spotify Web Player (Fixes and Tips)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-your-tower-of-fantasy-game-from-crashing-on-windows/"><u>Step-by-Step Guide: Stop Your Tower of Fantasy Game From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-chrome-from-freezing-in-windows-10-with-simple-fixes/"><u>Stop Chrome From Freezing in Windows 10 with Simple Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syncing-spotify-with-fitbit-a-guide-to-playing-tunes-during-workouts/"><u>Syncing Spotify with Fitbit: A Guide to Playing Tunes During Workouts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-7-key-points-you-shouldnt-ignore-for-smart-tv-shopping/"><u>The Ultimate Checklist: 7 Key Points You Shouldn't Ignore for Smart TV Shopping</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Broken Link Between You and Your Email: Outlook Connection Fixes"
-date: 2024-08-23T17:26:58.320Z
-updated: 2024-08-24T17:26:58.320Z
+date: 2024-11-11T06:28:08.180Z
+updated: 2024-11-17T02:20:36.151Z
 tags:
   - win11
   - win10
@@ -64,8 +64,12 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Avoid obstructions between the console/computer and the WiFi source whenever possible, especially large appliances or other electronics.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3\. Update your network adapter driver
 
  If you are unable to get past sign-in due to “**Unable to Connect** ” and changing to a wired connection still doesn’t work then there might be something with your network adapter driver or your network settings. Try updating or reinstalling the network adapter driver and check if it fixes the ‘**You have lost connection to the Destiny 2 servers** ‘ error.
@@ -80,24 +84,19 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4\. Perform a network reset
 
@@ -106,9 +105,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. In the Windows search box, type**cmd** . Under**Command Prompt** , select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 2. Click**OK** to confirm your action.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Once the Command Prompt window is open, type the following command lines (press**Enter** after entering each command line):  
 **`netsh winsock reset`**  
 **`netsh int ip reset`**  
@@ -119,8 +115,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 4. You’ll need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5\. Change your DNS server
 
  Some Destiny players find it helps when they change the DNS server to Google 8.8.8.8 and 4.4.4.4\. Below you’ll find the exact steps to do that:
@@ -131,14 +131,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Right-click your current network connection, and select**Properties** .  
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -146,29 +148,42 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6\. Enable UPnP or Port Forwarding
 
  If you worked hard through the basic troubleshooting guide but still the error ‘**You have lost connection to the Destiny 2 servers** ‘ persists, you can try setting up UPnP or Port Forwarding (we don’t recommend doing both of them).
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Option 1\. Enable UPnP
 
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Get your Router’s internal IP (Default Gateway) by entering**ipconfig** in Command Prompt.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2\. Enable Port Forwarding
 
@@ -183,11 +198,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -206,9 +225,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click **OK**  to apply.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -261,8 +277,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +284,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-masterclass-in-high-speed-recording/"><u>[New] Masterclass in High-Speed Recording</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics and Personalization</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-corsair-icue-software-malfunctions-for-windows-1011-users/"><u>Diagnosing and Repairing Corsair iCUE Software Malfunctions for Windows 10/11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-warzone-not-using-gpu-issues-in-windows-10-systems/"><u>Diagnosing and Solving 'Warzone Not Using GPU' Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-game-time-continuity-the-complete-breakdown-and-assessment-of-a-premium-gamers-power-backup-solution/"><u>Enhancing Game-Time Continuity: The Complete Breakdown and Assessment of a Premium Gamer's Power Backup Solution</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/locating-your-wi-fi-key-on-windows-11-a-step-by-step-guide/"><u>Locating Your Wi-Fi Key on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-motion-tracking-apps-on-mobile-for-2024/"><u>New The Ultimate Guide to Motion Tracking Apps on Mobile for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-overcoming-lags-and-jitters-in-splitgates-fps/"><u>Optimize Your Gaming Experience: Overcoming Lags & Jitters in Splitgate's FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-for-maplestory-startup-error-get-back-to-adventure/"><u>Solution Found for MapleStory Startup Error – Get Back to Adventure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877316-9781632658852-the-ghost-studies/"><u>The Ghost Studies | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-crucial-impact-of-tech-experts-on-businesses-embracing-a-no-tech-approach-insights-from-zdnet/"><u>Unveiling the Crucial Impact of Tech Experts on Businesses Embracing a No-Tech Approach: Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-immortals-fenyx-risings-release-date-went-awry-now-clarified/"><u>Why Immortals Fenyx Rising's Release Date Went Awry [Now Clarified]</u></a></li>
+</ul></div>
 

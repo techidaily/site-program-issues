@@ -1,7 +1,7 @@
 ---
 title: "Resolving Graphics Glitches & Freezes: Ultimate Minecraft PC Fixes for Gamer Sweetheart"
-date: 2024-10-31T23:05:18.470Z
-updated: 2024-11-06T17:31:11.537Z
+date: 2024-11-09T23:33:28.620Z
+updated: 2024-11-17T04:30:26.056Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -38,18 +45,25 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
-Check if the game runs normally now. If not, move on to the second fix.
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Check if the game runs normally now. If not, move on to the second fix.
 
 ### Fix 2 – Verify the integrity of your game files
 
@@ -77,11 +91,25 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -99,6 +127,13 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -110,6 +145,13 @@ There are mainly two ways you can do the driver update:
 
  If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Turn off overlays
 
  If you’re using the overlay feature, that might be the reason for Star Wars Squadrons crashing. You can follow the instruction below to turn it off on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Origin](https://tools.techidaily.com/drivereasy/download/)**  and **[NVIDIA GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -119,13 +161,6 @@ There are mainly two ways you can do the driver update:
 **1)** Launch Steam and go to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
@@ -152,10 +187,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On GeForce Experience
@@ -166,32 +201,11 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Toggle off**In-Game Overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -207,13 +221,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
@@ -223,13 +230,6 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall the game
 
@@ -256,22 +256,18 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-fixing-obss-full-screen-freeze-up/"><u>[New] In 2024, Fixing OBS's Full-Screen Freeze Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-assassins-creed-valhalla-stuttering-on-pc/"><u>[SOLVED] Assassin’s Creed Valhalla Stuttering on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-resisting-insta-imposters-protect-your-profiles-prestige/"><u>[Updated] Resisting Insta Imposters Protect Your Profile's Prestige</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/clear-screens-ahead-no-more-black-windows/"><u>Clear Screens Ahead: No More Black Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-step-by-step-solution-resolving-fifa-21-pc-game-crashes/"><u>Complete Step-by-Step Solution: Resolving FIFA 21 PC Game Crashes</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-address-rainbow-six-siege-network-problems/"><u>Effective Solutions to Address Rainbow Six Siege Network Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-why-your-nvidia-graphics-overlay-might-be-malfunctioning/"><u>Fixing Issues: Why Your Nvidia Graphics Overlay Might Be Malfunctioning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-far-cry-5-endlessly-looping-on-launch/"><u>Fixing: Far Cry 5 Endlessly Looping on Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-rid-of-freezing-frustrations-expert-advice-to-keep-chrome-running-smoothly-in-windows-11/"><u>Get Rid of Freezing Frustrations: Expert Advice to Keep Chrome Running Smoothly in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Phone with Broken Screen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-speed-on-thin-ice-top-performances-from-the-olympics/"><u>In 2024, Speed on Thin Ice Top Performances From the Olympics</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/itech-data-rescue-toolkit-retrieval-made-easy-and-reliable/"><u>ITech Data Rescue Toolkit: Retrieval Made Easy & Reliable</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-avi-video-concatenators-top-10-tools-for-smooth-joining/"><u>New 2024 Approved Free AVI Video Concatenators Top 10 Tools for Smooth Joining</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-starcraft-amoled-on-computer-errors-and-solutions/"><u>Troubleshooting Common Starcraft Amoled on Computer Errors and Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiling-the-money-map-a-3-step-guide-for-calculating-your-youtube-income/"><u>[New] 2024 Approved Unveiling the Money Map A 3-Step Guide for Calculating Your YouTube Income</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-redefine-your-sonic-world-with-sony-ps4ps5/"><u>[Updated] In 2024, Redefine Your Sonic World with Sony PS4/PS5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012943877-beat-the-bug-effective-ways-to-prevent-titanfall-2-crashes-now/"><u>Beat the Bug: Effective Ways to Prevent Titanfall 2 Crashes Now!</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/complete-step-by-step-guide-to-enhance-and-maintain-your-acer-nitro-5-an5-upgrade-for-optimal-results/"><u>Complete Step-by-Step Guide to Enhance & Maintain Your Acer Nitro 5 AN5# Upgrade for Optimal Results</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counterstrikes-successor-modern-warfare-fixed-app-continues-to-run-smoothly-after-update/"><u>Counterstrike's Successor, Modern Warfare - Fixed App Continues to Run Smoothly After Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-pathway-for-webp-to-jpg-transformation/"><u>Expert Pathway for WebP-to-JPG Transformation</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-often-should-you-charge-your-airtags-duration-of-use-explored/"><u>How Often Should You Charge Your AirTags? Duration of Use Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-100-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 100 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-rise-of-the-tomb-raider-ring-of-elysium-crash-issues/"><u>Step-by-Step Guide to Fixing Rise of the Tomb Raider (Ring of Elysium) Crash Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-hilarious-memes/"><u>Step-by-Step Guide to Hilarious Memes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-controller-problems-now-quick-fixes-guaranteed/"><u>Stop Controller Problems Now - Quick Fixes Guaranteed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-your-computer-solve-those-persistent-pacific-drive-malfunctions-easily/"><u>Trouble with Your Computer? Solve Those Persistent Pacific Drive Malfunctions Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Troubleshooting Guide: Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
 </ul></div>
 

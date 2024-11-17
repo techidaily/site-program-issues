@@ -1,7 +1,7 @@
 ---
 title: Resolving Load Errors in Football Manager 202N - Tips & Tricks
-date: 2024-08-19T16:57:56.024Z
-updated: 2024-08-20T16:57:56.024Z
+date: 2024-11-13T23:48:18.119Z
+updated: 2024-11-16T22:46:57.189Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
 [6: Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Unsubscribe from all the workshop items
 
  Outdated or damaged workshop items could interfere with the game when it’s launching. If your FM21 gets stuck on loading screen, you should try removing all the workshop files first:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 4. Click**OK** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/confirm-unsubscription.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve unsubscribed all the workshop items and the game still won’t load, try the next fix.
 
 ## Fix 2: Verify your game files
@@ -58,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 1. Go to your Steam library and find FM21\. Right-click the game icon then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 3. Wait for Steam to complete the scan. It will take some time depending on the size of the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 #### On Epic Games Launcher
 
@@ -78,8 +92,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If verifying the game files doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Delete the preferences and/or cache folder(s)
 
  It’s suggested by SEGA to delete your preferences and/or cache folder(s) to solve the error of FM21 being stuck on loading screen. Here’s how:
@@ -102,9 +120,6 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Right-click an empty area on your desktop, select**New** and click**Folder** . You can name this new folder as “backup FM21” to distinguish it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/new-folder.jpg)
 2. Navigate to **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021** .
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Cut all the folders here and paste them into the new folder you created on the desktop.
 4. Launch Football Manager 2021 to test the issue. If the game now loads, you can copy the game files back to the original installation path.
 
@@ -133,8 +148,12 @@ If the game still gets stuck on loading screen, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -153,15 +172,17 @@ If the game still gets stuck on loading screen, try the next fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -174,12 +195,17 @@ If the game still gets stuck on loading screen, try the next fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch FM21\. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat steps 2 and 3 above until you find the service that conflicts with FM21.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -191,9 +217,14 @@ If the game still gets stuck on loading screen, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Football Manager 2021.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with FM21.
 5. Disable the problem program and reboot your PC.
 
@@ -211,8 +242,6 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +249,23 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos-for-2024/"><u>[New] Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-immersive-gameplay-capturing-with-camrecorder-pro/"><u>[Updated] 2024 Approved Immersive Gameplay Capturing with CamRecorder Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-woes-no-more-successful-fix-for-common-display-issues-explained/"><u>Black Screen Woes No More: Successful Fix for Common Display Issues Explained</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boosting-performance-fix-insufficient-specifications/"><u>Boosting Performance: Fix Insufficient Specifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-cod-warzones-dev-error-6634-updated-tips-and-tricks/"><u>Comprehensive Fix for COD Warzone's Dev Error 6634 - Updated Tips & Tricks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-power-of-m4-ipad-pro-and-its-ai-synergy-at-the-upcoming-apple-worldwide-developers-conference/"><u>Exploring the Future Power of M4 iPad Pro and Its AI Synergy at the Upcoming Apple Worldwide Developers Conference</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-lag-issues-and-improve-frame-rate-in-call-of-duty-warzone-expert-tips-inside/"><u>Fix Lag Issues & Improve Frame Rate in Call of Duty Warzone - Expert Tips Inside!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/gif-magic-on-mac-leading-tools-of-10-for-2024/"><u>GIF Magic on Mac Leading Tools of 10 for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-using-the-same-phone-number-on-laptop-tablet-and-smartphone/"><u>Maximize Efficiency: Using the Same Phone Number on Laptop, Tablet & Smartphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-bloodhunt-how-to-stop-it-from-freezing-or-crashing-on-windows/"><u>Overcoming Technical Hurdles in BloodHunt: How to Stop It From Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pythonic-approaches-for-gpt-3-engagement/"><u>Pythonic Approaches for GPT-3 Engagement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-to-eliminating-fortnites-latency-problems/"><u>Resolved: Ultimate Guide to Eliminating Fortnite's Latency Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000981836-step-by-step-fixes-for-warzones-notorious-dev-error-5573-pc-edition-and-console-tips-included/"><u>Step-by-Step Fixes for Warzone's Notorious Dev Error #5573: PC Edition & Console Tips Included!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991454756-troubleshooting-euro-truck-simulator-2-for-optimal-performance-and-no-more-pc-crashes/"><u>Troubleshooting Euro Truck Simulator 2 for Optimal Performance & No More PC Crashes!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-ms-office-erase-error-code-0x80041015/"><u>Unlocking Windows MS Office: Erase Error Code 0X80041015</u></a></li>
+</ul></div>
 

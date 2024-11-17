@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Gas Station Simulation Software Continuous PC Crashes"
-date: 2024-08-23T17:28:18.889Z
-updated: 2024-08-24T17:28:18.889Z
+date: 2024-11-16T09:44:37.715Z
+updated: 2024-11-16T23:55:18.961Z
 tags:
   - win11
   - win10
@@ -45,8 +45,12 @@ thumbnail: https://thmb.techidaily.com/0f935ebe417d47bcf2165f433dd2058985bf2be66
  If Watch Dogs: Legion crashes on your high-end gaming PC, you can continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes may indicate an**integrity issue** with your game files. If that’s the case, you can expect**constant crashes at a specific scene or mode** .
@@ -60,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/0f935ebe417d47bcf2165f433dd2058985bf2be66
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now you can launch Watch Dogs: Legion and see if it crashes again.
 
  If Watch Dogs: Legion crashes after verifying your game files, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, one tackles security issues and another offers a periodic performance boost. In most cases,**keeping your system up-to-date** can avoid lots of strange issues.
@@ -85,6 +90,19 @@ Here’s a quick guide:
  Once you’ve installed all the system updates, restart your computer and test your gameplay in Watch Dogs: Legion.
 
  If this method doesn’t give you luck, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -109,9 +127,6 @@ Here’s a quick guide:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -132,24 +147,32 @@ So here’s how:
 2. From the left menu, select**Properties** . Then scroll down to the bottom. Under the**Game Launch arguments** section, click**Add command line arguments** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-02.jpg)
 3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can launch Watch Dogs: Legion and check if the crash stops.
 
  If this trick doesn’t help your case, simply**undo the changes** and continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Stop overclocking your hardware
 
  As we all know that**overclocking** is basically a zero-cost performance booster, be advised that it could also trigger**instability** of your game or system. So if you’re running overclocking software like**MSI Afterburner** and**Intel Extreme Tuning Utility (Intel XTU)** , or you’re overclocking using**BIOS settings** , try disabling them and check if Watch Dogs: Legion crashes again.
@@ -157,8 +180,12 @@ Now you can launch Watch Dogs: Legion and check if the crash stops.
  If you’re not overclocking your hardware, simply check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Disable in-game V-Sync
 
  V-Sync is**Vertical Sync** for short. It’s a graphics technology that synchronizes the frame rate of a game and the refresh rate of your monitor. While V-Sync could be the solution to the screen-tearing issue, there have been reports that this feature could also be the culprit of game crashing. So you can try to disable V-Sync in Watch Dogs: Legion and see how things go.
@@ -168,15 +195,16 @@ To do so, simply follow these steps:
 1. Open Watch Dogs: Legion and go to**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-01.jpg)
 2. Select**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-2.jpg)
 3. Set V-Sync to**Off** . Then on your keyboard, press the**space bar** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can test your gameplay in Watch Dogs: Legion.
 
@@ -192,8 +220,6 @@ Now you can test your gameplay in Watch Dogs: Legion.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +227,21 @@ Now you can test your gameplay in Watch Dogs: Legion.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-direct-match-twitchs-battle-against-youtubes-dominance/"><u>[New] 2024 Approved Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-world-of-instagram-and-podcast-sharing/"><u>[Updated] Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gameplay-solving-fps-drops-in-outriders-effectively/"><u>Boost Your Gameplay: Solving FPS Drops in Outriders Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-motorola-moto-g14-by-fonelab-android-recover-video/"><u>How to recover old videos from your Motorola Moto G14</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-collaborative-branding-strategies-in-digital-media/"><u>In 2024, Collaborative Branding Strategies in Digital Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a15-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A15 4G Face Lock?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>In 2024, Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-error-code-727e66ac-2024-on-nba-2k24-effective-fix-strategies-revealed/"><u>Mastering Error Code 727E66ac-2024 on NBA 2K24: Effective Fix Strategies Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-solving-nox-player-stability-issues-on-your-computer/"><u>No More Freezing: Solving Nox Player Stability Issues on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-naraka-bladepoint-crashes-for-smooth-gaming-experience/"><u>Solving Naraka: Bladepoint Crashes for Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-pc-crashes-in-slime-rancher-2/"><u>Troubleshooting Guide: Resolving PC Crashes in Slime Rancher 2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X50s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-and-your-hardware-optimizing-gpu-performance-on-windows-11-devices/"><u>Warzone and Your Hardware: Optimizing GPU Performance on Windows 11 Devices</u></a></li>
+</ul></div>
 

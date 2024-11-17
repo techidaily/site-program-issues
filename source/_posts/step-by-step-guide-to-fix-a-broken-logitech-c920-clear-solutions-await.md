@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix a Broken Logitech C920 - Clear Solutions Await
-date: 2024-08-23T17:29:53.285Z
-updated: 2024-08-24T17:29:53.285Z
+date: 2024-11-12T17:50:40.751Z
+updated: 2024-11-17T07:54:32.715Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 4. [Disable conflict apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Go to privacy settings
 
  The problem may be caused by Windows Privacy settings. It’s possible that Windows Privacy blocks the Logitech Webcam.
@@ -40,8 +47,12 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -50,14 +61,8 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
 7. Then install it and reboot it to check.
@@ -77,11 +82,22 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update drivers
 
@@ -95,13 +111,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,9 +134,12 @@ OR
 2. Find the conflicting app and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -133,9 +156,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -149,8 +169,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +176,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-edge-design-tips-for-compelling-video-thumbnails/"><u>[Updated] YouTube's Edge Design Tips for Compelling Video Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-implementing-video-transcripts-via-youtube-captions/"><u>2024 Approved Implementing Video Transcripts via YouTube Captions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-into-vector-artistry-essentials-types-and-software-choices/"><u>Dive Into Vector Artistry Essentials, Types & Software Choices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-income-through-the-science-of-youtube-trailer-creation-for-2024/"><u>Enhancing Income Through the Science of YouTube Trailer Creation for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-modern-warfare-2-from-crashing-on-your-pc-top-tricks-and-fixes/"><u>How to Stop 'Modern Warfare 2' From Crashing on Your PC - Top Tricks and Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-schedule-effective-reliable-virtual-team-meetings-with-google/"><u>In 2024, How to Schedule Effective, Reliable Virtual Team Meetings with Google</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-game-software-problems-heres-how-to-get-them-working-again/"><u>Logitech Game Software Problems? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-telephonic-job-assessments-key-techniques-for-advancing-to-face-to-face-discussions/"><u>Mastering Telephonic Job Assessments: Key Techniques for Advancing to Face-to-Face Discussions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-video-techniques-top-10-edits-for-2024/"><u>Professional Video Techniques Top 10 Edits for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pursuing-perfection-on-track-compiling-top-5-simulators/"><u>Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-end-game-trouble-a-guide-to-addressing-the-tfla0002-issue/"><u>Solving the End-Game Trouble: A Guide to Addressing the 'TFLA0002' Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-common-issues-with-halo-infinites-sound/"><u>Troubleshooting Guide: Resolving Common Issues with Halo Infinite's Sound</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-free-mp3-skype-call-logger-for-2024/"><u>Ultimate Free MP3 Skype Call Logger for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-infinity-the-philosophy-of-the-eternal-return-in-black-thrillers/"><u>Unraveling Infinity: The Philosophy of the 'Eternal Return' In Black Thrillers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Launching Origin Games on Windows OS Versions 10 & 11
-date: 2024-08-23T17:27:49.963Z
-updated: 2024-08-24T17:27:49.963Z
+date: 2024-11-15T04:15:57.699Z
+updated: 2024-11-17T07:57:12.657Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02-1.jpg)
@@ -62,8 +69,12 @@ It’s frustrating when you experience the launching problem when playing Age of
 If AoE still won’t launch, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Often times when a game fails, the main culprit behind this is your graphics card driver. You may be using a faulty graphics driver or it’s outdated, which causes the game to crash.
@@ -87,15 +98,16 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of your game files
 
  Corrupt or missing game files can also cause your game to fail. If you’re playing the game on Steam, you can verify the integrity of your game files. Follow the instructions below:
@@ -110,18 +122,12 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
@@ -142,8 +148,12 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
@@ -160,20 +170,57 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
@@ -193,9 +240,6 @@ If your game still won’t load, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Restart your computer and your game.
 
  Hopefully, one of the fixes here worked for you. Please let me know if you have any questions or suggestions, or if you resolved this issue in some other ways. I would love your thoughts.
@@ -212,8 +256,6 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +263,22 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>[New] In 2024, Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-comprehensive-guide-to-achieving-smooth-color-keying/"><u>[Updated] In 2024, A Comprehensive Guide to Achieving Smooth Color-Keying</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quick-and-reliable-vimeo-file-retrievers/"><u>[Updated] Quick and Reliable Vimeo File Retrievers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-cod-black-ops-cold-war-wont-start-on-pc/"><u>Fixes & Solutions: Cod: Black Ops Cold War Won't Start on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hearing-is-believing-eliminate-sound-glitches-in-roblox-on-your-latest-windows-platforms/"><u>Hearing Is Believing: Eliminate Sound Glitches in Roblox on Your Latest Windows Platforms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a1x-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo A1x 5G?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fixes-to-overcome-tekken-8-not-opening-woes-on-your-computer-system/"><u>Master the Fixes to Overcome Tekken 8 Not Opening Woes on Your Computer System</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-maplestory-failed-load-problems/"><u>Resolved: Fixes for MapleStory Failed Load Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-minecraft-crashing-unresponsive-on-windows/"><u>Resolving the Issue of Minecraft Crashing Unresponsive on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-disruptions-solving-the-age-of-empires-4-stability-issue-on-pc/"><u>Say Goodbye to Disruptions: Solving the Age of Empires 4 Stability Issue on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-palworlds-search-session-problems/"><u>Step-by-Step Solution: Overcoming Palworld's Search Session Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-fix-overcoming-no-sound-glitches-in-playerunknowns-battlegrounds-pubg/"><u>The Complete Fix: Overcoming No Sound Glitches in PlayerUnknown's Battlegrounds (PUBG)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-8-hd-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 8 HD Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-artificial-intelligence-is-not-the-safe-bet-for-obtaining-authentic-windows-amo-key-codes/"><u>Why Artificial Intelligence Is Not the Safe Bet for Obtaining Authentic Windows Amo Key Codes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/your-vlogging-journey-starts-here-essentials/"><u>Your Vlogging Journey Starts Here Essentials</u></a></li>
+</ul></div>
 

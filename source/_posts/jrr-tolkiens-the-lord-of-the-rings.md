@@ -1,7 +1,7 @@
 ---
 title: J.R.R Tolkien's The Lord of the Rings
-date: 2024-08-23T17:27:57.112Z
-updated: 2024-08-24T17:27:57.112Z
+date: 2024-11-10T07:25:00.602Z
+updated: 2024-11-16T22:47:09.790Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ There is nothing more frustrating than buying a video game and not being able to
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If Wolcen won’t start on your computer, it’s possible that one or more game files are corrupted and are conflicting with the game.
@@ -43,6 +50,13 @@ There is nothing more frustrating than buying a video game and not being able to
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click **Wolcen: Lords of Mayhem**  and select **Properties** .
 
@@ -58,9 +72,6 @@ There is nothing more frustrating than buying a video game and not being able to
 
 If your game is still unplayable, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Clear game cache folders
 
  Game cache files accumulated on your computer will affect your gaming performance and cause errors. To see if the Wolcen launching problem is caused by this, follow the instructions below to see how to delete game cache folders:
@@ -75,13 +86,30 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-20.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Right-click the **Steam folder** and select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Restart Lords of Mayhem to check if it starts correctly now.
 
 If the game still won’t load, move on to the next fix.
@@ -105,6 +133,19 @@ If the game still won’t load, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-22-14.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -127,17 +168,10 @@ If the game still won’t load, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-07-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-07-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Try launching your game from Steam.
 
 If the Wolcen still won’t launch, then go ahead with the next fix.
@@ -152,9 +186,6 @@ If the Wolcen still won’t launch, then go ahead with the next fix.
 
 If this didn’t work for you, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 6: Turn off unnecessary programs
 
  If you’re running multiple programs at the same time during gameplay, your PC might get overloaded and cause your game to fail. So, you should turn off unnecessary programs during gameplay. Here is how to do it:
@@ -169,9 +200,6 @@ If this didn’t work for you, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-10-40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Relaunch your game to see if this fixed your issue.
 
  If Lords of Mayhem still won’t launch, read on and try the fix below.
@@ -187,25 +215,29 @@ If this didn’t work for you, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-25-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-26-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then try launching the game to see if it runs properly.
 
 If not, try the last solution, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 8: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s probable that a recent update is preventing Wolcen: Lords of Mayhem from launching correctly, and a new update is needed to fix it. So, you should check if there are any updates available. Here is how to do it:
@@ -215,8 +247,12 @@ If not, try the last solution, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-24.jpg)
@@ -237,8 +273,6 @@ If not, try the last solution, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +280,18 @@ If not, try the last solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>[New] A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-the-unwanted-darkness-fixes-for-fortnites-visual-hiccup-on-windows-systems/"><u>Banishing the Unwanted Darkness: Fixes for Fortnite's Visual Hiccup on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-fps-decreases-for-better-gaming-experience/"><u>Expert Advice on Overcoming FPS Decreases for Better Gaming Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-comparison-of-leading-apc-uninterruptible-power-supplies-for-gaming-rigs/"><u>Expert Comparison of Leading APC Uninterruptible Power Supplies for Gaming Rigs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-never-ending-snapstreaks/"><u>In 2024, The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-pc-crash-errors-in-hyper-scape-a-complete-fix-guide/"><u>Say Goodbye to PC Crash Errors in Hyper Scape: A Complete Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/smooth-loop-setup-tailoring-youtube-content-for-television-for-2024/"><u>Smooth Loop Setup Tailoring YouTube Content for Television for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-play-fortnite-solving-you-dont-have-permission-to-play-problems/"><u>Why Can’t I Play Fortnite? Solving 'You Don't Have Permission to Play' Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-read-qr-codes-discover-10-effective-remedies/"><u>Why Won't My iPhone Read QR Codes? Discover 10 Effective Remedies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experience Smooth Play with Yakuza 6 on PC - Crash No More
-date: 2024-10-31T00:07:10.259Z
-updated: 2024-11-07T00:10:35.695Z
+date: 2024-11-13T03:59:10.362Z
+updated: 2024-11-16T21:21:47.177Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -48,13 +55,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -63,16 +63,16 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
@@ -100,16 +100,16 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4:**Disable fullscreen optimization**
 
@@ -156,6 +156,13 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -167,10 +174,10 @@ There are two ways you can get the right graphics driver:
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Verify the integrity of your game files
@@ -185,13 +192,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
@@ -199,19 +199,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
@@ -226,13 +213,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -279,15 +259,22 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall _Hearts of Iron IV_ .
@@ -328,6 +315,13 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -353,22 +347,24 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/urating-the-best-video-game-openers-on-yt-no-money-max-impact-in-2024/"><u>[New] Curating the Best Video Game Openers on YT No Money, Max Impact, In 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-demystifying-vimeo-top-choice-for-filmmakers-for-2024/"><u>[New] Demystifying Vimeo Top Choice for Filmmakers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>[New] Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-inspiration-on-a-plate-top-20-instagram-food-photos/"><u>2024 Approved Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-steps-for-unlocking-stuck-obs-fullscreen-mode/"><u>2024 Approved Steps for Unlocking Stuck OBS Fullscreen Mode</u></a></li>
-<li><a href="https://win-guides.techidaily.com/comment-restaurer-vos-signets-precieux-dans-google-chrome-5-methodes-simples/"><u>Comment Restaurer Vos Signets Précieux Dans Google Chrome - [5 Méthodes Simples]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/embrace-the-odyssey-dive-into-the-god-of-war-action-as-an-fps-now-available-for-pc-gamers/"><u>Embrace the Odyssey: Dive Into the God of War Action as an FPS, Now Available for PC Gamers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-electronics-with-tom-in-depth-hardware-guides/"><u>Exploring Electronics with Tom: In-Depth Hardware Guides</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-google-chrome-wont-launch/"><u>Fixing the Issue: Why Google Chrome Won't Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-issues-during-content-warning-scenarios/"><u>Fixing Voice Communication Issues During Content Warning Scenarios</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mice-on-the-move-post-blackout-win11/"><u>Mice on the Move Post-Blackout Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-frame-rate-drops-and-stutter-issues-on-naraka-bladepoint/"><u>Solve Frame Rate Drops & Stutter Issues on Naraka: Bladepoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-vr-not-showing-up-try-these-essential-fixes-to-make-it-work-now/"><u>Steam VR Not Showing Up? Try These Essential Fixes to Make It Work Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-ensuring-stability-and-preventing-fails-in-world-rally-championship-10-gameplay-across-pcs/"><u>Troubleshooting Guide: Ensuring Stability and Preventing Fails in World Rally Championship '10 Gameplay Across PCs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-ranking-top-5-elite-ipod-video-converter-apps-reviewed/"><u>Ultimate Ranking: Top 5 Elite iPod Video Converter Apps Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solutions-resolving-fifa-21-pc-crashes-a-comprehensive-tutorial/"><u>Ultimate Solutions: Resolving FIFA 21 PC Crashes – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-remote-server-settings-fix-connection-lost-errors-instantly/"><u>Unlock Remote Server Settings - Fix 'Connection Lost' Errors Instantly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unparalleled-free-console-reproduction-software/"><u>[New] 2024 Approved Unparalleled Free Console Reproduction Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ive-into-makers-earnings-exploring-youtube-shorts-revenue-structure-for-2024/"><u>[New] Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-balancing-act-creative-freedom-vs-major-company-support/"><u>[Updated] The Balancing Act Creative Freedom vs Major Company Support</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-game-stutters-with-high-fps-proven-fixes-and-tips-for-gamers-in-202-cuffing-how-to-attain-seamless-gaming-at-optimal-frames-per-second/"><u>Beat Game Stutters with High FPS: Proven Fixes and Tips for Gamers in 202 Cuffing - How to Attain Seamless Gaming at Optimal Frames Per Second</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-and-convert-photos-into-dynamic-videos-in-pixiz/"><u>Capture and Convert Photos Into Dynamic Videos in Pixiz</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-the-most-out-of-subnautica-beneath-the-waves-by-fixing-pc-compatibility-issues/"><u>Get the Most Out of Subnautica Beneath The Waves by Fixing PC Compatibility Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-msi-afterburners-inability-to-detect-gpu-in-windows-10-or-11-systems/"><u>How to Resolve MSI Afterburner's Inability to Detect GPU in Windows 10 or 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-mount-and-blade-2-bannerlord-from-unexpectedly-exiting-solutions-found/"><u>How to Stop Mount & Blade 2: Bannerlord From Unexpectedly Exiting - Solutions Found</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-video-trendsetters-top-likers-and-viewers-on-twitter/"><u>In 2024, Prime Video Trendsetters Top Likers & Viewers on Twitter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-seamless-gaming-tips-to-achieve-ultra-high-fps-and-end-stuttering-for-good/"><u>Master the Art of Seamless Gaming : Tips to Achieve Ultra-High FPS and End Stuttering for Good</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-best-retailers-for-a-wide-selection-of-phones/"><u>Navigating the Best Retailers for a Wide Selection of Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-guide-tackling-sifus-fluctuating-fps-and-eliminating-stutters-for-optimal-play/"><u>PC Gaming Guide: Tackling 'Sifu's' Fluctuating FPS & Eliminating Stutters for Optimal Play</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-images-backup-portals-for-2024/"><u>Premier Images Backup Portals for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playstation-exclusive-title-days-gone-pc-startup-problems-easily/"><u>Resolving PlayStation Exclusive Title Days Gone PC Startup Problems Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity-in-2024/"><u>The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-high-ping-and-lag-in-chivalry-ii-top-strategies/"><u>Ultimate Guide to Resolving High Ping & Lag in Chivalry II: Top Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-mystery-a-comprehensive-guide-to-apples-freeform-app-usage/"><u>Unveiling the Mystery: A Comprehensive Guide to Apple’s Freeform App Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-wont-start-on-pc-heres-how-to-solve-it-in-2easy-steps/"><u>Valorant Won't Start on PC? Here's How to Solve It in 2Easy Steps</u></a></li>
 </ul></div>
 

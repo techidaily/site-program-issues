@@ -1,7 +1,7 @@
 ---
 title: Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics
-date: 2024-11-03T23:51:30.338Z
-updated: 2024-11-07T00:37:55.771Z
+date: 2024-11-12T00:33:04.136Z
+updated: 2024-11-17T09:18:03.027Z
 tags:
   - win11
   - win10
@@ -80,16 +80,16 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
@@ -144,19 +144,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Roll back your graphics card driver**
 
  If updating drivers didn’t resolve your problem, then maybe you should roll it back to a previous version that appears more stable. Here’s how:
@@ -165,16 +152,16 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
@@ -185,6 +172,13 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -226,16 +220,16 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
@@ -257,6 +251,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
 If you continue to face the crashing problem, please move on to Fix 6.
@@ -264,16 +265,10 @@ If you continue to face the crashing problem, please move on to Fix 6.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
@@ -291,6 +286,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
@@ -304,10 +306,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
@@ -321,13 +323,6 @@ sfc /scannow
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
 
@@ -352,13 +347,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -386,18 +374,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-innovators-choice-best-gimbal-systems-for-video-creators/"><u>[New] 2024 Approved The Innovator’s Choice Best Gimbal Systems for Video Creators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-identifying-top-8-linux-tools-for-immediate-screenshots/"><u>[Updated] 2024 Approved Identifying Top 8 Linux Tools for Immediate Screenshots</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-secrets-to-designing-impactful-igtv-thumbnails/"><u>[Updated] In 2024, Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-unleash-potential-prime-times-for-youtube-videos/"><u>[Updated] Unleash Potential Prime Times for Youtube Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>2024 Approved How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-avoiding-sudden-interruptions-in-the-latest-resident-evil-4-remake/"><u>Effective Fixes for Avoiding Sudden Interruptions in the Latest Resident Evil #4 Remake</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-reactivate-your-corsair-icue-with-windows-nn-update/"><u>Effective Solutions to Reactivate Your Corsair iCUE with Windows nN Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-gaming-experience-boosting-frame-per-second-in-watch-dogs-legion/"><u>Elevate Your Gaming Experience: Boosting Frame Per Second in Watch Dogs: Legion</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-continuous-crashes-in-the-lunar-client-for-windows/"><u>Fixes and Solutions: Resolving Continuous Crashes in the Lunar Client for Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-sieges-2024-winter-event-the-ultimate-guide-to-mastering-the-freeze-mode/"><u>Rainbow Six Siege's 2024 Winter Event: The Ultimate Guide to Mastering the Freeze Mode</u></a></li>
-<li><a href="https://extra-information.techidaily.com/select-top-6-slide-show-apps-for-latest-iphone-models/"><u>Select Top 6 Slide Show Apps for Latest iPhone Models</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-division-2-performance-upgrade-overcoming-low-fps-and-stutter-challenges/"><u>The Division 2 Performance Upgrade : Overcoming Low FPS and Stutter Challenges</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-effortless-video-management-25plus-free-apps-turning-instagram-content-into-mp4-files/"><u>[New] Effortless Video Management 25+ Free Apps Turning Instagram Content Into MP4 Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pure-sound-capture-on-your-mac/"><u>[Updated] 2024 Approved Pure Sound Capture on Your Mac</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accelerated-cinematography-best-5-diy-hacks-for-quick-learning-for-2024/"><u>Accelerated Cinematography Best 5 DIY Hacks for Quick Learning for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-excellence-the-thorough-review-of-the-samsung-galaxy-a20-for-savvy-android-users/"><u>Affordable Excellence: The Thorough Review of the Samsung Galaxy A20 for Savvy Android Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unavailable-frontiers-of-pandora-feature-in-avatar-video-game-series/"><u>Fixing the Unavailable Frontiers of Pandora Feature in Avatar Video Game Series</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kodi-cant-connect-issue-solving-the-directory-retrieval-error/"><u>How to Fix Kodi Can't Connect Issue: Solving the Directory Retrieval Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999576816-league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-end-of-cycle-error-prevention-proven-techniques-to-fix-last-epoch-crashes-in-modern-computers/"><u>Mastering End of Cycle Error Prevention - Proven Techniques to Fix Last Epoch Crashes in Modern Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3mp4/"><u>MP3オーディオに画像添付できる高速MP4動画変換ツールの選び方</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-top-10-talking-photo-online-tools-you-have-to-try/"><u>New In 2024, Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/protect-your-live-streams-the-periscope-video-howto/"><u>Protect Your Live Streams The Periscope Video HowTo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-launch-problems-a-guide-to-getting-origin-running-in-windows-10-and-11/"><u>Resolving Launch Problems: A Guide to Getting Origin Running in Windows 10 and 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-own-apple-vision-pro-today-with-choices-of-512gb-or-1tb-exclusive-pre-order-available/"><u>Secure Your Own Apple Vision Pro Today with Choices of 512GB or 1TB - Exclusive Pre-Order Available !</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-script-snags-in-windows-immediate-remedies-available/"><u>Sidestep Script Snags in Windows: Immediate Remedies Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-stop-wwe-2k22-from-shutting-down-unexpectedly-on-pc/"><u>Troubleshoot and Stop WWE 2K22 From Shutting Down Unexpectedly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-kernelbasedll-malfunctions-easily-and-quickly/"><u>Troubleshoot KernelBase.dll Malfunctions Easily and Quickly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-counter-strike-gameplay-interruptions-effortlessly/"><u>Troubleshooting Guide: Addressing Counter-Strike Gameplay Interruptions Effortlessly</u></a></li>
 </ul></div>
 

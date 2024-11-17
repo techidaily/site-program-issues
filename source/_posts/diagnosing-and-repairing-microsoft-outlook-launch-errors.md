@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Microsoft Outlook Launch Errors
-date: 2024-08-23T17:29:52.270Z
-updated: 2024-08-24T17:29:52.270Z
+date: 2024-11-15T22:45:33.263Z
+updated: 2024-11-16T21:36:40.853Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  As you can see, Diablo II: Resurrected only supports Windows 10\. If you’re sure your PC is powerful enough to run Diablo II: Resurrected, go ahead with the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve gathered the latest working fixes for your Diablo II: Resurrected not launching issue. You don’t need to try them all. Just work your way down the list until you find the one that does the trick.
@@ -50,14 +57,16 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 2. Click the**cogwheel** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-scan-repair.jpg)
 3. Then click**Begin Scan** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan-1.jpg)
 4. Wait for the repair to finish.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is finished, try hitting the Play button to check if you can launch the game successfully.
 
@@ -70,21 +79,12 @@ If you still can’t launch the game, check out the next fix.
 1. **Right-click** the executable file of Diablo II: Resurrected and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Check if you can launch the game without any issues.
 
 If this method doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The Diablo II: Resurrected not launching issue may occur if you’re using a faulty or outdated graphics driver. To fix any compatibility issues with the new games and get the best performance, you should make sure your graphics driver is up to date.
@@ -111,9 +111,6 @@ There are two ways for you to update the graphics driver:
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows often release new updates to bring new functionality, improve your system security, and tackle the compatibility issues with some new programs. To ensure Diablo II: Resurrected works properly on your PC, you’ll need to download and install the latest Windows updates. Here’s how:
@@ -121,11 +118,32 @@ There are two ways for you to update the graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows Settings. Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If this method doesn’t do the trick, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
 
@@ -135,6 +153,13 @@ If this method doesn’t do the trick, move on to the next fix.
 
 But if the game still fails to launch, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  Sometimes the programs running in the background can interfere with your game, such as those with overlays. You can perform a clean boot to figure out if the Diablo II: Resurrected not launching issue was caused due to a software conflict. Here’s how:
@@ -142,27 +167,30 @@ But if the game still fails to launch, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. Uncheck all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. Right-click on each item and select**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try hitting the Play button again and check if you can launch Diablo II: Resurrected now.
 
@@ -180,8 +208,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +215,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-use-dslr-for-facebook-live-on-you-pc-or-mac-for-2024/"><u>[New] How to Use DSLR for Facebook Live on You PC or Mac for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[New] In 2024, Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/trategies-for-deleting-watch-later-items-on-youtube/"><u>[New] Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-30-windows-10-camcorders/"><u>[Updated] In 2024, Top 30 Windows 10 Camcorders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-to-address-recurring-watch-dogs-legion-freezes-and-shutdowns-on-windows/"><u>Ensuring Smooth Gameplay: Strategies to Address Recurring Watch Dogs Legion Freezes and Shutdowns on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-unresponsiveness-steam-continuously-crashing-now-solved/"><u>How to Overcome Unresponsiveness: Steam Continuously Crashing - Now Solved!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-young-prodigys-riches-soar-in-digital-world-fame/"><u>In 2024, Young Prodigy's Riches Soar in Digital World Fame</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-slowdowns-on-discord-comprehensive-guide-to-lag-solutions/"><u>Overcome Slowdowns on Discord - Comprehensive Guide to Lag Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-palworld-search-error-in-sessions-with-these-tips/"><u>Solve the ‘Palworld’ Search Error in Sessions with These Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-sony-dvd-player-disc-not-supported-error-message-effective-solutions-unveiled/"><u>Troubleshooting Sony DVD Player ‘Disc Not Supported’ Error Message – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-ensure-death-strandings-successful-release-journey/"><u>Troubleshooting Triumphs Ensure Death Stranding's Successful Release Journey</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-expert-advice-top-6-tricks-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Advice: Top 6 Tricks to Boost Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-tips-for-escaping-roblox-stuck-on-startup-screen/"><u>Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-stunning-animations-with-these-12-free-tools-for-windows-and-mac/"><u>Updated 2024 Approved Create Stunning Animations with These 12 Free Tools for Windows and Mac</u></a></li>
+</ul></div>
 

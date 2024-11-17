@@ -1,7 +1,7 @@
 ---
 title: "Winning Against High Ping Issues: Expert Tips for Optimal Performance in Back Abort Blood"
-date: 2024-11-05T02:49:15.788Z
-updated: 2024-11-06T19:34:41.386Z
+date: 2024-11-16T08:32:28.199Z
+updated: 2024-11-17T08:58:24.175Z
 tags:
   - win11
   - win10
@@ -59,9 +59,24 @@ thumbnail: https://thmb.techidaily.com/6c18cd8911db7d15032a12a54738ce400822365f4
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -83,13 +98,6 @@ If this doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify your game files
 
  If any of the game files of Naraka: Bladepoint on your PC are missing or corrupted, the game can crash at any point during the gameplay. You can use the game launcher to verify the integrity of your game files. Here’s how:
@@ -101,13 +109,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -146,8 +147,28 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
@@ -158,13 +179,6 @@ If this doesn’t solve your problem, try the next fix.
 1. UNCHECK the box of**Automatically manage paging file size for all drives** , then select**Custom size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -177,13 +191,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 5. Restart your PC to let the changes take effect.
 
 If your game still crashes, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -201,20 +208,13 @@ If your game still crashes, try the next fix.
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -230,19 +230,33 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -251,6 +265,13 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -270,13 +291,6 @@ If this doesn’t solve your problem, try the last fix.
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
@@ -306,14 +320,16 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/among-us-online-teamwork-and-strategy-pc-troubleshooting-after-recent-patch/"><u>'Among Us: Online Teamwork and Strategy' PC Troubleshooting After Recent Patch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>[Updated] Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722899134378-all-about-the-next-android-unlocking-rumors-on-release-date-costs-and-tech-specs-for-android-16-stay-informed-now/"><u>All About the Next Android: Unlocking Rumors on Release Date, Costs and Tech Specs for Android 16 - Stay Informed Now!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevating-gaming-a-comprehensive-analysis-of-sony-playstation-5s-enhanced-performance/"><u>Elevating Gaming: A Comprehensive Analysis of Sony PlayStation 5'S Enhanced Performance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-free-youtube-endings-that-stand-out-ranked/"><u>In 2024, Free YouTube Endings That Stand Out - Ranked!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-tips-to-increase-fps-on-rainbow-six-extraction/"><u>Optimizing Performance: Tips to Increase FPS on Rainbow Six Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-errors-in-logitech-settings-on-windows-computers/"><u>Overcoming Common Errors in Logitech Settings on Windows Computers</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/schnell-retten-sie-ihre-indesign-daten-professionelle-tipps-zum-wiedereinrichten/"><u>Schnell Retten Sie Ihre InDesign-Daten - Professionelle Tipps Zum Wiedereinrichten</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987820014-why-is-my-origin-not-starting-in-windows-11-find-out-why-and-how-to-fix-it/"><u>Why Is My Origin Not Starting in Windows 11? Find Out Why and How to Fix It!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>[New] Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unveiling-the-top-five-gba-emulators-compatible-with-windows-pcs/"><u>[New] Unveiling the Top Five GBA Emulators Compatible with Windows PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>[Updated] Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-steps-to-restore-non-responsive-airplay-features-on-your-devices/"><u>Essential Steps to Restore Non-Responsive AirPlay Features on Your Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-mending-issues-with-disabled-surtitles-on-streaming-platforms-like-amazon-prime/"><u>Expert Advice: Mending Issues with Disabled Surtitles on Streaming Platforms Like Amazon Prime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-connectivity-fixes-end-the-game-downtime-now/"><u>Hitman 3 Connectivity Fixes – End the Game Downtime Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-c-spans-fee-free-footage-access-a-compreayer-guide/"><u>In 2024, C-Span's Fee-Free Footage Access A Compreayer Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001607445-madden-nfl-22-malfunctions-heres-how-you-can-fix-it-asap/"><u>Madden NFL '22 Malfunctions? Here's How You Can Fix It ASAP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-free-online-nef-image-converter-trasforma-i-tuoi-file-senza-costi/"><u>Movavi's Free Online NEF Image Converter - Trasforma I Tuoi File Senza Costi!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-stuttering-in-outriders-expert-advice-to-enhance-your-pc-gameplay/"><u>Overcome Stuttering in Outriders: Expert Advice to Enhance Your PC Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-ntdlldll-malfunctions-and-errors-in-windows-11-and-10-systems/"><u>Troubleshooting ntdll.dll Malfunctions and Errors in Windows 11 & 10 Systems</u></a></li>
 </ul></div>
 

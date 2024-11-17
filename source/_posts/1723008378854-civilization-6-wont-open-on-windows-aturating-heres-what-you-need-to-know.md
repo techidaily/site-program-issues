@@ -1,7 +1,7 @@
 ---
 title: Civilization 6 Won't Open on Windows Aturating, Here’s What You Need To Know
-date: 2024-08-23T17:26:47.321Z
-updated: 2024-08-24T17:26:47.321Z
+date: 2024-11-15T18:07:18.758Z
+updated: 2024-11-17T08:37:48.602Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ Here’s how to do it on the Epic Games client:
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -57,25 +71,22 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -85,11 +96,25 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -98,30 +123,36 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -134,9 +165,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
@@ -158,8 +186,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +193,22 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-harness-power-of-persuasion-with-these-tips-for-reddit/"><u>[New] Harness Power of Persuasion with These Tips for Reddit</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-harness-the-power-of-youtube-and-facebook-streaming-old-video-content/"><u>[New] In 2024, Harness the Power of YouTube & Facebook Streaming Old Video Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speedy-windows-file-review-strategies/"><u>[New] Speedy Windows File Review Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-unreal-process-has-crashed-error-in-outriders-ue4-solution-guide/"><u>Expert Tips for Fixing 'Unreal Process Has Crashed' Error in Outriders - UE4 Solution Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-diagnosing-and-repairing-a-nonfunctional-clownfish-speech-modifier/"><u>Expert Tips on Diagnosing and Repairing a Nonfunctional Clownfish Speech Modifier</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998053798-fixing-the-issue-fallout-3-crashes-on-windows-11-solutions-inside/"><u>Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-to-edit-top-10-online-video-editors-with-no-watermark-limitations/"><u>Free to Edit Top 10 Online Video Editors with No Watermark Limitations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-artists-guide-to-best-free-3d-psds/"><u>Innovative Artists' Guide to Best Free 3D PSDs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-borderlands-3-beat-launch-problems-with-our-proven-11-methods/"><u>Master Borderlands 3: Beat Launch Problems With Our Proven 11 Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gaming-performance-eradicate-stutters-and-boost-high-fps/"><u>Master Gaming Performance: Eradicate Stutters and Boost High FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-acrocefexeexe-crash-step-by-step-troubleshooting-guide/"><u>Resolving the acrocefexe.exe Crash: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-mp4-tools-for-mac-users-maximizing-youtube-productions/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-12-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 12 mini Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

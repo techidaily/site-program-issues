@@ -1,7 +1,7 @@
 ---
 title: Preventing FIFA 22 From Freezing or Crashing During Play (PC)
-date: 2024-11-02T16:04:12.442Z
-updated: 2024-11-06T19:00:50.339Z
+date: 2024-11-11T22:39:45.978Z
+updated: 2024-11-17T08:35:50.355Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
@@ -52,13 +59,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -73,13 +73,6 @@ Here is how to verify the integrity of Dauntless:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -101,13 +94,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -120,6 +106,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -128,14 +121,14 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -146,10 +139,10 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -157,6 +150,19 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -181,24 +187,24 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-correcting-audio-absence-in-obs-recordings-quickly/"><u>[New] Correcting Audio Absence in OBS Recordings Quickly</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-flip-the-script-10-best-template-revelations/"><u>[Updated] 2024 Approved Flip the Script #10 Best Template Revelations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions/"><u>[Updated] Archive Artistry Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gopros-360-degree-spectacle-max-vs-hero-11-showdown/"><u>[Updated] GoPro's 360-Degree Spectacle Max vs Hero 11 Showdown</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-capture-your-iphones-screen-seamlessly-for-2024/"><u>[Updated] How to Capture Your iPhone's Screen Seamlessly for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-your-desktop-display-with-free-tech-tools/"><u>[Updated] Saving Your Desktop Display with Free Tech Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughlens-pictorial-humor-studio/"><u>2024 Approved LaughLens Pictorial Humor Studio</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/civilization-vi-civ-version-6-expert-tips-for-addressing-access-violation-exceptions-edition/"><u>Civilization VI (CIV) Version 6: Expert Tips for Addressing Access Violation Exceptions Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/code-vein-stutter-fixes-how-to-achieve-smooth-gaming-experience/"><u>Code Vein Stutter Fixes - How To Achieve Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effektiver-ansatz-fur-die-ruckgewinnung-verlorener-orf-informationen-einfache-erklarung-des-orf-prozesses/"><u>Effektiver Ansatz Für Die Rückgewinnung Verlorener ORF Informationen: Einfache Erklärung Des ORF Prozesses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-magical-experience-tackling-stuttering-with-these-six-fixes-for-hogwarts-legacy/"><u>Enhance Your Magical Experience - Tackling Stuttering with These Six Fixes for Hogwarts Legacy!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-optimization-fixes-for-performance-issues/"><u>Grand Theft Auto V Optimization - Fixes for Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-roblox-launch-failure-updated-guide/"><u>How to Resolve the Roblox Launch Failure: Updated Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-severe-development-glitches-in-modern-warfarewarzone/"><u>How to Troubleshoot Severe Development Glitches in Modern Warfare/Warzone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-effective-solutions-for-persistent-crashes-in-metro-exodus-enhanced-edition/"><u>No More Freezes! Effective Solutions for Persistent Crashes in Metro Exodus (Enhanced Edition)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012217501-rainbow-six-extraction-issues-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction Issues Fixed: No More PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-why-does-rogue-company-continuously-fail-on-your-pc/"><u>Troubleshooting: Why Does Rogue Company Continuously Fail on Your PC?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/vrchat-stability-a-guide-to-fixing-common-pc-issues-and-crashes/"><u>VRChat Stability: A Guide to Fixing Common PC Issues and Crashes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-blissful-onboarding-guide-for-new-users/"><u>[New] Blissful Onboarding Guide for New Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-macpc-guide-posting-content-on-tiktok/"><u>[New] In 2024, Mac/PC Guide Posting Content on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-quick-and-free-screen-captures-on-windows-8/"><u>[New] Secure, Quick, & Free Screen Captures on Windows 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993760887-solved-red-dead-redemption-2-wont-launch/"><u>[SOLVED] Red Dead Redemption 2 Won’t Launch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-standout-methods-for-fb-ad-visualization/"><u>[Updated] Standout Methods for FB Ad Visualization</u></a></li>
+<li><a href="https://media-tips.techidaily.com/all-about-venu-sports-an-insight-into-its-launch-status-and-expectations/"><u>All About Venu Sports – An Insight Into Its Launch Status and Expectations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013157988-cyberpunk-2077-overcoming-freeze-up-solutions-and-fixes/"><u>Cyberpunk 2077 Overcoming Freeze-Up: Solutions & Fixes!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-homekit-integration-with-the-kasa-ks240-smart-fan-controller-user-reviews/"><u>Effortless HomeKit Integration with the Kasa KS240 Smart Fan Controller - User Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-back-4-blood-gobi-glitch-on-unreal-engine-4/"><u>Fixing Back 4 Blood Gobi Glitch on Unreal Engine 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013692194-fortnite-login-woes-discover-fast-and-simple-fixes-now/"><u>Fortnite Login Woes? Discover Fast and Simple Fixes Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insights-your-comprehensive-buying-guide-for-a-4k-display/"><u>In 2024, Illuminating Insights Your Comprehensive Buying Guide for a 4K Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-projects-with-voice-over-integration/"><u>In 2024, Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-strategies-to-repair-software-collapse-a-full-guide/"><u>In-Depth Strategies to Repair Software Collapse - A Full Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-clearing-up-the-fuzzy-graphics-in-outriders/"><u>Resolved: Clearing Up the Fuzzy Graphics in Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-error-fixing-on-desktop-pcs-busting-the-mystery-of-error-277/"><u>Roblox Error Fixing on Desktop PCs: Busting the Mystery of Error 277</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stream-with-precision-rokus-audio-and-video-innovation/"><u>Stream with Precision: Roku's Audio & Video Innovation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-editors-edge-boost-your-tiktok-impact/"><u>The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-escape-from-tarkov-connection-drops/"><u>Troubleshooting Steps for Escape From Tarkov Connection Drops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-cant-locate-games-issue-on-windows/"><u>Troubleshooting Steps: Resolving 'Warzone Can't Locate Games' Issue on Windows</u></a></li>
 </ul></div>
 

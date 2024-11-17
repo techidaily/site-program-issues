@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2024-11-06T02:27:59.263Z
-updated: 2024-11-06T18:04:56.783Z
+date: 2024-11-14T22:28:55.944Z
+updated: 2024-11-17T02:53:30.898Z
 tags:
   - win11
   - win10
@@ -42,6 +42,19 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode-properties.jpg)
 2. Select the**Compatibility** tab. Check the box next to**Run this program in compatibility mode for:** and**Run this program as an administrator** . Then click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode.jpg)
 
  After applying the changes, open Battle.net. When the UAC prompt shows up, simply click**Yes** . If it isn’t opening, don’t fret! Below are some other methods you can try.
@@ -60,10 +73,10 @@ _Image source: battle.net_
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click on the**Change settings** button.  
@@ -71,55 +84,28 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-3.jpg)
 6. Click**Allow another app…** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-find-out-where-Battle.net-is-installed.jpg)
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
@@ -128,6 +114,19 @@ _Image source: battle.net_
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
 
@@ -192,6 +191,13 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, reboot your PC and then try to open Battle.net. If your problem persists, proceed to the next fix.
@@ -205,19 +211,6 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-open-the-Command-Prompt-as-an-administrator.jpg)
 2. Click**Yes** when you receive a prompt.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Now copy and paste the following command, and then press**Enter** .  
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
@@ -227,10 +220,10 @@ Then follow the on-screen instructions to get the updates.
 5. Now type**sfc /scannow** and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
@@ -258,13 +251,26 @@ Then follow the on-screen instructions to get the updates.
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you’re prompted for further confirmation, simply click Yes and proceed. After it’s successfully uninstalled. Go to the place where the Battle.net-Setup.exe file was installed and delete it. Then download and install it from the[official website](https://www.blizzard.com/en-us/download/confirmation?product=bnetdesk) .
 
@@ -287,18 +293,18 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[New] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimal-low-cost-video-conferencing-software-options-for-2024/"><u>[New] Optimal Low-Cost Video Conferencing Software Options for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-easy-youtube-animation-subscribe-bars-in-filmora/"><u>[Updated] Crafting Easy YouTube Animation Subscribe Bars in Filmora</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>2024 Approved Picture Perfect Software and Websites to Amp Up Your Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-editing-gopro-videos-on-pc-quik-alternatives-and-more/"><u>In 2024, Editing GoPro Videos on PC Quik, Alternatives, and More</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11x-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11X 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fortnites-video-memory-issues-a-complete-guide/"><u>Resolving Fortnite's Video Memory Issues: A Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rogue-game-crash-dilemma-discover-solutions-for-uninterrupted-gaming-experience-on-your-computer/"><u>Rogue Game Crash Dilemma? Discover Solutions for Uninterrupted Gaming Experience on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-optimizing-performance-on-pandora/"><u>Solving Lag Issues in Avatar: Optimizing Performance on Pandora</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-resolve-fifa-21-stalling-problems-on-desktop-pcs-expert-guide/"><u>Step-by-Step Tutorial: Resolve FIFA 21 Stalling Problems on Desktop PCs - Expert Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009244783-terraria-troubles-2024-crash-solutions-that-actually-work/"><u>Terraria Troubles? 2024 Crash Solutions That Actually Work</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-breakdown-understanding-tiktoks-pfp-symbol-for-2024/"><u>[Updated] The Ultimate Breakdown Understanding TikTok's PFP Symbol for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-leading-nft-makers-elevating-artist-expression-for-2024/"><u>6 Leading NFT Makers Elevating Artist Expression for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-ping-woes-in-chivalry-of-heroes-advanced-fixes-and-tweaks-expert-guide/"><u>Eliminate Ping Woes in Chivalry of Heroes - Advanced Fixes & Tweaks (Expert Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fifa-21-startup-woes-addressed-ensuring-a-smooth-game-launch/"><u>FIFA 21 Startup Woes Addressed: Ensuring a Smooth Game Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-spellbreak-stability-problems-on-desktop-systems/"><u>How to Resolve 'Spellbreak' Stability Problems on Desktop Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/kids-festive-crafts-win-customized-holiday-ornaments-in-our-seasonal-gift-draw/"><u>Kids' Festive Crafts: Win Customized Holiday Ornaments in Our Seasonal Gift Draw!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/privacy-first-explore-the-best-10-no-cost-highly-secured-video-calling-apps-for-smartphones-for-2024/"><u>Privacy First Explore the Best 10 No-Cost, Highly-Secured Video Calling Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-on-figure-skaters-2022-edition/"><u>Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-ghostrunners-life-threatening-problem-on-windows-11-pcs/"><u>Troubleshooting Ghostrunner's Life-Threatening Problem on Windows 11 PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-getting-your-origin-account-online-again/"><u>Troubleshooting Guide: Getting Your Origin Account Online Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726030394527-wmv/"><u>WMVビデオ編集手順：トリミングから回転までのテクニック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!
-date: 2024-11-05T23:00:42.482Z
-updated: 2024-11-07T03:20:50.603Z
+date: 2024-11-12T23:24:22.891Z
+updated: 2024-11-16T22:25:17.264Z
 tags:
   - win11
   - win10
@@ -62,31 +62,24 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -95,6 +88,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the**Display** tab.
 
@@ -107,23 +107,9 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
 
@@ -136,10 +122,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
@@ -147,6 +133,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -158,15 +151,22 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -204,21 +204,24 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>[New] Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-your-content-discover-these-top-8-mobile-editors/"><u>[Updated] In 2024, Perfect Your Content Discover These Top 8 Mobile Editors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-streamlining-social-media-posting-vimeo-on-instagram-for-2024/"><u>[Updated] Streamlining Social Media Posting Vimeo on Instagram for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-buys-for-extreme-weather-shooting-top-7-edition-for-2024/"><u>Best Buys for Extreme Weather Shooting, Top 7 Edition for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/constraint-c-include-a-footnote-that-explains-the-musical-note-to-word-conversion-method-used-in-the-translated-text/"><u>Constraint C: Include a Footnote that Explains the Musical Note-to-Word Conversion Method Used in the Translated Text.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/csgo-troubleshooting-guide-fixing-no-user-logon-in-just-5-steps/"><u>CSGO Troubleshooting Guide: Fixing 'No User Logon' In Just 5 Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphones-malfunctioning-qr-scanning-feature-a-comprehensive-guide-to-7-remedies/"><u>Fixing iPhone's Malfunctioning QR Scanning Feature: A Comprehensive Guide to 7 Remedies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-hearthstone-pc-crashes-complete-solution-walkthrough/"><u>How to Fix Hearthstone PC Crashes - Complete Solution Walkthrough</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>In 2024, The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-video-blur-apps-on-iphone-and-android-facebackground/"><u>New In 2024, Best Video Blur Apps on iPhone and Android Face/Background</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-problems-eliminating-fallout-3-hiccups-on-windows-11-operating-system/"><u>Overcoming Compatibility Problems: Eliminating Fallout 3 Hiccups on Windows 11 Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-to-stop-chrome-crashing-on-windows-11-a-step-by-step-guide/"><u>Quick Fixes to Stop Chrome Crashing on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor X7b</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-virtual-camera-tools-enhance-your-livestream-with-manycam-technology/"><u>Top Virtual Camera Tools: Enhance Your Livestream with ManyCam Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-your-warzone-quick-solutions-for-directx-problems-in-4-steps/"><u>Troubleshoot Your Warzone: Quick Solutions for DirectX Problems in 4 Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stabilizing-arcadegeddon-gameplay-on-computer-setups/"><u>Troubleshooting Steps for Stabilizing Arcadegeddon Gameplay on Computer Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-r-type-final-2-keeps-crashing-on-pc/"><u>[SOLVED] R-Type Final 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964778395-essential-intel-ethernet-and-wi-fi-drivers-for-windows-operating-systems-download-today/"><u>Essential Intel Ethernet & Wi-Fi Drivers for Windows Operating Systems – Download Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/herbs-portuguese-cuisine-is-characterized-by-the-use-of-aromatic-herbs-like-coriander-parsley-basil-rosemary-thyme-and-bay-leaves-that-add-depth-to-stews-an453/"><u>Herbs: Portuguese Cuisine Is Characterized by the Use of Aromatic Herbs Like Coriander, Parsley, Basil, Rosemary, Thyme and Bay Leaves that Add Depth to Stews and Sauces, Infuse Olive Oil or Are Used as Garnishes for Fish Dishes.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-def-phones-with-vlogging-extras/"><u>High-Def Phones with Vlogging Extras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-accelerate-your-download-rates-with-utorrent/"><u>How to Accelerate Your Download Rates with uTorrent</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a1x-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A1x 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-relapse-prevention/"><u>In 2024, Relapse Prevention</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-digital-lecture-name-builder/"><u>In 2024, Ultimate Digital Lecture Name Builder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-analysis-of-the-nzxt-switchmix-unit-your-essential-tool-for-quick-fixes-all-in-one-package/"><u>In-Depth Analysis of the NZXT SwitchMix Unit: Your Essential Tool for Quick Fixes, All in One Package</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-discord-resource-management-cutting-down-on-cpu-drain-pro-guide/"><u>Mastering Discord Resource Management: Cutting Down on CPU Drain - Pro Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-connectivity-to-steam-networks/"><u>Resolved: Issues with Connectivity to Steam Networks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-persistent-stalling-and-closing-of-the-starfield-game-on-your-computer/"><u>Solutions for Persistent Stalling and Closing of the Starfield Game on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-aol-mail-not-working-on-iphone-discover-6-solutions/"><u>Solving 'AOL Mail Not Working on iPhone': Discover 6 Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-days-gone-game-crashes/"><u>Step-by-Step Troubleshooting for 'Day's Gone' Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-walkthrough-fixing-windows-update-error-0xc19001e1-on-windows-10-devices/"><u>Step-by-Step Walkthrough: Fixing Windows Update Error 0Xc19001e1 on Windows 10 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-madden-nfl-21-game-crashes-on-windows-computers/"><u>Troubleshooting Guide: Resolving Continuous Madden NFL 21 Game Crashes on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-the-common-valorant-graphic-driver-collapses-error/"><u>Ultimate Troubleshooting Guide for the Common 'Valorant Graphic Driver Collapses Error'</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/why-you-shouldnt-trust-your-eyes-when-it-comes-to-youtube-views-for-2024/"><u>Why You Shouldn't Trust Your Eyes When It Comes to YouTube Views for 2024</u></a></li>
 </ul></div>
 

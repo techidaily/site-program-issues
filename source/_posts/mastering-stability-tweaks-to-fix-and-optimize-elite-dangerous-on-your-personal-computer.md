@@ -1,7 +1,7 @@
 ---
 title: Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer
-date: 2024-10-31T20:27:13.644Z
-updated: 2024-11-06T20:09:34.944Z
+date: 2024-11-10T00:40:39.542Z
+updated: 2024-11-17T03:38:10.873Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  Before we dive into anything advanced, please make sure you’ve tried to reboot your PC in case it was just a one-time glitch.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## System requirements for Super People
 
 | **Minimum**   | **Required**                                       |                                                  |
@@ -65,24 +78,17 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 2. Under the**Local files** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files-1.jpg)
 3. It may take a while for Steam to finish the process. When it’s done, restart the Steam client and launch the game.
 
-If the problem persists, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the problem persists, try the next fix.
 
 ## Fix 2: Update your graphics driver
 
@@ -96,13 +102,6 @@ If the problem persists, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -110,6 +109,13 @@ If the problem persists, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run Super People. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check for conflicting programs
 
@@ -131,7 +137,21 @@ If the problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable overlays
 
@@ -147,10 +167,16 @@ If the problem persists, try the next fix.
 3. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also disable Steam overlay only for Super People, if your other games run just fine. Here’s how:
@@ -161,6 +187,13 @@ If the problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Discord
 
 1. Launch Discord. On the bottom-left, click the **gear-shaped icon** to open the user settings.  
@@ -168,35 +201,15 @@ If the problem persists, try the next fix.
 2. On the left panel, scroll down and find **Game Overlay** . Toggle off **Enable in-game overlay** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-53-25.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If disabling in-game overlays doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -226,13 +239,6 @@ If disabling in-game overlays doesn’t help, try the next fix.
 
  X64 is for 64-bit and X84 is for 32-bit. If your PC is a 32-bit version, you won’t be able to run Super People since it’s not supported.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Reinstall Super People
 
  If the fixes above didn’t solve your problem, you can try to reinstall the entire game. This may help if the previous installation was somehow interrupted and caused the random crashes.
@@ -260,16 +266,19 @@ If disabling in-game overlays doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-best-11-first-timer-kids-cameras-for-rainy-day-vlogging/"><u>[New] The Best 11 First-Timer Kids' Cameras for Rainy Day Vlogging</u></a></li>
-<li><a href="https://win-online.techidaily.com/1726224348687-mkvwma-movavi/"><u>免費移動網路 MKV到WMA - 使用 Movavi 轉換工具</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-ready-troubleshooting-dev-error-5573-in-call-of-duty-warzone-for-playstation-and-xbox-users/"><u>Battle Ready: Troubleshooting Dev Error 5573 in Call of Duty Warzone for PlayStation & Xbox Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-adventure-addressing-the-dying-lights-fps-challenges/"><u>Boosting Your Gaming Adventure: Addressing the Dying Light's FPS Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-resolved-performance-issues-smoother-gameplay-experience/"><u>Cyberpunk 2077 - Resolved Performance Issues: Smoother Gameplay Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-unplanned-closures-during-play-of-ffxiv-on-personal-computers/"><u>Diagnosing & Resolving Unplanned Closures During Play of FFXIV on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-troubleshooting-steps-for-unresponsive-rust-programs/"><u>Effective Troubleshooting Steps for Unresponsive Rust Programs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-camon-20-premier-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Camon 20 Premier 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g13-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G13 Phone Now with These Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenix-innovation-repairs-corrupt-files/"><u>Phoenix Innovation Repairs Corrupt Files</u></a></li>
-<li><a href="https://win-studio.techidaily.com/top-5-effortless-and-enjoyable-tools-for-removing-faces-from-images-2022-edition/"><u>Top 5 Effortless and Enjoyable Tools for Removing Faces From Images - 2022 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>[New] 2024 Approved Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-syma-x8c-performance-breakdown/"><u>[New] Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-shield-against-random-youtube-video-plays-for-2024/"><u>[Updated] Shield Against Random YouTube Video Plays for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-eradicating-v-ray-stuttering-for-flawless-rendering-experience-on-personal-computers/"><u>Expert Advice: Eradicating V-Ray Stuttering for Flawless Rendering Experience on Personal Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-realme-gt-5-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme GT 5 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-resident-evil-village-experience-by-addressing-pcs-low-fps-issues/"><u>Improving Your Resident Evil Village Experience by Addressing PC's Low FPS Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-moto-e13-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Moto E13 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-screen-sharing-on-windows-11-via-zoom/"><u>Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-logitech-configuration-challenges-effective-fixes-for-windows-users/"><u>Overcoming Logitech Configuration Challenges: Effective Fixes for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-list-of-top-vector-stock-portals-for-2024/"><u>The Expert's List of Top Vector Stock Portals for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-12-budget-friendly-high-performing-video-players-pcandroid-devices-for-2024/"><u>Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-are-webpages-unloading-in-google-chrome/"><u>Troubleshooting: Why Are Webpages Unloading in Google Chrome?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-merge-your-videos-for-free-the-best-web-based-tools-for-2024/"><u>Updated Merge Your Videos for Free The Best Web-Based Tools for 2024</u></a></li>
 </ul></div>
 

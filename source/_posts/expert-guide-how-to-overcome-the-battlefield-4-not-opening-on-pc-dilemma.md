@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: How to Overcome the 'Battlefield 4 Not Opening on PC' Dilemma"
-date: 2024-10-31T20:51:01.014Z
-updated: 2024-11-07T00:34:32.335Z
+date: 2024-11-12T07:19:47.449Z
+updated: 2024-11-17T06:35:58.335Z
 tags:
   - win11
   - win10
@@ -38,20 +38,27 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -66,16 +73,16 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
@@ -99,23 +106,16 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
@@ -127,13 +127,20 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
@@ -148,10 +155,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -169,13 +176,6 @@ To update your graphics driver, here are two safe ways for you:
 2. Select**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
@@ -204,18 +204,24 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-amend-blurry-mobile-streaming-on-social-platforms/"><u>[New] How to Amend Blurry Mobile Streaming on Social Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-restarting-cortana-when-she-wont-co-operate/"><u>Expert Tips for Restarting Cortana When She Won't Co-Operate</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-troubleshooting-voice-communication-in-call-of-duty-modern-warfare/"><u>Fixing the Issue: Troubleshooting Voice Communication in Call of Duty Modern Warfare</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/grabacion-de-video-sin-coste-guia-para-convertir-f4v-a-wmv-online/"><u>Grabación De Vídeo Sin Coste: Guía Para Convertir F4V a WMV Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-resolve-black-screen-issue-in-helldivers-2-during-boot-up/"><u>Guide to Resolve 'Black Screen' Issue in Helldivers 2 During Boot Up</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>In 2024, From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-mastery-top-5-editing-tips-and-tricks-from-the-experts/"><u>New In 2024, FCP Mastery Top 5 Editing Tips and Tricks From the Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-controller-hurdles-make-your-pc-detect-gamepads-effortlessly/"><u>Overcome Controller Hurdles - Make Your PC Detect Gamepads Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-cs-go-not-starting-discover-effective-strategies-here/"><u>Solve CS: GO Not Starting? Discover Effective Strategies Here!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-heart-of-conversation-exploring-chatgpts-interpretative-engine/"><u>The Heart of Conversation: Exploring ChatGPT's Interpretative Engine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-skyline-city-builder-solutions-for-game-starts-failure/"><u>Troubleshooting Skyline City Builder – Solutions for Game Starts Failure</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-deal-snag-a-discounted-ipad-at-only-199-on-amazons-labor-day-blowout-insights-from-zdnet/"><u>Unbeatable Deal: Snag a Discounted iPad at Only $199 on Amazon's Labor Day Blowout - Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-g24-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto G24 Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-elite-circle-of-online-av-masters/"><u>[New] In 2024, The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids-for-2024/"><u>[New] Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-enhancing-video-quality-on-tiktok-via-zoom/"><u>[Updated] In 2024, Enhancing Video Quality on TikTok via Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-use-periscope-cost-benefits-and-signup-guide/"><u>[Updated] In 2024, How to Use Periscope Cost, Benefits & Signup Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469273944-12-quick-fixes-for-a-broken-iphone-flashlight-get-light-back-in-seconds/"><u>12 Quick Fixes for a Broken iPhone Flashlight – Get Light Back in Seconds!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-window-based-browser-flutter-step-by-step-fixes-for-google-chrome-in-microsoft-operating-systems-complete-manual/"><u>Conquer Window-Based Browser Flutter: Step-by-Step Fixes for Google Chrome in Microsoft Operating Systems (Complete Manual)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-how-to-diagnose-and-fix-crashing-problems-in-forza-horizon-5-for-personal-computers/"><u>Expert Advice: How to Diagnose and Fix Crashing Problems in Forza Horizon 5 for Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-restore-your-clownfish-voice-changers-functionality/"><u>Expert Tips to Restore Your Clownfish Voice Changer's Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-common-spellbreak-game-crashes-on-windows-and-mac-step-by-step-solutions/"><u>Fix Common Spellbreak Game Crashes on Windows and Mac: Step-by-Step Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/get-more-from-tiny-screens-top-6-youtube-shorts-downloader-apps-for-2024/"><u>Get More From Tiny Screens Top 6 YouTube Shorts Downloader Apps for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-activate-microsoft-paint-windows-11-edition/"><u>Guide to Activate Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guide-to-deciphering-youtubes-comprehensive-feedback-system/"><u>Guide to Deciphering YouTube's Comprehensive Feedback System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-how-to-stop-gzw-from-crashing-on-windows-and-mac-computers/"><u>Mastering the Fix: How to Stop GZW From Crashing on Windows and Mac Computers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-transform-your-clips-time-lapse-video-editing-essentials-in-final-cut-pro/"><u>New 2024 Approved Transform Your Clips Time Lapse Video Editing Essentials in Final Cut Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-origin-game-launcher-issues-on-windows-11-devices/"><u>Solution for Origin Game Launcher Issues on Windows 11 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-constant-stalling-in-deathloop-across-pc-and-playstation-5/"><u>Solutions for Resolving Constant Stalling in Deathloop Across PC and PlayStation 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-instructions-to-get-your-minecraft-up-and-running-again/"><u>Step-by-Step Instructions to Get Your Minecraft Up and Running Again</u></a></li>
+<li><a href="https://facebook.techidaily.com/triple-blackout-in-social-media-world/"><u>Triple Blackout in Social Media World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixes-for-diablo-ii-resurrected-failed-startup-issues/"><u>Troubleshooting Guide: Fixes for Diablo II Resurrected Failed Startup Issues</u></a></li>
 </ul></div>
 

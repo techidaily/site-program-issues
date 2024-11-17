@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game"
-date: 2024-11-02T01:01:27.467Z
-updated: 2024-11-07T00:03:19.293Z
+date: 2024-11-10T18:57:19.759Z
+updated: 2024-11-17T01:49:20.290Z
 tags:
   - win11
   - win10
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 **You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Forza Horizon 4.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of Forza Horizon 4 release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
 
  If a patch is available, install it, then run Forza Horizon 4 to see if you resolved this issue. If this issue persists, or if there was no new game patch available, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your drivers**
 
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -132,16 +125,23 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap831.png)
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
+
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
 
@@ -154,6 +154,13 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if you resolved this problem. If it still keeps crashing, try the next fix, below.
 
 ### **Fix 6: Reset Forza Horizon 4**
@@ -165,13 +172,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 1. On your keyboard, press **the Windows logo key**  and **I**  at the same time to open the **Windows Settings** , and then click **Apps**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap835.png)
 2. Select **Forza Horizon 4**  and click **Advanced options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap836.png)
 3. Click **Reset** to reset **Forza Horizon 4**  .  
@@ -200,6 +200,13 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 9: Update your Windows system to the latest version**
 
  Sometimes the crash issue may occur if your Windows system is not the latest version. try updating your Windows system to the latest version and this issue may get resolved. Here is how to do it:
@@ -208,14 +215,14 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap838.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
 
@@ -231,21 +238,14 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
@@ -253,6 +253,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Forza Horizon 4 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to restart  your PC to apply the changes.
 
@@ -265,13 +272,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press **the Windows logo key**  and type **Forza Horizon 4** . When you see **Forza Horizon 4**  in the list of results,**right-click** it and then select **Uninstall**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap847-1.png)
 2. Click **Uninstall**  to uninstall Forza Horizon 4.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
@@ -302,19 +302,24 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-beyond-the-leading-films-hidden-cinema-treasures/"><u>[New] 2024 Approved Beyond the Leading Films Hidden Cinema Treasures</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[New] In 2024, Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[New] In 2024, The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expertise-on-crafting-premium-webcam-footage/"><u>[Updated] Expertise on Crafting Premium Webcam Footage</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-setting-benchmarks-a-look-at-successful-igtv-videos/"><u>2024 Approved Setting Benchmarks A Look at Successful IGTV Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-brighter-youtube-video-editing/"><u>2024 Approved Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banishing-slowdown-blues-from-your-steam-gaming-experience/"><u>Banishing Slowdown Blues From Your Steam Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-reduce-cpu-consumption-in-phasmophobia/"><u>Effective Ways to Reduce CPU Consumption in Phasmophobia</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-amd-radeon-software-not-opening/"><u>How to Fix AMD Radeon Software Not Opening</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-football-manager-2021-pc-game-freezing-issues-comprehensive-guide/"><u>How to Fix Football Manager 2021 PC Game Freezing Issues - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-bugs-how-to-troubleshoot-assassins-creed-valhalla-for-smooth-performance-on-your-computer/"><u>No More Bugs: How to Troubleshoot Assassin's Creed Valhalla for Smooth Performance on Your Computer</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-rated-no-cost-photo-backup-solutions-compatible-with-any-computer/"><u>Top Rated No-Cost Photo Backup Solutions Compatible with Any Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-madden-nfl-20-pc-crash-issues-a-comprehensive-guide/"><u>Troubleshooting Madden NFL 20 PC Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-easy-steps-to-record-and-screen-capture-ios-2023/"><u>[New] 2024 Approved Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seeking-optimal-video-player-vlc-meets-mx/"><u>[New] Seeking Optimal Video Player VLC Meets MX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-immersive-play-samsung-vr-classics/"><u>[Updated] 2024 Approved Immersive Play Samsung VR Classics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailored-ending-scenes-get-em-for-free/"><u>2024 Approved Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/"><u>Banish Black Screen Issues in Fallout 4: Effective Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/"><u>Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-tom-comprehensive-guide-and-reviews/"><u>Exploring the Latest Gadgets with Tom - Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-how-to-successfully-install-and-play-payday-2-on-your-computer/"><u>Fix It! How to Successfully Install and Play Payday 2 on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-skyline-city-building-freezes-in-simcity-buildit-on-windows/"><u>How to Resolve Skyline City Building Freezes in SimCity BuildIt on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy A14 5G?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-lower-volume-of-the-media-files/"><u>In 2024, How to Lower Volume of the Media Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-a2plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi A2+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-new-directors-toolkit-15-basic-cinematography-movements/"><u>In 2024, The New Director’s Toolkit 15 Basic Cinematography Movements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-stories-mastering-the-art-of-time-manipulation-for-2024/"><u>Instagram Stories – Mastering the Art of Time Manipulation for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996300933-pc-players-rejoice-as-tormented-souls-crashes-resolved/"><u>PC Players Rejoice as Tormented Souls Crashes Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/"><u>Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/"><u>Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-villages-pc-black-screen-problem/"><u>Troubleshooting Resident Evil Village's PC Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/"><u>Ultimate Guide: Solving the Final Epoch Bug in Windows Computers</u></a></li>
 </ul></div>
 

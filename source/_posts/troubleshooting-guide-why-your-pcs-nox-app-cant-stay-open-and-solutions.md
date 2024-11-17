@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Your PC's Nox App Can't Stay Open & Solutions"
-date: 2024-11-05T23:34:29.813Z
-updated: 2024-11-06T18:27:29.632Z
+date: 2024-11-13T17:21:29.683Z
+updated: 2024-11-17T04:42:58.242Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
@@ -67,6 +67,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
@@ -86,10 +93,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -115,33 +122,33 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try reconnecting your device to check if the issue persists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
 
  IPv 6, Internet Protocol version 6, is the most recent version of the Internet Protocol (IP). But it isn’t necessarily more secure than IPv4\. While many users have IPv4 and IPv6 running and allowing traffic on both types of network addresses, some applications might not be able to adapt to IPv6\. And this would cause some connection issues and can be the cause of Steam Remote Play not working. So to fix it, you need to disable IPv6.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
@@ -153,26 +160,26 @@ Now try reconnecting your device to check if the issue persists.
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
@@ -196,13 +203,6 @@ To set a static IP address, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
@@ -213,18 +213,18 @@ To check them, you can:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Copy and paste the following command line and press**Enter** .  
 
 **ipconfig /release**  
 
 ![how to check your ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -259,24 +259,20 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-lightened-screen-entry/"><u>[New] 2024 Approved Lightened Screen Entry</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-personalizing-teams-windows-for-effective-calls/"><u>[New] 2024 Approved Personalizing Teams Windows for Effective Calls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-smooth-gameplay-in-mw2-for-pc-tips-to-fix-frame-rate-issues-lags-and-stuttering-on-windows-systems/"><u>Achieve Smooth Gameplay in MW2 for PC – Tips to Fix Frame Rate Issues, Lags, and Stuttering on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-roblox-performance-six-efficient-techniques-to-prevent-crashing-and-enjoy-uninterrupted-gaming/"><u>Boost Your Roblox Performance: Six Efficient Techniques to Prevent Crashing and Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993154796-crack-the-code-to-successfully-run-resident-evil-5-on-your-personal-computer-no-more-launch-failures/"><u>Crack the Code to Successfully Run Resident Evil 5 on Your Personal Computer, No More Launch Failures</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/does-utilizing-gpu-enhance-or-degrade-video-output/"><u>Does Utilizing GPU Enhance or Degrade Video Output?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-fix-the-witcher-3-wild-hunt-failure-to-start-problem/"><u>Effective Strategies to Fix The Witcher 3: Wild Hunt Failure To Start Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722980990172-expert-tips-to-overcome-low-fps-drops-and-dominate-your-league-of-legends-matches/"><u>Expert Tips to Overcome Low FPS Drops and Dominate Your League of Legends Matches.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-display-driver-updates-for-multiple-windows-versions-here/"><u>Get the Newest Nvidia Display Driver Updates for Multiple Windows Versions Here!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-top-10-most-affordable-cloud-vendors-listed/"><u>In 2024, Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
-<li><a href="https://fox-place.techidaily.com/mp4-converter-on-gorillavid-effortless-video-download-from-gorillavid-streams/"><u>MP4 Converter on GorillaVid: Effortless Video Download From GorillaVid Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-division-2-game-crashes-instantly/"><u>Quick Fix: How to Resolve Division 2 Game Crashes Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/renewable-resources-vs-energy-demand-a-balancing-act/"><u>Renewable Resources Vs. Energy Demand: A Balancing Act</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-paradox-launcher-fails-to-start-up/"><u>Solving the Issue: When Your Paradox Launcher Fails to Start Up</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-stubborn-load-screen-in-among-us-solutions-included/"><u>Troubleshooting the Stubborn Load Screen in Among Us - Solutions Included</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-selecting-premier-inland-ssd-imaging-apps-for-safe-os-migration/"><u>Ultimate Guide to Selecting Premier Inland SSD Imaging Apps for Safe OS Migration</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-pro-max-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-technical-glitches-deathloop-game-starts-up-successfully-now/"><u>Untangling Technical Glitches: Deathloop Game Starts Up Successfully Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22/"><u>[New] 2024 Approved Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-depth-appraisal-does-inshot-rule-in-video-edits-in-2024/"><u>[New] In-Depth Appraisal Does InShot Rule in Video Edits, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723262308673-amd-ryzen-5-7600x-cpu-hits-low-price-of-174-at-newegg-dont-miss-out/"><u>AMD Ryzen 5 7600X CPU Hits Low Price of $174 at Newegg – Don’t Miss Out</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-enough-space-error-in-god-of-war-for-smoother-gaming-experience/"><u>Fix ‘Not Enough Space’ Error in God of War for Smoother Gaming Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-initialization-errors-in-deathloop-for-a-smooth-startup/"><u>How to Overcome Initialization Errors in Deathloop for a Smooth Startup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-live-streaming-platforms-you-should-know/"><u>In 2024, 10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-virtual-realms-with-headgear/"><u>In 2024, Navigating Through Virtual Realms with Headgear</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-utorrent-download-and-peer-connectivity-hiccups/"><u>Overcoming uTorrent Download and Peer Connectivity Hiccups</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/solo-sound-setback-fix-it-now-for-2024/"><u>Solo Sound Setback Fix It Now for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-how-to-fix-a-stalled-discord-live-broadcast/"><u>Solution: How to Fix a Stalled Discord Live Broadcast</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/stifled-expression-sudden-copyright-breach-for-2024/"><u>Stifled Expression Sudden Copyright Breach for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persona-4-golden-technical-glitches/"><u>Troubleshooting Guide: Resolving Persona 4 Golden Technical Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-unfreezing-call-of-duty-vanguard-gameplay-smoothly/"><u>Troubleshooting Tips for Unfreezing Call of Duty: Vanguard Gameplay Smoothly</u></a></li>
 </ul></div>
 

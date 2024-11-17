@@ -1,7 +1,7 @@
 ---
 title: Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen
-date: 2024-10-31T00:07:32.479Z
-updated: 2024-11-06T23:15:30.383Z
+date: 2024-11-11T16:30:52.494Z
+updated: 2024-11-16T20:00:57.255Z
 tags:
   - win11
   - win10
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Wait until you see the following message. Then click**Close** .
@@ -57,19 +57,6 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -91,26 +78,27 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -123,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
@@ -149,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -166,18 +154,18 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -203,16 +191,16 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -225,10 +213,16 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
@@ -252,16 +246,14 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-academic-archiving-ranking-the-top-10-educators-video-capturers/"><u>[New] 2024 Approved Academic Archiving Ranking the Top 10 Educator's Video Capturers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instasaves-the-leading-videophoto-downloaders/"><u>[New] 2024 Approved InstaSaves The Leading Video/Photo Downloaders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] A Step by Step Approach to Professional Chromatic Control</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-timekeeping-for-your-nuptials-appleandroid-selection/"><u>[New] Premium Timekeeping For Your Nuptials Apple/Android Selection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-spark-interest-how-to-make-your-vids-shine-on-insta/"><u>In 2024, Spark Interest How to Make Your Vids Shine on Insta</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-unveiling-the-secrets-of-youtube-music-curation/"><u>In 2024, Unveiling the Secrets of YouTube Music Curation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamp-your-game-ultimate-guide-to-resolve-risk-of-rain-2-freezing-issues/"><u>Revamp Your Game: Ultimate Guide to Resolve 'Risk of Rain 2' Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-madden-22-fast-techniques-to-overcome-technical-glitches/"><u>Reviving Madden 22: Fast Techniques to Overcome Technical Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-avengers-of-gaming-god-of-war-fps-coming-your-way-for-pc-players/"><u>The Avengers of Gaming - God of War FPS Coming Your Way for PC Players</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-connection-delays-and-lag-in-the-latest-version-of-new-world/"><u>Ultimate Guide: Resolving Connection Delays & Lag in the Latest Version of New World</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/oost-views-and-engagement-top-rated-online-keyword-generators/"><u>[New] Boost Views and Engagement Top-Rated Online Keyword Generators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-sound-on-your-apple-device-top-picks/"><u>[New] In 2024, Mastering Sound on Your Apple Device (Top Picks)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/wift-sketches-of-fortnite-game-screenshots/"><u>[New] Swift Sketches of Fortnite Game Screenshots</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-premiere-pro-crashing-on-windows-11-and-10/"><u>[SOLVED] Premiere Pro Crashing on Windows 11 & 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correct-the-audio-configuration-warning-in-itunes/"><u>How to Correct the Audio Configuration Warning in iTunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-football-manager-2-unable-to-initialize-the-game-engine-error-in-fm-2023/"><u>How to Fix 'Football Manager 2#: Unable to Initialize the Game Engine' Error in FM 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamped-century-age-of-ashes-game-now-stable-and-smooth-for-pc-users/"><u>Revamped 'Century: Age of Ashes' Game Now Stable and Smooth for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-game-selections-all-free-no-upgrades-required/"><u>Top 6 Game Selections: All Free, No Upgrades Required</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-pc-game-stability-improved-no-more-unexpected-crashes/"><u>Wolcen PC Game Stability Improved - No More Unexpected Crashes</u></a></li>
 </ul></div>
 

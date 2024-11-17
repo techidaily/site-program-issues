@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-11-04T00:13:49.979Z
-updated: 2024-11-06T17:17:43.853Z
+date: 2024-11-16T04:39:00.185Z
+updated: 2024-11-17T09:19:37.391Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,28 +87,28 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -136,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -145,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -176,15 +169,22 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,20 +208,15 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nhance-visibility-with-any-channel-title-through-free-makers-for-2024/"><u>[New] Enhance Visibility With Any Channel Title Through Free Makers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quick-and-cool-minecraft-abodes-guide/"><u>[Updated] In 2024, Quick and Cool Minecraft Abodes Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/choreographing-vids-with-a-musical-twist-in-snapchat/"><u>Choreographing Vids with a Musical Twist in Snapchat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensure-a-smooth-gaming-experience-with-these-fixes-for-dragon-age-origins-crashing-on-windows-10/"><u>Ensure a Smooth Gaming Experience with These Fixes for Dragon Age: Origins Crashing on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-solutions-handling-continuous-pc-freezes-during-fuser-use/"><u>Essential Solutions: Handling Continuous PC Freezes During Fuser Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-user-experience-of-the-functional-designed-acer-xfa240/"><u>Evaluating the User Experience of the Functional-Designed Acer XFA240</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-overcoming-recurring-lunabrowser-desktop-application-breakdowns-and-stability-problems/"><u>Expert Guide: Overcoming Recurring LunaBrowser Desktop Application Breakdowns and Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-getting-past-the-launch-bug-in-call-of-duty-modern-warfare-2/"><u>Expert Tips For Getting Past The Launch Bug In Call Of Duty: Modern Warfare #2</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>In 2024, Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-solving-recurrent-downtime-in-world-of-tanks-blitz-gaming/"><u>Mastering Stability: Solving Recurrent Downtime in World of Tanks Blitz Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722982556902-problems-with-launching-dragon-age-inquisition-solutions-inside/"><u>Problems with Launching Dragon Age Inquisition - Solutions Inside!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-why-your-mac-isnt-recognizing-outside-screens/"><u>Solving the Issue: Why Your Mac Isn't Recognizing Outside Screens</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-ankers-resilient-night-vision-flashlight-for-trekkers/"><u>The Ultimate Review of Anker’s Resilient Night Vision Flashlight for Trekkers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-elite-dangerous-a-comprehensive-guide-for-windows-users/"><u>Troubleshooting Persistent Crashes in Elite Dangerous: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 without a computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-achieving-soft-sound-dissolution-in-audacity-for-2024/"><u>[Updated] Achieving Soft Sound Dissolution in Audacity for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-dominance-highest-viewed-youtube-videos-today/"><u>[Updated] Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-icy-images-a-detailed-look-at-monitoring-summer-snacks-for-2024/"><u>[Updated] Icy Images A Detailed Look at Monitoring Summer Snacks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-persistent-dota-2-software-errors/"><u>Expert Advice on Fixing Persistent Dota 2 Software Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-your-broken-hp-visual-output-resolved/"><u>Expert Tips for Restoring Your Broken HP Visual Output [RESOLVED]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-zooming-in-on-videoleap-videos/"><u>Expert Tips Zooming In on Videoleap Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-crashing-process-error-unreal-process-has-crashed-in-outriders-ue4/"><u>How to Fix the Crashing Process Error ('Unreal Process Has Crashed') In Outriders (UE4)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>In 2024, Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-video-on-the-go-how-to-speed-up-playback-in-quicktime-player/"><u>New In 2024, Video on the Go How to Speed Up Playback in QuickTime Player</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tormented-souls-game-crashes-fix-and-optimize-performance-on-your-pc/"><u>Tormented Souls Game Crashes - Fix & Optimize Performance on Your PC</u></a></li>
 </ul></div>
 

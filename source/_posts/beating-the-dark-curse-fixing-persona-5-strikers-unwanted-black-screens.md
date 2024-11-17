@@ -1,7 +1,7 @@
 ---
 title: "Beating the Dark Curse: Fixing Persona 5 Strikers' Unwanted Black Screens"
-date: 2024-08-23T17:27:34.120Z
-updated: 2024-08-24T17:27:34.120Z
+date: 2024-11-10T09:35:45.610Z
+updated: 2024-11-17T01:14:14.392Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -57,8 +64,12 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,15 +82,33 @@ There are mainly two ways for you to update your graphics driver:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Verify the game files
 
@@ -89,19 +118,10 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click on Persona 5 Strikers, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
@@ -111,6 +131,13 @@ There are mainly two ways for you to update your graphics driver:
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
@@ -123,20 +150,11 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Tweak some settings in NVIDIA Control Panel
 
  Some find turning off Triple Buffering and setting Low Latency Mode to Ultra help them reduce Persona 5 Strikers crashing. Here’s how to do it:
@@ -166,8 +184,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +191,20 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-achieving-zero-expense-in-picture-filled-content/"><u>[New] 2024 Approved Achieving Zero Expense in Picture-Filled Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/everaging-google-trends-data-for-idea-genesis-in-videography/"><u>[New] Leveraging Google Trends Data for Idea Genesis in Videography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-elevate-your-videos-discoverability-mastering-tags/"><u>2024 Approved Elevate Your Video's Discoverability - Mastering Tags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-error-code-crossbow-in-your-minecraft-adventures/"><u>Comprehensive Fix for 'Error Code: Crossbow' In Your Minecraft Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-fuser-keeps-crashing-issues-in-windows-and-mac-os/"><u>Effective Solutions for 'Fuser Keeps Crashing' Issues in Windows and Mac OS</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/empowering-women-in-tech-the-inspiring-stories-of-abbyys-female-pioneers-for-iwd-2024/"><u>Empowering Women in Tech: The Inspiring Stories of ABBYY’s Female Pioneers for IWD 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-piu-efficienti-programmi-per-convertire-i-formati-video-da-4k-a-hdfull-hd-sul-pcmac-del-2019/"><u>I Più Efficienti Programmi per Convertire I Formati Video Da 4K a HD/Full HD Sul PC/Mac Del 2019</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994015275-league-of-legends-troubles-master-these-easy-fixes-for-a-seamless-gaming-experience/"><u>League of Legends Troubles? Master These Easy Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-continuous-crash-fixes-and-solutions/"><u>Pathfinder: Wrath of the Righteous - Continuous Crash Fixes & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-black-screen-issue-on-epic-games-launcher/"><u>Resolved: Fixing the Black Screen Issue on Epic Games Launcher</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-usb-c-driver-options-for-enhanced-performance-on-windows-10-systems/"><u>Top USB-C Driver Options for Enhanced Performance on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-truth-behind-the-postponement-of-guilty-gare-strive/"><u>Unveiling the Truth Behind The Postponement of 'Guilty Gare Strive'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+</ul></div>
 

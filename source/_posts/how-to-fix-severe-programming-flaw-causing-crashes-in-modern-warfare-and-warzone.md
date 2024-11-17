@@ -1,7 +1,7 @@
 ---
 title: How to Fix Severe Programming Flaw Causing Crashes in Modern Warfare & Warzone
-date: 2024-08-23T17:29:11.299Z
-updated: 2024-08-24T17:29:11.299Z
+date: 2024-11-11T16:41:22.154Z
+updated: 2024-11-16T19:57:01.440Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -68,8 +76,12 @@ Here’s how to use Fortect to run a Windows repair:
 5. Check your computer to see if the game still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The graphics card is the heart and soul for games like CoD. If Vanguard keeps crashing on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the game crashing issue.
@@ -86,13 +98,15 @@ Here’s how to use Fortect to run a Windows repair:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -115,16 +129,42 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Scan & repair Vanguard game files
 
  Call of Duty: Vanguard may crash if certain game files are missing or corrupt. To see if this is the case, you should run a scan & repair to verify its integrity. If any files are missing or found damaged, the tool will repair them for you.
@@ -143,9 +183,6 @@ To check the specs of your PC:
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -158,9 +195,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -170,15 +204,16 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer.
 
 ---
@@ -193,8 +228,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +235,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-best-fareless-cam-stream-and-snipper-pro/"><u>[New] Best Fareless Cam Stream & Snipper Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-cloud-services-with-best-price/"><u>[New] The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-minecraft-lag-expert-strategies-to-keep-your-game-smooth-and-uninterrupted/"><u>Beat Minecraft Lag : Expert Strategies to Keep Your Game Smooth and Uninterrupted</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-wwii-black-screen-issues-on-windows-solved/"><u>Call of Duty: WWII Black Screen Issues on Windows [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-usb-functionality-in-windows-10-and-11-systems/"><u>Effective Solutions to Restore USB Functionality in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-strategies-for-overcoming-league-of-legends-launch-errors-updated-tips/"><u>Expert Strategies for Overcoming League of Legends Launch Errors - Updated Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963396803-how-to-update-your-amd-ryzen-5-nvmes-drivers-with-new-release-step-by-step/"><u>How to Update Your AMD Ryzen 5 Nvme's Drivers with New Release – Step by Step!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-nokia-xr21-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Nokia XR21 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-y78t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y78t? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994837441-resolving-concurrent-system-failures-on-personal-computers-easily/"><u>Resolving Concurrent System Failures on Personal Computers Easily!</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-missing-game-detections/"><u>Resolving Steam's Missing Game Detections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-dev-error-6034-optimizing-your-call-of-duty-experience-across-platforms/"><u>Step-by-Step Solutions for Dev Error 6034 – Optimizing Your Call of Duty Experience Across Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-elden-ring-why-is-its-arrival-being-held-back/"><u>Update on Elden Ring - Why Is Its Arrival Being Held Back?</u></a></li>
+</ul></div>
 

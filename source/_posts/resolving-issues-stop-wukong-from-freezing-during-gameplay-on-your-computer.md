@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues: Stop Wukong From Freezing During Gameplay on Your Computer"
-date: 2024-08-23T17:17:40.434Z
-updated: 2024-08-24T17:17:40.434Z
+date: 2024-11-13T00:00:53.072Z
+updated: 2024-11-17T06:39:25.068Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If this is not your case, please move on to the other methods below regarding the crashing, freezing and black screen issues in Black Myth: Wukong.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  2\. Clean reinstall your display card driver
 
  Another very common reason for game crashes and freezes is an outdated or faulty graphics card driver, and Black Myth: Wukong is no exception. In this case, it’s recommended that you do a clean reinstallation of the display card driver, to avoid problems from shader caches.
@@ -78,35 +74,48 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. You can also pick the older drivers by clicking the**View all driver versions** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/de-view-older-drivers.png)
 5. Click the download button on the right to download the older driver that you need.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/old-amd-driver.png)
 6. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
  If a clean reinstallation of the graphics card driver doesn’t help with the crashes and freezes in Black Myth: Wukong, please move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Verify the game files integrity
 
  For a big game like Black Myth: Wukong, it’s not strange that some game files might be missing or corrupted during the download and installation. So if you’re experiencing constant crashes and freezes in BMW, you should try to verify the game files. To do so:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### On Steam
 
 1. Launch Steam.
@@ -119,24 +128,43 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Steam will verify the game’s files – this process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Epic Games Launcher
 
 1. On Epic Game Launcher, find Black Myth: Wukong in your **Library** . Click **the three dots** on the right side of the game line and select **Manage** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If verifying the game files still doesn’t help to fix the freezes and crashes in Black Myth: Wukong, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Update Windows
 
  If your system isn’t updated regularly, there could be missing Visual C++ Redistributable Runtimes or other compatibility issues that can cause crashes and freezes in Black Myth: Wukong. To make sure that you have the latest available updates installed:
@@ -144,18 +172,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try your Black Myth: Wukong again to see if it still crashes and freezes. If the problem remains, please move on to the next fix.
 
@@ -172,9 +191,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select the above-mentioned application and click**End Task** to close them one by one.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
  Then run Black Myth: Wukong again and see if it still crashes, freezes and has black screen. If the problem still remains, please move on to the next fix below.
@@ -208,8 +232,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +239,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/slime-rancher-2-pc-crash-fix-effective-solutions-to-ensure-smooth-gaming-experience/"><u>'Slime Rancher 2' PC Crash Fix: Effective Solutions to Ensure Smooth Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-enlarge-your-feed-footprint-with-full-screen-videos/"><u>[New] 2024 Approved Enlarge Your Feed Footprint with Full-Screen Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-evaluating-active-presenter-8s-performance/"><u>[New] 2024 Approved Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-breaking-down-the-new-normal-facebook-short-videos-for-2024/"><u>[New] Breaking Down the New Normal Facebook Short Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pros-and-cons-of-syma-x8c/"><u>[Updated] Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/best-caller-id-changers-and-their-enchanting-alternatives-for-2024/"><u>Best Caller ID Changers & Their Enchanting Alternatives for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-frequent-crashes-in-age-of-wonders-planetfall-gameplay/"><u>Common Causes and Fixes for Frequent Crashes in Age of Wonders: Planetfall Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-call-of-duty-vanguard-performance-for-pc-gaming-end-of-the-crash-saga/"><u>Enhanced Call of Duty Vanguard Performance for PC Gaming - End of the Crash Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blizzards-wow-error-132-a-step-by-step-guide/"><u>Fixing Blizzard's WoW Error 132: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-meta-vs-omni-navigating-digital-realms/"><u>In 2024, Meta Vs. Omni Navigating Digital Realms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-handling-minecraft-crash-with-exit-code-0/"><u>Resolved: Step-by-Step Guide on Handling Minecraft Crash with Exit Code -0</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-fix-for-failed-logins-in-fortnite-a-step-by-step-tutorial/"><u>Seamless Fix for Failed Logins in Fortnite: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/shadowplay-recording-not-working-on-windows-try-these-proven-fixes/"><u>ShadowPlay Recording Not Working on Windows? Try These Proven Fixes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracing-the-development-of-ios-platform-an-in-depth-look-from-version-10-to-180/"><u>Tracing the Development of iOS Platform: An In-Depth Look From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-lag-in-games-battlenet-outage-or-personal-setup-errors/"><u>Understanding Lag in Games: Battle.net Outage or Personal Setup Errors?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-fixes-for-windows-10-and-11-users/"><u>Wallpaper Engine Stability Fixes for Windows 10 and 11 Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Critical 'Ark' Bug: A Step-by-Step Guide"
-date: 2024-11-03T03:12:33.213Z
-updated: 2024-11-06T21:44:16.339Z
+date: 2024-11-13T17:24:27.132Z
+updated: 2024-11-17T09:51:49.169Z
 tags:
   - win11
   - win10
@@ -42,9 +42,29 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -58,9 +78,35 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After updating drivers, restart your PC and check if your problem has been resolved.
 
@@ -79,8 +125,22 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
@@ -99,32 +159,11 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -138,20 +177,13 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
@@ -166,14 +198,14 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 If this doesn’t help, try the next fix below.
 
@@ -186,19 +218,6 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
 
@@ -213,13 +232,6 @@ If this doesn’t help, try the next fix below.
 3. Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When it’s completed, launch Halo Infinite and test the gameplay.
 
@@ -244,22 +256,17 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-deciphering-the-platforms-a-side-by-side-analysis-of-triller-and-tiktok-max-156-chars/"><u>[New] In 2024, Deciphering the Platforms A Side-by-Side Analysis of Triller and TikTok (Max 156 Chars)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-upgrade-your-fb-videos-with-hd-mp4-format-forfree/"><u>[New] In 2024, The Ultimate Guide Upgrade Your FB Videos with HD MP4 Format – Forfree</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nleash-creativity-on-screen-discover-the-best-reactions/"><u>[New] Unleash Creativity on Screen Discover the Best Reactions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-selecting-superior-hdr-cameras-a-buyers-guide/"><u>[Updated] 2024 Approved Selecting Superior HDR Cameras A Buyer's Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-video-tools-opt-for-studio-or-latest-beta-version-for-2024/"><u>[Updated] Cutting-Edge Video Tools Opt for Studio or Latest Beta Version for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-your-amd-gpu-software-not-initializing-properly/"><u>Fixing Issues with Your AMD GPU Software Not Initializing Properly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-collapsing-tower-of-fantasy-solving-pc-game-crashes/"><u>Fixing the Collapsing Tower of Fantasy: Solving PC Game Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-crashes-in-forza-horizon-4-for-pc-players/"><u>How to Fix and Prevent Crashes in Forza Horizon 4 for PC Players</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-minecraft-troubleshooting-a-step-by-step-guide-to-fixing-error-code-0/"><u>Mastering Minecraft Troubleshooting - A Step-by-Step Guide to Fixing Error 'Code 0'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-addressing-thaumaturge-crashes-on-windows-and-macos-systems/"><u>PC Troubleshooting: Addressing Thaumaturge Crashes on Windows & MacOS Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pro-gamers-secrets-achieve-higher-fps-in-escape-from-tarkov-with-our-six-essential-hacks/"><u>Pro Gamers' Secrets: Achieve Higher FPS in Escape From Tarkov With Our Six Essential Hacks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-ideas-into-impactful-podcast-content-writing-tips-and-samples/"><u>Transform Your Ideas Into Impactful Podcast Content Writing Tips & Samples</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-acrocefexe-errors-expert-strategies-revealed/"><u>Troubleshooting AcroCEF.exe Errors: Expert Strategies Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013728579-troubleshooting-guide-how-to-fix-cyberpunk-2077s-flatlined-error-2024-issue/"><u>Troubleshooting Guide: How to Fix Cyberpunk 2077'S Flatlined Error 2024 Issue!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-guesting-without-glitches-live-tiktok-conversations-for-2024/"><u>[New] Guesting Without Glitches Live TikTok Conversations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>[Updated] In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://win-great.techidaily.com/2024pxe-winpe/"><u>2024年最適なPXEディスククローン用ソフトウェア - WinPE対応</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/bandicam-revisited-a-deep-dive-into-screen-recording/"><u>Bandicam Revisited A Deep Dive Into Screen Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-reality-comparing-vr-augmented-and-mixed-tech-for-2024/"><u>Beyond Reality Comparing VR, Augmented & Mixed Tech for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993855904-bluestacks-hiccups-heres-how-you-can-fix-them-quickly-and-easily/"><u>BlueStacks Hiccups? Here's How You Can Fix Them Quickly and Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004276678-brighten-up-your-gameplay-fixing-the-dark-mode-bug-in-call-of-duty-wwii-on-windows/"><u>Brighten Up Your Gameplay: Fixing the Dark Mode Bug in Call of Duty: WWII on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-lag-instantly-tricks-for-a-smooth-elden-ring-gameplay/"><u>Eliminate Lag Instantly: Tricks for a Smooth Elden Ring Gameplay</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-views-the-most-effective-30-freefire-tags-for-gamers/"><u>In 2024, Unleash Views The Most Effective 30 FreeFire Tags for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stable-play-effective-solutions-for-fifa-20-continuous-crashing-on-personal-computers-comprehensive-guide/"><u>Mastering Stable Play: Effective Solutions for FIFA 20 Continuous Crashing on Personal Computers [COMPREHENSIVE GUIDE]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y28-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y28 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/upgraded-feature-alert-macx-dvd-ripper-pro-v4/"><u>Upgraded Feature Alert: MacX DVD Ripper Pro V4.</u></a></li>
 </ul></div>
 

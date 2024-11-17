@@ -1,7 +1,7 @@
 ---
 title: Overcoming 'Days Gone' Bugs and Glitches - Expert Advice for a Better Playthrough
-date: 2024-08-23T17:27:28.828Z
-updated: 2024-08-24T17:27:28.828Z
+date: 2024-11-15T06:41:14.948Z
+updated: 2024-11-17T03:22:28.126Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 2. Under the**Processes** tab, right-click the processes that you want to shut down, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update the graphics driver
@@ -81,14 +88,6 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,9 +103,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Run the game executable as administrator
 
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
@@ -114,8 +110,18 @@ If this doesn’t help, move on to the next fix.
 If Vanguard still freezes randomly on your PC, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Repair corrupted system files
 
  Windows files corruptions could also trigger the freezing issues in Vanguard. When Vanguard shares some system files with your OS and some file among them is broken, it could freeze the gameplay as well. If this is the case, it would be difficult to identify the cause. You may need a powerful system repair tool to scan and fix your system files.
@@ -126,15 +132,20 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fix 6: Make sure your system is up-to-date
 
  As the system requirements suggest, it’s important to make sure your system is up-to-date. Windows releases updates on a regular basis which may fix known bugs and compatibility issues. Installing the latest updates may make a difference in solving the freezing issues in Vanguard.
@@ -145,18 +156,27 @@ If Vanguard still freezes randomly on your PC, try the next fix.
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -169,8 +189,12 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 8: Increase your virtual memory
 
  According to the system requirements, you need to have at least 8 GB RAM to run Call of Duty: Vanguard. If your PC is running out of memory, the game performance may be impacted and you may experience random freezes. If that’s the case, you can check your virtual memory and then increase it if needed:
@@ -179,18 +203,27 @@ If the freezing issue persists, there’s one more fix you can try.
 2. Paste **sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -198,9 +231,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 7. If you don’t know how much RAM you have, press the **Windows key** and **R** to invoke the Run box. Then type in **msinfo32** and click **OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
 
@@ -214,8 +244,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +251,22 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[Updated] 2024 Approved A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unraveling-sharex-professional-perspectives-and-picks/"><u>[Updated] 2024 Approved Unraveling ShareX Professional Perspectives & Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-knowledge-for-hosting-effective-split-screen-events-on-facebook/"><u>[Updated] Essential Knowledge for Hosting Effective Split Screen Events on Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>2024 Approved Expertise Unlocked Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-correcting-the-causes-of-stuttering-during-fallout-76-sessions/"><u>Diagnosing and Correcting the Causes of Stuttering During Fallout 76 Sessions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-reno-10-pro-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Reno 10 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-dayz-crashes-instantly-a-simple-guide/"><u>Fix DayZ Crashes Instantly: A Simple Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unforeseen-shutdown-of-nvidias-geforce-experience-platform/"><u>Fixing the Unforeseen Shutdown of NVIDIA's GeForce Experience Platform</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-trasforma-i-tuoi-file-mpeg-in-formato-wma-usando-il-servizio-online-di-movavi-nessun-costo/"><u>Guida Passo Passo: Trasforma I Tuoi File MPEG in Formato WMA Usando Il Servizio OnLine Di Movavi – Nessun Costo!</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G24 phone? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-transfer-your-dvd-content-to-a-usb-flash-drive-on-both-windows-and-macos-systems/"><u>How to Transfer Your DVD Content to a USB Flash Drive on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds Spotlight on the Best Mixers for Podcasters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-midgard-tribes-game-crashes/"><u>Troubleshooting Tips for Preventing Midgard Tribes Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-seamless-gaming-experience-with-these-proven-fixes-for-grand-theft-auto-vs-stutter-issue/"><u>Unlock Seamless Gaming Experience with These Proven Fixes for Grand Theft Auto V's Stutter Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-your-pc-might-be-having-issues-with-the-medium-a-deep-dive-into-the-cause-of-crashes/"><u>Why Your PC Might Be Having Issues With The Medium - A Deep Dive Into The Cause Of Crashes</u></a></li>
+</ul></div>
 

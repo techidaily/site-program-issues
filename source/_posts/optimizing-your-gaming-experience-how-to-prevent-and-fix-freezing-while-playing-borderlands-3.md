@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Gaming Experience: How to Prevent & Fix Freezing While Playing Borderlands 3"
-date: 2024-08-23T17:28:11.967Z
-updated: 2024-08-24T17:28:11.967Z
+date: 2024-11-10T21:32:17.217Z
+updated: 2024-11-16T18:36:18.327Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -45,13 +52,17 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
  (If you’re not using a NVIDIA graphics card, simply head to[fix 3](https://tools.techidaily.com/drivereasy/download/) . )
@@ -65,25 +76,37 @@ Here’s how you can download and install Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -99,20 +122,21 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -132,6 +156,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -146,9 +177,6 @@ To verify the integrity of game files, take these steps:
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
  Once finished, play Outriders and check if your game still stutters a lot. If it is, proceed to the next fix.
@@ -163,12 +191,16 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
@@ -184,9 +216,6 @@ Now play Outriders to see if you can get better gaming performance.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -203,8 +232,6 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +239,19 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-deciphering-digital-realms-virtualitys-cousins-vr-ar-and-mr-for-2024/"><u>[New] Deciphering Digital Realms Virtuality's Cousins (VR, AR, & MR) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-video-income-on-youtube-essentials/"><u>[New] In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essence-of-color-in-photography-top-11-tutorials/"><u>[Updated] The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display-for-2024/"><u>4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-2021-release-addressing-not-launching-problems-and-solutions/"><u>Age of Empires 2021 Release - Addressing Not-Launching Problems and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-heat-decks-must-have-accessories/"><u>Beat the Heat: Deck's Must-Have Accessories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011520453-fortnite-gameplay-enhancements-season-8s-frame-rate-improvements-revealed/"><u>Fortnite Gameplay Enhancements: Season 8'S Frame Rate Improvements Revealed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-stabilize-dragon-age-origins-and-eliminate-windows-10-interference/"><u>Guide to Stabilize Dragon Age: Origins and Eliminate Windows 10 Interference</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/optimieren-sie-ihre-compliance-losungen-erweiterte-moglichkeiten-mit-der-erneuerten-ediscovery-suite-von-deloitte/"><u>Optimieren Sie Ihre Compliance-Lösungen - Erweiterte Möglichkeiten Mit Der Erneuerten eDiscovery Suite Von Deloitte</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-perfect-support-portal-for-2024/"><u>Picture Perfect Support Portal for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-call-of-duty-warzone-lag-and-hitches/"><u>Troubleshooting Steps for Fixing Call of Duty Warzone Lag and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-discord-display-issues-when-sharing-your-screen/"><u>Ultimate Guide to Overcoming Discord Display Issues When Sharing Your Screen</u></a></li>
+</ul></div>
 

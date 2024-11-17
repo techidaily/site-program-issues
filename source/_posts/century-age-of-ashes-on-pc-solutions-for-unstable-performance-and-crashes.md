@@ -1,7 +1,7 @@
 ---
 title: "Century: Age of Ashes on PC - Solutions for Unstable Performance and Crashes"
-date: 2024-08-23T17:30:24.744Z
-updated: 2024-08-24T17:30:24.744Z
+date: 2024-11-12T04:44:05.333Z
+updated: 2024-11-16T17:19:28.486Z
 tags:
   - win11
   - win10
@@ -42,13 +42,14 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable full-screen optimisations
@@ -61,8 +62,12 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update graphics card driver
@@ -93,19 +98,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 5: Turn off VSync
 
  VSync stands for Vertical Sync, which is a display option in 3D PC games. It allows you to synchronize the frame rate with the monitor refresh rate for better stability. And having VSync off in GTA 5 has been reported by many players to be an effective way to fix the stuttering issue.
@@ -116,9 +123,14 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Restart your PC and GTA 5 again to see if it works.
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -131,8 +143,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +150,18 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-eco-conscious-video-recorders-how-to-use/"><u>[New] Premium Eco-Conscious Video Recorders How to Use</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-3-strategies-for-tiktok-livestreaming-from-desktop/"><u>[Updated] 3 Strategies for TikTok Livestreaming From Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-webp-conversion-to-jpeg/"><u>[Updated] Mastering the Art of WebP Conversion to JPEG</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps-for-2024/"><u>[Updated] Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y200e-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y200e 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-resurrected-update-issues-steps-to-resolve-a-failed-game-start/"><u>Diablo II Resurrected Update Issues - Steps to Resolve a Failed Game Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-game-over-frustration-proven-strategies-to-resolve-state-of-decay-2-crashing-issues-2024-update/"><u>End the 'Game Over' Frustration: Proven Strategies to Resolve State of Decay 2 Crashing Issues - 2024 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-activating-macos-recovery-for-problem-solving/"><u>Expert Advice on Activating macOS Recovery for Problem Solving</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-bug-fix-the-end-of-reconnect-woes-for-players/"><u>League of Legends Bug Fix - The End of Reconnect Woes for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-steam-for-better-gameplay-how-to-increase-its-speeds/"><u>Optimizing Steam for Better Gameplay: How to Increase Its Speeds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/razer-keyboard-issues-how-to-restore-backlight-functionality-effectively/"><u>Razer Keyboard Issues? How to Restore Backlight Functionality Effectively!</u></a></li>
+</ul></div>
 

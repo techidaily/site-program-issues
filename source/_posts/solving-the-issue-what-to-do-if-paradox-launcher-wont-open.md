@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: What to Do If Paradox Launcher Won't Open"
-date: 2024-11-02T23:39:59.635Z
-updated: 2024-11-06T18:03:08.629Z
+date: 2024-11-15T02:19:47.776Z
+updated: 2024-11-16T16:04:33.656Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -66,8 +59,22 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,27 +91,14 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -116,25 +110,25 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
@@ -145,20 +139,6 @@ wireless router
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Delete the game cache files
 
  The faulty game files can also lead to various issues with Warzone including the 6328 dev error. In this case, you should try cleaning up the cache.
@@ -168,6 +148,13 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -176,6 +163,19 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -203,18 +203,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-inside-the-revolutionary-tech-of-sj7s-4k-star-action-camera-review/"><u>[Updated] In 2024, Inside the Revolutionary Tech of SJ7's 4K Star Action Camera Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-latest-lg-360-camera-features-and-review/"><u>2024 Approved Latest LG 360 Camera Features and Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-installation-woes-heres-how-to-securely-download-from-microsoft-marketplace/"><u>Age of Empires IV Installation Woes? Here's How to Securely Download From Microsoft Marketplace</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-fixing-your-google-chrome-crashes-instantly/"><u>Effortless Solutions: Fixing Your Google Chrome Crashes Instantly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-download-hp-officejet-pro-8715-printer-software-for-windows-11-10-or-8-systems-free/"><u>Find & Download HP OfficeJet Pro 8715 Printer Software for Windows 11, 10 or 8 Systems [Free]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-silent-minecraft-world-troubleshooting-audio-issues-on-your-pc/"><u>How to Fix Silent Minecraft World: Troubleshooting Audio Issues on Your PC</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-mpow-microphone-for-optimal-audio-performance-on-pc/"><u>How to Repair Unresponsive MPOW Microphone for Optimal Audio Performance on PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/important-points-to-contemplate-when-selecting-a-dash-camera/"><u>Important Points to Contemplate When Selecting a Dash Camera</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-best-practices-for-youtube-thumbnail-dimensions/"><u>In 2024, Best Practices for YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-flight-tech-best-drone-gimbals/"><u>In 2024, Top Flight Tech Best Drone Gimbals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instantly-fix-your-recurring-control-crashes-a-simple-guide/"><u>Instantly Fix Your Recurring Control Crashes: A Simple Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixing-the-slowdown-of-spotifys-online-player/"><u>Ultimate Guide: Fixing the Slowdown of Spotify's Online Player</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage-for-2024/"><u>[New] Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-10-best-zoom-alternatives-deskop-and-mobile-for-2024/"><u>[Updated] 10 Best Zoom Alternatives [Deskop & Mobile] for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-champion-a-detailed-look-at-the-apple-iphone-15-pro-against-the-pro-max-variant/"><u>Choosing Your Champion: A Detailed Look at the Apple iPhone 15 Pro Against the Pro Max Variant</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-tech-expert-analysis-at-toms-hardware-hub/"><u>Discover Top Tech: Expert Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-resolve-black-screen-issues-in-far-cry-6-easily/"><u>Expert Guide: Resolve Black Screen Issues in Far Cry 6 Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-stuck-start-of-alan-wake-2-essential-troubleshooting-steps/"><u>Fixing the Stuck Start of Alan Wake 2 – Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-external-to-inshot-your-tunes-transformation-guide/"><u>In 2024, From External to InShot Your Tunes Transformation Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-asus-rog-phone-7-ultimate-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Asus ROG Phone 7 Ultimate Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/moviecraft-analysis-in-depth-exploration-for-2024/"><u>MovieCraft Analysis – In-Depth Exploration for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/probing-into-hdr-effectiveness-with-luminance-writings/"><u>Probing Into HDR Effectiveness with Luminance’ Writings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-lag-reduction-in-chivalry-2-latest-fixes/"><u>Step-by-Step Troubleshooting for Lag Reduction in Chivalry 2 - Latest Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tactics-ensuring-your-computer-recognizes-the-steam-virtual-reality-experience/"><u>Troubleshooting Tactics: Ensuring Your Computer Recognizes the Steam Virtual Reality Experience</u></a></li>
 </ul></div>
 

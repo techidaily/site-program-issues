@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2024-11-02T18:58:00.994Z
-updated: 2024-11-06T18:47:16.457Z
+date: 2024-11-15T21:38:34.864Z
+updated: 2024-11-17T09:48:37.862Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -72,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -97,18 +104,18 @@ You can use these steps to check for Windows updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -137,10 +144,10 @@ If the crash happens again, you can take a look at the next fix.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -163,6 +170,13 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
 
 ### Fix 6: Disable peripherals
@@ -171,23 +185,9 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -212,22 +212,17 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>[New] 2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-hit-after-hit-top-20-rap-hits-on-tiktok-platform/"><u>[New] 2024 Approved Hit After Hit Top 20 Rap Hits on TikTok Platform</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-create-powerful-biz-decks-with-no-cost-templates/"><u>[Updated] In 2024, Create Powerful Biz Decks with No-Cost Templates</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-harness-youtubes-power-with-these-top-7-affordable-easy-to-use-tag-extractor-tools/"><u>[Updated] In 2024, Harness YouTube's Power with These Top 7 Affordable, Easy-to-Use Tag Extractor Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/5-proven-strategies-for-resolving-the-failed-to-log-in-hurdle-on-palworld/"><u>5 Proven Strategies for Resolving the 'Failed to Log In' Hurdle on Palworld</u></a></li>
-<li><a href="https://program-issues.techidaily.com/download-and-dive-into-the-post-apocalyptic-world-days-gone-arrives-on-pc/"><u>Download and Dive Into the Post-Apocalyptic World: 'Days Gone' Arrives on PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-iphone-14-a-device-that-fits-its-role-perfectly-gadgetreviewcentral/"><u>Evaluating the iPhone 14: A Device That Fits Its Role Perfectly | GadgetReviewCentral</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-elden-ring-multiplayer-issues-a-step-by-step-guide/"><u>Fixing 'Elden Ring' Multiplayer Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-sudden-fps-drop-in-dota-2-when-switching-from-windows-10-to-11/"><u>Fixing Sudden FPS Drop in Dota 2 When Switching From Windows 10 to 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/from-lurkers-to-leaders-elevate-your-facebook-game-for-2024/"><u>From Lurkers to Leaders Elevate Your Facebook Game for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-comprehensive-fixes-for-game-latency-problems/"><u>Guilty Gear Strive: Comprehensive Fixes for Game Latency Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-avatar-frontiers-of-pandora-lagging/"><u>How to Fix Avatar: Frontiers of Pandora Lagging</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/mastering-bigger-head-effects-the-ultimate-guide-for-tiktok-creators-3-steps-for-2024/"><u>Mastering Bigger-Head Effects The Ultimate Guide for TikTok Creators (3 Steps) for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/remote-control-of-mac-via-iphone-discover-the-best-4-applications-for-seamless-integration/"><u>Remote Control of Mac via iPhone: Discover the Best 4 Applications for Seamless Integration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-launch-errors-in-rainbow-six-siege/"><u>Resolved! Fixing Launch Errors in Rainbow Six Siege</u></a></li>
-<li><a href="https://facebook.techidaily.com/seeking-truth-in-hate-for-global-network-engagement-tools/"><u>Seeking Truth in Hate for Global Network Engagement Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-city-building-skylines-2-startup-issues/"><u>Troubleshooting City Building: Skylines 2 Startup Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-video-brand-tips-for-great-youtube-banners/"><u>[Updated] In 2024, Elevating Your Video Brand Tips for Great YouTube Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/12-artificial-intelligence-helpers-for-perfecting-emails/"><u>12 Artificial Intelligence Helpers for Perfecting Emails</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-your-alerts-a-comprehensive-look-at-customizing-ringtone-and-sound-settings-on-android/"><u>2024 Approved Elevate Your Alerts A Comprehensive Look at Customizing Ringtone & Sound Settings on Android</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-text-messaging-automation-techniques-for-ios-smartphone-enthusiasts/"><u>Effective Text Messaging Automation Techniques for iOS Smartphone Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-steam-to-recognize-and-respond-to-a-controller-in-the-windows-environment-successfully/"><u>How to Get Steam to Recognize and Respond to a Controller in the Windows Environment Successfully</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-securely-back-up-your-systems-core-applications-from-windows-using-an-external-storage-device/"><u>How to Securely Back Up Your System's Core Applications From Windows Using an External Storage Device</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsoft-retains-future-plans-for-windows-control-panel-contrary-to-rumors-zdnet/"><u>Microsoft Retains Future Plans for Windows Control Panel, Contrary to Rumors | ZDNet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/newcomers-guide-profiting-from-live-streaming-on-periscope/"><u>Newcomer’s Guide Profiting From Live Streaming on Periscope</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-valorant-graphic-drivers-from-collapsing-a-quick-repair-tutorial/"><u>Stop Valorant Graphic Drivers From Collapsing – A Quick Repair Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-unresponsive-microphone-issues/"><u>Top 6 Fixes for Unresponsive Microphone Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-code-vein-freezes-top-tips-revealed/"><u>Troubleshooting and Repairing Code Vein Freezes - Top Tips Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/viral-velocity-15-dynamic-steps-to-skyrocketing-follower-count-and-fame-on-instagram/"><u>Viral Velocity 15 Dynamic Steps to Skyrocketing Follower Count and Fame on Instagram</u></a></li>
 </ul></div>
 

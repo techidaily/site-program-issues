@@ -1,7 +1,7 @@
 ---
 title: "[SOLUTION IN PLACE] Fixing Recurring Crashes on the Go with WOT Blitz"
-date: 2024-08-23T17:26:50.756Z
-updated: 2024-08-24T17:26:50.756Z
+date: 2024-11-14T05:17:20.671Z
+updated: 2024-11-16T21:24:01.951Z
 tags:
   - win11
   - win10
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
@@ -43,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 If the issue persists, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of Minecraft and cause the black screen issue. To ensure the game functions properly, you should **add Minecraft Launcher as an exception to your antivirus software** . This will vary depending on the antivirus software you’re using.
@@ -66,9 +71,14 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -78,9 +88,6 @@ If the issue remains, move on to the next fix.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -91,8 +98,24 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
@@ -100,13 +123,12 @@ If the issue remains, move on to the next fix.
 If this method doesn’t do the trick, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -121,9 +143,6 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -131,17 +150,19 @@ If not, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run box, type**%appdata%.minecraft** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
 
@@ -160,8 +181,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +188,19 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-top-10-facebook-video-players/"><u>[New] 2023 | Top 10 Facebook Video Players</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hack-the-art-of-instagram-reels-creation/"><u>[New] 2024 Approved Hack the Art of Instagram Reels Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>[Updated] Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/6-metodos-de-grabacion-libres-para-google-hangouts-en-2024-una-guia-completa-con-movavi/"><u>6 Métodos De Grabación Libres Para Google Hangouts en 2024: Una Guía Completa Con Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/harmonious-hues-recording-with-a-mac-for-2024/"><u>Harmonious Hues Recording with a Mac for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enhance-performance-and-prevent-lag-in-deathloop-for-playstation-5-and-pc-users/"><u>How To Enhance Performance And Prevent Lag In Deathloop for PlayStation 5 And PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-cyberpunk-2077-steam-download-hurdles-a-comprehensive-guide/"><u>Overcoming Cyberpunk 2077 Steam Download Hurdles – A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-prevent-and-fix-thaumaturge-crashes-in-windowsmac/"><u>Troubleshooting Steps: Prevent and Fix Thaumaturge Crashes in Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-stabilizing-resident-evil-4-remastered/"><u>Troubleshooting Tips for Stabilizing Resident Evil 4 Remastered</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-reducing-your-discords-cpu-consumption/"><u>Ultimate Solution for Reducing Your Discord's CPU Consumption</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Lag and Drops - A Comprehensive Fix for Modern Warfare 2 Stuttering on PCs
-date: 2024-11-05T17:55:06.534Z
-updated: 2024-11-07T00:30:27.665Z
+date: 2024-11-14T00:22:30.102Z
+updated: 2024-11-17T06:59:05.552Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -57,22 +57,15 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -87,13 +80,6 @@ The outdated or broken graphics driver often crashes the game.
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -113,7 +99,21 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -124,16 +124,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -165,17 +165,24 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-graphic-geniuses-discover-the-best-10-free-sketch-for-mac-for-2024/"><u>[New] Graphic Geniuses Discover the Best 10 Free Sketch for Mac for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harmonyheed-evaluating-audio-artifacts/"><u>[New] In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-streamlining-connections-spotify-meets-discord-for-2024/"><u>[New] Streamlining Connections Spotify Meets Discord for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-veil-insta-story-exploration-without-trace-for-2024/"><u>[Updated] Unveiling the Veil Insta Story Exploration without Trace for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008060276-beat-saber-malfunctions-heres-your-guide-to-prevent-recurring-game-shutdowns/"><u>Beat Saber Malfunctions? Here's Your Guide to Prevent Recurring Game Shutdowns!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-live-stream-glitches-on-discord/"><u>Diagnosing and Repairing Live Stream Glitches on Discord</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-note-taking-skills-with-these-6-advanced-ai-applications/"><u>Enhance Your Note-Taking Skills with These 6 Advanced AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-chatgpt-breaks-understanding-and-usage/"><u>Exploring the World of ChatGPT Breaks: Understanding and Usage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/marvelous-evaluation-and-replacement-insight-for-2024/"><u>Marvelous Evaluation & Replacement Insight for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-methods-to-upgrade-and-enhance-your-gaming-experience-with-updated-gtx-1660-drivers/"><u>Simple Methods to Upgrade and Enhance Your Gaming Experience with Updated GTX 1660 Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speeding-up-chrome-in-seconds-a-step-by-step-guide-for-a-smooth-experience/"><u>Speeding Up Chrome in Seconds – A Step-by-Step Guide for a Smooth Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-reducing-latency-in-bless-unleashed-gameplay/"><u>Troubleshooting Steps: Reducing Latency in Bless Unleashed Gameplay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conquer-the-blackened-canvas-of-youtube/"><u>[New] 2024 Approved Conquer the Blackened Canvas of YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>[New] A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-save-your-video-tweets-as-high-quality-mp3-files/"><u>2024 Approved How to Save Your Video Tweets as High-Quality MP3 Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989793469-achieving-stability-in-a-total-war-saga-troy-fixed-bugs-for-an-uninterrupted-adventure-on-pc/"><u>Achieving Stability in A Total War Saga: Troy - Fixed Bugs For an Uninterrupted Adventure on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/century-age-of-ashes-for-pc-fixed-enjoy-seamless-gameplay-with-no-more-crashes/"><u>Century: Age of Ashes for PC Fixed! Enjoy Seamless Gameplay with No More Crashes.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertissez-vos-fichiers-nsv-en-mp3-sans-frais-decouvrez-comment-avec-notre-guide-rapide/"><u>Convertissez Vos Fichiers NSV en MP3 Sans Frais - Découvrez Comment Avec Notre Guide Rapide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-multiplayer-connectivity-problems-and-solutions/"><u>Elden Ring Multiplayer Connectivity Problems and Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/elevate-gameplay-fluidity-using-ai-frame-rate-adjustment-techniques-for-higher-performance-and-seamless-transitions/"><u>Elevate Gameplay Fluidity Using AI Frame Rate Adjustment Techniques for Higher Performance and Seamless Transitions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-ensure-smooth-play-in-armored-core-6-on-your-personal-computer/"><u>Expert Tips to Ensure Smooth Play in Armored Core 6 on Your Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-madden-nfl-22-freezing-during-load-effective-fixes/"><u>How to Resolve Madden NFL 22 Freezing During Load: Effective Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-storm-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Storm 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/quick-and-simple-guide-mass-converting-your-movies-from-mov-to-mp4-format/"><u>Quick & Simple Guide: Mass Converting Your Movies From MOV to MP4 Format</u></a></li>
+<li><a href="https://fox-http.techidaily.com/smile-and-share-easy-memes-via-kinemaster/"><u>Smile and Share Easy Memes via KineMaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spectacular-photo-narrative-construction-suite/"><u>Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-how-to-revamping-motherboard-software-on-your-windows-system/"><u>The Ultimate How-To: Revamping Motherboard Software on Your Windows System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-rocket-league-game-crashes-in-2nd4/"><u>Top Strategies: Fixing Rocket League Game Crashes in 2nD4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fm-2019-crashes-tips-and-solutions-for-stable-gameplay/"><u>Troubleshooting FM 2019 Crashes - Tips & Solutions for Stable Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-game-crashes-in-football-manager-2022-on-your-desktop-pc/"><u>Troubleshooting Tips for Preventing Game Crashes in Football Manager 2022 on Your Desktop PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-prevent-spellbreak-from-freezing-on-your-desktop/"><u>Troubleshooting Tips: How to Prevent Spellbreak From Freezing on Your Desktop</u></a></li>
 </ul></div>
 

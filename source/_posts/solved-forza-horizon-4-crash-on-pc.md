@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Crash on PC"
-date: 2024-08-23T17:28:43.047Z
-updated: 2024-08-24T17:28:43.047Z
+date: 2024-11-12T09:40:09.046Z
+updated: 2024-11-16T20:42:24.610Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 4. **[Turn off unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your system specs
 
@@ -56,6 +63,13 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
  Make sure your PC is above the minimum system requirements to run the game, then move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of the_Forza Horizon 4_ not launching problem is a faulty or outdated graphics driver. You should update your graphics driver to see if that’s the case for you.
@@ -72,14 +86,17 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -90,8 +107,12 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 If your issue persists, then move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable ReadyBoost
 
  ReadyBoost is a Windows feature that allows you to use your flash memory devices to speed up your PC.
@@ -106,9 +127,23 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Apply > OK** .
 
@@ -120,9 +155,6 @@ If your issue persists, then move on and try the fix below.
 
 If your issue still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Turn off unnecessary programs
 
  This issue might occur when you’re running multiple programs at the same time, and your PC gets overloaded. So you should turn off unnecessary programs during gameplay.
@@ -144,30 +176,22 @@ Here is how to check and close programs you’re running:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Right-click the process you want to end and select **End task** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 **4)** Try launching your game to test your issue.
 
 If your issue continues to occur, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s possible that a recent update has stopped your game from running correctly, and a new update is needed to fix it. To ensure you have the latest updates, do the following:
@@ -176,9 +200,6 @@ If your issue continues to occur, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-43.jpg)
@@ -187,9 +208,6 @@ If your issue continues to occur, move on and try the fix below.
 
 If your issue persists, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstalling your game
 
 _Forza Horizon 4_ launching issues could happen when the game is not properly installed on your PC, or certain game files are corrupted or missing. In this case, reinstalling your game is very likely the solution to your issue:
@@ -198,9 +216,6 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **2)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-23.jpg)
@@ -221,8 +236,6 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +243,22 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dynamic-subscriber-buttons-for-video-creators-filmora-edition/"><u>[New] 2024 Approved Dynamic Subscriber Buttons for Video Creators - Filmora Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-eliminate-youtube-shorts-permanent-guide/"><u>[Updated] 2024 Approved Eliminate YouTube Shorts Permanent Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-hidden-weapons-for-social-media-dominance-on-instagram/"><u>[Updated] 2024 Approved The Hidden Weapons for Social Media Dominance on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>[Updated] In 2024, Twilight Tactics A Complete Guide to Nighttime Photography</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-integrating-apis-expanding-functionality-beyond-basic-html/"><u>[Updated] Integrating APIs Expanding Functionality Beyond Basic HTML</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-and-executing-photo-gender-modification-online-for-2024/"><u>[Updated] Understanding and Executing Photo Gender Modification Online for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-instagram-reel-oversight/"><u>Addressing: Instagram Reel Oversight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-driving-assistance-on-the-go-with-driver-easy-for-phones-and-tablets/"><u>Effortless Driving Assistance On-the-Go with Driver Easy for Phones & Tablets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-in-game-stutter-and-improving-fps-on-pc-while-playing-v/"><u>Fixing In-Game Stutter and Improving FPS on PC While Playing 'V'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-low-memory-issues-on-your-god-of-war-gaming-experience/"><u>How to Resolve Low Memory Issues on Your God of War Gaming Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-z-flip-5-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy Z Flip 5 Phone with Broken Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-obstacle-successful-resolution-of-the-0x800705b4-update-glitch-in-windows-11-systems/"><u>Overcoming the Obstacle: Successful Resolution of the 0X800705b4 Update Glitch in Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-common-reasons-behind-the-black-screen-problem/"><u>Resolved: Common Reasons Behind the Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-apex-legends-fixing-common-game-engine-issues/"><u>Troubleshooting Apex Legends: Fixing Common Game Engine Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-steams-difficulty-in-reaching-its-online-services/"><u>Troubleshooting Guide for Steam's Difficulty in Reaching Its Online Services</u></a></li>
+</ul></div>
 

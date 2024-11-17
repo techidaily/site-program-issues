@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2024-10-31T03:32:46.501Z
-updated: 2024-11-07T03:12:51.899Z
+date: 2024-11-11T17:23:30.659Z
+updated: 2024-11-16T21:19:34.227Z
 tags:
   - win11
   - win10
@@ -35,11 +35,31 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -50,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -93,19 +100,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -115,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -164,25 +151,32 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -210,19 +204,24 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-visual-experience-youtubes-quality-boosting-guide/"><u>[New] 2024 Approved Elevating Visual Experience YouTube's Quality Boosting Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>[New] From Novice to Pro Your Journey with HDR in PS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-green-screen-essentials-your-first-step-guide-into-color-key-techniques-for-2024/"><u>[New] Green Screen Essentials Your First-Step Guide Into Color Key Techniques for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-list-of-the-best-video-call-recording-equipment/"><u>[Updated] The Ultimate List of the Best Video Call Recording Equipment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-discover-8-essential-sites-for-pristine-green-screen-images/"><u>2024 Approved Discover 8 Essential Sites for Pristine Green Screen Images</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-20-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 20 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-wow-boot-up-blues-with-these-essential-pc-troubleshooting-tips/"><u>Banish Your WoW Boot-Up Blues with These Essential PC Troubleshooting Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/direct-compare-obs-and-twitch-studio-benefits-for-2024/"><u>Direct Compare OBS and Twitch Studio Benefits for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-players-experiencing-malfunctions-in-the-phasmophobia-vr-game/"><u>Effective Fixes for Players Experiencing Malfunctions in the Phasmophobia VR Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-utorrent-when-its-unresponsive-top-7-tips/"><u>How to Fix Utorrent When It's Unresponsive - Top 7 Tips</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-legal-download-how-to-safely-transfer-youtube-to-mp4/"><u>In 2024, Legal Download How to Safely Transfer YouTube to MP4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-constant-loading-screens-in-sea-of-thieves-a-step-by-step-guide/"><u>Resolving Constant Loading Screens in Sea of Thieves - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-your-fallout-76-pc-connection-woes-expert-tips-and-tricks/"><u>Solving Your Fallout 76 PC Connection Woes: Expert Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/technical-support-advice-resolving-thaumaturge-stability-problems-on-personal-computers/"><u>Technical Support Advice: Resolving Thaumaturge Stability Problems on Personal Computers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-insightful-recap-updated-sony-bdp-s3700-features/"><u>[New] In 2024, Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pixelmaster-360-multiplatform-resolution-booster/"><u>[New] PixelMaster 360 – Multiplatform Resolution Booster</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-proven-strategies-for-masterful-fisheye-photography/"><u>[New] Proven Strategies for Masterful Fisheye Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-melodic-monitor-gathering-tracks-for-evaluation/"><u>[Updated] 2024 Approved Melodic Monitor Gathering Tracks for Evaluation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-whatsapp-video-transfers-from-tweeted-content/"><u>[Updated] 2024 Approved WhatsApp Video Transfers From Tweeted Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-illuminated-insights-best-practices-for-nighttime-portraiture/"><u>[Updated] Illuminated Insights Best Practices for Nighttime Portraiture</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pixels-to-perfection-design-tips-for-captivating-banners-for-2024/"><u>[Updated] Pixels to Perfection Design Tips for Captivating Banners for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[Updated] Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-3-game-crashes-no-more-ultimate-troubleshooting-guide/"><u>Diablo 3 Game Crashes No More: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-fleet-10-aerial-visionaries-dream-choices/"><u>Elite Fleet #10 Aerial Visionaries' Dream Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-microsoft-edge-keeps-closing-issue-in-windows-10/"><u>Fixing the 'Microsoft Edge Keeps Closing' Issue in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-smart-8-hd-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Smart 8 HD To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-age-of-empires-ii-running-smoothly-after-upgrading-to-windows-11/"><u>How to Get Age of Empires II Running Smoothly After Upgrading to Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-crashes-in-disco-elysium-on-your-windows-computer-solutions-worked/"><u>How to Overcome Crashes in Disco Elysium on Your Windows Computer - Solutions Worked!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-gameplay-smoothness-solutions-to-combat-low-fps-and-stuttering-in-new-world/"><u>Improve Your Gameplay Smoothness: Solutions to Combat Low FPS and Stuttering in New World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-dota-2-gameplay-new-lag-prevention-methods-for-gamers/"><u>Mastering Smooth Dota 2 Gameplay: New Lag Prevention Methods for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-3-fe-fixes-resolving-pc-game-crash-issues/"><u>Persona 3 FE Fixes: Resolving PC Game Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-losing-destiny-2-server-connections/"><u>Resolved: Issues with Losing Destiny 2 Server Connections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013677615-troubleshooting-warcraft-e3-reforged-pc-issues-ultimate-fixes/"><u>Troubleshooting Warcraft E3 Reforged PC Issues – Ultimate Fixes</u></a></li>
 </ul></div>
 

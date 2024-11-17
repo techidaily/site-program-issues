@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Graphics Driver Crashed' Issue in Valorant - Fast Solutions
-date: 2024-08-23T17:28:13.146Z
-updated: 2024-08-24T17:28:13.146Z
+date: 2024-11-10T10:10:52.891Z
+updated: 2024-11-17T04:15:43.895Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -55,9 +62,6 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -66,19 +70,32 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -94,19 +111,20 @@ The Ascent
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of The Ascent releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -123,23 +141,16 @@ The ultimate burning program for all your needs!</a>
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
 
@@ -153,9 +164,6 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 3. To disble Moive / Film Grain, add the following and save the file:  
 
 ` **[SystemSettings]**  
@@ -188,6 +196,13 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -197,6 +212,13 @@ If the game still crashes, try the next fix, below.
  Run The Ascent and check if this issue persists after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -209,30 +231,19 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -258,8 +269,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +276,19 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/1723015601033-battlefield-4-audio-problems-discover-how-to-fix-it-here/"><u>Battlefield 4 Audio Problems? Discover How to Fix It Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-starfield-failure-to-start-up-on-your-gaming-platforms-steamxbox/"><u>Expert Fixes for Starfield Failure to Start Up on Your Gaming Platforms (Steam/Xbox)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/guides-to-quick-webinar-recording-with-macos-and-windows-for-2024/"><u>Guides to Quick Webinar Recording with macOS and Windows for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-y55s-5g-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo Y55s 5G (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/overcoming-unseen-thumbnails-in-youtube-shorts-for-2024/"><u>Overcoming Unseen Thumbnails in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-to-prevent-nier-replicant-game-from-freezing/"><u>Solution To Prevent Nier Replicant Game From Freezing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A34 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001697353-stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/sweet-release-from-social-media-shackles-deleting-your-company-page/"><u>Sweet Release From Social Media Shackles: Deleting Your Company Page</u></a></li>
+</ul></div>
 

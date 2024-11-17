@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes
-date: 2024-11-05T03:18:34.436Z
-updated: 2024-11-06T17:18:40.510Z
+date: 2024-11-09T16:58:19.912Z
+updated: 2024-11-16T23:46:16.142Z
 tags:
   - win11
   - win10
@@ -43,8 +43,29 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable full-screen optimisations
 
@@ -56,13 +77,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update graphics card driver
 
@@ -98,21 +112,14 @@ OR
 4. Relaunch the game and check whether it will stutter or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -124,13 +131,6 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart your PC and GTA 5 again to see if it works.
 
@@ -153,24 +153,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>[New] A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aptivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-pathway-to-successful-uploads-on-youtube/"><u>[New] The Ultimate Pathway to Successful Uploads on YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[Updated] 2024 Approved Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-experts-choice-the-best-windows-pc-screen-recorders/"><u>[Updated] Expert's Choice The Best Windows PC Screen Recorders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-celebrating-beauty-innovators-youtubes-elite-list/"><u>2024 Approved Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-frame-your-shot-ultimate-software-guide-image-editors/"><u>2024 Approved Frame Your Shot Ultimate Software Guide Image Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-resolving-compatibility-problems-and-crashes-for-optimal-pc-performance-in-202n/"><u>Call of Duty: Black Ops Cold War - Resolving Compatibility Problems and Crashes for Optimal PC Performance in 202N</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/create-compelling-compositions-with-iphone-the-power-of-leading-lines/"><u>Create Compelling Compositions with iPhone The Power of Leading Lines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-to-get-the-among-us-voice-chat-working-perfectly-on-your-pc/"><u>Essential Tips to Get the 'Among Us' Voice Chat Working Perfectly on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-eos-login-troubles-on-palworld-6-proven-methods-for-successful-entry/"><u>Fixing Your EOS Login Troubles on Palworld: 6 Proven Methods for Successful Entry</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-studio-crashes-in-windows-11-and-10/"><u>How to Fix OBS Studio Crashes in Windows 11 & 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/innovative-apps-for-mastering-dji-footage-quality/"><u>Innovative Apps for Mastering DJi Footage Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-relief-overcome-the-kernelbasedll-stability-issue-effortlessly/"><u>Instant Relief: Overcome the 'KernelBase.dll' Stability Issue Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-getting-minecraft-back-online-after-failure-to-load/"><u>Step-by-Step Guide: Getting Minecraft Back Online After Failure to Load</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-the-football-manager-2022-pending-launch-problems-solved/"><u>Troubleshooting Steps for the Football Manager 2022 Pending Launch Problems [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-restarting-your-battlenet-client-on-windows-systems/"><u>Troubleshooting Tips for Restarting Your Battle.net Client on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-recurring-overwatch-pc-game-crashes/"><u>Troubleshooting Tips: Resolving Recurring Overwatch ² PC Game Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-gadgets-with-toms-hardware-expertise/"><u>Unraveling Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-tales-for-youtube-triumph-top-3-strategies/"><u>[New] 2024 Approved Best Tales for YouTube Triumph Top 3 Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-effortless-screen-saving-on-android-devices/"><u>[New] Effortless Screen Saving on Android Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/are-there-any-connectivity-issues-with-xbox-live-today/"><u>Are There Any Connectivity Issues with Xbox Live Today?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-house-flipper-2-game-crash-on-your-computer/"><u>Effective Fixes to Stop House Flipper 2 Game Crash on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-praey-for-the-overlord-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Praey for the Overlord From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gas-station-simulator-windows-errors-heres-a-solution/"><u>Gas Station Simulator Windows Errors? Here's a Solution!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-edge-40-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Edge 40 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-v30-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme V30</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-social-media-reach-on-facebook-using-proven-seo-methods/"><u>In 2024, Enhance Social Media Reach on Facebook Using Proven SEO Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-insights-identifying-your-posts-audience/"><u>In 2024, Instagram Insights Identifying Your Post's Audience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-minecraft-expert-advice-for-eliminating-lag-and-enhancing-pc-gaming-experience/"><u>Mastering Minecraft: Expert Advice for Eliminating Lag and Enhancing PC Gaming Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/perfecting-visual-fidelity-of-fc6-ui/"><u>Perfecting Visual Fidelity of FC6 UI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-cross-language-communication-with-chatgpt-as-your-go-to-translator-tool/"><u>Simplifying Cross-Language Communication with ChatGPT as Your Go-To Translator Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-stop-resident-evil-village-from-crashing-on-your-pc/"><u>Solving Performance Issues: Stop Resident Evil Village From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
 </ul></div>
 

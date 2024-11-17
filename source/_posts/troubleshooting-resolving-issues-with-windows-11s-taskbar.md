@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Issues with Windows 11'S Taskbar"
-date: 2024-08-23T17:28:17.714Z
-updated: 2024-08-24T17:28:17.714Z
+date: 2024-11-15T17:41:18.412Z
+updated: 2024-11-16T23:00:51.519Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Relog into your account
 
  Re-logging to your desktop is one of the easiest workarounds for you to try. If your Start menu was only gone occasionally, you should go with this option. Here is how you relog into your account:
@@ -52,36 +59,46 @@ thumbnail: https://thmb.techidaily.com/bebadbeb051f48ac7f74b5607da42c1eb14a12e1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Check if your Start menu works all right now.
 
  If the same problem keeps reoccurring, you may need to try other methods below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -90,9 +107,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 5) Restart your computer and log into the new user account.
 
 6) Your**Start** menu should work now.You can change the new local account to a Microsoft account and transfer your files and settings.
@@ -109,9 +123,23 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
@@ -137,16 +165,10 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Check if your Start menu is back.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4: Disable or uninstall third-party antivirus programs
 
  If you’ve installed antivirus or anti-malware programs such as Norton, Kaspersky, AVG, Avast Behavior Shield or Malwarebytes, you should **temporarily**   turn them off or disable them to see if they’re causing your Start menu not working problem. If your computer’s Start menu returns to normal when they’re off, you should contact the vendor of the software to see if they can provide some help.
@@ -155,9 +177,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -167,6 +186,13 @@ net user newusername newpassword /add
  1) On your keyboard, press the**Windows logo key** and**R**  at the same time, type**control** in and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) View by**Category** , then click**Uninstall a program** .
 
@@ -198,6 +224,13 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -210,9 +243,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the result you see is the same with the screen shot above, your system files are all right, and you should move on and run another test. 5) Copy and paste the following command in, and press the Enter key on your keyboard. Still, it could take a while, wait with patience.
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -223,9 +253,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8: Reinstall Cortana
 
  The reason why your Start menu and Cortana is not working could be that they are installed wrong, somehow. You can reinstall them to get the Start menu feature back. Here is how:
@@ -234,19 +261,26 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
@@ -255,9 +289,6 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  If this command is not working in your case, try the following command instead:
 
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
@@ -278,8 +309,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +316,23 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pcs-finest-ps3-simulators-for-gaming-enthusiasts/"><u>[New] PC's Finest PS3 Simulators for Gaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-easy-way-to-edit-youtube-videos-in-imovie/"><u>2024 Approved Easy Way to Edit YouTube Videos in iMovie</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/excellent-ios-options-for-emulating-top-notch-psp-games/"><u>Excellent iOS Options for Emulating Top-Notch PSP Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-update-how-to-stop-psychonauts-2-from-crashing-on-windows/"><u>Fixes Update: How to Stop Psychonauts 2 From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-quietude-to-conquest-correcting-audio-failures-in-your-epic-skyrim-adventure/"><u>From Quietude to Conquest: Correcting Audio Failures in Your Epic Skyrim Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-consistent-fps-in-your-games-troubleshooting-guide/"><u>How To Ensure Consistent FPS in Your Games - Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-corsair-icue-pairing-problems-in-windows-10-or-11-a-comprehensive-guide/"><u>How to Repair Corsair iCUE Pairing Problems in Windows 10 or 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/identifying-causes-for-disappearing-youtube-shorts-thumbnails-for-2024/"><u>Identifying Causes for Disappearing YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-find-n3-flipwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Find N3 Flipwith/without a PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-virtuality-unleashed-insightful-reviews-of-top-10-pc-vr-streamers/"><u>In 2024, Virtuality Unleashed Insightful Reviews of Top 10 PC VR Streamers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/remedy-power-management-glitch/"><u>Remedy Power Management Glitch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-streaming-solving-your-logitech-f710-driver-woes-in-windows-81011/"><u>Seamless Streaming: Solving Your Logitech F710 Driver Woes in Windows 8/10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-ops-cold-war-error-code-0xc0000005/"><u>Troubleshooting Guide: Fixing Black Ops Cold War Error Code 0xC0000005</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-is-my-vrchat-experience-broken-solutions-inside/"><u>Troubleshooting: Why Is My VRChat Experience Broken? Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-like-a-dragon-pc-version-unleash-your-inner-samurai/"><u>Yakuza Like a Dragon PC Version - Unleash Your Inner Samurai</u></a></li>
+</ul></div>
 

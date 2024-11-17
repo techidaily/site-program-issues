@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How to Play Dragon Age: Origins Without Glitches on Windows 11"
-date: 2024-08-23T17:28:29.271Z
-updated: 2024-08-24T17:28:29.271Z
+date: 2024-11-11T22:23:52.865Z
+updated: 2024-11-17T04:50:27.059Z
 tags:
   - win11
   - win10
@@ -57,9 +57,23 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**AppData** in the address bar.
 
@@ -78,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -130,24 +151,14 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
 * **Compatibility mode:**  If Origin won’t open on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
@@ -156,13 +167,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -175,9 +190,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -189,6 +201,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
@@ -202,25 +221,23 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -233,9 +250,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Restart your PC when the Windows update process completed.
 
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
@@ -243,8 +257,12 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 7: Reinstall Origin**
 
  If all the fixes above still don’t work, it’s time to uninstall Origin and reinstall it.
@@ -257,13 +275,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
@@ -285,8 +307,6 @@ iv. Restart your Windows system when it is completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +314,20 @@ iv. Restart your Windows system when it is completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-selfie-validation-is-it-essential-for-instagram-users-in-2024/"><u>[New] Selfie Validation Is It Essential for Instagram Users, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-united-reviews-the-expert-on-easeus-for-2024/"><u>[New] United Reviews The Expert on EaseUS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-illusion-how-genuine-growth-is-stifled-by-shams-for-2024/"><u>[Updated] Unveiling the Illusion How Genuine Growth Is Stifled by Shams for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-10-free-web-based-video-chatting-tools/"><u>2024 Approved Top 10 Free Web-Based Video Chatting Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-scan-qr-codes-here-are-10-tips-to-restore-functionality-on-your-iphone/"><u>Can't Scan QR Codes? Here Are 10 Tips to Restore Functionality on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eight-effective-solutions-to-prevent-multiversus-game-from-crashing/"><u>Eight Effective Solutions to Prevent Multiversus Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-session-overcoming-stutter-in-assassins-creed-valhalla-for-pc-players/"><u>Enhance Your Gaming Session: Overcoming Stutter in Assassins Creed Valhalla for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-amazon-prime-video-playback-problems/"><u>How to Resolve Amazon Prime Video Playback Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-initializing-resident-evil-5-on-personal-computers/"><u>Overcoming the Hurdle of Initializing Resident Evil 5 on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-persistent-crashes-in-age-of-empires-iv-pc-edition/"><u>Resolved: Persistent Crashes in Age of Empires IV – PC Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tricks-for-a-seamless-experience-cutting-down-lags-and-raising-frame-rates-in-fall-guys/"><u>Tricks for a Seamless Experience: Cutting Down Lags & Raising Frame Rates in Fall Guys</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-p55t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel P55T Device</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-realme-narzo-n55-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo N55 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

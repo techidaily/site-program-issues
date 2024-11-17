@@ -1,7 +1,7 @@
 ---
 title: Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency
-date: 2024-10-31T03:32:40.659Z
-updated: 2024-11-06T20:16:10.590Z
+date: 2024-11-12T21:51:58.249Z
+updated: 2024-11-17T01:00:44.384Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
  Common causes of game freezing are hardware issues, incompatible drivers, corrupted game files, or overheating. Besides, you’re likely to run into the game freezing issue if you’re running multiple programs on your computer at the same time, hogging your resources. If you’re not sure how to deal with this, check the fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check your computer specifications
 
@@ -102,13 +109,6 @@ _Code Vein_ may not be able to access certain game files on your computer under 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-47.jpg)
@@ -134,13 +134,6 @@ If your game freezes again, then go ahead with the next fix.
 **3)**  Right-click **Code Vein** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -193,14 +186,14 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching _Code Vein_  to see if it works properly now. If your issue persists, check the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Set your PC power plan to High Performance
 
@@ -215,6 +208,19 @@ If the freezing issue still happens, try the fix below.
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-34.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -247,16 +253,16 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-42.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
@@ -265,13 +271,6 @@ If the freezing issue still happens, try the fix below.
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -283,9 +282,23 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -313,9 +326,23 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -325,36 +352,15 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-55.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **6)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-47-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you created to your current directory location.
 
@@ -386,22 +392,22 @@ If the freezing issue still happens, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-conceptions-selecting-the-finest-10-free-macdrawers/"><u>[Updated] 2024 Approved Creative Conceptions Selecting the Finest 10 FREE MacDrawers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-to-embed-a-youtube-playlist-on-a-website/"><u>[Updated] How to Embed A YouTube Playlist On a Website</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>2024 Approved Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-civi-3-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Civi 3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-utorrents-connectiondownload-malfunctions/"><u>Diagnosing and Repairing uTorrent's Connection/Download Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-issues-encountered-with-clownfish-sound-changers/"><u>Effective Fixes for Issues Encountered With Clownfish Sound Changers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-free-gaming-solving-the-steam-locked-content-dilemma/"><u>Error-Free Gaming: Solving the Steam Locked Content Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-track-solutions-boost-your-fps-in-elden-ring/"><u>Fast-Track Solutions: Boost Your FPS in Elden Ring</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-why-call-of-duty-warzone-ignores-gpu-in-windows-11-setup/"><u>Fix: Why Call of Duty Warzone Ignores GPU in Windows 11 Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-microphone-expert-tips-and-tricks/"><u>How to Repair an Unresponsive Microphone - Expert Tips & Tricks</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-seamless-streaming-screen-record-and-upload-from-macpc/"><u>In 2024, Seamless Streaming Screen Record & Upload From Mac/PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/key-insights-and-tips-what-to-look-out-for-before-bringing-home-a-set-of-stereo-speakers/"><u>Key Insights and Tips - What to Look Out For Before Bringing Home a Set of Stereo Speakers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-making-itunes-work-with-iphones-on-windows-11/"><u>Step-by-Step Guide: Making Itunes Work with iPhones on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/twitch-trouble-here-are-7-fixes-for-when-streams-arent-loading-correctly/"><u>Twitch Trouble? Here Are 7 Fixes for When Streams Aren't Loading Correctly</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unauthorized-capture-techniques-for-webex-meetings-on-multiple-devices/"><u>Unauthorized Capture Techniques for Webex Meetings on Multiple Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>[New] 2024 Approved The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eb-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>[New] Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010508263-effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005837875-effortless-solutions-for-when-discord-wont-install-resolve-it-quickly/"><u>Effortless Solutions for When Discord Won't Install – Resolve It Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-lenovo-mouse-pad-up-and-running-in-windows-1187-solution/"><u>Get Your Lenovo Mouse Pad Up and Running in Windows 11/8/7 [SOLUTION]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-cut-the-cord-clutter-simultaneous-playthrough-of-videos/"><u>In 2024, Cut the Cord Clutter Simultaneous Playthrough of Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-valheim-stalling-effective-fixes-for-pc-players-struggling-with-freezing/"><u>Overcome Valheim Stalling: Effective Fixes for PC Players Struggling with Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-for-robocop-rogue-city-game-on-personal-computers/"><u>Overcoming Launch Problems for 'RoboCop: Rogue City' Game on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-subnautica-below-zero-crashes-a-comprehensive-guide-for-pc-gamers/"><u>Overcoming Subnautica (Below Zero) Crashes: A Comprehensive Guide for PC Gamers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-network-connection-a-comprehensive-tutorial-for-flushing-dns-on-windows-operating-systems/"><u>Revitalize Your Network Connection: A Comprehensive Tutorial for Flushing DNS on Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-spotify-reveals-errors-within-your-devices-audio-arrangement/"><u>Solution: Spotify Reveals Errors Within Your Device's Audio Arrangement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/spotlight-on-5-captivating-book-viddies-for-2024/"><u>Spotlight on 5 Captivating Book Viddies for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-input-latency-issues-in-valorant-pc-update-2e24/"><u>Troubleshooting & Fixing Input Latency Issues in Valorant (PC) - Update 2E24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012916536-win-your-battle-against-broken-msi-mystic-lights-in-windows-with-these-fixes/"><u>Win Your Battle Against Broken MSI Mystic Lights in Windows with These Fixes</u></a></li>
 </ul></div>
 

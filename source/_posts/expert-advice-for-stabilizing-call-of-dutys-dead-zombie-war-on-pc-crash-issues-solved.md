@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-11-02T20:11:29.335Z
-updated: 2024-11-06T17:43:34.958Z
+date: 2024-11-16T02:02:18.267Z
+updated: 2024-11-17T03:06:54.156Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
 If the issue persists, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify the integrity of game files
 
  Corrupted game files could also trigger game crashing issues. If it’s the case, you may need to verify if there’s an integrity issue with the game files.
@@ -80,6 +87,13 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
@@ -103,25 +117,18 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -138,21 +145,14 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
@@ -160,21 +160,15 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -204,22 +198,18 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-age-of-empires-iv-not-downloadinginstalling-on-microsoft-store/"><u>[Fixed] Age of Empires IV Not Downloading/Installing on Microsoft Store</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/est-3d-entrance-makers-for-youtube-creators/"><u>[New] Best 3D Entrance Makers for YouTube Creators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>[New] Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-highest-rated-20-public-domain-pubg-combos/"><u>[Updated] In 2024, Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-a-closer-look-at-sonys-s6700-enhancements/"><u>2024 Approved A Closer Look at Sony's S6700 Enhancements</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/detailed-overview-of-our-product-line-all-you-need-to-know/"><u>Detailed Overview of Our Product Line - All You Need to Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/grounded-gaming-woes-master-the-art-of-troubleshooting-and-enjoy-a-seamless-pc-playtime/"><u>Grounded Gaming Woes? Master the Art of Troubleshooting and Enjoy a Seamless PC Playtime</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-forge-mode-obstacles-and-find-your-way-into-fortnite-battles/"><u>How to Overcome Forge Mode Obstacles & Find Your Way Into Fortnite Battles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-a-non-responsive-rockstar-games-launcher-for-players/"><u>How to Repair a Non-Responsive Rockstar Games Launcher for Players</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y27s FRP</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/introducing-our-latest-innovations-digital-cookbook-solutions-and-image-transformation-explore-the-abbyy-universe/"><u>Introducing Our Latest Innovations: Digital Cookbook Solutions & Image Transformation - Explore the ABBYY Universe</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-ios-6-strategies-for-perfect-autocorrection-and-enhanced-spelling-skills/"><u>Mastering iOS: 6 Strategies for Perfect Autocorrection and Enhanced Spelling Skills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-interruptions-a-pro-guide-on-fixing-gears-of-war-5-frequent-crashes/"><u>No More Interruptions - A Pro Guide on Fixing 'Gears of War 5' Frequent Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-non-responsive-minecraft-games-on-computer-systems/"><u>Quick Fixes for Non-Responsive Minecraft Games on Computer Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-restoring-soundscape-in-minecraft-when-your-pc-falls-silent/"><u>The Ultimate Solution: Restoring Soundscape in Minecraft When Your PC Falls Silent</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-performance-of-asus-rt-ac88u-for-gamers-a-full-review/"><u>Unveiling Performance of Asus RT-AC88U for Gamers: A Full Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-explore-top-5-ps2-games-simulators-for-ios/"><u>[Updated] 2024 Approved Explore Top 5 PS2 Games Simulators for iOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturexpress-11-professional-for-2024/"><u>[Updated] CaptureXpress 11 Professional for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-visual-harmony-a-color-grading-journey/"><u>2024 Approved Crafting Visual Harmony A Color Grading Journey</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-blh4100-blade-120rc-helicopter-evaluation-for-outdoor-flying/"><u>Comprehensive BLH4100 Blade 120R/C Helicopter Evaluation for Outdoor Flying</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998595928-consideration-of-the-additional-environmental-impact-due-to-wastewater-production-which-must-be-managed-through-treatment-before-disposal-or-recycling/"><u>Consideration of the Additional Environmental Impact Due to Wastewater Production, Which Must Be Managed Through Treatment Before Disposal or Recycling.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/endure-no-more-sea-of-thieves-crash-issues-now-solved/"><u>Endure No More: Sea of Thieves Crash Issues Now Solved</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-data-source-configuration-interface/"><u>Exploring Windows Data Source Configuration Interface</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-back-4-blood-online-experience/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Back 4 Blood Online Experience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-by-step-repair-tips-for-a-smooth-phasmophobia-virtual-reality-gameplay/"><u>Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-get-borderlands-3-running-smoothly-troubleshooting-guide/"><u>Top 11 Solutions to Get Borderlands 3 Running Smoothly - Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-crashing-in-mordhau-expert-advice/"><u>Troubleshooting Continuous Crashing in Mordhau: Expert Advice</u></a></li>
 </ul></div>
 

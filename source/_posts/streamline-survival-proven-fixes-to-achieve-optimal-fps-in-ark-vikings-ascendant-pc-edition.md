@@ -1,7 +1,7 @@
 ---
 title: "Streamline Survival: Proven Fixes to Achieve Optimal FPS in ARK: Vikings Ascendant - PC Edition"
-date: 2024-11-01T03:46:20.739Z
-updated: 2024-11-07T03:33:52.085Z
+date: 2024-11-15T02:50:52.518Z
+updated: 2024-11-17T06:48:50.416Z
 tags:
   - win11
   - win10
@@ -42,28 +42,27 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
@@ -80,22 +79,21 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -128,14 +126,21 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
@@ -161,26 +166,20 @@ Now see if you could start the game. If not, try the next method.
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
@@ -201,13 +200,20 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
@@ -234,21 +240,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stitch-together-photographs-the-montage-masterclass/"><u>2024 Approved Stitch Together Photographs The Montage Masterclass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-methods-to-lower-elevated-cpu-demands-on-your-chrome-experience/"><u>Effective Methods to Lower Elevated CPU Demands on Your Chrome Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-crashes-tips-for-keeping-your-content-warning-application-stable-on-windows-systems/"><u>Eliminating Crashes: Tips for Keeping Your Content Warning Application Stable on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hensbergen-jjm-et-al-2018c-glyphosate-in-aquatic-ecosntriments-a-review-of-occurrence-and-potential-impacts-on-aquatic-life-environ-toxicol-pharmacol-64pt-a428/"><u>Hensbergen JJM., Et Al (2018C). Glyphosate in Aquatic Ecosntriments: A Review of Occurrence and Potential Impacts on Aquatic Life. Environ Toxicol Pharmacol, 64(Pt A), 39-52.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-buffering-issues-during-discord-live-broadcasts/"><u>How to Fix Continuous Buffering Issues During Discord Live Broadcasts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-freezing-solve-it-fast-with-these-simple-fixes/"><u>League of Legends Freezing? Solve It Fast with These Simple Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007789373-mastering-lol-gameplay-solving-your-frame-rate-drop-problems-easily/"><u>Mastering LoL Gameplay: Solving Your Frame Rate Drop Problems Easily!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-conversations-a-guide-to-effective-sorting/"><u>Navigating ChatGPT Conversations: A Guide to Effective Sorting</u></a></li>
-<li><a href="https://win-news.techidaily.com/optimaler-werkzeugauswahl-zur-sicherung-ihrer-lexar-ssd-professionelle-kopierprogramme-vergleichen/"><u>Optimaler Werkzeugauswahl Zur Sicherung Ihrer Lexar SSD - Professionelle Kopierprogramme Vergleichen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-bloodhunt-game-freezes-and-hiccups-a-guide-for-pc-players/"><u>Resolving Bloodhunt Game Freezes and Hiccups: A Guide for PC Players</u></a></li>
-<li><a href="https://win-updates.techidaily.com/safe-transition-shifting-from-mbr-hard-drive-to-gpt-solid-state-with-secure-boot-in-windows-10/"><u>Safe Transition: Shifting From MBR Hard Drive to GPT Solid State with Secure Boot in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-crashing-on-pc-how-to-fix/"><u>Sons of the Forest Crashing on PC: How to Fix?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stepwise-methodology-for-quick-remediation-of-portable-display-lines/"><u>Stepwise Methodology for Quick Remediation of Portable Display Lines</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-comprehensive-guide-to-getting-most-out-of-windows-11s-startup-screen/"><u>The Comprehensive Guide to Getting Most Out of Windows 11'S Startup Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-aim-for-affluence-enroll-now-in-youtubes-partner-programme/"><u>[New] 2024 Approved Aim for Affluence Enroll Now in YouTube's Partner Programme</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-camstudios-enhanced-screen-capturing-for-a-seamless-2023-experience-for-2024/"><u>[Updated] CamStudio's Enhanced Screen Capturing for a Seamless 2023 Experience for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picshot-revolutionizing-effortless-digital-photobooks/"><u>2024 Approved Picshot Revolutionizing Effortless Digital Photobooks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-m6-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco M6 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/8k-tv-showdown-highest-resolution-screens-compared/"><u>8K TV Showdown Highest Resolution Screens Compared</u></a></li>
+<li><a href="https://program-issues.techidaily.com/civil-court-case-6-addressing-access-denials-in-the-2024-legal-year/"><u>Civil Court Case 6: Addressing Access Denials in the 2024 Legal Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-stream-interrupted-by-endless-loading-heres-how-to-get-your-live-event-running-again/"><u>Discord Stream Interrupted by Endless Loading? Here's How to Get Your Live Event Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-frequent-crashes-and-freezing-in-gta-5/"><u>Expert Tips for Preventing Frequent Crashes & Freezing in GTA 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-game-ultimate-troubleshooting-guide-to-prevent-state-of-decay-2-from-crashing/"><u>Fix Your Game: Ultimate Troubleshooting Guide to Prevent State of Decay 2 From Crashing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a54-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A54 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-mkv-deck-for-pcandroid-users/"><u>In 2024, Prime MKV Deck for PC/Android Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-challenges-for-a-smoother-launch-insights-into-wolcens-development-hurdles/"><u>Overcoming Challenges for a Smoother Launch: Insights Into Wolcen's Development Hurdles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-early-shutdowns-fixes-for-sudden-failures-when-launching-your-computer/"><u>Resolving Early Shutdowns: Fixes for Sudden Failures When Launching Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-narzo-n53-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme Narzo N53 to iOS not Working Problems | Dr.fone</u></a></li>
 </ul></div>
 

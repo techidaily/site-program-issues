@@ -1,7 +1,7 @@
 ---
 title: "Far Cry 6 Fix: Ultimate Guide to Resolve the Notorious Black Screen Problem"
-date: 2024-11-04T22:59:55.875Z
-updated: 2024-11-06T17:24:40.335Z
+date: 2024-11-13T17:02:15.464Z
+updated: 2024-11-17T01:47:55.443Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -52,13 +45,26 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
@@ -91,6 +97,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -105,27 +118,7 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if this issue persists. If not, you have resolved this problem!
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -142,21 +135,22 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -186,16 +180,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -219,24 +213,19 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eyond-youtube-elite-video-sharing-hubs-revealed-for-2024/"><u>[New] Beyond YouTube Elite Video Sharing Hubs Revealed for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-a-comprehensive-look-at-vlc-recorder/"><u>[Updated] A Comprehensive Look at VLC Recorder</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamlined-method-keeping-and-capturing-twitters-videomedia-for-2024/"><u>[Updated] Streamlined Method Keeping and Capturing Twitters Video/Media for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-release-delay-explained/"><u>Assassin's Creed Valhalla Release Delay Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-gm-crash-dilemma-proven-solutions-to-stabilize-your-game/"><u>End GM Crash Dilemma: Proven Solutions to Stabilize Your Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-ongoing-oxygen-not-included-crash-concerns/"><u>Expert Solutions for Ongoing 'Oxygen Not Included' Crash Concerns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-freezing-and-stuttering-in-the-thrilling-world-of-dying-light/"><u>Expert Tips to Resolve Freezing and Stuttering in the Thrilling World of Dying Light</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-the-thaumaturge-not-launching-or-working-on-pc/"><u>Fix The Thaumaturge Not Launching or Working on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-p55-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel P55 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-arma-3-from-crashing-updated-tips-for-gamers/"><u>How to Stop Arma 3 From Crashing [Updated Tips for Gamers ]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-c110-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia C110 online without jailbreak</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-solo-spotlight-crafting-a-chart-topping-podcast/"><u>In 2024, Solo Spotlight Crafting a Chart-Topping Podcast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-for-enhancing-frame-rate-and-reducing-stutters-in-call-of-duty-warzone/"><u>Optimizing Gameplay: Tips for Enhancing Frame Rate & Reducing Stutters in Call of Duty: Warzone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2562572-9781782794677-secrets-of-the-combined-astrology/"><u>Secrets of the Combined Astrology | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-v30-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V30 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-initial-black-screen-in-elden-ring-gameplay/"><u>Troubleshooting the Initial Black Screen in Elden Ring Gameplay</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210283321-9781722526764-your-super-powers/"><u>Your Super Powers! | Free Book</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-inexpensive-pc-capture-programs-reviewed/"><u>[New] 2024 Approved Inexpensive PC Capture Programs Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-immediate-gif-to-video-conversion-top-5-free-websites/"><u>[New] Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[Updated] In 2024, Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-lens-perspective-filmographys-top-cinematic-techniques-and-tips-of-2024/"><u>[Updated] The Lens Perspective Filmography’s Top Cinematic Techniques and Tips of 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-assessing-virtual-realitys-dual-facets-pros-and-cons/"><u>2024 Approved Assessing Virtual Reality’s Dual Facets Pros & Cons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>2024 Approved Journey to Audio Excellence Mastering iOS-Based Recording Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2s-expansion-beyond-light-troubleshooting-pc-game-crashes/"><u>Destiny 2'S Expansion 'Beyond Light': Troubleshooting PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998769920-fix-elden-rings-fps-drops-instantly-with-these-simple-effective-tips/"><u>Fix Elden Ring's FPS Drops Instantly with These Simple, Effective Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-and-troubleshoot-spatial-audio-in-windows-1110/"><u>How to Enable & Troubleshoot Spatial Audio in Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lag-problems-in-guilty-gear-strive-ultimate-fixes/"><u>How to Overcome Lag Problems in Guilty Gear - Strive- Ultimate Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-ai-generated-prompts-tools-you-cant-miss/"><u>Leading AI Generated Prompts Tools You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-photoshop-scratch-disk-full-issue-step-by-step-guide/"><u>Solving Photoshop Scratch Disk Full Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-assassins-creed-syndicate-crashes-expert-advice/"><u>Ultimate Fixes for Assassin's Creed Syndicate Crashes - Expert Advice</u></a></li>
 </ul></div>
 

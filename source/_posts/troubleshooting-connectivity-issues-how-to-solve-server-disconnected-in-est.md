@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Connectivity Issues: How To Solve 'Server Disconnected' In EST"
-date: 2024-08-23T17:29:22.247Z
-updated: 2024-08-24T17:29:22.247Z
+date: 2024-11-13T06:19:33.426Z
+updated: 2024-11-16T20:38:50.062Z
 tags:
   - win11
   - win10
@@ -47,6 +47,14 @@ Here’s how you can restart your modem & router:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Launch Steam and check if the warning error is fixed. If yes, then great! If it still pops up, please head onto**Fix 3** , below.
@@ -65,9 +73,14 @@ Here’s how you can restart your modem & router:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -86,16 +99,16 @@ Here’s how you can restart your modem & router:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. When prompted for permission, click **Yes**  to run Command Prompt.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 3. Type **ipconfig /flushdns** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/3-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 To renew your IP:
 
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
@@ -104,11 +117,21 @@ To renew your IP:
 3. Type **ipconfig /release** and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2-3.png)
 4. Type **ipconfig /renew** and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/4-1.png)
 5. Launch Steam, play the game again and see if the connection is smooth and without fail. If the**Steam is having trouble connecting to the Steam servers** error persists, don’t worry. Here are a couple more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset WinSock
 
@@ -119,11 +142,24 @@ Here’s how to go about it:
 1. On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd.png)
 2. In the Administrator Command Prompt window, enter**netsh winsock reset** , then press**Enter** ; then type**netsh winteep reset proxy** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/net.png)
 3. Click**Close** to exit the window.
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Run Steam and check if the server connection error is solved. If it still occurs, please move on to**Fix 6** , below.
 
 ### Fix 6: Modify Steam properties
@@ -136,22 +172,27 @@ Here are the steps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. On your desktop, right-click on**Steam** and click**Properties** .
 5. Click the**Shortcut** tab, then in**Target** field,**add a space to the end** and type**\-tcp** . Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/tcp.png)
 6. Launch Steam and check if**Steam is having trouble connecting to the Steam servers** warning error has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Steam is having trouble connecting to the Steam servers** still happening? Please continue onto**Fix 7** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Allow Steam through Windows Firewall
 
  Windows Firewall is a built-in network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow the client through the firewall to make sure that the connection isn’t lost.
@@ -161,19 +202,24 @@ Here are the steps:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the game in the Steam client and see if it can be connected to the server.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
@@ -195,8 +241,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +248,22 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-detailed-steps-to-record-hulu-on-every-os-and-device-type-for-2024/"><u>[New] Detailed Steps to Record Hulu on Every OS and Device Type for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-syma-x8c-tech-specifications-study-for-2024/"><u>[New] Syma X8C Tech Specifications Study for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[Updated] 2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlock-humor-potential-with-kapwings-designer-for-2024/"><u>[Updated] Unlock Humor Potential with Kapwing’s Designer for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-academics-and-save-big-how-to-nail-a-student-discount-on-tidal/"><u>Ace Academics & Save Big: How To Nail A Student Discount on Tidal</u></a></li>
+<li><a href="https://os-tips.techidaily.com/creating-custom-iphone-ringtones-from-dvd-audio-tracks-a-step-by-step-guide/"><u>Creating Custom iPhone Ringtones From DVD Audio Tracks: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-doses-of-urdu-ten-minutes-lifelong-gain/"><u>Daily Doses of Urdu: Ten Minutes, Lifelong Gain</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-war-thunders-recent-freezing-problems/"><u>Expert Advice on Resolving War Thunder's Recent Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-logitech-options-software-to-full-capacity-for-windows-users-a-step-by-step-guide/"><u>Restoring Logitech Options Software to Full Capacity for Windows Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-yakuza-6-the-song-of-life-pc-game-crashes/"><u>Troubleshooting Guide: Fixing Yakuza 6 'The Song of Life' PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-playing-origin-on-recent-versions-of-windows-os/"><u>Troubleshooting Steps for Playing Origin on Recent Versions of Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-cult-of-the-lamb-stability-problems-on-windows/"><u>Ultimate Solutions for Cult of the Lamb Stability Problems on Windows</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unpacking-the-power-of-yis-4k-action-capture-for-2024/"><u>Unpacking the Power of Yi's 4K Action Capture for 2024</u></a></li>
+</ul></div>
 

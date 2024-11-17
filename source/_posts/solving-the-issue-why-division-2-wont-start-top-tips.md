@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Division 2 Won't Start - Top Tips"
-date: 2024-08-23T17:30:52.814Z
-updated: 2024-08-24T17:30:52.814Z
+date: 2024-11-13T05:40:40.966Z
+updated: 2024-11-17T03:12:53.309Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -64,18 +71,19 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -99,24 +107,22 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -126,11 +132,16 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -145,8 +156,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +163,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-efficiently-control-your-iphones-view-size-for-2024/"><u>[New] Efficiently Control Your iPhone's View Size for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-pivotal-moments-in-figure-skating-22-highlights/"><u>[New] In 2024, Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>[New] Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-perfectly-stream-your-ps4-gaming-session/"><u>[Updated] How to Perfectly Stream Your PS4 Gaming Session</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>2024 Approved Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-purpose-of-gptzero-in-text-analysis/"><u>Deciphering the Purpose of GPTZero in Text Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-a-smooth-game-with-the-newly-fixed-pacific-server-issues-in-call-of-duty-warzone/"><u>Enjoy a Smooth Game with the Newly Fixed Pacific Server Issues in Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994160862-ghostwire-tokyo-on-pc-say-goodbye-to-crashes-and-enjoy-seamless-gaming/"><u>Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-no-sound-problem-while-streaming-on-twitch/"><u>How I Fixed the No Sound Problem While Streaming on Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-repair-finals-error-code-tfal0002/"><u>How To Troubleshoot and Repair Finals Error Code TFAL0002</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-s17e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo S17e Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-overcome-technical-glitches-in-total-war-saga-troy-for-pc-gamers/"><u>Mastering Stability: Overcome Technical Glitches in Total War Saga: Troy for PC Gamers</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-web-of-new-online-gatherings-and-networks/"><u>Navigating the Web of New Online Gatherings and Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-internet-explorer-no-longer-works-error-a-step-by-step-guide/"><u>Resolving 'Internet Explorer No Longer Works' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-remote-play-not-working-try-these-fixes/"><u>Steam Remote Play Not Working? Try These Fixes!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-creativity-with-these-top-free-slideshow-templates/"><u>Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-your-watch-dogs-legion-from-endless-loading-complete-fix-guide/"><u>Unstuck Your Watch Dogs: Legion From Endless Loading - Complete Fix Guide</u></a></li>
+</ul></div>
 

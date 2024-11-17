@@ -1,7 +1,7 @@
 ---
 title: How I Solved My Problem with Non-Responsive Razer Synapse Software
-date: 2024-11-01T17:00:51.088Z
-updated: 2024-11-06T20:06:47.562Z
+date: 2024-11-10T21:45:47.041Z
+updated: 2024-11-17T03:09:58.900Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -55,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -78,25 +85,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -108,18 +101,18 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -131,27 +124,27 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -185,6 +178,13 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -207,24 +207,19 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-examination-of-videoshow-24/"><u>[New] In-Depth Examination of VideoShow '24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-zombie-army-4-dead-war-crash-on-pc/"><u>[SOLVED] Zombie Army 4: Dead War Crash on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-inside-outlooks-of-instagram-stories-consumers/"><u>[Updated] 2024 Approved Inside Outlooks of Instagram Stories Consumers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>[Updated] In 2024, Ultimate Guide to Bandicam The 2023 Comprehensive Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool/"><u>2024 Approved Becoming a Photo Wizard Expert Techniques for Utilizing Photoshop's Background Eraser Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-your-virtual-persona-with-our-metaverse-guide/"><u>Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/download-on-the-fly-best-free-tools-for-pinterest-vids-online-for-2024/"><u>Download on the Fly Best Free Tools for Pinterest Vids Online for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficiently-batch-convert-ogg-audio-files-to-wma-with-easy-steps/"><u>Efficiently Batch-Convert OGG Audio Files to WMA with Easy Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-explained-fortnite-permission-issues-and-steps-to-regain-access/"><u>Error Code Explained: Fortnite Permission Issues & Steps to Regain Access</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-troubleshooting-windowss-broken-spatial-audio-feature/"><u>Expert Guide to Troubleshooting Windows's Broken Spatial Audio Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-msi-mystic-light-wont-activate-in-windows/"><u>Fixing the Issue: MSI Mystic Light Won't Activate in Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/impress-with-these-top-50-classics-in-latin-language/"><u>Impress with These Top 50 Classics in Latin Language</u></a></li>
-<li><a href="https://program-issues.techidaily.com/jurassic-world-evolution-stability-solutions-overcoming-game-crash-issues/"><u>Jurassic World Evolution Stability Solutions: Overcoming Game Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-fixes-clearing-up-the-black-screen-hurdle/"><u>League of Legends Fixes: Clearing Up the Black Screen Hurdle</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-your-messenger-presence-a-zodiac-guide/"><u>Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-ashen-bug-seamlessly-get-back-in-control-fast/"><u>Resolve Ashen Bug Seamlessly – Get Back in Control Fast</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-essential-snapshot-strategies-snapchat-boomerangs-unveiled-for-2024/"><u>The Essential Snapshot Strategies Snapchat Boomerangs Unveiled for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-league-of-legends-crashes/"><u>Troubleshooting Guide: Resolving League of Legends Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-regain-access-to-your-steam-profile/"><u>Troubleshooting Success: How to Regain Access to Your Steam Profile</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-fresh-talent-and-stunts-in-skating-highlights/"><u>[New] In 2024, Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-saving-your-digital-dialogue-a-quick-guide-to-fb-chat-recordings/"><u>[Updated] 2024 Approved Saving Your Digital Dialogue A Quick Guide to FB Chat Recordings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-tips-to-overcome-bdo-game-crashes-on-personal-computers/"><u>Effective Tips To Overcome BDO Game Crashes On Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-dangers-of-keygen-malware-symptoms-and-removal-strategies/"><u>Exploring the Dangers of Keygen Malware: Symptoms & Removal Strategies</u></a></li>
+<li><a href="https://discover-community.techidaily.com/facili-passaggi-per-masterizza-e-conservare-i-tuoi-dvd-su-pc-con-windows-o-macos/"><u>Facili Passaggi per Masterizza E Conservare I Tuoi DVD Su PC Con Windows O macOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-language-barriers-with-these-top-20-video-translators/"><u>In 2024, Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-la-noire-released-for-pc-enthusiasts/"><u>Overcoming the Hurdle: L.A. Noire Released for PC Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x7b-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X7b</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-initialization-issue-with-vanguard-weapon-in-valorant-game/"><u>Resolved: Initialization Issue with Vanguard Weapon in Valorant Game</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sticker-free-showcase-crafting-cleansed-tiktok-videos-for-2024/"><u>Sticker-Free Showcase Crafting Cleansed TikTok Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-vrchat-failure-and-non-responsive-issues/"><u>Troubleshooting Complete VRChat Failure and Non-Responsive Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-(-)-when-your-touchpad-scroll-doesnt-work/"><u>Troubleshooting Windows < | >: When Your Touchpad Scroll Doesn't Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-input-lag-on-desktop-computers-comprehensive-fixes-for-gamers-2n-2024/"><u>Valorant Input Lag on Desktop Computers: Comprehensive Fixes for Gamers 2N 2024</u></a></li>
 </ul></div>
 

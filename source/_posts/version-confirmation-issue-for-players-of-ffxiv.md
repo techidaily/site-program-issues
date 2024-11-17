@@ -1,7 +1,7 @@
 ---
 title: Version Confirmation Issue for Players of FFXIV
-date: 2024-10-30T23:38:06.849Z
-updated: 2024-11-06T17:44:11.651Z
+date: 2024-11-14T18:49:05.477Z
+updated: 2024-11-17T00:08:57.646Z
 tags:
   - win11
   - win10
@@ -55,19 +55,6 @@ If this didn’t work, move on to the next fix.
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files.jpg)
@@ -82,13 +69,6 @@ However, if this didn’t help, proceed to the next fix.
   
 ![Days Gone adjust in-game settings ](https://images.drivereasy.com/wp-content/uploads/2021/05/adjust-in-game-settings-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**DISPLAY** tab. Then adjust the following settings:
 
 **WINDOW MODE:** FULLSCREEN  
@@ -100,9 +80,23 @@ However, if this didn’t help, proceed to the next fix.
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**CONFIRM** .  
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select the**GRAPHICS** tab. Then adjust the following settings:
 
@@ -120,13 +114,6 @@ However, if this didn’t help, proceed to the next fix.
 
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
@@ -142,19 +129,6 @@ However, if this didn’t help, proceed to the next fix.
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your graphics driver (recommended)
 
  As described above, updating drivers manually does require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -168,10 +142,10 @@ Here’s how to update drivers with Driver Easy:
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -199,11 +173,25 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/override-DPI-scaling.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Apply > OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/click-apply-and-ok.jpg)
 
 If this didn’t make a difference, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Customize graphics performance preference
 
@@ -221,23 +209,9 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Then open your game’s installation folder. (Usually in C:Days goneDays GoneBendGameBinariesWin64) Click on**DaysGone.exe** and click**Add** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Options** .  
   
@@ -263,14 +237,14 @@ After saving the changes, launch Days Gone and check if it helped.
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
-Now launch Days Gone and check it can help fix the low frame rate.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Now launch Days Gone and check it can help fix the low frame rate.
 
 ## 8\. Disable Windows 10 Game Mode
 
@@ -282,9 +256,29 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
 ![disable Windows 10 game mode](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done this, you should be able to get a noticeable improvement.
 
@@ -307,24 +301,24 @@ Now launch Days Gone and check it can help fix the low frame rate.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-wave-riders-guide-tips-on-underwater-video-with-your-gopro-camera/"><u>[New] 2024 Approved Wave Riders' Guide Tips on Underwater Video with Your GoPro Camera</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-ios-podcast-acquisition/"><u>[New] The Essential Guide to iOS Podcast Acquisition</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-craft-a-symphony-for-screens-mastering-music-editing-in-canva/"><u>[Updated] 2024 Approved Craft a Symphony for Screens Mastering Music Editing in Canva</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>2024 Approved Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>2024 Approved The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connect-the-app-engine-url-back-in-the-google-apps-routines-interface-add-a-new-or-existing-action-then-enter-the-generated-app-engine-url-from-step-4-into-581/"><u>Connect the App Engine URL: Back in the Google App's Routines Interface, Add a New or Existing Action, Then Enter the Generated App Engine URL From Step 4 Into the URL Field. Save and Name Your Routine Accordingly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/escape-the-endless-apple-logo-7-tips-for-restarting-a-stuck-iphone/"><u>Escape the Endless Apple Logo: 7 Tips for Restarting a Stuck iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-script-to-screen-magix-video-pro-xs-production-journey-for-2024/"><u>From Script to Screen Magix Video Pro X's Production Journey for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-rainbow-six-extraction-pc-installation-from-freezing-or-crashing/"><u>How to Stop Your Rainbow Six Extraction PC Installation From Freezing or Crashing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leverage-cookiebot-technology-for-advanced-web-insights-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Web Insights and Personalization</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-solving-darkest-dungeon-2-pc-game-crashes/"><u>Overcoming Stability Issues: Solving Darkest Dungeon 2 PC Game Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/painting-a-picture-sketching-on-windows-11-devices/"><u>Painting a Picture: Sketching on Windows 11 Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-fixes-implemented-for-pathfinder-wrath-of-the-righteous-persistent-crash-problem/"><u>Resolved Issues: Fixes Implemented for 'Pathfinder: Wrath of the Righteous' Persistent Crash Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-no-ping-detected-in-halo-infinity-a-step-by-step-guide/"><u>Resolving 'No Ping Detected' In Halo Infinity - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987995473-troubleshoot-your-apex-legends-network-issues-effective-solutions-revealed/"><u>Troubleshoot Your Apex Legends Network Issues - Effective Solutions Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-running-civilization-6-on-the-new-windows-11-os/"><u>Troubleshooting Steps for Running Civilization 6 on the New Windows 11 OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-no-more-frostpunk-crashing-frustrations/"><u>Ultimate Guide: No More Frostpunk Crashing Frustrations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-and-capabilities-of-fujitsus-robust-ix1600-desk-scanner-a-detailed-review/"><u>Unveiling the Features and Capabilities of Fujitsu's Robust iX1600 Desk Scanner - A Detailed Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgraded-system-requirements-why-you-need-a-stronger-cpu-for-vanguard/"><u>Upgraded System Requirements: Why You Need a Stronger CPU for Vanguard</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximizing-revenue-average-income-from-youtubes-adsense-per-thousand-watchers-for-2024/"><u>[Updated] Maximizing Revenue Average Income From YouTube's AdSense Per Thousand Watchers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-the-black-effective-fixes-for-elden-ring-startup-glitch/"><u>Banishing the Black: Effective Fixes for Elden Ring Startup Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-the-no-user-logged-in-hurdle-in-cs-go-five-strategies-to-try/"><u>Bypass the 'No User Logged In' Hurdle in CS GO - Five Strategies to Try</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-guide-and-free-driver-software-to-support-your-techkey-bluetooth-adapter-on-windows-1178/"><u>Easy Install Guide & Free Driver Software to Support Your Techkey Bluetooth Adapter on Windows (11/7/8)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-playability-how-the-latest-patch-eliminates-cyberpunk-2077s-stuttering-woes/"><u>Enhanced Playability: How the Latest Patch Eliminates Cyberpunk 2077'S Stuttering Woes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-liberate-your-ebooks-steps-to-remove-digital-rights-management-from-barnes-and-noble-nook/"><u>How to Liberate Your Ebooks: Steps to Remove Digital Rights Management From Barnes & Noble NOOK</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-k70-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi K70 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus, Apples New iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/is-it-time-to-update-to-apples-ios-1511-pros-and-cons-of-the-latest-release/"><u>Is It Time to Update to Apple's iOS 15.1.1? Pros and Cons of the Latest Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-frequent-crashes-in-stardew-valley-for-windows-users/"><u>Overcoming Frequent Crashes in Stardew Valley for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/praeyst-for-the-gods-game-stops-working-properly-fixes-and-troubleshooting-tips/"><u>Praeyst for the Gods Game Stops Working Properly: Fixes & Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-your-tunes-for-less-securing-student-pricing-on-apple-music-with-easy-tricks-and-hacks-smart-tech-savings/"><u>Score Your Tunes for Less: Securing Student Pricing on Apple Music with Easy Tricks and Hacks | Smart Tech Savings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starting-valheim-without-trouble-overcoming-2024-launch-problems/"><u>Starting Valheim Without Trouble: Overcoming 2024 Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-the-notorious-atomic-heart-crash-on-system-start/"><u>Troubleshooting and Solving the Notorious 'Atomic Heart' Crash on System Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnite-startup-delays-with-quick-tips/"><u>Ultimate Guide: Solving Fortnite Startup Delays with Quick Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-(httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf)/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From <https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf></u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-note-30-vip-racing-edition-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Note 30 VIP Racing Edition Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

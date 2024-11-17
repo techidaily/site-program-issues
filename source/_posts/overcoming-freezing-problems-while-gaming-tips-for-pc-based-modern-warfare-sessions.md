@@ -1,7 +1,7 @@
 ---
 title: Overcoming Freezing Problems While Gaming - Tips for PC-Based Modern Warfare Sessions
-date: 2024-08-23T17:30:20.042Z
-updated: 2024-08-24T17:30:20.042Z
+date: 2024-11-14T16:19:14.766Z
+updated: 2024-11-17T01:36:58.495Z
 tags:
   - win11
   - win10
@@ -41,8 +41,12 @@ GTFO
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -63,13 +67,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -88,13 +93,18 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -121,8 +131,12 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -134,11 +148,22 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
@@ -154,10 +179,14 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -175,8 +204,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +211,17 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>[New] Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-talking-audio-log-audit/"><u>[Updated] Talking Audio Log Audit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-screen-and-video-recording/"><u>2024 Approved The Ultimate Guide to Screen and Video Recording</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-implemented-for-rainbow-six-siege-launching-errors/"><u>Fixes Implemented for Rainbow Six Siege Launching Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oneplus-12-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track OnePlus 12 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-hp-laptops-dead-usb-port-with-this-proven-solution/"><u>Revive Your HP Laptop's Dead USB Port with This Proven Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-in-wasteland-solving-fallout-76-frame-drops-and-lags/"><u>Smooth Sailing in Wasteland! Solving Fallout 76 Frame Drops and Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-with-these-proven-fixes/"><u>Stop War Thunder From Crashing with These Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-gameloop-freezing-problems-on-widows-oses/"><u>Troubleshooting Tips for Persistent GameLoop Freezing Problems on Widows OSes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Mordhau Game Crash Problem: Step-by-Step Guide"
-date: 2024-11-06T04:01:07.015Z
-updated: 2024-11-06T22:33:14.407Z
+date: 2024-11-13T03:13:20.469Z
+updated: 2024-11-17T05:50:41.597Z
 tags:
   - win11
   - win10
@@ -61,16 +61,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-37.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure your system specs meet the requirements, then move on and try the fix below.
 
@@ -88,26 +88,27 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-46.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Restart Mordhau.
 
 If your issue persists, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -118,6 +119,13 @@ If your issue persists, go ahead with the next fix.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t work for you, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -132,6 +140,13 @@ If this didn’t work for you, try the fix below.
 **3)** Right-click**Mordhau** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
@@ -163,13 +178,6 @@ If Mordhau is still crashing, move on and check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -178,13 +186,6 @@ If Mordhau is still crashing, move on and check the fix, below.
 **4)** Relaunch the game to see if it runs correctly.
 
 If your problem persists, move on to Fix 6.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change PC power settings
 
@@ -197,6 +198,13 @@ If your problem persists, move on to Fix 6.
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -213,13 +221,6 @@ If your problem persists, move on to Fix 6.
 **5)** Restart your computer and Mordhau to test your issue.
 
 If your game is still unplayable, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Configure your virtual memory
 
@@ -243,13 +244,6 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-22.jpg)
@@ -257,6 +251,13 @@ If your game is still unplayable, move on to the fix below.
 **6)** Click your**C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-29.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to**Custom size** , and then type**4096** in the text box next to**Initial size (MB)** and**Maximum size (MB)** .
 
@@ -268,23 +269,9 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)** Restart your computer and Mordhau.
 
  If you’re still having trouble running Mordhau, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Mordhau
 
@@ -307,6 +294,13 @@ If your game is still unplayable, move on to the fix below.
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-04-48.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Right-click the**Mordhau folder** , then select**Delete** .
 
@@ -339,20 +333,20 @@ If your game is still unplayable, move on to the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-failed-to-load-steamuidll-steam-fatal-error/"><u>[Fixed] Failed to Load steamui.dll Steam Fatal Error</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimal-mp4-to-fb-video-solution/"><u>[New] 2024 Approved Optimal MP4-to-FB Video Solution</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-elite-compilation-9-online-mic-recorders-ranked/"><u>[Updated] In 2024, The Elite Compilation 9 Online Mic Recorders Ranked</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-flow-in-naraka-bladepoint-by-resolving-stuttering-and-low-frame-rates/"><u>Achieve Uninterrupted Flow in Naraka: Bladepoint by Resolving Stuttering and Low Frame Rates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995351567-constraint-c-include-a-footnote-that-explains-the-musical-note-to-word-conversion-method-used-in-the-translated-text/"><u>Constraint C: Include a Footnote that Explains the Musical Note-to-Word Conversion Method Used in the Translated Text</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ransomware-how-mobile-phones-can-help-with-free-decryption-tools-at-just-50/"><u>Decoding Ransomware: How Mobile Phones Can Help with Free Decryption Tools at Just $50!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-know-how-record-ipad-display/"><u>Essential Know-How Record iPad Display</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-and-freezing-problems-in-sifu-on-personal-computers/"><u>Fixes for Stuttering & Freezing Problems in Sifu on Personal Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-guide-when-world-of-warcraft-wont-boot-up-on-your-desktop/"><u>Quick Fix Guide: When World of Warcraft Won't Boot Up on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-tips-resolving-crash-issues-in-gta-v-assuming-the-user-meant-grand-theft-auto-v-which-is-commonly-abbreviated-as-gta-instead-of-gears/"><u>Quick Fix Tips: Resolving Crash Issues in GTA V (Assuming the User Meant Grand Theft Auto V, Which Is Commonly Abbreviated as GTA Instead of GEARS)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-integrating-audio-backdrops-in-video-content-on-pcs-and-macs/"><u>Step-by-Step Guide: Integrating Audio Backdrops in Video Content on PCs and Macs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-division-amoknuckles-stalled-startup-problems-latest-fixes-2024/"><u>Step-by-Step Troubleshooting for Division amoKnuckle's Stalled Startup Problems - Latest Fixes 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>[New] 2024 Approved Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-creativity-mastering-ios-screen-capture-for-youtube/"><u>[New] Unlocking Creativity Mastering iOS Screen Capture for YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-lag-fix-escaping-the-endless-boot-loop/"><u>Among Us Lag Fix: Escaping the Endless Boot Loop</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-se-2020ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone SE (2020)/iPad/iPod</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-latest-tech-trends-with-toms-hardware/"><u>Exploring the Latest Tech Trends with Tom's Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-unresponsive-google-chrome-browser-how-to-restart-and-resolve-issues/"><u>Fix: Unresponsive Google Chrome Browser – How to Restart and Resolve Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-launching-problems-strategies-to-get-past-the-unresponsive-screen-dilemma/"><u>Football Manager 2021 Launching Problems: Strategies to Get Past the Unresponsive Screen Dilemma</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-correcting-surface-irregularities-and-pillow-effects-in-additive-manufacturing/"><u>Guide: Correcting Surface Irregularities and 'Pillow' Effects in Additive Manufacturing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/on-screen-image-enhancement-mastering-online-cropping-tactics/"><u>On-Screen Image Enhancement Mastering Online Cropping Tactics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-crashes-starting-up-call-of-duty-warzone-successfully/"><u>Overcoming Crashes - Starting Up Call of Duty Warzone Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-gameplay-interruptions-expert-fixes-for-assassins-creed-odyssey-lag-and-stutters-on-pc/"><u>Resolve Gameplay Interruptions : Expert Fixes for Assassin's Creed Odyssey Lag and Stutters on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-up-your-play-optimizing-horizon-zero-dawn-with-performance-boosting-techniques/"><u>Step Up Your Play: Optimizing Horizon Zero Dawn with Performance-Boosting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-blue-crash-comprehensive-fixes-for-helldivers-2-bsod-errors/"><u>Stop the Blue Crash: Comprehensive Fixes for HellDivers 2 BSOD Errors</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-merge-wmv-videos-without-cost-top-free-tools/"><u>Updated Merge WMV Videos Without Cost Top Free Tools</u></a></li>
 </ul></div>
 

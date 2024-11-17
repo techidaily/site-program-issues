@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-11-02T02:18:51.205Z
-updated: 2024-11-06T17:47:22.311Z
+date: 2024-11-11T01:54:14.264Z
+updated: 2024-11-16T19:00:45.607Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -83,8 +76,22 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -95,10 +102,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Click **OK** to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
@@ -112,6 +119,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -122,21 +136,14 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -144,13 +151,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -168,17 +168,17 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -218,17 +218,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/est-youtube-shorts-video-editor-tools-for-ios-and-android-devices-for-2024/"><u>[New] Best YouTube Shorts Video Editor Tools for iOS & Android Devices for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nleashing-video-potential-with-effective-tagging-techniques-on-youtube/"><u>[New] Unleashing Video Potential with Effective Tagging Techniques on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-achieving-peak-picture-performance-without-dollars/"><u>[Updated] Achieving Peak Picture Performance, Without Dollars</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-list-best-free-videos-for-pc-macos/"><u>[Updated] In 2024, Exclusive List Best Free Videos for PC, MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-the-no-available-projectors-windows-alert/"><u>Correcting the 'No Available Projectors' Windows Alert</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-for-solving-call-of-duty-vanguard-freeze-glitches-no-costs-involved/"><u>Expert Advice for Solving 'Call of Duty: Vanguard' Freeze Glitches - No Costs Involved!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-to-simulate-quantum-leap-phenomena/"><u>In 2024, Tricks to Simulate Quantum Leap Phenomena</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-errgfxstate-issue-in-red-dead-redemption-2/"><u>Solving the ERR_GFX_STATE Issue in Red Dead Redemption 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-your-v-game-lag-a-step-by-step-guide-for-smoother-play/"><u>Solving Your 'V' Game Lag: A Step-by-Step Guide for Smoother Play</u></a></li>
-<li><a href="https://facebook.techidaily.com/strengthening-online-communities-through-refined-fb-administration/"><u>Strengthening Online Communities Through Refined FB Administration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successful-troubleshooting-sea-of-thieves-no-longer-experiencing-startup-delays/"><u>Successful Troubleshooting: Sea of Thieves No Longer Experiencing Startup Delays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting and Solutions for PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-launching-a-channel-a-comprehensive-discosteps-guide/"><u>[New] 2024 Approved Launching a Channel A Comprehensive DiscoSteps Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003105731-solved-how-to-fix-minecraft-drivers-outdated-message/"><u>[SOLVED] How to Fix Minecraft “Drivers Outdated” Message</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing/"><u>[Updated] 2024 Approved Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-edit-youtube-videos-by-the-youtube-video-editor/"><u>[Updated] How to Edit Youtube Videos by the YouTube Video Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/amazon-prime-video-dvd/"><u>Amazon Prime Video ダウンロードからDVDへの変換ガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005294298-boost-your-elden-ring-performance-in-6-simple-steps-banish-fps-issues/"><u>Boost Your Elden Ring Performance in 6 Simple Steps - Banish FPS Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-avatars-speed-effective-techniques-to-reduce-lag-in-frontiers-of-pandora/"><u>Boosting Avatar's Speed: Effective Techniques to Reduce Lag in Frontiers of Pandora</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/download-premium-mpeg-video-transcoder-free-conversion-tool-any-video-format/"><u>Download Premium MPEG Video Transcoder - Free Conversion Tool: Any Video Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/geforce-glitches-heres-how-to-fix-and-prevent-the-unwanted-closure-error/"><u>GeForce Glitches? Here's How to Fix and Prevent the Unwanted Closure Error!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/global-smartphone-market-leader-apple-surpasses-samsung-in-record-breaking-shipments-insights/"><u>Global Smartphone Market Leader: Apple Surpasses Samsung in Record-Breaking Shipments - Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-blizzards-hearthstone-from-continuously-crashing-on-your-computer/"><u>How to Stop Blizzard's Hearthstone From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-a70-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel A70 FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-fixing-the-notorious-hunger-game-on-your-computer/"><u>No More Freezes: Fixing the Notorious 'Hunger' Game on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reconnect-and-enjoy-terraria-discover-these-6-reliable-solutions-for-lost-connections/"><u>Reconnect and Enjoy Terraria: Discover These 6 Reliable Solutions for Lost Connections</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-transferring-windows-11-to-a-new-ssd-drive-in-two-easy-methods/"><u>Step-by-Step Guide: Transferring Windows 11 to a New SSD Drive in Two Easy Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-launch-issues-with-baldurs-gate-3/"><u>Troubleshooting Guide: Resolving Launch Issues with Baldur's Gate 3</u></a></li>
 </ul></div>
 

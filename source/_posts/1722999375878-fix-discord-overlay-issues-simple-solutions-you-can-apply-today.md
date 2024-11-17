@@ -1,7 +1,7 @@
 ---
 title: "Fix Discord Overlay Issues: Simple Solutions You Can Apply Today"
-date: 2024-08-23T17:30:50.476Z
-updated: 2024-08-24T17:30:50.476Z
+date: 2024-11-12T07:45:06.149Z
+updated: 2024-11-17T08:24:46.975Z
 tags:
   - win11
   - win10
@@ -45,7 +45,21 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -56,8 +70,12 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -68,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/d66a628fa0cf48140c10b181f20d8c3673ed432ef
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -83,9 +98,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -96,13 +108,23 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
@@ -115,6 +137,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -123,9 +152,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -135,6 +161,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -154,16 +187,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -177,8 +204,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +211,22 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres-for-2024/"><u>[New] Advanced 3D Shaping Crafting Perfect MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>2024 Approved Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discover-how-to-prevent-constant-crashes-in-lost-ark-for-your-computer-system/"><u>Discover How to Prevent Constant Crashes in Lost Ark for Your Computer System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/elevate-your-website-insights-using-advanced-cookiebot-solutions/"><u>Elevate Your Website Insights Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-what-to-do-if-you-cant-play-due-to-permission-issues/"><u>Fortnite Troubleshooting: What to Do If You Can’t Play Due to Permission Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y56-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y56 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-2024-release-problems-for-the-last-epoch-on-personal-computers/"><u>Solving 2024 Release Problems for The Last Epoch on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Resolving Continuous Crashes in Samurai Warriors 5 for PC</u></a></li>
+<li><a href="https://win-community.techidaily.com/troubleshooting-tips-resolving-vlc-media-player-dvd-playback-issues-in-windows-11/"><u>Troubleshooting Tips: Resolving VLC Media Player DVD Playback Issues in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tutorial-implementing-virtualization-with-hyper-v-on-your-windows-10-pc/"><u>Ultimate Tutorial: Implementing Virtualization with Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-technology-secrets-insights-from-toms-hardware-experts/"><u>Unraveling Technology Secrets - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-and-ready-to-play-overcoming-the-black-load-hurdle-in-nba-2k21-202n4/"><u>Unstuck and Ready to Play: Overcoming the Black Load Hurdle in NBA 2K21 (202N4)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-strategies-against-the-locked-screen-a-players-guide-to-unfreezing-madden-nfl/"><u>Winning Strategies Against the Locked Screen: A Player's Guide to Unfreezing Madden NFL 지갑</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wireless-connection-linking-your-airpods-with-macbook-air/"><u>Wireless Connection: Linking Your AirPods with MacBook Air</u></a></li>
+</ul></div>
 
