@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2024-11-11T08:15:34.096Z
-updated: 2024-11-16T23:48:54.012Z
+date: 2024-11-20T18:23:14.062Z
+updated: 2024-11-26T21:49:32.654Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Gears of War 5 PC crash in Windows
 
  Here are 7 fixes that have helped other users resolve the computer crashes on Gears of War problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,13 +37,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Disable your X-Fi sound card (If you have an X-Fi sound card)**](https://www.drivereasy.com/knowledge/how-to-fix-gears-of-war-5-crash/#F7)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -55,16 +52,13 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -83,13 +77,6 @@ Here is how to do it:
  1) On your keyboard, press **the Windows logo key** and type **game bar settings** . Then click **Game bar settings** as it shows up as a search result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
@@ -111,6 +98,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -119,35 +110,33 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -183,10 +172,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
@@ -196,13 +182,6 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -229,24 +208,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-your-youtube-potential-with-content-partnerships/"><u>[New] 2024 Approved Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-instantpause-live-image-save-tips-for-2024/"><u>[New] InstantPause Live Image Save Tips for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-set-a-viral-song-as-your-phones-personal-melody/"><u>[Updated] 2024 Approved How To Set a Viral Song as Your Phone's Personal Melody</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-how-to-create-a-live-stream-online/"><u>[Updated] How to Create a Live Stream Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-zoom-into-adventure-five-gameplay-advantages-for-minecrafters/"><u>[Updated] In 2024, Zoom Into Adventure Five Gameplay Advantages for Minecrafters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay-for-2024/"><u>[Updated] Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1-resolving-lag-and-frame-rate-issues-in-black-myth-wukong-gameplay-on-windows-pc/"><u>1. Resolving Lag and Frame Rate Issues in Black Myth Wukong Gameplay on Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-no-more-effortless-fixes-for-continuous-skyrim-gameplay-issues/"><u>Crash No More: Effortless Fixes for Continuous Skyrim Gameplay Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-pc-instability-with-necromunda-hired-gun-expert-advice/"><u>Diagnose & Repair PC Instability with 'Necromunda: Hired Gun' – Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-black-myth-wukong-fps-drops-and-lags-on-pc/"><u>Fix Black Myth Wukong FPS Drops & Lags on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/gmail-sync-errors-demystified-a-comprehensive-troubleshooting-guide/"><u>Gmail Sync Errors Demystified: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>In 2024, The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005925209-pc-troubles-solving-subnautica-below-zero-stability-issues-once-and-for-all/"><u>PC Troubles? Solving Subnautica Below Zero Stability Issues Once and For All!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/regain-your-grip-on-technology-resolving-mouse-and-keyboard-failures-in-windows-7-operating-system/"><u>Regain Your Grip on Technology: Resolving Mouse and Keyboard Failures in Windows 7 Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005058084-resolving-load-errors-in-football-manager-202n-tips-and-tricks/"><u>Resolving Load Errors in Football Manager 202N - Tips & Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-system-security-top-5-techniques-to-resolve-keys-mismatches-in-win11/"><u>Seamless System Security: Top 5 Techniques to Resolve Keys Mismatches in Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-preventing-slime-rancher-2-from-crashing-on-windowsmac/"><u>Solution Steps: Preventing Slime Rancher 2 From Crashing on Windows/Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-get-dolby-atmos-working-properly-on-your-windows-11-or-10-computer/"><u>Step-by-Step Solutions to Get Dolby Atmos Working Properly on Your Windows 11 or 10 Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tame-the-lag-beast-modern-fixes-for-a-seamless-fallout-nflow-experience-guide/"><u>Tame the Lag Beast: Modern Fixes for a Seamless Fallout Nflow Experience (Guide)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-gimbals-enhancing-dsrl-quality/"><u>[New] In 2024, Top 10 Gimbals Enhancing DSRL Quality</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/trategies-for-watching-multiple-youtube-videos-for-2024/"><u>[New] Strategies for Watching Multiple YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>[Updated] 2024 Approved Level Up Your Screen Shots The Expert's Approach to PS4 Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-quick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>[Updated] 2024 Approved Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-artful-expression-on-tablets-leading-ios-drawers/"><u>[Updated] In 2024, Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-solutions-what-to-do-if-you-cant-get-hogwarts-legacy-running/"><u>2024 Solutions: What to Do If You Can't Get Hogwarts Legacy Running</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/5li744gq5asj5pu054k544ks5rex5aca44kk44gx44gm6kej6kqs44gz44kl/"><u>主な変更点を深堀りして解説する</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722981850200-beat-steam-error-code-n130-ultimate-fixes-and-tips-revealed/"><u>Beat Steam Error Code N130: Ultimate Fixes and Tips Revealed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-dev-error-6328-tackled-ultimate-guide-for-players/"><u>Cod Warzone Dev Error #6328 Tackled - Ultimate Guide for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-cod-black-ops-4-performance-fixing-lag-spikes-and-improving-fps/"><u>Enhance COD Black Ops 4 Performance – Fixing Lag Spikes and Improving FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experiencing-netflix-trouble-learn-about-the-current-status-of-streaming-services/"><u>Experiencing Netflix Trouble? Learn About the Current Status of Streaming Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-correcting-issues-with-hp-screen-drivers-on-windows-versions-1187/"><u>Guide to Correcting Issues with HP Screen Drivers on Windows Versions 11/8/7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a34-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-quick-fixes-for-continuous-steam-application-errors/"><u>No More Interruptions: Quick Fixes for Continuous Steam Application Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-stuck-at-start-screen-here-are-the-fixes/"><u>Sea of Thieves Stuck at Start Screen? Here Are the Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-squadrons-glitch-explained-and-resolved/"><u>STAR WARS Squadrons Glitch Explained & Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-v-ray-from-freezing-and-exiting-unexpectedly/"><u>Troubleshooting Steps to Stop V-Ray From Freezing and Exiting Unexpectedly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-the-secrets-of-altering-voice-sounds-on-ps5ps4/"><u>Unlock the Secrets of Altering Voice Sounds on PS5/PS4</u></a></li>
 </ul></div>
 

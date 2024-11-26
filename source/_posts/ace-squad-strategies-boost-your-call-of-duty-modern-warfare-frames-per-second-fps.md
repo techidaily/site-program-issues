@@ -1,7 +1,7 @@
 ---
 title: "Ace Squad Strategies: Boost Your Call of Duty: Modern Warfare Frames per Second (FPS)"
-date: 2024-08-19T16:57:28.329Z
-updated: 2024-08-20T16:57:28.329Z
+date: 2024-11-25T16:47:56.183Z
+updated: 2024-11-26T18:16:57.672Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
 
 Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 methods to try
 
 You may not have to try them all. Just choose the one you need.
@@ -29,6 +33,10 @@ You may not have to try them all. Just choose the one you need.
 
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Optimize your in-game settings
 
@@ -49,8 +57,9 @@ You may not have to try them all. Just choose the one you need.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver
 
  One of the most common causes of the low FPS issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -83,9 +92,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -108,34 +114,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart your computer, and then relaunch your game to see if this worked for you.
 
 ### Method 4: Configure your graphics settings
@@ -151,23 +145,18 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
@@ -176,9 +165,6 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
@@ -189,12 +175,17 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -216,8 +207,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +214,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-script-to-screenplay-expert-video-editing-insights/"><u>[Updated] From Script to Screenplay Expert Video Editing Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-create-news-style-outro/"><u>[Updated] How To Create News Style Outro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-mastering-quantum-hdr/"><u>2024 Approved Step by Step Guide to Mastering Quantum HDR</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/build-and-enhance-your-rig-tips-and-guides-at-toms-hardware/"><u>Build and Enhance Your Rig: Tips & Guides at Tom's Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-troubleshooting-for-common-directdraw-problems-and-solutions/"><u>DIY Troubleshooting for Common DirectDraw Problems and Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-desert-pc-crashes-expert-troubleshooting-tips/"><u>How to Fix Black Desert PC Crashes: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-google-pixel-8-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Google Pixel 8 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-s17t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo S17t Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-pacific-drive-freezing-on-windows-step-by-step-guide/"><u>Resolving Issues with Pacific Drive Freezing on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-delayed-key-reactions-on-your-windows-1n-11-pc/"><u>Solving Delayed Key Reactions on Your Windows 1N 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-future-of-battle-royale-in-cod-unveiling-the-advanced-mechanics-of-modern-warfare/"><u>The Future of Battle Royale in COD: Unveiling the Advanced Mechanics of Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-critical-business-issues-preventing-startup/"><u>Ultimate Guide: Resolving Critical Business Issues Preventing Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/watch-dogs-legion-users-manual-boosting-speed-cutting-lag-and-increasing-fps/"><u>Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS</u></a></li>
+</ul></div>
 

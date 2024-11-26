@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Continuous Play in Forza Horizon N_pC
-date: 2024-08-19T16:53:33.493Z
-updated: 2024-08-20T16:53:33.493Z
+date: 2024-11-22T21:01:03.671Z
+updated: 2024-11-26T17:32:16.578Z
 tags:
   - win11
   - win10
@@ -49,15 +49,20 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -65,19 +70,15 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -86,6 +87,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -93,16 +98,10 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -114,6 +113,10 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -136,8 +139,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,20 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-commanding-attention-on-digital-platforms-via-custom-designs/"><u>[Updated] Commanding Attention on Digital Platforms via Custom Designs</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-cutting-edge-five-new-features-in-facebooks-sight/"><u>2024 Approved The Cutting-Edge Five New Features in Facebook's Sight</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728502093817-ssd/"><u>抹著手指教你如何将台式电脑硬盘数据成功复制到比较小尺寸的SSD或新设备上</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-with-these-11-tips-for-fixing-borderlands-3-launch-failures/"><u>Avoid Game Crashes with These 11 Tips for Fixing Borderlands 3 Launch Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-ww2-understanding-and-fixing-error-4128/"><u>Call of Duty WW2 - Understanding and Fixing Error 4128</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-modern-warfare-and-warzone-severe-crash-errors/"><u>Expert Guide to Overcoming Modern Warfare and Warzone Severe Crash Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-troubleshoot-issues-when-your-game-wont-start/"><u>Fixing Errors: Troubleshoot Issues When Your Game Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-fluctuating-fps-in-gaming-effective-strategies-explored/"><u>Fixing Fluctuating FPS in Gaming: Effective Strategies Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-obtain-and-configure-toshiba-printer-drivers-for-windows-systems/"><u>How to Successfully Obtain and Configure Toshiba Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-10-innovative-desktopmobile-conferencing-tools/"><u>In 2024, 10 Innovative Desktop/Mobile Conferencing Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-persistent-valorant-pc-game-crashes/"><u>Troubleshooting: Fixes for Persistent Valorant PC Game Crashes</u></a></li>
+</ul></div>
 

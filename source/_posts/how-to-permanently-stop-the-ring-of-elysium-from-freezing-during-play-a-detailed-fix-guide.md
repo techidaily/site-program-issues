@@ -1,7 +1,7 @@
 ---
 title: How to Permanently Stop the Ring of Elysium From Freezing During Play - A Detailed Fix Guide
-date: 2024-08-19T16:54:21.188Z
-updated: 2024-08-20T16:54:21.188Z
+date: 2024-11-20T19:50:17.007Z
+updated: 2024-11-26T17:07:42.757Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 Samurai Warriors 5
 
  After a 7-year wait, Samurai Warriors 5 is finally out! However, just like any other games released recently, it doesn’t get rid of bugs and errors. If**Samurai Warriors 5 keeps crashing** on your PC, you’re not alone. The good news is that you should be able to fix this issue easily after reading this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The system requirements of Samurai Warriors 5
 
@@ -54,9 +58,6 @@ Samurai Warriors 5 system requirements
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  If some important game files are missing or corrupted, the game may not work as expected. Some times, it may crash. If it’s the case, you need to veirfy and repair game files. Here’s how to do it:
@@ -65,17 +66,15 @@ Samurai Warriors 5 system requirements
 2. **Right-click** on **Samurai Warriors 5** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  After the verifying process finished, run Samurai Warriors 5 and see if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -91,19 +90,17 @@ Samurai Warriors 5 system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of Samurai Warriors 5 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -111,6 +108,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If a patch is available, it will be detected by Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Samurai Warriors 5 again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run Samurai Warriors 5 with DirectX 11
 
@@ -121,15 +122,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. In the GENERAL section, enter `**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 3. Run Samurai Warriors 5 and see if the game crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this issue persits, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  The game crashing issue may occur when the 3rd party antivirus software blocked important game files. Try adding Steam and the game folder as an exception to your third-party antivirus application. If necessary, try temporarily disabling your 3rd party antivirus software before playing the game.
@@ -147,19 +150,17 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch Samurai Warriors 5 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -186,8 +187,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-comedy-best-meme-contenders-for-2024/"><u>[Updated] Cross-Platform Comedy Best Meme Contenders for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-guide-to-youtube-copyright/"><u>[Updated] In 2024, The Ultimate Guide to YouTube Copyright</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209526700-9781547514595-al-este-una-novela/"><u>Al Este - Una novela | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-the-bugs-ultimate-tips-to-stop-rocket-league-from-crashing/"><u>Beat the Bugs: Ultimate Tips to Stop Rocket League From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/borderlands-3-crash-woes-easily-fix-them-with-these-tips/"><u>Borderlands 3 Crash Woes? Easily Fix Them with These Tips!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268211600-fast-track-access-to-premium-photo-repair-solutions-shop-now/"><u>Fast-Track Access to Premium Photo Repair Solutions - Shop Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-last-epoch-launch-problems-for-windows-users-2024/"><u>Fix Guide: Overcoming Last Epoch Launch Problems for Windows Users /2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-now-running-without-the-previous-out-of-memory-setback/"><u>God of War Now Running Without the Previous 'Out of Memory' Setback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-crashes-in-the-frontier-game-on-pc/"><u>How to Address and Repair Crashes in the Frontier Game on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-k11x-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo K11x Phone?</u></a></li>
+<li><a href="https://win-help.techidaily.com/mempersiapkan-diri-sebab-cara-cukup-sederhana-untuk-mudahiwirikan-data-dari-hard-drive-yang-malfunctioning-dan-gratis/"><u>Mempersiapkan Diri Sebab! Cara Cukup Sederhana Untuk Mudahiwirikan Data Dari Hard Drive Yang Malfunctioning Dan Gratis!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked</u></a></li>
+<li><a href="https://media-tips.techidaily.com/prepare-yourself-even-more-prime-video-commercials-on-the-way-from-amazon/"><u>Prepare Yourself: Even More Prime Video Commercials on the Way From Amazon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-low-fps-in-valheim-expert-tips-and-tweaks-to-maximize-your-frame-rate-2024/"><u>Ultimate Fixes for Low FPS in Valheim - Expert Tips and Tweaks to Maximize Your Frame Rate (2^024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-game-crashing-issues-on-pc-resolved/"><u>Wolcen - Lords of Mayhem Game Crashing Issues on PC Resolved</u></a></li>
+</ul></div>
 

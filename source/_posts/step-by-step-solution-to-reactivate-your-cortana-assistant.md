@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Reactivate Your Cortana Assistant
-date: 2024-08-19T16:50:14.295Z
-updated: 2024-08-20T16:50:14.295Z
+date: 2024-11-20T17:26:12.958Z
+updated: 2024-11-26T20:55:18.259Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 3. In the left pane, click**Microphone** and make sure**Allow apps to access your camera** is on. Scroll down to turn on the app you allow to access your camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -47,15 +51,8 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
 7. Then install it and reboot it to check.
@@ -91,19 +88,24 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable conflict apps
 
  There’s a situation where your webcam stops working because of other programs. The conflict apps could be Skype, Discord, VPN, or others. According to our readers,**VPN provided by Malwarebytes** is one of the conflicting apps.  
@@ -113,8 +115,9 @@ OR
 2. Find the conflicting app and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -129,14 +132,12 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -150,8 +151,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +158,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>[New] 2024 Approved Social Media Influencers' Secret Creating Captivating Facebook Biographies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-cod-warzone-dev-error-6328-2024-tips/"><u>[SOLVED] COD Warzone Dev Error 6328 – 2024 Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-common-drone-purchase-mistakes-a-checklist/"><u>2024 Approved Avoiding Common Drone Purchase Mistakes A Checklist</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/asus-computing-revolution-the-n14-mini-pc-with-intel-core-u-and-cutting-edge-nvidia-geforce-rtx-graphics/"><u>Asus Computing Revolution: The N14 Mini PC with Intel Core U and Cutting-Edge NVIDIA GeForce RTX Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-lag-issues-in-battlefield-5-with-these-proven-techniques-10-ways/"><u>Defeat Lag Issues in Battlefield 5 with These Proven Techniques (#10 Ways)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-career-game-leveraging-chatgpt-techniques-for-winning-linkedin-roles/"><u>Elevate Your Career Game: Leveraging ChatGPT Techniques for Winning LinkedIn Roles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-uninstallation-overcoming-hp-client-security-managers-stubborn-error-code-1325-in-windows-7/"><u>Error-Free Uninstallation: Overcoming HP Client Security Manager's Stubborn Error Code 1325 in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-8t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 8T To Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-examining-key-features-in-vr-headsets/"><u>In 2024, Examining Key Features in VR Headsets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-step-by-step-guide-to-fix-re4-remake-game-crashes/"><u>Resolving Issues: Step-by-Step Guide to Fix RE4 Remake Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/technical-checklist-confirm-your-cpus-eligibility-to-run-vanguard-effectively/"><u>Technical Checklist: Confirm Your CPU's Eligibility to Run Vanguard Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stardew-valley-launch-glitches-successfully-explained/"><u>Troubleshooting Stardew Valley Launch Glitches Successfully Explained</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/verbal-enchantments-crafting-compelling-pickup-jokes/"><u>Verbal Enchantments: Crafting Compelling Pickup Jokes</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-is-speaking-up-for-user-data-in-fb/"><u>Who Is Speaking Up for User Data in FB?</u></a></li>
+</ul></div>
 

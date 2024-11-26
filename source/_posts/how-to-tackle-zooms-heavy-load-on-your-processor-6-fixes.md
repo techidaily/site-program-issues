@@ -1,7 +1,7 @@
 ---
 title: How to Tackle Zoom's Heavy Load on Your Processor - 6 Fixes
-date: 2024-08-19T16:55:52.881Z
-updated: 2024-08-20T16:55:52.881Z
+date: 2024-11-20T21:29:01.042Z
+updated: 2024-11-26T17:01:26.660Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  Many PC players have reported getting**Error 4201 on Genshin Impact** , which prevents them from even logging into the game. The error message may state “**Failed to connect, please check your network settings** ” or “**Failed to connect to the server** .” If you’re on the same boat, no worries! We’ve got some working fixes that you can try, just read on and find out what they are.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 [5: Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)
 
  As mentioned in the introduction, Error 4201 on Genshin impact sometimes can be a server issue. When the server is down, there’s nothing much to do on the player-side. This article will only focus on the possible fixes that players can do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -54,14 +62,12 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
 ## Fix 3: Check your VPN
@@ -83,14 +89,20 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
 
@@ -99,9 +111,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
 ## Fix 5: Update your network adapter driver
@@ -118,18 +127,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -149,8 +151,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +158,20 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-speedysnap-lingershot-videoclip/"><u>[New] SpeedySnap LingerShot Videoclip</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-your-guide-to-the-top-5-chromebook-sniping-software/"><u>[New] Your Guide to the Top 5 Chromebook Sniping Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-developing-optimal-canon-chrono-recordings/"><u>[Updated] 2024 Approved Developing Optimal Canon Chrono Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-asus-motherboard-drivers-on-windows-pcs-step-by-step-guide/"><u>Download & Install ASUS Motherboard Drivers on Windows PCs: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-a-windows-pc-expert-tips-and-tricks/"><u>How to Stop Forza Horizon 4 From Crashing on a Windows PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leveraging-data-key-performance-indicators-for-igtv-videos/"><u>In 2024, Leveraging Data Key Performance Indicators for IGTV Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-launch-issues-heres-how-to-bypass-that-frustrating-startup-screen/"><u>Minecraft Launch Issues? Here's How to Bypass That Frustrating Startup Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-mlb-the-show-21-connectivity-problems/"><u>Resolved: MLB The Show 21 Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-melodies-to-your-game-how-to-fix-no-sound-error-in-skyrim/"><u>Restoring Melodies to Your Game: How to Fix No Sound Error in Skyrim</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos/"><u>Secure and Convenient A Windows/Mac Downloading Guide for IGTV Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-issues-in-f1-2021-solutions-for-pc-gamers/"><u>Troubleshooting FPS Issues in F1 2021: Solutions for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-crashes-in-pc-versions-of-starfield-adventure/"><u>Troubleshooting Tips: Addressing Crashes in PC Versions of Starfield Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-fortnite-freezing-issues-in-windows-10/"><u>Ultimate Guide: Solve Your Fortnite-Freezing Issues in Windows 10</u></a></li>
+</ul></div>
 

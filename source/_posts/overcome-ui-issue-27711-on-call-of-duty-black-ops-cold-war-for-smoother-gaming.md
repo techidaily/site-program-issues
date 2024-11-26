@@ -1,7 +1,7 @@
 ---
 title: "Overcome UI Issue #27711 on 'Call of Duty: Black Ops Cold War' For Smoother Gaming"
-date: 2024-08-19T16:51:22.372Z
-updated: 2024-08-20T16:51:22.372Z
+date: 2024-11-25T16:59:00.365Z
+updated: 2024-11-26T22:38:13.016Z
 tags:
   - win11
   - win10
@@ -60,21 +60,21 @@ To keep your graphics driver up-to-date, here are two options for you:
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Verify integrity of game files
 
  Missing or corrupted game files could also lead to annoying issues like Elden Ring FPS drops. Before moving on to the more advanced steps, you could check if there’s something wrong with your game files and repair it automatically in Steam. Here are the steps:
@@ -84,16 +84,15 @@ If this method doesn’t work, try the next solution.
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Disable Steam overlay
 
  The in-game overlay is another common cause of FPS-related issues. You could simply turn it off and see if this helps improve the performance.
@@ -101,18 +100,17 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -120,19 +118,27 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
-3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
-4. Click**Yes** to confirm.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
+3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
+4. Click**Yes** to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
+
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
 ### Fix 6 – Adjust the NVIDIA settings
@@ -142,11 +148,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
  Apply the changes and see if you’re able to play the game as expected.
@@ -164,8 +177,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +184,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-idle-geniuses-top-12-pc-classics/"><u>2024 Approved Idle Geniuses Top 12 PC Classics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-5-video-frame-captures-for-mac/"><u>2024 Approved Top 5 Video Frame Captures for Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-g24-power-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola G24 Power without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-improve-your-network-speed-and-lower-ping-in-battle-royale-games/"><u>Expert Tips to Improve Your Network Speed & Lower Ping in Battle Royale Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-valheims-pc-performance-solutions-for-smoother-gameplay/"><u>Fixing Valheim's PC Performance: Solutions for Smoother Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-bloodhunt-from-stuttering-or-crashing-during-gameplay-pc/"><u>How to Prevent Bloodhunt From Stuttering or Crashing During Gameplay (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-non-responsive-logitech-settings-in-windows-os/"><u>How To Resolve Non-Responsive Logitech Settings in Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-words-to-bolster-marketing-success/"><u>In 2024, Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-horizon-zero-dawn-pc-stutter-and-crash-issues-today/"><u>Resolve Horizon Zero Dawn PC Stutter and Crash Issues Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-launch-trouble-heres-how-to-get-it-running-without-hitches/"><u>Stardew Valley Launch Trouble? Here's How to Get It Running Without Hitches</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-best-8-free-editing-programs-to-streamline-your-youtube-projects-for-2024/"><u>The Best 8 Free Editing Programs to Streamline Your YouTube Projects for 2024</u></a></li>
+</ul></div>
 

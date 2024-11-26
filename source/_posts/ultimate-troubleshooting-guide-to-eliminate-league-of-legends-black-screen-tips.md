@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips
-date: 2024-11-10T20:48:12.058Z
-updated: 2024-11-17T09:55:38.266Z
+date: 2024-11-25T16:49:43.171Z
+updated: 2024-11-26T21:13:15.686Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -54,13 +58,6 @@ Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Scan and repair your game files
 
  If your game files are missing or corrupted, you’re likely to encounter many issues when playing Microsoft Flight Simulator. To see if that’s the case, you can scan and repair your game files via Steam or Windows. Here’s how:
@@ -71,19 +68,6 @@ If the issue remains, try the next fix.
 2. Right-click**Microsoft Flight Simulator** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-properties.jpg)
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
 
@@ -103,13 +87,6 @@ If the issue remains, try the next fix.
 
 If this method doesn’t work for you, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Microsoft constantly releases Windows updates to fix the latest bugs and add new features. To improve the performance of your device, you should ensure that your operating system is fully updated. Here’s how:
@@ -118,14 +95,11 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
@@ -149,6 +123,10 @@ If this method doesn’t work for you, go ahead with the next fix.
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -185,13 +163,6 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
@@ -200,7 +171,15 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 on Windows 11:
 
@@ -209,21 +188,26 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
@@ -247,10 +231,7 @@ on Windows 11:
  If you still can’t get past the checking for updates screen, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
@@ -266,19 +247,6 @@ Here are some gaming VPNs we recommend:
 * [CyberGhost](https://tools.techidaily.com/drivereasy/download/)
 
 If this method doesn’t solve your problem, check out the last fix.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Do a clean install
 
@@ -307,6 +275,10 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: If you have installed the packages in a custom folder, search for that folder instead.
 5. Move any leftover files or folders to the Recycle Bin.
 6. **Reinstall** the game from Steam.
@@ -334,17 +306,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-amazing.techidaily.com/1728474710726-404/"><u>探し物でございます: 見当たらないウェブサイトにお越しの場合、404エラーです</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-crashing-on-pc-how-to-fix/"><u>Dragon’s Dogma 2 Crashing on PC: How to Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-lags-in-bl3-expert-advice-to-tackle-and-resolve-performance-hitches/"><u>Eliminate Game Lags in BL3: Expert Advice to Tackle and Resolve Performance Hitches</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/logitech-g35-headset-driver-downloads-for-windows-users-versions-7-8-10-available/"><u>Logitech G35 Headset Driver Downloads for Windows Users - Versions 7, 8, 10 Available</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-optimal-sims-4-performance-on-pc-new-techniques-and-insights-from-the-pros-2024-edition/"><u>Mastering Optimal Sims 4 Performance on PC - New Techniques and Insights From the Pros, 2024 Edition!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/professional-strategies-boost-your-fps-in-escape-from-tarkov/"><u>Professional Strategies: Boost Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pseudo-agent-program-snaffles-facebook-sign-ins/"><u>Pseudo-Agent Program: Snaffles Facebook Sign-Ins</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-10-gamers-guide-solving-steam-game-launch-issues-effectively/"><u>Windows 10 Gamers’ Guide: Solving Steam Game Launch Issues Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/kleisto-sklhrokaptaba-live-video-se-mp3-perigwn-and-dynama/"><u>Κλειστό Σκληροκάπταβα Live Video Σε MP3 - [Περίγων & Δύναμα]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-beyond-basics-20-underrated-whatsapp-features-you-need/"><u>[New] 2024 Approved Beyond Basics 20 Underrated WhatsApp Features You Need</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-windows-color-rich-video-landscape/"><u>2024 Approved Navigating Windows' Color-Rich Video Landscape</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288161697-winxvideo-ai/"><u>公式] WinXVideo AIダウンロード - 高度な動画編集機能付きフリーソフト</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996844966-discover-why-disco-elysium-keeps-freezing-in-your-steam-play-solutions-inside/"><u>Discover Why Disco Elysium Keeps Freezing in Your Steam Play – Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-gameplay-boost-fps-on-apex-legends-by-following-these-steps/"><u>Elevate Your Gameplay: Boost FPS on Apex Legends by Following These Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-perfection-v600-printer-driver-download-free-and-compatible/"><u>Epson Perfection V600 Printer Driver Download - Free and Compatible</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/holotalk-interactive-immersive-language-experience/"><u>HoloTalk: Interactive, Immersive Language Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-non-responsive-rockstar-games-launcher-for-players/"><u>How to Repair a Non-Responsive Rockstar Games Launcher for Players</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-tecno-pop-7-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Tecno Pop 7 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-a-pro-guide-on-fixing-gears-of-war-5-frequent-crashes/"><u>No More Interruptions - A Pro Guide on Fixing 'Gears of War 5' Frequent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-restoring-soundscape-in-minecraft-when-your-pc-falls-silent/"><u>The Ultimate Solution: Restoring Soundscape in Minecraft When Your PC Falls Silent</u></a></li>
 </ul></div>
 

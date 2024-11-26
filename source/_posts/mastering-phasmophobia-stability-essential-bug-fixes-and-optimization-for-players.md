@@ -1,7 +1,7 @@
 ---
 title: "Mastering Phasmophobia Stability: Essential Bug Fixes and Optimization for Players"
-date: 2024-08-19T16:50:39.532Z
-updated: 2024-08-20T16:50:39.532Z
+date: 2024-11-24T22:18:03.367Z
+updated: 2024-11-26T18:48:08.359Z
 tags:
   - win11
   - win10
@@ -45,20 +45,18 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -71,17 +69,18 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
@@ -104,6 +103,10 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -118,6 +121,10 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -130,9 +137,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -154,8 +158,9 @@ If Phasmophobia crashing issues persist, try the next fix below.
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -167,17 +172,15 @@ If Phasmophobia crashing issues persist, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -190,9 +193,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -203,8 +203,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +210,19 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/apid-video-grabber-your-gateway-to-all-online-videos/"><u>[New] Rapid Video Grabber - Your Gateway to All Online Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-drone-photography-faceoff-dji-mavic-x-and-hero-4-silver/"><u>[Updated] Drone Photography Faceoff DJi Mavic X & Hero 4 Silver</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-embrace-the-thrill-how-to-engage-in-tiktok-livestreams/"><u>[Updated] Embrace the Thrill How to Engage in TikTok Livestreams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-issues-how-to-stop-escape-from-tarkov-from-continuously-crashing/"><u>Fixing PC Issues: How To Stop Escape From Tarkov From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-notorious-pc-roblox-error-code-277-top-strategies-of-2024/"><u>Fixing the Notorious PC Roblox Error Code 277 - Top Strategies of 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hp-laptop-tutorial-the-easy-way-to-take-screenshots/"><u>HP Laptop Tutorial: The Easy Way to Take Screenshots</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996979616-overcome-ui-error-2-groovy-black-ops-cold-war-27711-is-fixed/"><u>Overcome UI Error 2 Groovy, Black Ops Cold War: 27711 Is Fixed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streamline-operations-ranking-the-top-8-facebook-task-managers-for-2024/"><u>Streamline Operations Ranking the Top 8 Facebook Task Managers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-a-smooth-halo-3-experience-without-any-pc-interruptions/"><u>Troubleshooting Tips for a Smooth Halo 3 Experience without Any PC Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-mir4-malfunctions-on-personal-computers/"><u>Understanding and Resolving Mir4 Malfunctions on Personal Computers</u></a></li>
+</ul></div>
 

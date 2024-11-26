@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-11-11T16:56:57.597Z
-updated: 2024-11-16T20:50:26.755Z
+date: 2024-11-25T16:48:10.881Z
+updated: 2024-11-26T16:24:49.105Z
 tags:
   - win11
   - win10
@@ -38,23 +38,9 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 wireless router
 
@@ -76,16 +62,17 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -110,19 +97,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
@@ -133,29 +107,21 @@ wireless router
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -168,10 +134,7 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
@@ -182,6 +145,10 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -209,19 +176,17 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-wealth-creation-through-video-networking/"><u>[New] 2024 Approved Digital Wealth Creation Through Video Networking</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers-for-2024/"><u>[New] Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-cutting-edge-computers-notebook-recommendations-for-editors/"><u>[Updated] In 2024, Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-3-premium-phones-excelling-in-quality-video-capture/"><u>[Updated] In 2024, Top 3 Premium Phones Excelling in Quality Video Capture</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-securely-save-fb-high-definition/"><u>In 2024, Securely Save FB High Definition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-telegram-web-essential-steps-unveiled/"><u>Navigating Telegram Web Essential Steps Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-halo-infinites-unwanted-pc-interruptions-learn-how/"><u>Say Goodbye to Halo Infinite's Unwanted PC Interruptions - Learn How</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-pc-game-crashes-troubleshooting-steps/"><u>Star Wars Jedi: Fallen Order PC Game Crashes - Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-correcting-the-msvcr110dll-error-on-helldivers-2/"><u>Step-by-Step Guide: Correcting the 'MSVCR110.DLL' Error on Helldivers 2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-definitive-guide-to-removing-windows-1sic-10-accounts-using-revo-uninstaller/"><u>The Definitive Guide to Removing Windows 1([Sic] 10 Accounts Using Revo Uninstaller</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-playing-yakuza-like-a-dragon-on-pc-problems-solved/"><u>The Ultimate Guide to Playing 'Yakuza: Like a Dragon' On PC - Problems Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-overcoming-the-ntdlldll-blue-screen-of-death-in-windows-1110/"><u>Ultimate Troubleshooting Guide: Overcoming the ntdll.dll Blue Screen of Death in Windows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-l4d2s-crash-conundrum-a-comprehensive-guide-for-gamers/"><u>Untangle L4D2's Crash Conundrum – A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002331287-solved-pubg-stuttering-quickly-and-easily/"><u>[Solved] PUBG Stuttering | Quickly & Easily!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphones-quintet-of-best-podcast-aides/"><u>[Updated] IPhone's Quintet of Best Podcast Aides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993273408-bioshock-2-ultimate-hd-revisit-updated-fixes-and-enhancements/"><u>BioShock 2: Ultimate HD Revisit - Updated Fixes and Enhancements!</u></a></li>
+<li><a href="https://facebook.techidaily.com/detecting-intruder-in-your-digital-life/"><u>Detecting Intruder in Your Digital Life</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-from-tarkov-pc-stability-ending-the-frustrating-crash-cycle/"><u>Escape From Tarkov PC Stability: Ending the Frustrating Crash Cycle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-reduce-high-cpu-use-in-your-gameplay-of-cyberpunk-2077/"><u>How to Reduce High CPU Use in Your Gameplay of Cyberpunk 2077?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-u23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from U23.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-immortals-fenyx-rising-from-continuously-failing-on-your-pcconsole/"><u>How to Stop Immortals Fenyx Rising From Continuously Failing on Your PC/Console</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-note-50-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-3-consoles-framerate-advantage-for-gamers/"><u>Top 3: Console's Framerate Advantage for Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-text-overlays-for-a-better-viewing-experience-on-amazon-prime/"><u>Turning Off Text Overlays for a Better Viewing Experience on Amazon Prime</u></a></li>
 </ul></div>
 

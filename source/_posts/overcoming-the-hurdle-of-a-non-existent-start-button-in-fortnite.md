@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Hurdle of a Non-Existent Start Button in Fortnite
-date: 2024-08-19T16:55:47.373Z
-updated: 2024-08-20T16:55:47.373Z
+date: 2024-11-23T17:24:58.452Z
+updated: 2024-11-26T20:46:40.442Z
 tags:
   - win11
   - win10
@@ -36,6 +36,11 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
@@ -50,6 +55,11 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -58,9 +68,6 @@ If you’re not using the controller, check the below settings.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,22 +76,17 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -112,15 +114,18 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -135,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +147,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-secret-to-success-with-filmora-top-10-editing-traits/"><u>[New] 2024 Approved The Secret to Success with Filmora Top 10 Editing Traits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[Updated] 2024 Approved Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-effective-usage-of-hashtags-by-advertisers-on-fb/"><u>[Updated] Effective Usage of Hashtags by Advertisers on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-your-archive-adding-instagram-filters-to-old-media/"><u>[Updated] In 2024, Transforming Your Archive Adding Instagram Filters to Old Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-facebook-3-tactics-for-backward-image-scanning/"><u>[Updated] In 2024, Unveiling Facebook 3 Tactics for Backward Image Scanning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-startup-woes-effective-fixes-for-playing-warframe-smoothly-again/"><u>Banish Startup Woes: Effective Fixes for Playing Warframe Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-latency-solutions-top-tricks-to-achieve-zero-lag/"><u>Dota 2 Latency Solutions: Top Tricks to Achieve Zero Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xi-stability-fix-overcome-crash-errors-with-these-tips/"><u>Dragon Quest XI Stability Fix - Overcome Crash Errors with These Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-fall-guys-play-with-higher-frames-per-second-fps-and-lower-latency-solutions/"><u>Elevate Your Fall Guys Play with Higher Frames per Second (FPS) & Lower Latency Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-resolved-cold-war-in-call-of-duty-black-ops-pc-stability-issues/"><u>Fixing: [Resolved] Cold War in Call of Duty Black Ops - PC Stability Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/flashy-flights-prime-pc-and-mobile-game-hits/"><u>Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y77t-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y77t</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988961546-hitman-3-stuck-on-a-black-canvas-heres-your-pc-solution/"><u>Hitman 3 Stuck on a Black Canvas? Here's Your PC Solution!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-editing-excellence-the-ultimate-guide-to-top-notebooks/"><u>In 2024, Editing Excellence The Ultimate Guide to Top Notebooks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-end-wow-freezing-problems-with-these-simple-troubleshooting-steps/"><u>Quickly End WOW Freezing Problems with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-complication-windows-11-plus-nvidia-x0001/"><u>Rectifying Complication: Windows 11 + Nvidia X0001</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008478914-resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-update-brings-an-end-to-windows-users-crash-woes-what-you-need-to-know/"><u>Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorants-low-framerate-solutions-unveiled-a-step-by-step-guide-to-achieving-smooth-gameplay/"><u>Valorant's Low Framerate Solutions Unveiled: A Step-by-Step Guide to Achieving Smooth Gameplay</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks
-date: 2024-11-14T17:29:55.499Z
-updated: 2024-11-17T07:31:50.193Z
+date: 2024-11-19T16:46:00.394Z
+updated: 2024-11-26T19:44:01.193Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
 
@@ -54,18 +58,15 @@ After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -81,20 +82,15 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -132,14 +128,15 @@ If this method doesn’t help, check out the next solution.
 4. Click**Reset** to confirm again.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
@@ -152,13 +149,6 @@ If the crashing issue occurs again, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
@@ -178,20 +168,14 @@ If this method doesn’t do the trick, try the next fix.
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
@@ -199,6 +183,10 @@ If this method doesn’t do the trick, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
@@ -223,15 +211,12 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After rebooting your PC, launch State of Decay 2 to see if it crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -249,13 +234,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -281,22 +259,14 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lg-360-camera-full-review-2023-update/"><u>[New] LG 360 Camera Full Review -2023 Update</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-googles-technique-for-crystal-clear-speech-translation/"><u>[Updated] 2024 Approved Google's Technique for Crystal Clear Speech Translation</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-the-boundaries-of-video-posting-on-facebook/"><u>[Updated] In 2024, Navigating the Boundaries of Video Posting on Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-game-stutters-for-smooth-playback-at-2024s-ultra-high-fps-levels/"><u>Conquer Game Stutters for Smooth Playback at 2024'S Ultra-High FPS Levels!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-no-longer-freezes-how-the-issue-is-fixed/"><u>Cyberpunk 2077 No Longer Freezes: How the Issue Is Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-fixed-playstation-portable-game-yakuza-3-remake-compatibility-issues-on-pc/"><u>Fixes for [FIXED] PlayStation Portable Game: Yakuza 3 Remake Compatibility Issues on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-mix-fold-3-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Mix Fold 3?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-20-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark 20 Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lustrous-frameworks-structuring-illumination-in-film/"><u>In 2024, Lustrous Frameworks Structuring Illumination in Film</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-game-crashes-fast-fix-solutions/"><u>League of Legends Game Crashes: Fast Fix Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-startup-troubles-heres-how-you-can-fix-it/"><u>MapleStory Startup Troubles? Here’s How You Can Fix It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-play-fixing-lag-and-smoothness-problems-in-splitgate/"><u>Maximize Your Play: Fixing Lag and Smoothness Problems in Splitgate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-detailed-guide-to-open-davinci-resolve-when-windows-gives-you-trouble/"><u>Solving the Puzzle: Detailed Guide to Open DaVinci Resolve When Windows Gives You Trouble</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamline-your-pc-experience-with-easy-download-of-new-displaylink-drivers-on-windows-10/"><u>Streamline Your PC Experience with Easy Download of New DisplayLink Drivers on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-higher-frame-rates-ultimate-strategies-to-boost-fps-in-ring-of-elysium/"><u>Unlock Higher Frame Rates: Ultimate Strategies to Boost FPS in Ring of Elysium</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-the-latest-innovations-in-lgs-360-camera-technology/"><u>Unveiling the Latest Innovations in LG's 360 Camera Technology</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winrts-errors-eradicated-with-new-tools/"><u>WinRTS Errors Eradicated with New Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-birdie-ballet-bounce/"><u>[Updated] In 2024, Birdie Ballet Bounce</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-maximizing-remote-team-dynamics-with-skypes-screen-sharing-technology/"><u>[Updated] In 2024, Maximizing Remote Team Dynamics with Skype’s Screen Sharing Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-performance-with-geforce-rtx-3080-secure-drivers-for-windows-1087/"><u>Best Performance with GeForce RTX 3080 - Secure Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-pc-gaming-performance-a-comprehensive-guide-to-fixing-frames-per-second-degradation/"><u>Enhancing PC Gaming Performance: A Comprehensive Guide to Fixing Frames Per Second Degradation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-path-of-exile-from-frequent-freezing-and-crashing-instances/"><u>How to Stop Path of Exile From Frequent Freezing and Crashing Instances</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-timeless-triumphs-screen-captures-of-samsungs/"><u>In 2024, Timeless Triumphs Screen Captures of Samsungs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007216871-madden-22-trouble-heres-how-to-get-it-up-and-running-swiftly/"><u>Madden 22 Trouble? Here's How to Get It Up and Running Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixing-siftus-frame-rate-issues-and-gameplay-hiccups/"><u>PC Troubleshooting: Fixing SIFTU's Frame Rate Issues and Gameplay Hiccups</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-gt-neo-5-se-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme GT Neo 5 SE Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

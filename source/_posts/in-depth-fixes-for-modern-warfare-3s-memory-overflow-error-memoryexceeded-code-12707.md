@@ -1,7 +1,7 @@
 ---
 title: In-Depth Fixes for Modern Warfare 3'S Memory Overflow Error - MEMORY_EXCEEDED (Code 12707)
-date: 2024-08-19T16:51:33.455Z
-updated: 2024-08-20T16:51:33.455Z
+date: 2024-11-22T17:31:50.230Z
+updated: 2024-11-26T16:36:04.486Z
 tags:
   - win11
   - win10
@@ -47,16 +47,14 @@ Your Modern Warfare crashing can be caused by the following issues:
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your device drivers
 
  When it comes to video game crashing, the most possible cause is your graphics driver. A Graphics card (GPU) is the most important component to determine your gaming performance. Therefore, if the graphics driver is outdated or corrupted, it’s very likely that you will get enormous Modern Warfare crashing. Modern Warfare crashing can be caused by corrupted graphics card drivers.
@@ -85,8 +83,9 @@ Your Modern Warfare crashing can be caused by the following issues:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -109,6 +108,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
@@ -127,9 +130,6 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
  The V-Sync in your game is G-Sync/FreeSync and it may interfere with Modern Warfare, so you can try turning it off to see if the crashing issue goes away. If you have in-game V-sync turned on, you can disable it in Modern Warfare graphics settings.
@@ -141,9 +141,9 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
 
  Default Path: **C:\\Program Files (x86)\\Call of Duty Modern Warfare\\ModernWarfare.exe**
@@ -155,8 +155,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Disable Discord in-game overlay
 
  If you’re using any programs with overlay features such as Discord, disable the In-Game Overlay as it will cause random game crashes on your PC.
@@ -169,9 +170,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 8: Change Priority
 
  Setting Call of Duty: Modern Warfare to high priority, according to a few players, reduces the number of crashes a little bit. To do it, you need to open your game first because you’re going to find it in the Task Manager.
@@ -184,11 +182,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When prompted for permission to make changes, select**Change Priority** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 9\. Repair your system files
 
  If the Modern Warfare shares the same system files with your operating system, and the specific file is corrupt or missing, thus causing your game to crash, you may need to restore it with one of the following:
@@ -229,13 +228,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -293,8 +288,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,4 +295,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-integrating-voices-into-videos-effectively/"><u>[New] 2024 Approved Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>[Updated] In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-the-complete-cheatsheet-to-make-a-collage/"><u>[Updated] The Complete Cheatsheet to Make a Collage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-cloud-giants-unlimited-capacity-showdown/"><u>2024 Approved Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-image-clarity-solutions-for-blurry-graphics-in-pc-playthrough-of-cod-warzone/"><u>Enhancing Image Clarity - Solutions for Blurry Graphics in PC Playthrough of COD: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-frame-rate-issues-in-dragons-dogma-ii-solutions-for-smooth-gameplay/"><u>Fixing Frame Rate Issues in Dragon's Dogma II: Solutions for Smooth Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gta-5-freezing-problems-discover-effective-fixes-and-get-back-to-high-octane-action/"><u>GTA 5 Freezing Problems? Discover Effective Fixes and Get Back to High-Octane Action!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-facebook-fumble-get-unlocked-after-the-hack/"><u>In 2024, Facebook Fumble? Get Unlocked After the Hack</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-redmi-a2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Redmi A2 Is Unlocked</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-minecrafts-darkness-ultimate-guide-to-overcoming-the-black-screen-challenge/"><u>Say Goodbye to Minecraft's Darkness: Ultimate Guide to Overcoming the Black Screen Challenge !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-issues-with-phasmophobia-vr-malfunctioning/"><u>Solving Issues with Phasmophobia VR Malfunctioning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-connecting-to-your-steam-pals-after-an-outage-or-error/"><u>Step-by-Step: Connecting to Your Steam Pals After an Outage or Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-eliminating-delays-in-forza-horizon-5-gameplay/"><u>Troubleshooting Tips for Eliminating Delays in Forza Horizon 5 Gameplay</u></a></li>
+</ul></div>
 

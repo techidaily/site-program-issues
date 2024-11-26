@@ -1,7 +1,7 @@
 ---
 title: Avoid the Frustration of Gameplay Interruptions - Fix Your Frozen Fortnite PC with These Proven Strategies
-date: 2024-08-19T16:57:05.282Z
-updated: 2024-08-20T16:57:05.282Z
+date: 2024-11-19T19:31:44.044Z
+updated: 2024-11-26T18:26:43.985Z
 tags:
   - win11
   - win10
@@ -46,6 +46,11 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 3. **Turn on** the toggle next to **Auto update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
@@ -57,10 +62,12 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 1. **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .  
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
@@ -73,7 +80,15 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
 
@@ -82,17 +97,20 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Flush your DNS and Renew your IP
 
  Fortnite login failed issue is also probably caused by the DNS and IP issues. **Try flushing your DNS and renewing your IP** and maybe this issue will be resolved. Here is how to do it:
@@ -102,9 +120,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 #### To renew your IP
@@ -112,19 +127,23 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Update your network driver
 
  If the network driver on your PC is missing or outdated, it may cause Fortnite login failed issue. **Try updating your network driver** to see if this issue persists.
@@ -145,20 +164,12 @@ See if you can log in or not. if not, try the next fix, below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -177,16 +188,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
@@ -199,33 +204,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
 
 See if you can log in or not. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 10: Close bandwidth hogging applications
 
  If you’re running other applications like **OneDrive** , **Dropbox** and **iCloud** that require Internet connection to download and upload files, or if your family members are watching TV shows at the same time, you may fail to log into Fortnite.
@@ -250,8 +248,6 @@ Launch Fortnite to see if you can log in or not.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -259,4 +255,24 @@ Launch Fortnite to see if you can log in or not.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-finding-the-ideal-media-player-vlc-versus-mx-player/"><u>[New] Finding the Ideal Media Player VLC versus MX Player</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-what-actions-can-i-take-if-my-content-is-swiftly-stripped-by-fb-in-2024/"><u>[New] What Actions Can I Take if My Content Is Swiftly Stripped by FB, In 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-optimal-quick-glance-windows-photo-app/"><u>[Updated] In 2024, Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-paint-jocular-visuals-with-giphy-in-mind/"><u>[Updated] In 2024, Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secure-and-simple-photovideo-sharing-with-ios/"><u>[Updated] Secure and Simple Photo/Video Sharing with IOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-pictorial-storage-hubs/"><u>2024 Approved Leading Pictorial Storage Hubs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-those-bothersome-freezes-and-crashes-in-your-favorite-viking-world-valheim/"><u>Banish Those Bothersome Freezes & Crashes in Your Favorite Viking World, Valheim!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008166107-cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-seamlessly-remove-error-code-727e66ac-in-the-latest-nba-2k24-version/"><u>How to Seamlessly Remove Error Code 727E66AC in the Latest NBA 2K24 Version</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-itel-p40plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Itel P40+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-6-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 6? Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-update-2024-fixes-and-features-including-the-infamous-connectivity-bug-resolution/"><u>League of Legends Update 2024 - Fixes and Features Including the Infamous Connectivity Bug Resolution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-lowering-discord-cpu-use-a-step-by-step-guide/"><u>Master the Art of Lowering Discord CPU Use: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-friendship-woes-be-gone-tackling-the-network-out-of-reach-fault/"><u>Steam Friendship Woes Be Gone: Tackling the Network Out-of-Reach Fault</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-battlefield-4-wont-open-on-pc/"><u>Troubleshooting Steps When Battlefield 4 Won't Open on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722882262636-ultimate-list-of-gmails-fastest-typing-tricks-discover-the-top-30-shortcuts/"><u>Ultimate List of Gmail's Fastest Typing Tricks: Discover the Top 30 Shortcuts!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unfreezing-overwatch-solutions-for-continuous-game-lag-and-freezes/"><u>Unfreezing Overwatch: Solutions for Continuous Game Lag and Freezes</u></a></li>
+</ul></div>
 

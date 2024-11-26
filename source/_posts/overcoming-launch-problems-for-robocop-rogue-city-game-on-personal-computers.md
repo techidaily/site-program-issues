@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Problems for 'RoboCop: Rogue City' Game on Personal Computers"
-date: 2024-08-19T16:53:06.214Z
-updated: 2024-08-20T16:53:06.214Z
+date: 2024-11-25T19:22:30.810Z
+updated: 2024-11-26T20:31:58.018Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
@@ -47,8 +51,9 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  Missing and corrupted game file is a known culprit of various game problems. Fortunately, you can use the Steam built-in tool to verify the file integrity easily.
@@ -57,9 +62,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
@@ -68,9 +70,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
@@ -83,9 +82,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-1.jpg)
@@ -94,9 +90,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Open the**3rd folder** .
 
 **5)** Launch the**DXSETUP.exe file** .
@@ -117,17 +110,26 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**NONE – Opt out of all beta programs** from the drop-down menu under Beta participation and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can relaunch L.A. Noire to test this method. If it doesn’t help, please proceed to Fix 5 below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
  According to a lot of players, the Steam desktop theatre mode will also cause L.A. Noire not launching. Try disabling this option and see if that solves your problem.
@@ -136,18 +138,22 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  Restart L.A. Noire and check if it starts without error. If the not launching problem persists, don’t despair. There is the last fix.
 
 ---
@@ -168,9 +174,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -178,8 +181,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -200,8 +204,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +211,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-days-to-launch-podcasts/"><u>[New] Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-4k-capture-tools-for-ultimate-hd-recording/"><u>[New] Top 4K Capture Tools for Ultimate HD Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-secrets-to-adding-seconds-to-youtube-clips-for-2024/"><u>[New] Unveiling Secrets to Adding Seconds to YouTube Clips for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-27-significant-metaverse-demonstrations-unveiled-for-2024/"><u>[Updated] 27 Significant Metaverse Demonstrations Unveiled for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-nikon-j5-in-4k-the-ultimate-camera-review-for-2024/"><u>[Updated] Nikon J5 in 4K The Ultimate Camera Review for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-frozen-screens-solving-the-stuck-on-loading-problem-in-cold-war-across-platforms/"><u>Battle Against Frozen Screens: Solving the 'Stuck On Loading' Problem in Cold War Across Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambio-libre-de-m4r-a-m4a-online-guia-rapida-con-herramienta-movavi/"><u>Cambio Libre De M4R a M4A Online: Guía Rápida Con Herramienta Movavi</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/complete-tutorial-on-fixing-broken-sound-records-in-windows-environments/"><u>Complete Tutorial on Fixing Broken Sound Records in Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fifa-21-installation-issues-heres-how-you-can-fix-the-problem/"><u>FIFA 21 Installation Issues? Here’s How You Can Fix the Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-darkness-to-victory-expert-tips-for-resolving-fortnite-black-screen-troubles-in-windows/"><u>From Darkness to Victory: Expert Tips for Resolving Fortnite Black Screen Troubles in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006860505-house-flipper-s-pc-malfunctions-heres-how-to-stabilize-and-fix-it/"><u>House Flipper S PC Malfunctions? Here's How to Stabilize and Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002088972-mastering-stability-leaf-of-legends-crash-fixes-in-minutes/"><u>Mastering Stability: Leaf of Legends Crash Fixes in Minutes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/protonmail-unveils-new-secure-password-management-tool-featuring-military-grade-encryption/"><u>ProtonMail Unveils New Secure Password Management Tool Featuring Military-Grade Encryption</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-excessive-cpu-consumption-in-phasmophobia-a-step-by-step-guide/"><u>Resolving Excessive CPU Consumption in Phasmophobia: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-palworlds-session-search-issues-a-step-by-step-guide/"><u>Solving PalWorld's Session Search Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-efficiently-changing-vob-format-to-mp4-on-pcs-with-windows-11-or-mac-systems/"><u>Step-by-Step Instructions for Efficiently Changing VOB Format to MP4 on PCs with Windows 11 or Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-alienware-command-center-issues/"><u>Troubleshooting Guide: Solving Alienware Command Center Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/upgrade-your-visuals-the-best-free-online-video-quality-improvers/"><u>Upgrade Your Visuals The Best Free Online Video Quality Improvers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-are-photoautotrophs-essential-in-agriculture/"><u>Why Are Photoautotrophs Essential in Agriculture?</u></a></li>
+</ul></div>
 

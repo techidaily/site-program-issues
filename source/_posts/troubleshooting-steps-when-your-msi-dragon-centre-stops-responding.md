@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your MSI Dragon Centre Stops Responding
-date: 2024-11-13T06:19:27.242Z
-updated: 2024-11-16T19:56:59.080Z
+date: 2024-11-22T22:56:03.424Z
+updated: 2024-11-26T19:36:43.116Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Outdated graphics drivers, of course, are the most common culprit to game issues. Be sure to download and install the correct driver set for your video card.
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -70,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -83,24 +95,15 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -112,13 +115,6 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -127,20 +123,10 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
@@ -180,24 +166,18 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>[New] 2024 Approved Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-google-chrome-crashing-easily/"><u>[Solved] Google Chrome Crashing. Easily</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-hunt-down-these-10-vectors-stock-image-websites/"><u>[Updated] 2024 Approved Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-riches-with-best-hash-tags-tips-for-2024/"><u>[Updated] YouTube Riches with Best Hash Tags Tips for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-maximizing-performance-optimal-settings-for-logitech-webcam/"><u>2024 Approved Maximizing Performance Optimal Settings for Logitech Webcam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-dirt-5-pc-malfunctions-effective-troubleshooting-techniques/"><u>Eliminating Dirt 5 PC Malfunctions: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-error-steam-friends-network-now-accessible/"><u>Fixing the Error: 'Steam Friends Network' Now Accessible</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-streams-resolving-app-crashes-during-live-broadcasts/"><u>How to Fix Discord Streams: Resolving App Crashes During Live Broadcasts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-t2x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo T2x 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-wolcen-overcoming-pc-compatibility-and-stability-challenges/"><u>Mastering Wolcen: Overcoming PC Compatibility and Stability Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quickening-the-pace-resolving-slow-launches-in-fallout-4-gaming-experience/"><u>Quickening the Pace: Resolving Slow Launches in Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/recmaster-screen-recorder-review/"><u>Recmaster Screen Recorder Review</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-14-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 14 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-blue-screen-error-in-hell-divers-the-twin-heroes-ii-gameplay/"><u>The Ultimate Fix for 'Blue Screen' Error in Hell Divers: The Twin Heroes II Gameplay</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-syma-airamax-n2i-rc-helicopter-combining-quality-with-economy/"><u>The Ultimate Guide to Syma AIRAMAX N2i RC Helicopter - Combining Quality with Economy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-repairing-guilty-gear-strive-pc-instability-issues/"><u>Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-stability-issues-causing-king-of-fighters-xv-to-crash-on-pc-systems/"><u>Understanding and Resolving the Stability Issues Causing 'King of Fighters XV' To Crash on PC Systems</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-meme-generation-made-easy-top-10-apps-for-android-and-ios-for-2024/"><u>Updated Meme Generation Made Easy Top 10 Apps for Android & iOS for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nokia-c22-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C22 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-smooth-video-viewing-experience-enabledisable-pip-for-iphone-youtube/"><u>[Updated] Smooth Video Viewing Experience Enable/Disable PIP for iPhone YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlimited-choice-in-free-personalized-outro-sounds/"><u>2024 Approved Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-c22-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia C22 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/disrupting-industry-norms-social-media-incs-5-million-investment-in-writers-platforms/"><u>Disrupting Industry Norms: Social Media Inc.'s $5 Million Investment in Writers' Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o469/"><u>Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-gaiety-media-download-review/"><u>In 2024, Gaiety Media Download Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-rust-is-unresponsive-issue-top-strategies-for-developers/"><u>Resolving the 'Rust Is Unresponsive' Issue: Top Strategies for Developers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-free-from-the-fog-unsticking-sea-of-thieves-load-screen-woes/"><u>Resolving the Issue: Free From the Fog - Unsticking 'Sea of Thieves' Load Screen Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005288838-the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a1x-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A1x 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-5-primary-companies-grievances-with-gpt/"><u>Unveiling the 5 Primary Companies' Grievances with GPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/zvlastni-metody-prekrytani-obrazu-na-hudebni-videokazeti-troji-podrobnost/"><u>Zvláštní Metody Překrýtání Obrazu Na Hudební Videokazeti - Trojí Podrobnost</u></a></li>
 </ul></div>
 

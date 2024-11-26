@@ -1,7 +1,7 @@
 ---
 title: "Hold Onto Your Gear, PlayStation Enthusiasts: PC Version of Diablo Immortal Still Unconfirmed for Launch"
-date: 2024-08-19T16:52:24.479Z
-updated: 2024-08-20T16:52:24.479Z
+date: 2024-11-23T23:24:38.706Z
+updated: 2024-11-26T19:04:10.438Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -41,21 +45,17 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 1. Launch the**Battle.net** launcher and select**Diablo Immortal** from the top pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -67,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  The graphics card driver is very essential for gaming performance. If you’re using a faulty or outdated graphics driver, you may suffer from various performance issues of Diablo Immortal including game crashes, low FPS and stuttering. And you should update the graphics driver for maximum gameplay.
@@ -82,15 +83,13 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -100,9 +99,18 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 2. Select**Diablo Immortal** from the game list. Then click the**gear icon** beside the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -112,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -132,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +144,21 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-pro-android-pixel-perfect-techniques/"><u>[New] 2024 Approved Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-17-best-lights-and-lighting-equipment-for-youtube-videos-for-2024/"><u>[Updated] 17 Best Lights and Lighting Equipment for YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-disruptive-youtube-videos-fix-and-solutions-for-mobile/"><u>[Updated] Disruptive YouTube Videos Fix and Solutions for Mobile</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>[Updated] In 2024, Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-league-of-legends-black-screen-glitch-with-these-pro-tips-updated-guide-for-202n4/"><u>Beat League of Legends' Black Screen Glitch with These Pro Tips - Updated Guide for 202N4</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/miss-these-youtube-seo-tools-to-boost-your-video/"><u>Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-for-missing-libcurldll-error-fixes/"><u>Effective Solutions for Missing Libcurl.dll Error Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolving-game-security-threat-notifications-effectively/"><u>Guide to Resolving Game Security Threat Notifications Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-delays-and-connection-glitches-in-the-newest-release-of-game-name/"><u>Overcoming Delays & Connection Glitches in the Newest Release of [Game Name]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-imessage-delivery-problems-on-your-iphone-easy-fixes-you-should-try/"><u>Overcoming iMessage Delivery Problems on Your iPhone - Easy Fixes You Should Try</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/playlist-retrieval-made-straightforward-your-compreenaside/"><u>Playlist Retrieval Made Straightforward - Your Compreenaside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-enhancing-frame-rates-and-eliminating-delays-in-fall-guys/"><u>Step-by-Step Tips: Enhancing Frame Rates & Eliminating Delays in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-village-for-pc-tips-to-prevent-game-crashes/"><u>Troubleshooting Resident Evil Village for PC: Tips to Prevent Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-non-functional-logitech-g-hub-software-in-windows-environment/"><u>Ultimate Fixes for Non-Functional Logitech G Hub Software in Windows Environment</u></a></li>
+</ul></div>
 

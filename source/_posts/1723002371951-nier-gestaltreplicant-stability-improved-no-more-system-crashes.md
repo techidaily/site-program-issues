@@ -1,7 +1,7 @@
 ---
 title: "NieR: Gestalt/Replicant Stability Improved - No More System Crashes"
-date: 2024-11-13T05:45:01.593Z
-updated: 2024-11-17T03:13:46.938Z
+date: 2024-11-24T18:18:49.622Z
+updated: 2024-11-26T20:52:54.404Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ A screenshot of Ghostwire: Tokyo from Steam
 2. **Right-click** on **Ghostwire: Tokyo** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -103,13 +96,6 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -120,13 +106,6 @@ Or
  Run Ghostwire: Tokyo and see if the crashing issue persists. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Repair corrupted system files
 
@@ -145,14 +124,15 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -161,6 +141,10 @@ Or
 **Email:** <support@fortect.com>  
 **Submit a ticket:** _[https://www.fortect.com/company/contacts/](https://www.reimageplus.com/submit-ticket/)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -168,6 +152,10 @@ Or
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you run the game.
 
  Run Ghostwire: Tokyo and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Install the latest DirectX files
 
@@ -181,22 +169,12 @@ Or
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
 
  See if Ghostwire: Tokyo crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -208,6 +186,10 @@ Or
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Disable Steam Overlay
 
  Overlays are convenient, but sometimes they would interfere with the game and even block the game files, leading to the game crashing issues.
@@ -218,14 +200,11 @@ Or
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
@@ -262,21 +241,22 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://mondly-stories.techidaily.com/mondly-bridging-communication-gaps-in-the-virtual-reality-arena-with-oculus-quest/"><u>'Mondly': Bridging Communication Gaps in the Virtual Reality Arena with Oculus Quest</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[New] How Does YouTube Count Views? It's Not as Simple as You Think!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-viewers-to-valuables-mastering-video-monetization-on-vimeo/"><u>[New] In 2024, From Viewers to Valuables Mastering Video Monetization on Vimeo</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>2024 Approved Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-boost-your-utorrent-speed-and-get-faster-downloads-expert-tips/"><u>How to Boost Your uTorrent Speed & Get Faster Downloads: Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valorant-graphics-driver-crash-errors-swiftly-and-efficiently/"><u>How to Resolve Valorant Graphics Driver Crash Errors Swiftly and Efficiently</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>In 2024, From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-translate-videos-and-subtitles-with-veedio/"><u>New 2024 Approved Translate Videos and Subtitles with Veed.io</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007869963-pc-troubles-heres-how-you-can-stop-praey-from-crashing/"><u>PC Troubles? Here's How You Can Stop Praey From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quickly-resolve-your-call-of-duty-warzone-directx-problem-in-just-four-steps/"><u>Quickly Resolve Your Call of Duty: Warzone DirectX Problem in Just Four Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-steps-to-troubleshoot-saints-row-unable-to-start-on-desktop/"><u>Resolved: Steps to Troubleshoot Saints Row Unable to Start on Desktop</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviveclipmaster-seamlessly-restore-video-flaws/"><u>ReviveClipMaster: Seamlessly Restore Video Flaws</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-gameplay-quick-fixes-for-multiversus-failure-to-load-on-pc/"><u>Reviving Your Gameplay: Quick Fixes for MultiVersus Failure to Load on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-silence-a-step-by-step-guide-to-restoring-audio-in-fallout-4/"><u>Solving Silence: A Step-by-Step Guide to Restoring Audio in Fallout 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-solving-horizon-forbidden-west-full-game-crashes-on-windows/"><u>Troubleshooting Steps: Solving 'Horizon Forbidden West' Full Game Crashes on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-your-internet-data-usage-tips-and-tricks/"><u>Understanding Your Internet Data Usage - Tips & Tricks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-elevate-your-tiktok-videos-with-compelling-captions/"><u>[New] 2024 Approved Elevate Your TikTok Videos with Compelling Captions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>[New] In 2024, Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-journey-through-updates-unveiling-lg-bp550-new/"><u>[Updated] In 2024, Journey Through Updates Unveiling LG BP550 New</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vectors-for-novices-uncover-essentials-types-and-applications/"><u>[Updated] Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pioneering-approaches-to-logging-lol-rallies/"><u>2024 Approved Pioneering Approaches to Logging LOL Rallies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/advanced-argon-elite-bootstrap-5-admin-framework-by-creative-tim/"><u>Advanced Argon: Elite Bootstrap 5 Admin Framework by Creative Tim</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-preventing-medium-from-crashing-on-personal-computers/"><u>Effective Fixes for Preventing Medium From Crashing on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-constant-freezes-in-nox-game-player-on-your-computer/"><u>Eliminating Constant Freezes in Nox Game Player on Your Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles/"><u>In 2024, Unveiling Modernity Discover These Top 10 Digital Realms for Artistic Font Styles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-iphone-wont-connect-with-itunes-on-windows-10-computers/"><u>Resolving the Issue: IPhone Won't Connect with iTunes on Windows 10 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-lol-black-screen-issue-top-fixes-and-guides/"><u>Resolving the LoL Black Screen Issue: Top Fixes & Guides</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/snaprecorder-expert-breakdowns/"><u>SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gta-5-crashes-in-their-tracks-top-troubleshooting-tips/"><u>Stop GTA 5 Crashes in Their Tracks – Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-solving-gtfo-application-failures/"><u>Understanding and Solving GTFO Application Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-dota-2-lag-pro-level-hacks-and-tips-for-the-current-year/"><u>Winning Against Dota 2 Lag: Pro-Level Hacks and Tips for the Current Year</u></a></li>
 </ul></div>
 

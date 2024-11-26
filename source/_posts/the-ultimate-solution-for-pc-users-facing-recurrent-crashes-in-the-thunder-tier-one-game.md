@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Solution for PC Users Facing Recurrent Crashes in the Thunder Tier One Game
-date: 2024-08-19T16:55:42.035Z
-updated: 2024-08-20T16:55:42.035Z
+date: 2024-11-23T23:02:28.951Z
+updated: 2024-11-26T20:50:54.420Z
 tags:
   - win11
   - win10
@@ -59,8 +59,9 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/My-game-library.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click your**Star Wars: Battlefront 2** .
 
  3) Select**Repair** .
@@ -83,18 +84,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Battlefront 2 is no exception. To keep your game work like a charm, you’ll need to update the graphics driver.
@@ -118,8 +111,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **OR**
 
  Click**Update All** to update all of your drivers automatically (feel free to try the **[Pro version](https://tools.techidaily.com/drivereasy/download/) ,** which comes with**Full Support** and a**30-day Money-Back Guarantee** . You will be prompted to upgrade when you click Update All).
@@ -142,8 +136,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Revert back to DX11
 
  Many Battlefront 2 players find reverting to DX11 helps reduce random crashes. Here’s how to do it:
@@ -159,8 +154,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Run as administrator
 
  When the game keeps crashing, you can always run both your game launcher and game.exe file as administrator. To make sure your game runs smoothly, you can run your game as an administrator permanently.
@@ -171,9 +167,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Apply** \>**OK** .
 
  4) Go to your game installation folder and run your game exe file as administrator too.
@@ -200,8 +193,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 If the game keeps crashing, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -216,27 +210,29 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
 
@@ -287,8 +283,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +290,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-stop-the-sponsored-snippet-stops-in-fb/"><u>[New] 2024 Approved Stop the Sponsored Snippet Stops in FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solved-issue-failed-to-create-conexant-audio-factory-the-smartaudio-will-now-exit/"><u>[Solved] Issue: “Failed to Create Conexant Audio Factory, The SmartAudio Will Now Exit”</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-quick-growth-guide-mastering-instagram-likes-and-video/"><u>[Updated] In 2024, Quick Growth Guide - Mastering Instagram Likes & Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>[Updated] In 2024, The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-optimizing-your-content-performance-premier-video-rank-tools/"><u>2024 Approved Optimizing Your Content' Performance Premier Video Rank Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008735507-battling-freezing-frame-rates-in-fallout-4-discover-effective-solutions/"><u>Battling Freezing Frame Rates in Fallout 4? Discover Effective Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/curing-the-dragon-quest-xi-crashes-with-ease-a-detailed-solution-breakdown/"><u>Curing the Dragon Quest XI Crashes with Ease – A Detailed Solution Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/final-fantasy-xv-stability-issues-on-pc-corrected-comprehensive-guide/"><u>Final Fantasy XV Stability Issues on PC Corrected - Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/hd-video-recording-for-windows-10-users-for-2024/"><u>HD Video Recording for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-fixes-for-kernelbasedll-crashing-issues-expert-tips-and-techniques/"><u>Immediate Fixes for KernelBase.dll Crashing Issues - Expert Tips & Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/key-steps-to-preserve-and-broadcast-live-sports-successfully-for-2024/"><u>Key Steps to Preserve & Broadcast Live Sports Successfully for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Spark 20 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys"
-date: 2024-11-12T06:20:15.306Z
-updated: 2024-11-16T19:13:12.455Z
+date: 2024-11-20T16:51:49.904Z
+updated: 2024-11-26T16:44:24.811Z
 tags:
   - win11
   - win10
@@ -59,9 +59,17 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display 1** tab to check your graphics card.
 
@@ -87,19 +95,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click the name of your graphics card and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
@@ -113,6 +108,10 @@ Follow the instructions below to view your computer hardware information:
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -131,6 +130,10 @@ Follow the instructions below to view your computer hardware information:
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -157,32 +160,20 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-05-40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click**Apply** , then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
 If the game still freezes, then move on to the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: **Verify the game** files
 
@@ -199,15 +190,16 @@ If the game still freezes, then move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: End unnecessary background programs
 
@@ -242,19 +234,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
@@ -266,13 +245,6 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -304,13 +276,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -334,10 +299,7 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
@@ -368,6 +330,10 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
 ---
@@ -395,22 +361,18 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>[New] 2024 Approved Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-beyond-boundaries-the-present-state-and-future-of-vr/"><u>[New] In 2024, Beyond Boundaries The Present State and Future of VR</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/astering-video-content-insights-into-effective-keywords/"><u>[New] Mastering Video Content Insights Into Effective Keywords</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-banish-the-automatic-post-proposals-on-instagram/"><u>[Updated] Banish the Automatic Post Proposals on Instagram</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhance-online-presence-master-facebook-video-autoplay/"><u>[Updated] Enhance Online Presence Master Facebook Video Autoplay</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-zoom-meetings-unveiled-maximizing-video-clarity-for-2024/"><u>[Updated] Zoom Meetings Unveiled Maximizing Video Clarity for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-the-unable-to-join-a-party-dilemma-resolving-fortnite-error-84/"><u>Deciphering the 'Unable to Join a Party' Dilemma: Resolving Fortnite Error 84</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 Phone without Any Data Loss</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g-hub-malfunction-fixes-resolving-windows-compatibility-problems/"><u>Logitech G Hub Malfunction Fixes - Resolving Windows Compatibility Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-persistent-problems-in-ghostwire-tokyo-ultimate-guide-to-prevent-pc-malfunctions/"><u>Overcome Persistent Problems in Ghostwire: Tokyo; Ultimate Guide to Prevent PC Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-virtual-farmers-life-2022-expert-advice-and-tips/"><u>Overcoming Launch Hurdles in Virtual Farmer's Life 2022 – Expert Advice & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-stable-play-addressing-the-call-of-duty-mobile-warzone-20-pc-edition-freezing-issues/"><u>Solutions for Stable Play: Addressing the Call of Duty Mobile Warzone 2.0 PC Edition Freezing Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-security-keys-featured-by-industry-experts-review/"><u>Top Rated Security Keys Featured by Industry Experts Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-visual-problems-in-rust-development/"><u>Troubleshooting and Solutions for Visual Problems in Rust Development</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lag-in-avatar-the-game-for-ps4-tips-and-fixes/"><u>Troubleshooting Lag in 'Avatar: The Game for PS4 – Tips and Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-ascent-the-fix-for-a-missing-launch/"><u>Unlocking 'Ascent': The Fix for a Missing Launch!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>[New] Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-comprehensive-look-at-lighting-your-youtube-videos-right/"><u>[Updated] 2024 Approved A Comprehensive Look at Lighting Your YouTube Videos Right</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-insiders-look-at-facebook-sharing-for-youtube-creators/"><u>[Updated] In 2024, The Insider's Look at Facebook Sharing for YouTube Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-vanguard-enterprises-of-spatial-display-tech-for-2024/"><u>[Updated] Vanguard Enterprises of Spatial Display Tech for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-strategies-for-resolving-the-failed-to-log-in-hurdle-on-palworld/"><u>5 Proven Strategies for Resolving the 'Failed to Log In' Hurdle on Palworld</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/gps-drones-the-ultimate-follower-guide-compilation/"><u>GPS Drones The Ultimate Follower Guide Compilation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-comprehensive-fixes-for-game-latency-problems/"><u>Guilty Gear Strive: Comprehensive Fixes for Game Latency Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-pagewide-printer-software-suite-for-windows-download-drivers-for-new-and-old-os-win11108/"><u>HP PageWide Printer Software Suite for Windows: Download Drivers for New and Old OS (Win11/10/8)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing/"><u>In 2024, From Novice to Pro A Tactical Guide to Snapchat Marketing</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-functionality-reactivating-cortana-on-win11/"><u>Regain Functionality: Reactivating Cortana on Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-launch-errors-in-rainbow-six-siege/"><u>Resolved! Fixing Launch Errors in Rainbow Six Siege</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-correcting-the-absence-of-d3dx924dll-in-your-system/"><u>The Ultimate Guide: Correcting the Absence of d3dx9_24.dll in Your System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-city-building-skylines-2-startup-issues/"><u>Troubleshooting City Building: Skylines 2 Startup Issues</u></a></li>
 </ul></div>
 

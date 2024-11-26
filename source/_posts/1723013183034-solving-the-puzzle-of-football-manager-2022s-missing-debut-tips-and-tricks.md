@@ -1,7 +1,7 @@
 ---
 title: Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks!
-date: 2024-08-19T16:52:45.169Z
-updated: 2024-08-20T16:52:45.169Z
+date: 2024-11-22T16:54:46.231Z
+updated: 2024-11-26T22:40:38.169Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/b12c1a140a3344398be10869a2b844a6fc484f74e
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -65,13 +62,14 @@ thumbnail: https://thmb.techidaily.com/b12c1a140a3344398be10869a2b844a6fc484f74e
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -87,9 +85,6 @@ After updating your drivers, restart your PC and test the gameplay.
 
 Once complete, launch the game to check if your game is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5\. Delete the Caches and Preferences folder
 
  According to some Football Manager 2022 players, you can delete certain game files and restart the game to fix the launch issue. Here’s how:
@@ -103,8 +98,9 @@ Once complete, launch the game to check if your game is working again.
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Run the game executable file as admin
 
  If you can’t launch Football Manager 2022 after following the steps above, you may want to run this executable game file directly to see if this helps.
@@ -118,13 +114,15 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Locate the game’s executable and run the game as an administrator.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7\. Open the game in windowed mode
 
  If Football Manager keeps getting stuck at the loading screen, you can run it in windowed mode, which has helped many other players.
@@ -133,19 +131,18 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8\. Repair your system files
 
  If you get an error message such as “vcruntime140\_1.dll or MSVCP140.dll was not found” or ” xinput1\_4.dll is missing”, it means that there’s certain system file missing on your PC, thus causing your Football Manager 2022 to not launch. Here’s how to fix it:
@@ -172,6 +169,10 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -188,9 +189,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -200,6 +198,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -249,8 +251,6 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +258,26 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ffline-entertainment-how-to-load-youtube-video-onto-your-apple-gear-for-2024/"><u>[New] Offline Entertainment How to Load YouTube Video Onto Your Apple Gear for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-streaming-guru-utilizing-zooms-features-for-effective-youtube-broadcasts/"><u>2024 Approved Become a Streaming Guru Utilizing Zoom's Features for Effective YouTube Broadcasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p40-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ce-visibility-essential-youtube-seo-strategies-revealed/"><u>Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-guide-to-prevent-obs-from-failing-on-windows-pcs-windows-10-and-11-202-the-provided-information-seems-incomplete-as-the-year-202-is-missing-at-the-en510/"><u>Latest Guide to Prevent OBS From Failing on Windows PCs (Windows 10 & 11, 202 The Provided Information Seems Incomplete as the Year '202' Is Missing at the End of the Title Example [SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-waiting-fix-an-unresponsive-epic-games-launcher-immediately/"><u>No More Waiting: Fix an Unresponsive Epic Games Launcher Immediately</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operation-convert-each-mention-of-stress-into-an-elaborate-medieval-heraldic-language-as-though-announcing-a-royal-decree-on-stresss-impact-on-health/"><u>Operation: Convert Each Mention of Stress Into an Elaborate Medieval Heraldic Language, as Though Announcing a Royal Decree on Stress's Impact on Health.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-to-prevent-stuttering-and-crashing-while-playing-serious-sam-4/"><u>Optimizing Your PC Settings to Prevent Stuttering & Crashing While Playing Serious Sam 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seven-effective-ways-to-stop-halo-infinite-from-crashing-on-your-desktop/"><u>Seven Effective Ways to Stop Halo Infinite From Crashing on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gameplay-achieved-in-updated-cyberpunk-2077-fix-for-lags-and-hiccups/"><u>Smooth Gameplay Achieved in Updated Cyberpunk 2077 Fix for Lags & Hiccups</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/steps-to-stop-discord-from-crashing-while-streaming/"><u>Steps to Stop Discord From Crashing While Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-lost-ark-from-crashing-effective-tips-and-tricks-for-pc-users/"><u>Stop Lost Ark From Crashing: Effective Tips and Tricks for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-recurring-disruptions-in-your-pc-experience-with-f1-2020/"><u>The Ultimate Fix for Recurring Disruptions in Your PC Experience with F1 2020</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a18-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A18 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013301796-troubleshooting-guide-fixing-windows-spotlight-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-ussd-an-in-depth-look-at-data-messaging-protocols/"><u>Unlocking the Secrets of USSD: An In-Depth Look at Data Messaging Protocols</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo A38? | Dr.fone</u></a></li>
+</ul></div>
 

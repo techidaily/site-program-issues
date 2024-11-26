@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!"
-date: 2024-08-19T16:51:20.137Z
-updated: 2024-08-20T16:51:20.137Z
+date: 2024-11-24T19:22:34.074Z
+updated: 2024-11-26T16:45:33.598Z
 tags:
   - win11
   - win10
@@ -43,13 +43,25 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-41-15-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Wait for the scans to be complete, then relaunch the game.
 
 If Mount & Blade 2 still crashes, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your graphics driver
 
@@ -66,8 +78,9 @@ If Mount & Blade 2 still crashes, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -95,27 +108,22 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 **4)**  Rename the**Bannerlord folder** to**old\_Bannerlord** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-50-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch Steam to reinstall the game.
 
  If the Bannerlord still crashes on your PC, move on and try the solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 4: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -133,26 +141,29 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
@@ -164,13 +175,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 **8)** Click **Set** , and then click **OK** .
 
 **9)** Restart your computer and your game.
@@ -185,9 +189,6 @@ No advertising on the website.
 
 ![This image has an empty alt attribute; its file name is image-575.jpg](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
@@ -202,8 +203,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +210,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-complete-breakdown-inside-google-podcasts-application/"><u>[New] Complete Breakdown Inside Google Podcasts Application</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games/"><u>[Updated] Mastering the Art of Play Navigating Switch Pro and Steam Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-errors-expert-fixes-for-fallout-3-launching-issues/"><u>Dealing with Errors: Expert Fixes for Fallout 3 Launching Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-frequent-palworld-game-crashes-on-your-desktop/"><u>Effective Solutions for Resolving Frequent PalWorld Game Crashes on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-pre-launch-problems-of-the-finals-tips-for-202n4-successfully/"><u>Effective Strategies to Resolve Pre-Launch Problems of The Finals - Tips for 202N4 Successfully</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>In 2024, Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigate-the-tiktok-twitter-connection/"><u>In 2024, Navigate the TikTok-Twitter Connection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveil-the-best-of-history-top-10-youtube-channel-list/"><u>In 2024, Unveil the Best of History Top 10 YouTube Channel List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/palworld-not-loading-issues-heres-how-to-resolve-them-swiftly/"><u>Palworld Not Loading Issues? Here's How to Resolve Them Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-smooth-out-your-csgo-gameplay-experience/"><u>Quick Fixes to Smooth Out Your CS:GO Gameplay Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-preventing-recurrent-blender-freezes-and-clashes-on-desktop-systems/"><u>Troubleshooting Guide: Preventing Recurrent Blender Freezes and Clashes on Desktop Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-what-to-do-when-xinput13dll-is-unavailable/"><u>Troubleshooting: What To Do When 'xinput1_3.dll' Is Unavailable?</u></a></li>
+</ul></div>
 

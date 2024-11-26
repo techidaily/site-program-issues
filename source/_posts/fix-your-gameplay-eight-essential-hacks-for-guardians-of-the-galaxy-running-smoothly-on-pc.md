@@ -1,7 +1,7 @@
 ---
 title: Fix Your Gameplay! Eight Essential Hacks for Guardians of the Galaxy Running Smoothly on PC
-date: 2024-08-19T16:55:20.125Z
-updated: 2024-08-20T16:55:20.125Z
+date: 2024-11-19T18:27:21.535Z
+updated: 2024-11-26T22:16:30.504Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ## Marvel's Game Troubles? Here Are 8 Crucial Tweaks to Stop Guardians of the Galaxy From Crashing on Your Desktop
 
 Although Marvel’s Guardians of the Galaxy has received generally positive reviews from critics, there are still many PC gamers complaining that**Marvel’s Guardians of the Galaxy keeps crashing** on their Windows PC. If you’re in the same boat, don’t worry! The good news is, you’ve come to the right place. After reading this article, should be able to fix this issue easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -69,9 +73,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Verify the integrity of game files
 
  If some important game files are missing or corrupted, the game may crash. But don’t worry, you can try to verify and repair the game files first. how to do it:
@@ -80,9 +81,11 @@ Marvel’s Guardians of the Galaxy system requirements
 2. **Right-click** on **Marvel’s Guardians of the Galaxy** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -108,10 +111,11 @@ If this issue persists, try the next fix, below.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Marvel’s Guardians of the Galaxy_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
@@ -143,22 +147,22 @@ If this fix didn’t work, try the next fix, below.
 2. Install and launch Fortect. You’ll be asked to run a free scan of your computer. Click **Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Perform a clean boot
 
  If there’s a certain app conflicting with Marvel’s Guardians of the Galaxy, the game will crash. Not sure which app is conflicting with the game? Don’t worry. Just follow the steps below to perform a clean boot, and you’ll find it out. Here’s how to do it:
@@ -168,27 +172,29 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -213,8 +219,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +226,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] 2024 Approved Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-facebook-live-stream/"><u>[Updated] 2024 Approved How to Record Facebook Live Stream</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-hack-high-speed-videos-for-engaging-instagram-stories/"><u>[Updated] Hack High-Speed Videos for Engaging Instagram Stories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-apex-legends-game-crash-troubleshooting-common-engine-issues/"><u>Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-past-the-starting-gate-strategies-to-fix-fall-guys-from-crashing-on-launch/"><u>Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100t to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-leveraging-youtubes-algorithm-maximizing-reach-through-featured-channels/"><u>In 2024, Leveraging YouTube's Algorithm Maximizing Reach Through Featured Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-20-free-to-use-pubg-image-arrays/"><u>In 2024, Premium 20 Free-to-Use PUBG Image Arrays</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-solved-issues-with-team-fortress-2-stability/"><u>No More Crashes: Solved Issues with Team Fortress 2 Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-in-evil-genius-2-for-an-optimal-gaming-experience/"><u>Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-classics-moviesgames-in-windows-folder/"><u>Rediscovering Classics: Movies/Games in Windows Folder</u></a></li>
+</ul></div>
 

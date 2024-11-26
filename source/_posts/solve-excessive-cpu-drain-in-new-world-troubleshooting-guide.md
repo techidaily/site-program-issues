@@ -1,7 +1,7 @@
 ---
 title: "Solve Excessive CPU Drain in 'New World': Troubleshooting Guide"
-date: 2024-08-19T16:53:50.355Z
-updated: 2024-08-20T16:53:50.355Z
+date: 2024-11-23T16:25:11.522Z
+updated: 2024-11-26T17:16:12.445Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -77,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -102,14 +103,20 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Verify your game files
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -124,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Steam
 
  1) In Steam, navigate to**the LIBRARY tab** and**right-click** on The Division 2\. Then select**Properties** .
@@ -135,8 +146,9 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Epic Game Launcher
 
  1) In Epic Game Launcher, navigate to your**Library** .
@@ -150,9 +162,14 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
@@ -168,9 +185,6 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -180,22 +194,21 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Modify the paging file size
 
  If the game crash issues were caused by the insufficient RAM, you can apply this fix to see if it works. Before modifying the paging file, you need to check if The Division 2 crash issue was triggered by the insufficient RAM.
@@ -212,16 +225,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
@@ -230,21 +237,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Lower in-game graphics settings
 
  You can also try lowing in-game graphics settings to see if you can resolve the game crash issue. Here is how to do it:
@@ -261,6 +257,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
@@ -269,9 +269,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
@@ -280,9 +277,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
@@ -295,9 +289,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
  Hopefully this post helped you resolve The Division 2 crash issue. If you have any questions or suggestions, please leave us a comment below.
@@ -312,8 +303,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -321,4 +310,24 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-elegant-presents-made-easy-your-guide-to-shopping-for-personalized-packaging-for-2024/"><u>[Updated] Elegant Presents Made Easy Your Guide to Shopping for Personalized Packaging for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-improve-video-loading-times-in-instagram/"><u>2024 Approved Improve Video Loading Times in Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-these-pitfalls-to-ensure-successful-valheim-launches-common-fixes-and-updates/"><u>Avoid These Pitfalls to Ensure Successful Valheim Launches - Common Fixes and Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-fallout-3-game-running-smoothly-again-pro-tips-from-2024/"><u>Get Your Fallout ^3 Game Running Smoothly Again - Pro Tips From 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-archive-and-retrieve-your-chatgpt-exchange-history-successfully/"><u>How to Archive and Retrieve Your ChatGPT Exchange History Successfully</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-y200e-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo Y200e 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-tackle-and-resolve-the-directx-mishaps-plaguing-fifa-20-gamers/"><u>How to Tackle and Resolve the DirectX Mishaps Plaguing FIFA 20 Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-vr-solutions-for-drone-flying/"><u>Ideal VR Solutions for Drone Flying</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nokia-g22-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nokia G22 Phone When You Forget the Password</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-tips-for-teachers-using-youtube-in-classroom/"><u>In 2024, Tips for Teachers Using YouTube in Classroom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/increase-your-playtime-by-addressing-fortnites-memory-overflow-problem/"><u>Increase Your Playtime by Addressing Fortnite's Memory Overflow Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-issues-resolved-on-xbox-one-streaming-smoothly-again/"><u>Netflix Issues Resolved on Xbox One - Streaming Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-silent-streams-on-twitch-solutions-included/"><u>Resolved: Fixes for Silent Streams on Twitch - Solutions Included</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-solutions-for-persistent-crashes-of-genshin-impact-in-windows-and-macos/"><u>Resolved! Solutions for Persistent Crashes of Genshin Impact in Windows and MacOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-repairing-your-lenovos-fingerprint-scanner-issues/"><u>Troubleshooting Tips: Repairing Your Lenovo's Fingerprint Scanner Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/whats-the-best-green-screen-app-for-mac-weve-got-the-answer/"><u>Whats the Best Green Screen App for Mac? Weve Got the Answer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-a-survival-guide-for-pc-gaming-troubleshooting/"><u>Zombie Army 4: Dead War - A Survival Guide for PC Gaming Troubleshooting</u></a></li>
+</ul></div>
 

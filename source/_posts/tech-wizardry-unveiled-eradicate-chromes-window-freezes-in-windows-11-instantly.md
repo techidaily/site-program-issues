@@ -1,7 +1,7 @@
 ---
 title: "Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly"
-date: 2024-08-19T16:55:13.502Z
-updated: 2024-08-20T16:55:13.502Z
+date: 2024-11-20T19:57:04.152Z
+updated: 2024-11-26T22:10:00.302Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -47,6 +51,11 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebea95ea01f.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
@@ -55,9 +64,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run System File Checker
 
  If some system files get corrupted after Windows 10 updates, you can run the System File Checker tool to repair those files and help unfreeze your computer. Here’s how to run System File Checker:
@@ -65,23 +71,14 @@ OR
 1. In the Windows search box, type**cmd** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Clear your browsing data
 
  Alternatively, you can try clearing your browsing data in Chrome. This can help remove any nasty cookies that might be causing Chrome to freeze. Here’s how to clear your browsing data in Chrome:
@@ -96,10 +93,11 @@ OR
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable your extensions
 
@@ -111,11 +109,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset Chrome settings to default
 
  If Chrome conflicts with some other program on your computer, it may also cause Chrome to freeze. You can reset Chrome to its default settings to better troubleshoot the problem.
@@ -123,22 +122,26 @@ OR
 1. At the top right in Chrome, click the**three dots** \>**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
 2. At the bottom, click**Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disconnect and reconnect your Internet
 
  Some users have reported that the Chrome freezing problem may be caused by an Internet problem — when they by chance disconnected and reconnected their Internet, Chrome worked again. You can also give this a try.
@@ -146,6 +149,11 @@ OR
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart Chrome to check the issue.
 
 ---
@@ -167,8 +175,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +182,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/access-steam-games-on-any-device-with-stream-remote-play-no-steam-link-required/"><u>Access Steam Games on Any Device with Stream Remote Play - No Steam Link Required</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-corsair-icue-problems-in-windows-10-and-11-a-step-by-step-solution/"><u>Fix Your Corsair iCUE Problems in Windows 10 and 11 - A Step by Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/jurassic-world-evolution-crashing-solved/"><u>Jurassic World Evolution Crashing [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722872914835-taylor-swift-filmography-a-sequential-watchlist/"><u>Taylor Swift Filmography - A Sequential Watchlist</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210583127-9781507220160-the-modern-witchcraft-book-of-astrology/"><u>The Modern Witchcraft Book of Astrology | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshooting-astro-with-updated-device-drivers/"><u>Troubleshooting Astro with Updated Device Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-opening-issues-with-razer-synapse-software/"><u>Troubleshooting Steps for Opening Issues with Razer Synapse Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warframe-wont-start-troubleshoot-common-issues-and-fixes/"><u>Warframe Won't Start? Troubleshoot Common Issues and Fixes!</u></a></li>
+</ul></div>
 

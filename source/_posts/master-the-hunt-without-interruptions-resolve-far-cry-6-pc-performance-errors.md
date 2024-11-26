@@ -1,7 +1,7 @@
 ---
 title: "Master the Hunt Without Interruptions: Resolve Far Cry 6 PC Performance Errors"
-date: 2024-08-19T16:56:45.120Z
-updated: 2024-08-20T16:56:45.120Z
+date: 2024-11-24T20:40:25.017Z
+updated: 2024-11-26T20:12:53.148Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 6. [Reset your system without losing data](https://tools.techidaily.com/drivereasy/download/)
 7. [Move the files to the SSD drive](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  The constant freezing might indicate a driver issue. If your driver is updated it might cause the freezing issue. We suggest you should always keep your driver up to date for the best in-game performance.  
@@ -40,6 +44,11 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -51,8 +60,9 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -60,20 +70,16 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 1. Open your Steam client and go to **LIBRARY** . Right-click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Rollback NVIDIA driver
 
  Some gamer has reported they fixed freezing by reverting back to a previous NVIDIA driver. If updating your driver to the latest version doesn’t help, maybe you can try this fix.
@@ -82,6 +88,11 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
@@ -101,18 +112,12 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Lower your graphics settings
 
  The freezing issue usually relates to the graphics settings, some players indicate after they capped their FPS and lower graphics settings, the freezing issue was gone.  
@@ -121,14 +126,15 @@ If it’s still not working, try the next fix.
 1. Open New World. On the top right corner, click the **gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
 
@@ -139,9 +145,6 @@ If it’s still not working, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -150,6 +153,10 @@ If it’s still not working, try the next fix.
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -167,8 +174,6 @@ If you haven’t tried it, give it a go it might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +181,24 @@ If you haven’t tried it, give it a go it might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-elapsed-time-in-20mb-video-for-2024/"><u>[New] Elapsed Time in 20Mb Video for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-the-cycle-frontier-crashing-on-pc/"><u>[SOLVED] How to Fix The Cycle: Frontier Crashing on PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-your-quick-and-easy-guide-removing-backgrounds-in-picsart-for-2024/"><u>[Updated] Your Quick & Easy Guide Removing Backgrounds in Picsart for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-clean-soundscape-youtube-audio-enhancement-guide/"><u>2024 Approved Clean Soundscape YouTube Audio Enhancement Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-path-to-youtube-gaming-popularity/"><u>2024 Approved The Path to YouTube Gaming Popularity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-and-resolve-the-annoying-error-0x887a0006-with-simple-fixes/"><u>Bypass and Resolve the Annoying Error 0X887A0006 with Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-gamers-beware-how-to-tackle-the-recent-error-2024-glitch/"><u>Cyberpunk 2077 Gamers Beware: How to Tackle the Recent Error 2024 Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-for-fixing-acrocefexeexe-malfunction-on-your-pc/"><u>Easy Solutions for Fixing acrocefexe.exe Malfunction on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862841379-elevate-your-viewing-comfort-for-just-499-with-lgs-stunning-34-curved-monitor-upgrade/"><u>Elevate Your Viewing Comfort for Just $499 with LG's Stunning 34 Curved Monitor Upgrade</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209789118-9781507213025-how-to-be-an-astrologer/"><u>How to Be an Astrologer | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-crashing-in-oxygen-a-real-time-space-colony-simulator/"><u>How To Prevent Your Game From Crashing in 'Oxygen: A Real-Time Space Colony Simulator'</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/invisible-realities-of-stories-a-closer-look-for-viewers/"><u>Invisible Realities of Stories A Closer Look for Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pcmobile-tips-for-partial-image-gaussian-blur-for-2024/"><u>PC/Mobile Tips for Partial Image Gaussian Blur for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-resolving-wwe-2k20-pc-shutdown-issues-smoothly/"><u>Quick Guide: Resolving WWE 2K20 PC Shutdown Issues Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-the-ultimate-guide-to-fixing-davinci-resolve-startup-issues-in-windows-os/"><u>Resolved! The Ultimate Guide to Fixing DaVinci Resolve Startup Issues in Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-2024-launch-glitches-in-call-of-dutys-black-ops-cold-war-expert-tips-and-tricks/"><u>Resolving 2024 Launch Glitches in Call of Duty's Black Ops Cold War - Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-pc-compatibility-problems-with-fifa-19/"><u>Ultimate Guide to Resolve PC Compatibility Problems with FIFA 19</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-11-10T01:17:48.186Z
-updated: 2024-11-16T23:06:51.222Z
+date: 2024-11-25T22:03:55.240Z
+updated: 2024-11-26T23:16:28.503Z
 tags:
   - win11
   - win10
@@ -27,19 +27,6 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 4. **[Scan and repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Lower the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Avoid PC overheating
 
  Black Ops Cold War is a graphic-intensive application that will put load on your CPU and GPU. When these component overheats, the computer will stop functioning to protect the hardware from physical damage, and thus your game freezes.
@@ -49,16 +36,7 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
@@ -78,12 +56,24 @@ There are two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Disable fullscreen optimizations
 
@@ -95,38 +85,15 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
@@ -134,6 +101,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
 
@@ -143,13 +114,6 @@ Here are the steps:
 2. Select**Call of Duty: BOCW** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
@@ -190,16 +154,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/the-division-2-performance-enhancements-tackling-the-2024-frame-rate-dip-and-motion-hitches/"><u>'The Division 2' Performance Enhancements: Tackling the 2024 Frame Rate Dip and Motion Hitches</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-transform-playtime-into-memories-with-switch-videos-for-2024/"><u>[New] Transform Playtime Into Memories with Switch Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-go-big-go-viral-channel-tiktok-trends-into-instagram-reels/"><u>[Updated] In 2024, Go Big, Go Viral Channel TikTok Trends Into Instagram Reels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blues-with-fortnite-a-players-handbook-on-fixing-error-code-84/"><u>Beat the Blues with Fortnite: A Player’s Handbook on Fixing Error Code 84</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-cannot-start-sea-of-thieves-problem-quickly/"><u>How to Fix the 'Cannot Start Sea of Thieves' Problem Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-pc-crashes-solved-for-the-latest-updates-of-2024/"><u>Lego Star Wars: The Skywalker Saga - PC Crashes Solved for the Latest Updates of 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-fps-activating-and-using-gpu-with-cyberpunk-2077-on-a-windows-10-pc/"><u>Maximizing FPS: Activating and Using GPU with Cyberpunk 2077 on a Windows 10 PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-distinctions-between-echo-pop-and-echo-dot-a-comprehensive-guide/"><u>The Distinctions Between Echo Pop and Echo Dot - A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/transforming-scripted-words-into-powerful-video-soundtracks-for-2024/"><u>Transforming Scripted Words Into Powerful Video Soundtracks for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-continuous-crashes-in-watch-dogs-legion-on-desktop-systems/"><u>Troubleshooting and Solving Continuous Crashes in Watch Dogs: Legion on Desktop Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-perfecting-obs-streams-for-direct-facebook-engagement-for-2024/"><u>[New] Perfecting OBS Streams for Direct Facebook Engagement for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-creative-clips-excellent-tools-for-photoshopping-with-frames/"><u>[Updated] 2024 Approved Creative Clips Excellent Tools for Photoshopping with Frames</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-explore-the-safest-video-chat-apps-on-both-sides-of-the-market/"><u>2024 Approved Explore the Safest Video Chat Apps on Both Sides of the Market</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-wow-boot-up-blues-with-these-essential-pc-troubleshooting-tips/"><u>Banish Your WoW Boot-Up Blues with These Essential PC Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-players-experiencing-malfunctions-in-the-phasmophobia-vr-game/"><u>Effective Fixes for Players Experiencing Malfunctions in the Phasmophobia VR Game</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-a05s-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel A05s Phone Screen?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-utorrent-when-its-unresponsive-top-7-tips/"><u>How to Fix Utorrent When It's Unresponsive - Top 7 Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-flip-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Flip 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-loading-screens-in-sea-of-thieves-a-step-by-step-guide/"><u>Resolving Constant Loading Screens in Sea of Thieves - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/technical-support-advice-resolving-thaumaturge-stability-problems-on-personal-computers/"><u>Technical Support Advice: Resolving Thaumaturge Stability Problems on Personal Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-solutions-to-resolve-your-non-functioning-snapchat-video-problems/"><u>Top 10 Solutions to Resolve Your Non-Functioning Snapchat Video Problems</u></a></li>
 </ul></div>
 

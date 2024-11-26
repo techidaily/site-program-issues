@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Cycle of Existence: The Resilience Tale 'Eternal Return - Surviving in Shadow'"
-date: 2024-11-10T08:00:06.506Z
-updated: 2024-11-17T03:50:37.419Z
+date: 2024-11-25T18:24:37.375Z
+updated: 2024-11-26T21:45:00.078Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Ignore the specs listed here. This computer is not used for gaming.
 
  3) Go to the **Display** tab so you can view the information about your **graphics card** .
@@ -45,6 +49,10 @@ In case you don’t know how, here’s the guidance:
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
@@ -85,10 +93,7 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 fixes for FIFA 20 crashing
@@ -112,13 +117,6 @@ In case you don’t know how, here’s the guidance:
 **[Fix 8: Wait for more game updates](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
 
@@ -158,19 +156,24 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
@@ -178,13 +181,6 @@ In case you don’t know how, here’s the guidance:
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -200,22 +196,12 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
@@ -250,6 +236,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -270,6 +260,10 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Repair corrupted system files
 
  It’s possible that some of the system files in your PC have been damaged and hence gave rise to crashing in FIFA 20\. To check for such problems, here are at least two things you should do:
@@ -288,13 +282,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -326,16 +313,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -373,22 +357,17 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-redirect-macs-image-backup-to-new-folder/"><u>[Updated] 2024 Approved Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-swiftly-uncover-unfollowers-on-instagram/"><u>[Updated] Swiftly Uncover Unfollowers on Instagram</u></a></li>
-<li><a href="https://facebook.techidaily.com/elevating-personal-brand-through-engagement/"><u>Elevating Personal Brand Through Engagement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-boot-errors-in-battlefield-4-a-step-by-step-solution/"><u>Fixing PC Boot Errors in Battlefield 4 – A Step-by-Step Solution</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-pova-5-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immerse-yourself-in-the-world-of-apples-ios-vr-titles-for-2024/"><u>Immerse Yourself in the World of Apple's iOS VR Titles for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-restoring-functionality-to-a-broken-pc-intel-driver-helper/"><u>In Depth Analysis: Restoring Functionality to a Broken PC Intel Driver Helper</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-to-let-go-of-hurtful-comments-for-2024/"><u>Learning to Let Go of Hurtful Comments for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-ghostrunner-failed-on-windows-11-issue-effective-solutions-explored/"><u>Overcoming the 'Ghostrunner Failed on Windows 11' Issue: Effective Solutions Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/prime-days-hottest-gaming-discounts-for-october-2024-sneak-peek/"><u>Prime Day's Hottest Gaming Discounts for October 2024 Sneak Peek</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-amazon-basics-tablet-stand-the-ultimate-pocket-sized-solution-for-on-the-go-users/"><u>Review of Amazon Basics Tablet Stand: The Ultimate Pocket-Sized Solution for On-The-Go Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-top-six-strategies-to-fix-dreamlight-valley-crashes-on-pc/"><u>Seamless Gaming Experience: Top Six Strategies to Fix Dreamlight Valley Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994927817-solve-your-minecraft-dilemma-unstick-from-the-loading-screen-once-and-for-all/"><u>Solve Your Minecraft Dilemma: Unstick From the Loading Screen Once and For All</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stability-achieved-how-to-prevent-constant-crashing-in-age-of-wonders-planetfall-game-pc/"><u>Stability Achieved: How to Prevent Constant Crashing in Age of Wonders: Planetfall Game (PC)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-enable-graphics-card-in-cyberpunk-2077-on-windows-10/"><u>Troubleshooting: How to Enable Graphics Card in Cyberpunk 2077 on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-superperson-glitches-in-your-computer-system/"><u>Ultimate Guide: Preventing 'Superperson' Glitches in Your Computer System</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nvesting-wisdom-in-webcams-finest-stocks-channels-for-2024/"><u>[New] Investing Wisdom in Webcams Finest Stocks Channels for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-conquering-content-diversity-with-verticalized-h-video-posts/"><u>[Updated] Conquering Content Diversity with Verticalized H-Video Posts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-transform-your-visuals-with-these-11-expert-strategies/"><u>[Updated] Transform Your Visuals with These 11 Expert Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-v30t-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989838789-comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-addressing-and-preventing-spellblock-pc-crashes/"><u>How to Ensure Smooth Gameplay: Addressing and Preventing Spellblock PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-battlefield-5-performance-lags-a-comprehensive-guide/"><u>How to Fix Battlefield 5 Performance Lags: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-phasmophobia-game-hanging-on-90-load/"><u>How to Fix Phasmophobia Game Hanging on 90% Load</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-tvplus-on-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple TV+ on iPhone 14 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 6</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-usb-20-speeds-types-of-cables-and-connector-options/"><u>Understanding USB 2.0: Speeds, Types of Cables, and Connector Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Solving City Skylines Game Crashes
-date: 2024-11-15T03:39:12.263Z
-updated: 2024-11-17T05:44:43.950Z
+date: 2024-11-19T17:04:21.701Z
+updated: 2024-11-26T16:31:05.915Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -81,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 | **DIRECT X:** | DirectX 12                                  |
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
 
@@ -137,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
@@ -162,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
 **Program Compatibility Troubleshooter** is a built-in tool in Windows OS that can check whether programs are compatible for your current Windows OS or not. The game crash issues often occur when some program settings are not compatible with the current Windows OS.
@@ -176,15 +174,16 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
@@ -211,13 +210,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
@@ -229,6 +221,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
@@ -258,31 +254,29 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Set**Ambient Occlusion** to**Medium** .
 
@@ -293,22 +287,12 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -333,15 +317,22 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-unveiling-google-meets-screen-alteration-techniques/"><u>[New] Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cost-effective-subscriber-growth-hundreds-at-a-bargain-price/"><u>[Updated] Cost-Effective Subscriber Growth - Hundreds at a Bargain Price</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-frequent-monetization-is-it-real-on-youtube/"><u>[Updated] Frequent Monetization Is It Real on YouTube?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advanced-fixes-for-crashing-issues-on-hitman-3-games-updated-strategies/"><u>Advanced Fixes for Crashing Issues on Hitman 3 Games (Updated Strategies )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-causes-of-minecraft-startup-problems-and-how-to-overcome-them/"><u>Common Causes of Minecraft Startup Problems and How to Overcome Them</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-get-snapchat-on-mac/"><u>In 2024, How to Get Snapchat on Mac?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-v2-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic V2 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-lag-fixing-your-dragon-quest-xi-gameplay-issues/"><u>No More Lag: Fixing Your Dragon Quest XI Gameplay Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-lag-in-your-stream-and-recording-with-obs-a-complete-guide/"><u>Overcoming Lag in Your Stream and Recording with Obs - a Complete Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-splitscreen-views-on-your-macbook-air/"><u>Step-by-Step Guide: Mastering Splitscreen Views on Your MacBook Air</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] 2024 Approved The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-turbulence-tamer-for-mobile-cinematography/"><u>[New] 2024 Approved Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-galaxy-visionhub-premium-integrated-4k-all-in-one-panels-for-2024/"><u>[Updated] Galaxy VisionHub Premium Integrated 4K All-in-One Panels for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securely-logging-live-radio-over-the-web-an-instructional-guide/"><u>[Updated] Securely Logging Live Radio Over the Web An Instructional Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-encyclopedia-reacting-effectively-on-youtube-vids/"><u>[Updated] The Ultimate Encyclopedia Reacting Effectively on YouTube Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-system-tray-displaying-cpu-and-memory-usage/"><u>Boosting System Tray: Displaying CPU & Memory Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-game-crashes-effective-ways-to-keep-elex-ii-running-smoothly-on-your-pc/"><u>Eliminate Game Crashes: Effective Ways to Keep Elex II Running Smoothly on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-crash-problems-on-pc-while-running-no-rest-for-the-wicked/"><u>Fixing Game-Crash Problems on PC While Running 'No Rest for the Wicked'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-issues-in-the-complete-edition-of-horizon-forbidden-west/"><u>Fixing PC Instability Issues in the Complete Edition of Horizon Forbidden West</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-in-control-of-the-fia-world-rally-championship-resolve-wrc-s-pc-crashing-issues-now/"><u>Get Back in Control of the FIA World Rally Championship: Resolve WRC S PC Crashing Issues Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grounded-or-glitched-advanced-strategies-to-stop-your-pc-from-crashing-2-recommendations/"><u>Grounded or Glitched? Advanced Strategies to Stop Your PC From Crashing (2# Recommendations)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-problems-of-starting-resident-evil-village-game/"><u>Overcoming the Problems of Starting Resident Evil Village Game</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-from-opening-spotify-autoplay/"><u>Prevent Windows From Opening Spotify Autoplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-palworld-stability-issues-troubleshooting-tips-for-windows/"><u>Solving Palworld Stability Issues: Troubleshooting Tips for Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-use-of-electrospinning-techniques-for-the-production-of-nanofibers-allowing-precise-control-over-their-properties-for-targeted-pollutant-capture/"><u>The Use of Electrospinning Techniques for the Production of Nanofibers, Allowing Precise Control over Their Properties for Targeted Pollutant Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-make-animated-videos-like-a-pro-top-online-tools-and-makers/"><u>Updated 2024 Approved Make Animated Videos Like a Pro Top Online Tools and Makers</u></a></li>
 </ul></div>
 

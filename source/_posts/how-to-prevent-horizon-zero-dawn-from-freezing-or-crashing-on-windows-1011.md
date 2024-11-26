@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Horizon Zero Dawn From Freezing or Crashing on Windows 10/11
-date: 2024-08-19T16:51:43.837Z
-updated: 2024-08-20T16:51:43.837Z
+date: 2024-11-25T21:01:16.595Z
+updated: 2024-11-26T18:12:34.370Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,8 +68,9 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -93,9 +91,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -117,29 +112,36 @@ Here is how to verify the integrity of Dauntless:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -155,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,24 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-tips-for-finding-trending-videos-on-facebook/"><u>[New] In 2024, Tips for Finding Trending Videos on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-art-and-science-behind-color-grading-tools-luts/"><u>[Updated] The Art and Science Behind Color Grading Tools (LUTs)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-optimal-flight-the-lipo-selection-saga/"><u>2024 Approved Unlocking Optimal Flight The LiPo Selection Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-on-battlefield-1-easy-steps-to-a-smoother-experience/"><u>Avoid Game Crashes on Battlefield 1 – Easy Steps to a Smoother Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-notebook-rekindles-forgotten-buzzword-in-technology-sector-an-exclusive/"><u>Budget-Friendly Notebook Rekindles Forgotten Buzzword in Technology Sector - An Exclusive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-life-is-strange-glitches-true-colors-edition-unlocked/"><u>Effortlessly Resolve Life Is Strange Glitches - True Colors Edition Unlocked</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2022-launch-postponed-heres-why-and-how-it-was-resolved/"><u>Football Manager 2022 Launch Postponed - Here's Why and How It Was Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-razer-synapse-wont-start-up-issue/"><u>How to Fix 'Razer Synapse Won't Start Up' Issue?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a78-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A78 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-samsung-galaxy-xcover-6-pro-tactical-edition-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Samsung Galaxy XCover 6 Pro Tactical Edition ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/materials/"><u>Materials</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-stable-fps-in-nioh-2/"><u>Optimizing Your PC for Stable FPS in Nioh 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-wallpaper-engine-crashing-issues-on-windows-11-and-10/"><u>Resolved: Fixes for Wallpaper Engine Crashing Issues on Windows 11 & 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-to-maximizing-youtube-traffic-with-optimized-metadata-for-2024/"><u>Secrets to Maximizing YouTube Traffic with Optimized Metadata for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-when-your-clownfish-sound-alteration-device-fails-to-work-correctly/"><u>Solving the Problem When Your Clownfish Sound Alteration Device Fails to Work Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-msedgeexe-freezes-and-crashes-for-a-smooth-edge-experience/"><u>Step-by-Step Guide: Solving MSEdge.exe Freezes & Crashes for a Smooth Edge Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-transforming-music-production-in-logic-pro-x-with-these-essential-plugin-tools-freepaid/"><u>Updated In 2024, Transforming Music Production in Logic Pro X with These Essential Plugin Tools (Free/Paid)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Chrome Flickering on Windows (2024 Ultimate Guide)
-date: 2024-08-19T16:53:22.095Z
-updated: 2024-08-20T16:53:22.095Z
+date: 2024-11-19T20:45:56.210Z
+updated: 2024-11-26T17:24:13.190Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -64,13 +60,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update the graphics driver
 
  One of the most common causes for game freezing issues is that your graphics driver is faulty or outdated. Same for Vanguard, you want to make sure that your graphics driver is up-to-date and functioning properly.
@@ -91,14 +89,14 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -110,9 +108,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 If this doesn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Run the game executable as administrator
 
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
@@ -129,17 +124,15 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your system is up-to-date
 
@@ -151,9 +144,11 @@ If Vanguard still freezes randomly on your PC, try the next fix.
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
@@ -162,8 +157,9 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Check your antivirus software
 
  Antivirus software may affect game performance and trigger the freezing issue in Call of Duty: Vanguard. You can add Vanguard and the Battle.net client into the **exception list/whitelist** of your antivirus software and then test the issue.
@@ -182,15 +178,22 @@ If the freezing issue persists, there’s one more fix you can try.
 2. Paste **sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -211,8 +214,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +221,20 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-experience-the-future-of-action-videos-sj7s-star-4k-review/"><u>[Updated] In 2024, Experience the Future of Action Videos SJ7's Star 4K Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-when-fallguys-wont-load-or-keeps-freezing-on-launch/"><u>Effective Solutions for When FallGuys Won't Load or Keeps Freezing on Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-preparation-guide-transitioning-to-the-windows-11-creators-edition/"><u>Essential Preparation Guide: Transitioning to the Windows 11 Creator's Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instant-impact-the-ultimate-10-principles-of-iphone-photography-design/"><u>In 2024, Instant Impact The Ultimate 10 Principles of iPhone Photography Design</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-hot-30-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 30 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-skies-of-star-wars-squadrons-how-to-avoid-and-solve-game-crashes/"><u>Mastering the Skies of Star Wars Squadrons - How to Avoid and Solve Game Crashes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/palette-power-skillful-color-adjustment/"><u>Palette Power Skillful Color Adjustment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-issues-resolved-how-to-fix-subnautica-below-zeros-stability-problems/"><u>PC Issues Resolved! How To Fix Subnautica Below Zero's Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steamvr-error-code-308-a-comprehensive-fixing-guide-for-gamers/"><u>SteamVR Error Code 308 – A Comprehensive Fixing Guide for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-avchd-video-edits-in-davinci-resolve-step-by-step-solutions/"><u>Troubleshooting AVCHD Video Edits in DaVinci Resolve - Step-by-Step Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-cant-i-access-the-mass-effect-legendary-edition/"><u>Troubleshooting Steps: Why Can't I Access the Mass Effect Legendary Edition?</u></a></li>
+</ul></div>
 

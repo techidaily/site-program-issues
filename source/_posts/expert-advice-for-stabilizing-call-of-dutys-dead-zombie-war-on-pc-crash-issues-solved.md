@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-11-16T02:02:18.267Z
-updated: 2024-11-17T03:06:54.156Z
+date: 2024-11-19T17:11:03.155Z
+updated: 2024-11-26T19:05:08.655Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
 **Metro Exodus PC Enhanced Edition** is finally out. As a radical update to the original game, the PC Enhanced Edition features Ray Tracing, 60 FPS, Field of View options, DLSS 2.0 and more. However, there’re still many gamers reporting that**Metro Exodus PC Enhanced Edition keeps crashing** on their computers. If you’re experiencing the same issue, you’ve come to the right place. After reading this article, you should be able to fix this issue easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other gamers. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -39,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -58,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -68,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -89,10 +87,7 @@ If the issue persists, try the next fix below.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
@@ -105,6 +100,10 @@ If the issue persists, try the next fix below.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable in-game overlays
 
  In-game overlays are handy, however, sometimes they may interfere with the game and even introduces compatibility issues, which may crash the game.
@@ -116,13 +115,6 @@ If the issue persists, try the next fix below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -144,13 +136,6 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -164,13 +149,14 @@ To perform a clean boot, just follow the steps below:
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -198,18 +184,16 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-explore-top-5-ps2-games-simulators-for-ios/"><u>[Updated] 2024 Approved Explore Top 5 PS2 Games Simulators for iOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturexpress-11-professional-for-2024/"><u>[Updated] CaptureXpress 11 Professional for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-visual-harmony-a-color-grading-journey/"><u>2024 Approved Crafting Visual Harmony A Color Grading Journey</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-blh4100-blade-120rc-helicopter-evaluation-for-outdoor-flying/"><u>Comprehensive BLH4100 Blade 120R/C Helicopter Evaluation for Outdoor Flying</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998595928-consideration-of-the-additional-environmental-impact-due-to-wastewater-production-which-must-be-managed-through-treatment-before-disposal-or-recycling/"><u>Consideration of the Additional Environmental Impact Due to Wastewater Production, Which Must Be Managed Through Treatment Before Disposal or Recycling.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/endure-no-more-sea-of-thieves-crash-issues-now-solved/"><u>Endure No More: Sea of Thieves Crash Issues Now Solved</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-windows-data-source-configuration-interface/"><u>Exploring Windows Data Source Configuration Interface</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/is-the-idp-generic-alert-a-hoax-or-hazard-comprehensive-guide-to-detecting-and-deleting-this-alleged-virus/"><u>Is the IDP Generic Alert a Hoax or Hazard? Comprehensive Guide to Detecting and Deleting This Alleged Virus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-back-4-blood-online-experience/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Back 4 Blood Online Experience</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/step-by-step-repair-tips-for-a-smooth-phasmophobia-virtual-reality-gameplay/"><u>Step-by-Step Repair Tips for a Smooth Phasmophobia Virtual Reality Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-get-borderlands-3-running-smoothly-troubleshooting-guide/"><u>Top 11 Solutions to Get Borderlands 3 Running Smoothly - Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-crashing-in-mordhau-expert-advice/"><u>Troubleshooting Continuous Crashing in Mordhau: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crashing-no-more-effortless-fixes-for-stable-play-in-titanfall-2/"><u>Crashing No More: Effortless Fixes for Stable Play in Titanfall 2</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-corporate-space-for-data-safety/"><u>Elite Corporate Space for Data Safety</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-reopen-stuck-adobe-photoshop-in-windows/"><u>Guidelines to Reopen Stuck Adobe Photoshop in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-defeat-digital-dilemmas-tackling-the-rodent-related-troubles-of-resident-evil-village/"><u>How to Defeat Digital Dilemmas? Tackling The Rodent-Related Troubles of Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-hitting-the-floor-solving-slime-rancher-2-stops-running-issues/"><u>How To Prevent Your Game From Hitting The Floor - Solving Slime Rancher 2 Stops Running Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-without-password-by-drfone-android/"><u>How To Unlock Asus ROG Phone 7 Ultimate Phone Without Password?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-trickshots-in-hearthstone-fix-game-crashes-and-enjoy-seamless-gaming-on-pc/"><u>Mastering Trickshots in Hearthstone: Fix Game Crashes & Enjoy Seamless Gaming on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-impact-on-social-networks/"><u>Maximizing Impact on Social Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-and-repairing-nwstore-application-errors-effectively/"><u>Preventing and Repairing NW_Store Application Errors Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

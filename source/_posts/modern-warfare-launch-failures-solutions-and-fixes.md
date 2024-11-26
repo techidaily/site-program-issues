@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare Launch Failures - Solutions and Fixes
-date: 2024-08-19T16:52:02.601Z
-updated: 2024-08-20T16:52:02.601Z
+date: 2024-11-21T17:37:18.362Z
+updated: 2024-11-26T16:49:05.347Z
 tags:
   - win11
   - win10
@@ -39,8 +39,16 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
@@ -49,9 +57,9 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 If this doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run your game launcher as administrator
 
  In some circumstances, programs would not start properly when they lack administrative rights. To check if that’s what’s happening to you, try running Steam or Battle.net as an administrator by right-clicking on the desktop app. Then see how it goes.
@@ -75,17 +83,20 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you’re done, launch your game. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -107,26 +118,21 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to update your graphics driver
 
 * [Manually](https://tools.techidaily.com/drivereasy/download/)
@@ -183,17 +189,9 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -206,8 +204,6 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +211,20 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sculpting-stories-how-to-enrich-your-instagram-videos-through-editing/"><u>[New] In 2024, Sculpting Stories How to Enrich Your Instagram Videos Through Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-street-fighter-6-experience-a-step-by-step-guide-to-solving-lag-and-improving-connection-quality-on-pc/"><u>Elevate Your Street Fighter 6 Experience: A Step-by-Step Guide to Solving Lag and Improving Connection Quality on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ying-google-trends-to-discover-compelling-video-themes-for-2024/"><u>Employing Google Trends to Discover Compelling Video Themes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-84-in-fortnite-troubleshooting-steps-for-fixing-cannot-connect-to-party/"><u>Error 84 in Fortnite - Troubleshooting Steps for Fixing 'Cannot Connect to Party'</u></a></li>
+<li><a href="https://discover-great.techidaily.com/exploring-the-world-of-audiovideo-formats-with-ffmpeg-a-guide-to-its-extensive-codec-compatibility/"><u>Exploring the World of Audio/Video Formats with FFmpeg: A Guide to Its Extensive Codec Compatibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-when-nvidias-game-overlay-stops-responding/"><u>Fixing the Issue: When NVIDIA's Game Overlay Stops Responding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-corrected-my-nvidia-geforce-error-code-0x0003-a-step-by-step-guide/"><u>How I Corrected My NVIDIA GeForce Error Code 0X0003 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-yuva-2-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Yuva 2 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-go-beyond-stills-with-vimeo-animations-a-gif-guide/"><u>In 2024, Go Beyond Stills with Vimeo Animations A GIF Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-ubisoft-connect-errors-a-comprehensive-guide-users/"><u>Overcoming Ubisoft Connect Errors: A Comprehensive Guide Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premium-6-networks-maximizing-biz-potential/"><u>Premium 6 Networks Maximizing Biz Potential</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-steps-for-fixing-the-non-launch-of-warzone-20-on-pcs-updated-guide-2024/"><u>Troubleshoot Steps for Fixing the Non-Launch of Warzone 2.0 on PCs (Updated Guide, 2024)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-pc-potential-wisdom-from-toms-hardware-experts/"><u>Unleash Your PC Potential - Wisdom From Tom's Hardware Experts</u></a></li>
+</ul></div>
 

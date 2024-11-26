@@ -1,7 +1,7 @@
 ---
 title: "Decode & Defend Against Phasmophobia Game Crashes: Latest Solutions and Hacks (Updated for 202N)"
-date: 2024-08-19T16:51:36.820Z
-updated: 2024-08-20T16:51:36.820Z
+date: 2024-11-24T16:39:40.924Z
+updated: 2024-11-26T22:04:06.820Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/2ee7691e7273eb11818d41a9cf81a37cef10bbda5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
@@ -52,6 +56,10 @@ After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
@@ -59,9 +67,9 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  If you’re using a faulty or outdated graphics driver, you will possibly encounter this crashing issue in State of Decay 2\. To fix the potential problems and ensure the game functions properly, you should install the latest graphics driver on your computer.
@@ -74,12 +82,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
@@ -94,21 +104,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -118,20 +119,10 @@ If this method doesn’t help, check out the next solution.
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
@@ -144,9 +135,6 @@ If the crashing issue occurs again, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
@@ -154,6 +142,10 @@ If the crashing issue occurs again, continue to the next fix.
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -166,16 +158,22 @@ If this method doesn’t do the trick, try the next fix.
 3. Select**English (United States)** , then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -184,22 +182,22 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After rebooting your PC, launch State of Decay 2 to see if it crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
@@ -209,9 +207,9 @@ If this solution doesn’t work for you, continue to the next fix.
  If the game still crashes after you disabled all the programs and services, try the last fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Reinstall State of Decay 2
 
  If none of the fixes above solve your problem, try reinstalling State of Decay 2 as a last resort. This might help you get rid of the crashing issue. To do so:
@@ -223,9 +221,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click**Uninstall** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -239,8 +234,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +241,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-building-effective-podcast-rss-feeds/"><u>[New] In 2024, Building Effective Podcast RSS Feeds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-monster-hunter-stories-2-wings-of-ruin-not-launching/"><u>[SOLVED] Monster Hunter Stories 2: Wings of Ruin Not Launching</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pioneers-in-the-digital-realm-vr-past-and-future/"><u>[Updated] Pioneers in the Digital Realm VR Past and Future</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nubia-red-magic-8s-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Red Magic 8S Pro Fingerprint Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-persistent-black-screen-problem-in-hitman-codename-3-pc/"><u>Effective Solutions for the Persistent Black Screen Problem in Hitman: Codename 3 (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eos-account-lockout-here-are-6-proven-fixes-to-regain-access-on-palworld/"><u>EOS Account Lockout? Here Are 6 Proven Fixes to Regain Access on Palworld!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-hot-30-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-insights-on-market-research-for-effective-business-decisions-for-2024/"><u>Key Insights on Market Research for Effective Business Decisions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fight-against-pc-glitches-a-guide-to-fixing-persona-5-strikers-crashes/"><u>Mastering the Fight Against PC Glitches: A Guide to Fixing Persona 5 Strikers Crashes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-video-editing-software-for-beginners-2022-top-list-for-2024/"><u>New Best Video Editing Software for Beginners 2022 Top List for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-x-for-filmmakers-creating-visually-stunning-videos/"><u>New Final Cut Pro X for Filmmakers Creating Visually Stunning Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-replifant-stability-enhancements-no-more-crashes/"><u>Nier Replifant Stability Enhancements - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-common-issues-why-does-xcom-2-keep-crashing-on-windows/"><u>Solving Common Issues: Why Does XCOM 2 Keep Crashing on Windows?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-biggest-tweet-waves-of-2023-decoded/"><u>The Biggest Tweet Waves of 2023 Decoded</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-troubleshooting-the-gtfo-bug/"><u>Understanding and Troubleshooting the GTFO Bug</u></a></li>
+</ul></div>
 

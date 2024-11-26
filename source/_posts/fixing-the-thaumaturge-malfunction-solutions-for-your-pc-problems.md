@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2024-11-14T01:46:21.722Z
-updated: 2024-11-17T06:05:37.879Z
+date: 2024-11-22T19:51:41.816Z
+updated: 2024-11-26T16:26:59.951Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -35,22 +39,12 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -69,10 +63,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -93,15 +84,16 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -132,6 +124,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -140,29 +136,9 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
@@ -188,24 +164,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-creating-eastern-villas-in-the-virtual-realm/"><u>[New] 2024 Approved Creating Eastern Villas in the Virtual Realm</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-novices-guide-to-selecting-key-gopro-enhancements/"><u>[New] A Novice's Guide to Selecting Key GoPro Enhancements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-safe-surveillance-strategies-blurring-sensitive-content-for-2024/"><u>[New] Safe Surveillance Strategies Blurring Sensitive Content for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-music-enhanced-imagery-web-edition/"><u>2024 Approved Music-Enhanced Imagery Web Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-smooth-streams-combining-a-multitude-of-images-and-videos-for-instagram/"><u>2024 Approved Smooth Streams Combining a Multitude of Images & Videos for Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/actor-rights-free-movie-downloads-license/"><u>Actor Rights Free Movie Downloads License</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/animatedapp-full-guide-24-edition-for-2024/"><u>AnimatedApp Full Guide '24 Edition for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-patch-update-corrects-ui-flaw-error-id-2711/"><u>Black Ops Cold War Patch Update Corrects UI Flaw, Error ID 27^11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-overcoming-frames-per-second-drops-in-splitgate/"><u>Boost Your Gaming Experience: Overcoming Frames Per Second Drops in Splitgate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013430824-breaking-news-finally-la-noire-releases-for-windows-and-mac-users/"><u>Breaking News: Finally, LA Noire Releases for Windows and Mac Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-solving-elex-ii-constant-freezing-and-crashes-on-pc/"><u>Comprehensive Guide to Solving Elex II Constant Freezing and Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-age-of-empires-iv-up-and-running-a-guide-to-fix-installation-problems/"><u>Getting Age of Empires IV Up and Running - A Guide to Fix Installation Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-and-shutdowns-in-starfield-while-playing-on-a-personal-laptopdesktop/"><u>How to Fix Freezing and Shutdowns in Starfield While Playing on a Personal Laptop/Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-issues-with-monster-hunter-stories-2-wings-of-ruin-solutions-and-help/"><u>Overcoming Launch Issues with Monster Hunter Stories 2: Wings of Ruin - Solutions & Help</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-and-dailymotion-unveiling-core-variations-for-2024/"><u>YouTube & Dailymotion Unveiling Core Variations for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secure-and-save-your-sessions-a-pc-and-smartphone-recorders-haven/"><u>[New] In 2024, Secure & Save Your Sessions A PC & Smartphone Recorder's Haven</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-comprequad-video-captioning-techniques-for-youtube/"><u>[Updated] 2024 Approved The Comprequad Video Captioning Techniques for YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-manual-for-earning-facebooks-coveted-verification-for-2024/"><u>[Updated] The Ultimate Manual for Earning Facebook's Coveted Verification for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-lag-dominate-matches-a-comprehensive-guide-to-fixing-low-frame-rates-in-valorant/"><u>Beat Lag, Dominate Matches: A Comprehensive Guide to Fixing Low Frame Rates in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-unstable-or-crashed-pacific-drive-applications/"><u>Comprehensive Solutions for Unstable or Crashed Pacific Drive Applications</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-tailor-your-sites-user-experience-with-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced: Tailor Your Site's User Experience with Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-origin-application-not-launching-on-windows-11/"><u>Fixing the Issue: 'Origin' Application Not Launching on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mir4-stability-expert-solutions-for-avoiding-application-failures-on-pc/"><u>Mastering Mir4 Stability: Expert Solutions for Avoiding Application Failures on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-for-warzones-flickering-challenges-expert-tips-inside/"><u>Mastering the Fixes for Warzone's Flickering Challenges – Expert Tips Inside</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-best-cinematic-sounds-an-assembled-top-8-collection/"><u>New In 2024, Exploring the Best Cinematic Sounds - An Assembled Top 8 Collection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-delays-wolcen-game-finally-hits-the-shelves/"><u>Overcoming Delays: Wolcen Game Finally Hits the Shelves!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-dips-in-nioh-2-optimize-your-frame-rate-now/"><u>Solving Performance Dips in Nioh 2: Optimize Your Frame Rate Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-citizen-and-stability-overcoming-windows-based-game-failures/"><u>Star Citizen and Stability: Overcoming Windows-Based Game Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-mastering-the-art-of-video-downloads-on-videobin/"><u>Step-by-Step Tutorial: Mastering the Art of Video Downloads on Videobin</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210693878-9781916344396-the-pay-it-forward-series/"><u>The Pay It Forward Series | Free Book</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1726028678116-windows-10/"><u>Windows 10で最適なビデオキャプチャテクニック４選：高解像度版</u></a></li>
 </ul></div>
 

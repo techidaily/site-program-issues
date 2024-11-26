@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Gameplay Experience: Solving Forza Horizon 5'S PC FPS Lagging Problem"
-date: 2024-11-13T09:54:52.833Z
-updated: 2024-11-17T03:04:07.825Z
+date: 2024-11-24T18:03:15.032Z
+updated: 2024-11-26T16:09:04.626Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -60,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/de2b8c65401e9876b1b1a5fbf84a14916f9f22a18
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
 
@@ -76,6 +73,10 @@ If the lagging issue persists, try the next fix.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your network driver
 
  In-game lags may indicate a driver issue. If your network adapter driver is outdated or faulty, it could cause random connection issues and thus trigger the lagging issue in Forza Horizon 5\. You may want to make sure your network driver is up-to-date and functioning properly.
@@ -90,13 +91,6 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -107,10 +101,7 @@ If the lagging issue persists, try the next fix.
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
@@ -127,13 +118,6 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
 
@@ -147,10 +131,7 @@ If the lagging issue persists, try the next fix.
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
@@ -159,13 +140,6 @@ If the lagging issue persists, try the next fix.
 
 If the lagging issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Set the game process priority to high
 
  Some players have been able to solve the lagging issue by setting the game process as a high-priority task. Although there’s no guarantee, it’s a quick fix and definitely worth trying. Here’s how:
@@ -173,13 +147,6 @@ If the lagging issue persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on the keyboard to open Task Manager.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t help with your problem, try the next fix.
 
@@ -190,6 +157,10 @@ If this fix doesn’t help with your problem, try the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -206,10 +177,7 @@ Here’s how to do it:
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -225,16 +193,32 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -266,20 +250,14 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/solved-the-division-2-crash-quickly-and-easily/"><u>[SOLVED] | The Division 2 Crash | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-horizon-hopping-reviewing-the-gopro-karma-drone-for-2024/"><u>[Updated] Horizon Hopping Reviewing the GoPro Karma Drone for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-tweet-integration-on-facebook-platform/"><u>[Updated] Seamless Tweet Integration on Facebook Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-toy-quadcopters-reviewed-kids-edition/"><u>2024 Approved Best Toy Quadcopters Reviewed (Kids Edition)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-stop-samurai-warriors-5-from-crashing-on-your-pc/"><u>Fixes Found: How to Stop Samurai Warriors 5 From Crashing on Your PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-se-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone SE with iTunes | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-crashes-during-cs2-play-sessions-essential-tips-for-gamers-in-2eby24/"><u>How to Fix Constant Crashes During CS2 Play Sessions: Essential Tips for Gamers in 2Eby24</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-fundamental-guidelines-for-saving-lol-scores/"><u>In 2024, Fundamental Guidelines for Saving LOL Scores</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-ranking-top-tools-convert-srt-files-with-zero-charge/"><u>In 2024, Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/perfecting-your-teammates-backdrops-in-teams-calls/"><u>Perfecting Your Teammates' Backdrops in Teams Calls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-valorant-wont-start-overcoming-initialization-errors/"><u>Quick Fixes for When Valorant Won't Start: Overcoming Initialization Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-far-cry-n6-black-screen-errors-a-complete-guide/"><u>Troubleshooting Far Cry N6 Black Screen Errors: A Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-prevent-hitman-npcdavidmccalls-crime-wave-from-collapsing-on-your-pc/"><u>Ultimate Guide to Prevent Hitman Npc_david_mccall's Crime Wave From Collapsing on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/victory-over-vr-challenges-top-8-remedies-to-stop-pc-game-crashes-in-vrchat/"><u>Victory Over VR Challenges: Top 8 Remedies to Stop PC Game Crashes in VRChat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-customizing-video-dimensions-the-aspect-ratio-guide/"><u>[Updated] In 2024, Customizing Video Dimensions The Aspect Ratio Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boss-fight-breakdown-unlocking-legendary-weaponry-drops-in-mass-effect/"><u>Boss Fight Breakdown: Unlocking Legendary Weaponry Drops in Mass Effect</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-guide-overcoming-stuttering-and-freezing-glitches-in-risk-of-rain-2/"><u>Comprehensive Fix Guide: Overcoming Stuttering and Freezing Glitches in Risk of Rain 2</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-tech-solution-expanding-your-pcs-recognition-capabilities-in-windows-11-bios/"><u>DIY Tech Solution: Expanding Your PC's Recognition Capabilities in Windows 11 BIOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-sky-to-screen-advanced-methods-in-drone-video-editing/"><u>From Sky to Screen Advanced Methods in Drone Video Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolve-avatar-frontiers-of-pandora-unavailable-issue/"><u>Guide to Resolve Avatar: Frontiers of Pandora Unavailable Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplify-your-work-the-best-5-mac-snipper-applications/"><u>In 2024, Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamped-bioshock-2-a-high-definition-visual-upgrade/"><u>Revamped BioShock 2: A High-Definition Visual Upgrade!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unpredictable-shutdowns-in-w11/"><u>Unpredictable Shutdowns in W11</u></a></li>
 </ul></div>
 

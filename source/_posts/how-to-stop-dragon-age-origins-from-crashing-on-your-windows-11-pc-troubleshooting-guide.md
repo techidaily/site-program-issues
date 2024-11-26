@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide"
-date: 2024-08-19T16:51:00.585Z
-updated: 2024-08-20T16:51:00.585Z
+date: 2024-11-24T21:40:29.065Z
+updated: 2024-11-26T23:20:32.022Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  In order to fix the plethora of bugs and glitches players have bumped into, 2K keeps releasing patches. It is possible that new releases include patches for the WWE 2K20 crashing problem. So it’s recommended that you install the new patches to see if it fixes the issue.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run WWE 2K20 as administrator
 
  In some cases, WWE 2K20 won’t run properly because it is not granted the necessary access to running the game. To make sure your game does not crash because of insufficient rights, you should run it as administrator.
@@ -53,12 +54,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -69,8 +71,9 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
@@ -98,17 +101,15 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running WWE 2K20 consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -121,11 +122,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -138,9 +134,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -150,11 +143,16 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
@@ -174,8 +172,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +179,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-ace-applications-transforming-videos-for-tweet-for-2024/"><u>[New] Ace Applications Transforming Videos for Tweet for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-flourish-in-fame-elevate-from-zero-to-1000-followersmonthly-for-2024/"><u>[New] Flourish in Fame Elevate From Zero to 1,000 Followers/Monthly for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks/"><u>[New] In 2024, Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-transition-your-tunes-transferring-collections-between-services/"><u>[New] Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-excellence-markets-top-choices/"><u>[Updated] Gimbal Excellence Market's Top Choices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-strategy-for-elevating-your-video-visibility/"><u>2024 Approved The Ultimate Strategy for Elevating Your Video Visibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-latency-problem-an-update-on-the-elder-scrolls-onlines-blackwood-region/"><u>Fixing the Latency Problem - An Update on The Elder Scrolls Online's Blackwood Region</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-call-of-duty-warzone-performance-tips-to-eliminate-stuttering-and-increase-fps/"><u>Improving Your Call of Duty Warzone Performance: Tips to Eliminate Stuttering & Increase FPS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-economic-planning-for-your-upcoming-music-video/"><u>In 2024, Economic Planning for Your Upcoming Music Video</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-free-online-audio-to-text-converters/"><u>New 10 Free Online Audio to Text Converters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-continuously-crashing-how-to-fix-it/"><u>New World Continuously Crashing - How to Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-difficulties-with-mass-effect-legendary-edition-expert-tips/"><u>Overcoming Launch Difficulties with Mass Effect Legendary Edition - Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-battle-royale-gaming-glitches-warzone-stutter-solutions/"><u>Resolve Your Battle Royale Gaming Glitches - Warzone Stutter Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-lego-star-wars-the-skywalker-sagas-pc-crash-issues-in-early-2024/"><u>Resolved: Fixing Lego Star Wars: The Skywalker Saga's PC Crash Issues in Early 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-hitman-3s-persistent-cannot-connect-to-server-error/"><u>The Complete Guide to Fixing Hitman 3'S Persistent 'Cannot Connect to Server' Error</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reedom-from-ads-why-you-might-consider-youtube-premium-for-2024/"><u>The Freedom From Ads Why You Might Consider YouTube Premium for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-repairing-launch-denied-situations-for-humankind/"><u>Understanding and Repairing 'Launch Denied' Situations for Humankind</u></a></li>
+</ul></div>
 

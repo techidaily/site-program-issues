@@ -1,7 +1,7 @@
 ---
 title: Fixing Helldivers II - Resolving the Black Screen at Launch
-date: 2024-08-19T16:52:01.489Z
-updated: 2024-08-20T16:52:01.489Z
+date: 2024-11-22T20:00:36.506Z
+updated: 2024-11-26T19:44:15.708Z
 tags:
   - win11
   - win10
@@ -42,18 +42,20 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To see if that’s the case, you should update your graphics driver to the latest version. This may not only fix the potential problem but also improve your game performance.
@@ -68,9 +70,11 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,9 +83,6 @@ There are mainly two ways to update your graphics driver:
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  Some new games may not work properly on an out-of-date operating system. To make sure there are no compatibility issues, you should keep your operating system up-to-date. To do so:
@@ -91,8 +92,17 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -117,22 +127,14 @@ If the issue persists, move on to the next fix.
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -142,22 +144,11 @@ If the issue remains, take a look at the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
@@ -176,8 +167,6 @@ Now check if the black screen issue has gone away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +174,21 @@ Now check if the black screen issue has gone away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-30-best-freefire-tagshashtags-for-youtube/"><u>[New] 2024 Approved 30 Best FreeFire Tags/Hashtags For YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-images-in-your-instagram-profile/"><u>[New] 2024 Approved Mastering Images in Your Instagram Profile</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pinnacle-screenshots-on-mac-a-deep-dive-into-top-apps/"><u>[New] Pinnacle Screenshots on Mac A Deep Dive Into Top Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-expanding-your-reach-a-complete-guide-to-popularizing-youtube-shorts-for-2024/"><u>[Updated] Expanding Your Reach A Complete Guide to Popularizing YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hidden-gems-premium-mac-speech-to-text-tools/"><u>2024 Approved Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-error-how-to-overcome-cod-vanguards-obstacle-error-code-0x00001338-on-windowsmac/"><u>Beat the Error: How to Overcome COD Vanguard's Obstacle - Error Code 0X00001338 on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-embarking-on-vlogging-critical-equipment-and-tools/"><u>In 2024, Embarking on Vlogging Critical Equipment and Tools</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-languages-made-simple-with-mondlys-updated-phrasebook/"><u>Mastering Languages Made Simple with Mondly's Updated Phrasebook</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximize-your-open-rates-a-guide-to-effective-email-segmentation-using-massmail-tools/"><u>Maximize Your Open Rates: A Guide to Effective Email Segmentation Using MassMail Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-roblox-not-starting-up-quickly-with-our-latest-fixes-and-advice/"><u>Resolve Roblox Not Starting Up Quickly with Our Latest Fixes and Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986917341-say-goodbye-to-game-interruptions-fixing-subnauticas-below-zero-crashes-on-desktops/"><u>Say Goodbye to Game Interruptions: Fixing Subnautica's Below Zero Crashes on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-pc-black-screen-errors-while-playing-resident-evil-village/"><u>Step-by-Step Guide to Overcome PC Black Screen Errors While Playing Resident Evil: Village</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
+</ul></div>
 

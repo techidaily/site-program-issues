@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Overcoming an Overwatch Blackout on Startup
-date: 2024-08-19T16:53:40.260Z
-updated: 2024-08-20T16:53:40.260Z
+date: 2024-11-21T21:09:34.227Z
+updated: 2024-11-26T20:29:58.872Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 5. **[Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in your computer may conflict with Fortnite or Epic Games Launcher, causing this problem for you. You can try rebooting your computer to turn off unwanted programs, then relaunch Fortnite again to test your issue.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 If Fortnite still fails, don’t worry. Try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Clear the Binaries folder
 
  Another quick fix to this issue is removing the Binaries folder for Fortnite. Follow the instructions below:
@@ -48,15 +53,13 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Highlight the**Binaries folder** and press the**Del** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-06.jpg)
@@ -75,19 +78,14 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **3)** Click**VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
 ### Fix 4: Repair the EasyAntiCheat
@@ -102,26 +100,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Click **Repair Service** .
 
  If you see another game’s name on the list box, click the box, and then select Fortnite from the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Fortnite
 
@@ -133,16 +126,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **UNINSTALL.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4) Restart**  your computer and run the **Epic Games Launcher**  again to download and install Fortnite again.
 
  Hopefully, one of the solutions above fixed your issue! If you have any questions or suggestions. Please feel free to leave a comment below.
@@ -150,6 +137,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
  Do you know that simply updating the graphics driver can fix many common game issues such as game lags or crashes? Check the Bonus tip below to see how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your graphics driver
 
@@ -181,9 +172,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-06-21.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-06-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -200,8 +199,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +206,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>[Updated] 2024 Approved Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoiding-youtubes-controversial-scrutiny/"><u>[Updated] Avoiding YouTube's Controversial Scrutiny</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-premium-screens-at-their-peak-top-10-listings-for-4k-monitors-for-2024/"><u>[Updated] Premium Screens at Their Peak Top #10 Listings for 4K Monitors for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[Updated] Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oneplus-open-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track OnePlus Open without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002296969-comprehensive-fix-for-pc-players-stop-samurai-warriors-5-from-freezing-or-crashing-now/"><u>Comprehensive Fix for PC Players - Stop Samurai Warriors 5 From Freezing or Crashing Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-cache-miss-issue-on-google-chrome/"><u>Comprehensive Guide: Fixing the Cache Miss Issue on Google Chrome</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-breakdowns-of-orbital-client-on-pc/"><u>Dealing with Frequent Breakdowns of Orbital Client on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-xcover-7-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy XCover 7 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-turbulence-in-microsoft-flight-simulator-2020-overcoming-frequent-pc-crashes/"><u>Navigating Turbulence in Microsoft Flight Simulator 2020 – Overcoming Frequent PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k24-error-solution-overcome-code-72e66ac-with-easy-step-by-step-fixes-for-gamers/"><u>NBA 2K24 Error Solution: Overcome Code 72^%E66aC with Easy Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-resolved-how-to-fix-issues-preventing-game-start/"><u>Rainbow Six Siege Resolved: How to Fix Issues Preventing Game Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-civ-6-not-loading-issues-in-windows-10-environments/"><u>Resolving Civ 6 Not Loading Issues in Windows 10 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-correcting-starcraft-crashes-during-playtime-on-pc-setups/"><u>Understanding and Correcting StarCraft √ Crashes During Playtime on PC Setups</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Fortnite Startup Delays with Quick Tips"
-date: 2024-08-19T16:49:38.209Z
-updated: 2024-08-20T16:49:38.209Z
+date: 2024-11-20T20:04:33.084Z
+updated: 2024-11-26T19:35:32.782Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -41,6 +45,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
@@ -84,6 +92,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -106,8 +118,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Now that you’ve left only War Thunder open, it should work as smoothly as possible. If this fix doesn’t help either, please proceed to the next method.
@@ -115,8 +128,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -130,22 +144,17 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
@@ -158,13 +167,14 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
@@ -178,8 +188,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**Delete** to confirm.
 
  After the uninstallation completes, exit Steam. Also, you need to remove the remaining game files.
@@ -188,9 +199,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 **5)** Click the**War Thunder folder** and press**Delete** .
 
  Reinstall War Thunder from Steam again, and the newly-installed game should be free of the low FPS issue.
@@ -208,8 +216,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +223,19 @@ Lately, many players have been complaining about War Thunder low FPS after the n
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insta-stories-enhancing-background-blur-technique/"><u>2024 Approved Insta Stories Enhancing Background Blur Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/re-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cross-operational-expertise-enabling-and-running-android-software-with-ease-on-windows-10-systems/"><u>Cross-Operational Expertise: Enabling and Running Android Software with Ease on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-instability-issues-while-playing-sons-of-the-forest-on-pc/"><u>Expert Tips for Fixing Instability Issues While Playing Sons of the Forest on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-nier-gestalt-game-crashes-and-glitches/"><u>Expert Tips to Prevent NieR Gestalt Game Crashes and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-error-why-valheim-failed-to-boot-and-how-to-resolve-it/"><u>Fixing the Error: Why Valheim Failed to Boot & How to Resolve It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2023-how-i-fixed-the-game-not-opening-problem/"><u>Football Manager 2023: How I Fixed the Game Not Opening Problem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/golden-geographies-the-best-maps-for-treasure-hunters-for-2024/"><u>Golden Geographies The Best Maps for Treasure Hunters for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-motorola-edge-40-neo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Motorola Edge 40 Neo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unexpected-twist-in-cyberpunk-2nk7s-saga-decoding-the-perplexing-error-2024-issue/"><u>Unexpected Twist in Cyberpunk 2Nk7's Saga - Decoding the Perplexing Error 2024 Issue</u></a></li>
+</ul></div>
 

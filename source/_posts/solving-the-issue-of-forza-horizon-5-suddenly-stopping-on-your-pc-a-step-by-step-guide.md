@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue of Forza Horizon 5 Suddenly Stopping on Your PC: A Step-by-Step Guide"
-date: 2024-08-19T16:52:31.180Z
-updated: 2024-08-20T16:52:31.180Z
+date: 2024-11-20T16:38:26.111Z
+updated: 2024-11-26T22:14:21.431Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 ## Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -100,18 +104,10 @@ thumbnail: https://thmb.techidaily.com/3df80ed0f3ba1234db4e3fe9b6b618140f5c8ecbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -119,8 +115,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -131,23 +128,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -161,6 +157,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -179,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +186,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-terria-customization-collection-for-2024/"><u>[New] Ultimate Terria Customization Collection for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-selecting-the-ultimate-5-game-chat-devices/"><u>[Updated] 2024 Approved Selecting the Ultimate 5 Game Chat Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-post-editing-eliminating-unwanted-picture-borders/"><u>2024 Approved Perfect Post-Editing Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/color-your-world-with-the-singing-machine-sml385btbk-a-hassle-free-plug-and-play-karaoke-adventure/"><u>Color Your World with the Singing Machine SML385BTBK - A Hassle-Free Plug and Play Karaoke Adventure!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crusader-kings-iii-ultimate-guide-to-fix-game-crashes-on-your-desktop-computer/"><u>Crusader Kings III: Ultimate Guide to Fix Game Crashes on Your Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-eliminating-football-manager-20-crash-problems-on-your-pc-or-console/"><u>Effective Solutions for Eliminating Football Manager '20 Crash Problems on Your PC or Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-dealing-with-call-of-duty-warzones-memory-error-code-0x1766-across-xbox-and-pc-devices/"><u>Expert Tips for Dealing with Call of Duty: Warzone's Memory Error Code 0X1766 Across Xbox & PC Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-recurrent-crashes-in-sony-vegas-pro-for-smooth-editing-experience/"><u>Fix Recurrent Crashes in Sony Vegas Pro for Smooth Editing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-quickly-effective-ways-to-apply-gpt-3-in-your-chatgpt-experience-today/"><u>Get Started Quickly: Effective Ways to Apply GPT-^3 in Your ChatGPT Experience Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>In 2024, Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/teps-to-find-your-youtube-content-creation-hub-for-2024/"><u>Key Steps to Find Your YouTube Content Creation Hub for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-crash-free-experience-with-the-latest-fixes-in-total-war-warhammer-iii/"><u>PC Gamers Rejoice! Crash-Free Experience with the Latest Fixes in 'Total War: Warhammer III'</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tackle-printer-connectivity-issues-in-w11/"><u>Tackle Printer Connectivity Issues in W11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/triumphant-resolution-fixing-consecutive-errors-during-your-pc-playtime-adventure/"><u>Triumphant Resolution: Fixing Consecutive Errors During Your PC Playtime Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-wolcens-availability-understanding-the-reason-for-its-postponement/"><u>Update on Wolcen's Availability: Understanding the Reason for Its Postponement</u></a></li>
+</ul></div>
 

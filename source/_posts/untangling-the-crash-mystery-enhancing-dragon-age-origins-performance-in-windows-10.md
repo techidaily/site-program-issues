@@ -1,7 +1,7 @@
 ---
 title: "Untangling the Crash Mystery: Enhancing Dragon Age: Origins Performance in Windows 10"
-date: 2024-08-19T16:53:20.031Z
-updated: 2024-08-20T16:53:20.031Z
+date: 2024-11-19T21:20:49.113Z
+updated: 2024-11-26T19:38:15.473Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver
 
  One of the most common causes of the low FPS issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -80,13 +84,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -94,15 +91,13 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
@@ -116,8 +111,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -141,23 +137,29 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Modify the settings following the screenshot below.
 
@@ -169,23 +171,22 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Method 5: Overclock your GPU
 
  A slight overclock about by 10-15% can also improve your game’s performance. This is because overclocking your GPU can unlock the full potential of your graphics card and boost your FPS in Ring of Elysium. Check **[here](https://tools.techidaily.com/drivereasy/download/)**  to see how to do it.
@@ -206,8 +207,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +214,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-pc-cam-solutions-10-picks-on-windows-10/"><u>[New] Essential PC Cam Solutions - 10 Picks on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-convert-youtube-sounds-to-wider-reach-mp3-for-mac-users-for-2024/"><u>[Updated] Convert YouTube Sounds to Wider Reach MP3 for Mac Users for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/icloudwhatsapp-google-drive/"><u>「ICloudと異なるWhatsAppバックアップ - Google Driveでセキュリティ強化しよう」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-upcoming-samsung-unpacked-event-of-2025-schedule-latest-news-and-hot-gossip/"><u>All You Need to Know About the Upcoming Samsung Unpacked Event of 2025 - Schedule, Latest News, and Hot Gossip</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bring-your-images-together-iphone-photo-collages-101/"><u>Bring Your Images Together IPhone Photo Collages 101</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-tecno-spark-20-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Tecno Spark 20 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-and-fixing-steam-cloud-desync-errors-step-by-step-instructions/"><u>Bypassing and Fixing Steam Cloud Desync Errors: Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-your-vision-essential-windows-10-tips-for-future-directors-for-2024/"><u>Craft Your Vision Essential Windows 10 Tips for Future Directors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-rectifying-corsair-icue-connectivity-problems-in-windows-11/"><u>Guide to Rectifying Corsair iCUE Connectivity Problems in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-disconnection-errors-solved/"><u>How to Overcome League of Legends Internet Disconnection Errors (Solved)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-and-tailoring-apples-ios-18-control-center-for-your-iphone-essential-tips-from-zdnet/"><u>Optimizing and Tailoring Apple's iOS 18 Control Center for Your iPhone: Essential Tips From ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-reactivate-a-frozen-internet-explorer-browser/"><u>Quick Fixes to Reactivate a Frozen Internet Explorer Browser</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-reduced-fps-in-dota-2-gaming-on-latest-windows-operating-systems/"><u>Solving the Issue of Reduced FPS in Dota 2 Gaming on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-driver-updates-simplified-guide/"><u>Windows 11 Driver Updates: Simplified Guide</u></a></li>
+</ul></div>
 

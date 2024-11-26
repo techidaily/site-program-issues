@@ -1,7 +1,7 @@
 ---
 title: "Speeding Up Fallout 지정된 긴 로드 시간: 일관성 있는 수단"
-date: 2024-08-19T16:52:51.855Z
-updated: 2024-08-20T16:52:51.855Z
+date: 2024-11-23T16:39:03.580Z
+updated: 2024-11-26T18:03:41.352Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-black-screen-1024x576.jpg)
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,11 +43,12 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -57,13 +62,7 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Edit configuration files
@@ -82,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -90,20 +93,20 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Run the game to check the problem will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -122,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,22 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-recording-visuals-plus-verbal-input/"><u>[New] 2024 Approved Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-iphoneipad-advanced-screen-recording-tips-new-methods-2023-for-2024/"><u>[Updated] IPhone/iPad Advanced Screen Recording Tips - New Methods 2023 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-perfect-places-to-procure-pixel-ringers-online/"><u>2024 Approved Perfect Places to Procure Pixel Ringers Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-immersive-virtual-reality-adventures-on-oculus/"><u>2024 Approved Top 8 Immersive Virtual Reality Adventures on Oculus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-error-0x8007000d-on-pcs/"><u>Deciphering and Remedying 'Error 0X8007000D' On PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detecting-and-repairing-top-10-tips-to-resolve-invisible-steam-vr-setup-problems/"><u>Detecting and Repairing: Top 10 Tips to Resolve Invisible Steam VR Setup Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-implemented-resolving-frame-rate-drop-and-stuttering-in-battlefield-2042-for-pc-players/"><u>Fixes Implemented: Resolving Frame Rate Drop & Stuttering in Battlefield 2042 for PC Players</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y56-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y56 5G FRP Without Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-dealing-with-death-stranding-crash-issues-resolved/"><u>PC Gaming Relief: Dealing with Death Stranding Crash Issues Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-football-manager-2021-pc-bugs-comprehensive-solutions-to-stop-game-crashes/"><u>Troubleshooting Football Manager 2021 PC Bugs - Comprehensive Solutions to Stop Game Crashes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-non-responsive-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Responsive Windows 11 Taskbar Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-step-by-step-guide-to-decrease-cpu-load-in-god-of-war-gaming/"><u>Troubleshooting: Step-by-Step Guide to Decrease CPU Load in God of War Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-woes-solution-to-crashes/"><u>Windows Update Woes: Solution to Crashes</u></a></li>
+</ul></div>
 

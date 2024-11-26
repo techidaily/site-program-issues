@@ -1,7 +1,7 @@
 ---
 title: "CoD Vanguard PC Game Crash Fixes : Top Solutions"
-date: 2024-08-19T16:51:59.294Z
-updated: 2024-08-20T16:51:59.294Z
+date: 2024-11-24T17:04:52.529Z
+updated: 2024-11-26T21:49:29.693Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 6. **[Change the power plan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the minimum hardware requirements
 
@@ -62,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
  You may need to upgrade your hardware if your PC fails to meet the minimum system requirements of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run PUBG in windowed mode
 
  PUBG consumes lots of resources when running in fullscreen mode. If your PUBG keeps stuttering when you play it in fullscreen mode, try running it in windowed mode.
@@ -87,14 +88,19 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap379.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**
  . You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap380.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -106,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  After you installed the latest game patch, run PUBG to check if this issue reappears. If not, you’ve fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Modify the graphics settings of your PUBG
 
  Maybe the PUBG stuttering issue is caused by the improper graphics settings of the game. Try modifying its graphics settings to see if the PUBG stuttering issue persists. Here is how to do it:
@@ -122,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
  Run the game again to see if the PUBG stuttering issue persists. This this annoying issue remains, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 6: Change the power plan of your PC
 
  The PUBG stuttering issue is also probably caused by the power plan of your PC. Most PC are configured to**Balanced** , which limits the operating capacity of your graphics card and CPU. So, the stuttering issue may occur. Follow the instructions below to change the power plan of your PC:
@@ -137,16 +141,14 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap385.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  3\. Type **advanced** in the search box in the upper-right corner and then click **View advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap386.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. In the pop-up window, click **Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap387-1.jpg)
@@ -156,13 +158,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap388.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run your PUBG to see if the game will keep stuttering. If not, you’ve fixed this issue.
 
  Hopefully one of the fixes can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -176,8 +174,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +181,24 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-soundscapes-for-static-music-in-whatsapp/"><u>[New] Soundscapes for Static Music in WhatsApp</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-studio-tracker-xvideoexploration/"><u>[Updated] Ultimate Studio Tracker XVideoExploration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ace-your-iphone-and-ipad-purchase-with-amazing-prime-day-prices/"><u>Ace Your iPhone & iPad Purchase with Amazing Prime Day Prices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clarifying-visuals-in-call-of-duty-warzone-a-guide-for-pc-gamers/"><u>Clarifying Visuals in Call of Duty: Warzone – A Guide for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-performance-solutions-to-stop-stuttering-and-crashes-in-serious-sam-4-on-windows-computers/"><u>Enhancing Gaming Performance: Solutions to Stop Stuttering & Crashes in Serious Sam ^4 on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-davinci-resolve-failure-to-start-on-windows-operating-systems/"><u>Fixing the Issue: DaVinci Resolve Failure to Start on Windows Operating Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-shoot-spots-seeking-budget-friendly-stunning-tiktok-backdrops/"><u>In 2024, Behind-the-Shoot Spots Seeking Budget-Friendly, Stunning TikTok Backdrops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-platform-profitability-showdown-dailymovements-standards-vs-youtube/"><u>In 2024, Platform Profitability Showdown DailyMovement's Standards Vs Youtube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-7-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 7 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mkv-on-mac-top-5-player-apps-summary-for-2024/"><u>MKV on Mac Top 5 Player Apps Summary for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-not-starting-up-on-your-pc-try-these-fixes-now/"><u>Outriders Not Starting Up on Your PC ? Try These Fixes Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-death-stranding-not-launching/"><u>Solved: Death Stranding Not Launching</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-correcting-the-directx-error-for-activisions-modern-warfare-2/"><u>Step-by-Step Solution: Correcting the DirectX Error for Activision's Modern Warfare 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-successfully-troubleshoot-and-stop-no-rest-for-the-wicked-from-crashing-on-windowsmac/"><u>Steps to Successfully Troubleshoot and Stop 'No Rest for the Wicked' From Crashing on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-fifa-22-stuttering-and-crashes-on-personal-computers/"><u>Ultimate Guide to Overcoming FIFA 22 Stuttering and Crashes on Personal Computers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-title-the-enigmatic-world-of-fibonacci-sequences-and-their-mathematical-implications-in-modern-science/"><u>Updated In 2024, Title The Enigmatic World of Fibonacci Sequences and Their Mathematical Implications in Modern Science</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/xbox-series-x-reviewed-next-gen-power-and-immersive-4k-visuals-unveiled/"><u>Xbox Series X Reviewed: Next-Gen Power and Immersive 4K Visuals Unveiled</u></a></li>
+</ul></div>
 

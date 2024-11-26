@@ -1,7 +1,7 @@
 ---
 title: Boosting Performance in Rainbow Six Extraction - Tackling Low FPS Problems
-date: 2024-08-19T16:49:19.679Z
-updated: 2024-08-20T16:49:19.679Z
+date: 2024-11-25T18:24:10.855Z
+updated: 2024-11-26T17:25:36.533Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
  Now relaunch your game. If forcing the game to start in DX11 mode doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Verify integrity of game files
 
  A variety of issues such as game crashing on PC may be caused by corrupted game files. To troubleshoot your issue, you need to verify your game files on Steam. Below are the steps you can take.
@@ -53,23 +57,17 @@ thumbnail: https://thmb.techidaily.com/2d3c664ce9be135fd37888c5ff8219b3062ccd69d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. Select the**LOCAL FILES** tab. Then click on the button**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies Steam will redownload, and repair corrupted files.
 
  When the process is complete, launch your game. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Update your graphics driver
 
  When your game keeps crashing, you would need to consider whether it’s caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that you can get the most out of your graphics card.
@@ -81,6 +79,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -89,9 +92,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  After updating drivers, restart your PC. Then launch your game and you should be able to enjoy your gameplay without much interruptions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## If your game still crashes
 
  However, if your game still crashes a lot even though you had updated your drivers and made sure your PC meets the system requirements, you can try to repair your PC. Program issues can be caused by corrupted system files. While running a scan of a PC can help you diagnose problems and fix them immediately. For that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a professional computer repair software that will first check hardware-related issues to identify problems, and then security issues, and finally, it detects programs that crash.
@@ -105,11 +105,9 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to fix the stuttering issue
 
  Nothing all methods are necessary; simply work your way down the list until you find the one that works for you.
@@ -121,8 +119,9 @@ Here’s how you can run a scan of your PC with Reimage:
 5. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disable V-Sync
 
  Short for vertical sync, V-Sync is a graphics technology that synchronizes the frame rate of your game to the refresh rate of your monitor. Unfortunately, sometimes V-Sync reduces the input responsiveness of your system while gaming, which can cause your computer to crash. And performance issues would arise.
@@ -135,11 +134,12 @@ Here’s how you can run a scan of your PC with Reimage:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/press-ESC-and-select-SETTINGS.png)
 3. Select**GRAPHICS** . Under**BASIC** , make sure the option ENABLE VSYNC is unchecked.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uncheck-enable-vsync.png)
 4. Then apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If disabling V-Sync doesn’t give you any luck, try the next fix below.
 
@@ -151,17 +151,15 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.png)
 2. In the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-overlay.png)
 
  If the above doesn’t solve your issue, make sure you’re not running the Rivatuner overlay. Players who are running it are more likely to notice in-game stutters.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### 3\. Enable game mode
 
  After the new release of Windows updates, the game mode feature helps users increase gaming performance by deactivating background activities like app notifications. So you can actually enable this feature to benefit from it. To do this, follow the steps below.
@@ -174,9 +172,6 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the changes, test your gameplay. If you still notice severe in-game stutters, try the next fix below.
 
 ### 4\. Enable hardware-accelerated GPU scheduling
@@ -187,12 +182,17 @@ Here’s how you can run a scan of your PC with Reimage:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down until you find **Graphics settings** . Then click on it.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
@@ -215,12 +215,12 @@ If that doesn’t work for you, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check **Do this for all current items**  and click **Skip** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
@@ -236,8 +236,6 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +243,18 @@ Now launch Bloodhunt and you should be able to avoid noticeable stutters.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-superstar-status-secrets-a-step-by-step-plan-for-lightning-fame-on-social-media-giant-instagram/"><u>[New] In 2024, Superstar Status Secrets A Step-by-Step Plan for Lightning Fame on Social Media Giant Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>[Updated] 2024 Approved Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-essential-tips-to-increase-fps-and-minimize-lag-in-fall-guys/"><u>Boosting Performance: Essential Tips to Increase FPS & Minimize Lag in Fall Guys</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/constructing-unique-instagram-story-panels/"><u>Constructing Unique Instagram Story Panels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005641917-fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-dragging-loaders-in-fallout-4-quickly/"><u>How to Fix Dragging Loaders in Fallout 4 Quickly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-reversing-tiktok-videos-made-easy-a-step-by-step-tutorial/"><u>In 2024, Reversing TikTok Videos Made Easy A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-chromes-page-loading-challenges-a-step-by-step-fix/"><u>Overcoming Chrome's Page Loading Challenges: A Step-by-Step Fix</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solve-the-mystery-of-forgotten-ios-backup-passwords-uncover-your-missing-keys-with-ease/"><u>Solve the Mystery of Forgotten iOS Backup Passwords - Uncover Your Missing Keys with Ease!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-medium-and-pc-compatibility-woes-understanding-the-frequent-crashes/"><u>The Medium and PC Compatibility Woes: Understanding the Frequent Crashes</u></a></li>
+</ul></div>
 

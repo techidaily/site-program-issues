@@ -1,7 +1,7 @@
 ---
 title: CoD Vanguard Continues to Encounter PC Issues
-date: 2024-08-19T16:53:32.409Z
-updated: 2024-08-20T16:53:32.409Z
+date: 2024-11-25T23:02:11.126Z
+updated: 2024-11-26T21:45:42.143Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
 [Subnautica: Below Zero](https://www.epicgames.com/store/en-US/p/subnautica-below-zero?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=foxglove) is officially out. But before embarking on the underwater expedition, players found themselves facing issues such as**crashing** and**black screen.** If you’re on the same boat, don’t worry. We’ve put together some fixes to make your game work again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 3. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
 
@@ -43,9 +51,6 @@ Here’s how to do that on Steam:
 
 If this fix doesn’t help you, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Some players reported that**updating the graphics driver** could improve the performance of Subnautica and stop the crash. So if you don’t know whether you’re using the latest GPU driver, have a check or just go right ahead and do an update.
@@ -58,7 +63,16 @@ If this fix doesn’t help you, take a look at the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -66,10 +80,6 @@ If this fix doesn’t help you, take a look at the next one below.
 
  If the latest video driver doesn’t give you luck, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3: Perform a clean boot
 
  Given that we all have different setups, it’s also likely that some programs might be interfering with the game. To verify, you can perform a clean boot. It allows your computer to start**with only essential services and programs** .
@@ -79,24 +89,17 @@ If this fix doesn’t help you, take a look at the next one below.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you can play and see if the game crashes again. If it doesn’t, repeat these steps but only disable half of the programs and services.
 
@@ -112,6 +115,10 @@ If this trick doesn’t help, you can move on to the next one.
 3. Setting the processor affinity to only use 4 cores (0,1,2,3). Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
 4. Now you can test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If Subnautica: Below Zero still crashes, you can check out the next tip.
 
@@ -131,8 +138,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +145,22 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-game-changers-discovering-top-tier-gaming-webcam-technology/"><u>[New] Game Changers Discovering Top-Tier Gaming Webcam Technology</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>[Updated] 2024 Approved Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevating-your-ppt-experience-tips-for-gmeet-users-laptopstablets/"><u>[Updated] In 2024, Elevating Your PPT Experience Tips for GMeet Users, Laptops/Tablets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-flat-text-into-3d-masterpieces-photo/"><u>2024 Approved Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unboxing-the-polaroid-camplus-cube-action-video-analysis/"><u>2024 Approved Unboxing the Polaroid Cam+ Cube Action Video Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blunders-in-nba-2k20-a-step-by-step-guide-to-smoother-play/"><u>Beat the Blunders in NBA 2K20 - A Step-by-Step Guide to Smoother Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dying-light-mastering-stability-and-optimizing-gameplay-speed/"><u>Dying Light: Mastering Stability & Optimizing Gameplay Speed</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/effortless-data-protection-discover-the-best-buffalo-nas-backup-app-for-windows-systems-11-10-8-and-t7/"><u>Effortless Data Protection: Discover the Best Buffalo NAS Backup App for Windows Systems (11, 10, 8 & T7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-resolving-constant-crashes-of-blender-application-on-desktops/"><u>Solution Guide: Resolving Constant Crashes of Blender Application on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-the-missing-msvcr110dll-in-helldivers-2/"><u>Solutions for Resolving the Missing MSVCR110.dll in HellDivers 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-mass-effect-trilogy-stability-issues-on-pc-and-xbox-a-comprehensive-guide/"><u>Solving Mass Effect Trilogy Stability Issues on PC and Xbox: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-student-tablets-in-depth-testing-and-comparisons-from-industry-insiders-zdnet/"><u>Ultimate Guide to Student Tablets: In-Depth Testing & Comparisons From Industry Insiders | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-splitgates-frame-rate-drops-and-hitches/"><u>Ultimate Guide: Solving Splitgate's Frame Rate Drops and Hitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-with-gpt-3-an-in-depth-tutorial-for-crafting-experiences-in-the-openai-environment/"><u>Unleashing Creativity with GPT-3: An In-Depth Tutorial for Crafting Experiences in the OpenAI Environment</u></a></li>
+</ul></div>
 

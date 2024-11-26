@@ -1,7 +1,7 @@
 ---
 title: "Fixing the MSI DragonCenter Errors: Tips and Techniques for Successful Recovery"
-date: 2024-08-19T16:55:28.076Z
-updated: 2024-08-20T16:55:28.076Z
+date: 2024-11-23T16:24:15.411Z
+updated: 2024-11-26T23:19:58.539Z
 tags:
   - win11
   - win10
@@ -42,10 +42,9 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropoping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, newly-released games like Sifu work better with the latest graphics driver.
@@ -65,10 +64,18 @@ There are mainly two methods for you to update the graphics driver:
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -121,15 +128,12 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Windows power plan
 
  If you still experiences in-game FPS drops, try modifying the Power Plan of your PC for High Performance. To do so:
@@ -137,14 +141,12 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
  The Ultimate Performance option doesn’t appear on the power plan list? Just follow the steps below to unhide it:
@@ -155,14 +157,6 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 ## Disable overlays
@@ -180,9 +174,11 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch Sifu to see you can play it smoothly.
@@ -201,8 +197,6 @@ Launch Sifu to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +204,21 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>[New] Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-dimension-guide-for-best-video-format-2023/"><u>[Updated] Instagram Video Dimension [Guide for Best Video Format 2023]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[Updated] Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamstart-beginner-friendly-podcast-live-broadcast-guide/"><u>2024 Approved StreamStart Beginner-Friendly Podcast Live Broadcast Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerating-ubisoft-connect-transfer-rates-tips-and-tricks/"><u>Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powerhouse-the-apple-ipad-air-4-unveiled/"><u>Budget-Friendly Powerhouse: The Apple iPad Air 4 Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-persistent-black-screen-in-your-persona-nova-gameplay/"><u>How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unresponsive-minecraft-gameplay-in-windows-environments/"><u>How to Resolve Unresponsive Minecraft Gameplay in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-screen-high-performance-a-comprehensive-review-of-the-crystal-pro-gaming-display-by-monoprice-for-only-285/"><u>Huge Screen, High Performance: A Comprehensive Review of the Crystal Pro Gaming Display by Monoprice for Only $285</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/is-the-cost-of-aurora-justified-by-its-hdr-quality-in-2024/"><u>Is The Cost of Aurora Justified by Its HDR Quality, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-to-utilize-ai-for-cognitive-behavioral-practices/"><u>Strategies to Utilize AI for Cognitive Behavioral Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005393961-tormented-souls-stability-fixes-say-goodbye-to-incessant-program-failures-on-pc/"><u>Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!</u></a></li>
+</ul></div>
 

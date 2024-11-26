@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: What To Do If The MSI Dragon Center Fails to Function"
-date: 2024-08-19T16:51:18.956Z
-updated: 2024-08-20T16:51:18.956Z
+date: 2024-11-19T22:18:25.117Z
+updated: 2024-11-26T21:36:41.771Z
 tags:
   - win11
   - win10
@@ -44,14 +44,6 @@ thumbnail: https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98a
 
 If the problem persists, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The constant crashes might indicate a driver issue. In other words, you might be using**a faulty or outdated graphics driver** . You should always keep your driver up to date for the best in-game performance. And this is especially the case when you are dealing with new titles like New World.
@@ -67,14 +59,15 @@ If the problem persists, take a look at the next fix below.
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay in New World.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
 
@@ -87,14 +80,8 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -103,6 +90,10 @@ Here’s how you can check for updates manually:
 
 If your system is already up to date, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change in-game graphics settings
 
  Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
@@ -110,18 +101,20 @@ If your system is already up to date, you can try the next method.
 1. Open New World. On the top right corner, click the**gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Increase your virtual memory
 
  New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
@@ -129,22 +122,32 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
@@ -172,8 +175,6 @@ Now you can play and check if the crash stops.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +182,23 @@ Now you can play and check if the crash stops.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-safe-and-sound-securing-your-fb-live-conversations-on-screen/"><u>[New] 2024 Approved Safe & Sound Securing Your FB Live Conversations on Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-steps-to-access-your-channels-eyeballs/"><u>[New] In 2024, Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-laughter-labyrinas-ideas-that-resonate-with-crowds-for-2024/"><u>[Updated] Laughter Labyrinas Ideas That Resonate with Crowds for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-optimization-tips-eliminating-stutters-and-freezes-with-these-fixes/"><u>Baldur's Gate Optimization Tips: Eliminating Stutters & Freezes with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-battles-top-strategies-for-resolving-low-fps-issues-in-valorant/"><u>Boost Your Battles: Top Strategies for Resolving Low FPS Issues in Valorant</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/crime-quest-clones-video-game-list-like-gta-v-for-2024/"><u>Crime Quest Clones Video Game List Like GTA V for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-pc-malfunctions-mastering-the-art-of-keeping-slime-rancher-2-from-closing-randomly/"><u>Defeating PC Malfunctions: Mastering the Art of Keeping 'Slime Rancher 2' From Closing Randomly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-exciting-updates-dive-into-the-best-of-apples-ios-18-public-beta-highlights-zdnet/"><u>Discover Exciting Updates: Dive Into the Best of Apple's iOS 18 Public Beta Highlights - ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensure-optimal-performance-unlocking-gpu-in-call-of-duty-warzone-for-windows-10-users/"><u>Ensure Optimal Performance: Unlocking GPU in Call of Duty Warzone for Windows 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-errors-with-acrocefexe-software-issues/"><u>Expert Tips on Fixing Errors with AcroCEF.exe Software Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-honor-magic5-ultimate-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor Magic5 Ultimate Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/installation-mastery-deploying-windows-11-on-an-empty-hard-drive-the-ultimate-guide/"><u>Installation Mastery: Deploying Windows 11 on an Empty Hard Drive – The Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashing-effective-solutions-to-stop-outriders-from-failing/"><u>No More Crashing: Effective Solutions to Stop Outriders From Failing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-troubleshooting-and-fixing-maplestory-startup-problems/"><u>Solving the Issue: Troubleshooting and Fixing MapleStory Startup Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-12-transformadores-de-video-gratuitos-4k-mas-eficientes-para-macpc-perfecta-sincronizacion-y-calidad/"><u>Top 12 Transformadores De Vídeo Gratuitos 4K Más Eficientes Para Mac/PC - Perfecta Sincronización Y Calidad</u></a></li>
+</ul></div>
 

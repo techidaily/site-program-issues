@@ -1,7 +1,7 @@
 ---
 title: Snapchat Camera Not Showing? Here's How You Can Solve It!
-date: 2024-11-12T02:07:38.248Z
-updated: 2024-11-16T19:32:51.247Z
+date: 2024-11-25T20:37:00.615Z
+updated: 2024-11-26T19:55:19.149Z
 tags:
   - win11
   - win10
@@ -46,27 +46,11 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
@@ -92,10 +76,11 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -127,31 +112,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -160,15 +129,13 @@ OR
 1. Press the**Windows logo key + I** and click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
-![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
-3. Update the system if there’s an available version.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
+3. Update the system if there’s an available version.
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
@@ -187,15 +154,16 @@ If your camera is still not working on Discord, move to the next fix.
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
@@ -230,22 +198,14 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ephemeral-film-sculptor/"><u>[Updated] 2024 Approved Ephemeral Film Sculptor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-5-best-sd-card-for-gopro-cameras-hero-87-included/"><u>[Updated] 5 Best SD Card for GoPro Cameras - Hero 8/7 Included</u></a></li>
-<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-pc-crash-troubleshooting-guide/"><u>Euro Truck Simulator 2 PC Crash Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-crashes-on-days-gone-expert-advice-for-players-in-202/"><u>Fixing Game Crashes on 'Days Gone': Expert Advice for Players in 202([[[[[]]]]])</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-game-freezes-solutions-for-continuous-crashes-in-valheim/"><u>Fixing PC Game Freezes: Solutions for Continuous Crashes in Valheim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995370352-how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-s23-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy S23 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-hunt-without-interruptions-resolve-far-cry-6-pc-performance-errors/"><u>Master the Hunt Without Interruptions: Resolve Far Cry 6 PC Performance Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-aliens-fireteam-elite-stability-issues-on-pc-for-a-seamless-gameplay-journey/"><u>Mastering 'Aliens: Fireteam Elite' Stability Issues on PC for a Seamless Gameplay Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merging-melodies-the-art-of-crossfading-for-2024/"><u>Merging Melodies The Art of Crossfading for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-crashes-in-call-of-dute-modern-warfare-on-personal-computer-systems/"><u>Overcoming Lag and Crashes in Call of Dute: Modern Warfare on Personal Computer Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-download-of-official-acer-bluetooth-drivers/"><u>Quick & Simple Download of Official Acer Bluetooth Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-stardew-valley-crash-issues-on-your-computer/"><u>Solving Stardew Valley Crash Issues on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/taylor-swift-filmography-a-complete-watchlist-from-start-to-finish/"><u>Taylor Swift Filmography: A Complete Watchlist From Start to Finish</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-professional-photo-repair-tools-and-techniques/"><u>The Ultimate Guide to Professional Photo Repair Tools and Techniques</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-do-you-know-how-to-create-ai-thumbnails-for-videos-this-article-will-mention-some-of-the-best-tools-to-generate-attractive-thumbnails-for-vi/"><u>Updated In 2024, Do You Know How to Create AI Thumbnails for Videos? This Article Will Mention some of the Best Tools to Generate Attractive Thumbnails for Videos with AI</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-spins-that-stun-the-ultimate-manual-for-flipping-photos-on-instagram-platforms/"><u>[Updated] Spins That Stun The Ultimate Manual for Flipping Photos on Instagram Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-could-outshine-sub-100-competitors-like-apples-airpods-insights/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Could Outshine Sub-$100 Competitors Like Apple's AirPods – Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cam-repaired-obs-recovery-successful/"><u>Cam Repaired OBS Recovery Successful</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolving-controller-detection-issues-with-steam-on-a-windows-machine/"><u>Guide to Resolving Controller Detection Issues with Steam on a Windows Machine</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002262657-how-to-fix-the-problem-when-fifa-21-wont-open-solutions-worked/"><u>How to Fix the Problem When FIFA 21 Won't Open - Solutions Worked!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-fixing-battlefield-2042s-fps-drops-on-pc/"><u>Optimize Your Gaming Experience: Fixing Battlefield 2042'S FPS Drops on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outlook-wont-connect-fix-it-now-with-these-expert-tips/"><u>Outlook Won't Connect? Fix It Now with These Expert Tips!</u></a></li>
 </ul></div>
 

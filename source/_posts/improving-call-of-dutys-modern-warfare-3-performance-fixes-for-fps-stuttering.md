@@ -1,7 +1,7 @@
 ---
 title: Improving Call of Duty's Modern Warfare 3 Performance - Fixes for FPS Stuttering
-date: 2024-08-19T16:56:33.486Z
-updated: 2024-08-20T16:56:33.486Z
+date: 2024-11-22T16:41:45.188Z
+updated: 2024-11-26T17:31:23.099Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 ## Expert Solutions for Heart of Iron 4 Bugs & Performance Issues - Now Fixed
 
 _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After reading this article, you should be able to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 simple fixes to try
 
@@ -48,6 +52,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -60,11 +68,12 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: **Restart your computer**
 
  Extraneous software not only takes up your PC resources and affects your gaming performance, it can also conflict with_Hearts of Iron IV_ , causing it to crash.
@@ -73,9 +82,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
  If **_HOI4_**  still crashes after the reboot, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an Administrator**
 
  The_Hearts of Irons_ crashing issue might happen when the game fails to access certain game files or folders under standard user mode.
@@ -89,8 +95,9 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -99,9 +106,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 If your problem still exists, then move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4:**Disable fullscreen optimization**
 
  If you’re on Windows 10, disabling fullscreen optimizations might be able to fix_Hearts of Iron IV_ crashing issue. Here is how to do it:
@@ -113,11 +117,16 @@ If your problem still exists, then move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
@@ -150,9 +159,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -163,9 +169,6 @@ There are two ways you can get the right graphics driver:
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Verify the integrity of your game files
 
  If the crashing issues persist, it’s probable that_Hearts of Irons IV_  is not properly installed on your PC – say, certain game files are missing or damaged.
@@ -178,29 +181,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Change your PC power settings
 
  The power plan on all computers is set to Balanced by default to save more energy. When your CPU’s speed slows down automatically under Balanced mode, it can make_Hearts of Iron IV_ crash. In this case, try changing your PC Power option to High Performance. Here is how:
@@ -214,9 +204,9 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -239,9 +229,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
@@ -261,13 +248,14 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
@@ -293,8 +281,9 @@ Relaunch your game to test your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
@@ -313,6 +302,10 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -329,8 +322,6 @@ Relaunch your game to test your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -338,4 +329,22 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-updates.techidaily.com/reinitialiser-zone-extensive-strategies-de-reconquete-en-vingt-etapes/"><u>« Réinitialiser Zone Extensive - Stratégies De Reconquête en Vingt Étapes »</u></a></li>
+<li><a href="https://program-issues.techidaily.com/amazon-prime-video-not-loading-heres-how-you-can-fix-it/"><u>Amazon Prime Video Not Loading? Here's How You Can Fix It</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-powerful-m-mock-1000a-jump-starter-a-18000mah-auto-lifesaver/"><u>Comprehensive Evaluation of the Powerful M Mock 1000A Jump Starter - A 18000mAh Auto Lifesaver</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-top-rated-app-for-seamless-dvd-to-android-video-conversion/"><u>Discover the Top-Rated App for Seamless DVD to Android Video Conversion!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-audio-upgrade-convert-mp3s-to-superior-aiff-format-at-no-cost-via-movavis-web-service/"><u>Effortless Audio Upgrade: Convert MP3s to Superior AIFF Format at No Cost via Movavi's Web Service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-ways-to-fix-your-steam-game-if-you-encounter-a-corrupt-disc-error/"><u>Effortless Ways to Fix Your Steam Game if You Encounter a Corrupt Disc Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-rainbow-six-extraction-crashes-on-your-personal-computer/"><u>Expert Tips to Overcome Rainbow Six Extraction Crashes on Your Personal Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/frostpunk-stability-improvements-no-more-unwanted-crashes/"><u>Frostpunk Stability Improvements - No More Unwanted Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-correct-critical-ue4-glitches-in-the-popular-mod-black-mesa-gobi-fix-guide/"><u>How to Correct Critical UE4 Glitches in the Popular Mod Black Mesa - Gobi Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-persistent-crashes-in-warzone-20-for-windows-users/"><u>How to Solve Persistent Crashes in Warzone 2.0 for Windows Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-story-perfection-seamless-emoji-integration-techniques/"><u>Instagram Story Perfection Seamless Emoji Integration Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/um-screen-reporter-the-ultimate-youtubers-friend/"><u>Premium Screen Reporter The Ultimate YouTuber's Friend</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-thaumaturge-game-crash-issue-in-pc-a-step-by-step-guide/"><u>Solving the Thaumaturge Game Crash Issue in PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egies-for-keeping-your-youtube-video-under-cc-accessible/"><u>Strategies for Keeping Your YouTube Video Under CC Accessible</u></a></li>
+</ul></div>
 

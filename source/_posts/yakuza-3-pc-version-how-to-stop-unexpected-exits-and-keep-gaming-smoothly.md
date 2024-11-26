@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly"
-date: 2024-08-19T16:51:58.234Z
-updated: 2024-08-20T16:51:58.234Z
+date: 2024-11-21T20:15:04.099Z
+updated: 2024-11-26T21:54:36.189Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 [Subnautica: Below Zero](https://www.epicgames.com/store/en-US/p/subnautica-below-zero?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=foxglove) is officially out. But before embarking on the underwater expedition, players found themselves facing issues such as**crashing** and**black screen.** If you’re on the same boat, don’t worry. We’ve put together some fixes to make your game work again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 3. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
 
@@ -76,13 +84,11 @@ If this fix doesn’t help you, take a look at the next one below.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can play and see if the game crashes again. If it doesn’t, repeat these steps but only disable half of the programs and services.
@@ -90,8 +96,9 @@ If this fix doesn’t help you, take a look at the next one below.
 If this trick doesn’t help, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Limit CPU cores for Subnautica: Below Zero
 
  There’re also players who found that**limiting the CPU cores** for Subnautica helps stop the crash. So you can try the same and see how it goes.
@@ -100,20 +107,20 @@ If this trick doesn’t help, you can move on to the next one.
 2. On your keyboard, press**Ctrl+Shift+ESC** to open Task Manager. Then navigate to the**Details** tab. Right click**Subnautica.exe** and select**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-affinity-1.jpg)
 3. Setting the processor affinity to only use 4 cores (0,1,2,3). Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
 4. Now you can test the gameplay.
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If Subnautica: Below Zero still crashes, you can check out the next tip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Overclocking is not something new in 2021, basically every motherboard and graphics card has this gimmick. But when you’re enjoying this zero-cost performance booster, beware of the side effect of making your system unstable. So if you’re using overclocking software, such as**MSI Afterburner** and**Intel Extreme Tuning Utility** (Intel XTU), or you’re using a BIOS setting to overclock, disable it and test the gameplay again.
@@ -130,8 +137,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +144,26 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly-for-2024/"><u>[New] Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-shorts-monetization-how-to-make-money-on-youtube-shorts/"><u>[New] YouTube Shorts Monetization How to Make Money on YouTube Shorts?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-transcribe-a-youtube-video-for-free/"><u>[Updated] 2024 Approved How to Transcribe a YouTube Video for FREE</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>2024 Approved Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
+<li><a href="https://solve-help.techidaily.com/come-usare-handbrake-per-encodare-i-file-in-formato-av1-guida-completa/"><u>Come Usare HandBrake per Encodare I File in Formato AV1 - Guida Completa</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011035202-expert-guide-resolving-stellaris-game-crashes-once-and-for-all/"><u>Expert Guide: Resolving Stellaris Game Crashes Once and For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-javascript-error-easily/"><u>How to Fix Discord JavaScript Error [Easily]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-tecno-spark-10-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Tecno Spark 10 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-twitch-time-travel-regain-control-over-streams/"><u>In 2024, Twitch Time Travel Regain Control Over Streams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-pursuit-with-panasonics-hx-a1-wearable-cameras-for-2024/"><u>In Pursuit with Panasonic’s HX-A1 Wearable Cameras for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/instagrams-algorithm-unlocked-optimizing-your-reels/"><u>Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-subtitles-on-the-social-media-stage-igtv/"><u>Mastering Subtitles on the Social Media Stage IGTV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-problems-with-origin-launcher-failure-on-windows-11-systems/"><u>Overcoming Problems with Origin Launcher Failure on Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-security-compromise-issue-in-video-games/"><u>Overcoming the 'Security Compromise' Issue in Video Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-steam-vac-error-on-dota-n-tips/"><u>Overcoming the Steam VAC Error on Dota N: Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-sluggish-chrome-speedy-fixes-delivered/"><u>Solve Your Sluggish Chrome: Speedy Fixes Delivered!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-elden-ring-not-launching-mystery-solved-heres-what-happened/"><u>The 'Elden Ring Not Launching' Mystery Solved – Here’s What Happened</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-issues-with-immortals-fenyx-rising-freezes-and-crashes/"><u>Troubleshooting Continuous Issues with Immortals: Fenyx Rising Freezes and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-instant-solutions-for-startup-issues/"><u>Troubleshooting Palworld: Instant Solutions for Startup Issues</u></a></li>
+</ul></div>
 

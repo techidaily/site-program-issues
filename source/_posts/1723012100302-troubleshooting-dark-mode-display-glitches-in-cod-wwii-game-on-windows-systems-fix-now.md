@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-11-11T16:41:40.967Z
-updated: 2024-11-17T03:18:59.633Z
+date: 2024-11-20T21:56:00.902Z
+updated: 2024-11-26T22:12:59.604Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
@@ -44,24 +48,25 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -76,10 +81,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
@@ -101,6 +103,10 @@ Here is how to do it:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -148,13 +154,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -166,6 +165,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -187,6 +190,10 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -197,22 +204,12 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
@@ -228,22 +225,12 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -252,13 +239,6 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -287,18 +267,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-peek-inside-how-do-vr-headsets-connect-for-2024/"><u>[New] Peek Inside How Do VR Headsets Connect for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>[New] Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-in-purchasing-pristine-stock-images/"><u>[Updated] 2024 Approved Mastery in Purchasing Pristine Stock Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-phantom-replay-masterclass/"><u>[Updated] In 2024, Phantom Replay Masterclass</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-anonymous-access-to-instagrams-hidden-narratives-device-guide/"><u>2024 Approved Anonymous Access to Instagram's Hidden Narratives Device Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-launch-failure-of-farming-simulator-22-and-get-back-to-cultivating/"><u>How to Fix the Launch Failure of Farming Simulator 22 and Get Back to Cultivating</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-call-of-duty-black-ops-4-solutions-unveiled/"><u>How To Overcome Launch Problems in Call Of Duty: Black Ops 4 - Solutions Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-unveil-full-length-videos-in-yt-for-2024/"><u>How to Unveil Full-Length Videos in YT for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-the-minds-of-machines-palm-2-and-gpt-4-analysis/"><u>Inside the Minds of Machines: PaLM 2 and GPT-4 Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/three-fee-free-methods-for-mixing-audio-in-imovie-projects/"><u>Three Fee-Free Methods for Mixing Audio in iMovie Projects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-screen-issues-in-persona-5-strikers/"><u>Troubleshooting Guide: Fixing Black Screen Issues in Persona 5 Strikers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-4k-blu-ray-experience-best-player-selection/"><u>[New] In 2024, Ultimate 4K Blu-Ray Experience Best Player Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-guide-to-excellent-voice-recorders-for-macs-for-2024/"><u>[Updated] Guide to Excellent Voice Recorders for Macs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1-how-to-integrate-rtsp-live-streaming-into-your-website-with-vlc-and-html5-for-seamless-viewing/"><u>1. How to Integrate RTSP Live Streaming Into Your Website with VLC and HTML5 for Seamless Viewing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-far-cry-6-from-crashing-on-your-pc/"><u>How to Stop Far Cry 6 From Crashing on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-unable-to-call-dilemmas-on-your-iphone-in-just-10-steps/"><u>How to Troubleshoot Unable-to-Call Dilemmas on Your iPhone in Just 10 Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-complete-understanding-of-srt-covering-everything-important/"><u>In 2024, Complete Understanding of SRT, Covering Everything Important</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-oneplus-11r-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix OnePlus 11R Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-k11-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo K11 5G Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outpost-infinaturd-siege-stability-tips-avoid-game-crashing-on-pc-systems/"><u>Outpost: Infinaturd Siege Stability Tips - Avoid Game Crashing on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-stability-solutions-top-tips-for-avoiding-system-freezes/"><u>PC Stability Solutions: Top Tips for Avoiding System Freezes</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinitializing-distro-and-catroot2-in-w11-a-step-by-step-guide/"><u>Reinitializing Distro & Catroot2 in W11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-far-cry-6-sudden-shutdowns-on-windows/"><u>Resolved: Fixes for Far Cry 6 Sudden Shutdowns on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-correcting-error-code-103003-in-arma-3-operation-husar/"><u>Solutions for Correcting Error Code 103003 in Arma 3: Operation Husar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-hogwarts-legacy-game-startup-issues/"><u>Ultimate Guide: Solving Hogwarts Legacy Game Startup Issues</u></a></li>
 </ul></div>
 

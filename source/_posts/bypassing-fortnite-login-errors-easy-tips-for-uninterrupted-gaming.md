@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Fortnite Login Errors: Easy Tips for Uninterrupted Gaming"
-date: 2024-08-19T16:50:13.169Z
-updated: 2024-08-20T16:50:13.169Z
+date: 2024-11-19T22:30:24.456Z
+updated: 2024-11-26T18:05:02.051Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  Your Origin client can’t get online? Don’t worry… You’re not the only one. Many Origin users have had the same issue occurring on their computers. But more importantly, you should be able to fix this issue very easily
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,15 +33,16 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 4. [**Reset your hosts file**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset your Internet connection settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your computer for viruses or malware
 
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
 
  If this resolves your problem, great! But if not, there are still other fixes you can try…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Temporarily disable your antivirus
 
  Your firewall or antivirus software can sometimes cause interference to Origin so it can’t connect to the Internet. To see if that’s the case for you, temporarily disable your firewall and see if the problem remains. (You may need to consult your firewall documentation for instructions on disabling it.)
@@ -45,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
  If this resolves your problem, you can contact the vendor of your firewall and ask them for advice. Or you can install a different antivirus solution.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -58,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
 
@@ -84,16 +90,15 @@ To do so:
 %windir%\system32\drivers\etc  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd1c77cbb2.png)
 4. Double click**hosts** .  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 # Copyright (c) 1993-2006 Microsoft Corp  
 
@@ -139,8 +144,9 @@ To do so:
 7. Click**File** , then click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If not, then you may need to…
@@ -152,9 +158,6 @@ If not, then you may need to…
 1. On your computer, click the**Start** button and type “_cmd_ “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. Type the following lines of command at Command Prompt, and after typing each line, press**Enter** on your keyboard.  
 ipconfig /release  
@@ -182,8 +185,6 @@ netsh winhttp reset proxy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +192,26 @@ netsh winhttp reset proxy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-demystifying-the-money-behind-1m-on-youtube/"><u>[New] 2024 Approved Demystifying the Money Behind 1M on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inter-app-playlist-exchange-made-simple/"><u>[New] Inter-App Playlist Exchange Made Simple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-techniques-for-securing-snapchat-content-via-phone/"><u>[Updated] 2024 Approved Techniques for Securing Snapchat Content via Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-failed-texture-loads-on-call-of-duty-warzone/"><u>Addressing and Repairing Failed Texture Loads on Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-team-fortress-2s-endless-crash-problem-best-troubleshooting-techniques-and-solutions/"><u>Addressing Team Fortress 2'S Endless Crash Problem - Best Troubleshooting Techniques and Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/audio-wizards-unveiled-top-5-techniques-for-win10/"><u>Audio Wizards Unveiled Top 5 Techniques for Win10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-bug-5573-explained-and-solved-enhance-your-gameplay/"><u>Call of Duty Vanguard Bug 5573 Explained and Solved - Enhance Your Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-fixing-vrchat-connectivity-issues-tips-and-tricks-to-get-you-back-online/"><u>Complete Guide: Fixing VRChat Connectivity Issues - Tips and Tricks to Get You Back Online!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-pc-glitched-heres-what-you-can-do-to-uncrash-it/"><u>Dauntless PC Glitched? Here's What You Can Do to Uncrash It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guida-rapida-e-facile-copia-di-sicurezza-dei-tuoi-dvd-antichi-e-moderni-in-appena-cinque-minuti-senza-compromettere-la-qualita/"><u>Guida Rapida E Facile: Copia Di Sicurezza Dei Tuoi DVD Antichi E Moderni in Appena Cinque Minuti Senza Compromettere La Qualità</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuttering-issues-in-fallout-76-for-a-smoother-gameplay-experience/"><u>How to Fix Stuttering Issues in Fallout 76 for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-oculus-quest-2-analysis-exceptional-virtual-reality-experience-with-unbeatable-value/"><u>In-Depth Oculus Quest 2 Analysis: Exceptional Virtual Reality Experience with Unbeatable Value</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/reimagining-stills-as-continuous-motion-sessions/"><u>Reimagining Stills as Continuous Motion Sessions</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-yuva-3-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fixes-no-more-problems-starting-maplestory/"><u>Troubleshoot & Fixes: No More Problems Starting MapleStory</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-the-steam-black-screen-issue-and-enjoy-gaming/"><u>Ultimate Guide: Solve the Steam Black Screen Issue and Enjoy Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-visuals-glitched-heres-how-to-resolve-the-problem/"><u>Warzone Visuals Glitched? Here's How to Resolve the Problem</u></a></li>
+</ul></div>
 

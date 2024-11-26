@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Resolve VR Headset Error Code 308 on Steam
-date: 2024-08-19T16:51:06.529Z
-updated: 2024-08-20T16:51:06.529Z
+date: 2024-11-23T21:53:09.721Z
+updated: 2024-11-26T21:59:18.447Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 **WWE 2K20 keeps crashing on your PC** ? This is an issue that has been plaguing WWE 2K lovers since its launch. Luckily, there are some fixes you can try to troubleshoot the problem…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix WWE 2K20 Crash
 
  You may not have to try all the fixes; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -46,12 +54,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
@@ -65,17 +74,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
@@ -94,9 +96,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -106,6 +105,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -119,9 +122,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -135,15 +135,17 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -152,9 +154,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
@@ -173,8 +172,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +179,19 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-instagram-accessing-free-filters-via-searches-for-2024/"><u>[New] Maximizing Instagram Accessing Free Filters via Searches for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-4-launch-problems-resolved-tips-for-playstation-and-xbox-users/"><u>Battlefield 4 Launch Problems Resolved - Tips for PlayStation and Xbox Users</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-data-transfer-mtk-usb-driver-installation/"><u>Enhance Data Transfer: MTK USB Driver Installation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-remedies-for-resolving-game-latency-in-assassins-creed-valhalla/"><u>Instant Remedies for Resolving Game Latency in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-roblox-error-277-troubleshooting-techniques-on-pc-expert-advice/"><u>Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastery-in-minimal-spending-finding-instagrams-free-filter-cache/"><u>Mastery in Minimal Spending Finding Instagram’s Free Filter Cache</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimization-tips-to-prevent-horizon-forbidden-west-from-freezing-and-crashing/"><u>Optimization Tips to Prevent 'Horizon Forbidden West' From Freezing and Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initial-launch-glitches-in-monster-hunter-rise-a-users-manual/"><u>Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-dreaded-dev-error-5573-ultimate-guide-for-call-of-duty-warzone-on-pc-and-console/"><u>Solving the Dreaded Dev Error 5573: Ultimate Guide for Call of Duty: Warzone on PC and Console</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-aspect-ratio-standards-on-yt-for-2024/"><u>The Essential Guide to Aspect Ratio Standards on YT for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rban-ecosystem-fostering-resilience-through-green-policies/"><u>The Urban Ecosystem Fostering Resilience Through Green Policies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stable-warcraft-amo3-reforged-launch-on-pc/"><u>Troubleshooting Steps for Stable Warcraft Amo3 Reforged Launch on PC</u></a></li>
+</ul></div>
 

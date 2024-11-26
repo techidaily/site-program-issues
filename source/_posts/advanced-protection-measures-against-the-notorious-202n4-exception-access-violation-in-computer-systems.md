@@ -1,7 +1,7 @@
 ---
 title: Advanced Protection Measures Against the Notorious 202N4 Exception Access Violation in Computer Systems
-date: 2024-08-19T16:50:28.844Z
-updated: 2024-08-20T16:50:28.844Z
+date: 2024-11-24T21:58:13.141Z
+updated: 2024-11-26T18:16:48.107Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -56,9 +57,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
  If there are bandwidth-intensive services and applications, like background downloads, music streaming, or video streaming, running when you’re gaming, please disable them, as their occupation of the network connection resource is likely the culprit to your low FPS in games. The same logic goes with CPU-intensive programs like**Intel Turbo Boost Technology** , so if you have it installed and running, please disable it as well.
@@ -68,6 +66,11 @@ To do so:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
@@ -75,14 +78,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 4\. Modify your network settings
 
  There are some quick tweaks that you can do with your router to improve your network connectivity situation, and thus help to improve the FPS in games. Check the following to see if you’ve done them all:
@@ -107,10 +102,11 @@ To do so:
 2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -124,29 +120,30 @@ To do so:
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update graphics card and network card drivers
 
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
@@ -172,9 +169,6 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -185,10 +179,17 @@ and your network card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -196,6 +197,10 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -208,15 +213,13 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Consider hardware upgrade
 
  If none of the above helps to improve the FPS when gaming for you, maybe it’s time for you to consider investing in more powerful hardware devices, like a faster CPU, a better cooling system, a more powerful PSU (power supply unit), a newer and more advanced graphics card, etc.
@@ -235,8 +238,6 @@ To change the power mode:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +245,26 @@ To change the power mode:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-discover-the-cutest-10-video-compressors-available-on-google-play-for-2024/"><u>[New] Discover the Cutest 10 Video Compressors Available on Google Play for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>[New] Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-change-avi-files-to-mpeg-format-with-ease-use-movavi/"><u>Free Online Conversion: Change AVI Files to MPEG Format with Ease - Use Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/grab-the-best-electronics-bargains-amazon-prime-day-sales-event-of-2024-awaits-you/"><u>Grab the Best Electronics Bargains: Amazon Prime Day Sales Event of 2024 Awaits You!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-solving-the-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Guide: Solving the Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722848564802-how-does-bass-management-enhance-audio-quality-insights-inside/"><u>How Does Bass Management Enhance Audio Quality? Insights Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-maintain-stability-for-snowrunner-software-running-on-personal-computers/"><u>How to Maintain Stability for SnowRunner Software Running on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-issue-of-discord-not-loading-properly/"><u>How to Resolve the Issue of Discord Not Loading Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stabilize-house-flipper-2-and-prevent-game-crashes-on-pc/"><u>How to Stabilize House Flipper 2 and Prevent Game Crashes on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-sites-for-chromium-phone-tunes/"><u>In 2024, The Best Sites for Chromium Phone Tunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-g403-mouse-drivers-latest-downloads-and-updates-for-windows-pc/"><u>Logitech G403 Mouse Drivers - Latest Downloads & Updates for Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cyberpunk-2077-installation-tips-for-bypassing-downloading-hurdles-on-steam/"><u>Mastering Cyberpunk 2077 Installation: Tips for Bypassing Downloading Hurdles on Steam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastery-of-handling-x3daudiodll-errors-methods-to-address-missing-and-non-existent-files/"><u>Mastery of Handling X3DAudio.dll Errors: Methods to Address Missing and Non-Existent Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-disruptions-step-by-step-guide-to-stop-mordhau-from-crashing-unexpectedly/"><u>No More Disruptions! Step-by-Step Guide to Stop Mordhau From Crashing Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-division-2-issues-instantly-troubleshooting-guide/"><u>Resolve Your Division 2 Issues Instantly - Troubleshooting Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-apex-legends-connection-issues/"><u>Troubleshooting Steps for Apex Legends Connection Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-keeping-these-7-key-windows-options-on-matters-for-your-system-performance/"><u>Why Keeping These 7 Key Windows Options On Matters for Your System Performance</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apex Troubles? Here's How to Speedily Unblock Game Load Failures
-date: 2024-08-19T16:51:15.703Z
-updated: 2024-08-20T16:51:15.703Z
+date: 2024-11-24T20:55:24.804Z
+updated: 2024-11-26T19:07:13.013Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 670 or AMD Radeon R9 270 (or better)           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Recommended requirement for Far Cry 5
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)  |
@@ -34,6 +38,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Processor**    | Intel Core i7-3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHz (or better) |
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 1080 SLI or AMD RX Vega 56 CFX (or better)     |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4K configuration for Far Cry 5
 
@@ -54,6 +62,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 5. [Set the Graphics Options to low settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the long loading time issue. With high integrity access, Uplay can make full use of its features and won’t be bothered by this issue. So run the game as an administrator to see if this fixes your issue.
@@ -61,20 +73,23 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 1. Right-click on the Uplay icon and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay-1.jpg)
 2. Choose the**Compatibility** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
 5. Click**OK** then run Uplay and the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify game files
 
  If the first fix doesn’t help, the problem may be caused by the corrupted game files. This method will check the game files and verify them. What else, it will download and repair required files. So you can use this fix to fix the Far Cry 5 stuck on loading issue.
@@ -83,9 +98,11 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
 
@@ -100,8 +117,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, the game may not run smoothly and stuck on the loading scree. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -133,18 +151,12 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will solve the problem.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Set the Graphics Options to low settings
 
  If you were not stuck on the “beginning screen” but could enter the game, you could try this fix. The high graphics settings in your Far Cry 5 can take up many system resources, but it can slow down your gram or even crashing because insufficient system resource can be provided. With that, you should set the Graphics Options settings in Far Cry 5 in lower mode to make your game smoother and avoid stacking on the loading screen.
@@ -152,29 +164,21 @@ OR
 1. Open **Settings** in Far Cry 5, and click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
 5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
 6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  If you’re overclocking your CPU or GPU, you need to stop doing this for a shot. Overclocking means setting your CPU and memory to run at speeds higher than their official speed grade. Almost all processors ship with a speed rating. However, this may cause your games stuck on loading or crashing, so you should **set your CPU clock speed rate back to default** to see if this could help.
@@ -191,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +202,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-brand-your-channel-innovative-banner-templates-for-gamers/"><u>[Updated] In 2024, Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-x1000-video-world-comprehensive-sony-examination-for-2024/"><u>[Updated] X1000 Video World Comprehensive Sony Examination for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-of-tech-giants-qualcomm-samsung-and-google-join-forces-on-groundbreaking-mixed-reality-eyewear-a-deeper-dive-by-zdnet/"><u>Behind the Scenes of Tech Giants: Qualcomm, Samsung & Google Join Forces on Groundbreaking Mixed Reality Eyewear | A Deeper Dive by ZDNet</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/convert-and-download-tumblr-video-content-as-mp4avimovwmv-for-pcsmacs-easily/"><u>Convert & Download Tumblr Video Content as MP4/AVI/MOV/WMV for PCs/Macs Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-repairing-amazon-prime-streaming-problems/"><u>DIY Guide: Repairing Amazon Prime Streaming Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-alan-wake-2-from-freezing-2024-tips-inside/"><u>Effective Solutions to Stop Alan Wake 2 From Freezing: 2024 Tips Inside</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-highest-rated-immersive-speakers-for-half-price-exclusively-at-best-buy-recommends/"><u>Get the Highest Rated Immersive Speakers for Half Price – Exclusively at Best Buy Recommends!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000138720-heterotrophs-including-decomposers-like-bacteria-and-detritivores-like-earthworms-help-break-down-organic-matter-and-recycle-nutrients-back-into-the-soil/"><u>Heterotrophs, Including Decomposers Like Bacteria and Detritivores Like Earthworms, Help Break Down Organic Matter and Recycle Nutrients Back Into the Soil</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-nier-replicant-from-crashing-issue-resolved/"><u>How to Prevent NieR: Réplicant From Crashing - Issue Resolved!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-picks-the-best-10-photography-lenses/"><u>In 2024, Expert's Picks The Best 10 Photography Lenses</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-funimate-video-retrieval/"><u>In 2024, Step-by-Step Funimate Video Retrieval</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgear-nighthawk-c70erw-labs-an-in-depth-analysis-and-assessment-of-this-exceptional-wireless-router/"><u>Netgear Nighthawk C70erw Labs: An In-Depth Analysis and Assessment of This Exceptional Wireless Router</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-windows-11s-protectorate-hurdle-for-file-modification-rights/"><u>Overcoming Windows 11'S Protectorate Hurdle for File Modification Rights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-adobe-after-effects-crashing-issues-on-windows-11-and-10/"><u>Resolved: How To Fix Adobe After Effects Crashing Issues on Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-connectivity-how-to-make-your-iphone-work-with-itunes-on-windows-11/"><u>Troubleshooting Connectivity: How to Make Your iPhone Work with iTunes on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-armored-core-6-fires-of-rubicon-crashes-on-pc/"><u>Troubleshooting Steps for 'Armored Core 6: Fires of Rubicon' Crashes on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Unresponsive Minecraft Gameplay in Windows Environments
-date: 2024-11-16T06:49:58.514Z
-updated: 2024-11-16T23:58:09.570Z
+date: 2024-11-24T21:10:19.493Z
+updated: 2024-11-26T23:26:57.984Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -42,13 +46,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,10 +61,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
@@ -90,10 +84,7 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method: Update your graphics card
@@ -132,19 +123,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -154,10 +132,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
@@ -172,13 +147,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -187,8 +155,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
@@ -217,24 +193,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-fb-video-repositories-windows-and-macos-for-2024/"><u>[New] Guide to FB Video Repositories Windows & macOS for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-guide-to-free-cloud-communication-software/"><u>[New] In 2024, Comprehensive Guide to Free Cloud Communication Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily!</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-fade-perfection-quick-tips-and-tricks/"><u>[Updated] 2024 Approved Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-psycho-social-signal-customization-ps-console-edition/"><u>[Updated] Psycho-Social Signal Customization PS Console Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-review-best-kindle-format-azw3-ebook-readers-available/"><u>Expert Review: Best Kindle Format (.AZW3) eBook Readers Available</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-constant-crashing-in-age-of-empires-4-for-windows-users/"><u>How to Prevent Constant Crashing in Age of Empires 4 for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashing-in-the-full-edition-of-nioh-2/"><u>How to Resolve Persistent Crashing in the Full Edition of Nioh 2</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-granblue-fantasys-launch-errors-the-relink-solution/"><u>Mastering the Fix for Granblue Fantasy's Launch Errors: The ReLink Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-death-stranding-optimized-settings-for-a-perfect-gaming-session/"><u>Overcome Game Crashes in Death Stranding: Optimized Settings for a Perfect Gaming Session</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-lag-issues-in-world-of-warcraft-with-these-proven-2024-tweaks/"><u>Resolve Lag Issues in World of Warcraft with These Proven 2024 Tweaks!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-application-failure-to-start-on-windows-comprehensive-troubleshooting-guide/"><u>Solving 'Application Failure to Start on Windows': Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-10-tips-for-eliminating-lag-in-call-of-duty-black-ops-cold-war/"><u>Top 10 Tips for Eliminating Lag in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989606702-troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-application-couldnt-start-correctly-hurdle-in-adobe-software/"><u>Troubleshooting Tips: Overcoming the 'Application Couldn't Start Correctly' Hurdle in Adobe Software</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-create-stunning-animations-top-ios-and-android-stop-motion-apps-for-2024/"><u>Updated Create Stunning Animations Top iOS and Android Stop Motion Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>[New] Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[New] In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovating-your-gaming-experience-capturing-ps3-playthroughs/"><u>[Updated] 2024 Approved Innovating Your Gaming Experience Capturing PS3 Playthroughs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-instant-stars-youtube-videos-with-rapid-popularity/"><u>[Updated] 2024 Approved Instant Stars Youtube Videos with Rapid Popularity</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-magic-5-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor Magic 5 Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-resolving-the-critical-ark-catastrophe-effectively/"><u>Deciphering and Resolving the Critical ARK Catastrophe Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-the-wait-essential-solutions-to-the-elder-scrolls-online-blackwood-performance-lags/"><u>Ending the Wait: Essential Solutions to 'The Elder Scrolls Online' Blackwood Performance Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-no-available-camera-on-your-snapchat-app/"><u>Fixing the Issue: 'No Available Camera' On Your Snapchat App</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y100t-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y100t Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-fixed-now-successfully-starting-up/"><u>Rainbow Six Siege Fixed! Now Successfully Starting Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-problems-with-pathfinder-wrath-of-the-righteous-a-comprehensive-walkthrough/"><u>Resolving Startup Problems with Pathfinder: Wrath of the Righteous - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209518615-9781620558782-the-art-and-science-of-face-reading/"><u>The Art and Science of Face Reading | Free Book</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/top-strategies-for-safely-transferring-your-laptop-data-to-an-external-hard-drive/"><u>Top Strategies for Safely Transferring Your Laptop Data to an External Hard Drive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persistent-apex-legends-connection-errors-easily/"><u>Troubleshooting Guide: Resolving Persistent Apex Legends Connection Errors Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hiccups-in-red-dead-redemption-2-gameplay/"><u>Troubleshooting Performance Hiccups in Red Dead Redemption 2 Gameplay</u></a></li>
 </ul></div>
 

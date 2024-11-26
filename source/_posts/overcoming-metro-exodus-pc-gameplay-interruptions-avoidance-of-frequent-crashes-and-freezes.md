@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Metro Exodus PC Gameplay Interruptions: Avoidance of Frequent Crashes and Freezes"
-date: 2024-08-19T16:53:27.859Z
-updated: 2024-08-20T16:53:27.859Z
+date: 2024-11-19T21:30:16.028Z
+updated: 2024-11-26T17:06:13.874Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
@@ -75,12 +72,23 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once finish, restart your game and see if it works properly.
 
@@ -95,17 +103,16 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -115,14 +122,13 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -137,8 +143,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +150,24 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-steps-for-integrating-streamlabs-in-obs-mac/"><u>[New] 2024 Approved Essential Steps for Integrating Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>[New] 2024 Approved Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-blueprint-for-thriving-in-virtual-events-stream-success-tips/"><u>[New] Blueprint for Thriving In Virtual Events Stream Success Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-computer-connection-5-strategies-to-move-files/"><u>[New] Computer Connection 5 Strategies to Move Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nhancing-visibility-and-discoverability-via-targeted-tags/"><u>[New] Enhancing Visibility and Discoverability via Targeted Tags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-rapid-recovery-from-kernelbasedll-bugs/"><u>Effective Fixes for Rapid Recovery From KernelBase.dll Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-stability-and-fixing-crashes-in-forza-horizon-4-when-playing-on-pcs/"><u>Enhancing Stability & Fixing Crashes in Forza Horizon 4 When Playing on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-resolve-undetected-graphics-card-in-msi-afterburner-on-windows-11/"><u>Fix: How to Resolve Undetected Graphics Card in MSI Afterburner on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Infinix Note 30?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-a38-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo A38 Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-j5-tactical-pro-series-v1-exceptional-strength-and-dimensional-efficiency-for-night-vision/"><u>In-Depth Analysis of the J5 Tactical Pro Series V1 - Exceptional Strength and Dimensional Efficiency for Night Vision</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lost-ark-server-connection-errors-effective-strategies-and-fixes/"><u>Overcoming Lost Ark Server Connection Errors: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-msedgeexe-hiccups-the-ultimate-solution-for-a-smooth-browsing-experience/"><u>Overcoming Msedge.exe Hiccups: The Ultimate Solution for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-connection-delays-for-seamless-co-op-action-in-back-4-blood-with-these-fixes/"><u>Resolve Connection Delays for Seamless Co-Op Action in 'Back ^4 Blood' With These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-to-overcome-the-persistent-black-screen-in-nba-2k21-fix-guide/"><u>Solutions to Overcome the Persistent Black Screen in NBA 2K21 (Fix Guide)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-and-setting-up-kyocera-printer-drivers-on-windows/"><u>Step-by-Step Guide: Downloading and Setting Up KYOCERA Printer Drivers on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-vrchat-overcoming-complete-startup-failures/"><u>Troubleshooting VRChat: Overcoming Complete Startup Failures</u></a></li>
+</ul></div>
 

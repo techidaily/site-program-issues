@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Initialization Problems with Age of Empires IV
-date: 2024-08-19T16:54:33.570Z
-updated: 2024-08-20T16:54:33.570Z
+date: 2024-11-20T18:45:30.676Z
+updated: 2024-11-26T19:21:33.571Z
 tags:
   - win11
   - win10
@@ -57,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
  After confirming that your PC is good enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Verify the integrity of game files
 
  The game not launching issue can be caused by corruption in your extracted game files. To see if that’s the case, you can scan and repair game files through Steam. Here’s how:
@@ -68,27 +65,17 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 2. Right-click**Age of Empires IV** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once the process is completed, try launching the game again.
 
 If the issue persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The game not launching issue could indicate that you’re using a faulty or outdated graphics driver. To fix the potential problem, you should make sure your graphics driver is up to date.
@@ -105,6 +92,10 @@ If the issue persists, move on to the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and check if you can launch Age of Empires IV now.
@@ -118,9 +109,11 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
  Once you’ve installed all the updates, restart your computer and try to launch the game.
@@ -128,8 +121,9 @@ If the issue persists, move on to the next fix.
 If the problem remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update Visual C++ Redistributables
 
  Visual C++ Redistributables are software packages required by many applications to function properly. If there are any missing or corrupted redistributables files, your game may not launch. So make sure you have all the necessary files to run Age of Empires IV. You can find the latest visual studio files[here](https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads) .
@@ -145,10 +139,6 @@ Check if you can launch the game without any problem.
 
 If this fix doesn’t work for you, proceed to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check your security software
 
  Your security software may prevent the game from launching. To make sure Age of Empires IV is not being blocked by your security software, you can add the game to the allow-list of**Windows Defender** ,**Windows Security** ,**Windows Controlled Folder Access** and**your antivirus program** . Here’s how:
@@ -162,6 +152,11 @@ If this fix doesn’t work for you, proceed to the next one.
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** .
 
 #### Windows Security
@@ -172,17 +167,27 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Windows Controlled Folder Access
 
 1. In the search box on the taskbar, type**Controlled folder access** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Controlled-Folder-Access.jpg)
 2. Select**Allow an app through Controlled folder access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Other antivirus programs
@@ -202,24 +207,17 @@ If it doesn’t, try the last fix below.
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
 
@@ -239,8 +237,6 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +244,18 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovate-your-images-video-enhancer-v22-workflow/"><u>[New] In 2024, Innovate Your Images Video Enhancer V2.2 Workflow</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-pure-audio-on-mac-studio-overview/"><u>2024 Approved Pure Audio on Mac Studio Overview</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y100a-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y100A Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/aufraumen-des-bsod-problems-in-windows-11-build-22h2-erfolgreicher-leitfaden-mit-6-losungen/"><u>Aufräumen Des BSOD-Problems in Windows 11 Build 22H2: Erfolgreicher Leitfaden Mit 6 Lösungen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/back-4-blood-performance-tweaks-top-tips-for-reducing-game-latency/"><u>Back 4 Blood Performance Tweaks: Top Tips for Reducing Game Latency</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-printing-with-updated-drivers-downloading-hp-officejet-pro-9015-now/"><u>Ensure Seamless Printing with Updated Drivers – Downloading HP OfficeJet Pro 9015 Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-kodi-connection-issues-how-to-resolve-could-not-obtain-directory-info/"><u>Fixing Kodi Connection Issues: How to Resolve 'Could Not Obtain Directory Info'</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-itel-p55plus-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Itel P55+ – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>New 2024 Approved How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-with-paladins-latest-fixes-and-enhancements/"><u>No More Crashes with Paladins: Latest Fixes and Enhancements</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004857604-unleash-the-full-potential-of-horizon-zero-dawn-with-these-fps-boosting-and-performance-enhancement-tips/"><u>Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips</u></a></li>
+</ul></div>
 

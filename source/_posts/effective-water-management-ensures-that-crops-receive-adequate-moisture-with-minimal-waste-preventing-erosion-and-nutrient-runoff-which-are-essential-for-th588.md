@@ -1,7 +1,7 @@
 ---
 title: Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands
-date: 2024-08-19T16:56:00.634Z
-updated: 2024-08-20T16:56:00.634Z
+date: 2024-11-24T19:01:25.109Z
+updated: 2024-11-26T21:46:40.754Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Internet-related issues
 
  If you’re encountering this error constantly, you may want to use the following troubleshooting steps:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1\. Clear the cache
 
@@ -63,6 +67,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Turn off or disable all other devices connected to the WiFi network while playing Destiny 2.
 * Avoid obstructions between the console/computer and the WiFi source whenever possible, especially large appliances or other electronics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3\. Update your network adapter driver
 
  If you are unable to get past sign-in due to “**Unable to Connect** ” and changing to a wired connection still doesn’t work then there might be something with your network adapter driver or your network settings. Try updating or reinstalling the network adapter driver and check if it fixes the ‘**You have lost connection to the Destiny 2 servers** ‘ error.
@@ -77,6 +85,11 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -84,9 +97,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4\. Perform a network reset
 
  Performing a network reset potentially fixes any strange settings that may be preventing you from connecting, thus solve your ‘**You have lost connection to the Destiny 2 servers** ‘ error. Here’s how:
@@ -102,9 +112,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **`ipconfig /flushdns`**  
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. You’ll need to restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5\. Change your DNS server
 
@@ -114,15 +121,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Type in**ncpa.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -130,9 +135,9 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click**OK** to apply.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6\. Enable UPnP or Port Forwarding
@@ -150,9 +155,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2\. Enable Port Forwarding
 
  If you can’t use UPnP or don’t feel like it, you can enable Port Forwarding to allow all the connections Destiny needs. Note that you **won’t be able to use more than one console to play Destiny on the same network simultaneously** when using Port Forwarding. If you need this feature, I suggest you choose
@@ -163,14 +165,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Type in **ipconfig /all** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -182,27 +189,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click **OK**  to apply.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
@@ -212,15 +213,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Search for the **Port Forwarding**  or **Advanced** or **Virtual Server** section.  
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Choose both **TCP** and **UDP**  ports for your games in the appropriate box.  
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Ports that should be OPEN
 
@@ -262,8 +262,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +269,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-acid-pro-critique-and-comparable-software/"><u>[New] In 2024, ACID Pro Critique and Comparable Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-ultimate-guide/"><u>[New] YouTube Shorts Ultimate Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-impact-of-luts-on-professional-photography-for-2024/"><u>[Updated] The Impact of LUTs on Professional Photography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-infinix-hot-30i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Infinix Hot 30i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-game-breaking-bugs-in-true-colors-your-ultimate-solution-inside/"><u>Beat the Game-Breaking Bugs in 'True Colors' - Your Ultimate Solution Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/delay-alert-no-set-date-yet-for-diablo-immortals-arrival-on-desktop-systems/"><u>Delay Alert: No Set Date Yet for Diablo Immortal's Arrival on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-comprehensive-guide-for-team-fortress-2/"><u>Fixing Launch Errors: A Comprehensive Guide for Team Fortress 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-smoothly-on-pc-with-aliens-fireteam-elite-how-to-stop-the-crashes/"><u>Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-conversione-da-mov-ad-avi-su-internet-servizi-di-movavi/"><u>Gratuito Conversione Da MOV Ad AVI Su Internet - Servizi Di Movavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-a-comprehensive-guide-to-producing-videos-for-social-media/"><u>In 2024, A Comprehensive Guide to Producing Videos For Social Media</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-12-proplus-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 12 Pro+ 5G Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000003965-master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinnacle-of-windows-portability-top-laptop-selections/"><u>Pinnacle of Windows Portability: Top Laptop Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-not-working-heres-how-to-repair-it-fast-a-2024-troubleshooting-guide/"><u>Roblox Not Working? Here's How to Repair It Fast: A 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-shorts-forever-a-step-by-step-guide/"><u>Stop YouTube Shorts Forever A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tank-om-sverige-grev-for-sverige/"><u>Tänk Om Sverige: Grev För Sverige</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-2024-strategies-fixing-rocket-league-persistent-crashes/"><u>Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-excessive-cpu-use-in-phasmophobia-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips</u></a></li>
+</ul></div>
 

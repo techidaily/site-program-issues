@@ -1,7 +1,7 @@
 ---
 title: "Unlocking 'Ascent': The Fix for a Missing Launch!"
-date: 2024-08-19T16:49:49.348Z
-updated: 2024-08-20T16:49:49.348Z
+date: 2024-11-22T21:25:05.187Z
+updated: 2024-11-26T17:01:02.540Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
  Before we dive into anything advanced, make sure you’ve tried to restart your PC and the game to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your PC meets the requirement
 
  If your PC specs aren’t sufficient for The Ascent, it’s very likely that you can’t launch the game. You can refer to the table below for the**minimum requirements for The Ascent** :
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it doesn’t work, you can directly run the game executable as an admin. You can use Steam to**find the game installation path** :
 
 1. Open your Steam library and right-click The Ascent. Select**Properties** .  
@@ -78,15 +86,17 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 2. Under**LOCAL FILES** , click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
 3. Your local game folder will pop up and you should be able to find the game executable there.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve tried to run the game as admin but it still won’t launch, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Verify your game files
 
  If game files are corrupt or missing, your game may fail to launch. This could be due to a previously interrupted installation, but you don’t have to reinstall the game right away. You can verify if the game files of The Ascent on your PC are intact via the Steam client. Here’s how:
@@ -94,20 +104,11 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 1. Go to your Steam library and right-click The Ascent. Select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If verifying your game files doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your graphics driver
 
  If your graphics driver is outdated or faulty, it may cause issues when The Ascent tries to launch. You may want to make sure yours is up-to-date and functioning properly.
@@ -125,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -140,19 +145,15 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 1. Open your Steam library and find The Ascent. Right-click the game then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Fix 6: Check your antivirus
 
  If you don’t use any antivirus software,[jump to the last fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -165,9 +166,6 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fix 7: Perform a clean boot
 
  If you’ve tried the fixes above but nothing worked, you can try to perform a clean boot.
@@ -179,14 +177,21 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -197,9 +202,6 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch The Ascent. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -212,6 +214,11 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
@@ -230,8 +237,6 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +244,24 @@ thumbnail: https://thmb.techidaily.com/ee549b864de6102ff48675fa7bf1a7613a21bc32b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-the-essentials-of-writing-amazing-end-of-episode-scripts/"><u>[Updated] The Essentials of Writing Amazing End-of-Episode Scripts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essential-androidios-wedding-countdown-tools-reviewed/"><u>2024 Approved Essential Android/iOS Wedding Countdown Tools Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722957267384-achieve-next-level-pc-performance-with-intel-z270-and-top-tier-graphics-drivers-free-download-available/"><u>Achieve Next-Level PC Performance with Intel Z270 & Top-Tier Graphics Drivers, Free Download Available!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-slow-downloads-on-origin-expert-techniques-and-guides-for-superior-download-speeds/"><u>Conquer Slow Downloads on Origin - Expert Techniques and Guides for Superior Download Speeds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997302736-expert-fixes-for-when-grand-theft-auto-v-keeps-freezing-solved/"><u>Expert Fixes for When Grand Theft Auto V Keeps Freezing - Solved!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-practices-for-streamlining-webinars-on-windowsapple-os/"><u>In 2024, Best Practices for Streamlining Webinars on Windows/Apple OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-nfl-20-for-windows-overcoming-crashes-and-enhancing-performance/"><u>Madden NFL '20 for Windows: Overcoming Crashes and Enhancing Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-concealing-tags-efficiently-for-2024/"><u>Mastering Instagram Concealing Tags Efficiently for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/motorola-moto-g23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-experts-reveal-the-best-fixes-for-a-stable-nba-2k23-gaming-experience-on-windows/"><u>Say Goodbye to Crashes: Experts Reveal the Best Fixes for a Stable NBA 2K23 Gaming Experience on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/strategies-to-address-global-development-setbacks/"><u>Strategies to Address Global Development Setbacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210547590-9781685175801-the-protectors-and-the-motorcyclists/"><u>The Protectors and the Motorcyclists | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-editing-apps-revolutionize-your-photo-backgrounds/"><u>Top Editing Apps Revolutionize Your Photo Backgrounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-pc-issues-with-far-cry-6-no-more-disruptions/"><u>Troubleshooting and Solving PC Issues with Far Cry 6 – No More Disruptions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999059091-ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2 #</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-addresses-lol-bug-fixing-the-2024-player-reconnection-issue/"><u>Update Addresses LoL Bug: Fixing the 2024 Player Reconnection Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210705141--your-human-design/"><u>Your Human Design | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-11-10T02:55:51.380Z
-updated: 2024-11-17T09:35:44.887Z
+date: 2024-11-24T18:08:44.738Z
+updated: 2024-11-26T19:48:26.048Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -76,20 +69,10 @@ You can do it with only 2 steps:
 3. Join a game and see if your FPS gets better.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -111,13 +94,6 @@ You can do it with only 2 steps:
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -127,6 +103,10 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
@@ -143,6 +123,10 @@ And it’s quite easy to update too:
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -157,18 +141,23 @@ Here’s how to enable this power plan:
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -191,19 +180,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide/"><u>[Updated] 2024 Approved Leveraging OBS for Smooth Streaming Mac & PC Users' Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-joke-jingles-guide-best-ringtones-online/"><u>[Updated] Joke Jingles Guide Best Ringtones Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-delay-cutting-edge-solutions-to-optimize-your-dota-2-play/"><u>Beat the Delay: Cutting-Edge Solutions to Optimize Your Dota 2 Play</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-your-pc-quick-windows-10-driver-fix/"><u>Boost Your PC: Quick Windows 10 Driver Fix</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effortless-workflow-enabling-and-using-split-screen-on-macbook-air/"><u>Effortless Workflow: Enabling and Using Split Screen on MacBook Air</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expertly-record-your-browser-adventures-with-top-5-capturers-for-2024/"><u>Expertly Record Your Browser Adventures with Top 5 Capturers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006502125-fix-your-warzone-stutters-and-flickers-with-these-expert-hacks/"><u>Fix Your Warzone Stutters and Flickers with These Expert Hacks!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-errors-when-btballoondll-cant-be-found-on-your-computer/"><u>Fixing Errors When btballoon.dll Can't Be Found on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hold-onto-your-gear-playstation-enthusiasts-pc-version-of-diablo-immortal-still-unconfirmed-for-launch/"><u>Hold Onto Your Gear, PlayStation Enthusiasts: PC Version of Diablo Immortal Still Unconfirmed for Launch</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-stepwise-reduction-tactics-for-audio-levels-in-fl-studio/"><u>In 2024, Stepwise Reduction Tactics for Audio Levels in FL Studio</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-issues-for-a-smooth-red-dead-online-gaming-experience-tips-and-solutions-to-stop-it-from-crashing/"><u>Overcoming PC Issues for a Smooth Red Dead Online Gaming Experience: Tips & Solutions to Stop It From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004257375-red-dead-redemption-2-fixed-no-more-pc-game-crashes/"><u>Red Dead Redemption 2 Fixed: No More PC Game Crashes!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-power-of-system-preferences/"><u>Unlock the Power of System Preferences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-darkened-details-expert-techniques-for-night-photography-success-for-2024/"><u>[New] Darkened Details Expert Techniques for Night Photography Success for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-youtube-keyword-tools-to-get-more-views/"><u>[Updated] 2024 Approved 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-youtube-monetization-does-youtube-pay-monthly/"><u>2024 Approved YouTube Monetization Does YouTube Pay Monthly?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-proof-your-play-pathfinders-wrath-of-the-righteeus-stability-guide/"><u>Crash-Proof Your Play: Pathfinder's 'Wrath of the Righteeus' Stability Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-reincarnation-encounters-obstacles-before-official-debut/"><u>Diablo II: Reincarnation Encounters Obstacles Before Official Debut</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-launch-hurdles-cleared-heres-why-it-was-delayed/"><u>Immortals: Fenyx Rising Launch Hurdles Cleared - Here's Why It Was Delayed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone XS Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-meizu-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Meizu Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-footage-expert-advice-for-stunning-home-videos/"><u>New 2024 Approved Elevate Your Footage Expert Advice for Stunning Home Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-indivisible-crash-problems-with-these-simple-solutions/"><u>Overcome Indivisible Crash Problems with These Simple Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/rebranding-online-the-process-of-altering-your-name-on-facebook/"><u>Rebranding Online: The Process of Altering Your Name on Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-ncrash-fixes-ultimate-guide-for-players-experiencing-issues-on-pc/"><u>Red Dead Redemption nCrash Fixes - Ultimate Guide for Players Experiencing Issues on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/utorrent-freezes-up-discover-7-reliable-solutions/"><u>Utorrent Freezes Up? Discover 7 Reliable Solutions</u></a></li>
 </ul></div>
 

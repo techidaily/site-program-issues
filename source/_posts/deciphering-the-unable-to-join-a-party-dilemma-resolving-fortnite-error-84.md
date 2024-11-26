@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the 'Unable to Join a Party' Dilemma: Resolving Fortnite Error 84"
-date: 2024-08-19T16:49:42.624Z
-updated: 2024-08-20T16:49:42.624Z
+date: 2024-11-23T17:16:03.725Z
+updated: 2024-11-26T22:12:31.876Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-dev-error-6328.jpg)
 
  Lately, players complained that Call of Duty Warzone became unplayable with the dev error 6328\. If you happen to be on the same boat, don’t worry. While the Warzone crashes with a fatal error have been commonplace especially after the update, there is something you can do to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +50,6 @@ wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  An outdated or faulty graphics driver will also trigger Warzone dev error 6328\. If you can’t remember the last time you updated your device drivers, definitely do it now as this could make a big difference to your gaming experience.
@@ -66,17 +66,15 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -85,17 +83,11 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -107,22 +99,32 @@ wireless router
 3. Select the**Advanced** tab and click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
+
 ### Fix 5 – Delete the game cache files
 
  The faulty game files can also lead to various issues with Warzone including the 6328 dev error. In this case, you should try cleaning up the cache.
@@ -131,6 +133,10 @@ wireless router
 2. Delete the **Battle.net**  and **Blizzard Entertainment** folder.
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
 
@@ -157,8 +163,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +170,20 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-backdrops-setting-the-stage-for-streaming/"><u>[New] Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen/"><u>[New] Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-effective-video-sharing-fb/"><u>[Updated] 2024 Approved Unveiling the Secrets of Effective Video Sharing (FB)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unable-to-connect-on-kodi-and-access-media-library-data/"><u>How To Fix 'Unable To Connect' On Kodi & Access Media Library Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-htc-u23-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of HTC U23 Pro Through Google Earth?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-at-toms-tech-reviews-and-insights/"><u>Inside Look at Tom's Tech Reviews & Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-frame-rates-essential-tips-to-optimize-your-gaming-experience-on-war-thunder-latest-techniques-2024/"><u>Mastering Frame Rates: Essential Tips to Optimize Your Gaming Experience on War Thunder (Latest Techniques 2024)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-resources-managing-msmpengineexe-high-cpu-drain-on-windows-11-machines/"><u>Optimizing System Resources: Managing MsMpEngine.exe High CPU Drain on Windows 11 Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-problems-with-assassins-creed-valhalla-tips-for-a-smooth-pc-experience/"><u>Overcoming Stability Problems with Assassin's Creed: Valhalla - Tips for a Smooth PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-modern-warfare-3-mw3-wont-startlaunch-issues/"><u>Solutions for 'Modern Warfare 3 (MW3) Won't Start/Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-how-to-fix-and-play-modern-warfare-on-your-pc-this-year/"><u>Success! How to Fix and Play Modern Warfare on Your PC This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-reduce-high-cpu-consumption-on-zoom/"><u>Top 6 Solutions to Reduce High CPU Consumption on Zoom</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-s21-ultra-is-androids-premier-phone-an-in-depth-review/"><u>Why the Samsung Galaxy S21 Ultra Is Android's Premier Phone - An In-Depth Review</u></a></li>
+</ul></div>
 

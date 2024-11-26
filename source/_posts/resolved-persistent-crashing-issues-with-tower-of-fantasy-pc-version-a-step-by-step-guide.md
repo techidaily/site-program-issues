@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Persistent Crashing Issues with 'Tower of Fantasy' PC Version - A Step-by-Step Guide"
-date: 2024-11-10T00:41:15.003Z
-updated: 2024-11-17T08:53:17.419Z
+date: 2024-11-22T16:58:26.172Z
+updated: 2024-11-26T19:10:55.574Z
 tags:
   - win11
   - win10
@@ -82,19 +82,6 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -119,16 +106,17 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -167,10 +155,7 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
@@ -189,19 +174,6 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -214,22 +186,13 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -259,13 +222,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
@@ -278,20 +234,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-154-1024x744.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Set**Spot Shadows** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Set**Particle Detail** to**High** .
 
@@ -301,15 +258,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7)**Turn off Local Reflection Quality** .
@@ -324,9 +282,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -351,18 +317,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-banishing-blackout-blues-from-youtube-videos/"><u>[Updated] In 2024, Banishing Blackout Blues From YouTube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-online-broadcasting-basics-a-streamers-guide-to-capture-for-2024/"><u>[Updated] Online Broadcasting Basics A Streamer’s Guide to Capture for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-t2-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo T2 Pro 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advanced-protection-measures-against-the-notorious-202n4-exception-access-violation-in-computer-systems/"><u>Advanced Protection Measures Against the Notorious 202N4 Exception Access Violation in Computer Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-6s-plus-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-call-of-duty-wwii-issue-resolve-error-code-4128-easily/"><u>Fixing Call of Duty: WWII Issue - Resolve Error Code 4128 Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-i-fixed-the-issue-of-chromes-high-cpu-usage-for-good/"><u>How I Fixed the Issue of Chrome's High CPU Usage for Good!</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-x-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-cannot-launch-borderlands-3-a-step-by-step-guide-with-11-fixes/"><u>How to Resolve Cannot Launch Borderlands 3: A Step-by-Step Guide (with 11 Fixes)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Hot 30 5G</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-most-trending-twitch-originals-from-amazon-prime/"><u>In 2024, The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008577798-steam-vr-undetected-here-are-six-remedies/"><u>Steam VR Undetected? Here Are Six Remedies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-launching-baldurs-gate-3-made-easy/"><u>Troubleshooting Complete: Launching Baldur's Gate 3 Made Easy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] 2024 Approved Noise Reduction for Better Video Experiences on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-downloading-with-confidence-your-vrecorder-guide/"><u>[Updated] In 2024, Downloading with Confidence Your VRecorder Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-red-dead-online-keeps-freezing-or-crashing-on-your-pc/"><u>Fixing the Issue: Why Red Dead Online Keeps Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-innovative-interaction-how-to-engage-with-nvidias-rtx-ai-chatbot-in-your-living-room/"><u>Integrating Innovative Interaction: How to Engage with Nvidia's RTX AI Chatbot in Your Living Room</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-high-fps-on-dying-light-expert-hacks-and-solutions-to-optimize-your-gameplay/"><u>Mastering High FPS on Dying Light: Expert Hacks and Solutions to Optimize Your Gameplay 💥</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-resolution-of-directx-errors-for-a-smooth-run-of-battlefield-2042/"><u>Mastering the Resolution of DirectX Errors for a Smooth Run of Battlefield 2042</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-strategies-to-bypass-and-complete-updates-quickly/"><u>Microsoft Flight Simulator 2020 - Strategies to Bypass and Complete Updates Quickly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209843000-9781942838678-the-woman-i-am-now/"><u>The Woman I Am Now! | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-for-temporary-profiles-in-windows-sign-in/"><u>Tricks for Temporary Profiles in Windows Sign-In</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-home-wifi-potential-with-googles-innovative-mesh-system-reviewed-here/"><u>Unlocking Home WiFi Potential with Google's Innovative Mesh System Reviewed Here!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726223597128-mp4-3gpp-movavi/"><u>무료 MP4 풍부한 3GPP 구성원에 대한 인터넷 기술의 유용한 방법 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Game: Effective Fixes for a Broken Rockstar Games Launcher - Latest Guide"
-date: 2024-08-19T16:57:11.938Z
-updated: 2024-08-20T16:57:11.938Z
+date: 2024-11-23T16:35:52.932Z
+updated: 2024-11-26T19:59:22.643Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: **Disable your antivirus temporarily**
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -47,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/3ad4f7e8b48f19c37105255d0826afad52f6608be
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If this didn’t help in resolving your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -60,19 +61,21 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Update your graphics driver**
 
@@ -90,17 +93,10 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -110,9 +106,6 @@ The ultimate burning program for all your needs!</a>
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of your game files
 
 _Terraria_ may crash when one or more certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how to do it:
@@ -123,13 +116,14 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Terraria** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
@@ -138,9 +132,6 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
@@ -150,22 +141,21 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
@@ -203,6 +193,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -212,8 +206,9 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -221,6 +216,10 @@ If this didn’t work for you, check the fix, below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -231,8 +230,9 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
 **9)** Open the downloaded file and install Steam.
@@ -261,8 +261,6 @@ If this didn’t work for you, check the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +268,23 @@ If this didn’t work for you, check the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-beyondonecam-testing-are-there-better-options/"><u>[New] In 2024, BeyondOneCam Testing Are There Better Options?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-du-recorder-features-and-review/"><u>[Updated] 2024 Approved Du Recorder Features and Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-your-tweets-with-video-upload-rules/"><u>[Updated] Streamlining Your Tweets with Video Upload Rules</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/10-minute-tagalog-grind-start-today/"><u>10-Minute Tagalog Grind - Start Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-proficiency-6-essential-reasons-to-excel-in-the-modern-workforce/"><u>ChatGPT Proficiency: 6 Essential Reasons to Excel in the Modern Workforce</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993012072-end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exhaustive-solutions-to-the-persistent-relink-not-launching-error-in-granblue-fantasy-gaming/"><u>Exhaustive Solutions to the Persistent 'Relink Not Launching' Error in Granblue Fantasy Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-crashing-on-pc-solved/"><u>Football Manager 2021 Crashing on PC [SOLVED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-constant-crashing-issue-in-beat-saber-expert-guide/"><u>How to Fix the Constant Crashing Issue in Beat Saber: Expert Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nubia-red-magic-8s-proplus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nubia Red Magic 8S Pro+ to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-share-audio-waves-with-followers-on-instagram/"><u>In 2024, Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-star-wars-jedi-fallen-order-not-launching-problem-solved/"><u>Overcome! Star Wars Jedi: Fallen Order Not Launching Problem Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-finding-and-installing-logitech-g403-mouse-drivers-on-desktopslaptops/"><u>Step-by-Step Guide to Finding and Installing Logitech G403 Mouse Drivers on Desktops/Laptops</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-steam-interface-into-another-language/"><u>Transition Steam Interface Into Another Language</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-playbook-mastering-roller-champions-crossplayer-mode-pc-edition/"><u>Ultimate Playbook: Mastering Roller Champions' Crossplayer Mode (PC Edition)</u></a></li>
+</ul></div>
 

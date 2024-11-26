@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Redemption 2 Fixed: No More PC Game Crashes!"
-date: 2024-08-19T16:52:27.805Z
-updated: 2024-08-20T16:52:27.805Z
+date: 2024-11-25T23:19:55.076Z
+updated: 2024-11-26T22:12:24.658Z
 tags:
   - win11
   - win10
@@ -38,14 +38,20 @@ For example, here’s how you can disable the Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, Select**In-Game** . Under the**Steam Overlay** section, uncheck these 3 boxes. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. You can now launch Hades and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t help your case, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Hades as administrator
 
  Some gamers mentioned that they manage to solve the crash as well as the black screen error by running the game as administrator. You can try the same as it might fix your crash in a snap.
@@ -54,15 +60,17 @@ For example, here’s how you can disable the Steam overlay:
 2. Navigate to the**LOCAL FILES** tab, select**BROWSE LOCAL FILES…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-browse-local-files.jpg)
 3. Right-click**Hades.exe** and select**Run as administrator** , then check if the game stops crashing. If it does, continue to the next step to always run Hades as administrator. Otherwise, please move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**Hades.exe** and select**Properties** .
 5. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator.jpg)
 
  If this fix doesn’t give you any luck, you can check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify your game files
 
  Game crashes may indicate an integrity issue with your game files. If that’s the case, chances are your game will keep crashing at a certain mode or scene. To scan and repair missing files, you can follow these steps:
@@ -71,17 +79,11 @@ For example, here’s how you can disable the Steam overlay:
 2. In the Properties window, navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-verify-game-files.jpg)
 3. Wait for the checking to complete.
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve done verifying integrity of game files, launch Hades and see if it crashes again.
 
  If this solution doesn’t do the trick for you, please take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  One of the most common causes of crashing is**a faulty or outdated graphics driver** . If the last time you updated or installed your graphics driver feels like ages ago, definitely do an update now as it might be the cure to your crashing issue.
@@ -108,9 +110,6 @@ For example, here’s how you can disable the Steam overlay:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -132,20 +131,27 @@ You can follow these steps to do a clean boot:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the run box. Type or past**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.png)
 2. Navigate to the**Services** tab. Check the box next to**Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. Find services that **DO NOT** belong to your graphics card or sound card manufacturers such as**NVIDIA** ,**AMD** ,**Realtek** and**Intel** . **Uncheck**  the boxes next to these services and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. Restart your computer and test your gameplay in Hades.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the crash stops, you can root out the offender by repeating these steps and disable only half of the services.
 
 If the crash reappears, please continue to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Temporarily disable your anti-virus programs
 
@@ -161,8 +167,6 @@ If the crash reappears, please continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +174,21 @@ If the crash reappears, please continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-instructions-on-changing-fb-page-backdrop-for-2024/"><u>[New] Instructions on Changing FB Page Backdrop for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-firefoxs-best-screen-recorders-roundup/"><u>[Updated] 2024 Approved Firefox's Best Screen Recorders Roundup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easily-prevent-and-repair-bluestacks-app-crashes-with-these-5-tips/"><u>Easily Prevent and Repair BlueStacks App Crashes with These 5 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-pandoras-troubled-waters-in-avatar-frontiers-of-pandora/"><u>Effective Fixes for Pandora's Troubled Waters in 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-enhanced-steelseries-gaming-experience-on-windows-11/"><u>Free Download: Enhanced SteelSeries Gaming Experience on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-wwe-2k22-from-keeping-crash-down-on-your-windows-gaming-pc/"><u>How to Stop WWE 2K22 From Keeping Crash Down on Your Windows Gaming PC</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-in-class-text-animation-solutions/"><u>In 2024, Best-in-Class Text Animation Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-selected-best-5-free-online-convertors/"><u>In 2024, Expertly Selected Best 5 Free Online Convertors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focusflexpro-x7-smart-resizing-superior-quality/"><u>In 2024, FocusFlexPro X7 Smart Resizing, Superior Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oneplus-ace-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On OnePlus Ace 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-motorola-moto-g24-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Motorola Moto G24 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-glitches-and-slow-frames-expert-tips-to-enhance-your-naraka-bladepoint-experience/"><u>Overcoming Voice Glitches and Slow Frames: Expert Tips to Enhance Your Naraka: Bladepoint Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-how-to-troubleshoot-and-resolve-winwordexe-errors/"><u>Quick Solutions: How to Troubleshoot and Resolve WINWORD.EXE Errors</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-securely-changing-your-apple-account-password-for-2020-and-beyond/"><u>Ultimate Tutorial: Securely Changing Your Apple Account Password for 2020 and Beyond</u></a></li>
+</ul></div>
 

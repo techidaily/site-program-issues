@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-11-11T18:18:16.092Z
-updated: 2024-11-16T23:35:03.285Z
+date: 2024-11-20T20:01:04.647Z
+updated: 2024-11-26T16:01:30.784Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
  If you’re experiencing any**crashing or freezing issues with FUSER** , don’t worry. You should be able to fix this issue on your own easily after reading this article!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of FUSER crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether FUSER crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -28,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Turn on off VSync](https://tools.techidaily.com/drivereasy/download/)**
 5. **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify integrity of game files
 
@@ -46,27 +43,17 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
 
 1. Launch**Epic Games Launcher** and go to your**Library** .
 2. click on the**three dots** under the**FUSER** game tile and select**Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -89,16 +76,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -108,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  Launch FUSER and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -144,21 +119,22 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab,**check Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -197,18 +173,16 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-best-undersea-gopro-enhancements/"><u>[New] In 2024, Best Undersea Gopro Enhancements</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-how-to-change-youtube-video-playback-speed-desktopmobile/"><u>[New] In 2024, How to Change YouTube Video Playback Speed [Desktop/Mobile]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-iphone-slideshow-apps-ranked-6-13/"><u>[New] Ultimate iPhone Slideshow Apps Ranked #6-13</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/efficient-onboarding-engaging-with-friends-via-instagram-live/"><u>Efficient Onboarding Engaging with Friends via Instagram Live</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elite-narrative-constructions-within-eight-genre-bounds/"><u>Elite Narrative Constructions Within Eight Genre Bounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-s76-stuttering-expert-tips-for-a-smoother-gameplay/"><u>Fallout S76 Stuttering: Expert Tips for a Smoother Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-revive-a-frozen-iphone-a-step-by-step-guide-beyond-the-apple-icon/"><u>How to Revive a Frozen iPhone: A Step-by-Step Guide Beyond the Apple Icon</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005489583-master-uninterrupted-play-expert-solutions-to-garrys-mod-crash-problems-updated/"><u>Master Uninterrupted Play: Expert Solutions to Garry's Mod Crash Problems - Updated !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-multiplayer-effective-fixes-for-the-new-world-connection-error/"><u>Mastering Multiplayer: Effective Fixes for the 'New World Connection Error'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-high-ping-problems-while-playing-street-fighter-6-on-your-pc/"><u>Overcoming High Ping Problems While Playing Street Fighter 6 on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lags-and-glitches-discover-the-best-6-remedies-for-hogwarts-legacy/"><u>Say Goodbye to Lags and Glitches: Discover the Best 6 Remedies for Hogwarts Legacy !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-graphics-glitch-fixed-solutions-for-missing-in-game-textures/"><u>Warzone Graphics Glitch Fixed – Solutions for Missing In-Game Textures</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/obile-savvy-tailoring-youtube-video-thumbnails-with-phones-for-2024/"><u>[New] Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-free-nintendo-switch-games/"><u>[Updated] Essential Free Nintendo Switch Games</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/aukeys-30-usb-hub-reviewed-sleek-aesthetics-meet-efficient-connectivity/"><u>Aukey's 3.0 USB Hub Reviewed: Sleek Aesthetics Meet Efficient Connectivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-bugs-fixing-the-wallpaper-engine-crash-problems-on-windows-11-10-computers/"><u>Banishing Bugs: Fixing the Wallpaper Engine Crash Problems on Windows 11, 10 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-crashing-problems-of-ghost-recon-breakpoint-fast-and-reliable-fixes-inside/"><u>End the Crashing Problems of Ghost Recon Breakpoint - Fast and Reliable Fixes Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-depths-of-googles-next-gen-llm-the-powerful-plm-2-model/"><u>Exploring the Depths of Google’s Next-Gen LLM, The Powerful PLM 2 Model</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715683902908-how-to-capture-your-nintendo-switch-game-video/"><u>How to Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m54-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy M54 5G Unlock Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-lags-elevate-your-gameplay-with-optimized-fps-in-forza-horizon-5-pc/"><u>Solving Performance Lags: Elevate Your Gameplay with Optimized FPS in Forza Horizon 5 (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-freezing-falls-in-fallout-3-for-windows-users/"><u>Untangling the Mystery of Freezing Falls in Fallout 3 for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-spotify-web-player-lagging-solutions-for-a-smoother-experience/"><u>Why Is My Spotify Web Player Lagging? Solutions for a Smoother Experience</u></a></li>
 </ul></div>
 

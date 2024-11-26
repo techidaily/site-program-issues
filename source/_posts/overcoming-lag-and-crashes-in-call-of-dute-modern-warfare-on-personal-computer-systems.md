@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Lag and Crashes in Call of Dute: Modern Warfare on Personal Computer Systems"
-date: 2024-08-19T16:56:49.095Z
-updated: 2024-08-20T16:56:49.095Z
+date: 2024-11-21T20:00:59.274Z
+updated: 2024-11-26T17:54:05.887Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
 Specially designed for split-screen cooperative muliplayer,**It Takes Two** is definitely a great action-advanture game in 2021\. However, just like any other games released recently, for many players, the game still has some performance issues. **If It Takes Two FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix this issue on your own easily after reading this article!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -29,6 +33,10 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -37,9 +45,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing It Takes Two FPS dropping issue.
@@ -68,9 +73,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -81,11 +83,19 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -99,16 +109,20 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
 `**CUDA – GPUs** : set it to _your dedicated GPU_  
@@ -121,20 +135,16 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -144,9 +154,9 @@ To optimize the graphics settings, follow the steps below:
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable background recording and Xbox Game Bar
 
  Microsoft introduces many gaming features to Windows 10, such as background recording, Xbox Game Bar, etc.. Once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -158,16 +168,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fix 6: Close other demanding apps running in the background
 
  The It Takes Two FPS dropping issue may occur if too many applications or programs are running at the same time in the background. So **try restricting applications and downloads in the background** before playing the game to see if the game would run smoothly. Here is how to do it:
@@ -190,8 +194,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch It Takes Two to see if you would get a better FPS.
 
 ---
@@ -207,8 +212,6 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +219,22 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-video-reversal-on-ios-devices/"><u>[New] In 2024, Mastering Video Reversal on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-leading-edge-fb-video-repository-for-2024/"><u>[New] Leading Edge FB Video Repository for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-revolutionary-drone-editing-for-visual-storytellers/"><u>[New] Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-beats-and-briefs-music-incorporation-guide-on-fb-stories-for-2024/"><u>[Updated] Beats and Briefs Music Incorporation Guide on FB Stories for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-leading-10-decibel-boosters-windows-macos-iphones/"><u>[Updated] In 2024, Leading 10 Decibel Boosters Windows, MacOS, iPhones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-syncing-platforms-for-video-upload/"><u>[Updated] In 2024, Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bioshock-2-enhanced-edition-repairing-glitches-and-improving-gameplay/"><u>BioShock 2 Enhanced Edition - Repairing Glitches & Improving Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-forza-horizon-4-up-and-running-top-troubleshooting-guide/"><u>Get Your Forza Horizon 4 Up and Running : Top Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y100i-power-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y100i Power 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-make-your-own-cartoons-10-essential-animation-apps-for-mobile/"><u>New 2024 Approved Make Your Own Cartoons 10 Essential Animation Apps for Mobile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-spatial-audio-issues-on-your-pc-with-windows-11-or-10/"><u>Resolving Spatial Audio Issues on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-microphone-mod-solutions-for-a-non-functioning-vocal-effect/"><u>Troubleshooting Your Clownfish Microphone Mod: Solutions for a Non-Functioning Vocal Effect</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-high-latency-in-chivalry-ii/"><u>Ultimate Guide: Resolving High Latency in Chivalry II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-frame-rate-variations-fortnites-transformation-post-season-8-release/"><u>Understanding Frame Rate Variations - Fortnite's Transformation Post-Season 8 Release</u></a></li>
+</ul></div>
 

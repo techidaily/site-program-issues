@@ -1,7 +1,7 @@
 ---
 title: "Rise and Fall of Cyberpunk 2077'S Frame Rate: The Impact of Recent Updates on FPS"
-date: 2024-08-19T16:56:21.241Z
-updated: 2024-08-20T16:56:21.241Z
+date: 2024-11-22T21:25:43.135Z
+updated: 2024-11-26T18:00:51.319Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel your mouse/keyboard/controller wired during the game? If so, your device may encounter an input lag issue.
 
 Don’t worry, here’re fixes may help you solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,6 +45,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For mouse/keyboard users
 
 If you’re not using the controller, check the below settings.
@@ -59,8 +67,9 @@ If you’re not using the controller, check the below settings.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,30 +78,16 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -121,15 +116,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -144,8 +137,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +144,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-best-picture-preview-compilation/"><u>[New] Best Picture Preview Compilation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[New] Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-photo-background-blur-apps-for-iphone-and-android-phones-for-2024/"><u>Best Photo Background Blur Apps for iPhone and Android Phones for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-continuous-palworld-game-crashes-on-desktop-systems/"><u>Effective Solutions for Continuous Palworld Game Crashes on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolved-fixing-origins-inability-to-open-under-microsofts-latest-operating-systems/"><u>Guide: [RESOLVED] Fixing Origin's Inability to Open Under Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-hot-40-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Hot 40 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-ai-top-7-prompting-methods-to-get-real-results/"><u>Mastering the Art of AI: Top 7 Prompting Methods to Get Real Results</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/minecraft-skins-reimagined-an-expert-review-of-the-enchanting-campfire-tales-collection/"><u>Minecraft Skins Reimagined: An Expert Review of the Enchanting Campfire Tales Collection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-application-unable-to-start-hurdle-in-adobe-software-error-code-0xc0c0000022/"><u>Overcoming the 'Application Unable to Start' Hurdle in Adobe Software (Error Code 0xC0^[c0000022)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209579022-9781633535022-purposeful-retirement/"><u>Purposeful Retirement | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y02t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y02T Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-remedying-frequent-breakdowns-of-ffxiv-for-pc-users/"><u>Uninterrupted Gaming - Remedying Frequent Breakdowns of FFXIV for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
+</ul></div>
 

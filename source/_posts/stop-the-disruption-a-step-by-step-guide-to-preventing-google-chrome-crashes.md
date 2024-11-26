@@ -1,7 +1,7 @@
 ---
 title: "Stop the Disruption: A Step-by-Step Guide to Preventing Google Chrome Crashes"
-date: 2024-08-19T16:57:14.110Z
-updated: 2024-08-20T16:57:14.110Z
+date: 2024-11-24T18:33:23.075Z
+updated: 2024-11-26T23:20:53.345Z
 tags:
   - win11
   - win10
@@ -45,8 +45,9 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  If the PS4 freezing occurs to one game or application, it’s very likely because the game/application crashed in your PS4\. You can try to**restart the PS4 and then the game** to have a try, or you can try to**update the game software to the latest version** , which can help fix the bugs and install the patches for your game.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Restart the PS4 and the application
 
  Follow the steps below to power cycle and restart your PS4 and the application:
@@ -71,17 +72,10 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570e7b9b403.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  3) Follow the**wizard** to**download** and**install** any available updates.
 
  4) Restart your PS4 and try to play the game to see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Free up more space for your system
 
  You can first check the system storage in your PS4\. If there is little space, you will need to free up more space for it. The fluent operating on your PS4 requires enough storage in the system.
@@ -94,16 +88,25 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b31cd1077.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Press the**Options** **button** on your controller and select**Delete** .
 
  Then you can**have more space** in your system and have better control over your PS4 operations. If you think for sure that it’s the data issue, you can also try to[**rebuild the database**](https://tools.techidaily.com/drivereasy/download/) to have a try.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 2: Troubleshoot the hardware issue to fix the P4 freezing**
 
  This problem can also be caused by the**hardware issue** . So you can try to troubleshoot the hardware and solve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Put your PS4 in an open space
 
@@ -112,8 +115,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  If that’s the case, you can try to**put your PS4 in an open space** to have more gas around it, so your PS4 is allowed to have**better air circulation** . Additionally, you may need to regularly**clean the dust** on your PS4 to have it under maintenance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Check all the cables and ports to be plugged correctly
 
  Sometimes the cables lose when connecting can also result in this problem. You can try to **check if all the cables are correctly and tightly plugged in your PS4** and other equipment.
@@ -133,8 +137,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  4)**Restore** **data** that has been backed up on the new HDD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 3: Rebuild the database to fix the PS4 freezing**
 
  If you think it can be a data issue and it doesn’t solve the issue after **[freeing up space](https://tools.techidaily.com/drivereasy/download/)**  for your system, you can try to rebuild the database in your PS4 to solve this problem.
@@ -151,9 +156,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4f4570937c9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 5) Try to use your PS4 again to see if it works.
 
 ## **Method 4: Check the Internet connection to fix the PS4 freezing**
@@ -172,9 +174,11 @@ a. Connect your PS4 with the LAN cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c. Select **Use a LAN Cable.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
@@ -183,6 +187,11 @@ a. Connect your PS4 with the LAN cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  e. Select **Do Not Use**  as for **Proxy Server.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
@@ -192,8 +201,9 @@ a. Connect your PS4 with the LAN cable.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b47d9e9dd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Try to**forward ports** to your PS4 to have a better Internet connection.
 
  a. Go and see the**IP address** ,**Username,** and**Password** on your wireless router.
@@ -238,15 +248,12 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 6) Try to open the game and see if it works now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 6: Initialize the PS4 to fix the PS4 freezing**
 
  In addition, initializing your PS4 can also reset the system and solve the problem.
@@ -259,16 +266,10 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select **Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 3) Follow the instructions to complete.
 
 4) After finishing, restore all your backup data, and reinstall the games and applications.
@@ -292,8 +293,6 @@ g. Try to use your PS4 to see if it works now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +300,20 @@ g. Try to use your PS4 to see if it works now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/1722987679195-fixed-diablo-immortal-keeps-crashing-pc-guide-2024/"><u>[FIXED] Diablo Immortal Keeps Crashing - PC Guide 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-res-gaming-the-best-screen-capture-options/"><u>[New] 2024 Approved High-Res Gaming The Best Screen Capture Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-aerial-mastery-reviewed-the-essence-of-gopro-karma/"><u>[Updated] Aerial Mastery Reviewed The Essence of GoPro Karma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-praeys-for-the-gods-solutions-to-prevent-pc-crashes/"><u>Fix Praeys for the Gods: Solutions to Prevent PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-upgrading-twitter-video-fidelity-to-4k/"><u>In 2024, Upgrading Twitter Video Fidelity to 4K</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/is-it-essential-to-secure-your-operating-system-and-apps-with-regular-backups/"><u>Is It Essential to Secure Your Operating System & Apps with Regular Backups?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/snapshot-success-mastering-the-art-of-xbox-one-captures/"><u>Snapshot Success Mastering the Art of Xbox One Captures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-error-0x803f8001-in-minecraft-for-windows-users/"><u>Solution Guide: Overcoming Error 0X803f8001 in Minecraft for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-overcoming-geforce-error-and-restart-issues-seamlessly/"><u>Success Story: Overcoming GeForce Error and Restart Issues Seamlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-essentials-of-clear-coherent-ps3-game-recordings-for-2024/"><u>The Essentials of Clear, Coherent PS3 Game Recordings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-crashes-in-mass-effect-3s-legendary-edition-for-both-pc-and-xbox/"><u>Troubleshooting and Resolving Crashes in Mass Effect 3'S Legendary Edition for Both PC and Xbox</u></a></li>
+</ul></div>
 

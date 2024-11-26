@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to 'Pathfinder - Wrath of the Righteeous' Keyboard Failures
-date: 2024-08-19T16:57:47.166Z
-updated: 2024-08-20T16:57:47.166Z
+date: 2024-11-19T21:39:49.040Z
+updated: 2024-11-26T23:01:53.513Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-Free-Download-1.jpg)
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -42,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/7ad836b78743150f7926162559e15271095acf4f6
 
 If you didn’t find any hardware issues, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -56,9 +57,9 @@ If you didn’t find any hardware issues, try the next fix.
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -66,37 +67,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -113,12 +96,17 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -135,8 +123,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +130,17 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-superior-download-manager-best-youtube-downloader-apps-for-2024/"><u>[Updated] Superior Download Manager Best YouTube Downloader Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instas-secrets-unveiled-the-art-of-selfie-confirmation/"><u>2024 Approved Insta's Secrets Unveiled The Art of Selfie Confirmation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/a-beginners-guide-to-using-siri-in-your-tiktok-videos-for-2024/"><u>A Beginner's Guide to Using Siri in Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/adding-media-instagrams-guide-for-2024/"><u>Adding Media Instagram's Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cod-vanguard-error-code-0x00001338-n-for-pc-complete-solutions/"><u>Fixing CoD Vanguard Error Code 0X00001338 (N) for PC: Complete Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-start-up-glitches-in-pathfinder-wrath-of-the-righteeous-a-guide-to-successful-launching/"><u>Overcoming Start-Up Glitches in Pathfinder: Wrath of the Righteeous - A Guide to Successful Launching</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sharpening-graphics-in-call-of-duty-warzone-on-pc-a-step-by-step-fix/"><u>Sharpening Graphics in Call of Duty: Warzone on PC - A Step-by-Step Fix</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-trapping-elusive-predators-an-in-depth-review-of-monster-hunter-world/"><u>The Ultimate Guide to Trapping Elusive Predators: An In-Depth Review of Monster Hunter: World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-preventing-pc-game-crashes/"><u>Top Tips for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://win-great.techidaily.com/44oi44oo44op44or6zplusz5aow6lui5oplusb5oml6acg44ks6zug57se44gx44gf44ks44kk44oj/"><u>モノラル音声転換手順を集約したガイド</u></a></li>
+</ul></div>
 

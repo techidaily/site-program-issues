@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions for When Discord Won't Install – Resolve It Quickly
-date: 2024-08-19T16:53:10.592Z
-updated: 2024-08-20T16:53:10.592Z
+date: 2024-11-20T17:38:20.923Z
+updated: 2024-11-26T17:47:22.943Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -41,44 +45,47 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Bonus Tip: Update available device drivers
 
  The missing or outdated device drivers can bring your computer various problems, such as Discord not working or sound problems. So you should keep your device drivers up to date.
@@ -99,9 +106,6 @@ OR
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
@@ -114,8 +118,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +125,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-immediate-account-suspension-due-to-copyright-violations/"><u>[New] In 2024, Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonize-your-status-with-a-track/"><u>[Updated] Harmonize Your Status with a Track</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-7-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 7 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-troubleshooting-and-fixing-the-absence-of-a-coprocessor-driver-on-windows-10-systems/"><u>Guide: Troubleshooting and Fixing the Absence of a Coprocessor Driver on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-wont-open-error-successfully/"><u>How to Fix 'Resident Evil Village Won't Open' Error Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-missing-spatial-sound-feature-in-windows-11-and-10/"><u>How to Fix Missing Spatial Sound Feature in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-150-2023-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from 150 (2023)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-6-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 6</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a15-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A15 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-lost-ark-no-longer-crashes-update-notes-explained/"><u>PC Players Rejoice! Lost Ark No Longer Crashes – Update Notes Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fortnites-blackout-problem-on-your-windows-machine/"><u>Solution Guide: Overcoming Fortnite's Blackout Problem on Your Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-launch-issues-of-overwatch-2-in-2/"><u>Troubleshooting Tips: Resolving Launch Issues of Overwatch 2 in 2지급년</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cold War Call of Duty Troubleshooting: Error Code 887 A0005 Demystified"
-date: 2024-08-19T16:50:58.394Z
-updated: 2024-08-20T16:50:58.394Z
+date: 2024-11-19T22:30:58.689Z
+updated: 2024-11-26T18:51:35.652Z
 tags:
   - win11
   - win10
@@ -42,19 +42,14 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of this error is that you’re using**a faulty or outdated graphics driver** . If you want to fully enjoy a new AAA title, first make sure your graphics driver is up to date.
@@ -67,6 +62,11 @@ If this trick doesn’t help you, simply continue to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -75,9 +75,6 @@ If this trick doesn’t help you, simply continue to the next one.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Microsoft has just released the 20H2 update for Windows 10, including some regular security patches and loads of new features. We always recommend players to**keep their system up to date** , as it could help avoid lots of troubles.
@@ -87,9 +84,11 @@ And it’s fairly easy to update:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -109,28 +108,27 @@ Here’s how:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this method doesn’t fix your issue, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable in-game Ray Tracing
 
  In some cases, this error code shows up when your GPU is overloaded. Aside from that, Black Ops Cold War is still a new title, which means there’s still room for improvement. Ray Tracing might sound fancy, but according to some gamers it can be unstable on Black Ops Cold War. So you can try disabling this feature and check if the error code disappears.
@@ -154,8 +152,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +159,23 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-pathway-to-pairing-perfection-obspluszoom-guide-for-2024/"><u>[New] The Pathway to Pairing Perfection OBS+Zoom Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999338240-solved-zoom-black-screen-issues-on-pc-2024-guide/"><u>[SOLVED] Zoom Black Screen Issues on PC - 2024 Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-social-media-savvy-quick-fire-tips-for-aspiring-online-marketers/"><u>2024 Approved Social Media Savvy Quick-Fire Tips for Aspiring Online Marketers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s24-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S24 Fingerprint Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-steps-to-address-life-threatening-business-launch-problems-this-year/"><u>Critical Steps to Address Life-Threatening Business Launch Problems This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-gaming-fixing-error-code-23-in-apex-legends-made-easy/"><u>Error Free Gaming: Fixing Error Code 23 in Apex Legends Made Easy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-ubisoft-connection-errors-comprehensive-guide-and-tips/"><u>Fixing Ubisoft Connection Errors – Comprehensive Guide and Tips</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/guide-facile-pour-dupliquer-tous-les-fichiers-dun-ssd-vers-un-second-hard-drive/"><u>Guide Facile Pour Dupliquer Tous Les Fichiers D'un SSD Vers Un Second Hard Drive</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-fps-in-dota-2-after-fixing-windows-11-and-10-lag/"><u>Improving FPS in Dota 2 After Fixing Windows 11 & 10 Lag</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-edge-40-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Edge 40 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maintain-a-natural-flow-with-those-keywords-while-adhering-to-readability-guidelines-eebtween-50-60-characters/"><u>Maintain a Natural Flow with Those Keywords While Adhering to Readability Guidelines (e.ebtween 50-60 Characters).</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987161159-smooth-sailing-through-the-ocean-eleven-sea-nier-worlds-crash-fixes-revealed/"><u>Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-locate-and-utilize-the-windows-iscsi-initiator/"><u>Steps to Locate and Utilize the Windows iSCSI Initiator</u></a></li>
+<li><a href="https://program-issues.techidaily.com/thaumaturge-not-working-heres-what-you-need-to-do-for-quick-fixes/"><u>Thaumaturge Not Working? Here's What You Need to Do for Quick Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-issue-of-lost-ark-failing-to-start/"><u>Ultimate Guide: Solving the Issue of 'Lost Ark' Failing to Start</u></a></li>
+</ul></div>
 

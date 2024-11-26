@@ -1,7 +1,7 @@
 ---
 title: DIY Repair Tips for a Malfunctioning MSI Dragon Center
-date: 2024-08-19T16:50:16.521Z
-updated: 2024-08-20T16:50:16.521Z
+date: 2024-11-20T19:53:07.714Z
+updated: 2024-11-26T17:24:41.234Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 3. [**Run the game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
@@ -66,9 +70,9 @@ There are mainly two ways to update your drivers:
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Run the game as an administrator
 
  Madden 22 may fail to work with no administrator rights given. A simple trick is to run the game as an administrator. Here are the steps:
@@ -76,20 +80,18 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 See if the issue persists. If yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -99,16 +101,10 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On Epic Games Launcher
@@ -117,6 +113,10 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
@@ -149,8 +149,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +156,23 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-snapseed-basics-unlock-your-image-editing-potential/"><u>[Updated] In 2024, Snapseed Basics Unlock Your Image-Editing Potential</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-staying-within-the-limits-key-youtube-policies/"><u>[Updated] In 2024, Staying Within the Limits Key YouTube Policies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-video-formats-for-maximum-youtube-engagement-for-2024/"><u>[Updated] Top Video Formats for Maximum YouTube Engagement for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-ready-troubleshooting-dev-error-5573-in-call-of-duty-warzone-for-playstation-and-xbox-users/"><u>Battle Ready: Troubleshooting Dev Error 5573 in Call of Duty Warzone for PlayStation & Xbox Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-adventure-addressing-the-dying-lights-fps-challenges/"><u>Boosting Your Gaming Adventure: Addressing the Dying Light's FPS Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-resolved-performance-issues-smoother-gameplay-experience/"><u>Cyberpunk 2077 - Resolved Performance Issues: Smoother Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-troubleshooting-steps-for-unresponsive-rust-programs/"><u>Effective Troubleshooting Steps for Unresponsive Rust Programs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-digital-gadgets-by-toms-electronics-guide/"><u>Expert Analysis of Digital Gadgets by Tom's Electronics Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-battlefront-ii-pc-stability-problems-solutions-for-uninterrupted-gaming/"><u>Fixing Battlefront II PC Stability Problems – Solutions for Uninterrupted Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-stop-amber-and-crisis-sms-alarms-on-your-iphone-device/"><u>Guide to Stop Amber and Crisis SMS Alarms on Your iPhone Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-sony-xperia-10-v-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Sony Xperia 10 V Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-sprucing-up-instagram-stories-with-branded-graphics/"><u>In 2024, The Art of Sprucing Up Instagram Stories with Branded Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007370935-pc-gamers-rejoice-as-r-type-final-2s-compatibility-problems-are-sorted-ensuring-uninterrupted-gameplay/"><u>PC Gamers Rejoice as R-Type Final 2'S Compatibility Problems Are Sorted, Ensuring Uninterrupted Gameplay!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-the-bangers-resolving-no-audio-problems-in-fallout-4-for-windows/"><u>Restoring the Bangers: Resolving No Audio Problems in Fallout 4 for Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-honor-magic-6-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Honor Magic 6 Phone Hassle-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-oddities-in-windows-11-visual-language/"><u>Uncovering the Oddities in Windows 11 Visual Language</u></a></li>
+</ul></div>
 

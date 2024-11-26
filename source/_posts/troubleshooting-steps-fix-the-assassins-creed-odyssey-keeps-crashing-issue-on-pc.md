@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fix the 'Assassin's Creed Odyssey Keeps Crashing' Issue on PC"
-date: 2024-08-19T16:55:40.115Z
-updated: 2024-08-20T16:55:40.115Z
+date: 2024-11-21T20:36:32.983Z
+updated: 2024-11-26T16:50:18.999Z
 tags:
   - win11
   - win10
@@ -31,24 +31,22 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -74,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -91,9 +86,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
@@ -105,13 +97,14 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -125,8 +118,9 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
@@ -142,19 +136,25 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
@@ -177,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +184,24 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ow-to-make-fortnite-thumbnail-for-free-and-easy/"><u>[New] How to Make Fortnite Thumbnail for Free and Easy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-chaptered-videos-on-vimeo-a-comprehensible-guide/"><u>[Updated] Chaptered Videos on Vimeo A Comprehensible Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-best-15-simulation-games-for-android-for-2024/"><u>[Updated] Top Best 15 Simulation Games for Android for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-guide-implementing-time-loops-in-obs/"><u>2024 Approved Expert Guide Implementing Time Loops in OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-swiftly-start-sharing-joy-installing-the-ifunny-meme-app/"><u>2024 Approved Swiftly Start Sharing Joy Installing the iFunny Meme App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connectivity-error-fixes-for-minecraft-players-how-to-restore-access-to-your-gaming-realm/"><u>Connectivity Error Fixes for Minecraft Players: How to Restore Access to Your Gaming Realm</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-xr21-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia XR21 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-optimization-tips-how-to-maintain-steady-frame-rates-for-smooth-gaming-on-pcs/"><u>Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/google-meet-made-simple-the-ultimate-cost-free-resource-booklet-for-2024/"><u>Google Meet Made Simple The Ultimate Cost-Free Resource Booklet for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-and-install-the-newest-logitech-g403-software-on-your-computer/"><u>How to Get and Install the Newest Logitech G403 Software on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-gamepad-working-with-steam-on-a-windows-machine/"><u>How to Get Your Gamepad Working With Steam on a Windows Machine</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-year-ahead-social-media-infographic-insights/"><u>In 2024, The Year Ahead Social Media Infographic Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/maximize-your-mobile-presence-with-using-the-same-number-for-all-your-electronics/"><u>Maximize Your Mobile Presence with Using the Same Number for All Your Electronics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-days-gone-pc-startup-problems-and-error-fixes/"><u>Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-challenges-that-have-halted-the-ascents-release-date/"><u>Unveiling the Challenges That Have Halted 'The Ascent's Release Date</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-active-expert-tips-to-restore-its-functionality/"><u>Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality</u></a></li>
+</ul></div>
 

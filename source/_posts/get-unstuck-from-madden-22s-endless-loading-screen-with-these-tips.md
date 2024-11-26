@@ -1,7 +1,7 @@
 ---
 title: Get Unstuck From Madden 22'S Endless Loading Screen with These Tips
-date: 2024-08-19T16:56:23.392Z
-updated: 2024-08-20T16:56:23.392Z
+date: 2024-11-21T16:59:45.880Z
+updated: 2024-11-26T16:26:57.557Z
 tags:
   - win11
   - win10
@@ -47,13 +47,14 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -79,6 +80,10 @@ There are mainly two ways to update your device drivers:
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -90,9 +95,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -107,13 +109,15 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
@@ -127,9 +131,6 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
@@ -140,15 +141,19 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -166,8 +171,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +178,22 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-common-launch-issues-for-pc-gamers-in-robocop-rogue-city/"><u>'Solved!' Common Launch Issues for PC Gamers in RoboCop: Rogue City</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-boosting-android-video-brilliance/"><u>[New] The Ultimate Guide to Boosting Android Video Brilliance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/solved-yellow-question-mark-issue-in-device-manager/"><u>[Solved] Yellow Question Mark Issue in Device Manager</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-expert-advice-on-fixing-persistent-stutters-during-your-minecraft-adventures/"><u>2024'S Expert Advice on Fixing Persistent Stutters During Your Minecraft Adventures!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-interruptions-expert-tips-to-resolve-arma-3-crash-issues/"><u>Avoid Game Interruptions: Expert Tips to Resolve Arma 3 Crash Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6s-how-to-unlock-a-disabled-apple-iphone-6s-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6s How to Unlock a Disabled Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-reviews-from-toms-hardware-your-tech-companer/"><u>Expert Reviews From Tom's Hardware: Your Tech Companer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rocket-league-troubleshooting-solving-game-freeze-problems/"><u>Rocket League Troubleshooting - Solving Game Freeze Problems</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/section-2a-explanation-of-interferons/"><u>Section 2A: Explanation of Interferons</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-fixing-the-leaf-error-code-on-apex-legends/"><u>Solving the Puzzle: Fixing the Leaf Error Code on Apex Legends</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988875638-struggling-with-fortnite-login-errors-get-back-to-gaming-faster/"><u>Struggling with Fortnite Login Errors? Get Back to Gaming Faster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-titles-only-available-on-playstation-5-the-ultimate-game-collection/"><u>Top Titles Only Available on PlayStation 5: The Ultimate Game Collection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-you-seeing-siri-suggestions-a-guide-to-restoring-functionality-on-iphone-devices/"><u>Why Aren't You Seeing Siri Suggestions? A Guide to Restoring Functionality on iPhone Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxvideo-ai-intelligente-videobearbeitung-mit-skalierung-stabilisierung-und-konvertierung/"><u>WinxVideo AI – Intelligente Videobearbeitung Mit Skalierung, Stabilisierung Und Konvertierung</u></a></li>
+</ul></div>
 

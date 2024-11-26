@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving PS4 Freezing Issues - A Detailed Walkthrough"
-date: 2024-08-19T16:51:34.575Z
-updated: 2024-08-20T16:51:34.575Z
+date: 2024-11-22T19:06:57.427Z
+updated: 2024-11-26T16:45:09.579Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 ## COD: Modern Warfare Continuous Freezing Issues Now Resolved
 
 Call of Duty: Modern Warfare players are experiencing unbearable random crashes on PC when battling their ways to the top. All kinds of Dev error codes such as**Fatal Error: Dev Error 6178** or no error codes at all. It crashes even in single-player mode. If you’re experiencing Modern Warfare crashing, here’re a few fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does Modern Warfare crash?
 
@@ -47,9 +51,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 8. **[Change Priority](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Close all background Apps and repair your game
 
  Shut down all applications that are running in the background by pressing**Ctrl + Shift + Esc** , especially your antivirus software, which can be over-protective and cause Modern Warfare crashing issues.
@@ -81,6 +82,10 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -89,15 +94,8 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 4) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Set texture quality to high or normal
 
  Many Call of Duty players may set their graphics settings to**Low** , which can be the culprit of the Modern Warfare crashing issue. Modern Warfare may crash for not having enough texture quality, especially if you get an error code**Dev Error 6178** . Many gamers find**setting Texture Resolution to Normal or High** solved their crashing issues, depending on your PC specs.
@@ -110,6 +108,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
@@ -121,6 +123,10 @@ Play Modern Warfare again to see if the crashing issue persists.
  If you’re on**Steam** : go to your game library and right-click Call of Duty: Modern Warfare and select**Properties** . Then go to the**Local Files** tab and click**Verify Integrity of Game Files** .
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop Overclocking
 
@@ -138,9 +144,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/NVIDIA-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the left pane, go to**3D Settings** \>**Manage 3D settings** . Select the**Program Settings** tab and add your Call of Duty: Modern Warfare.
 
  Default Path: **C:\\Program Files (x86)\\Call of Duty Modern Warfare\\ModernWarfare.exe**
@@ -163,9 +166,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Change Priority
 
  Setting Call of Duty: Modern Warfare to high priority, according to a few players, reduces the number of crashes a little bit. To do it, you need to open your game first because you’re going to find it in the Task Manager.
@@ -178,10 +178,11 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) When prompted for permission to make changes, select**Change Priority** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9\. Repair your system files
 
@@ -199,8 +200,9 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -214,8 +216,9 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -238,9 +241,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -288,8 +288,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +295,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-rapid-strategies-for-securing-identity-in-image-editing/"><u>[New] Rapid Strategies for Securing Identity in Image Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-lead-with-originality-10-tips-to-make-your-yt-shorts-shine/"><u>[Updated] 2024 Approved Lead With Originality 10 Tips to Make Your YT Shorts Shine</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-download-apple-podcasts-instinctively/"><u>[Updated] Download Apple Podcasts Instinctively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/android-developers-choice-premier-tools-for-extracting-fb-videos/"><u>Android Developer's Choice Premier Tools for Extracting FB Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/back-in-action-origin-online-sign-in-now-restored/"><u>Back in Action: Origin Online Sign-In Now Restored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-darkness-in-league-of-legends-fixing-black-screens-with-2024-techniques/"><u>Beat the Darkness in League of Legends: Fixing Black Screens with 2024 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/execute-android-software-seamlessly-on-linux/"><u>Execute Android Software Seamlessly on Linux</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960550833-get-up-and-running-quick-download-of-hp-envy-5660-driver-software/"><u>Get Up & Running: Quick Download of HP Envy 5660 Driver Software!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-slash-discords-cpu-usage-in-half-updated-techniques/"><u>How to Slash Discord's CPU Usage in Half - Updated Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/iphone-connectivity-problems-with-itunes-for-windows-10-users-solved/"><u>IPhone Connectivity Problems with iTunes for Windows 10 Users – Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-pathfinder-wrath-of-the-righteous-solutions-for-recurrent-game-crashes/"><u>Mastering Pathfinder: Wrath of the Righteous - Solutions for Recurrent Game Crashes</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complexes-stutter-bug-fixed-a-comprehensive-guide/"><u>NieR: Shadow Complexes Stutter Bug Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/simplified-steps-for-snapchat-lens-design/"><u>Simplified Steps for Snapchat Lens Design</u></a></li>
+<li><a href="https://fox-http.techidaily.com/strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-football-manager-202n-out-yet-solutions-for-early-access-to-the-game/"><u>Why Isn't Football Manager 202N Out Yet? Solutions for Early Access to the Game</u></a></li>
+</ul></div>
 

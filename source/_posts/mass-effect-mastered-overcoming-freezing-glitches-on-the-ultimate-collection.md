@@ -1,7 +1,7 @@
 ---
 title: "Mass Effect Mastered: Overcoming Freezing Glitches on the Ultimate Collection"
-date: 2024-08-19T16:56:06.184Z
-updated: 2024-08-20T16:56:06.184Z
+date: 2024-11-19T20:52:59.412Z
+updated: 2024-11-26T22:30:34.611Z
 tags:
   - win11
   - win10
@@ -56,9 +56,18 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
@@ -72,33 +81,20 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once finish, restart your game and see if it works properly.
 
 ### Fix 4: Disable DVR app in Xbox
@@ -115,14 +111,8 @@ Here’s what you can do:
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -132,12 +122,12 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -152,8 +142,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +149,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-future-forward-entertainment-unveiling-the-lg-bp550-update-for-2024/"><u>[New] Future-Forward Entertainment Unveiling the LG BP550 Update for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-from-pc-to-tablet-master-recording-hulu-across-all-platforms/"><u>[Updated] In 2024, From PC to Tablet Master Recording Hulu Across All Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-harmony-hearts-the-ideal-playlist-for-a-life-changing-kiss/"><u>[Updated] In 2024, Harmony Hearts The Ideal Playlist for a Life-Changing Kiss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-to-top-sierra-dvd-makers/"><u>2024 Approved Ultimate Guide to Top Sierra DVD Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/easy-guide-setting-up-misfit-addons-with-kodi-custom-build/"><u>Easy Guide: Setting Up Misfit Addons with Kodi Custom Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-issue-of-your-pacific-vehicle-not-starting-here/"><u>Fix the Issue of Your Pacific Vehicle Not Starting Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-needed-overcoming-launch-issues-in-age-of-empires-4/"><u>Fixes Needed: Overcoming Launch Issues in Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-obs-studio-crashes-on-windows-10-and-11-updated-guide-2024/"><u>Fixing Obs Studio Crashes on Windows 10 & 11 (Updated Guide, 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-game-stability-enhanced-no-more-unexpected-shutdowns-in-version/"><u>Football Manager Game Stability Enhanced - No More Unexpected Shutdowns in Version #</u></a></li>
+<li><a href="https://fox-http.techidaily.com/groundbreaking-gear-for-virtual-reality-players/"><u>Groundbreaking Gear for Virtual Reality Players</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protective-coatings-and-linings-provide-barriers-against-environmental-exposure-or-release-inhibitors-to-slow-down-electrochemical-reactions/"><u>Protective Coatings and Linings Provide Barriers Against Environmental Exposure or Release Inhibitors to Slow Down Electrochemical Reactions.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-regain-your-login-privileges-on-origin-today/"><u>Resolved Issue: Regain Your Login Privileges on Origin Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/setting-up-pip-mode-on-ios-youtubes-picture-in-picture-for-2024/"><u>Setting up PIP Mode on iOS YouTube's Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilizing-your-gameplay-addressing-total-war-warhammer-ii-performance-errors/"><u>Stabilizing Your Gameplay: Addressing Total War: Warhammer II Performance Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-solving-latency-issues-and-enhancing-your-rainbow-six-siege-experience/"><u>The Ultimate Guide to Solving Latency Issues & Enhancing Your Rainbow Six Siege Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-tackling-high-processor-usage/"><u>Troubleshooting Phasmophobia: Tackling High Processor Usage</u></a></li>
+</ul></div>
 

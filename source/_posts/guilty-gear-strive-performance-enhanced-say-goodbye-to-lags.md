@@ -1,7 +1,7 @@
 ---
 title: "Guilty Gear Strive Performance Enhanced: Say Goodbye to Lags!"
-date: 2024-11-09T17:32:07.716Z
-updated: 2024-11-16T20:46:48.920Z
+date: 2024-11-22T22:34:16.668Z
+updated: 2024-11-26T19:42:56.887Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b3a280654f3cc4ecaa0af8b47827af91d1bc68ec5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dark Souls 3 crashing
 
  Here are solutions to fix Dark Souls 3 crashing on PC. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -33,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/b3a280654f3cc4ecaa0af8b47827af91d1bc68ec5
 3. [Update your video driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Disable overlays for your game
 
@@ -62,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/b3a280654f3cc4ecaa0af8b47827af91d1bc68ec5
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -92,22 +93,23 @@ thumbnail: https://thmb.techidaily.com/b3a280654f3cc4ecaa0af8b47827af91d1bc68ec5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -125,13 +127,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -147,16 +142,7 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -170,10 +156,7 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click on**Dark Souls 3** , and click**Properties** .
@@ -209,24 +192,21 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-lost-ark-fps-drop-and-performance-issue/"><u>[FIXED] Lost Ark FPS Drop & Performance Issue</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[New] 2024 Approved Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-be-a-virtual-visitor-in-friendly-tiktok-streams/"><u>[New] In 2024, How to Be a Virtual Visitor in Friendly TikTok Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-when-your-minecraft-game-gets-stuck-at-startup-screen/"><u>Effective Remedies When Your Minecraft Game Gets Stuck at Startup Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-eliminate-game-lag-in-outriders-for-windows-users/"><u>Effective Solutions to Eliminate Game Lag in Outriders for Windows Users</u></a></li>
-<li><a href="https://solve-help.techidaily.com/effizientes-umwandeln-von-mkv-in-avi-format-durch-den-premium-winx-hd-video-konverter-perfekt-fur-filmliebhaber-und-videoprofis/"><u>Effizientes Umwandeln Von MKV in AVI Format Durch Den Premium-WinX HD Video-Konverter: Perfekt Für Filmliebhaber Und Videoprofis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-history-of-googles-messaging-and-video-call-platform-hangouts/"><u>Exploring the History of Google's Messaging and Video Call Platform: Hangouts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-freezing-issues-in-modern-warfare-for-pc-gamers/"><u>Fixing Freezing Issues in Modern Warfare for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-logitech-options-on-windows-a-comprehensive-guide/"><u>Fixing Issues with Logitech Options on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-selection-7-best-mac-video-apps/"><u>In 2024, Ideal Selection 7 Best Mac Video Apps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/innovative-orderings-in-youtube-music-playlists/"><u>Innovative Orderings in YouTube Music Playlists</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-audio-configuration-errors-in-itunes/"><u>Resolved: Fixing Audio Configuration Errors in iTunes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simple-guide-how-to-deactivate-voice-navigation-on-a-samsung-tv-model/"><u>Simple Guide: How to Deactivate Voice Navigation on a Samsung TV Model</u></a></li>
-<li><a href="https://program-issues.techidaily.com/skyrim-muted-heres-how-to-bring-back-game-sounds/"><u>Skyrim Muted? Here's How to Bring Back Game Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-game-woes-fixing-maplestory-freezing-issues-in-windows-10/"><u>Solve Your Game Woes: Fixing MapleStory Freezing Issues in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-tackle-high-latency-in-your-chivalry-2-gaming-experience-new-techniques-unveiled/"><u>Step-by-Step Solutions to Tackle High Latency in Your Chivalry 2 Gaming Experience (New Techniques Unveiled)</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-2024-playbook-optimizing-discord-to-lower-high-cpu-demands/"><u>The 2024 Playbook: Optimizing Discord to Lower High CPU Demands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-6-hdmi-21-screens-detailed-feature-rundown/"><u>Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhancing-instagram-experience-with-in-story-captions/"><u>[Updated] 2024 Approved Enhancing Instagram Experience with In-Story Captions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-counteract-fake-views-boosting-genuine-audience-size/"><u>[Updated] Counteract Fake Views Boosting Genuine Audience Size</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-linking-made-simple-and-irreversible/"><u>2024 Approved TikTok Linking Made Simple and Irreversible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-5-stability-guide-resolving-pc-performance-and-crash-problems/"><u>Battlefield #5 Stability Guide - Resolving PC Performance and Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-launch-errors-for-saints-row-game-on-windows-platform/"><u>Diagnosing and Repairing Launch Errors for Saints Row Game on Windows Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/directx-errors-no-more-troubleshooting-guide-for-fifa-20-gamers/"><u>DirectX Errors No More - Troubleshooting Guide for FIFA 20 Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-fixing-stutter-and-boosting-frame-rates-in-the-division-2s-latest-update/"><u>Expert Guide: Fixing Stutter and Boosting Frame Rates in The Division 2'S Latest Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-strategies-to-overcome-battlefield-n-2042-directx-compatibility-concerns/"><u>Expert Strategies to Overcome Battlefield N 2042 DirectX Compatibility Concerns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-gaming-a-step-by-step-guide-to-overcoming-roblox-startup-problems/"><u>Get Back to Gaming: A Step-by-Step Guide to Overcoming Roblox Startup Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-rogue-company-continuous-crashes-on-windows-and-macs/"><u>How to Resolve Rogue Company Continuous Crashes on Windows and Macs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-13c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi 13C Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-techniques-for-black-screen-malfunctions-in-zoom-pc-your-essential-2eusue-guide/"><u>Mastering Troubleshooting Techniques for Black Screen Malfunctions in Zoom (PC) – Your Essential 2Eusue Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps/"><u>New The Ultimate Guide to Animated Text in Video Best Mobile Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/secrets-for-effective-youtube-screen-recording/"><u>Secrets for Effective YouTube Screen Recording</u></a></li>
 </ul></div>
 

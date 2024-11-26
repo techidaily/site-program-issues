@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Resolve Your League of Legends Crash Issues Instantly!"
-date: 2024-08-19T16:50:26.634Z
-updated: 2024-08-20T16:50:26.634Z
+date: 2024-11-23T20:00:04.590Z
+updated: 2024-11-26T20:33:22.676Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -92,16 +93,17 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -114,18 +116,12 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -136,6 +132,10 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -145,8 +145,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -178,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-creating-memes-made-easy-using-kinemaster/"><u>[Updated] Creating Memes Made Easy Using KineMaster</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-stabilizing-handheld-gopro-videos-for-2024/"><u>[Updated] Mastering the Art of Stabilizing Handheld GoPro Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-free-enhancement-tool-for-pics-onlineapp/"><u>2024 Approved Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/concoction-station/"><u>Clip Concoction Station</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-eliminate-stuttering-problems-in-csglobal-offensive/"><u>Effortless Solutions to Eliminate Stuttering Problems in CS:Global Offensive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 Pro iOS? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-stop-a-mac-from-going-to-sleep/"><u>How to Stop a Mac From Going to Sleep</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-facebook-cover-videos-tips-and-configuration-guide/"><u>In 2024, Mastering Facebook Cover Videos Tips & Configuration Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-solution-guide-dealing-with-minecrafts-connection-failures/"><u>Master Solution Guide: Dealing with Minecraft’s Connection Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cities-skylines-prevent-and-fix-game-crashes-for-smoother-urban-planning/"><u>Mastering Cities: Skylines : Prevent and Fix Game Crashes for Smoother Urban Planning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-common-problems-in-hearts-of-iron-iv-a-comprehensive-guide/"><u>Resolving Common Problems in Hearts of Iron IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-a-dead-microphone-on-skype-calls/"><u>Step-by-Step Guide to Repairing a Dead Microphone on Skype Calls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999644103-the-ultimate-solution-for-football-manager-2022-not-releasing-now-available/"><u>The Ultimate Solution for Football Manager 2022 Not Releasing - Now Available!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-success-with-the-right-networking-choice/"><u>Unlocking YouTube Success with the Right Networking Choice</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Network Issues: A Fix for Discord Packet Loss Problems"
-date: 2024-08-19T16:51:51.594Z
-updated: 2024-08-20T16:51:51.594Z
+date: 2024-11-19T20:44:31.636Z
+updated: 2024-11-26T20:28:03.887Z
 tags:
   - win11
   - win10
@@ -52,18 +52,12 @@ Recently, many players are reporting the**_STAR WARS Jedi: Fallen Order_** not l
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -71,9 +65,6 @@ Recently, many players are reporting the**_STAR WARS Jedi: Fallen Order_** not l
 
 If your game still won’t launch, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run your game as an administrator
 
 **_STAR WARS Jedi: Fallen Order_** may not be able to access certain game files on your PC if you’re on a standard user account. To see if that’s the cause of your issue, try running your game as an administrator to give it high integrity access. Here is how to do it:
@@ -84,6 +75,10 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-07-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-07-18.jpg)
@@ -92,9 +87,6 @@ If your game still won’t launch, then go ahead with the fix below.
 
 If this doesn’t work for you, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of your game files
 
  If**_STAR WARS Jedi: Fallen Order_** still won’t launch, you may have one or more corrupted game files that conflict with the game. Try verifying the integrity of your game files on Steam to see if that’s the cause of your problem. Here is how to do it:
@@ -105,27 +97,21 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Right-click**STAR WARS Jedi: Fallen Order** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-44-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  This could take several minutes. Wait for the process to be complete. Then, relaunch your game to test your issue.
 
 If your game is still unplayable, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off unnecessary programs
 
@@ -150,9 +136,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Try relaunching your game to see if this has resolved your issue. If this didn’t help, try **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### If you’re on Windows 8 or 10…
@@ -171,14 +154,8 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  If you still can’t launch**_STAR WARS Jedi: Fallen Order_** after the reboot, read on and try fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking your CPU
 
  An unstable overclock will crash your game and the whole system. If you overclocked your GPU, that may be the issue. So, you should set your CPU clock speed rate back to the default to see if it fixes your issue.
@@ -205,24 +182,18 @@ If your issue continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory to three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -237,9 +208,6 @@ If your issue continues to occur, go to the next fix.
 
 If your issues still exist, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s likely that a recent update is causing this issue for you and a new update is needed to fix it. Follow the instructions below to check for Windows updates:
@@ -252,14 +220,8 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Restart your computer after the update is complete, then relaunch your game. If the issue persists, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall your game
 
  This issue might occur when your game is not properly installed on your PC. If you’re playing the game on Steam, follow the instructions below to reinstall your game:
@@ -272,23 +234,12 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Highlight the**STAR WARS Jedi: Fallen Order folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 **5)**  Relaunch Steam to download and reinstall STAR WARS Jedi: Fallen Order. Then, try launching the game again.
 
  So there you have it-8 simple solutions to fix the launching issue on Star Wars Jedi: Fallen Order. Let me know if this worked for you or if you have a better idea of how to fix this issue. I would love your thoughts!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### How to fix the STAR WARS Jedi: Fallen Order launching issue on Xbox One?
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -306,6 +257,10 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-43-17-1024x608.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Wait for **1** minute, then turn**your console** back on.
 
 **3)** Restart your**Xbox One** and your game to test your issue.
@@ -320,9 +275,6 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-26-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-32.jpg)
@@ -331,14 +283,6 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-35-1024x562.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **4)**  Select **Update console.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-50-41.jpg)
@@ -357,9 +301,6 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 **3)** Select **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-23-1024x562.jpg)
@@ -368,13 +309,14 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Select **Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **6)**  Select **Reset and keep my games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-35.jpg)
@@ -393,27 +335,26 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-54-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Press the **A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-54-23-1024x671.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-54-59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)**  Select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-00-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** After the game is uninstalled, insert **the game disk** into the drive to download and reinstall your game.
 
  Hopefully, the game runs properly now! If you have any questions or suggestions, please leave a comment below.
@@ -429,9 +370,6 @@ If your issues still exist, read on and check the fix below.
 3. [**Reinstall**](https://tools.techidaily.com/drivereasy/download/) **[your game](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Restore your PS4 settings to default](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your PS4
 
  One quick fix to common game issues on PS4 is restarting your device. Follow the instructions below:
@@ -446,6 +384,10 @@ If your issues still exist, read on and check the fix below.
 
  If your game still won’t launch, don’t worry! There are still 3 more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your PS4 system software
 
  Outdated system software could also cause _**STAR WARS Jedi**_ to fail. To see if that’s the problem for you, try updating your PlayStation 4 system software. Here is how to do it:
@@ -454,20 +396,18 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-24-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-24-36-1024x217.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-24-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **4)**  Restart your game to see if this resolves your issues.
 
 If your problem persists, move on to the fix below.
@@ -492,9 +432,6 @@ If your problem persists, move on to the fix below.
 
 If your issue still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Restore your PS4 settings to default
 
  If your issue is caused by improper game settings, restoring your device to its default factory settings should be able to fix it. Follow the instructions below to see how to restore your PS4 to its default settings:
@@ -513,20 +450,18 @@ If your issue still exists, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-40-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Select **Restore to Default Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-40-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-40-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **8)**  Restart your game.
 
  Hopefully, one of the fixes above helped in resolving your issue! Feel free to leave a comment below if you have any questions or suggestions, and we’ll see what more we can do.
@@ -542,8 +477,6 @@ If your issue still exists, try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -551,4 +484,24 @@ If your issue still exists, try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-insta-facebook-connection-essentials/"><u>[Updated] 2024 Approved Insta-Facebook Connection Essentials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-chords-to-chart-toppers-essential-musician-focused-youtube-content-for-2024/"><u>[Updated] From Chords to Chart-Toppers Essential Musician-Focused YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-periscope-understanding-features-pricing-and-registration-steps-for-2024/"><u>[Updated] Navigating Periscope Understanding Features, Pricing & Registration Steps for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-realme-c53-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Realme C53 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/audio-anomaly-resolved-a-guide-to-restoring-lost-arks-missing-sounds/"><u>Audio Anomaly Resolved: A Guide to Restoring Lost Ark's Missing Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-optimization-guide-overcoming-low-frames-per-second-fps-challenges-in-valorant/"><u>Game Optimization Guide: Overcoming Low Frames Per Second (FPS) Challenges in Valorant</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-overwatch-for-2024/"><u>How to Record Overwatch for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-tecno-spark-10c-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Spark 10C Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-c12-plus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia C12 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992899580-iphone-connectivity-problems-with-itunes-for-windows-10-users-solved/"><u>IPhone Connectivity Problems with iTunes for Windows 10 Users – Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-fixing-the-crash-bug-in-manor-lords/"><u>Optimize Your Gaming Experience: Fixing the Crash Bug in Manor Lords</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-black-desert-online-from-crashing-on-your-computer-effective-strategies/"><u>Preventing Black Desert Online From Crashing on Your Computer - Effective Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-when-your-minecraft-game-wont-load/"><u>Step-by-Step Solutions for When Your Minecraft Game Won’t Load</u></a></li>
+<li><a href="https://techidaily.com/top-abbyy-papers-innovations-in-smart-process-automation/"><u>Top ABBYY Papers : Innovations in Smart Process Automation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-optimize-your-minecraft-gameplay-speed-on-windowsmac-2023-tips/"><u>Troubleshoot and Optimize Your Minecraft Gameplay Speed on Windows/Mac (2023 Tips)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-wont-open-master-these-essential-troubleshooting-steps-for-windows-users/"><u>Valorant Won't Open? Master These Essential Troubleshooting Steps for Windows Users</u></a></li>
+</ul></div>
 

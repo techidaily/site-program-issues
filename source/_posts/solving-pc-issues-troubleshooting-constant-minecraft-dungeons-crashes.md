@@ -1,7 +1,7 @@
 ---
 title: "Solving PC Issues: Troubleshooting Constant Minecraft Dungeons Crashes"
-date: 2024-08-19T16:57:39.433Z
-updated: 2024-08-20T16:57:39.433Z
+date: 2024-11-22T18:53:19.985Z
+updated: 2024-11-26T19:57:38.678Z
 tags:
   - win11
   - win10
@@ -17,12 +17,20 @@ thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae77077
 
 In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-us?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=33956bcb55d4452d8c47e16b94e294bd)**  is able to provide players with a smooth gaming experience without much glitches. But when the new updates were rolled out several days ago, some players found it difficult to bypass the loading screen. To troubleshoot the issue, we’ve gathered some methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
 1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Verify integrity of game files
 
@@ -32,6 +40,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
   
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
@@ -40,9 +52,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
@@ -82,9 +91,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -95,16 +101,10 @@ Here’s how to update drivers with Driver Easy:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
@@ -112,6 +112,10 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable firewall and antivirus software
 
@@ -124,19 +128,21 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
  Also, if you have any antivirus software installed on your system, make sure you click on the **up arrow icon** near the system tray, right-click on the program, and choose the option to disable or exit the program.
@@ -153,8 +159,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +166,17 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-minecraft-on-mac-for-2024/"><u>[New] How to Record Minecraft on Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-youtube-video-speed-fast-render-and-upload-techniques/"><u>[Updated] 2024 Approved Enhance YouTube Video Speed - Fast Render and Upload Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/college-comeback-score-top-discounts-on-laptops-and-tablets-from-samsung-zdnet/"><u>College Comeback? Score Top Discounts on Laptops & Tablets From Samsung | ZDNET</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-7-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 7 Plus?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-get-logitech-devices-working-perfectly-on-windows-systems/"><u>Mastering the Fixes to Get Logitech Devices Working Perfectly on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-fixing-low-frame-rates-in-forza-horizon-5-for-pc-gaming/"><u>Optimizing Your Experience: Fixing Low Frame Rates in Forza Horizon 5 for PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-2022-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 2022 Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-how-to-repair-content-warning-in-voice-chats-that-arent-working/"><u>Step-by-Step Solutions: How to Repair 'Content Warning' In Voice Chats That Aren't Working</u></a></li>
+</ul></div>
 

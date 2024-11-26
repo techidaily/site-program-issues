@@ -1,7 +1,7 @@
 ---
 title: Warped in Ice? Thaw Your Stalled Cyberpunk 2Erpunk 2077 Experience Now!
-date: 2024-08-19T16:56:51.031Z
-updated: 2024-08-20T16:56:51.031Z
+date: 2024-11-23T20:04:42.690Z
+updated: 2024-11-26T22:10:36.300Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For mouse/keyboard users
 
 If you’re not using the controller, check the below settings.
@@ -50,17 +54,23 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,25 +79,18 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -115,16 +118,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -139,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +147,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>[Updated] In 2024, The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-clarity-4-steps-to-perfectly-capture-fb-video-calls/"><u>[Updated] Maximizing Clarity 4 Steps to Perfectly Capture FB Video Calls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-skylines-crash-no-more-top-fixes-and-tweaks-for-a-smooth-gaming-experience/"><u>City Skylines Crash No More: Top Fixes and Tweaks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackling-audio-issues-how-to-resolve-windows-107-speaker-distortion-problems/"><u>Crackling Audio Issues: How to Resolve Window's 10/7 Speaker Distortion Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-global-ip-using-command-prompt-on-win/"><u>Deciphering Global IP Using Command Prompt on WIN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2020-stability-improvements-no-more-crashes/"><u>Football Manager 2020 Stability Improvements – No More Crashes!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g-stylus-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G Stylus (2023)? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012617676-stop-playing-games-with-your-pc-resolve-ascent-crashing-issues-now/"><u>Stop Playing Games With Your PC: Resolve Ascent Crashing Issues Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-video-sharing-zoom-and-tiktok-harmony-for-2024/"><u>Streamlining Video Sharing Zoom and TikTok Harmony for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210197227-9781577151548-the-complete-book-of-birthdays/"><u>The Complete Book of Birthdays | Free Book</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-framework-for-high-quality-streaming-archiving/"><u>The Framework for High-Quality Streaming Archiving</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-freezes-in-halo-3-for-pc-players/"><u>Troubleshooting Continuous Freezes in Halo 3 for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-freezes-for-sovled-necromunda-hired-gun-gaming-experience/"><u>Troubleshooting PC Freezes for [SOVLED] Necromunda: Hired Gun Gaming Experience</u></a></li>
+</ul></div>
 

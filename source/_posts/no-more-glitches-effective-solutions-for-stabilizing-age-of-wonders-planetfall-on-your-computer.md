@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-11-16T04:39:00.185Z
-updated: 2024-11-17T09:19:37.391Z
+date: 2024-11-24T17:04:13.439Z
+updated: 2024-11-26T23:27:14.846Z
 tags:
   - win11
   - win10
@@ -87,28 +87,22 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -123,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -130,10 +128,7 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -156,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -168,23 +167,9 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,15 +193,17 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-achieving-soft-sound-dissolution-in-audacity-for-2024/"><u>[Updated] Achieving Soft Sound Dissolution in Audacity for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-digital-dominance-highest-viewed-youtube-videos-today/"><u>[Updated] Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-icy-images-a-detailed-look-at-monitoring-summer-snacks-for-2024/"><u>[Updated] Icy Images A Detailed Look at Monitoring Summer Snacks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-persistent-dota-2-software-errors/"><u>Expert Advice on Fixing Persistent Dota 2 Software Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-your-broken-hp-visual-output-resolved/"><u>Expert Tips for Restoring Your Broken HP Visual Output [RESOLVED]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-zooming-in-on-videoleap-videos/"><u>Expert Tips Zooming In on Videoleap Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-crashing-process-error-unreal-process-has-crashed-in-outriders-ue4/"><u>How to Fix the Crashing Process Error ('Unreal Process Has Crashed') In Outriders (UE4)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>In 2024, Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-video-on-the-go-how-to-speed-up-playback-in-quicktime-player/"><u>New In 2024, Video on the Go How to Speed Up Playback in QuickTime Player</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tormented-souls-game-crashes-fix-and-optimize-performance-on-your-pc/"><u>Tormented Souls Game Crashes - Fix & Optimize Performance on Your PC</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ideal-tools-for-secure-vimeo-downloads/"><u>[New] In 2024, Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-openings-elevate-your-contents-impact/"><u>[New] Top 15 YouTube Openings Elevate Your Content's Impact</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[Updated] 2024 Approved The Role of Creative Commons in YouTube Content Sharing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-screen-recording-software-a-comprehensive-analysis-for-2024/"><u>Essential Screen Recording Software A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-n-forge-a-flawless-gaming-experience-tips-to-stop-your-pc-crashing-mid-game/"><u>Fallout N' Forge a Flawless Gaming Experience - Tips To Stop Your PC Crashing Mid-Game</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s21-fe-5g-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S21 FE 5G (2023)with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s18-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S18 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-pilots-best-friend-critical-uav-addons-and-replacements/"><u>In 2024, A Pilot's Best Friend Critical UAV Addons and Replacements</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-spark-conversation-with-personalized-instagram-story-queries/"><u>In 2024, Spark Conversation with Personalized Instagram Story Queries</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resurrecting-sluggish-rust-code-master-techniques-to-get-back-on-track/"><u>Resurrecting Sluggish Rust Code? Master Techniques to Get Back On Track</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-launch-problems-with-resident-evil-village/"><u>Troubleshooting Guide - Resolving Launch Problems with Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-content-warning-issues-in-voice-chats/"><u>Troubleshooting Guide: Resolving 'Content Warning' Issues in Voice Chats</u></a></li>
 </ul></div>
 

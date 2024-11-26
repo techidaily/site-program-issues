@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Getting 'Wolcen: Lords of Mayhem' Running After Failed Startup"
-date: 2024-08-19T16:52:18.115Z
-updated: 2024-08-20T16:52:18.115Z
+date: 2024-11-23T21:40:59.952Z
+updated: 2024-11-26T17:26:48.490Z
 tags:
   - win11
   - win10
@@ -68,15 +68,13 @@ Here are the minimum and recommended system requirements for Stray:
 2. Click**Compatibility** . Then check the box**Run this program as an administrator** , and click**Apply** and**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_16-55-36.jpg)
 3. Now you can launch the game in the way you normally do.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if the game still has the launching or crashing problem. If this fix doesn’t work for you, try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 Update graphics driver
 
  Updating drivers should always be your go-to option when something goes wrong. Stray not launching woe is probably being caused by GPU driver problems. So you should update your drivers to see if things go better.
@@ -98,9 +96,6 @@ Here are the minimum and recommended system requirements for Stray:
 
  Reboot your computer to make changes apply. Then reopen the game to check for improvement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3 Verify integrity of game files
 
  One of the possible causes of game launching issues is missing or corrupted game files. Luckily, many PC clients allow you to verify the integrity of game files through the library:
@@ -110,6 +105,10 @@ Here are the minimum and recommended system requirements for Stray:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 3. Select**LOCAL FILES** on the left and click**Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will run its program to verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the launching issue is gone.
 
@@ -125,10 +124,11 @@ Here is how it works:
 2. Open it and run a free scan for your computer (approx. 5 minutes).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. After the scan, check the generated summary and click**Start Repair** to start your fixing process (and you’ll need to pay for that).  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After purchasing, you’ll get a license key applicable for**one year** and free technical support. It also offers a**60-day money-back** guarantee, so don’t hesitate to contact them if needed.
 
@@ -144,7 +144,15 @@ If this method fails to help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-not-launching.jpg)
 4. Relaunch Steam.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have disabled apps and Steam, open the game for checking the Stray startup issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 Update DirectX
 
@@ -154,6 +162,11 @@ If this method fails to help, move to the next fix.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_11-49-42.jpg)
 3. Check your DirectX version in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_11-50-29.jpg)
 
  If DirectX 12 is equipped on your PC, you can continue to try[Fix 7](https://tools.techidaily.com/drivereasy/download/) .
@@ -165,10 +178,11 @@ If this method fails to help, move to the next fix.
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-02-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Follow the on-screen instructions so that Windows update can download and install DirectX automatically for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 Install Microsoft Visual C++ Redistributables
 
@@ -179,33 +193,22 @@ If this method fails to help, move to the next fix.
 2. Click**Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-13.jpg)
 3. Click**Programs and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-23.jpg)
 4. Check your Microsoft Visual C++ Redistributable version.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you find your Microsoft Visual C++ Redistributables are outdated, head to[**Microsoft website**](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) to get it updated.
 
  Click specific link to download the latest Microsoft Visual C++ Redistributable packages. After that, open the downloaded file and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Restart your computer to make changes apply.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 8 Close background processes
 
  Stray not launching easily occurs when there are too many programs running in the background. That’s because few system resources are distributed to the game. To solve this, you can close unwanted processes and set the game with high priority:
@@ -213,14 +216,13 @@ Restart your computer to make changes apply.
 1. Right-click the Windows taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. Choose the processes consuming too many resources, and then click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Click the**Detail** tab. Right-click**Stray.exe** and set its priority to**High** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/game-stuttering-10.jpg)
 
 Return to the game to check if the problem is solved.
@@ -234,16 +236,10 @@ Return to the game to check if the problem is solved.
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-02-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once it located any updates available, follow the on-screen instruction to update them. After that, restart your PC and launch Stray again.
 
 Still no luck? Try the final fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 10**Turn off firewall and antivirus temporarily**
 
  If none of the above methods work, give a shot to this one. Sometimes, your firewall or antivirus might work overly, resulting in slow or restricted data transfer. And it may hinder the Steam game. To figure out if the firewall or antivirus is the root cause, you can disable them temporarily:
@@ -253,31 +249,23 @@ Still no luck? Try the final fix below.
 1. Type **defender firewall** in the Windows search bar. Then click **Windows Defender Firewall** from the Best match.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/firewall-1.jpg)
 2. Click **Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/firewall-2.jpg)
 3. Turn off the firewall in the **domain** , **private**  and **public**  networks. Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/firewall-3.jpg)
 4. Press the **Windows logo key** and **I** on the keyboard to launch Settings. Choose **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/setting-updatesecurity-1.jpg)
 5. Choose the **Windows Security** tab, and then **Open Windows Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-14_10-37-08.jpg)
 6. Click **Virus & threat protection** on the left panel, then click **Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-14_10-40-43.jpg)
 7. Turn off**Real-time protection** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-14_10-36-45.jpg)
 8. Disable third-party antivirus (if any) based on their guide.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Open the game to see if it can launch properly.
 
@@ -294,8 +282,6 @@ Open the game to see if it can launch properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -303,4 +289,18 @@ Open the game to see if it can launch properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/orldwide-web-watchers-10-top-youtube-stars-for-2024/"><u>[New] Worldwide Web Watchers 10 Top YouTube Stars for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987437454-ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC – 9 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-disruption-in-city-skylines-proactive-tactics-to-resolve-crash-issues-updated/"><u>Avoiding Disruption in City Skylines: Proactive Tactics to Resolve Crash Issues (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/evil-genius-2-fixed-restoring-audio-how-to-solve-the-silent-game/"><u>Evil Genius 2 Fixed: Restoring Audio - How to Solve the Silent Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-on-correcting-the-issue-of-a-nonfunctional-camera-in-google-meet/"><u>Guide on Correcting the Issue of a Nonfunctional Camera in Google Meet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jocular-video-hacker-review-for-2024/"><u>Jocular Video Hacker Review for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/prime-time-podcasting-release-patterns/"><u>Prime Time Podcasting Release Patterns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-issue-stop-flickering-mouse-pointer-on-your-screen/"><u>Resolve the Issue: Stop Flickering Mouse Pointer on Your Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-face-id-issues-discover-14-proven-solutions-to-get-it-running-smoothly/"><u>Struggling with Face ID Issues? Discover 14 Proven Solutions to Get It Running Smoothly</u></a></li>
+<li><a href="https://win-help.techidaily.com/tutochef-comment-recouvrer-vos-images-jpeg-sans-cout/"><u>Tutochef: Comment Recouvrer Vos Images JPEG Sans Coût</u></a></li>
+</ul></div>
 

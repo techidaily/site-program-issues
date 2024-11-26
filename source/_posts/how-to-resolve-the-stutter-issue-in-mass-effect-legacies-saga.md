@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Stutter Issue in Mass Effect Legacies Saga
-date: 2024-08-19T16:57:03.058Z
-updated: 2024-08-20T16:57:03.058Z
+date: 2024-11-22T20:33:07.555Z
+updated: 2024-11-26T21:06:55.071Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
@@ -64,8 +68,9 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
@@ -86,6 +91,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
@@ -98,6 +107,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart your network
 
  The Fallout 76 won’t connect to server issue may be a glitch caused by your router. So you can restart your modem to see if it fixes the issue.
@@ -108,16 +121,10 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _wireless router_
 
  2) Wait**60 seconds** for your modem (and your wireless router) to cool off.
@@ -139,18 +146,15 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
@@ -171,9 +175,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
@@ -195,30 +196,37 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Restart your computer for the changes to take effect.
 
 8) Launch Fallout 76 to see if it connects to game server properly.
@@ -227,9 +235,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Is Fallout 76 down?
 
  If you’ve exhausted all the solutions above but the problem is still not resolved, then it’s probably a server outage with the game. You can check Fallout 76 official[**Facebook**](https://www.facebook.com/fallout76/) or**[Twitter](https://twitter.com/fallout?lang=en)** to see if it is down and wait until the game is fully restored.
@@ -248,8 +253,6 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +260,20 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/arnings-estimation-a-trifecta-of-tips-and-strategies-for-tracking-your-youtube-earnings/"><u>[New] Earnings Estimation A Trifecta of Tips and Strategies for Tracking Your YouTube Earnings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-edits-mastering-picart-backdrop-removal/"><u>[Updated] 2024 Approved Cutting-Edge Edits Mastering PicArt Backdrop Removal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-revamping-educational-experiences-through-vr/"><u>[Updated] 2024 Approved Revamping Educational Experiences Through VR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-easy-to-use-onboard-shake-reduction-gadget/"><u>[Updated] Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-evaluating-the-latest-in-camcorders-and-live-streaming-tech-for-2024/"><u>[Updated] Evaluating the Latest in Camcorders and Live Streaming Tech for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>[Updated] How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-to-stop-your-discord-app-from-unexpectedly-quitting-during-online-gaming-broadcasts/"><u>Comprehensive Fixes to Stop Your Discord App From Unexpectedly Quitting During Online Gaming Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-grove-to-success-tips-for-overcoming-launch-difficulties/"><u>Forza Horizon Grove to Success: Tips for Overcoming Launch Difficulties</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-brother-hl-l2340dw-printer-in-windows-download-guide-and-files/"><u>How to Install Brother HL-L2340DW Printer in Windows - Download Guide & Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-system-performance-by-fixing-wsappxs-heavy-disk-and-cpu-demands/"><u>How to Optimize System Performance by Fixing WSAPPX's Heavy Disk & CPU Demands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/samurai-warriors-5-on-pc-resolving-unexpected-crashes-and-freezes/"><u>Samurai Warriors 5 on PC - Resolving Unexpected Crashes and Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-mass-effect-legendary-edition-heres-how-to-fix-it/"><u>Trouble with Mass Effect Legendary Edition? Here's How to Fix It!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-logitech-g533-mic-solutions-revealed/"><u>Troubleshooting a Nonfunctional Logitech G533 Mic - Solutions Revealed</u></a></li>
+</ul></div>
 

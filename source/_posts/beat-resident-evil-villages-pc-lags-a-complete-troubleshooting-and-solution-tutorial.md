@@ -1,7 +1,7 @@
 ---
 title: "Beat Resident Evil Village's PC Lags: A Complete Troubleshooting and Solution Tutorial"
-date: 2024-08-19T16:55:04.385Z
-updated: 2024-08-20T16:55:04.385Z
+date: 2024-11-23T18:22:28.159Z
+updated: 2024-11-26T18:45:34.764Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
@@ -56,9 +60,6 @@ To check the specs of your PC:
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  Device drivers are essential to the functioning of your computer system. If your Scavenger game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,19 +72,20 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -123,18 +125,25 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With the latest DirectX, check to see if Scavengers still crashes.
@@ -153,9 +162,6 @@ Here’s how to close background apps:
 3. Restart your computer.
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  Many players have overlocked their CPU or GPU to squeeze extra performance out of the existing components. The downside is that, high clock speed may induce stability issues and even crashes to your system.
@@ -174,8 +180,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +187,26 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-low-cost-cameras-that-dont-compromise-quality/"><u>[New] 2024 Approved Low-Cost Cameras That Don't Compromise Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elevate-your-phones-alerts-personalizing-ringtones-and-sounds-on-android-for-2024/"><u>[New] Elevate Your Phone's Alerts Personalizing Ringtones & Sounds on Android for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-igtv-shutdown-for-beginners/"><u>[New] In 2024, IGTV Shutdown for Beginners</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-iphones-guide-to-night-photography-excellence/"><u>[New] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reviewing-acid-pro-seeking-substitutes/"><u>[Updated] Reviewing ACID Pro Seeking Substitutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-fallout-76-initialization-failure-and-launch-challenges-effectively/"><u>Addressing Fallout 76 Initialization Failure and Launch Challenges Effectively</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210685438-9781591434993-angel-abundance/"><u>Angel Abundance | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-performance-tips-to-minimize-lag-and-improve-fps-in-fall-guys/"><u>Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-tips-correcting-recurring-crashes-in-ark-program/"><u>Comprehensive Troubleshooting Tips: Correcting Recurring Crashes in ARK Program</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/costly-barriers-prevent-legacy-iphones-from-getting-new-apple-ai-innovations-insights-for-tech-enthusiasts/"><u>Costly Barriers Prevent Legacy iPhones From Getting New Apple AI Innovations – Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-internet-explorer-malfunctions-effective-strategies-for-quick-restoration/"><u>Dealing with Internet Explorer Malfunctions: Effective Strategies for Quick Restoration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-a-smooth-experience-with-spellbreak-on-windows/"><u>Essential Fixes for a Smooth Experience with Spellbreak on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/final-glazing/"><u>Final Glazing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a1x-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A1x 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008529620-optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-launch-issues-with-war-thunder-202n4-troubleshooting-tips/"><u>Resolving Persistent Launch Issues with War Thunder 202N4 - Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/save-your-favorite-songs-from-aol-radio-as-various-file-types-such-as-wav-wma-or-flac-for-superior-sound-quality/"><u>Save Your Favorite Songs From AOL Radio as Various File Types Such as WAV, WMA, or FLAC for Superior Sound Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/version-confirmation-issue-for-players-of-ffxiv/"><u>Version Confirmation Issue for Players of FFXIV</u></a></li>
+</ul></div>
 

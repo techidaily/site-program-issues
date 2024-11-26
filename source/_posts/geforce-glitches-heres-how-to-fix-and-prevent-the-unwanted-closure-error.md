@@ -1,7 +1,7 @@
 ---
 title: GeForce Glitches? Here's How to Fix and Prevent the Unwanted Closure Error!
-date: 2024-08-19T16:54:44.464Z
-updated: 2024-08-20T16:54:44.464Z
+date: 2024-11-19T20:49:45.555Z
+updated: 2024-11-26T19:06:58.722Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
 Wondering how you can fix the error “Unable to launch game, please verify your game data. ” when trying to play**GTA 5** or**Red Dead Redemption 2** ? You’re on the right page to get your answers! In our article, we’ll walk you through the whole process to get past this error message.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -29,6 +33,10 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 6. **[Delete the Rockstar Games folders](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Verify your game files
 
@@ -54,6 +62,10 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
@@ -75,12 +87,17 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable background applications
 
@@ -91,8 +108,9 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -100,8 +118,9 @@ Wondering how you can fix the error “Unable to launch game, please verify your
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the launcher as administrator
 
  If your game fails to launch properly, it could be due to the lack of administrative rights. To fix it, try to run the Rockstar Games Launcher as an administrator by following the instructions below.
@@ -110,9 +129,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![run Rockstar Games Launcher with compatibility mode with administrator priviledges](https://images.drivereasy.com/wp-content/uploads/2020/12/select-Properties.png)
 2. In the Properties window, select the**Compatibility** tab. Then check the box next to**Run the program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
 
@@ -120,24 +136,14 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Delete the Rockstar Games folders
 
  If none of the fixes listed above help, you should try deleting the Social Club folder from**Program Files** and**Program Files (x86)** . It’s usually located on**C:\\Program Files\\Rockstar Games** and**C:\\Program Files (x86)\\Rockstar Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
 
  Navigate to**C:\\Users\\\*YourUserName\*\\Documents\\** . Then find the Rockstar Games folder and delete it.
@@ -154,8 +160,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +167,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-easy-audio-capturing-on-non-rooted-android-devices/"><u>[Updated] Easy Audio Capturing on Non-Rooted Android Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-designing-custom-youtube-music-sequences/"><u>[Updated] In 2024, Designing Custom YouTube Music Sequences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011174773-enhanced-performance-fixes-unveiled-play-detroit-become-human-without-crashing-on-your-desktop/"><u>Enhanced Performance Fixes Unveiled: Play 'Detroit: Become Human' Without Crashing on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-repair-steps-for-preventing-pacific-drive-errors-and-crashes-on-pc-systems/"><u>Expert Advice: Repair Steps for Preventing Pacific Drive Errors and Crashes on PC Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-roundup-the-ultimate-guide-to-choosing-a-premium-stylus-tablet-in-2021-insights-from-zdnet/"><u>Experts Roundup: The Ultimate Guide to Choosing a Premium Stylus Tablet in 202([[1]] | Insights From ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-sea-of-thieves-persistent-load-screen-issue/"><u>Fixes for 'Sea of Thieves' Persistent Load Screen Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-spark-20-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Spark 20 Pro+ Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-and-refine-graphics-quality-in-call-of-duty-warzone-pc-guide/"><u>Optimize and Refine Graphics Quality in Call of Duty: Warzone - PC Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-timeout-interruptions-in-file-downloads-best-practices/"><u>Overcoming ‘Timeout’ Interruptions in File Downloads – Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-simple-fixes-for-directx-errors-in-fifa-19-a-step-by-step-guide/"><u>Quick & Simple Fixes for DirectX Errors in FIFA 19: A Step-by-Step Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-omission-in-gfx-sensing/"><u>Rectify Omission in GFX Sensing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-confidentiality-in-an-era-of-customizable-gpt-models-like-chatgpt/"><u>Safeguarding Confidentiality in an Era of Customizable GPT Models Like ChatGPT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels-for-2024/"><u>Your Gateway to YouTube Entrepreneurship The Best 10 Easy-to-Create Channels for 2024</u></a></li>
+</ul></div>
 

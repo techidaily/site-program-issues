@@ -1,7 +1,7 @@
 ---
 title: "Stop DOOM Eternal From Crashing: Step-by-Step Guide"
-date: 2024-08-19T16:53:49.249Z
-updated: 2024-08-20T16:53:49.249Z
+date: 2024-11-23T18:27:00.922Z
+updated: 2024-11-26T19:52:02.240Z
 tags:
   - win11
   - win10
@@ -92,22 +92,11 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a Windows update
 
  The Titanfall 2 crashing issue may also be triggered by the bugs in your OS. Microsoft regularly release Windows updates to repair bugs. To fix the game crashing issue, you can try performing a Windows update. Here’s how to do it:
@@ -115,29 +104,20 @@ Below are the system requirements for Titanfall 2:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest Titanfall 2 patch
 
  The developers of Titanfall 2 release regular game patches to fix bugs. It’s possible that a recent patch has caused the game crashing issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Add Titanfall 2 as an exception to your third-party antivirus application
 
  Your third-party antivirus application can also trigger the Titanfall 2 crashing issue. Since the third-party antivirus application hooks very deep into your system, it may interfere with Titanfall 2.
@@ -149,8 +129,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Repair Titanfall 2
 
  Corrupted games files may also crash Titanfall 2\. In this case, the “Repair Game” feature in Origin may help you resolve the game crashing issues. You can follow the steps below to repair Titanfall 2:
@@ -162,9 +143,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  You may need to **perform a clean boot**  if The Titanfall 2 crashing issue persists. The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can   **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -174,12 +152,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -187,8 +175,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Titanfall 2
 
  If none of the fixes above works, you may need to try reinstalling Titanfall 2\. Here is how to do it:
@@ -198,6 +187,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Uninstall.png)
 4. Download and reinstall Titanfall 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Titanfall 2 to see if this issue persists. If not, congratulations! You’ve resolved this issue.
 
@@ -215,8 +208,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +215,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-secure-surveillance-skills-redacting-and-obscuring-personal-information/"><u>[New] 2024 Approved Secure Surveillance Skills Redacting and Obscuring Personal Information</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-secrets-to-successful-iphone-sound-captures/"><u>[New] Unveiling the Secrets to Successful iPhone Sound Captures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-persistent-crashes-in-call-of-duty-warzone-20-on-desktop-computers/"><u>Effective Solutions for Persistent Crashes in Call of Duty: Warzone 2.0 on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-latency-top-tips-to-fix-counter-strike-2-lag-and-optimize-ping-on-windows-systems/"><u>Eliminate Latency: Top Tips to Fix Counter-Strike 2 Lag and Optimize Ping on Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-blend-into-the-crowd-watching-instagram-live-anonymously-for-2024/"><u>How to Blend Into the Crowd Watching Instagram Live Anonymously for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 With or Without Password</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-a-novices-introduction-to-av1-codec/"><u>In 2024, A Novice's Introduction to AV1 Codec</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-a60-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel A60 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-techniques-to-tackle-non-responsive-rust-applications-pro-tips/"><u>Modern Techniques to Tackle Non-Responsive Rust Applications - Pro Tips</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/next-level-streaming-the-ultimate-review-of-the-chromecast-with-google-tv/"><u>Next-Level Streaming: The Ultimate Review of the Chromecast with Google TV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/now-running-smoothly-solve-your-total-war-saga-troy-pc-glitches-with-latest-update/"><u>Now Running Smoothly: Solve Your Total War Saga: Troy PC Glitches with Latest Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-assassins-creed-valhalla-performance-issues-on-pc/"><u>Resolved: Fixes for Assassin's Creed Valhalla Performance Issues on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-unplanned-automatic-reboots-on-windows-10-fixed/"><u>Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snapchat-camera-woes-solved-restoring-your-devices-camera-functionality/"><u>Snapchat Camera Woes Solved: Restoring Your Device's Camera Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/street-fighter-the-sixth-eliminating-pc-malfunctions-and-stability-issues-revamped/"><u>Street Fighter The Sixth: Eliminating PC Malfunctions & Stability Issues (Revamped)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-oppo-a79-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Oppo A79 5G</u></a></li>
+</ul></div>
 

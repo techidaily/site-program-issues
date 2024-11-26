@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare 2 Won't Start: Troubleshooting and Fixes"
-date: 2024-08-19T16:52:50.737Z
-updated: 2024-08-20T16:52:50.737Z
+date: 2024-11-23T18:14:29.322Z
+updated: 2024-11-26T18:50:42.588Z
 tags:
   - win11
   - win10
@@ -44,9 +44,17 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -60,14 +68,6 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -82,6 +82,10 @@ If this doesn’t do the trick, try the next fix below.
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
@@ -109,22 +113,21 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to update your graphics driver
 
 * [Manually](https://tools.techidaily.com/drivereasy/download/)
@@ -139,15 +142,9 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
 * [NVIDIA](http://www.nvidia.com/drivers)
@@ -170,9 +167,17 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -186,9 +191,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -201,8 +203,6 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +210,20 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-horizon-developer/"><u>[New] Humor Horizon Developer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-15-windows-10-recording-applications-reviewed/"><u>[Updated] 2024 Approved Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/discover-the-ultimate-media-players-5-great-options-besides-flvto-for-seamless-video-streaming/"><u>Discover the Ultimate Media Players: 5 Great Options Besides FLVTO for Seamless Video Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-of-davinci-resolve-not-starting-on-a-windows-pc/"><u>Fixing the Problem of DaVinci Resolve Not Starting on a Windows PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-from-crashing-your-gaming-session-on-pc/"><u>How to Stop Cult of the Lamb From Crashing Your Gaming Session on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-steam-vr-experience-with-these-6-detection-fixes/"><u>Revive Your Steam VR Experience with These 6 Detection Fixes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-media-mastery-how-to-make-a-post-take-off-on-fb-for-2024/"><u>Social Media Mastery How to Make a Post Take Off on FB for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guidelines-for-red-dead-redemption-2s-errgfxstate-graphic-issue/"><u>Solution Guidelines for Red Dead Redemption 2'S ERR_GFX_STATE Graphic Issue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-list-of-exciting-pc-clickers-you-cant-miss/"><u>The Ultimate List of Exciting PC Clickers You Can't Miss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unreadable-fingerprint-in-windows/"><u>Unreadable Fingerprint in Windows</u></a></li>
+</ul></div>
 

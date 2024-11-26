@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent and Fix OBS Applications From Freezing on Your Windows 10/11 Device in 2nD
-date: 2024-11-16T01:59:26.118Z
-updated: 2024-11-16T20:03:18.464Z
+date: 2024-11-20T18:00:53.209Z
+updated: 2024-11-26T17:47:02.403Z
 tags:
   - win11
   - win10
@@ -42,16 +42,7 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
@@ -60,21 +51,11 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
@@ -84,14 +65,11 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
@@ -104,13 +82,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Open your Epic Games Launcher and navigate to the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
@@ -133,17 +104,14 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Increase virtual memory
 
@@ -153,33 +121,35 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
@@ -206,22 +176,22 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ffortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>[New] Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-your-macs-potential-with-sierra-update-steps/"><u>Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000935575-cod-black-ops-cold-war-wont-boot-on-pc-discover-how-to-fix-it/"><u>Cod: Black Ops Cold War Won't Boot on PC? Discover How to Fix It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-update-solves-persistent-centipede-error-for-players/"><u>Destiny 2 Update Solves Persistent Centipede Error for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-instances-when-sons-of-the-forest-keeps-crashing-a-comprehensive-guide/"><u>Fixing PC Instances When 'Sons of the Forest' Keeps Crashing - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-nier-re-release-keeps-failing-to-initialize/"><u>Fixing the Issue: NieR Re-Release Keeps Failing to Initialize</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-play-for-horizon-forbidden-west-on-your-desktop-computer/"><u>How to Ensure Smooth Play for 'Horizon Forbidden West' On Your Desktop Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-150-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 150 (2023) to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-enhancing-engagement-how-to-utilize-youtubes-prominent-channels/"><u>In 2024, Enhancing Engagement How to Utilize YouTube's Prominent Channels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-your-video-game-with-apples-final-cut-for-iphones-create-hollywood-quality-content-digitaltrends/"><u>Master Your Video Game with Apple's Final Cut for iPhones – Create Hollywood-Quality Content! | DigitalTrends</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-remote-connection-fixes-overcoming-communication-barriers-with-servers/"><u>Mastering Remote Connection Fixes: Overcoming Communication Barriers with Servers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/proven-tactics-top-10-secrets-for-novice-vloggers-success/"><u>Proven Tactics Top 10 Secrets for Novice Vloggers' Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-with-starting-steam-titles-on-windows-10-operating-system/"><u>Resolved: Issues with Starting Steam Titles on Windows 10 Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-loading-hang-up-solved-a-step-by-step-guide/"><u>Roblox Loading Hang-Up Solved: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steam-issues-when-starting-games-in-windows-11/"><u>Troubleshooting Steam Issues When Starting Games in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-upgrade-to-spotify-premium/"><u>Why Upgrade to Spotify Premium?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-guides-to-quick-webinar-recording-with-macos-and-windows/"><u>[New] In 2024, Guides to Quick Webinar Recording with macOS and Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-captivating-conversations-mastering-zooms-filter-features/"><u>[Updated] Crafting Captivating Conversations Mastering Zoom's Filter Features</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/4-effective-techniques-for-smooth-file-transfers-to-external-drives/"><u>4 Effective Techniques for Smooth File Transfers to External Drives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-up-stuck-exe-files-on-windows-platform/"><u>Easing Up Stuck EXE Files on Windows Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-assassins-creed-valhalla-from-crashing-on-your-pc/"><u>Fixes and Solutions: Stop Assassin's Creed Valhalla From Crashing on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-y55s-5g-2023-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo Y55s 5G (2023) Phone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-obs-from-crashing-on-your-pc-up-to-date-solutions-for-windows-11-and-10-users/"><u>How to Stop OBS From Crashing on Your PC: Up-to-Date Solutions for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-y78plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo Y78+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-net-vaults-free-unique-ringtone-choices/"><u>In 2024, Optimal Net Vaults Free, Unique Ringtone Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/incompatible-ftdi-device-drivers-trigger-memory-corruption-alerts/"><u>Incompatible FTDI Device Drivers Trigger Memory Corruption Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-unresponsive-chrome-on-windows-11-a-step-by-step-guide/"><u>Quick Fixes for Unresponsive Chrome on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-mastering-stable-playthroughs-for-metro-exodus-on-windows/"><u>Say Goodbye to Crashes: Mastering Stable Playthroughs for Metro Exodus on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210762143-9781787836303-the-little-book-of-daily-rituals/"><u>The Little Book of Daily Rituals | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-undetected-controllers-in-steam-on-pc/"><u>Troubleshooting Guide: Fixing Undetected Controllers in Steam on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unavailable-alan-wake-2-game-overcoming-release-hurdles-with-practical-fixes/"><u>Unavailable Alan Wake 2 Game - Overcoming Release Hurdles with Practical Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheims-persistent-pc-issues-solved-avoid-game-crashes-effortlessly/"><u>Valheim's Persistent PC Issues Solved: Avoid Game Crashes Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-stutter-fixes-eliminate-gameplay-flickers-completely/"><u>Warzone Stutter Fixes - Eliminate Gameplay Flickers Completely</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving 'Lost Ark' Server Connection Issues - Effective Strategies Inside!
-date: 2024-08-19T16:56:26.834Z
-updated: 2024-08-20T16:56:26.834Z
+date: 2024-11-21T21:22:26.802Z
+updated: 2024-11-26T17:01:23.184Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 Sifu
 
 **Sifu** , the hardcore beat ’em up action-adventure game developed and published by French studio Sloclap, is finally out! Just like any other third-person action game that features intense hand-to-hand combat, Sifu’s gaming experience relies heavily on smooth frame rates. If you’re suffering from FPS and performance drops while playing Sifu on your PC, don’t worry! This article will help you fix these issues. After reading it, you should be able to boost the in-game FPS and play it smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,32 +61,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another effcient fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Sifu. If you have a powerful PC, you can skip this fix.
@@ -111,9 +97,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -137,6 +120,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -159,9 +146,14 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -170,8 +162,9 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -179,13 +172,15 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch Sifu to see you can play it smoothly.
 
 ---
@@ -202,8 +197,6 @@ Launch Sifu to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +204,26 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-sections-in-vimeo-videos-for-2024/"><u>[New] Crafting Sections in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-hidden-power-of-instagrams-ask-emoji-for-2024/"><u>[New] Unlocking the Hidden Power of Instagram’s Ask Emoji for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamline-your-roblox-recording-mac-guide/"><u>2024 Approved Streamline Your Roblox Recording Mac Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-up-speed-strategies-to-revive-your-sluggish-pc/"><u>Dial Up Speed: Strategies to Revive Your Sluggish PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-frostpunk-sudden-crashes/"><u>Expert Guide to Resolving Frostpunk Sudden Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-launch-problem-a-comprehensive-guide-to-starting-avatar-frontiers-of-pandora/"><u>Fixing the Launch Problem: A Comprehensive Guide to Starting Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hisense-40-inch-5590f-led-smart-tv-evaluation-great-value-for-the-money/"><u>Hisense 40-Inch 5590F LED Smart TV Evaluation: Great Value for the Money</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a79-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A79 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-steps-to-record-and-screen-capture-ios-2023/"><u>In 2024, Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996362400-lost-arc-game-wont-start-top-fixes-and-workarounds-updated/"><u>Lost Arc Game Won't Start? Top Fixes and Workarounds Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-your-obs-no-more-screen-capture-issues/"><u>Resolved: Fixing Your OBS - No More Screen Capture Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rh5770windowsrtkgraphics/"><u>RH5770WindowsRTKGraphics</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/section-4b-five-factes-to-remember-about-cardiac-remodeling-and-heart-failure/"><u>Section 4B: Five Factes to Remember About Cardiac Remodeling and Heart Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-stability-fixing-manor-lords-pc-issues-and-crashes/"><u>Solutions for Stability: Fixing Manor Lords PC Issues and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997634642-terraria-continues-to-glitch-heres-how-you-can-fix-it-with-simple-hacks/"><u>Terraria Continues to Glitch? Here's How You Can Fix It with Simple Hacks !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-your-counter-strike-global-offensive-csgo-launch-problems/"><u>Ultimate Guide: Solving Your Counter-Strike Global Offensive (CSGO) Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-gtfo-application-disruptions-efficiently/"><u>Understanding and Resolving GTFO Application Disruptions Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-startup-issues-with-warframe/"><u>Understanding and Resolving Startup Issues with Warframe</u></a></li>
+</ul></div>
 

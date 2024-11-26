@@ -1,7 +1,7 @@
 ---
 title: Mastering the Solution to Eliminate SteamVR Error Message 308
-date: 2024-11-16T04:24:56.788Z
-updated: 2024-11-16T19:33:44.628Z
+date: 2024-11-22T20:31:18.859Z
+updated: 2024-11-26T21:10:30.332Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 
 If this didn’t help in resolving your problem, try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: **Run your game as an administrator**
 
  By default, Windows runs programs as a user, with limited permission to access system control. This means that_Terraria_ doesn’t have full access to all game files and folders on your computer.
@@ -58,10 +62,7 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
@@ -71,6 +72,10 @@ If this didn’t help in resolving your problem, try the fix below.
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Update your graphics driver**
 
@@ -89,10 +94,7 @@ If this didn’t help in resolving your problem, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
@@ -126,16 +128,13 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Relaunch your game to see if your problem has been resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game in compatibility mode
 
@@ -145,29 +144,9 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
@@ -178,13 +157,6 @@ If not, try the next fix.
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
 If this didn’t work for you, check the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall your game and/or Steam
 
@@ -207,6 +179,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Download and install _Terraria_  again.
 
  Now, relaunch your game to check if this has fixed your issue. If not, you’ll need to reinstall Steam as well.
@@ -217,6 +193,10 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -225,31 +205,29 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -292,22 +270,19 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-device-companion-for-metaventureers/"><u>[Updated] The Ultimate Device Companion for Metaventureers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-vs-dailymentions-spotting-key-differences/"><u>2024 Approved YouTubes Vs. DailyMentions Spotting Key Differences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-quests-redefining-microsofts-bing-experience/"><u>AI-Powered Quests: Redefining Microsoft's Bing Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amazons-hottest-deals-of-august-2o24-find-the-best-bargains/"><u>Amazon's Hottest Deals of August 2O24: Find the Best Bargains</u></a></li>
-<li><a href="https://program-issues.techidaily.com/baldurs-gate-iii-fixes-how-you-can-now-successfully-start-your-game/"><u>Baldur's Gate III Fixes - How You Can Now Successfully Start Your Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-sons-of-the-forest-gameplay-disruptions-on-pc-effective-solutions-and-advice/"><u>Dealing with 'Sons of the Forest' Gameplay Disruptions on PC - Effective Solutions and Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-problem-of-non-opening-amd-radeon-driver-applications/"><u>Effective Solutions for the Problem of Non-Opening AMD Radeon Driver Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-firefoxs-unexpected-shutdowns-solutions-inside/"><u>Fixing Firefox's Unexpected Shutdowns - Solutions Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-easily-solve-palworlds-search-function-malfunctions/"><u>How to Easily Solve PalWorld's Search Function Malfunctions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 12+ 5G?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-discord-performance-strategies-to-curb-cpu-overuse/"><u>Mastering Discord Performance : Strategies to Curb CPU Overuse</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-discords-cpu-overuse-a-modern-handbook/"><u>Step-by-Step Troubleshooting for Discord's CPU Overuse - A Modern Handbook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/total-byte-requirement-for-24-hours-of-movie-viewing/"><u>Total Byte Requirement for 24 Hours of Movie Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-input-delays-on-pc-for-valorant-players-tips-and-tricks/"><u>Troubleshooting and Resolving Input Delays on PC for Valorant Players - Tips & Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-capturing-lol-showdowns/"><u>[New] 2024 Approved Comprehensive Guide to Capturing LOL Showdowns</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-introduction-to-swift-video-streaming-on-snapchat/"><u>[New] Introduction to Swift Video Streaming on Snapchat</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unravel-the-mystery-of-scouring-exceptional-photos-on-pexels-for-2024/"><u>[New] Unravel the Mystery of Scouring Exceptional Photos on Pexels for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-effective-macscreencasting/"><u>[Updated] 2024 Approved Innovative Strategies for Effective MacScreencasting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2023-dvd/"><u>202^3年上市 - 多功能且高效DVD播放器套件，免費下載體驗未來科技的頂級</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-your-favorite-episodes-with-watch-episodestv-ultimate-media-library-companion/"><u>Download Your Favorite Episodes with Watch-Episodes.TV: Ultimate Media Library Companion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-starfields-pc-compatibility-problem-and-end-the-crashing-woes/"><u>How to Overcome Starfield's PC Compatibility Problem and End the Crashing Woes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-transform-your-videography-youtubes-secret-to-stunning-greenscreens/"><u>In 2024, Transform Your Videography YouTube's Secret to Stunning Greenscreens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-utorrent-not-working-problems-using-these-7-fixes/"><u>Overcome Utorrent Not Working Problems Using These ☑️7 Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/rank-the-best-fb-video-downloaders-heres-how/"><u>Rank the Best FB Video Downloaders - Here's How</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-freezing-issues-in-assassins-creed-odyssey-on-pc-ultimate-guide-and-updates/"><u>Solve 'Freezing Issues in Assassin's Creed Odyssey' On PC: Ultimate Guide and Updates</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/stunning-evaluation-and-different-paths/"><u>Stunning Evaluation & Different Paths</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-lego-star-wars-the-skywalker-sagas-pc-malfunction/"><u>Troubleshooting Guide: Fixing Lego Star Wars: The Skywalker Saga's PC Malfunction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-shader-errors-overcome-black-ops-cold-war-game-freezes/"><u>Troubleshooting Shader Errors - Overcome Black Ops Cold War Game Freezes</u></a></li>
 </ul></div>
 

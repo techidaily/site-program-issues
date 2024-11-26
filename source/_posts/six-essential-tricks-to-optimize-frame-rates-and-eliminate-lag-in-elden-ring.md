@@ -1,7 +1,7 @@
 ---
 title: Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring
-date: 2024-11-10T00:46:43.572Z
-updated: 2024-11-17T00:18:41.373Z
+date: 2024-11-19T18:32:03.030Z
+updated: 2024-11-26T23:12:48.551Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 ## Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments
 
 Stop blaming yourself for losing your temper when the FPS (frame per second) drops in games: only saints can keep calm and cool in that situation. As luck would have it, there are some proven fixes that can help to stop or at least reduce the FPS drops in games, and we’ve gathered them here so you can try them as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for FPS drops in games
 
@@ -53,6 +57,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
  If there are bandwidth-intensive services and applications, like background downloads, music streaming, or video streaming, running when you’re gaming, please disable them, as their occupation of the network connection resource is likely the culprit to your low FPS in games. The same logic goes with CPU-intensive programs like**Intel Turbo Boost Technology** , so if you have it installed and running, please disable it as well.
@@ -66,16 +74,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -93,13 +98,6 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -110,10 +108,7 @@ To do so:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
@@ -136,20 +131,14 @@ To do so:
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -157,22 +146,23 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
 
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
 
@@ -193,6 +183,10 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -203,13 +197,6 @@ and your network card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -234,13 +221,6 @@ To change the power mode:
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
 
@@ -269,20 +249,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-of-digital-distortion-in-minutes-for-2024/"><u>[New] Mastering the Art of Digital Distortion in Minutes for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assessing-the-financial-impact-of-music-videos-for-2024/"><u>Assessing the Financial Impact of Music Videos for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-14-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi 14 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-70-lite-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 70 Lite 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-the-challenges-of-alan-wake-2s-latest-crash-problems/"><u>Navigate the Challenges of Alan Wake 2'S Latest Crash Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-issues-when-attempting-to-play-avatar-frontiers-of-pandora/"><u>Overcoming Issues When Attempting to Play Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/popular-10-music-videos-trending-on-facebook-for-2024/"><u>Popular 10 Music Videos Trending on Facebook for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-frequently-experiences-game-crashes/"><u>Resolved: Why 'Insurgency: Sandstorm' Frequently Experiences Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-stutter-and-lag-in-minecraft-optimizing-performance-for-a-seamless-gameplay-updated-with-latest-strategies-2023/"><u>The Complete Guide to Fixing Stutter and Lag in Minecraft: Optimizing Performance for a Seamless Gameplay (Updated with Latest Strategies, 2023)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-steam-pro-controllers-on-switch-for-2024/"><u>The Ultimate Guide to Steam Pro Controllers on Switch for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-your-guide-to-the-latest-computer-equipment/"><u>Tom's Tech Reviews - Your Guide to the Latest Computer Equipment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-voice-communication-issues-in-among-us-for-windows-users/"><u>Troubleshooting Steps: Resolving Voice Communication Issues in Among Us for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-game-solutions-for-continuous-loading-in-far-cry-5/"><u>Unstick Your Game: Solutions for Continuous Loading in 'Far Cry 5'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-efficient-strategies-to-document-your-google-meeting-sessions/"><u>[New] 2024 Approved Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[New] 2024 Approved Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-encompassing-details-inside-googles-podcast-application/"><u>[New] Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-techniques-for-turning-yt-order-upside-down/"><u>[New] The Top Techniques for Turning YT Order Upside-Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012098142-solved-fortnite-fps-drops-season-8-update/"><u>[SOLVED] Fortnite FPS Drops – Season 8 Update</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spark-your-spirit-a-collection-of-10-uplifting-movies/"><u>[Updated] Spark Your Spirit A Collection of 10 Uplifting Movies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/asmr-and-wellness-what-are-its-promising-side-effects-for-2024/"><u>ASMR & Wellness What Are Its Promising Side-Effects for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-stuck-on-compilers-solving-the-shader-problem-easily/"><u>Black Ops Cold War Stuck on Compilers? Solving the Shader Problem Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chivalry-2-stability-improved-gameplay-enhancement-after-bug-fix/"><u>Chivalry 2 Stability Improved – Gameplay Enhancement After Bug Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragons-treasure-unleashed-mastering-the-art-of-infinity-in-like-a-dragon-on-pc/"><u>Dragon's Treasure Unleashed: Mastering the Art of Infinity in 'Like a Dragon' On PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-5-mac-snipping-utilities-essential-choices/"><u>In 2024, Top 5 Mac Snipping Utilities Essential Choices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pth-earnings-analysis-adsense-payout-for-every-1000-viewers-on-youtube-for-2024/"><u>In-Depth Earnings Analysis AdSense Payout for Every 1,000 Viewers on YouTube for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/in-depth-look-at-amd-graphics-cards-dominance-in-gaming/"><u>In-Depth Look at AMD Graphics Cards Dominance in Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-tricks-for-resolving-division-2-not-starting-up-problem/"><u>Latest Tricks for Resolving 'Division 2 Not Starting Up' Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-gameplay-solving-rainbow-six-siege-lag-issues/"><u>Optimize Gameplay: Solving Rainbow Six Siege Lag Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-analysis-full-potential-of-screenflow-for-mac/"><u>Professional Analysis Full Potential of ScreenFlow for Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fatal-errors-for-back-abroad-in-gobi-ue4-gameplay/"><u>Resolving Fatal Errors for Back Abroad in Gobi, UE4 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-nox-player-crashes-for-good-comprehensive-troubleshooting-steps/"><u>Stop Nox Player Crashes for Good – Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-a-smoother-cs2-experience-tackling-lag-and-high-ping-issues-in-counter-strike-2/"><u>Ultimate Fixes for a Smoother CS2 Experience: Tackling Lag and High Ping Issues in Counter-Strike 2</u></a></li>
 </ul></div>
 

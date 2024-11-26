@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving 'Ready or Not Keeps Failing' Issues for Windows Users"
-date: 2024-08-19T16:51:49.382Z
-updated: 2024-08-20T16:51:49.382Z
+date: 2024-11-20T19:07:45.414Z
+updated: 2024-11-26T21:43:54.605Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
@@ -52,8 +56,9 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2:**Close bandwidth hogging applications**
 
  If you’re running other programs like OneDrive, Dropbox or iCloud that use lots of bandwidth, or your family is streaming videos on YouTube or Netflix, Fallout 76 may lose connection from its game server. So you should close these bandwidth hungry apps and services to see if it can fix the**Fallout 76 disconnected from server** issue.
@@ -72,9 +77,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Make sure you have the latest network drivers
 
  This problem may occur if you are using the wrong or outdated network drivers. So you should update your network drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,9 +95,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -103,6 +102,10 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -113,6 +116,10 @@ Here is how to restart your network:
  1) Unplug your modem (and your wireless router, if it’s a separate device) from the power socket.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _modem_
 
@@ -127,6 +134,10 @@ _wireless router_
  3) Launch Fallout 76 to see if it connects to the servers properly. If yes, then you’ve solved the issue. If it’s still no joy, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Flush your DNS and Renew your IP**
 
@@ -158,24 +169,22 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -190,40 +199,30 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7) Restart your computer for the changes to take effect.
 
 8) Launch Fallout 76 to see if it connects to game server properly.
@@ -233,8 +232,9 @@ Here is how to switch the DNS server to Google Public DNS:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Is Fallout 76 down?
 
  If you’ve exhausted all the solutions above but the problem is still not resolved, then it’s probably a server outage with the game. You can check Fallout 76 official[**Facebook**](https://www.facebook.com/fallout76/) or**[Twitter](https://twitter.com/fallout?lang=en)** to see if it is down and wait until the game is fully restored.
@@ -253,8 +253,6 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +260,26 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-how-to-share-screen-on-facebook-live/"><u>[Updated] 2023 | How to Share Screen on Facebook Live?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-followers-to-brand-ambassadors-the-five-pillars-of-influencer-success/"><u>2024 Approved From Followers to Brand Ambassadors The Five Pillars of Influencer Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-step-by-step-guide-to-easy-video-cuts-on-windows-phones/"><u>A Step-by-Step Guide to Easy Video Cuts on Windows Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001937468-a-step-by-step-walkthrough-getting-your-rocket-league-game-running-smoothly-again/"><u>A Step-by-Step Walkthrough: Getting Your Rocket League Game Running Smoothly Again.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-making-cyberpunk-2077-utilize-your-gpu-in-windows-11/"><u>Boosting Performance: Making Cyberpunk 2077 Utilize Your GPU in WINDOWS 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-avatar-the-game-pandoras-edge-freezing-issues-pc-users-guide/"><u>Fix Your 'Avatar: The Game - Pandora's Edge Freezing Issues – PC Users Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-and-out-of-video-memory-glitch-tips-to-get-back-on-track/"><u>Fortnite and Out of Video Memory Glitch – Tips to Get Back on Track!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-when-steam-wont-update-your-game-library-to-the-cloud/"><u>How to Fix When Steam Won't Update Your Game Library to the Cloud</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-verifying-your-youtube-profile/"><u>In 2024, The Essential Guide to Verifying Your YouTube Profile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-dragons-hoard-unlocking-endless-riches-in-your-pc/"><u>Mastering 'Dragon's Hoard': Unlocking Endless Riches in Your Pc</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-trouble-free-play-effective-tips-and-hacks-to-fix-persona-5-strikers-crashing-on-pc/"><u>Mastering Trouble-Free Play: Effective Tips and Hacks to Fix Persona 5 Strikers Crashing on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigating-through-the-essentials-of-snap-camera-on-ms-teams-for-2024/"><u>Navigating Through the Essentials of Snap Camera on MS Teams for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-video-trailer-creation-software-for-mac-and-pc/"><u>New 2024 Approved Top Video Trailer Creation Software for Mac and PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films/"><u>Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-personal-fitness-chatgpts-role-in-crafting-individual-exercise-routines/"><u>Revolutionizing Personal Fitness: ChatGPT's Role in Crafting Individual Exercise Routines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sharpen-your-skills-quickly-expert-tips-for-star-wars-battlefront-ii-shader-enhancement/"><u>Sharpen Your Skills Quickly - Expert Tips for Star Wars Battlefront II Shader Enhancement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hot-verbalizer-for-2024/"><u>Snapshot Verbalizer for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-lags-in-call-of-duty-black-ops-cold-war-effective-fixes-for-smooth-gaming/"><u>Troubleshooting Lags in Call of Duty: Black Ops Cold War - Effective Fixes for Smooth Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-11-13T03:23:46.286Z
-updated: 2024-11-17T03:10:48.574Z
+date: 2024-11-24T19:36:01.531Z
+updated: 2024-11-26T17:52:40.706Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -31,13 +35,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Delete the Bitraider folder](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Rule out software conflicts
 
@@ -93,18 +90,15 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -114,13 +108,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 **4)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -132,6 +119,10 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
@@ -140,9 +131,17 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch the game to test your issue.
 
 If SWTOR is still unplayable, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the BitRaider folder
 
@@ -154,16 +153,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Delete the**Bitraider folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-38-29.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch the game and wait for the repair to be complete.
 
@@ -177,16 +173,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -208,13 +201,6 @@ If SWTOR is still unplayable, move on to the next fix.
 **11)** Type**appwiz.cpl** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
 
@@ -241,24 +227,20 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-detailed-walkthrough-for-crafting-and-changing-your-videos-covers-on-facebook/"><u>[New] 2024 Approved A Detailed Walkthrough for Crafting and Changing Your Videos' Covers on Facebook</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-mp4-conversion-ipv-techniques-for-high-quality-videos-for-2024/"><u>[New] Perfecting MP4 Conversion IPV Techniques for High-Quality Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2023s-must-watch-alternatives-to-top-films-for-2024/"><u>[Updated] 2023'S Must-Watch Alternatives to Top Films for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-legal-implications-of-youtube-video-savings/"><u>[Updated] In 2024, Legal Implications of YouTube Video Savings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-mw3-crash-resolved-a-step-by-step-solution-to-stop-it-from-stopping-working/"><u>COD MW3 Crash Resolved: A Step-by-Step Solution to Stop It From Stopping Working</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-comedy-mastering-kinemaster/"><u>Crafting Comedy Mastering KineMaster</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-depth-look-at-ipad-display-logging-for-2024/"><u>In-Depth Look at iPad Display Logging for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/lightning-methods-ios-media-on-windows/"><u>Lightning Methods IOS Media on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-issues-in-iphone-photo-editing-and-organization-expert-advice-and-strategies/"><u>Navigating Issues in iPhone Photo Editing and Organization: Expert Advice and Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/protect-and-secure-essential-tips-for-a-seamless-transition-from-windows-10-to-windows-11-with-prior-data-backups/"><u>Protect and Secure: Essential Tips for a Seamless Transition From Windows 10 to Windows 11 with Prior Data Backups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/psychonauts-2-pc-stability-issues-solved-no-more-freezes/"><u>Psychonauts 2 PC Stability Issues Solved - No More Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-stutter-and-lag-in-counter-strike-2-techniques-to-enhance-gameplay-speed/"><u>Troubleshooting Stutter and Lag in Counter-Strike 2: Techniques to Enhance Gameplay Speed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-up/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start Up'</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-value-oriented-pc-screen-recorders/"><u>2024 Approved Value-Oriented PC Screen Recorders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-walkthrough-configuring-and-launching-hyper-v-on-your-windows-11-pc/"><u>Complete Walkthrough: Configuring and Launching Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-unique-podcast-logos-visibility-tips/"><u>Crafting Unique Podcast Logos Visibility Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-age-origins-stability-improvements-for-windows-11-users-overcome-the-crashing-problems/"><u>Dragon Age: Origins Stability Improvements for Windows 11 Users – Overcome the Crashing Problems!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-performance-solutions-for-overcoming-fps-dips-in-pc-version-of-farming-simulator-22/"><u>Enhanced Performance Solutions for Overcoming FPS Dips in PC Version of Farming Simulator 22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-black-ops-cold-war-solved-issue-stuck-during-shader-compilation/"><u>Fixing 'Black Ops Cold War' - Solved Issue: Stuck During Shader Compilation</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-being-trapped-in-robloxs-incessant-launch-sequence/"><u>How to Fix Being Trapped in Roblox's Incessant Launch Sequence</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-emergency-and-amber-alert-notifications-how-to-disable-them/"><u>IPhone Emergency & AMBER Alert Notifications - How To Disable Them?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-error-why-isnt-helldivers-2-launching-and-solutions-for-players/"><u>Steam Error: Why Isn't Helldivers 2 Launching and Solutions for Players</u></a></li>
+<li><a href="https://win-web.techidaily.com/tecnica-facile-per-duplicare-una-partizione-tra-disco-nellambiente-windows-10-e-windows-11-manuale-dettagliato/"><u>Tecnica Facile per Duplicare Una Partizione Tra Disco Nell'ambiente Windows 10 E Windows 11 | Manuale Dettagliato</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-16-and-pro-protection-gear-comprehensive-reviews-by-tech-experts/"><u>Top-Rated iPhone 16 & Pro Protection Gear : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-errors-for-smooth-completion-beyond-90-loading-stage/"><u>Troubleshooting Phasmophobia Errors for Smooth Completion Beyond 90% Loading Stage</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-razer-book-one-pocket-sized-potential-and-prowess/"><u>Unraveling the Razer Book One - Pocket-Sized Potential and Prowess</u></a></li>
 </ul></div>
 

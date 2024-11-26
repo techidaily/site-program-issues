@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-11-13T09:25:58.922Z
-updated: 2024-11-16T18:43:19.898Z
+date: 2024-11-21T16:02:50.471Z
+updated: 2024-11-26T16:01:18.466Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -48,25 +41,19 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -92,6 +79,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
@@ -109,24 +100,18 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
- Run your game again to see if this issue persists. If not, you have resolved this problem!
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
 
@@ -137,6 +122,10 @@ See if this issue reappears. If not, you have fixed this issue.
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
@@ -174,16 +163,13 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -207,16 +193,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-nocostcam-the-infinite-gaming-screen-record-tool/"><u>[New] In 2024, NoCostCam The Infinite Gaming Screen Record Tool</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-tunefabs-cutting-edge-approach-to-live-streaming-for-2024/"><u>[New] Tunefab's Cutting-Edge Approach to Live Streaming for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-harmonyhook-screen-recordings-a-review/"><u>[Updated] HarmonyHook Screen Recordings A Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-how-to-remove-jello-effect-from-an-aerial-video/"><u>[Updated] How to Remove Jello Effect From an Aerial Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decoding-victory-advanced-solutions-for-cod-warzones-bug-6328-gaming-hacks-of-2024/"><u>Decoding Victory: Advanced Solutions for COD Warzone's Bug 6328 - Gaming Hacks of 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cities-skylines-2-not-launching/"><u>How to Fix Cities: Skylines 2 Not Launching</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-brand-visuals-the-ultimate-creation-guide/"><u>Mastering YouTube Brand Visuals The Ultimate Creation Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/prime-pick-all-angle-action-cameras-for-2024/"><u>Prime Pick All-Angle Action Cameras for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-house-flipper-2-pc-instability-troubleshooting-steps-and-solutions/"><u>Resolving House Flipper 2 PC Instability: Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-diablo-3-crashing-expert-fixes-for-a-smooth-adventure/"><u>Say Goodbye to Diablo 3 Crashing - Expert Fixes for a Smooth Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-hogwarts-legacy-top-strategies-to-get-the-game-running-in-2/"><u>Trouble with Hogwarts Legacy? Top Strategies to Get the Game Running in 2지</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-no-cost-treasures-aplus-ae-template-collections/"><u>[New] 2024 Approved No-Cost Treasures A+ AE Template Collections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decrypting-the-significance-the-purpose-of-blue-icons-on-fb-messages/"><u>[New] In 2024, Decrypting the Significance The Purpose of Blue Icons on FB Messages</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sounds-of-laughter-top-ringtones-downloaders/"><u>[New] Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-amplifying-zoom-picture-quality-insider-secrets/"><u>[Updated] 2024 Approved Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-your-way-to-frequent-payments-from-youtube/"><u>[Updated] In 2024, Charting Your Way to Frequent Payments From YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-gameplay-overcoming-issues-in-total-war-three-kingdoms-now-fixed/"><u>Crash-Free Gameplay: Overcoming Issues in Total War: Three Kingdoms Now Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-remedies-for-corsair-icue-connectivity-problems-in-windows-11-environments/"><u>Efficient Remedies for Corsair iCUE Connectivity Problems in Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-the-endless-load-fix-your-game-in-7-simple-steps-forza-horizon-5/"><u>Escape the Endless Load: Fix Your Game in 7 Simple Steps (Forza Horizon 5)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/game-on-essential-samsung-gear-vr-experiences/"><u>Game On Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-repairing-errors-in-msi-dragon-center-functionality/"><u>Guide to Repairing Errors in MSI Dragon Center Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-g24-power-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola G24 Power Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a54-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A54 5G Face Lock?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-a-black-screen-in-fortnite-on-pc-a-step-by-step-guide/"><u>Resolving the Issue of a Black Screen in Fortnite on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-resolve-sudden-shutdowns-during-halo-3-sessions-on-pc/"><u>Steps to Resolve Sudden Shutdowns During Halo 3 Sessions on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-steams-server-connection-troubles-heres-the-solution/"><u>Tackling Steam’s Server Connection Troubles? Here's the Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002693475-troubleshooting-guide-no-more-crashes-in-updated-version-of-classic-diablo-2/"><u>Troubleshooting Guide: No More Crashes in Updated Version of Classic Diablo 2!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Halo ([Solved] Crashing on Computer - Top Fixes and Tips
-date: 2024-11-10T02:04:40.666Z
-updated: 2024-11-16T21:36:03.821Z
+date: 2024-11-22T19:53:56.225Z
+updated: 2024-11-26T22:16:32.269Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Games crashes are not something uncommon. And you might encounter the same issue
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that you can try when you do some troubleshooting. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,10 +39,7 @@ Games crashes are not something uncommon. And you might encounter the same issue
 7. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Before getting started
@@ -63,30 +64,24 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
@@ -104,6 +99,10 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Temporarily disable antivirus software
 
  There will be conflicts between antivirus scans and your enjoying your games. To avoid this, you’re supposed to try temporarily disabling your antivirus software.
@@ -119,10 +118,7 @@ _Halo 3 Minimum System Requirements_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your video card drivers
@@ -140,6 +136,10 @@ Here’s how to update your drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -165,17 +165,14 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
@@ -184,6 +181,10 @@ To do so:
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
@@ -221,13 +222,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Verify the integrity of game files
 
  Halo 3 is available on PC through Steam. But players have been experiencing sudden crashes in Halo 3 on Steam. It can be caused by a bad game cache, so you need to ensure that the integrity of game files is intact.  
@@ -244,24 +238,10 @@ To do so:
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
@@ -289,16 +269,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>[New] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-instant-photographic-display-in-11-os-for-2024/"><u>[Updated] Instant Photographic Display in 11 OS for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/beat-audio-hiccups-in-audacity-a-guide-to-correcting-sound-device-troubles-five-methods/"><u>Beat Audio Hiccups in Audacity: A Guide to Correcting Sound Device Troubles [Five Methods]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/captivating-your-eyes-and-ears-with-huawei-mediapad-m5-tablet-review-highlighting-exceptional-quality/"><u>Captivating Your Eyes & Ears with Huawei MediaPad M5 – Tablet Review Highlighting Exceptional Quality!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/discover-top-online-rhythm-trackers-today-free/"><u>Discover Top Online Rhythm Trackers Today! (FREE)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-fixing-hitman-3s-elusive-connection-failure-glitch/"><u>In-Depth Analysis: Fixing Hitman 3'S Elusive Connection Failure Glitch</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/mcb-channel-theme-images-and-templates-for-2024/"><u>MCB Channel Theme Images and Templates for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-among-us-pc-voice-chat-problems-a-comprehensive-guide/"><u>Solve Your Among Us PC Voice Chat Problems - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-fixing-a-non-responsive-rockstar-games-launcher-stay-updated-with-the-latest-2amz-solutions/"><u>The Ultimate Guide to Fixing a Non-Responsive Rockstar Games Launcher - Stay Updated with the Latest 2Amz Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-dota-2s-stuttering-issues/"><u>Ultimate Guide: Solving Dota 2'S Stuttering Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-whats-in-it-for-a-million-youtube-viewers/"><u>[New] What’s in It for a Million YouTube Viewers?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conquer-lunapic-elevate-your-photographic-skills/"><u>[Updated] Conquer Lunapic Elevate Your Photographic Skills</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-high-five-lookout-breakdown/"><u>[Updated] High-Five Lookout Breakdown</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>2024 Approved Ultimate Blueprints Livestream & Log Sports Matches Effectively</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/culinary-craftsmanship-innovative-naming-for-food-shows-for-2024/"><u>Culinary Craftsmanship Innovative Naming for Food Shows for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decrypting-diablo-2s-hiccups-effective-ways-to-stop-your-game-from-crashing/"><u>Decrypting Diablo 2'S Hiccups: Effective Ways to Stop Your Game From Crashing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-pcs-framerate-drops-by-two-frames-per-second/"><u>How to Fix When Your PC's Framerate Drops by Two Frames per Second</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-tecno-camon-20-premier-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>In 2024, The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/now-smooth-sailing-with-subnautica-below-zero-on-your-windows-pc/"><u>Now Smooth Sailing with Subnautica: Below Zero on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-causes-of-overwatch-2-collapses-during-playtime-on-pcs/"><u>Overcoming Common Causes of Overwatch 2 Collapses During Playtime on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixes-for-common-issues-preventing-battlefield-4-from-starting-on-desktop/"><u>Solved: Fixes for Common Issues Preventing Battlefield 4 From Starting on Desktop</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/speedy-editing-up-speed-your-tiktok-videos-now/"><u>Speedy Editing Up-Speed Your TikTok Videos Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-solution-how-to-fix-your-steams-server-connection-difficulties/"><u>Successful Solution: How to Fix Your Steam's Server Connection Difficulties</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-end-of-an-era-unreal-engine-and-d3d/"><u>The End of an Era: Unreal Engine and D3D</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-installation-issues-fixes-for-age-of-empires-iv-download-problems/"><u>Troubleshooting Installation Issues: Fixes for Age of Empires IV Download Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-solutions-for-users-of-windows-11-and-10/"><u>Wallpaper Engine Stability Solutions for Users of Windows 11 and 10</u></a></li>
 </ul></div>
 

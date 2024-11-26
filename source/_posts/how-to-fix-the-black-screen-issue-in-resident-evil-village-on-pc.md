@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Black Screen' Issue in Resident Evil Village on PC
-date: 2024-08-19T16:55:21.261Z
-updated: 2024-08-20T16:55:21.261Z
+date: 2024-11-23T18:26:49.096Z
+updated: 2024-11-26T23:12:54.478Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ## How to Fix Resident Evil Village PC Game Crashes - Solved
 
 The long awaited horror game**Resident Evil Village** (RE8) is finally out now. However, according to reports, quite a lot of players have been experiencing game crashing at startup or whilst in game problem. If you’re in the same dilemma, don’t worry. It isn’t too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Resident Evil Village Crashing on PC
 
@@ -72,16 +76,27 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Steam overlay
 
  Overlay in Steam gives you access to features and apps without having to leave the game. However, some players report that the feature has interfered with their gameplay and triggered crashing problem in RE8.
@@ -95,6 +110,14 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Steam as administrator
 
  Your game may crash if it does not have the resources required to run fully. As a fix, you can try running Steam as administrator.
@@ -107,6 +130,10 @@ Here’s how:
 
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify game integrity on Steam
 
  Steam client has a handy feature that allows you to verify the integrity of the game – if any files on your PC are found different to the ones on Steam servers, they’ll be changed or repaired.
@@ -118,14 +145,8 @@ The steps are pretty easy:
 3. Navigate to **LIBRARY** , then right click on Resident Evil Village game title and click **Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 4. Click **LOCAL FILES** \> **Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 ### Fix 6: Close background apps
@@ -138,9 +159,6 @@ Here’s how to close background apps:
 2. Select the**Startup** tab, then right-click on each item and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
 
@@ -156,9 +174,6 @@ Here’s how to close background apps:
 2. Go to**Library** , then right-click on**Resident Evil Village** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 3. Click**Local** \>**Browse…** .
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Open the**Config** file and set**HDRMode-false** .
 
 **How to turn off HDR in Windows (if your monitor supports HDR)**
@@ -166,15 +181,13 @@ Here’s how to close background apps:
 1. On your keyboard, press**the Windows key** and**R** at the same time to invoke the Run box. Then type**desk.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/desk.cpl_.png)
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Install the latest patch
 
@@ -182,9 +195,6 @@ Here’s how to close background apps:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Perform a clean boot
 
  Another possible cause of Resident Evil Village crashing on your PC is software conflict.
@@ -196,19 +206,15 @@ Here are the steps to perform a clean boot:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to bring up the Run box. Type or past **msconfig**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * **If Resident Evil Village stops crashing** , you can try repeating these steps, disabling half of the services each time until you pinpoint the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
 
@@ -229,8 +235,6 @@ Here are the steps to perform a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +242,23 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-securing-your-pc-gaming-memories-best-techniques/"><u>[New] 2024 Approved Securing Your PC Gaming Memories Best Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] In 2024, Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-merging-primary-and-secondary-footage/"><u>2024 Approved Comprehensive Guide Merging Primary and Secondary Footage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-error-successful-launch-of-forza-horizon-4-up-to-date-solutions/"><u>Bypassing the Error: Successful Launch of Forza Horizon 4 - Up-to-Date Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-enhancement-glitches-settled-your-chat-app-is-up-to-date-again/"><u>Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-microsoft-edge-net-framework-fault-your-complete-guide/"><u>Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-hp-color-laserjet-pro-mfp-m477-all-in-one-printer-driver-pack/"><u>Free Download: HP Color Laserjet Pro MFP M477 All-in-One Printer Driver Pack</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-fix-addressing-release-troubles-and-solutions/"><u>Get Your Football Manager 2022 Fix - Addressing Release Troubles & Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-c33-2023-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme C33 2023 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-mw3-keeps-crashing-on-pc-easy-fixes/"><u>Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-struggle-resolved-dealing-with-continuous-new-world-game-crashes/"><u>PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-20-anker-power-bank-review-the-ultimate-solution-for-your-mobile-charging-woes-insights-from-zdnet/"><u>Top $20 Anker Power Bank Review: The Ultimate Solution for Your Mobile Charging Woes - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-nvidias-geforce-experience-steps-to-get-it-running-smoothly/"><u>Troubleshooting Nvidia's GeForce Experience: Steps to Get It Running Smoothly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-7-private-film-access-tools-for-2024/"><u>Ultimate 7 Private Film Access Tools for 2024</u></a></li>
+</ul></div>
 

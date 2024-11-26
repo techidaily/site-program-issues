@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Run Resident Evil 5 On Your Computer - Solved
-date: 2024-08-19T16:52:55.218Z
-updated: 2024-08-20T16:52:55.218Z
+date: 2024-11-25T17:33:28.795Z
+updated: 2024-11-26T22:12:29.361Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-featured.jpg)
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,11 @@ Here’s how you can check the file integrity on Steam:
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
@@ -54,10 +63,6 @@ Here’s how you can check the file integrity on Steam:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -74,10 +79,11 @@ Here’s how you can check the file integrity on Steam:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
@@ -99,15 +105,18 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -118,14 +127,12 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -138,8 +145,6 @@ Here’s how you can check the file integrity on Steam:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,24 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-interpreting-the-functionality-behind-facebooks-blue-video-icon/"><u>[New] 2024 Approved Interpreting the Functionality Behind Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nderstanding-the-legality-of-online-video-recordings-for-2024/"><u>[New] Understanding the Legality of Online Video Recordings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>[Updated] 2024 Approved Step Up Your Storytelling Effortless Text Addition for Video Clips with Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-ground-to-sky-expert-and-beginners-guide-to-editing-drones/"><u>[Updated] From Ground to Sky - Expert and Beginner's Guide to Editing Drones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-streamline-your-seminars-economical-tech-tips/"><u>[Updated] Streamline Your Seminars Economical Tech Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-through-uninterrupted-gameplay-tackling-modern-warfare-3-pc-crashes-effectively/"><u>Battle Through Uninterrupted Gameplay: Tackling Modern Warfare 3 PC Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-fans-need-to-know/"><u>Elden Ring Release Delayed: What Fans Need to Know</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-in-uav-world-the-syma-x5c-review-sets-you-up-right/"><u>First Steps in UAV World? The Syma X5C Review Sets You Up Right</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/join-forces-with-friends-ultimate-tips-for-crafting-shared-playlists-on-apple-music/"><u>Join Forces with Friends - Ultimate Tips for Crafting Shared Playlists on Apple Music</u></a></li>
+<li><a href="https://program-issues.techidaily.com/jurassic-world-evolution-stutter-stopper-how-to-fix-the-games-frequent-crashes/"><u>Jurassic World Evolution Stutter Stopper: How to Fix the Game's Frequent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-unexpected-crashes-resolving-ghost-runners-windows-10-glitches-successfully/"><u>Overcoming Unexpected Crashes: Resolving Ghost Runner's Windows 10 Glitches Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silent-livestream-issues-heres-why-and-how-to-fix-them-on-twitch/"><u>Silent Livestream Issues? Here's Why and How to Fix Them on Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-improving-stability-and-eliminating-crashes-in-pcs-guilty-gear-strive/"><u>Step-by-Step Tutorial: Improving Stability and Eliminating Crashes in PC's Guilty Gear Strive</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/transfer-von-tabellendaten-in-sql-server-zwischen-verschiedenen-datenbanken-eine-schritt-fur-schritt-anleitung/"><u>Transfer Von Tabellendaten in SQL Server Zwischen Verschiedenen Datenbanken - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-audio-issues-in-fallout-4-on-your-pc/"><u>Troubleshooting Steps: Resolving Audio Issues in Fallout 4 on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-battle-against-game-crashing-ensuring-smooth-play-in-house-flipper-2-for-your-desktop/"><u>Winning the Battle Against Game Crashing: Ensuring Smooth Play in 'House Flipper 2' For Your Desktop</u></a></li>
+</ul></div>
 

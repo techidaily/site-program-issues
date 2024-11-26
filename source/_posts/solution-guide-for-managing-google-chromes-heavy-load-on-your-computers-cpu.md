@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU
-date: 2024-11-15T19:10:48.806Z
-updated: 2024-11-17T05:31:26.080Z
+date: 2024-11-19T16:07:43.543Z
+updated: 2024-11-26T20:57:41.946Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,6 +37,10 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
 
@@ -63,13 +71,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -77,6 +78,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Steam Overlay
 
@@ -86,21 +91,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
@@ -141,10 +132,7 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -154,10 +142,11 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
@@ -167,13 +156,6 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -185,17 +167,22 @@ To optimize the graphics settings, follow the steps below:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
@@ -218,13 +205,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -252,18 +232,18 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-is-a-brief-subscribe-beneficial-for-content-consumption/"><u>[New] 2024 Approved Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-correcting-unsteady-flight-footage-artifacts-for-2024/"><u>[New] Correcting Unsteady Flight Footage Artifacts for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>[Updated] Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-uninterrupted-playtime-fixing-common-reasons-for-pc-gaming-crashes/"><u>How To Ensure Uninterrupted Playtime - Fixing Common Reasons for PC Gaming Crashes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g04-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G04 Phone without PIN</u></a></li>
-<li><a href="https://program-issues.techidaily.com/iphone-and-itunes-connection-issue-on-windows-aturate-a-solution-for-when-your-iphone-doesnt-show-up-in-itunes/"><u>IPhone and iTunes Connection Issue on Windows Aturate a Solution for when Your iPhone Doesn't Show up in iTunes.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-the-eternal-return-tactics-to-sustain-black-survival-successfully/"><u>Navigating the Eternal Return: Tactics to Sustain Black Survival Successfully</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/orbital-accountancy-revival-guide/"><u>Orbital Accountancy Revival Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-call-of-duty-black-ops-cold-war-from-crashing-your-pc-in-202n/"><u>Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-postponement-of-alan-wake-2-release/"><u>Troubleshooting the Postponement of Alan Wake 2 Release</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-hack-list-resolving-finals-wont-launch-issues-before-going-live-in-202n4/"><u>Ultimate Hack List: Resolving 'Finals Won't Launch' Issues Before Going Live in 202N4</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-audio-essentials-removing-background-noise-for-crisp-sound/"><u>Updated 2024 Approved FCPX Audio Essentials Removing Background Noise for Crisp Sound</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-adobe-advances-bringing-text-into-three-dimensional-space-for-2024/"><u>[New] Adobe Advances Bringing Text Into Three-Dimensional Space for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-immediate-actions-reactivating-obs-audio-track/"><u>[Updated] In 2024, Immediate Actions Reactivating OBS Audio Track</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mobile-masterpieces-the-ultimate-list-of-facial-enhancers-iosandroid/"><u>[Updated] Mobile Masterpieces The Ultimate List of Facial Enhancers (iOS/Android)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-update-failures-in-minecrafts-original-launcher-platform/"><u>Comprehensive Solution for Update Failures in Minecraft's Original Launcher Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-overcoming-installation-hiccups-with-fighting-networks-tekken-8-on-desktop-computers/"><u>Easy Fixes: Overcoming Installation Hiccups with Fighting Network's Tekken 8 on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cold-war-game-crash-on-both-pc-and-console-comprehensive-troubleshooting-guide/"><u>Fixing the 'Cold War' Game Crash on Both PC and Console: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-cod-modern-warfare-error-6-issue-for-a-smooth-pc-gaming-experience/"><u>How to Resolve COD: Modern Warfare Error 6 Issue for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-find-n3-flip-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Find N3 Flip for Parents | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-new-quadro-rtx-drivers/"><u>Installation: New Quadro RTX Drivers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-many-reasons-behind-my-passion-for-apples-seamless-digital-world/"><u>The Many Reasons Behind My Passion for Apple's Seamless Digital World</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-action-camera-duel-hero5-black-vs-hero4-silver/"><u>Ultimate Action Camera Duel Hero5 Black VS Hero4 Silver</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-tutorial-on-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
 </ul></div>
 

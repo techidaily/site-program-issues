@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-11-13T02:45:36.063Z
-updated: 2024-11-17T01:55:10.537Z
+date: 2024-11-23T19:18:45.550Z
+updated: 2024-11-26T22:56:24.817Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ FIFA 20 DirectX Error
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For FIFA 20 DirectX Error
 
  Here are 5 fixes that have helped other users resolve the DirectX error on FIFA 20 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +39,10 @@ FIFA 20 DirectX Error
 3. **[Modify fifasetup.ini](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -54,13 +62,6 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -68,13 +69,6 @@ FIFA 20 DirectX Error
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Unplug ccontrollers
 
@@ -93,10 +87,7 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
@@ -157,15 +148,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -194,18 +186,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastery-in-momentum-regaining-erased-reddit-posts-for-2024/"><u>[New] Mastery in Momentum Regaining Erased Reddit Posts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-million-view-achievement-and-its-monetary-benefit/"><u>[Updated] Million View Achievement and Its Monetary Benefit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>[Updated] Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-syncing-audiovideo-online-collective/"><u>[Updated] Syncing Audio/Video Online Collective</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-potential-of-media-imports-in-windows-10/"><u>[Updated] Unlocking the Potential of Media Imports in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-repairing-hitman-3s-persistent-connection-failed-glitch/"><u>Expert Advice on Repairing Hitman 3'S Persistent 'Connection Failed' Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-update-or-download-logitech-g403-mouse-drivers-for-optimal-performance-on-your-computer/"><u>How to Update or Download Logitech G403 Mouse Drivers for Optimal Performance on Your Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-checklist-for-nfl-live-broadcasting/"><u>In 2024, The Ultimate Checklist for NFL Live Broadcasting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Overcoming Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reviving-retro-gaming-and-pc-building-insights/"><u>Reviving Retro Gaming & PC Building Insights</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-full-disk-utilization-issues-in-windows-10-effective-solutions-explored/"><u>Tackling Full Disk Utilization Issues in Windows 10: Effective Solutions Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-prevent-star-citizen-crashing-on-your-pc-whats-fixed/"><u>Troubleshoot and Prevent Star Citizen Crashing on Your PC – What's Fixed?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-strategies-for-viewing-your-subscribers/"><u>[Updated] Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-expert-tips-for-efficient-instagram-to-mp4-transformation/"><u>2024 Approved Expert Tips for Efficient Instagram to MP4 Transformation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-language-of-immersive-digital-worlds/"><u>2024 Approved The Language of Immersive Digital Worlds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-roblox-launch-errors-in-depth-troubleshooting-guide-for-gamers-in-202/"><u>Beat Roblox Launch Errors: In-Depth Troubleshooting Guide for Gamers in 202지</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-guide-to-decoding-diagonal-aspect-ratios-for-2024/"><u>Beginners Guide to Decoding Diagonal Aspect Ratios for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-game-crashing-glitches-in-elite-dangerous-for-pc-users/"><u>Diagnosing and Fixing Game-Crashing Glitches in Elite Dangerous for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-continuous-sony-vegas-program-collapses/"><u>Effective Solutions for Continuous Sony Vegas Program Collapses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-starting-battlefield-4-effortlessly-on-windows-and-linux-systems-issue-resolved/"><u>Guide to Starting Battlefield 4 Effortlessly on Windows and Linux Systems [Issue Resolved]</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-cut-to-the-chase-vimeos-best-practices-for-video-length-reduction/"><u>In 2024, Cut to the Chase Vimeo's Best Practices for Video Length Reduction</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/invest-in-savings-dreams-affordable-tv-mounting/"><u>Invest in Savings: Dream's Affordable Tv Mounting</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/quick-guide-to-copying-your-mobile-memories-how-to-save-videos-from-iphone-and-ipad-onto-a-portable-hard-drive/"><u>Quick Guide to Copying Your Mobile Memories: How to Save Videos From iPhone & iPad Onto a Portable Hard Drive</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-13t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi 13T to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

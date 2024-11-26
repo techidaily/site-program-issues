@@ -1,7 +1,7 @@
 ---
 title: Four Simple Solutions for Overcoming the 'Warzone DirectX Error'
-date: 2024-08-19T16:55:44.031Z
-updated: 2024-08-20T16:55:44.031Z
+date: 2024-11-21T19:57:53.436Z
+updated: 2024-11-26T19:33:32.403Z
 tags:
   - win11
   - win10
@@ -47,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -57,13 +58,15 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Check your VPN
 
  VPN seems to be a cause of Error 4201 on Genshin Impact, but it could also be a fix to this issue. No matter if you use VPN for Genshin Impact or not, you can refer to this fix to solve your problem.
@@ -76,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -83,27 +90,22 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
 ## Fix 5: Update your network adapter driver
@@ -120,13 +122,14 @@ thumbnail: https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4d
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -147,8 +150,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,20 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-excellent-audio-capture-on-demand/"><u>[New] Excellent Audio Capture on Demand</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-logo-genius-10-tips-for-memorable-podcast-imagery/"><u>[New] Logo Genius 10 Tips for Memorable Podcast Imagery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-ch340-g-hardware-interface-driver-compatible-with-windows-11/"><u>Get the Newest CH340 G Hardware Interface Driver Compatible with Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinite-pc-instability-solutions-no-more-disruptions/"><u>Halo Infinite PC Instability Solutions - No More Disruptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handling-capacity-limits-fixing-chatgpt-not-available-errors-on-your-pc/"><u>Handling Capacity Limits: Fixing ChatGPT Not Available Errors on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-reviewcast-analysis/"><u>In 2024, ReviewCast Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transformative-ways-to-document-facetime-interactions/"><u>In 2024, Transformative Ways to Document FaceTime Interactions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-total-war-warhammer-ii-key-solutions-for-eliminating-runtime-issues/"><u>Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues</u></a></li>
+<li><a href="https://win-guides.techidaily.com/maximize-system-efficiency-by-shutting-down-unnecessary-windows-1011-startup-services/"><u>Maximize System Efficiency by Shutting Down Unnecessary Windows 10/11 Startup Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-perplexing-loading-hurdle-in-minecraft/"><u>Troubleshooting Tips: Overcoming the Perplexing 'Loading' Hurdle in Minecraft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-how-to-prevent-and-fix-modern-warfare-2-crashes-on-windows/"><u>Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unleash-your-potential-with-these-top-12-pc-clickers-for-2024/"><u>Unleash Your Potential with These Top 12 PC Clickers for 2024</u></a></li>
+</ul></div>
 

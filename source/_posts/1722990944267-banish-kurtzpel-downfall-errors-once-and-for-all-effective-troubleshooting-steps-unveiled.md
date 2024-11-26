@@ -1,7 +1,7 @@
 ---
 title: Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!
-date: 2024-08-19T16:49:15.235Z
-updated: 2024-08-20T16:49:15.235Z
+date: 2024-11-23T18:37:38.437Z
+updated: 2024-11-26T22:31:46.223Z
 tags:
   - win11
   - win10
@@ -69,16 +69,13 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -94,8 +91,9 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3: Reinstall video card and sound card drivers
 
  Many Windows users say that their video card driver and sound card driver are the culprit, especially after the latest Windows update, and quite a number of them got their Start menu back after they reinstall or update their video and sound card drivers to the recent correct version. Here is what you can do to get your Start menu working like a charm again:
@@ -106,16 +104,10 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
@@ -141,8 +133,9 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7) Check if your Start menu is back.
 
 ---
@@ -156,8 +149,9 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -173,13 +167,9 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
 ---
@@ -214,13 +204,18 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the result you see is the same with the screen shot above, your system files are all right, and you should move on and run another test. 5) Copy and paste the following command in, and press the Enter key on your keyboard. Still, it could take a while, wait with patience.
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -231,6 +226,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8: Reinstall Cortana
 
  The reason why your Start menu and Cortana is not working could be that they are installed wrong, somehow. You can reinstall them to get the Start menu feature back. Here is how:
@@ -240,19 +239,21 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
 Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMo  
@@ -266,9 +267,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Last but not least: refresh your PC
 
  If you have tried all the above methods, but still you don’t see any promising signs, there is still one more solution left for you to have a try: perform a refresh on your Windows 10\.
@@ -283,8 +281,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +288,22 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-srt-soundfile-compatibility-pc-and-mac-for-2024/"><u>[New] SRT Soundfile Compatibility PC & Mac for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-10-free-os-compatible-videography-applications/"><u>[New] Top 10 Free, OS-Compatible Videography Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-ff-downloader-suite-for-social-video-grabs-for-2024/"><u>[New] Ultimate FF Downloader Suite for Social Video Grabs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-gateway-to-segas-dreamcatcher-era/"><u>Android's Gateway to Sega's Dreamcatcher Era</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-call-of-duty-black-ops-cold-war-error-code-0xc0000005-comprehensive-guide/"><u>Deciphering and Fixing 'Call of Duty: Black Ops Cold War' Error Code 0Xc0000005 - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000066368-expert-solutions-for-the-notorious-terraria-crash-issue-get-rid-of-it-now/"><u>Expert Solutions for the Notorious Terraria Crash Issue - Get Rid of It Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-buffering-in-apex-legends-error-fixes-explained/"><u>How to Overcome Constant Buffering in Apex Legends – Error Fixes Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-innovative-mac-tool-for-screen-and-audio-capture/"><u>In 2024, Innovative Mac Tool for Screen & Audio Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-inventory-guide-to-photographic-and-videography-units/"><u>In 2024, Inventory Guide to Photographic and Videography Units</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-free-video-cutting-software-for-divx-files-2023-update/"><u>New In 2024, Best Free Video Cutting Software for Divx Files (2023 Update)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-stop-outriders-from-continuously-crashing/"><u>Quick Solution: How to Stop Outriders From Continuously Crashing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/quick-tips-effective-techniques-to-preserve-all-your-iphone-app-data/"><u>Quick Tips: Effective Techniques to Preserve All Your iPhone App Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-dota-2-issues-with-game-not-starting-or-getting-stuck-at-boot/"><u>Resolved: Fixes for Dota 2 Issues with Game Not Starting or Getting Stuck at Boot</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-tutorial-thorough-disposal-of-quicktime-software-on-all-windows-versions/"><u>Step-by-Step Tutorial: Thorough Disposal of QuickTime Software on All Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangle-gaming-woes-ensuring-smooth-performance-of-watch-dogs-legion-on-pc/"><u>Untangle Gaming Woes: Ensuring Smooth Performance of Watch Dogs Legion on PC</u></a></li>
+</ul></div>
 

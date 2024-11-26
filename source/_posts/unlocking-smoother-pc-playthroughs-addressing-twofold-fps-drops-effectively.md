@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Smoother PC Playthroughs: Addressing Twofold FPS Drops Effectively"
-date: 2024-08-19T16:55:06.662Z
-updated: 2024-08-20T16:55:06.662Z
+date: 2024-11-23T21:28:21.682Z
+updated: 2024-11-26T21:58:34.596Z
 tags:
   - win11
   - win10
@@ -51,11 +51,18 @@ Here’s how:
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -63,8 +70,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
@@ -89,24 +97,20 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
 
  If the latest driver doesn’t do the trick, you can continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Microsoft releases system updates on a regular basis, providing bug patches and performance boost. You can manually check for system updates as it could help with the compatibility improvement.
@@ -116,23 +120,25 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -144,12 +150,14 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  So these are the fixes for your stuttering issue in Half Life: Alyx. If you have any questions or ideas, feel free to jot them down in the comments.
@@ -160,8 +168,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +175,22 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/njoy-premium-video-artwork-download-at-no-cost-today/"><u>[New] Enjoy Premium Video Artwork - Download at No Cost Today</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media/"><u>2024 Approved A Stepwise Approach to Designing Powerful Edu-Vids on Social Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-magic-5-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor Magic 5 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anno-1800-update-addressing-and-correcting-directx-trouble-shooting-steps/"><u>Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beginners-journey-into-advanced-video-coding-for-2024/"><u>Beginner's Journey Into Advanced Video Coding for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004229142-cant-get-utorrent-to-work-try-out-these-7-reliable-repairs/"><u>Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-call-of-duty-ww2-error-code-4128-problems/"><u>Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 11?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-experience-overcome-common-crashing-challenges-in-football-manager-2021-on-windows-computers/"><u>Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-effortless-deletion-of-geforce-experience-software/"><u>Step-by-Step Tutorial: Effortless Deletion of GeForce Experience Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-full-gpu-power-for-call-of-duty-warzone-on-your-pc/"><u>Unlocking Full GPU Power for Call of Duty: Warzone on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-family-safety-rescue-quick-corrections-listed-here/"><u>Windows Family Safety Rescue: Quick Corrections Listed Here</u></a></li>
+</ul></div>
 

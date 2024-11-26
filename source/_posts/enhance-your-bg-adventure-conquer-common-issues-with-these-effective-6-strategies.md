@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your BG Adventure: Conquer Common Issues with These Effective 6 Strategies!"
-date: 2024-08-19T16:55:15.740Z
-updated: 2024-08-20T16:55:15.740Z
+date: 2024-11-21T19:23:58.746Z
+updated: 2024-11-26T19:39:14.431Z
 tags:
   - win11
   - win10
@@ -52,14 +52,17 @@ If it doesn’t work, move to the next fix.
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 3: Open Oculus app
@@ -75,8 +78,9 @@ If it doesn’t work, move to the next fix.
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphic driver
 
  Updating your graphics driver would help you fix the Stray crashing issue. There’re mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -101,7 +105,15 @@ If it doesn’t work, move to the next fix.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -111,39 +123,34 @@ If it doesn’t work, move to the next fix.
 2. Download**dxvk-1.10.2.tar.gz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Lower graphic settings
 
  Some gamers reported lowering the graphics settings in the Stray would fix the random game crashing on Stray.
@@ -158,8 +165,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +172,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-in-class-premium-screenshots-and-recorders/"><u>[New] 2024 Approved Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-from-antagonism-to-action-a-clear-framework-for-handling-virtual-harassment-on-discord-for-2024/"><u>[New] From Antagonism to Action A Clear Framework for Handling Virtual Harassment on Discord for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-video-sharing-techniques-from-youtube-to-insta/"><u>[New] Video Sharing Techniques From YouTube to Insta</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>2024 Approved Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-launch-errors-in-monster-hunter-rise-expert-advice-and-tricks/"><u>Bypassing Launch Errors in Monster Hunter Rise: Expert Advice & Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-every-detail-advanced-skype-calls-recording-methods/"><u>Capture Every Detail Advanced Skype Calls Recording Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lost-ark-server-connection-failures-a-comprehensive-guide/"><u>How to Overcome Lost Ark Server Connection Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mafia-definitive-edition-delay-clarified-and-solution-found-awaiting-launch/"><u>Mafia: Definitive Edition Delay Clarified and Solution Found – Awaiting Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-solve-windows-email-application-error-code-0x800713f/"><u>Steps to Solve Windows' Email Application Error (Code 0X800713F)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-league-of-legends-from-freezing-a-step-by-step-guide/"><u>Stop League of Legends From Freezing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/twitter-user-unfollow-strategies-when-and-how-to-do-it-effectively/"><u>Twitter User Unfollow Strategies: When and How to Do It Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-launch-valheim-common-boot-issues-addressed-for-2nv2024-players/"><u>Why Can't I Launch Valheim? Common Boot Issues Addressed for 2nV2024 Players</u></a></li>
+</ul></div>
 

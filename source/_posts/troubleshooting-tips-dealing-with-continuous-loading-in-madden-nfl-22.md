@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Dealing with Continuous Loading in Madden NFL 22"
-date: 2024-08-19T16:53:47.049Z
-updated: 2024-08-20T16:53:47.049Z
+date: 2024-11-20T22:27:47.161Z
+updated: 2024-11-26T20:48:11.003Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/e9dae4a6037428e8108212397cbf628f09c854831
 
 If the game keeps crashing, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  Some programs need administrator rights to work properly on your computer. If Insurgency: Sandstorm keeps crashing on startup, you can try running the game as an administrator. Here’s how:
@@ -54,14 +58,6 @@ If the game keeps crashing, move on to the next fix.
 1. Run Steam and click**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-library.jpg)
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
@@ -69,15 +65,13 @@ If the game keeps crashing, move on to the next fix.
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
+
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
@@ -94,12 +88,18 @@ If the crashing issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
@@ -113,9 +113,11 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Delete the**GameUserSettings.ini** file.
 
  Relaunch Insurgency: Sandstorm and all your video settings should be reset to default. Check if the crashing issue is resolved.
@@ -123,8 +125,9 @@ If the crashing issue remains, check out the next fix.
 If this fix doesn’t do the trick, continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Close background applications
 
  The applications running in the background can slow down your PC and cause interference with your games, which may lead to the crashing issue. If you’ve CCleaner or MSI Afterburner installed, make sure they’re disabled in the background. Here’s how to close background apps:
@@ -139,6 +142,10 @@ Launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the crashing issue persists, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Allow the game through Windows Firewall
 
  The Windows Firewall can block the normal operation of certain programs, which may cause the game to crash. To ensure Insurgency: Sandstorm works properly on your PC, you should allow the game through Windows Firewall. Here’s how:
@@ -146,14 +153,8 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
@@ -161,17 +162,20 @@ If the crashing issue persists, go ahead with the next fix.
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
  With the[new patch](https://newworldinteractive.com/insurgency-sandstorm-patch-4/) being released, the crashing issues that affected all consoles should be resolved. But PS4 Pro and PS5 players are still unable to play games in 4K. As a temporary workaround, setting the console’s resolution to 1080p and turning off Supersampling should help to fix the crashing issue on your PS4 Pro.
@@ -188,8 +192,6 @@ Once done, relaunch the game to see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +199,22 @@ Once done, relaunch the game to see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-tips-for-retro-revival-using-instagram-filters-on-previous-imagesvideos/"><u>[New] Tips for Retro Revival Using Instagram Filters on Previous Images/Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-avatar-asymmetry-artistry-sketching-distorted-images-for-2024/"><u>[Updated] Avatar Asymmetry Artistry Sketching Distorted Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-fixes-for-steam-vr-headset-not-detected/"><u>6 Fixes for Steam VR Headset Not Detected</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-audio-setup-the-ultimate-list-for-podcasters/"><u>Cutting-Edge Audio Setup The Ultimate List for Podcasters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-call-of-duty-warzone-takes-advantage-of-your-graphics-card-in-windows-11/"><u>How to Ensure Call of Duty Warzone Takes Advantage of Your Graphics Card in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-continuously-crashing-blender-program-on-your-windows-computer/"><u>How to Fix a Continuously Crashing Blender Program on Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-path-of-exile-server-connectivity-problems-ultimate-fixes-players/"><u>How to Overcome Path of Exile Server Connectivity Problems - Ultimate Fixes Players</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g24-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G24? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-11r-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus 11R Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-language-understanding-dissecting-gpt-and-bert-differences/"><u>Innovating Language Understanding: Dissecting GPT and BERT Differences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operating-system-errors-corrupted-system-files-incorrect-boot-configurations-or-other-os-errors-can-lead-to-a-blank-display-during-startup-running-system-re498/"><u>Operating System Errors: Corrupted System Files, Incorrect Boot Configurations, or Other OS Errors Can Lead to a Blank Display During Startup. Running System Repair Tools or Reinstalling the Operating System Could Resolve This Issue.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overwatch-2-startup-problems-here-are-7-effective-fixes-for-the-2024-edition/"><u>Overwatch 2 Startup Problems? Here Are 7 Effective Fixes for the 2024 Edition</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-google-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Google</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transitioning-from-ps4-to-ps5-can-you-still-play-your-favorite-games/"><u>Transitioning From PS4 to PS5: Can You Still Play Your Favorite Games?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-address-dead-by-daylight-e8014-bug/"><u>Troubleshooting Guide: How to Address Dead by Daylight E8014 Bug</u></a></li>
+</ul></div>
 

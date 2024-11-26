@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide to Fixing the Notorious Error 5: How to Deal with the Frustrating Error 3-0X0001000B While Playing Rainbow Six Siege"
-date: 2024-11-14T17:12:28.279Z
-updated: 2024-11-16T17:31:57.929Z
+date: 2024-11-24T18:17:24.014Z
+updated: 2024-11-26T22:54:25.981Z
 tags:
   - win11
   - win10
@@ -49,10 +49,7 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -78,6 +75,10 @@ If the issue persists, you can try the next fix below.
 
  If Minecraft crashes when you’re not using any mods, take a look at the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  We all have different computer specs and desktop setup, so it’s hard to determine what’s causing the error. But doing a clean boot allows your computer to start with only the essential programs and services, which will in a sense help you root out the offenders.
@@ -86,41 +87,14 @@ If the issue persists, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -129,6 +103,10 @@ If the issue persists, you can try the next fix below.
 
 If this fix doesn’t help you, simply move on to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Minecraft completely
 
  If none of the fixes above can stop the crash, you should consider reinstalling Minecraft completely. When you’re doing this, you can back up your**.minecraft** folder which can be accessed by typing**%appdata%** in the address bar in File Explorer. By the way, make sure you’ve deleted **[options.txt](https://www.minecraftforum.net/forums/support/java-edition-support/3038499-minecraft-problem-to-launch-exit-code-0#c3)**  insider the**.minecraft** folder.
@@ -136,19 +114,13 @@ If this fix doesn’t help you, simply move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/minecraft-options-txt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **.minecraft** Folder
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check if your system is corrupted
@@ -161,6 +133,10 @@ If this fix doesn’t help you, simply move on to the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -189,18 +165,18 @@ If this fix doesn’t help you, simply move on to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-build-a-career-in-graphic-design/"><u>[New] How to Build A Career In Graphic Design</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-imovie-why-does-it-alter-my-videos/"><u>[Updated] In 2024, IMovie Why Does It Alter My Videos?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-immortal-no-pc-version-release-announced-yet/"><u>Diablo Immortal: No PC Version Release Announced Yet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-game-pause-7-strategies-for-fixing-halo-infinite-freezes/"><u>End the Game Pause: 7 Strategies for Fixing Halo Infinite Freezes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-the-live-view-of-task-manager-in-win-11/"><u>Enhance the Live View of Task Manager in Win 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-sign-up-and-use-the-facebook-marketplace-platform/"><u>How to Sign Up and Use the Facebook Marketplace Platform</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-8-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Asus ROG Phone 8 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-to-eliminate-fps-hiccups-stutters-and-optimize-game-performance/"><u>Troubleshooting Guide to Eliminate FPS Hiccups, Stutters & Optimize Game Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-does-ready-or-not-keep-crashing-solutions-for-a-stable-gaming-experience/"><u>Why Does Ready Or Not Keep Crashing? Solutions for a Stable Gaming Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxvideo-ihre-fragen-zur-kunstlichen-intelligenz-beantworten/"><u>WinXvideo: Ihre Fragen Zur Künstlichen Intelligenz Beantworten</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-configuration-clock-integration-for-streaming-software-for-2024/"><u>[New] Expert Configuration Clock Integration for Streaming Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dji-innovation-in-aviation-mavic-pro-deep-dive-for-2024/"><u>[Updated] DJI Innovation in Aviation Mavic Pro Deep Dive for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-your-gaming-experience-effective-methods-to-enhance-frames-per-second-fps-on-pc/"><u>Boosting Your Gaming Experience: Effective Methods to Enhance Frames Per Second (FPS) on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-palworlds-session-error-on-search-strategies-for-optimal-functionality/"><u>Bypassing PalWorld's Session Error on Search: Strategies for Optimal Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-in-game-interruptions-the-ultimate-8-fixes-for-vrchat-crashing-on-desktops/"><u>Conquer In-Game Interruptions: The Ultimate 8 Fixes for VRChat Crashing on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancements-and-patch-update-bring-zombie-army-4-dead-war-to-smooth-performance-on-pc/"><u>Enhancements and Patch Update Bring 'Zombie Army 4: Dead War' To Smooth Performance on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-note-50-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme Note 50 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-steam-error-code-130-a-comprehensive-guide/"><u>Resolving Steam Error Code 130: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scrutinizing-dji-drone-goggle-specifications/"><u>Scrutinizing DJI Drone Goggle Specifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gameplay-disruptions-fixing-life-is-strange-true-colors-crash-issues/"><u>Solving Gameplay Disruptions: Fixing Life Is Strange: True Colors [CRASH] Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-terraria-from-crashing-updated-troubleshooting-steps-for-gamers-in-245/"><u>Stop Terraria From Crashing: Updated Troubleshooting Steps for Gamers in 2#45</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win Your Battle Against Broken MSI Mystic Lights in Windows with These Fixes
-date: 2024-08-19T16:53:08.404Z
-updated: 2024-08-20T16:53:08.404Z
+date: 2024-11-23T21:43:22.514Z
+updated: 2024-11-26T18:14:22.239Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 5. [**Make sure to disable anti-cheats**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your hardware connection
 
  Before changing anything in your system, you need to make sure there’s nothing wrong with your hardware. You can refer to the manual and check the**LED connector** on your motherboard, or test the hardware on another PC to see if you need to RMA the product.
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  If you’re not familiar with computer hardware, you can contact a local repair shop, or continue to the following methods to see if the issue is software-related.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall Mystic Light completely
 
  This issue may suggest a misconfiguration or a faulty installation. Either way, you can try to solve the problem with a clean reinstall.
@@ -54,25 +59,25 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 2. Under**Apps & features** , click the input box and type**Dragon Center** . Select**Dragon Center** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-1.jpg)
 3. Next, search and uninstall**MSI SDK** . Then restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-2.jpg)
 4. You can now use the installer from the official site. Or you can install via Microsoft Store. To do that, on the bottom left corner, click the**Windows icon** and select**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-3.jpg)
 5. On the top right corner, click the search box and type**Dragon Center** . Press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-4.jpg)
 6. Under**Apps** , select**MSI Dragon Center** . Click**Get** to install.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 Once completed, launch Dragon Center and check if Mystic Light works now.
 
 If this trick doesn’t help you, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -84,17 +89,27 @@ If this trick doesn’t help you, take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers, restart your PC and check if Mystic Light works now.
 
  If the latest drivers don’t give you luck, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4:**Install all Windows updates**
 
@@ -109,10 +124,6 @@ If this trick doesn’t help you, take a look at the next one.
 
 Once done, do a reboot and see if
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 5: Make sure to disable anti-cheats
 
  According to some users, Mystic Light may be blocked by some**anti-cheats** such as**Riot Vanguard** and**FACEIT** . So you can check if you have certain online games installed on your system, like Valorant and CSGO.
@@ -124,16 +135,15 @@ The ultimate burning program for all your needs!</a>
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -151,14 +161,8 @@ If the problem persists, continue to the next fix below.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -173,8 +177,6 @@ If the problem persists, continue to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +184,26 @@ If the problem persists, continue to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-roblox-stuck-on-loading-screen/"><u>[Solved] Roblox Stuck on Loading Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>[Updated] Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-voice-editing-for-instagrams-media/"><u>[Updated] The Ultimate Guide to Voice Editing for Instagram's Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-iphone-and-ipads-best-video-player-compilation-top-10/"><u>2024 Approved IPhone & iPad's Best Video Player Compilation (Top 10)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-gionee-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Gionee</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/de-allerbeste-mp4-naar-mp3-konvertors-overoefenen-bestek-van-gebruiksvriendelijke-vormen/"><u>De Allerbeste MP4 Naar MP3 Konvertors Overoefenen, Bestek Van Gebruiksvriendelijke Vormen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-in-forza-horizon-5-by-upgrading-your-graphics-driver/"><u>Enhancing Gameplay in Forza Horizon 5 by Upgrading Your Graphics Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-f1-2021-game-crashes-on-your-computer/"><u>Fixes and Solutions: Resolving F1 2021 Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lag-and-stutter-in-battlegrounds-royale-for-a-smoother-gaming-experience/"><u>Fixing Lag and Stutter in Battlegrounds Royale for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-update-monitor-remains-black/"><u>GPU Update: Monitor Remains Black</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-record-screencast-from-youtube-for-free/"><u>In 2024, How To Record Screencast From YouTube For Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-browsers-performance-the-benefits-of-using-chromes-power-saving-features/"><u>Optimize Your Browser's Performance: The Benefits of Using Chrome’s Power-Saving Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-the-echoing-halls-of-tamriel-a-guide-to-fixing-skyrim-audio-problems/"><u>Reviving the Echoing Halls of Tamriel: A Guide to Fixing Skyrim Audio Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013836496-troubleshoot-apex-legends-loading-problems-instantly/"><u>Troubleshoot Apex Legends Loading Problems Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-solutions-for-zooms-persistent-black-screen-problem-on-your-computer/"><u>Troubleshooting Complete Solutions for Zoom's Persistent Black Screen Problem on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unanswered-questions-the-unexpected-halt-to-the-diablo-immortal-pc-launch/"><u>Unanswered Questions: The Unexpected Halt to the Diablo Immortal PC Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-dual-frame-rate-drops-on-your-personal-computer-solution-found/"><u>Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visualsizetweak-mastering-your-instagram-media-for-2024/"><u>VisualSizeTweak Mastering Your Instagram Media for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-power-users-tutorial-file-and-folder-removal-via-cmd/"><u>Windows 10 Power User's Tutorial: File & Folder Removal via CMD</u></a></li>
+</ul></div>
 

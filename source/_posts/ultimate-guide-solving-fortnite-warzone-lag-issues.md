@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Fortnite Warzone Lag Issues"
-date: 2024-08-19T16:52:49.634Z
-updated: 2024-08-20T16:52:49.634Z
+date: 2024-11-24T17:43:29.656Z
+updated: 2024-11-26T21:12:07.530Z
 tags:
   - win11
   - win10
@@ -45,6 +45,11 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to invoke Settings. Select**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working1.jpg)
 2. Scroll down and click**Microphone** . Click the**Change** button, then make sure the**Microphone for this device** is toggled**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working7.jpg)
 3. Check if**Allow apps to access your microphone** is**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working8.jpg)
@@ -53,23 +58,29 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Fix 2 Adjust sound settings on your computer
 
  Sometimes, OBS mic working issues may happen due to inappropriate sound settings on your computer. Therefore, try to adjust them following the instructions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Unmute OBS on your computer
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Open Volume Mixer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working9.jpg)
 2. Click the**speaker icon** under OBS to unmute it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Set the target audio device as default & Increase microphone volume
 
@@ -78,28 +89,30 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 2. Select**Recording** . Right-click on any empty place inside the window and tick**Show Disabled Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working13.jpg)
 4. Right-click it again and select**Set as Default Device** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working15.jpg)
 5. Right-click it again and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working16.jpg)
 6. Select the**Levels** tab, then drag the volume slider towards the largest value. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working24.jpg)
 7. Click**OK** again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Check if mic Exclusive Mode is on
 
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Sounds** .  
@@ -110,16 +123,13 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now you have made certain changes to your computer. Try to use the mic device on OBS to see if you have gotten rid of its microphone problem.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 3 Update audio driver
 
  OBS mic not-working issue may occur if you are using the**wrong audio driver** or it’s**out of date** . So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -148,24 +158,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Click**Settings** on the bottom-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working20.jpg)
 2. Click**Audio** on the left tab. Locate and uncheck**Enable Push-to-talk** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
 Use your microphone to check whether the problem is solved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5 Reinstall OBS
 
  OBS may have an undefined bug or missing files sometimes, which may be a possible cause for OBS mic not working problem. You may uninstall OBS and reinstall its latest version, to see if things go better.
@@ -173,15 +179,16 @@ Use your microphone to check whether the problem is solved.
 1. On your keyboard, press the**Windows logo key** and**I** to invoke Settings. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working2.jpg)
 2. Scroll down and click**OBS Studio** . Click**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working3.jpg)
 3. Visit[OBS official website](https://obsproject.com/) to**download** and**install** a new one for your computer.
 
  When the installation is complete, launch the application and use your mic. If it works, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 Upload log files to OBS support team
 
@@ -194,14 +201,8 @@ Use your microphone to check whether the problem is solved.
 2. Then you’ll be prompted to a pop-up window. Click**Copy URL** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working4.png)
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working10-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow the instructions of OBS technical support and they’ll spare no effort to help you grapple with this microphone matter.
 
 ---
@@ -217,8 +218,6 @@ Use your microphone to check whether the problem is solved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +225,20 @@ Use your microphone to check whether the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-yt-videos-for-igtv-presence/"><u>[Updated] Maximizing YT Videos for IGTV Presence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-x50-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor X50 by Name | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-resolve-lack-of-audio-during-twitch-live-broadcasts/"><u>Fix: How to Resolve Lack of Audio During Twitch Live Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2022-ultimate-fix-guide-for-pc-crashes-and-stability/"><u>Football Manager 2022 - Ultimate Fix Guide for PC Crashes and Stability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-5-best-monitors-to-complement-your-ps5-xbox-series-x/"><u>In 2024, The 5 Best Monitors to Complement Your PS5, Xbox Series X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-zte-nubia-flip-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from ZTE Nubia Flip 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-and-repairing-the-stubborn-issue-of-exam-launches-not-working-insights-users/"><u>Navigating and Repairing the Stubborn Issue of Exam Launches Not Working - Insights Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976771393-quick-download-guide-samsung-m2070fw-drivers-instant-access/"><u>Quick Download Guide: Samsung M2070FW Drivers - Instant Access!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/real-time-update-on-xbox-live-is-there-a-downtime-issue/"><u>Real-Time Update on Xbox Live - Is There a Downtime Issue?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-tips-for-troubleshooting-superheroes-in-your-game-pc-edition/"><u>Solving the Dilemma: Tips for Troubleshooting Superheroes in Your Game - PC Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-most-acclaimed-cloud-services-on-android-platform-for-2024/"><u>The Most Acclaimed Cloud Services on Android Platform for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/"><u>Top Gaming Console Picks for the Year 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-playing-avatar-frontiers-of-pandora/"><u>Troubleshooting Steps for Playing Avatar - Frontiers of Pandora</u></a></li>
+</ul></div>
 

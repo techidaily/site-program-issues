@@ -1,7 +1,7 @@
 ---
 title: Solution for Stop Star Citizen From Crashing on Windows Platforms
-date: 2024-08-19T16:50:50.607Z
-updated: 2024-08-20T16:50:50.607Z
+date: 2024-11-23T18:11:17.530Z
+updated: 2024-11-26T18:41:15.811Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect any peripheral devices
 
  To the Star Citizen crashing issue, you need to disconnect any external devices. It’s because the crash could be caused by the conflicting device.
@@ -44,18 +48,8 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Kill background programs
 
  Kill unnecessary background programs will give the game more resources and prevent crashing. Sometimes the Star Citizen crashing issue is due to conflicts programs acting at the background. These conflict programs could be capture programs.
@@ -66,6 +60,10 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
 
@@ -83,15 +81,21 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset your character account
 
@@ -102,17 +106,15 @@ So, there are two ways that you can update your graphics driver:
 3. Click**Reset Request** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Increase page file size
 
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
 
  Make sure you have enough free space on SSD and run the game in low settings with V-sync off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Reset or reinstall Windows
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
@@ -133,8 +135,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,18 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-that.techidaily.com/accessible-apple-8-must-use-functionality-adjustments-for-blind-iphone-users/"><u>Accessible Apple: 8 Must-Use Functionality Adjustments for Blind iPhone Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-tested-fixes-for-error-6-issues-in-call-of-duty-warzone-and-mod-wwii-games-on-windows-systems/"><u>Battle-Tested Fixes for Error 6 Issues in Call of Duty Warzone and Mod WWII Games on Windows Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/goovision-pro-high-quality-chromecasting/"><u>GooVision Pro High-Quality Chromecasting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-8s-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 8S Prowith/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-traditional-turing-test-obsolete-explore-five-contemporary-equivalents/"><u>Is the Traditional Turing Test Obsolete? Explore Five Contemporary Equivalents</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-c67-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme C67 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-display-dilemma-permanent-fix-for-wows-screen-glitch/"><u>Solve Your Display Dilemma: Permanent Fix for Wow's Screen Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-crash-issues-in-nioh-2-full-experience/"><u>Troubleshooting Tips for Resolving Crash Issues in Nioh 2 Full Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006825560-unveiling-the-truth-football-manager-2022-holds-off-onto-the-pitch-problems-fixed/"><u>Unveiling the Truth: Football Manager 2022 Holds Off Onto The Pitch – Problems Fixed!</u></a></li>
+</ul></div>
 

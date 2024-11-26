@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily"
-date: 2024-11-15T07:46:33.520Z
-updated: 2024-11-17T02:05:46.299Z
+date: 2024-11-19T16:13:45.039Z
+updated: 2024-11-26T18:22:51.363Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix it?
 
  You don’t have to try all the fixes; just work your way down the list until you find the one that gives you luck!
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Delete temporary files in Windows
 
  Excessive temporary files in your system can sometimes take up a large space on your computer. Deleting all the temporary files in Windows could speed up your PC and help Vegas Pro run more stably. Here’s how:
@@ -45,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%temp%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
@@ -59,22 +71,12 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
@@ -88,14 +90,11 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -128,13 +127,6 @@ If the issue is still there, you can move on to the next fix.
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Import your footage via the Explorer window
 
  If you normally would import your footage from the Explorer window, then feel free to skip to the next fix. If not, and your Vegas Pro often crashes as you try to drag the clips from the folders directly onto the timeline, try this quick fix:
@@ -144,6 +136,10 @@ If the issue is still there, you can move on to the next fix.
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
 
@@ -167,10 +163,7 @@ If the issue is still there, you can move on to the next fix.
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
@@ -188,26 +181,16 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable a CPU processor for Vegas Pro
 
@@ -217,21 +200,12 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
@@ -259,24 +233,24 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-exploring-bandicam-ultimate-guide-to-screen-capture/"><u>[New] Exploring Bandicam Ultimate Guide to Screen Capture</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] In 2024, Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-step-by-step-pubg-vocal-changes-made-easy/"><u>[Updated] In 2024, Step-by-Step PUBG Vocal Changes Made Easy</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-quick-tips-for-navigating-discord-message-interaction/"><u>2024 Approved Quick Tips for Navigating Discord Message Interaction</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-computing-guidance-from-toms-experts/"><u>Advanced Computing Guidance From Tom's Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-bg-adventure-conquer-common-issues-with-these-effective-6-strategies/"><u>Enhance Your BG Adventure: Conquer Common Issues with These Effective 6 Strategies!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-hacks-to-restore-your-clownfish-voip-adjusters-functionality/"><u>Fixes and Hacks to Restore Your Clownfish VOIP Adjuster's Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seaside-shots-comparison-gopro-hero5-and-sjcam-sj7/"><u>In 2024, Seaside Shots Comparison GoPro Hero5 & SJCAM SJ7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-starfield-startup-dilemma-fixes-for-steam-and-xbox-users/"><u>Overcoming the Starfield Startup Dilemma: Fixes for Steam & Xbox Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-performance-boost-resolving-the-double-drop-in-fps/"><u>PC Performance Boost: Resolving the Double Drop in FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/polymorphisms-in-the-vkorc1-gene-affect-warfarin-sensitivity-and-metabolism-necessitating-personalized-dose-adjustments/"><u>Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-cyberpunk-2077-installation-problems-on-steam-platform/"><u>Resolved: Fixing Cyberpunk 2077 Installation Problems on Steam Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tech-wizardry-unveiled-eradicate-chromes-window-freezes-in-windows-11-instantly/"><u>Tech Wizardry Unveiled: Eradicate Chrome's Window Freezes in Windows 11 Instantly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ost-benefit-analysis-should-you-sign-up-for-youtube-premium-for-2024/"><u>The Cost-Benefit Analysis Should You Sign Up for YouTube Premium for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-top-photo-protection-apps-reviewed/"><u>The Top Photo Protection Apps Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-constant-screen-flutter-issues/"><u>Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-smoother-pc-playthroughs-addressing-twofold-fps-drops-effectively/"><u>Unlocking Smoother PC Playthroughs: Addressing Twofold FPS Drops Effectively</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-montage-image-assembly-for-2024/"><u>Unveiling the Secrets of Montage Image Assembly for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-dragon-ball-z-kakarot-fatal-error-crash/"><u>[FIXED] Dragon Ball Z: Kakarot Fatal Error Crash</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-securely-downloading-vlc-media-player-for-free-on-macos/"><u>[New] In 2024, Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-honor-x7b-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Honor X7b to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-error-cleared-in-epic-games-launcher-solutions-inside/"><u>Black Screen Error Cleared in Epic Games Launcher - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-remedies-to-resolve-chrome-freeze-issues-on-windows-11-computers/"><u>Easy Remedies to Resolve Chrome Freeze Issues on Windows 11 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-lower-god-of-wars-system-resource-demands/"><u>Effective Techniques to Lower God of War's System Resource Demands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blue-screen-of-death-in-helldivers-version-2-expert-advice-here/"><u>Fixing 'Blue Screen of Death' In HellDivers Version 2 – Expert Advice Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-repairing-malfunctioning-amd-radeon-software-solutions-for-users/"><u>Guide to Repairing Malfunctioning AMD Radeon Software - Solutions for Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-broadcom-gige-network-drivers-for-optimal-performance-on-windows-10/"><u>How to Install or Update Broadcom GigE Network Drivers for Optimal Performance on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-total-horizon-capture-versus-focused-dimensionality/"><u>In 2024, Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-st060-the-next-gen-cpu-cooler-that-comes-with-a-six-inch-lcd-display-as-big-and-clear-as-an-iphone-15s-retina-screen/"><u>Lamptron ST060: The Next-Gen CPU Cooler That Comes With a Six-Inch LCD Display as Big and Clear as an iPhone 15'S Retina Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/methanol-is-metabolized-to-formaldehyde-and-formic-acid-which-can-cause-severe-acidosis-and-visual-disturbances/"><u>Methanol Is Metabolized to Formaldehyde and Formic Acid, Which Can Cause Severe Acidosis and Visual Disturbances.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-errors-in-geforce-experience-retrieving-saved-preferences-now-fixed/"><u>Overcoming Errors in GeForce Experience - Retrieving Saved Preferences Now Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-doom-eternal-fixing-game-crashes-effectively/"><u>Solve Your Problems with DOOM Eternal: Fixing Game Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-to-stop-maplestory-from-crashing-on-windows-10-latest-tips/"><u>Top Strategies to Stop MapleStory From Crashing on Windows 10 [Latest Tips]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stability-issues-on-call-of-duty-warzone-avoiding-crashes-on-the-pacific-map/"><u>Ultimate Solutions for Stability Issues on Call of Duty Warzone - Avoiding Crashes on the Pacific Map</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479252335-unseen-notifications-on-your-iphone-here-are-seven-easy-solutions-to-uncover-them/"><u>Unseen Notifications on Your iPhone? Here Are Seven Easy Solutions to Uncover Them</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-mighty-halo-bolt-combo-of-portable-charger-and-battery-booster-roadside-rescue-in-a-packet/"><u>Unveiling The Mighty Halo Bolt Combo of Portable Charger & Battery Booster: Roadside Rescue in a Packet</u></a></li>
 </ul></div>
 

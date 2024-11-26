@@ -1,7 +1,7 @@
 ---
 title: Top 6 Fixes for Unresponsive Microphone Issues
-date: 2024-08-19T16:55:32.507Z
-updated: 2024-08-20T16:55:32.507Z
+date: 2024-11-19T17:28:51.164Z
+updated: 2024-11-26T17:11:15.561Z
 tags:
   - win11
   - win10
@@ -38,9 +38,17 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Launch Discord again. It should be open normally.
 
@@ -55,8 +63,9 @@ When you double-click Discord but the program won’t open, it could be very fru
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
@@ -73,21 +82,19 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Use Task Manager
 
  Use Task Manager to close Discord tasks entirely and restart it could help you fix this problem.
@@ -100,9 +107,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 3) Restart Discord. It should open.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -116,25 +120,27 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 6) Relaunch the Discord and it should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
 
@@ -153,9 +159,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Launch the Discord again. It should open.
 
 ### Fix 7: Reinstall the Discord
@@ -173,9 +176,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -207,9 +215,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -229,8 +234,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +241,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-make-my-video-perfectly-fit-instagram-in-2024/"><u>[New] Make My Video Perfectly Fit Instagram, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-apeaksoft-screen-recorder-review/"><u>[Updated] 2024 Approved Apeaksoft Screen Recorder Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instantvideo-snipper-fb-edition/"><u>2024 Approved InstantVideo Snipper - FB Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-google-pixel-8-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Google Pixel 8 Pro Unlock Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
+<li><a href="https://win-top.techidaily.com/convertissez-gratuitement-un-fichier-mka-en-format-wav-en-ligne-avec-movavi/"><u>Convertissez Gratuitement Un Fichier MKA en Format WAV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-engaging-podcasts-step-by-step-guide-with-free-examples-for-2024/"><u>Crafting Engaging Podcasts Step-by-Step Guide with Free Examples for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-to-follow-tips-for-rectifying-javascript-errors-in-discord-app-development/"><u>Easy-to-Follow Tips for Rectifying JavaScript Errors in Discord App Development</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-understanding-and-preventing-unsatisfactory-frame-rates/"><u>Fixing the Issue: Understanding and Preventing Unsatisfactory Frame Rates</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-blur-background-of-your-youtube-video-2-easy-ways/"><u>In 2024, How to Blur Background of Your YouTube Video - 2 Easy Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tune-and-time-lapses-creating-music-videos-with-your-phone/"><u>In 2024, Tune & Time Lapses Creating Music Videos with Your Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-age-of-empires-iv-freezing-and-lagging-problems/"><u>Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985062023-say-goodbye-to-tormented-souls-pc-glitches-crash-free-gaming-experience-guaranteed/"><u>Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-connection-issues-with-your-stadia-gaming-headset-a-step-by-step-guide/"><u>Solving Connection Issues with Your Stadia Gaming Headset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-a-comprehensive-guide/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-msi-dragon-centre-stops-responding/"><u>Troubleshooting Steps When Your MSI Dragon Centre Stops Responding</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-your-love-for-music-with-these-8-amazing-free-iphone-apps/"><u>Unleash Your Love for Music with These 8 Amazing Free iPhone Apps</u></a></li>
+</ul></div>
 

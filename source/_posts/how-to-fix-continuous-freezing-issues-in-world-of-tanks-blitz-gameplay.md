@@ -1,7 +1,7 @@
 ---
 title: How to Fix Continuous Freezing Issues in World of Tanks Blitz Gameplay
-date: 2024-08-19T16:50:36.188Z
-updated: 2024-08-20T16:50:36.188Z
+date: 2024-11-23T21:53:19.769Z
+updated: 2024-11-26T21:04:58.943Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your system specs
 
  Before delving into troubleshooting, it’s crucial to ensure that your system meets the minimum requirements to run the game smoothly. Inadequate hardware specifications can cause crashes and performance issues.
@@ -50,6 +54,10 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-51-18-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-48-40.jpg)
@@ -60,18 +68,6 @@ Game crashing issues can be frustrating, especially when you’re immersed in an
 
  If your system falls short of the game’s requirements, consider upgrading your hardware or adjusting the game settings to lower graphics options.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: **Run your game as Administrator**
 
 _WoT Blitz_ doesn’t have full access to game files and folders on your computer if you’re running it under normal user mode. Try granting_WoT Blitz_ administrative privileges to see if that’s the problem for you. Follow the instructions below:
@@ -86,16 +82,10 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_11-59-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Relaunch Steam and_WoT Blitz_ to test your issue.
 
  You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**End unnecessary programs**
 
  If you’re running multiple programs on your PC, chances are that the programs use up too much memory and cause it to overload. By closing unnecessary programs, you can free up system memory and CPU usage, potentially resolving the game crashing issue. Here is how to do it:
@@ -109,13 +99,18 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-21.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-25-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -123,8 +118,9 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-03-36-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Relaunch_WoT Blitz_ to see if this has resolved your issue. If your issue persists, try **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### If you’re on Windows 8 or 10…
@@ -133,13 +129,14 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-07-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -150,9 +147,6 @@ _WoT Blitz_ doesn’t have full access to game files and folders on your compute
 
 If your issue continues to occur, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4:**Update your graphics driver**
 
 _World of Tanks Blitz_ crashing issues are likely to occur when you’re using a faulty graphics driver or it’s outdated. To keep your game running smoothly, it’s essential that you have the latest correct driver at all times. There are 2 ways you can update your graphics driver:
@@ -183,9 +177,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -193,17 +184,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-12-49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Set your PC’s power plan to High performance**
 
  Your computer might slow down automatically to save energy if you set the power plan to Balanced. Although it’s unlikely that the power plan is the core issue, you should rule out the possibility. Here is how to do it:
@@ -221,6 +208,10 @@ The powerful video editing program for your Windows PC</a>
  This can speed up your computer, but it will cause your computer to generate more heat.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-16-42.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and your game to test your issue.
 
@@ -241,6 +232,10 @@ The powerful video editing program for your Windows PC</a>
 **3)**  Restart your computer and your game after the update is complete.
 
 If the problem persists, check the fix 7, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Reinstall your game**
 
@@ -264,8 +259,9 @@ If the problem persists, check the fix 7, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-24-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Download and install_WoT Blitz_ again.
 
 You should be able to play the game now.
@@ -284,16 +280,10 @@ You should be able to play the game now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Relaunch_WoT Blitz_ after the process is complete.
 
  Hopefully, one of the fixes above helped in resolving your issue. Feel free to leave a comment below if you have any questions or suggestions.
@@ -310,8 +300,6 @@ You should be able to play the game now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -319,4 +307,23 @@ You should be able to play the game now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elite-gimbal-solutions-youtube-creators-stabilizing-allies/"><u>[New] 2024 Approved Elite Gimbal Solutions YouTube Creators' Stabilizing Allies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-chrome-high-cpu-usage/"><u>[SOLVED] Chrome High CPU Usage</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-diminishing-volume-fl-masterclass-for-2024/"><u>[Updated] Diminishing Volume FL Masterclass for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-stops-windows-from-updating-easy-fixes-for-a-smooth-operating-experience/"><u>Error 0X8024200d Stops Windows From Updating: Easy Fixes for a Smooth Operating Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-fb-selectively-presents-your-timeline/"><u>How FB Selectively Presents Your Timeline</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-elite-dangerous/"><u>How to Stop Your PC From Crashing While Playing Elite Dangerous</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-shooting-exceptional-micro-videos/"><u>In 2024, Secrets to Shooting Exceptional Micro Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/make-learning-a-new-language-your-2024-new-years-resolution/"><u>Make Learning A New Language Your 2024 New Year's Resolution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-game-of-survival-effective-solutions-for-preventing-naraka-bladepoint-freezes-and-crashes/"><u>Master the Game of Survival: Effective Solutions for Preventing Naraka: Bladepoint Freezes and Crashes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-zoom-on-windows-11-a-step-by-step-guide-for-2024/"><u>Mastering Zoom on Windows 11 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-play-experience-fixing-lag-in-code-vein-for-smooth-gameplay/"><u>Optimizing Your Play Experience: Fixing Lag in Code Vein for Smooth Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shortcuts-to-success-how-to-skip-edgenuity-online-lessons-gracefully/"><u>Shortcuts to Success How to Skip Edgenuity Online Lessons Gracefully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-destiny-2-on-pc-no-longer-faces-the-infamous-crash-bug/"><u>Solution Found: Destiny 2 on PC No Longer Faces the Infamous Crash Bug</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-20-inspiring-ideas-for-instagram-photos-for-2024/"><u>Top 20 Inspiring Ideas for Instagram Photos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-is-undetected-by-the-command-centre/"><u>Troubleshooting Steps When Your Astro A50 Is Undetected by the Command Centre</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-resolving-chrome-stutter-and-blur-on-windows-a-comprehensive-guide-for-2nd/"><u>Ultimate Solution for Resolving Chrome Stutter and Blur on Windows: A Comprehensive Guide for 2nD</u></a></li>
+</ul></div>
 

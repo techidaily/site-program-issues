@@ -1,7 +1,7 @@
 ---
 title: "Defeating Latency in Apex Legends: Connection Fixes That Worked for Me"
-date: 2024-08-19T16:54:09.813Z
-updated: 2024-08-20T16:54:09.813Z
+date: 2024-11-19T22:41:59.465Z
+updated: 2024-11-26T16:10:40.449Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 Connection issues can happen in every online game and bother many players. The League of Legends sometimes also occurs this issue. Don’t worry, you’re not alone. Here are the fixes for League of Legends connection issues.
 
  Before performing any troubleshooting methods, you’d better check the current status of the League of Legends servers. If the server you’re going to connect has a problem, you can simply change into another server to avoid the connection issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -38,14 +42,19 @@ Connection issues can happen in every online game and bother many players. The L
 1. Unplug both your router and modem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Switch Wi-Fi into a wired connection
 
  If you’ve already avoided possible wireless interference that weakens your Wi-Fi signal such as cordless phones and microwave ovens or simply move your laptop to a new location with a stronger Wi-Fi signal, but you still have the connection issue, you can try switch Wi-Fi into a wired connection.
@@ -60,16 +69,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Type “control panel” in the search box to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Run LOL to check the issue is resolved or not.
 
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
@@ -84,9 +92,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Update your device drivers
 
  Outdated network drivers may cause a connection issue. So you can try to update your network adapter driver to fix the problem.
@@ -101,11 +106,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -137,26 +143,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type **control** **panel** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
@@ -174,8 +183,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +190,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-taking-screen-grabs-compliance-on-youtube/"><u>[New] In 2024, Taking Screen Grabs Compliance on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/contrasting-conversational-algorithms-on-social-media/"><u>Contrasting Conversational Algorithms on Social Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-cve-2024-6-exception-access-errors/"><u>Expert Guide: Resolving CVE-2024-6 Exception Access Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia G310 Phones with/without a PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-virtualdub-replacements-top-picks-for-video-editing/"><u>New VirtualDub Replacements Top Picks for Video Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-usage-for-cyberpunk-2077-in-windows-10/"><u>Resolved: How to Enable GPU Usage for Cyberpunk 2077 in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speed-up-chrome-now-efficient-ways-to-optimize-your-browser-performance/"><u>Speed Up Chrome Now: Efficient Ways to Optimize Your Browser Performance</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-life-is-strange-true-colors-solutions-for-persistent-game-crashes/"><u>Troubleshooting Life Is Strange: True Colors - Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-mystery-mastering-attention-grabbing-posts-on-instagram/"><u>Unveiling the Mystery Mastering Attention-Grabbing Posts on Instagram</u></a></li>
+</ul></div>
 

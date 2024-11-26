@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Running Driver Easy in Its Lightweight Mode
-date: 2024-08-19T16:55:48.521Z
-updated: 2024-08-20T16:55:48.521Z
+date: 2024-11-22T17:48:28.005Z
+updated: 2024-11-26T18:30:13.351Z
 tags:
   - win11
   - win10
@@ -62,9 +62,6 @@ Recommended
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
@@ -82,10 +79,11 @@ If the issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -94,8 +92,9 @@ If the issue remains, check out the next fix.
 If the issue persists, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Check for Windows updates
 
  Much like cell phone updates, Windows updates are intended to give you new functionality, security improvement and bug fixes, helping your device run smoothly and efficiently. If you can’t remember the last time you ran Windows Update, you should give it a try now. To do so:
@@ -103,9 +102,11 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
@@ -119,6 +120,11 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
@@ -129,9 +135,6 @@ If the issue persists, take a look at the next fix.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 5: Perform a clean boot
 
  The Halo Infinite black screen issue may also be caused by software conflicts. To see if that’s the case, you can perform a clean boot. This will restart your PC with only essential services running, allowing you to figure out the potential conflicting software. Here’s how:
@@ -139,25 +142,32 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
@@ -174,9 +184,6 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. Reinstall Halo Infinite.
 
 Now you should be able to run the game without any problems.
@@ -194,8 +201,6 @@ Now you should be able to run the game without any problems.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +208,21 @@ Now you should be able to run the game without any problems.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-audio-capture-essentials-mastering-mac-setup-for-2024/"><u>[New] Audio Capture Essentials Mastering Mac Setup for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screencastify-a-comprehensive-recording-how-to-for-2024/"><u>[New] Screencastify A Comprehensive Recording How-To for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-prime-presenter-prefix-planner/"><u>[Updated] In 2024, Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-producing-dynamic-content-for-discord-channels-for-2024/"><u>[Updated] Producing Dynamic Content for Discord Channels for 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1-simplified-guide-top-2-methods-for-easily-backing-up-your-outlook-emails-to-computer/"><u>1. Simplified Guide: Top 2 Methods for Easily Backing Up Your Outlook Emails to Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-effective-strategies-to-resolve-terrarias-disconnection-issues/"><u>6 Effective Strategies to Resolve Terraria's Disconnection Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bluescreenbuster-a-detailed-tutorial-to-resolve-helldiver-iis-bsod-error/"><u>BlueScreenBuster: A Detailed Tutorial to Resolve Helldiver II's BSoD Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-hunt-on-fixes-for-when-monster-hunter-rise-refuses-to-boot/"><u>Get Your Hunt On! Fixes for When Monster Hunter Rise Refuses To Boot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-storm-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lava Storm 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-image-jest-inc-punpictures-pro/"><u>In 2024, Image Jest Inc PunPictures Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-connect-to-server-issues-in-lost-ark-a-step-by-step-guide/"><u>Resolving 'Cannot Connect to Server' Issues in Lost Ark: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-8007000e-error-during-windows-updates-easily/"><u>Troubleshoot and Solve the Persistent 8007000E Error During Windows Updates Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-machine-effective-solutions-to-prevent-pc-crashes/"><u>Troubleshoot Your Machine: Effective Solutions to Prevent PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-issues-in-windows-11-and-windows-10/"><u>Troubleshooting Dolby Atmos Issues in Windows 11 and Windows 10</u></a></li>
+</ul></div>
 

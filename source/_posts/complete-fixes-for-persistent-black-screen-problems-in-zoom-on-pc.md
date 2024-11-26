@@ -1,7 +1,7 @@
 ---
 title: Complete Fixes for Persistent Black Screen Problems in Zoom on PC
-date: 2024-08-19T16:56:18.993Z
-updated: 2024-08-20T16:56:18.993Z
+date: 2024-11-22T21:54:18.071Z
+updated: 2024-11-26T20:18:02.806Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 3. [**Run the game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
@@ -58,31 +62,21 @@ There are mainly two ways to update your drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Run the game as an administrator
 
  Madden 22 may fail to work with no administrator rights given. A simple trick is to run the game as an administrator. Here are the steps:
@@ -90,12 +84,13 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 See if the issue persists. If yes, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
 
@@ -108,9 +103,11 @@ See if the issue persists. If yes, continue to the next solution.
 2. Right-click Madden 22 from the list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -124,9 +121,6 @@ See if the issue persists. If yes, continue to the next solution.
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 5 – Temporarily disable your antivirus
 
  If you’ve installed antivirus programs to protect your computer from potential threats, they can sometimes be overprotective and mistakenly block your games like Madden 22 from working.
@@ -156,8 +150,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +157,20 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-unparalleled-harmony-collector-android-based-for-2024/"><u>[New] Unparalleled Harmony Collector, Android-Based for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-jokes-that-rule-top-twenty-on-social-networks-for-2024/"><u>[Updated] Jokes that Rule Top Twenty on Social Networks for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-most-liked-and-watched-twitters-2023-hits/"><u>2024 Approved Most Liked & Watched Twitters' 2023 Hits</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Hot 30 5G FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-to-fixing-division-2s-launch-issues-pro-gamer-hacks-updated/"><u>DIY Guide to Fixing Division 2'S Launch Issues - Pro Gamer Hacks (Updated)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-experience-by-minimizing-delay-and-maximizing-frames-per-second-fps-in-fall-guys/"><u>Enhance Your Experience by Minimizing Delay and Maximizing Frames per Second (FPS) in Fall Guys</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instantaneous-change-from-srt-to-txt-with-our-proven-methods/"><u>In 2024, Instantaneous Change From SRT to TXT with Our Proven Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-console-background-in-ps5/"><u>Modify Console Background in PS5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/practical-demonstrations-creating-and-configuring-timer-modules-in-obs/"><u>Practical Demonstrations Creating and Configuring Timer Modules in OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rectifying-body-stream-errors-with-chatgpt/"><u>Rectifying Body-Stream Errors with ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-the-darkness-fixing-your-fallout-4s-persistent-pitch-black-problem/"><u>Resolve the Darkness: Fixing Your Fallout 4'S Persistent Pitch-Black Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skyrim-speed-hacks-elevate-your-adventure-by-accelerating-gameplay/"><u>Skyrim SPEED HACKS: Elevate Your Adventure by Accelerating Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gameplay-glitches-overcoming-mouse-control-issues-in-resident-evil-village/"><u>Solving Gameplay Glitches: Overcoming Mouse Control Issues in Resident Evil Village</u></a></li>
+</ul></div>
 

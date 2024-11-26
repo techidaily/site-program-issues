@@ -1,7 +1,7 @@
 ---
 title: "Solving the Warzone DirectX Glitch: A Four-Step Guide"
-date: 2024-08-19T16:50:54.016Z
-updated: 2024-08-20T16:50:54.016Z
+date: 2024-11-24T20:36:58.024Z
+updated: 2024-11-26T19:11:16.874Z
 tags:
   - win11
   - win10
@@ -65,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 2. Right-click**Age of Empires IV** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -88,22 +85,23 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and check if you can launch Age of Empires IV now.
 
  If you’re still having trouble launching the game, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  If you’re not running DirectX 12 on your device, you’re likely to encounter the Age of Empires IV not launching issue. To fix it, you need to install all pending Windows updates. Here’s how:
@@ -111,18 +109,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update Visual C++ Redistributables
 
  Visual C++ Redistributables are software packages required by many applications to function properly. If there are any missing or corrupted redistributables files, your game may not launch. So make sure you have all the necessary files to run Age of Empires IV. You can find the latest visual studio files[here](https://support.microsoft.com/en-in/help/2977003/the-latest-supported-visual-c-downloads) .
@@ -139,9 +139,9 @@ Check if you can launch the game without any problem.
 If this fix doesn’t work for you, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check your security software
 
  Your security software may prevent the game from launching. To make sure Age of Empires IV is not being blocked by your security software, you can add the game to the allow-list of**Windows Defender** ,**Windows Security** ,**Windows Controlled Folder Access** and**your antivirus program** . Here’s how:
@@ -151,13 +151,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** .
 
 #### Windows Security
@@ -175,9 +182,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Select**Allow an app through Controlled folder access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
 
@@ -189,9 +193,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 If it doesn’t, try the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  The Age of Empires IV may not launch if you’re running software that interferes with Steam and your game. To see if that’s the case, you can perform a clean boot. Here’s how:
@@ -199,23 +200,23 @@ If it doesn’t, try the last fix below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type **msconfig** and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
 
@@ -235,8 +236,6 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +243,26 @@ Restart your PC to apply the changes after enabling each service.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-direct-download-and-mp3-creation-for-streaming-video-files/"><u>[New] Direct Download & MP3 Creation for Streaming Video Files</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-30-marketing-moments-that-can-transform-your-fb-game-for-2024/"><u>[New] The 30 Marketing Moments That Can Transform Your FB Game for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-approach-crafting-quality-subtitles-for-facebook-videos-in-minutes/"><u>[Updated] In 2024, Step-By Step Approach Crafting Quality Subtitles for Facebook Videos in Minutes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-click-to-victory-the-best-12-pc-games-for-dedicated-players/"><u>2024 Approved Click to Victory The Best 12 PC Games for Dedicated Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-for-portability-the-top-nintendo-switch-docks-of-2024/"><u>A New Era for Portability: The Top Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989275597-centipede-issue-in-destiny-2-resolved-learn-how-it-got-fixed/"><u>Centipede Issue in Destiny 2 Resolved – Learn How It Got Fixed</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/code-switching-to-success-21st-century-linguistic-skills/"><u>Code-Switching to Success: 21St Century Linguistic Skills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-76-performance-issues-fixes-and-workarounds/"><u>Fallout 76 Performance Issues: Fixes & Workarounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001799866-huckels-rule-states-that-4n-plus-2-pi-electrons-are-required-for-an-aromatic-compound-which-can-be-applied-to-determine-aromaticity-in-monocyclic-systems/"><u>Hückel's Rule States that [4N + 2] Pi Electrons Are Required for an Aromatic Compound, Which Can Be Applied to Determine Aromaticity in Monocyclic Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-phantom-v-fold-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Phantom V Fold Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003676446-league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/metaverse-metaphors-discovering-6-detailed-instances-for-2024/"><u>Metaverse Metaphors Discovering 6 Detailed Instances for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-pc-issues-with-starting-resident-evil-5/"><u>Resolved: Fixing PC Issues with Starting Resident Evil 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-star-citizen-stability-issues-on-windows-platforms/"><u>Resolved: Star Citizen Stability Issues on Windows Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-sending-and-receiving-imessage-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Sending & Receiving iMessage on Your PC with Windows - Tips From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001252902-troubleshooting-ghostrunner-game-errors-on-windows-11-expert-solutions/"><u>Troubleshooting Ghostrunner Game Errors on Windows 11 - Expert Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-multiversus-pc-launch-issues/"><u>Troubleshooting Tips: Resolving MultiVersus PC Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-pc-glitches-non-responsive-intel-driver-and-support-tool-explained/"><u>Understanding PC Glitches: Non-Responsive Intel Driver & Support Tool Explained</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unique-steps-for-rejuvenating-corrupted-videos/"><u>Unique Steps for Rejuvenating Corrupted Videos</u></a></li>
+</ul></div>
 

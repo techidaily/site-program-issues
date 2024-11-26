@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2024-11-14T08:21:31.900Z
-updated: 2024-11-17T00:01:31.221Z
+date: 2024-11-21T17:04:42.260Z
+updated: 2024-11-26T18:13:45.653Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fixes for Apex Legends Engine Error
 
  Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -42,22 +50,13 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -76,13 +75,6 @@ Here is how to grant administrative privileges to Apex Legends:
  1) On your keyboard, press the Windows logo key and type Apex Legends. Once the game shows up as a result, right-click on**Apex Legends** and select **Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
@@ -105,22 +97,12 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
@@ -129,19 +111,6 @@ Here is how to verify game files:
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -155,6 +124,10 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -162,6 +135,10 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers] "TdrDelay"=hex(b):08,00,00,00,00,00,00,00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**File** \>**Save as…**
 
@@ -197,19 +174,24 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-inside-look-how-does-vr-headgear-work/"><u>[Updated] 2024 Approved Inside Look How Does VR Headgear Work?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-rewind-to-glory-with-top-5-pc-ps1-emulation-tools/"><u>[Updated] In 2024, Rewind to Glory with Top 5 PC PS1 Emulation Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-screen-issues-addressed-proven-strategies-to-get-back-online/"><u>Black Screen Issues Addressed: Proven Strategies to Get Back Online</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-best-5-alternatives-to-malwarebytes-that-will-boost-your-pcs-safety-in-windows/"><u>Discover the Best 5 Alternatives to Malwarebytes That Will Boost Your PC's Safety in Windows 지대</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/discovering-the-basics-of-digital-pixel-landscapes-for-2024/"><u>Discovering the Basics of Digital Pixel Landscapes for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enhance-discoverability-with-effective-video-tags-for-2024/"><u>Enhance Discoverability with Effective Video Tags for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-file-is-locked-issue-on-steam-a-comprehensive-guide/"><u>Fixing the 'File Is Locked' Issue on Steam: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-boost-your-steam-game-downloads-and-prevent-lag/"><u>How to Boost Your Steam Game Downloads and Prevent Lag</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-innovative-practices-in-creating-powerful-youtube-summaries/"><u>In 2024, Innovative Practices in Creating Powerful YouTube Summaries</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/leading-surveillance-and-safety-technologies-2024-edition/"><u>Leading Surveillance and Safety Technologies - 2024 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-visuals-now-crisp-tackling-the-challenge-of-hazy-graphics/"><u>Outriders Visuals Now Crisp: Tackling the Challenge of Hazy Graphics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/reddits-golden-threads-a-commendable-collection-top-10-for-2024/"><u>Reddit's Golden Threads A Commendable Collection (Top 10) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-madden-nfl-2ncrashes-on-your-pc-effective-solutions-and-tips/"><u>Resolving Madden NFL 2Ncrashes on Your PC: Effective Solutions and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-fix-the-critical-steam-ui-component-failure-steamuidll/"><u>Solution Found! How to Fix the Critical Steam UI Component Failure (steamui.dll)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008600524-detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-cyberpunk-2077-lag-and-stuttering/"><u>[Fixed] Cyberpunk 2077 Lag and Stuttering</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-seamless-transition-of-tweeted-vids-to-snappy-ends/"><u>[Updated] 2024 Approved The Seamless Transition of Tweeted Vids to Snappy Ends</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficiency-boost-discover-the-top-5-youtube-shorteners-for-2024/"><u>[Updated] Efficiency Boost Discover the Top 5 YouTube Shorteners for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elite-meme-design-software/"><u>[Updated] Elite Meme Design Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-luminary-megascape-ultimate-4k-integrated-hubs/"><u>[Updated] Luminary MegaScape Ultimate 4K Integrated Hubs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>[Updated] Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-guide-to-optimizing-your-picsart-experience/"><u>2024 Approved Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>2024 Approved Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>2024 Approved Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-fixes-to-stop-euro-truck-simulator-2-from-crashing-on-your-windows-computer/"><u>Common Fixes to Stop Euro Truck Simulator 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-fixes-for-cities-skylines-2-when-it-wont-start-properly/"><u>Critical Fixes for 'Cities: Skylines 2' When It Won't Start Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-solving-recurring-stardew-valley-game-crashes-on-windows/"><u>Expert Advice for Solving Recurring Stardew Valley Game Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuck-loading-screen-in-dota-2-for-a-smooth-gameplay-experience/"><u>How to Fix Stuck Loading Screen in Dota 2 for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-se-2022-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone SE (2022)? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-darkness-a-step-by-step-solution-to-black-screens-in-destiny-2/"><u>Overcoming Darkness: A Step-by-Step Solution to Black Screens in Destiny 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-repairing-a-damaged-disk-in-steam-platform/"><u>Quick Guide to Repairing a Damaged Disk in Steam Platform</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tips-and-tricks-for-joining-friends-live-on-tiktok/"><u>Tips & Tricks for Joining Friends' LIVE on TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-fixing-recurring-wwe-2k22-crash-problems-on-pc/"><u>Ultimate Guide to Fixing Recurring WWE 2K22 Crash Problems on PC</u></a></li>
 </ul></div>
 

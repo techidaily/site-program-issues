@@ -1,7 +1,7 @@
 ---
 title: "Winning Over Glitches: Permanent Solutions to MapleStory Crashing on Windows 10"
-date: 2024-08-19T16:56:20.062Z
-updated: 2024-08-20T16:56:20.062Z
+date: 2024-11-21T19:24:57.469Z
+updated: 2024-11-26T17:25:41.435Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ Here are Grounded’s minimum specs:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your computer isn’t geared up for the game, then it’s time to upgrade your PC. If you have perfect PC specs but still see the crashing problem, then read on to find out more fixes below.
 
 ---
@@ -70,6 +74,10 @@ Here are Grounded’s minimum specs:
 If the problem persists, move towards the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -101,9 +109,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -114,8 +119,9 @@ If the problem persists, move towards the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
  Many players reported that Grounded crashes in the DirectX 12 mode. In this case, you can force the game to run on DirectX 11 and see if the problem is solved.
@@ -124,9 +130,17 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have an older version such as DirectX 10 or DirectX 9, you may need to **[update DirectX](https://tools.techidaily.com/drivereasy/download/)**  to run the game.
 
@@ -142,24 +156,22 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Relaunch Grounded to check if the issue is solved. If not, there’s another fix for you.
 
 ---
@@ -172,9 +184,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right click**Grounded** on the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
@@ -184,17 +193,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Play single-player in the offline mode
 
  Playing with friends is absolutely one of the most charming parts of Grounded. However, if you constantly run into crashing at the loading screen and couldn’t even complete a whole game, you could try playing single player in the offline mode.
@@ -207,9 +212,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
@@ -219,8 +221,9 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch Steam. Then, play the game in single-player and see how it works.
 
  If none of the fixes above gets you out of the crashes, the last option is to wait for a new game patch. Since Grounded still works in progress, it’s expected the new game patches will fix the crashing issue and significantly improve the gaming experience.
@@ -239,8 +242,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +249,24 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamlining-your-edit-with-jump-cut-tips/"><u>[New] 2024 Approved Streamlining Your Edit with Jump Cut Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-shootout-max-360-vs-hero-11-performance-analysis/"><u>[New] GoPro Shootout Max 360 vs Hero 11 Performance Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-virtual-landscapes-with-android-vr360/"><u>2024 Approved Exploring Virtual Landscapes with Android (VR/360)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-experience-overcoming-low-fps-challenges-in-the-latest-formula-one-video-game-on-pc/"><u>Boosting Your Gaming Experience: Overcoming Low FPS Challenges in the Latest Formula One Video Game on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003797147-continuous-pc-crashes-while-playing-watch-dogs-legion-solved/"><u>Continuous PC Crashes While Playing Watch Dogs: Legion - Solved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-updating-your-amd-ryzen-chipset-drivers/"><u>Effortless Guide: Updating Your AMD Ryzen Chipset Drivers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-clean-install-of-windows-11-on-a-new-internal-drive-a-comprehensive-guide/"><u>How to Perform a Clean Install of Windows 11 on a New Internal Drive – A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100 5G?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/optimal-choices-foremost-audio-craftsmen-for-iphones/"><u>Optimal Choices Foremost Audio Craftsmen for iPhones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005757058-resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-roblox-freezing-issues-on-your-desktop-in-just-6-steps/"><u>Troubleshoot and Resolve Roblox Freezing Issues on Your Desktop in Just 6 Steps!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-to-stop-frame-rate-issues-and-stuttering-in-battlefield-2042-on-desktops/"><u>Troubleshooting Techniques to Stop Frame Rate Issues & Stuttering in Battlefield 2042 on Desktops</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Your Civilization 6 Startup Troubles Under Windows 10 With These Simple Solutions
-date: 2024-08-19T16:56:54.314Z
-updated: 2024-08-20T16:56:54.314Z
+date: 2024-11-21T17:04:50.926Z
+updated: 2024-11-26T17:30:39.383Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-bot-launching-featured.jpg)
 
  Looks like the recent update of[Civilization VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=cd14dcaa4f3443f19f7169a980559c62) didn’t go so well, and many gamers start reporting a**game not launching** issue. But annoying as the problem may be, it might not be so hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -47,9 +51,6 @@ Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  It’s very likely that your game won’t run when you’re using**a broken or outdated graphics driver** . If you’re an avid gamer, you should always keep your drivers up to date so as to avoid compatibility and performance issues.
@@ -60,15 +61,9 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
@@ -82,9 +77,11 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -93,6 +90,10 @@ If this doesn’t help, you can take a look at the next fix below.
 
 If this solution doesn’t help, you can continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  Given we all have different desktop environments, the cause of the issue could be**interfering programs** . If you’re not sure, do a clean boot to rule out this possibility.
@@ -100,20 +101,18 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -126,11 +125,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
@@ -139,8 +143,9 @@ If a clean boot doesn’t help, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
@@ -153,8 +158,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +165,20 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-tailoring-your-linkedin-url/"><u>[New] 2024 Approved Tailoring Your LinkedIn URL</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-release-dates-for-podcast-episodes/"><u>[New] Best Release Dates for Podcast Episodes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-capturing-youtube-captions-3-easy-methods-of-srt-extraction/"><u>[New] In 2024, Capturing YouTube Captions 3 Easy Methods of SRT Extraction</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-free-and-paid-tools-master-your-google-meet-sessions/"><u>[Updated] In 2024, Free & Paid Tools Master Your Google Meet Sessions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-quick-start-guide-to-engaging-with-ios-vr-content-for-2024/"><u>[Updated] Quick Start Guide to Engaging with iOS VR Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/"><u>Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-10-premier-websites-offering-quality-digital-learning-experiences/"><u>Explore 10 Premier Websites Offering Quality Digital Learning Experiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/"><u>Getting Helldivers 2 Up & Running on Steam - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtubes-richest-content-creator-ever/"><u>In 2024, YouTube's Richest Content Creator Ever</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002592694-pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recent-ios-beta-release-halted-by-apple-amidst-iphone-issues-revealed/"><u>Recent iOS Beta Release Halted by Apple Amidst iPhone Issues Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/"><u>Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/"><u>Troubleshooting Tips: Fixing PC Compatibility for an Optimal 'Disco Elysium' Experience</u></a></li>
+</ul></div>
 

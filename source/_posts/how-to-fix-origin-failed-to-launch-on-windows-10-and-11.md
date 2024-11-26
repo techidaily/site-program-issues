@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Origin Failed to Launch' On Windows 10 & 11
-date: 2024-08-19T16:51:07.456Z
-updated: 2024-08-20T16:51:07.456Z
+date: 2024-11-22T21:28:04.206Z
+updated: 2024-11-26T21:21:13.724Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6b1891992681f1be8b20a193547f611a2de266588
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-bot-launching-featured.jpg)
 
  Looks like the recent update of[Civilization VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=cd14dcaa4f3443f19f7169a980559c62) didn’t go so well, and many gamers start reporting a**game not launching** issue. But annoying as the problem may be, it might not be so hard to fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,6 +45,11 @@ Here’s how to do it on the Epic Games client:
 1. Open your Epic Games client and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 Now you can try again and see if Civ 6 launches.
@@ -48,8 +57,9 @@ Now you can try again and see if Civ 6 launches.
 If this doesn’t help, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  It’s very likely that your game won’t run when you’re using**a broken or outdated graphics driver** . If you’re an avid gamer, you should always keep your drivers up to date so as to avoid compatibility and performance issues.
@@ -64,8 +74,9 @@ If this doesn’t help, you can take a look at the next fix below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
@@ -73,8 +84,9 @@ If this doesn’t help, you can take a look at the next fix below.
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -90,9 +102,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
 If this solution doesn’t help, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Perform a clean boot
 
  Given we all have different desktop environments, the cause of the issue could be**interfering programs** . If you’re not sure, do a clean boot to rule out this possibility.
@@ -100,23 +109,22 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -131,9 +139,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
@@ -155,8 +160,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +167,24 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/eep-dive-into-rank-tracker-solutions-for-peak-success-on-youtube-for-2024/"><u>[New] Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-farm-tastic-fun-and-games-the-ultimate-agricompanion-titles/"><u>[New] Farm-Tastic Fun & Games The Ultimate AgriCompanion Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-5-hidden-gems-to-watch-insta-stories-for-2024/"><u>[Updated] Top 5 Hidden Gems to Watch Insta Stories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-startup-problems-making-thaumaturge-crafting-applications-work-on-windows/"><u>Addressing Startup Problems: Making Thaumaturge Crafting Applications Work on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-error-n-troubleshooting-pc-issue-solved/"><u>CoD Vanguard Error 'N' Troubleshooting (PC) [Issue Solved]</u></a></li>
+<li><a href="https://discover-help.techidaily.com/come-installare-lestensione-del-codec-av1-su-windows-11-i-tre-metodi-essenziali/"><u>Come Installare L'Estensione Del Codec AV1 Su Windows 11: I Tre Metodi Essenziali</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-cure-game-freeze-ups-optimizing-performance-in-valheim-for-pc-gaming/"><u>Diagnose & Cure Game Freeze-Ups: Optimizing Performance in Valheim for PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eight-essential-solutions-to-prevent-guardians-of-the-galaxy-from-freezing-on-your-pc/"><u>Eight Essential Solutions to Prevent Guardians of the Galaxy From Freezing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989852031-fallout-3-and-windows-11-compatibility-overcoming-unexpected-freezes-together/"><u>Fallout 3 & Windows 11 Compatibility – Overcoming Unexpected Freezes Together</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-stuttering-glitch-in-total-war-three-kingdoms/"><u>How I Fixed the Stuttering Glitch in Total War: Three Kingdoms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>In 2024, Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-crashes-with-these-8-proven-fixes-for-hogwarts-legacy-on-your-computer/"><u>Resolve Game Crashes with These 8 Proven Fixes for Hogwarts Legacy on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-the-echoes-expert-tips-for-fixing-sound-errors-in-skyrim/"><u>Reviving the Echoes: Expert Tips for Fixing Sound Errors in Skyrim</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tech-disruption-identifying-vulnerable-occupations/"><u>Tech Disruption: Identifying Vulnerable Occupations?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-filmoras-most-attractive-edits-for-2024/"><u>Unveiling Filmora's Most Attractive Edits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-computer-turn-off-while-im-playing-games-fixes-for-windows-10-81-and-up/"><u>Why Does My Computer Turn Off While I'm Playing Games? Fixes for Windows 10, 8.1 & Up.</u></a></li>
+</ul></div>
 

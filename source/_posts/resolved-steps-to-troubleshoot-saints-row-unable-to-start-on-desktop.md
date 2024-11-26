@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Steps to Troubleshoot Saints Row Unable to Start on Desktop"
-date: 2024-08-19T16:54:10.938Z
-updated: 2024-08-20T16:54:10.938Z
+date: 2024-11-21T22:20:00.259Z
+updated: 2024-11-26T22:28:52.881Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -86,6 +83,10 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
@@ -105,8 +106,9 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 If you continue to have the crashing problem, please proceed to Fix 3.
@@ -127,18 +129,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -162,17 +158,15 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) After the verification is finished, relaunch Star Wars Jedi and see if your problem goes away.
 
  If verifying the integrity of game files didn’t resolve your issue, you should take a stab at Fix 4.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close unnecessary programs
 
  If there’s a program in your PC that conflicts with Star Wars Jedi, you’ll probably fail to run the game. Although this kind of software clashes don’t occur very often, it’s still worth trying to close unnecessary programs.
@@ -184,11 +178,16 @@ To completely shut down a program:
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -204,6 +203,10 @@ To completely shut down a program:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -213,8 +216,9 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
@@ -243,8 +247,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +254,18 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/discord-and-javascript-woes-heres-how-to-fix-them/"><u>Discord and JavaScript Woes? Here’s How to Fix Them!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-ways-to-resolve-freezing-issues-between-chrome-and-windows-10/"><u>Easy Ways to Resolve Freezing Issues Between Chrome and Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-qbittorrent-torrents-from-freezing-up/"><u>Effective Solutions for Preventing qBittorrent Torrents From Freezing Up</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effortless-methods-to-combine-dvd-episodes-into-one-continuous-film-in-minutes/"><u>Effortless Methods to Combine DVD Episodes Into One Continuous Film in Minutes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users/"><u>How to Grab Free and Safe VLC with Minimal Risk for macOS Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-nord-ce-3-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Nord CE 3 5G FRP Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-how-to-fix-non-launching-problems-on-your-device/"><u>Star Wars Jedi: Fallen Order - How to Fix Non-Launching Problems on Your Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/subnautica-beneath-the-ice-crash-error-fixes-and-tweaks-for-gaming-laptopspcs/"><u>Subnautica Beneath the Ice Crash Error Fixes & Tweaks for Gaming Laptops/PCs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-art-of-video-marketing-11-tips-to-skyrocket-fb-traffic-for-2024/"><u>The Art of Video Marketing 11 Tips to Skyrocket FB Traffic for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-pova-5-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo T2 Pro 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes for Epic's LS-0013 Launcher Glitch in Fortnite
-date: 2024-08-19T16:57:24.946Z
-updated: 2024-08-20T16:57:24.946Z
+date: 2024-11-25T17:11:03.085Z
+updated: 2024-11-26T16:25:50.436Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -46,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  If your problem still persists, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Set your graphics settings to Low
 
  If your game settings is set High, it’s possible that your Fortnite is not loading, since the graphics settings are too much to load for your computer. So you should set your Fortnite graphics settings to Low.
@@ -66,10 +71,11 @@ To do so, follow these steps:
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -92,9 +98,6 @@ To do so, follow these steps:
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
@@ -108,16 +111,10 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Configure your computer settings
 
  Your PC settings problem can be one of the possible causes for Fortnite not loading. If your computer is not configured properly, you can’t make full use of your system sources and will have the Fortnite not loading issue.
@@ -132,20 +129,28 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### 2\. Adjust settings in System Properties
 
  To fix the issue if your Fortnite won’t load, you can also adjust your system settings:
@@ -156,18 +161,17 @@ Below lists out some PC settings you can configure:
 3. Click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
 
@@ -184,8 +188,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +195,23 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-best-caller-id-changers-and-their-enchanting-alternatives-for-2024/"><u>[Updated] Best Caller ID Changers & Their Enchanting Alternatives for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensive-list-best-screenshot-and-video-grabbers-for-windows-10/"><u>[Updated] Comprehensive List Best Screenshot & Video Grabbers for Windows 10</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/windows-11mp4wmv/"><u>保存された画質を維持しつつ、Windows 11用にMP4からWMVへ効果的な変換 - 手順ガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-why-arent-the-2024-game-finals-launching-expert-advice-inside/"><u>Fixing the Problem: Why Aren't The 2024 Game Finals Launching? Expert Advice Inside!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-camon-20-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Camon 20 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-crashing-problems-in-nba-k23-for-pc-learn-our-best-solutions/"><u>Overcome Crashing Problems in NBA ^K23 for PC – Learn Our Best Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-framerate-drops-how-to-optimize-deathloop-on-your-pc/"><u>Overcoming Framerate Drops: How to Optimize Deathloop on Your PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-8t-video-recovery-recover-deleted-videos-from-play-8t-by-fonelab-android-recover-video/"><u>Play 8T Video Recovery - Recover Deleted Videos from Play 8T</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-reducing-chromes-high-system-resource-usage/"><u>Solution Strategies for Reducing Chrome's High System Resource Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-battlefield-2042-and-directx-interaction-challenges/"><u>Step-by-Step Solution to Fix Battlefield 2042 and DirectX Interaction Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-end-of-frustrating-input-delay-in-cyberpunk-2077-solutions-applied/"><u>The End of Frustrating Input Delay in Cyberpunk 2077 - Solutions Applied</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-issue-of-witcher-3-not-starting/"><u>Ultimate Guide: Solving the Issue of Witcher 3 Not Starting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-c55-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Poco C55 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Open | Dr.fone</u></a></li>
+</ul></div>
 

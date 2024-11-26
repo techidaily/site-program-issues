@@ -1,7 +1,7 @@
 ---
 title: "Solved: How To Stop Recurring Freezes During Your Overwatch Matches"
-date: 2024-08-19T16:56:30.200Z
-updated: 2024-08-20T16:56:30.200Z
+date: 2024-11-21T22:11:13.166Z
+updated: 2024-11-26T18:17:19.998Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b31925
 
 NieR Replicant ver.1.22474487139… is finally online! But did you manage to play it? It could be annoying to have the game crash on startup. Don’t worry, this post could help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your specs
 
 Make sure your PC meets the minimum requirement of NieR Replicant.
@@ -27,6 +31,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Memory    | 8 GB Ram                                     |
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,17 +61,20 @@ If this fix doesn’t work, move to the next fix.
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  When the game files are missing or corrupted, the game would crash. Verify the integrity of game files can simply solve the issue.
@@ -72,10 +83,6 @@ If this fix doesn’t work, move to the next fix.
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
@@ -95,17 +102,10 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -122,25 +122,20 @@ Here’s how to disable Windows Security temporarily.
 1. Press the**Windows logo key and I** together on your keyboard to open Windows Settings. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -157,8 +152,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +159,24 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-superior-software-packages-to-improve-webcam-videos/"><u>[New] Superior Software Packages to Improve Webcam Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effortless-nourishment-with-arf-pets-auto-feeder-hands-off-mealtime-solutions/"><u>Effortless Nourishment with Arf Pet's Auto-Feeder: Hands-Off Mealtime Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-pacific-drive-malfunctions-and-stalling-behavior-on-your-desktop/"><u>Guide to Correcting Pacific Drive Malfunctions and Stalling Behavior on Your Desktop</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A54 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/heroes-of-might-and-magic-vii-crashing-fix-ultimate-solutions-for-a-smooth-gaming-experience/"><u>Heroes of Might & Magic VII Crashing Fix - Ultimate Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-iphone-saving-insta-pics-and-videos/"><u>In 2024, IPhone Saving Insta Pics and Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-complete-laptop-recording-manual-dell-edition/"><u>In 2024, The Complete Laptop Recording Manual Dell Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pacific-battlefront-issues-in-cod-warzone-solved-crashing-problems/"><u>Pacific Battlefront Issues in COD: Warzone - Solved Crashing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-ahead-how-to-prevent-frequent-among-us-disruptions-and-crashes-2024-edition/"><u>Seamless Gaming Ahead: How To Prevent Frequent Among Us Disruptions and Crashes - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-conundrum-steps-to-address-stagnation-in-society/"><u>Solving the Conundrum: Steps to Address Stagnation in Society</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-content-file-blocked-error-in-your-steam-library/"><u>The Ultimate Fix for 'Content File Blocked' Error in Your Steam Library</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-12-mini-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 12 mini Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-analysis-why-apples-latest-m2-powerhouse-is-the-ultimate-choice-for-consumers-insights/"><u>Top Rated iPad Air Analysis: Why Apple's Latest M2 Powerhouse Is the Ultimate Choice for Consumers - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-connection-problems-in-lost-ark-expert-tips-and-solutions/"><u>Troubleshooting Connection Problems in Lost Ark: Expert Tips & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993098360-update-trouble-heres-how-you-can-fix-minecraft-launcher-issues-easily/"><u>Update Trouble? Here's How You Can Fix Minecraft Launcher Issues Easily</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-to-download-best-public-domain-video-websites-for-2024/"><u>Updated Get Ready to Download Best Public Domain Video Websites for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/flac-alac-3/"><u>ベスト FLAC から ALACへの無料コンバーターソフトを紹介 - トップ3選!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Remedy for Origin Crash Error – Effortless Troubleshooting Guide Inside
-date: 2024-08-19T16:51:03.995Z
-updated: 2024-08-20T16:51:03.995Z
+date: 2024-11-24T16:59:55.101Z
+updated: 2024-11-26T18:36:12.454Z
 tags:
   - win11
   - win10
@@ -41,14 +41,34 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 2. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .  
 ![run-dialog %ProgramData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-ProgramData.png)
 3. In the pop-up window, double-click the **Origin**  folder to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ProgramData Origin folder](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder.png)
 4. Delete all the files and folders in this folder **except for the LocalContent folder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
 6. In the pop-up window, delete the **Origin**  folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Roaming-Origin-folder.png)
 7. Click **AppData** in the address bar.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
@@ -74,9 +94,9 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  The Origin client may crash if the graphics driver on your PC is corrupted or outdated. In this case, you should try updating the graphics driver.
@@ -91,9 +111,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -116,14 +133,8 @@ If Origin crashes again, try the next fix to update your graphics driver.
 1. Close Origin if it is running. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . Under the**Process** tab, end the following processes: “Origin”, “OriginWebHelperservice” and “OriginThinSetupInternal”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager-main-screen.png)
 2. Go to your Origin install folder (Normally the path should be**C:\\Program Files (x86)\\Origin** ) and delete the file “**OriginThinSetupInternal** “.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/origin-123.png)
 3. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshoot.png)
@@ -132,16 +143,14 @@ If Origin crashes again, try the next fix to update your graphics driver.
 6. Click**Test the program…** to see if the new settings fix the problem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-3.png)
 8. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 9. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Program-compatibility-troubleshooter3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Adjust the following settings manually and select **OK** when you’re done.
 
@@ -150,19 +159,17 @@ If Origin crashes again, try the next fix to update your graphics driver.
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshooter-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using 4K monitor, you can try the**Change high DPI settings** option:
 
 1. Click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties.png)
 2. **Check the box** next to**Override high DPI scaling behavior** , and set**Scaling performed by:** **System** . Click**OK** to close the Origin Properties window and save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  If Origin still crashes after you tried this fix, try the next one, below.
 
 ---
@@ -176,14 +183,8 @@ If Origin crashes again, try the next fix to update your graphics driver.
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch Origin again to see if it crashes. If not, congratulations! You’ve fixed this issue. If this issue reappears, try the next fix, below.
 
 ---
@@ -207,9 +208,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -218,14 +216,12 @@ If Origin crashes again, try the next fix to update your graphics driver.
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Restart** your PC and launch Origin to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
@@ -245,17 +241,9 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -265,13 +253,9 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iv. Restart your Windows system when it is completed.
 
  2) **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -290,8 +274,6 @@ iv. Restart your Windows system when it is completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,4 +281,18 @@ iv. Restart your Windows system when it is completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-ultimate-handbook-for-watching-facebook-livestreams/"><u>[New] 2024 Approved The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>[New] In 2024, Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-social-snagging-5-chrome-hdl-vids/"><u>[Updated] 2024 Approved Mastering Social Snagging 5 Chrome HDL Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gameplay-in-cyberpunk-2077-fixes-for-fps-fluctuations/"><u>Boosting Your Gameplay in Cyberpunk 2077: Fixes for FPS Fluctuations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-roblox-freezing-issues-on-your-computer-in-just-6-steps-latest-guide/"><u>Fix Roblox Freezing Issues on Your Computer in Just 6 Steps – Latest Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-redmi-note-12-4g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 12 4G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/"><u>Tips to Cut Down on God of War's Demand on Your Computer's Processor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-bluestacks-app-malfunctions-5-simple-solutions/"><u>Troubleshoot BlueStacks App Malfunctions: 5 Simple Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-like-a-pro-defeat-paladins-crashing-issues-with-expert-tips/"><u>Troubleshoot Like a Pro: Defeat Paladins Crashing Issues with Expert Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Motorola Moto G04? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the DirectX Problem in FIFA 20 - A Step-by-Step Guide
-date: 2024-08-19T16:54:05.254Z
-updated: 2024-08-20T16:54:05.254Z
+date: 2024-11-19T21:26:13.716Z
+updated: 2024-11-26T18:07:53.194Z
 tags:
   - win11
   - win10
@@ -66,15 +66,27 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45-1024x251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the programs you want to close and select**End Task** . Specifically, if you have the Riva Statistics software or MSI Afterburner, try turning them off when you’re gaming to see if the issue persists.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart_GTA5_ to see if this fixed your issue.
 
 If it didn’t, read on and try Fix 3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -86,21 +98,19 @@ If it didn’t, read on and try Fix 3.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Relaunch_GTA5_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Adjust your virtual memory
 
@@ -114,27 +124,26 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
@@ -144,6 +153,10 @@ If it didn’t, read on and try Fix 3.
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click **Set** , then **OK** .
 
@@ -163,16 +176,10 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-18-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-21-51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then restart the game.
@@ -192,8 +199,9 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game.
 
  Hopefully, this article helped. Please leave a comment below if you have any questions or suggestions, or if you managed to fix this issue in some other way. I would love your thoughts!
@@ -211,8 +219,6 @@ If the issue continues to occur, go to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +226,24 @@ If the issue continues to occur, go to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video-for-2024/"><u>[New] How to Easily Add Subtitles and Closed Captions to YouTube Video for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channeling-wealth-through-beauty-online-platforms-for-2024/"><u>[Updated] Channeling Wealth Through Beauty Online Platforms for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/5yy65z2x5pah5lu25pww5o2u5ogi5asn77ya5pyj5pwi55qe5pa55rov5zkm5oqa5ben/"><u>区块文件数据恢复：有效的方法和技巧</u></a></li>
+<li><a href="https://program-issues.techidaily.com/closing-lols-recurring-connection-loop-insights-into-the-2024-game-patch-enhancements-and-error-corrections/"><u>Closing LoL's Recurring Connection Loop: Insights Into the 2024 Game Patch Enhancements and Error Corrections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-solutions-for-prey-game-crashing-issues-on-personal-computers/"><u>Common Solutions for Prey Game Crashing Issues on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dual-impact-unraveling-the-complexities-of-it-takes-two-crashes-in-pc-gaming/"><u>Dual-Impact: Unraveling the Complexities of 'It Takes Two Crashes' In PC Gaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/echovid-save-facebook-calls-for-2024/"><u>EchoVid - Save Facebook Calls for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-new-realms-a-detailed-jaunt-vr-review-for-2024/"><u>Exploring New Realms A Detailed Jaunt VR Review for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-performance-of-dragon-age-origins-after-fixing-compatibility-with-windows-11/"><u>Improved Performance of Dragon Age: Origins After Fixing Compatibility with Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-x50iplus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor X50i+ Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t4n-laptop-driver-downloads-for-windows-101187-step-by-step-instructions/"><u>Lenovo T4n Laptop Driver Downloads for Windows 10/11/8/7: Step-by-Step Instructions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996290789-no-more-freezes-in-naraka-point-blades-effective-solutions-inside/"><u>No More Freezes in Naraka: Point Blades – Effective Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-call-of-duty-warzone-launch-issues/"><u>Resolved: Fixes for 'Call of Duty Warzone' Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rust-debugging-guide-overcoming-frequent-software-crashes/"><u>Rust Debugging Guide: Overcoming Frequent Software Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-fallout-4s-sluggish-load-times-insider-tips-and-tricks-revealed/"><u>Solve Fallout 4'S Sluggish Load Times: Insider Tips & Tricks Revealed</u></a></li>
+</ul></div>
 

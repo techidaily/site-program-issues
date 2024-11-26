@@ -1,7 +1,7 @@
 ---
 title: Reconfigured Cosmos Endures Intermittent Ice Age - Problem Solved
-date: 2024-08-19T16:57:07.533Z
-updated: 2024-08-20T16:57:07.533Z
+date: 2024-11-21T22:57:11.443Z
+updated: 2024-11-26T22:43:22.175Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 Amazon’s MMO New World has a very engaging and in-depth system that attracts gamers to play the game. But there’re bugs and technical mishaps such as constantly freezing that may frustrate you.  
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +33,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 5. [Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Reset your system without losing data](https://tools.techidaily.com/drivereasy/download/)
 7. [Move the files to the SSD drive](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -57,16 +65,18 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 1. Open your Steam client and go to **LIBRARY** . Right-click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
 
@@ -78,18 +88,17 @@ If the problem persists, take a look at the next fix below.
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Underclock your GPU core
 
  Many gamers overclock graphics cards for better performance. Usually, the higher you overclock your GPU, the more processing power you get. But for the New World freezing issue, underclocking your GPU core could be the solution.
@@ -101,9 +110,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
@@ -111,8 +117,9 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 If it’s still not working, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  The freezing issue usually relates to the graphics settings, some players indicate after they capped their FPS and lower graphics settings, the freezing issue was gone.  
@@ -123,9 +130,11 @@ If it’s still not working, try the next fix.
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
@@ -143,10 +152,6 @@ If it’s still not working, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -168,8 +173,6 @@ If you haven’t tried it, give it a go it might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +180,21 @@ If you haven’t tried it, give it a go it might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-in-pixels-we-trust-a-guide-to-photomontages/"><u>[New] 2024 Approved In Pixels We Trust A Guide to Photomontages</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-tactical-approach-to-youtube-video-enhancement-with-imovie-for-2024/"><u>[Updated] A Tactical Approach to YouTube Video Enhancement with iMovie for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop-for-2024/"><u>[Updated] From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/camera-not-working-in-google-meet-heres-how-you-can-fix-it/"><u>Camera Not Working in Google Meet? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dbpower-600a-peak-charger-18000mah-top-notch-performance-for-on-the-go-charging-a-review/"><u>DBPower 600A Peak Charger 18000mAh - Top Notch Performance for On-the-Go Charging: A Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-your-outpost-infinacy-siege-gameplay/"><u>Expert Advice for Stabilizing Your Outpost: Infinacy Siege Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-restoring-accessibility-in-your-steam-friends-network/"><u>Expert Guide to Restoring Accessibility in Your Steam Friends Network</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-common-errors-when-launching-star-wars-the-old-republic-swtor/"><u>Fixes for Common Errors When Launching Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-enhancement-picture-posting-guide/"><u>In 2024, Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-localizing-your-content-adding-subtitles-to-igtv/"><u>In 2024, Localizing Your Content Adding Subtitles to IGTV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-quick-fix-guide-for-uninterrupted-gameplay-on-borderlands-3/"><u>Master the Quick-Fix Guide for Uninterrupted Gameplay on Borderlands 3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/to-construct-or-acquire-choosing-the-ideal-personal-computing-solution-for-you/"><u>To Construct or Acquire: Choosing the Ideal Personal Computing Solution for You</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winxvideo-ai-telechargement-facile-pour-ios-et-android/"><u>WinxVideo AI: Téléchargement Facile Pour iOS Et Android</u></a></li>
+</ul></div>
 

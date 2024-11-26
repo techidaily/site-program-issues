@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Minecraft “Drivers Outdated” Message"
-date: 2024-08-19T16:54:52.473Z
-updated: 2024-08-20T16:54:52.473Z
+date: 2024-11-23T19:03:15.919Z
+updated: 2024-11-26T16:09:35.768Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b1dd8faa0beaf2c68ee22b112a11d419910d65751
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Minecraft-not-installing.png)
 
  Minecraft is a sandbox-style game with open online play fosters creativity, which attracts a large number of players to dive into this game. However, users start to complain that this game cannot even be installed on Windows 11\. This can be quite frustrating. If you’re on the same boat, no worries. Here we’ve put together some fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started…
 
@@ -40,8 +44,9 @@ If that doesn’t work for you, try the fixes below.
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Allow Minecraft installer through firewall
 
  The Windows Firewall is a built-in application that protects users from internet-based threats. However, sometimes it may mistakenly prevent trustworthy software from making changes on your system. To check if that’s your case, you can manually add Minecraft installer to the list of bypassing the firewall. Below are the steps you can take.
@@ -51,12 +56,13 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
@@ -73,14 +79,19 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . If there are any updates available, Windows will download them.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
 ## 3\. Update your device drivers
@@ -94,26 +105,11 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
@@ -127,14 +123,12 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
 4. Click on the**Run** button next to**Windows Store Apps** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
@@ -142,8 +136,9 @@ If that doesn’t work for you, try the fixes below.
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run a full scan of your PC
 
  If all else fails, it’s time you check whether you have missing or corrupted system files, which will negatively affect your system’s performance and even trigger some errors. In this situation, you can use the System File Checker (SFC) tool to run the command sfc /scannow. But most of the time it only scans major files and may miss minor issues.
@@ -170,8 +165,6 @@ If that doesn’t work for you, try the fixes below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +172,18 @@ If that doesn’t work for you, try the fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/scaping-a-stroke-on-your-youtube-channel-for-2024/"><u>[New] Escaping a Stroke on Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-rated-3d-tools-for-youtube-video-startups/"><u>[Updated] 2024 Approved Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>[Updated] Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-unresponsive-realtek-mics/"><u>Expert Advice on Repairing Unresponsive Realtek Mics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-a-non-launching-city-skylines-2-expert-tips-and-tricks/"><u>Fixing a Non-Launching City Skylines 2 - Expert Tips and Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-intel-device-drivers-fixes-when-the-assistant-fails/"><u>Troubleshooting Intel Device Drivers: Fixes When the Assistant Fails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zombie-army-s-game-crashes-for-pc-players/"><u>Troubleshooting Zombie Army S Game Crashes for PC Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gbadvance-legends-on-your-idevice-with-leading-simulators/"><u>Unlocking GBAdvance Legends on Your iDevice with Leading Simulators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/videoapp-insight-a-comprehensive-evaluation/"><u>VideoApp Insight A Comprehensive Evaluation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-halted-by-error-132-heres-how-to-get-you-back-in-game/"><u>World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game</u></a></li>
+</ul></div>
 

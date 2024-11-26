@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Techniques for Unfreezing Call of Duty: Black Ops Cold War - A Step-by-Step Approach"
-date: 2024-08-19T16:57:36.186Z
-updated: 2024-08-20T16:57:36.186Z
+date: 2024-11-19T17:13:54.763Z
+updated: 2024-11-26T16:22:53.669Z
 tags:
   - win11
   - win10
@@ -65,20 +65,22 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Double-click **Display adapters** . Then, right-click **your graphics card** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **4)** Click **Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
 ---
@@ -98,15 +100,13 @@ If your issue persists, don’t fret. Move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-22_9-48-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -128,25 +128,28 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 4: Delete game cache files
 
  Clearing game cache files can improve your gaming performance and allow the game to start when it will not otherwise work. So if Black Ops 4 won’t launch on your PC,
@@ -159,9 +162,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
@@ -171,18 +171,20 @@ If your issue persists, don’t fret. Move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-04_12-31-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Relaunch your game to test the issue.
 
  If_BO4_ still won’t launch, don’t fret. There are still 2 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for software conflicts
 
@@ -201,14 +203,15 @@ Here is how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-14-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
 
@@ -236,23 +239,18 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 **5)** Click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **7)**  Click the **Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-18.jpg)
@@ -293,9 +291,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click the **Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-38-25.jpg)
@@ -310,9 +305,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 If your game still won’t launch, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 6: Update Windows components
 
  Windows releases regular updates to fix bugs. It’s probable that a recent update is conflicting with your game and a new update is needed to fix it. Here’s how to check for Windows updates:
@@ -321,23 +313,14 @@ If your game still won’t launch, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 **3)** Restart your computer and the game after the update is complete.
 
 If the issue persists, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the game
 
  If none of the fixes above worked for you, it could be the game’s installation files at fault. Try uninstalling the game, then restart your PC to download and install_Call of duty: Black Ops 4_ .
@@ -355,8 +338,6 @@ If the issue persists, try the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -364,4 +345,21 @@ If the issue persists, try the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-open-source-switch-clones/"><u>[New] 2024 Approved Premier Open-Source Switch Clones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-access-creative-banners-for-video-makers-at-zero-price-for-2024/"><u>[New] Access Creative Banners for Video Makers at Zero Price for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-farm-family-bonding-the-ultimate-agritainment-guide/"><u>[New] In 2024, Farm Family Bonding The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>[Updated] 2024 Approved How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] In 2024, Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-issues-heres-how-to-get-unstuck/"><u>Code Vein Freezing Issues? Here's How to Get Unstuck!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-no-rest-for-the-wicked-game-crashing-issues-on-your-computer/"><u>Diagnosing and Repairing 'No Rest for the Wicked' Game Crashing Issues on Your Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>In 2024, Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>In 2024, Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/um-watchlists-highest-youtube-movie-selections-for-2024/"><u>Premium Watchlists Highest YouTube Movie Selections for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-valorants-crash-dilemma-a-quick-guide-to-mend-graphic-driver-issues/"><u>Resolve Valorant's Crash Dilemma - A Quick Guide to Mend Graphic Driver Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-nioh-2-from-crashing-completely/"><u>Troubleshooting Tips: How To Stop Nioh 2 From Crashing Completely</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-choice-top-android-3d-players/"><u>Ultimate Choice Top Android 3D Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-slow-fps-how-to-optimize-valheim-on-your-pc/"><u>Winning the Fight Against Slow FPS: How to Optimize Valheim on Your PC</u></a></li>
+</ul></div>
 

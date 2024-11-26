@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: How to Get Your Discord Application Running Smoothly Again"
-date: 2024-08-19T16:55:58.450Z
-updated: 2024-08-20T16:55:58.450Z
+date: 2024-11-25T18:12:12.247Z
+updated: 2024-11-26T20:20:47.521Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2-2-300x109.png)
 
 **Origin won’t open on your PC?** Don’t worry! You’re not alone. Many Origin users have reported this issue. But the good news is you can fix it. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
@@ -64,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/3053aa186a22e246fde2fd4dd8f2c112e4536c6f6
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Double-click the**Local**  folder to open it.
 
@@ -116,10 +132,15 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -129,9 +150,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
@@ -144,9 +162,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
 * **Compatibility mode:**  If Origin won’t open on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
@@ -156,16 +171,13 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -178,9 +190,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -189,9 +198,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
@@ -208,16 +214,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
@@ -225,8 +225,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -245,9 +246,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 7: Reinstall Origin**
 
  If all the fixes above still don’t work, it’s time to uninstall Origin and reinstall it.
@@ -264,9 +262,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -285,8 +291,6 @@ iv. Restart your Windows system when it is completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +298,22 @@ iv. Restart your Windows system when it is completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimizing-virtual-engagements-with-these-top-10-essential-apps/"><u>[New] 2024 Approved Optimizing Virtual Engagements with These Top 10 Essential Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-snap-camera-no-available-camera-input/"><u>[Solved] Snap Camera No Available Camera Input</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-10-lost-and-found-techniques-for-iphone-x/"><u>[Updated] 2024 Approved Top 10 Lost and Found Techniques for iPhone X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-playlist-of-timeless-anime-themes/"><u>[Updated] The Ultimate Playlist of Timeless Anime Themes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-win-11-mov-file-recording-guide-for-2024/"><u>[Updated] Win 11 MOV File Recording Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-state-of-the-art-devices-for-online-live-shows/"><u>2024 Approved State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-7-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 7 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-rogue-launch-issues-discover-effective-troubleshooting-steps/"><u>Assassin’s Creed Rogue Launch Issues? Discover Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-watchlist-20-great-movies-streamable-now-lifewire-selection/"><u>Essential Watchlist: 20 Great Movies Streamable Now (Lifewire Selection)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-compiled-shader-glitch-for-a-smooth-cod-black-ops-cold-war-gaming-experience/"><u>Fixing the Compiled Shader Glitch for a Smooth COD: Black Ops Cold War Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolving-steamvr-error-code-308/"><u>Fixing the Issue: A Step-by-Step Guide to Resolving SteamVR Error Code 308</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won't Launch</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ovenproof-gloves-or-potholders/"><u>Ovenproof Gloves or Potholders</u></a></li>
+</ul></div>
 

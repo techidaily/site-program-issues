@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2024-11-12T08:27:07.025Z
-updated: 2024-11-17T02:58:10.247Z
+date: 2024-11-21T17:40:58.199Z
+updated: 2024-11-26T18:49:05.087Z
 tags:
   - win11
   - win10
@@ -42,28 +42,8 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2: Beyond Light** from the game list, and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
@@ -72,10 +52,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -125,24 +102,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable the shader cache
@@ -156,19 +131,20 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Destiny 2: Beyond Light
 
@@ -179,10 +155,7 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
@@ -216,20 +189,20 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-futureproofing-your-data-with-premium-2024-cloud-storages/"><u>[New] Futureproofing Your Data with Premium 2024 Cloud Storages</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-illuminating-seamless-transitions-in-song-production-crossfade-for-2024/"><u>[New] Illuminating Seamless Transitions in Song Production (Crossfade) for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlocking-visual-potential-the-power-of-lut-transformations/"><u>[New] In 2024, Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>[New] Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nlock-short-videos-the-6-best-and-complimentary-downloaders/"><u>[New] Unlock Short Videos The 6 Best & Complimentary Downloaders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-your-screen-on-chromebook-methods-4-you/"><u>[Updated] Capture Your Screen on Chromebook Methods 4 You</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-choosing-the-right-gimbal-for-flawless-youtube-footage-for-2024/"><u>[Updated] Choosing the Right Gimbal for Flawless YouTube Footage for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-initialization-problems-with-age-of-empires-iv/"><u>How to Resolve Initialization Problems with Age of Empires IV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-improvements-for-windows-10-users-crashes-solved/"><u>Microsoft Edge Stability Improvements for Windows 10 Users [Crashes Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-warframes-persistent-freezing-a-comprehensive-guide/"><u>Overcoming Warframe's Persistent Freezing: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-starfields-excessive-cpu-drain-a-comprehensive-guide/"><u>Resolve Starfield's Excessive CPU Drain : A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-errors-how-to-restore-camera-functionality-in-snapchat/"><u>Resolving Errors - How to Restore Camera Functionality in Snapchat</u></a></li>
-<li><a href="https://win-online.techidaily.com/step-by-step-guide-setting-up-mirror-synchronization-using-aomei-backupper-on-macos/"><u>Step-by-Step Guide: Setting Up Mirror Synchronization Using AOMEI Backupper on macOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-eac-error-ensuring-successful-setup-of-easy-anti-cheat-software/"><u>Troubleshoot and Fix EAC Error: Ensuring Successful Setup of Easy Anti-Cheat Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-playstation-portable-title-forge-warrior-collapse-in-windows-environment/"><u>Troubleshooting PlayStation Portable Title: Forge Warrior Collapse in Windows Environment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>[New] In 2024, Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-of-radio-drama-crafting/"><u>[Updated] Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>[Updated] Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-iphone-mastery-seamless-tiktok-video-acquisition/"><u>2024 Approved IPhone Mastery Seamless TikTok Video Acquisition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-mornings-explore-the-best-seven-alarm-clock-apps-for-optimal-alertness/"><u>Elevate Your Mornings: Explore the Best Seven Alarm Clock Apps for Optimal Alertness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-stuck-screens-in-minecraft-for-windows-users/"><u>Expert Advice: Overcoming Stuck Screens in Minecraft for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990438365-expert-tips-for-getting-your-windows-11-taskbar-back-in-action/"><u>Expert Tips for Getting Your Windows 11 Taskbar Back in Action!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-blackout-dilemma-during-your-zoom-calls-on-windows-devices-guide/"><u>How to Resolve the Blackout Dilemma During Your Zoom Calls on Windows Devices (Guide )</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/latest-update-proton-vpn-introduces-wireguard-encryption-technology-for-enhanced-security-on-linux-systems/"><u>Latest Update: Proton VPN Introduces WireGuard Encryption Technology for Enhanced Security on Linux Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-windows-a-comprehensive-guide-of-13-tips/"><u>Rejuvenating Windows: A Comprehensive Guide of 13 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-fixing-the-issue-when-google-chrome-wont-launch/"><u>Solution Found: Fixing the Issue When Google Chrome Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-the-black-screen-problem-when-launching-elden-ring/"><u>Solution Guide: Overcoming the Black Screen Problem When Launching Elden Ring</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/tipps-und-tricks-zum-wiedererlangen-verlorener-informationen-von-einer-toten-ssd-eine-detaillierte-anleitung-zur-datenwiederherstellung-auf-m2-festplatten.m258/"><u>Tipps Und Tricks Zum Wiedererlangen Verlorener Informationen Von Einer Toten SSD: Eine Detaillierte Anleitung Zur Datenwiederherstellung Auf M2-Festplatten</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-the-dying-light-noise-error-for-a-flawless-gaming-experience/"><u>Troubleshoot the Dying Light Noise Error for a Flawless Gaming Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-avs-video-editor-review-pros-cons-and-features-for-2024/"><u>Updated AVS Video Editor Review Pros, Cons, and Features for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Cyberpunk 2077 Installation Problems on Steam Platform"
-date: 2024-08-19T16:55:10.138Z
-updated: 2024-08-20T16:55:10.138Z
+date: 2024-11-25T20:39:56.128Z
+updated: 2024-11-26T16:58:17.960Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -36,21 +40,22 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/DLC-uncheck-install.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, you should be able to fix the game stuck at 57.4/64 GB issue. If this didn’t work for you, proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Fix 2: Change Steam download server
 
  When there are so many players downloading the game, servers might be overloaded. Changing Steam download server can help you fix it. Here are the steps you can take:
@@ -63,18 +68,12 @@ No advertising on the website.
   
 ![change Steam download server](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location-donwnload-region.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the changes, resume your download to check if this boosts your download speed.
 
  You can also check[Steam Download Stats](https://store.steampowered.com/stats/content/) to avoid the high traffic.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Set Steam’s priority to High
 
  Waiting for Steam games to update or download can be vexing. And you would be quite frustrated with the slow unpacking speed. But the good news is, setting Steam’s priority to High in the Task Manager can help you. Follow the steps below to do that:
@@ -124,6 +123,10 @@ Here’s how it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Clear download cache
 
  Clearing your download cache can solve problems with game’s slow download speed or other download issues. This process will not affect your currently installed games, but you’ll need to log into Steam afterwards. Here’s how you can do this:
@@ -133,25 +136,19 @@ Here’s how it works:
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Set a bandwidth limit
 
  If you notice connection problems during Steam downloads, or want to limit how much bandwidth Steam can use, take these steps:
@@ -161,15 +158,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now you should be able to download your game at a faster speed.
 
 ---
@@ -182,8 +181,6 @@ Now you should be able to download your game at a faster speed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +188,18 @@ Now you should be able to download your game at a faster speed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-eclipsing-fears-in-your-first-10-videos/"><u>[Updated] In 2024, Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-sdk-upgrade-alert-enhancing-facebook-video-downloader-apps-for-android/"><u>2024 Approved SDK Upgrade Alert Enhancing Facebook Video Downloader Apps for Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-the-frustration-of-days-gone-crashes-in-2e4-expert-fix-solutions-revealed/"><u>Avoid the Frustration of 'Days Gone' Crashes in 2E4: Expert Fix Solutions Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-samsung-galaxy-watch-active-for-a-healthier-lifestyle/"><u>Comprehensive Review of the Samsung Galaxy Watch Active for a Healthier Lifestyle</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-battlefield-4-sound-glitches-with-these-expert-troubleshooting-tips/"><u>Fix Your Battlefield 4 Sound Glitches with These Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-in-madden-2nolution-solutions-for-a-smooth-experience/"><u>Fixing PC Instability in Madden 2Nolution: Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-poco-x5mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Poco X5Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002371951-nier-gestaltreplicant-stability-improved-no-more-system-crashes/"><u>NieR: Gestalt/Replicant Stability Improved - No More System Crashes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ps5xbox-series-x-game-screens-the-ultimate-guide-for-2024/"><u>PS5/Xbox Series X Game Screens The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-stuck-rust-programs-2024-strategies/"><u>Revive Your Stuck Rust Programs: 2024 Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-fixing-mordhaus-crash-errors/"><u>Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beyond Light Crashing Issues Resolved - Improved Game Stability on PC
-date: 2024-08-19T16:55:41.078Z
-updated: 2024-08-20T16:55:41.078Z
+date: 2024-11-19T18:41:29.530Z
+updated: 2024-11-26T19:58:55.228Z
 tags:
   - win11
   - win10
@@ -53,11 +53,12 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -68,13 +69,15 @@ The outdated or broken graphics driver often crashes the game.
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -84,8 +87,9 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -95,11 +99,12 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -108,9 +113,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
@@ -136,8 +138,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +145,26 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-definitive-steps-to-record-your-favorite-hulu-episodes/"><u>[New] In 2024, The Definitive Steps to Record Your Favorite Hulu Episodes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-luminous-android-videography-techniques/"><u>[New] Luminous Android Videography Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[New] Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-rapid-execution-instant-clearance-of-signature-bg/"><u>[Updated] In 2024, Rapid Execution Instant Clearance of Signature Bg</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-integration-with-apple-music/"><u>2024 Approved Mastering Video Integration with Apple Music</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tailoring-mac-videos-to-fit-snapchat-dimensions/"><u>2024 Approved Tailoring Mac Videos to Fit Snapchat Dimensions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-troubleshooting-masterclass-defeating-dev-error-6634-latest-techniques/"><u>Call of Duty Warzone Troubleshooting Masterclass: Defeating Dev Error 6634 – Latest Techniques!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-resurrected-failed-to-start-what-are-your-options/"><u>Diablo II Resurrected Failed to Start – What Are Your Options?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-resetting-wifi-and-bluetooth-settings-on-a-mac-computer/"><u>Easy Fixes: Resetting WiFi and Bluetooth Settings on a Mac Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-intel-driver-and-support-assistant-failure-in-windows/"><u>Fixing the Issue: Intel Driver and Support Assistant Failure in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-black-ops-cold-war-on-windows-pc/"><u>How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-google-meet-video-capabilities-when-your-camera-wont-work/"><u>How to Restore Google Meet Video Capabilities When Your Camera Won't Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/insights-into-fixing-aesthetic-distortions-encountered-in-rust-ide/"><u>Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-crashes-when-playing-pc-version-of-god-of-war/"><u>Overcoming Lag and Crashes When Playing PC Version of God of War</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/quick-fixes-for-smooth-mkv-video-playback-in-windows-11/"><u>Quick Fixes for Smooth MKV Video Playback in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-for-a-seamless-gaming-experience-in-red-dead-redemption-2/"><u>Solving Lag Issues for a Seamless Gaming Experience in Red Dead Redemption 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-battlefront-ii-performance-issues-resolved-no-more-lags/"><u>Star Wars Battlefront II Performance Issues Resolved - No More Lags</u></a></li>
+</ul></div>
 

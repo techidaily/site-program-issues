@@ -1,7 +1,7 @@
 ---
 title: Solving the 'No Compatible Driver' Issue in Rainbow Six Extraction
-date: 2024-08-19T16:53:56.280Z
-updated: 2024-08-20T16:53:56.280Z
+date: 2024-11-20T19:25:57.583Z
+updated: 2024-11-26T20:13:06.637Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you must be annoyed. Don’t worry, you’re not alone. In addition to losing temper to FAR CRY 5, what can you do to fix this issue and play the game? This post will show you how to fix this issue.
 
  Before you try any methods, please make sure you’ve met the game’s minimum system requirement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Minimum requirement for Far Cry 5
 
@@ -43,9 +47,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,6 +57,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Set the Graphics Options to low settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -72,9 +77,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify game files
 
  If the first fix doesn’t help, the problem may be caused by the corrupted game files. This method will check the game files and verify them. What else, it will download and repair required files. So you can use this fix to fix the Far Cry 5 stuck on loading issue.
@@ -85,8 +87,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -100,8 +103,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, the game may not run smoothly and stuck on the loading scree. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -130,21 +134,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will solve the problem.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Set the Graphics Options to low settings
 
  If you were not stuck on the “beginning screen” but could enter the game, you could try this fix. The high graphics settings in your Far Cry 5 can take up many system resources, but it can slow down your gram or even crashing because insufficient system resource can be provided. With that, you should set the Graphics Options settings in Far Cry 5 in lower mode to make your game smoother and avoid stacking on the loading screen.
@@ -152,29 +155,30 @@ OR
 1. Open **Settings** in Far Cry 5, and click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
-4. Click the **Quality** tab, and adjust the available settings to **Low** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
-5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
-6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
+4. Click the **Quality** tab, and adjust the available settings to **Low** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
+5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
+6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -192,8 +196,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +203,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>[Updated] Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-reducing-noise-amplitude-gently-using-lumafusion/"><u>[Updated] In 2024, Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-soundscapes-startups-the-best-10-music-pieces-for-podcast-intros/"><u>2024 Approved Soundscapes Startups The Best 10 Music Pieces for Podcast Intros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-online-issues-fixed-how-to-get-multiplayer-up-and-running/"><u>Elden Ring Online Issues Fixed: How to Get Multiplayer Up and Running</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/feeling-old-school-with-your-ipad-time-for-a-tech-refresh/"><u>Feeling Old-School with Your iPad? Time for a Tech Refresh?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/issues-with-launching-robocop-rogue-city-game-on-windows-pcs/"><u>Issues with Launching RoboCop: Rogue City Game on Windows PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-xcover-7-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy XCover 7 FRP Without Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-frame-rates-expert-strategies-for-improving-fps-in-ring-of-elysium/"><u>Mastering Frame Rates: Expert Strategies for Improving FPS in Ring of Elysium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-launching-league-of-legends-effortlessly/"><u>Mastering the Solution: Launching League of Legends Effortlessly</u></a></li>
+<li><a href="https://fox-making.techidaily.com/samsung-galaxy-book-2ssd-12/"><u>Samsung Galaxy Book 2のSSD容量増加: どうやって1〜2スロット使いましょう?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/say-goodbye-to-unwanted-locker-pops-ups-securely-clean-adware-off-your-android-using-malwarefox-tips/"><u>Say Goodbye to Unwanted Locker Pops-Ups: Securely Clean Adware Off Your Android Using MalwareFox Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/team-fortress-2-no-more-crashing-a-step-by-step-fix-for-constant-breakdowns/"><u>Team Fortress 2 No More Crashing - A Step-by-Step Fix for Constant Breakdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-discord-install-issues-quick-and-effective-methods/"><u>Troubleshooting Discord Install Issues: Quick and Effective Methods</u></a></li>
+</ul></div>
 

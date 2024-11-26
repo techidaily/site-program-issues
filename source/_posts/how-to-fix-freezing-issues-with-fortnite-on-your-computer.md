@@ -1,7 +1,7 @@
 ---
 title: How to Fix Freezing Issues with Fortnite on Your Computer
-date: 2024-08-19T16:49:57.026Z
-updated: 2024-08-20T16:49:57.026Z
+date: 2024-11-23T21:05:21.324Z
+updated: 2024-11-26T19:53:03.388Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 Amazon’s MMO New World has a very engaging and in-depth system that attracts gamers to play the game. But there’re bugs and technical mishaps such as constantly freezing that may frustrate you.  
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,6 +44,11 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -57,17 +66,16 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 1. Open your Steam client and go to **LIBRARY** . Right-click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
 If the problem persists, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Rollback NVIDIA driver
 
  Some gamer has reported they fixed freezing by reverting back to a previous NVIDIA driver. If updating your driver to the latest version doesn’t help, maybe you can try this fix.
@@ -76,16 +84,15 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
@@ -115,11 +122,13 @@ If it’s still not working, try the next fix.
 1. Open New World. On the top right corner, click the **gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
@@ -133,24 +142,25 @@ If it’s still not working, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Move the files to the SSD drive
 
  If your drive has an unknown issue, it would affect the game while playing. Some gamers have fixed the freezing issue by moving the game files to SSD drive and setting the New World as a high priority.
@@ -167,8 +177,6 @@ If you haven’t tried it, give it a go it might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +184,19 @@ If you haven’t tried it, give it a go it might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-master-list-of-leading-free-screen-capture-programs/"><u>[New] 2024 Approved Master List of Leading Free Screen Capture Programs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-chromebook-masterclass-excellent-recording-suite/"><u>[Updated] 2024 Approved Chromebook Masterclass Excellent Recording Suite</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech/"><u>[Updated] Screen Capture Clarity with iRecorder Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-tribes-of-midgard-from-crashing-down/"><u>Effective Solutions for Preventing Tribes of Midgard From Crashing Down</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exploring-lgs-27ud68-4k-freesync-tv-reviews-for-2024/"><u>Exploring LG's 27UD68 4K FreeSync TV Reviews for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixes for 'Black Screen' Problems in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-disk-read-failures-on-windows/"><u>How To Resolve Disk Read Failures On Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-launch-dota-navigate-around-a-stuck-loading-screen-and-get-back-into-gameplay/"><u>How to Successfully Launch Dota Navigate Around a Stuck Loading Screen and Get Back Into Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-no-sound-issue-with-easy-tips-for-the-astro-a50-audio-system/"><u>Solve No-Sound Issue with Easy Tips for the Astro A50 Audio System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-to-eliminate-lag-and-stutter-in-your-cyberpunk-2077-gameplay/"><u>Troubleshooting Complete: How to Eliminate Lag & Stutter in Your Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-what-is-emoji-and-what-does-it-mean/"><u>Updated What Is Emoji and What Does It Mean?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-my-beat-saber-experience-frequent-interruptions-fix-now/"><u>Why Does My Beat Saber Experience Frequent Interruptions? Fix Now!</u></a></li>
+</ul></div>
 

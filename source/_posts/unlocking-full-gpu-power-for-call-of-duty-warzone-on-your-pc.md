@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2024-11-11T18:54:42.144Z
-updated: 2024-11-16T19:43:01.201Z
+date: 2024-11-22T22:05:11.603Z
+updated: 2024-11-26T21:11:16.516Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other gamers with_Warzone dev error 6328_ . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -42,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
  Simply **turn off the router and modem and plug it back in after at least 30 seconds** . This is supposed to refresh your device and clear the clogged connection. And you’re also recommended to**use a wired connection** instead of Wi-Fi for more stable gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 modem
 
@@ -70,13 +67,6 @@ wireless router
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -100,6 +90,10 @@ wireless router
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -108,15 +102,12 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -127,21 +118,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -153,6 +134,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -163,19 +148,13 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -202,22 +181,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimizing-video-sequences-blend-modes-application/"><u>[New] In 2024, Optimizing Video Sequences Blend Modes Application</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>[Updated] 2024 Approved Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cease-defender-firewall-protection-on-windows-11/"><u>Cease Defender Firewall Protection on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review-for-2024/"><u>Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/"><u>Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-13-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi Note 13 Pro 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-close-up-secrets-mastering-the-magnify-technique/"><u>Instagram's Close-Up Secrets Mastering the Magnify Technique</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/"><u>Master the Fix: Eliminating StarCraft 2'S Sudden Shutdown Problem on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/"><u>Resolving Assassin's Creed Rogue Freezing Issues - Expert Fixing Tips & Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/"><u>Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-updating-minecrafts-core-game-client/"><u>Step-by-Step Fixes for Updating Minecraft's Core Game Client</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-latency-and-freezing-issues-in-call-of-duty-vanguard/"><u>Tackling Latency and Freezing Issues in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-follow-forward-guide-accumulating-1000-likesmonth-on-ig/"><u>The Follow-Forward Guide Accumulating 1,000 Likes/Month on IG</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-among-us-2024-crashes-with-these-proven-fixes/"><u>Troubleshoot and Overcome 'Among Us' 2024 Crashes with These Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-the-art-of-photo-mosaic-creation/"><u>[New] Perfecting the Art of Photo Mosaic Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chromes-picture-in-picture-capabilities-explained-for-2024/"><u>[Updated] Chrome's Picture-In-Picture Capabilities Explained for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-maximum-videos-on-a-64gb-drive/"><u>[Updated] In 2024, Maximum Videos on a 64GB Drive</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>[Updated] Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-v-pc-crash-issues-solutions-found/"><u>Battlefield V PC Crash Issues - Solutions Found!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-steps-for-home-based-french-proficiency/"><u>Essential Steps for Home-Based French Proficiency</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-incompatible-device-warning-on-rainbow-six-extraction-games/"><u>Fixing the Incompatible Device Warning on Rainbow Six Extraction Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y17s-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y17s Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-playtime-preventing-manor-lords-from-crashing-on-your-computer/"><u>Optimizing Playtime: Preventing Manor Lords From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-how-to-fix-common-world-of-warcraft-crashes-quickly/"><u>Smooth Gaming Experience: How to Fix Common World of Warcraft Crashes Quickly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-transforming-pal-discs-to-widely-used-file-types-for-free/"><u>Step-by-Step Tutorial on Transforming PAL Discs to Widely Used File Types for Free</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-poco-c65-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Poco C65 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-of-immersive-vr-games-compatible-with-oculus-quest-pc-headsets-and-playstation-vr/"><u>Ultimate Selection of Immersive VR Games Compatible with Oculus Quest, PC Headsets, and PlayStation VR</u></a></li>
 </ul></div>
 

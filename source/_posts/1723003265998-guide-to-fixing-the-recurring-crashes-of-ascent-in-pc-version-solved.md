@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved!
-date: 2024-08-19T16:51:42.736Z
-updated: 2024-08-20T16:51:42.736Z
+date: 2024-11-25T16:06:26.082Z
+updated: 2024-11-26T18:49:55.993Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -56,8 +60,9 @@ The Ascent
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -66,15 +71,21 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If The Ascent keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -89,35 +100,17 @@ The Ascent
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of The Ascent releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -134,11 +127,12 @@ Key features:
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
 
@@ -152,9 +146,6 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. To disble Moive / Film Grain, add the following and save the file:  
 
 ` **[SystemSettings]**  
@@ -188,8 +179,9 @@ If the game still crashes, try the next fix, below.
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -200,15 +192,6 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -224,11 +207,13 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -254,8 +239,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -263,4 +246,20 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>[New] In 2024, From Your Vantage Point to the World's Sharing Immersive Photos Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-code-commanders-elite-females-on-yt-for-2024/"><u>[Updated] Code Commanders Elite Females on YT for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997320442-cortana-malfunction-heres-what-you-need-to-know/"><u>Cortana Malfunction? Here's What You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-launch-issues-7-expert-tactics-against-the-infamous-steam-black-screen-of-2024/"><u>Eliminate Launch Issues: 7 Expert Tactics Against the Infamous Steam Black Screen of 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-e-online-converter-de-formato-vob-para-flac-com-o-software-da-movavi/"><u>Gratuito E Online: Converter De Formato VOB Para FLAC Com O Software Da Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-team-fortress-2-from-keep-falling-over-a-comprehensive-fix/"><u>How to Stop Team Fortress 2 From Keep Falling Over: A Comprehensive Fix</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oppo-a2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Oppo A2 Is Unlocked</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-how-to-address-fps-issues-and-smoothing-out-gameplay-on-splitgate/"><u>Optimizing Performance: How To Address FPS Issues & Smoothing Out Gameplay on Splitgate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-issues-heres-how-to-resolve-the-persistent-game-crashing-problem/"><u>Resident Evil Village PC Issues? Here's How to Resolve the Persistent Game Crashing Problem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-tunes-to-your-insta-videos/"><u>Step-by-Step Guide: Adding Tunes to Your Insta Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-strategies-against-endgame-hurdle-decoding-and-defeating-tfla0002/"><u>Success Strategies Against Endgame Hurdle: Decoding and Defeating TFLA0002</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-for-common-tearing-glitch-in-valorant-game/"><u>Troubleshooting and Fixes for Common Tearing Glitch in Valorant Game</u></a></li>
+</ul></div>
 

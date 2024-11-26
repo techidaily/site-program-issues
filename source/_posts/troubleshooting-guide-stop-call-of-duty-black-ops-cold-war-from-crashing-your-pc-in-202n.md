@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N"
-date: 2024-08-19T16:50:43.960Z
-updated: 2024-08-20T16:50:43.960Z
+date: 2024-11-19T17:31:39.456Z
+updated: 2024-11-26T22:04:42.533Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,11 +51,12 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -65,8 +70,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +101,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +126,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-making-sense-of-creative-commons-licensing-and-usage/"><u>[New] In 2024, Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beyond-illusions-examining-vrs-disadvantages-for-2024/"><u>[Updated] Beyond Illusions Examining VR's Disadvantages for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-t30s-versatile-vacuuming-for-floors-and-stairs/"><u>Comprehensive Evaluation of the Ecovacs Deebot T30S: Versatile Vacuuming for Floors and Stairs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002094426-fixes-for-r-type-final-2-continuous-pc-crash-issues-solutions-inside/"><u>Fixes for R-Type Final 2 Continuous PC Crash Issues - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-a-malfunctioning-webcam-for-google-meet-conferences/"><u>Guide to Correcting a Malfunctioning Webcam for Google Meet Conferences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-the-7-critical-mistakes-you-should-not-make/"><u>Mastering Generative AI: The 7 Critical Mistakes You Should Not Make</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gray-zone-warfare-gzw-system-failures-in-windows-environments/"><u>Overcoming Gray Zone Warfare (GZW) System Failures in Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-to-get-payday-2-running-smoothly-on-windowspc/"><u>Solution Steps to Get Payday 2 Running Smoothly on Windows/PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/transform-your-facebook-presence-with-dynamic-slideshows/"><u>Transform Your Facebook Presence with Dynamic Slideshows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-addressing-ark-downloading-problems-successfully/"><u>Troubleshooting Tips for Addressing ARK Downloading Problems Successfully</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2024-11-13T07:35:03.679Z
-updated: 2024-11-17T07:55:41.156Z
+date: 2024-11-23T19:45:27.160Z
+updated: 2024-11-26T17:33:00.678Z
 tags:
   - win11
   - win10
@@ -25,10 +25,7 @@ There’re things you can do before trying complicated fixes:
 * Make sure Enlisted are not blocked from your firewall
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,13 +36,6 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -54,6 +44,10 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
@@ -71,13 +65,14 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this didn’t solve your problems, read on for further troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
@@ -103,10 +98,7 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -132,17 +124,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boost-engagement-with-effective-video-loops-on-instagram/"><u>[New] In 2024, Boost Engagement with Effective Video Loops on Instagram</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-documenting-your-ps4-journey/"><u>[New] Ultimate Guide to Documenting Your PS4 Journey</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-behind-the-scenes-with-top-influencers-insights-into-their-fb-stories/"><u>[Updated] Behind the Scenes with Top Influencers – Insights Into Their FB Stories</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-composers-for-the-ultimate-video-photographic-symphony/"><u>2024 Approved Best Composers for the Ultimate Video-Photographic Symphony</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-quickly-resolve-warzone-directx-error-in-four-steps-a-detailed-guide/"><u>How to Quickly Resolve Warzone DirectX Error in Four Steps - A Detailed Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-agni-2-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Agni 2 5G?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/new-god-of-war-fps-game-announces-arrival-on-personal-computers/"><u>New God of War FPS Game Announces Arrival on Personal Computers!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-sieges-2024-forecast-no-cost-enhancements-for-gamers-awaited/"><u>Rainbow Six Siege's 2024 Forecast: No Cost Enhancements for Gamers Awaited</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-unable-to-connect-errors-in-minecraft-servers/"><u>Troubleshooting 'Unable to Connect' Errors in Minecraft Servers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visionary-8-webcams-the-future-of-live-broadcasts/"><u>Visionary 8 Webcams The Future of Live Broadcasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-phone-link-enable-or-disable-for-better-security/"><u>Windows Phone Link - Enable or Disable for Better Security?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-blackouts-expert-solutions-for-warzone-game-crashes/"><u>Winning the Fight Against Blackouts: Expert Solutions for Warzone Game Crashes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc/"><u>[Updated] Digital Director's Diary An In-Depth Look at Capturing Live TV on Windows PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-subtitle-strategies-for-multilingual-instagram-videos/"><u>[Updated] Subtitle Strategies for Multilingual Instagram Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-roblox-performance-six-efficient-techniques-to-prevent-crashing-and-enjoy-uninterrupted-gaming/"><u>Boost Your Roblox Performance: Six Efficient Techniques to Prevent Crashing and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722980990172-expert-tips-to-overcome-low-fps-drops-and-dominate-your-league-of-legends-matches/"><u>Expert Tips to Overcome Low FPS Drops and Dominate Your League of Legends Matches.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-push-to-talk-functionality-for-a-smooth-gameplay-experience-in-overwatch/"><u>How to Restore 'Push-to-Talk' Functionality for a Smooth Gameplay Experience in Overwatch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-guide-to-professional-grade-editing-in-windows-10/"><u>In 2024, The Insider's Guide to Professional-Grade Editing in Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/leveraging-cookiebot-technology-for-targeted-engagement-and-growth/"><u>Leveraging Cookiebot Technology for Targeted Engagement and Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-how-to-resolve-division-2-game-crashes-instantly/"><u>Quick Fix: How to Resolve Division 2 Game Crashes Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-paradox-launcher-fails-to-start-up/"><u>Solving the Issue: When Your Paradox Launcher Fails to Start Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-turning-on-windows-11s-high-dynamic-range-mode-for-2024/"><u>Step-by-Step Turning On Windows 11'S High Dynamic Range Mode for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-apple-watch-models-comprehensive-reviews-by-experts-zdnet/"><u>Top-Rated Apple Watch Models : Comprehensive Reviews by Experts - ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo S17? | Dr.fone</u></a></li>
 </ul></div>
 

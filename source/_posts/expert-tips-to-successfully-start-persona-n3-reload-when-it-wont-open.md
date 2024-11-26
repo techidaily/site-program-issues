@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Successfully Start Persona N3 Reload When It Won't Open
-date: 2024-11-16T00:39:01.069Z
-updated: 2024-11-16T20:42:34.088Z
+date: 2024-11-20T19:53:25.972Z
+updated: 2024-11-26T16:48:13.917Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
@@ -39,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
@@ -66,31 +78,11 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -105,13 +97,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -122,13 +107,14 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When updates are available, follow the on-screen instructions to download and install them.
@@ -143,21 +129,11 @@ If the issue persists, move on to the next fix.
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -171,6 +147,10 @@ If the issue remains, take a look at the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
@@ -200,21 +180,24 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-top-5-premium-hd-webcams-featuring-sound/"><u>[New] Top 5 Premium HD Webcams Featuring Sound</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-high-impact-spotify-marketing-plans/"><u>[Updated] Crafting High-Impact Spotify Marketing Plans</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-skyrocketing-youtube-traffic-11-seo-insights-unveiled-for-2024/"><u>[Updated] Skyrocketing YouTube Traffic 11 SEO Insights Unveiled for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/combat-high-response-times-in-co-op-gaming-strategies-for-faster-back-nblood-play/"><u>Combat High Response Times in Co-Op Gaming: Strategies for Faster Back nBlood Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-dealing-with-acrocefexe-error-on-windows/"><u>Comprehensive Fixes for Dealing with Acrocef.exe Error on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-di-dvd-in-formato-h265hevc-mp4-il-metodo-piu-efficiente-per-una-qualita-ottimale/"><u>Conversione Gratuita Di DVD in Formato H.265/HEVC MP4: Il Metodo Più Efficiente per Una Qualità Ottimale</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-shadowplay-issues-record-successfully-on-windows-systems/"><u>Fixing ShadowPlay Issues: Record Successfully on Windows Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-text-talk-on-screen-without-spending-for-2024/"><u>How to Make Text Talk on Screen Without Spending for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/illuminating-re-villages-woes-expert-guide-to-fixing-pcs-menacing-black-screens/"><u>Illuminating RE Villages Woes: Expert Guide to Fixing PC's Menacing Black Screens</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-and-androids-best-in-class-top-10-skin-modifiers-reviewed/"><u>IPhone & Android's Best in Class Top 10 Skin Modifiers Reviewed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210773353-9781649697332-one-fine-day/"><u>One Fine Day. | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-release-saga-of-immortals-fenyx-rising-heres-how-it-happened-and-why-you-can-play-today/"><u>The Release Saga of Immortals' Fenyx Rising – Here's How It Happened and Why You Can Play Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-starting-avatar-the-game-on-your-pc/"><u>Troubleshooting Guide: Resolving Issues When Starting 'Avatar: The Game' On Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-issues-that-prevent-evil-genius-2-from-starting/"><u>Troubleshooting Tips: Fixing Issues That Prevent Evil Genius 2 From Starting</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/visual-storytelling-made-easy-free-vfx-websites-for-2024/"><u>Visual Storytelling Made Easy - Free VFX Websites for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quick-start-inserting-images-into-your-instagram-feed/"><u>[New] 2024 Approved Quick Start Inserting Images Into Your Instagram Feed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-superior-global-stage-viewings/"><u>[New] In 2024, Superior Global Stage Viewings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y28-5g-frp-bypass-by-drfone-android/"><u>About Vivo Y28 5G FRP Bypass</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/artificial-intelligence-in-multimedia-transformative-techniques-for-video-upscaling-stabilization-format-conversion-and-editing/"><u>Artificial Intelligence in Multimedia: Transformative Techniques for Video Upscaling, Stabilization, Format Conversion & Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complexity/"><u>Complexity</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-of-the-line-troubleshooting-for-pc-gamers-solve-crashing-final-stages/"><u>End of the Line Troubleshooting for PC Gamers: Solve Crashing Final Stages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-persistent-issues-with-arcadegeddon-game-crashes-on-desktop-systems/"><u>Fixes for Persistent Issues with Arcadegeddon Game Crashes on Desktop Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-a70-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on A70</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-lag-during-your-avatar-quest-across-the-frontiers-of-pandora/"><u>How to Fix Lag During Your Avatar Quest Across the Frontiers of Pandora?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-explore-deep-with-these-immersive-vr-clips/"><u>In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone XS Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-x90s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo X90S Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722984366569-pc-optimization-tips-for-stable-gameplay-in-house-flipper-vection-no-more-crashes/"><u>PC Optimization Tips for Stable Gameplay in House Flipper Vection - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-issues-in-pathfinders-latest-title-wrath-of-the-righteous-keeps-crashing-down/"><u>Persistent Issues in Pathfinder's Latest Title - Wrath of the Righteous Keeps Crashing Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000099996-polymorphisms-in-the-vkorc1-gene-affect-warfarin-sensitivity-and-metabolism-necessitating-personalized-dose-adjustments/"><u>Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quick-driver-enhancement-intels-g3000-on-ws11/"><u>Quick Driver Enhancement: Intel's G3000 on WS11.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-repair-for-pathfinder-wrath-of-the-righteous-unable-to-launch-problems/"><u>Step-by-Step Repair for 'Pathfinder: Wrath of the Righteous' Unable to Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-do-when-your-game-of-the-year-football-manager-2023-doesnt-start-up/"><u>What to Do When Your Game of the Year, Football Manager 2023, Doesn’t Start Up</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for When CS: GO Fails to Open"
-date: 2024-08-19T16:52:42.398Z
-updated: 2024-08-20T16:52:42.398Z
+date: 2024-11-23T17:52:33.473Z
+updated: 2024-11-26T21:42:54.222Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -48,6 +52,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -63,8 +71,9 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: **Restart your computer**
 
  Extraneous software not only takes up your PC resources and affects your gaming performance, it can also conflict with_Hearts of Iron IV_ , causing it to crash.
@@ -73,9 +82,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
  If **_HOI4_**  still crashes after the reboot, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an Administrator**
 
  The_Hearts of Irons_ crashing issue might happen when the game fails to access certain game files or folders under standard user mode.
@@ -92,9 +98,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
@@ -109,18 +112,16 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 5: **Update your graphics driver**
 
 _Hearts of Irons IV_ crashing issues might occur if you’re using a faulty graphics driver, or it’s outdated. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -150,25 +151,20 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  If the crashing issues persist, it’s probable that_Hearts of Irons IV_  is not properly installed on your PC – say, certain game files are missing or damaged.
@@ -181,6 +177,10 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
@@ -191,9 +191,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change your PC power settings
 
  The power plan on all computers is set to Balanced by default to save more energy. When your CPU’s speed slows down automatically under Balanced mode, it can make_Hearts of Iron IV_ crash. In this case, try changing your PC Power option to High Performance. Here is how:
@@ -201,6 +198,10 @@ To fix it, try verifying the integrity of your game files on Steam:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -215,8 +216,9 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
 ### Fix 8: **Check for Windows Updates**
@@ -228,16 +230,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
@@ -282,15 +281,13 @@ Relaunch your game to test your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
@@ -309,9 +306,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -328,8 +322,6 @@ Relaunch your game to test your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -337,4 +329,20 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleashing-your-gaming-potential-with-fbx/"><u>[New] 2024 Approved Unleashing Your Gaming Potential with FBX</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-prime-tools-for-pro-video-creation-on-android-windows/"><u>[Updated] 2024 Approved Prime Tools for Pro Video Creation on Android, Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-your-youtube-content-with-superior-webm-converters/"><u>[Updated] Master Your YouTube Content with Superior WebM Converters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stars-of-tomorrow-perfecting-reaction-videos-for-audiences-through-dual-perspectives/"><u>[Updated] Stars of Tomorrow Perfecting Reaction Videos for Audiences Through Dual Perspectives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arcadegeddon-continuously-malfunctioning-on-windows-solutions-found/"><u>Arcadegeddon Continuously Malfunctioning on Windows - Solutions Found</u></a></li>
+<li><a href="https://program-issues.techidaily.com/audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-for-playing-payday-2-addressing-pc-launch-errors/"><u>Easy Solutions for Playing Payday 2: Addressing PC Launch Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-performance-ultimate-guide-to-resolving-frame-drops-and-improving-fps-in-valorant/"><u>Enhancing Performance: Ultimate Guide to Resolving Frame Drops & Improving FPS in Valorant</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hefty-helpers-airborne-lifting-titans-unveiled/"><u>In 2024, Hefty Helpers Airborne Lifting Titans Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-lag-tips-to-stop-your-assassins-creed-odyssey-from-freezing-on-pc/"><u>Solving Game Lag: Tips to Stop Your Assassin's Creed Odyssey From Freezing on PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-enhancing-audio-output-in-windows-11/"><u>Step-by-Step Tutorial: Enhancing Audio Output in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001330982-team-fortress-2-launch-problems-resolved-and-ready-for-action/"><u>Team Fortress 2 Launch Problems – Resolved and Ready for Action!</u></a></li>
+</ul></div>
 

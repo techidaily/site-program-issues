@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Black Screen Problem in Far Cry 6"
-date: 2024-08-19T16:49:59.535Z
-updated: 2024-08-20T16:49:59.535Z
+date: 2024-11-20T23:33:18.943Z
+updated: 2024-11-26T18:54:31.177Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -55,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
@@ -72,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -100,10 +103,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -116,25 +120,21 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -168,8 +168,9 @@ See if this issue reappears. If not, you have fixed this issue!
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -183,8 +184,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +191,22 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-use-of-vlc-for-media-creation-for-2024/"><u>[New] Efficient Use of VLC for Media Creation for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-ultimate-index-ranked-6-fb-lite-downloads/"><u>[Updated] Ultimate Index Ranked 6 FB Lite Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-zte-nubia-z60-ultra-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your ZTE Nubia Z60 Ultra? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/chromecast-upgradeed-why-google-tv-is-now-a-top-contender-over-firetv/"><u>Chromecast Upgradeed: Why Google TV Is Now a Top Contender Over FireTV?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-update-for-your-ch340g-serial-driver-on-windows-10-system/"><u>Get the Newest Update for Your CH340g Serial Driver on Windows 10 System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-overcome-mmi-208-not-provisioned-by-mobile-manager-issue/"><u>Guide to Overcome MMI-208 Not Provisioned by Mobile Manager Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-kodi-setup-successfully-fixing-failed-to-get-library-information/"><u>Mastering Kodi Setup: Successfully Fixing 'Failed to Get Library Information'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-luck-with-your-pacifica-hard-drive-learn-fixes-for-a-successful-boot/"><u>No Luck with Your Pacifica Hard Drive? Learn Fixes for a Successful Boot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-challenges-in-restoring-your-clownfish-vocal-manipulation-tools-functionality/"><u>Overcoming Common Challenges in Restoring Your Clownfish Vocal Manipulation Tool's Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-overcame-install-errors-for-age-of-empires-iv-on-microsoft-digital-shop/"><u>Successfully Overcame Install Errors for Age of Empires IV on Microsoft Digital Shop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-terrorist-assault-3s-error-message-code-103003/"><u>Troubleshooting Guide: Resolving Terrorist Assault 3'S Error Message - Code 103003</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-7-proven-methods-to-resolve-steams-black-screen-issue/"><u>Ultimate Guide: 7 Proven Methods to Resolve Steam's Black Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/war-thunder-2024-stability-issues-proven-fixes-for-constant-game-crashes-now/"><u>War Thunder 2024 Stability Issues? Proven Fixes for Constant Game Crashes Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-entail-a-brief-overview/"><u>What Does Generative AI Entail? A Brief Overview</u></a></li>
+</ul></div>
 

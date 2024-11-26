@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-11-16T07:36:34.166Z
-updated: 2024-11-16T22:30:01.621Z
+date: 2024-11-20T16:37:54.799Z
+updated: 2024-11-26T19:28:39.593Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The system requirements of WRC 10 FIA World Rally Championship
 
@@ -65,27 +69,17 @@ System requirements of WRC 10 from Steam
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -109,13 +103,6 @@ System requirements of WRC 10 from Steam
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -129,10 +116,7 @@ System requirements of WRC 10 from Steam
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -145,6 +129,10 @@ System requirements of WRC 10 from Steam
 
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -153,24 +141,18 @@ System requirements of WRC 10 from Steam
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -215,17 +197,18 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-creating-impactful-youtube-thumbnails-and-ads/"><u>[New] In 2024, Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-crafting-and-uploading-360-vids-for-fb/"><u>[New] In 2024, Step-by-Step Crafting & Uploading 360 Vids for FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-engage-followers-effective-strategies-for-fb-slideshows/"><u>2024 Approved Engage Followers Effective Strategies for FB Slideshows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-entrepreneurs-guide-free-business-template-plugins/"><u>2024 Approved Entrepreneur's Guide Free Business Template Plugins</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/celebrated-scripts-spanning-eight-movie-segments/"><u>Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-the-black-screen-error-essential-fixes-and-tips-for-warzone-players/"><u>Defeat the Black Screen Error: Essential Fixes and Tips for Warzone Players</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gratis-converteren-van-m4v-naar-avi-online-professioneel-mivavi-kostenloze-ld-converter/"><u>Gratis Converteren Van M4V Naar AVI Online: Professioneel MIVAVi - Kostenloze LD-Converter</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-a-non-existent-start-button-in-fortnite/"><u>Overcoming the Hurdle of a Non-Existent Start Button in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-play-through-overcome-crashing-errors-in-remnant-from-the-ashes/"><u>Smooth Play Through - Overcome Crashing Errors in Remnant: From the Ashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-running-driver-easy-in-its-lightweight-mode/"><u>The Ultimate Guide to Running Driver Easy in Its Lightweight Mode</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-cold-snap-issues-in-call-of-duty-black-ops-cold-war/"><u>Ultimate Guide to Resolving Cold Snap Issues in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-demystifying-complex-srt-concepts-for-professionals/"><u>[New] Demystifying Complex SRT Concepts for Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfect-end-screen-and-cards-strategies-for-yt-for-2024/"><u>[New] Perfect End Screen & Cards Strategies for YT for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-handheld-video-stabilizer-equipment-to-help-shoot-smooth-scenes/"><u>[Updated] In 2024, Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-investigating-whether-sns-hdr-offers-superior-ux/"><u>2024 Approved Investigating Whether SNS HDR Offers Superior UX</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ranking-of-top-10-budget-friendly-video-meeting-tools-for-organizations-and-schools/"><u>2024 Approved Ranking of Top 10 Budget-Friendly Video Meeting Tools for Organizations & Schools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-frames-ultimate-guide-to-resolving-low-fps-in-war-thunder/"><u>Boost Your Frames: Ultimate Guide to Resolving Low FPS in War Thunder</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-securiser-votre-fichier-pst-microsoft-outlook-sur-un-nouveau-systeme-windows-11-quatre-etapes-simples/"><u>Comment Sécuriser Votre Fichier PST Microsoft Outlook Sur Un Nouveau Système Windows 11 (Quatre Étapes Simples)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-channel-cross-promotion-the-art-of-collaborative-co-stars/"><u>In 2024, Channel Cross-Promotion The Art of Collaborative Co-Stars</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-detroit-become-humans-on-your-pc-solutions-for-stability-and-enjoyment/"><u>Mastering 'Detroit: Become Humans' On Your PC – Solutions for Stability and Enjoyment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-total-war-three-kingdoms-game-freezes-troubleshooting-guide/"><u>Resolving 'Total War: Three Kingdoms' Game Freezes – Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-non-responsive-battlenet-windows-applications/"><u>Step-by-Step Fixes for Non-Responsive Battle.net Windows Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-the-notorious-error-code-leaf-in-new-apex-update/"><u>Troubleshooting Tips for Fixing the Notorious Error Code Leaf in New Apex Update</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>Updated 2024 Approved A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
 </ul></div>
 

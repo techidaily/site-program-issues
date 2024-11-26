@@ -1,7 +1,7 @@
 ---
 title: Boost Your Battles in League of Legends - Fix That Frustrating FPS Slowdown Now
-date: 2024-08-19T16:56:27.958Z
-updated: 2024-08-20T16:56:27.958Z
+date: 2024-11-21T23:12:48.846Z
+updated: 2024-11-26T21:11:34.345Z
 tags:
   - win11
   - win10
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
  **You may need to upgrade your hardware if your PC fails to meet the minimum system requirements of League of Legends.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics driver**
 
  This issue may occur if the graphics driver on your PC is missing or outdated, so make sure your graphics driver is up to date. By updating your graphics driver, you can not only keep your graphics card in good condition, but also avoid many unexpected issue while playing games.
@@ -80,18 +84,22 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap759.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap760.png)  
  You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  See if this issue is fixed after you updated your graphics driver. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Modify your graphics card settings**
 
  Modifying your graphics card settings is another essential step  in resolving League of Legends FPS drop issue. Just follow the steps below to modify your graphics card settings:
@@ -109,24 +117,20 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap763.png)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap764.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap764.png)
+
 #### **If you’re using AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap765.png)
 2. View Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap766.png)
 3. Select your **AMD Radeon Settings**   to open it.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap767.png)
 
@@ -139,25 +143,35 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap770.png)
 4. Click **3D**  to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap771.png)
 5. Click **Scan**  to add your **League of Legends**  to the application list.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap772.png)
 6. Modify the settings the same way you see on the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap773.png)
 7. Click **Apply**  to save the settings.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap774.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run League of Legends again to see if the FPS will drop or not. If this issue reappears, don’t worry, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### **Fix 4: Enable low spec mode**
 
  If your PC fails to meet the recommended system requirements for League of Legends, you may need to **enable low spec mode**  to ensure that League of Legends runs smoothly. Here is how to do it:
@@ -178,25 +192,12 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. In the upper-right corner, click**the gear button**  to open the game settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 3. Click**Initiate Full Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 4. Click**Yes** to continue. This may take a while.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if you fixed this issue after the full repair process completed. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### **Fix 6: Change the power plan of your PC and adjust your Windows system for the best performance**
 
  League of Legends FPS drop issue is also probably caused by the power plan of your PC. Most PC are configured to **Balanced** , which  limits the  operating capacity of your graphics card and CPU. So, the FPS drop issue may occur. Follow the instructions below to change the power plan of your PC and adjust your Windows system for the best performance:
@@ -204,18 +205,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press  **the Windows logo key** and  **R**  at the same time, then type **powercfg.cpl**  and press  **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap781.png)
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap782.png)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap783.png)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap784.png)
 5. Select **Adjust for best performance** and click **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap785.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -231,8 +236,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +243,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-vlc-versus-mpc-top-free-video-players-showdown/"><u>[New] In 2024, VLC versus MPC Top Free Video Players Showdown</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-expertly-curated-facebooks-1-10-plays-for-2024/"><u>[Updated] Expertly Curated Facebook's #1-#10 Plays for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-3-pc-crash-issue-solved-enjoy-seamless-gaming-experience/"><u>Baldur's Gate 3 - PC Crash Issue Solved, Enjoy Seamless Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-a-detailed-walkthrough-for-correcting-error-0xc1900208-on-windows-11-machines/"><u>Beat the Update Blues: A Detailed Walkthrough for Correcting Error 0xC1900208 on Windows 11 Machines</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/des-astuces-pour-tirer-profit-de-lcompression-gratuite-des-fichiers-pdf-lourds-guide-complet/"><u>Des Astuces Pour Tirer Profit De L'Compression Gratuite Des Fichiers PDF Lourds - Guide Complet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-americas-cutest-minimalist-homes-of-2022-stunning-small-space-living-solutions-for-modern-nomads/"><u>Discovering America's Cutest Minimalist Homes of 2022: Stunning Small-Space Living Solutions for Modern Nomads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-phasmophobia-vr-malfunctions-quickly/"><u>Expert Advice for Fixing Phasmophobia VR Malfunctions Quickly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v29e-frp-by-drfone-android/"><u>How Can We Bypass Vivo V29e FRP?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/memory-miracle-unveiled-thousands-of-photos-restored-success-story/"><u>Memory Miracle Unveiled: Thousands of Photos Restored Success Story</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-issues-fixed-in-windows-11-resolved/"><u>Microsoft Edge Stability Issues Fixed in Windows 11 - Resolved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimizing-your-strategy-for-large-scale-tiktok-video-downloads/"><u>Optimizing Your Strategy for Large-Scale TikTok Video Downloads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-steam-issues-for-a-smooth-run-of-tiny-tinas-wonderlands-on-windows/"><u>Troubleshooting and Solving Steam Issues for a Smooth Run of Tiny Tina's Wonderlands on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-persistent-crashing-in-grand-theft-auto-5/"><u>Troubleshooting Guide for Persistent Crashing in Grand Theft Auto 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-launching-avatar-the-game-on-pandora-frontiers/"><u>Troubleshooting Guide: Resolving Issues When Launching 'Avatar - The Game' On Pandora Frontiers</u></a></li>
+</ul></div>
 

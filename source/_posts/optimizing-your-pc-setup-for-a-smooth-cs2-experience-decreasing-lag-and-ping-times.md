@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your PC Setup for a Smooth CS2 Experience: Decreasing Lag and Ping Times"
-date: 2024-08-19T16:51:13.399Z
-updated: 2024-08-20T16:51:13.399Z
+date: 2024-11-21T19:32:38.942Z
+updated: 2024-11-26T16:11:43.102Z
 tags:
   - win11
   - win10
@@ -78,16 +78,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click the name of your graphics card and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
@@ -103,8 +97,9 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
 ---
@@ -123,9 +118,17 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -135,18 +138,6 @@ Follow the instructions below to view your computer hardware information:
 
  If your problem continues to occur, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run your game as an administrator
 
  Running a game with administrative privileges can help resolve compatibility issues and prevent game issues caused by restricted access. To run_Borderland 3_ as an administrator, follow these steps:
@@ -159,20 +150,18 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-05-40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click**Apply** , then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
 If the game still freezes, then move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: **Verify the game** files
 
  The_Borderlands 3_ freezing issue is sometimes triggered by damaged or missing game files. You can verify the integrity of game files to see if that’s the problem for you. Here is how to do it:
@@ -188,15 +177,13 @@ If the game still freezes, then move on to the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: End unnecessary background programs
 
  Having multiple programs running simultaneously while playing_Borderland 3_ can consume system resources and interfere with the game’s performance. By closing unnecessary programs, you can free up system memory and CPU usage, potentially resolving game freezing issues. Here’s how to end unnecessary programs:
@@ -210,12 +197,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
 
@@ -223,9 +211,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -246,9 +231,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
 ### Fix 6: Check for Windows updates
@@ -259,21 +241,12 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Adjust your virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -287,15 +260,13 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -304,13 +275,14 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -320,6 +292,10 @@ If your issue persists, check the fix below.
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -350,8 +326,9 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall_Borderlands 3_ .
 
 ---
@@ -370,8 +347,6 @@ If your issue persists, check the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -379,4 +354,18 @@ If your issue persists, check the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>[New] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-best-oculus-rift-video-players-review/"><u>[Updated] 2024 Approved The Best Oculus Rift Video Players Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>[Updated] Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-game-crashes-in-remnant-from-the-ashes-effective-fixes-and-hacks/"><u>Dealing with Frequent Game Crashes in 'Remnant: From the Ashes' – Effective Fixes & Hacks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-guide-brother-hl-l2340dw-printer-software-for-windows-users/"><u>Download Guide: Brother HL-L2340DW Printer Software for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-strategies-for-addressing-civic-regulation-exception-mistakes-and-access-denial-in-the-legislation/"><u>Essential Strategies for Addressing Civic Regulation Exception Mistakes and Access Denial in the Legislation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Google Pixel Fold</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-century-age-of-ashes-from-crashing-on-your-pc/"><u>Resolved: How To Stop Century: Age of Ashes From Crashing on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-price-of-love-and-tech-unveiling-the-sentiments-behind-an-apple-vision-pro-pitch-analysis-by-zdnet/"><u>The Price of Love and Tech: Unveiling the Sentiments Behind an Apple Vision Pro Pitch | Analysis by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-king-of-fighters-xv-for-seamless-gaming-on-your-pc/"><u>Troubleshooting The King of Fighters XV for Seamless Gaming on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-days-gone-game-crashes/"><u>Ultimate Guide: Resolving 'Days Gone' Game Crashes</u></a></li>
+</ul></div>
 

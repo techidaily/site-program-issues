@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve Memory Error 12707 in Call of Duty: Modern Warfare 3"
-date: 2024-08-19T16:50:52.869Z
-updated: 2024-08-20T16:50:52.869Z
+date: 2024-11-20T18:44:04.839Z
+updated: 2024-11-26T23:22:08.013Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0f32298889456fdaca83b5ae25e894332407ac328
 ## Call of Duty: Modern Warfare Stability Enhancement - Resolving the Recurrent Game Crashes
 
 Call of Duty: Modern Warfare players are experiencing unbearable random crashes on PC when battling their ways to the top. All kinds of Dev error codes such as**Fatal Error: Dev Error 6178** or no error codes at all. It crashes even in single-player mode. If you’re experiencing Modern Warfare crashing, here’re a few fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does Modern Warfare crash?
 
@@ -88,9 +92,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 4) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Set texture quality to high or normal
 
  Many Call of Duty players may set their graphics settings to**Low** , which can be the culprit of the Modern Warfare crashing issue. Modern Warfare may crash for not having enough texture quality, especially if you get an error code**Dev Error 6178** . Many gamers find**setting Texture Resolution to Normal or High** solved their crashing issues, depending on your PC specs.
@@ -103,10 +104,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
@@ -144,17 +141,11 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 7: Disable Discord in-game overlay
 
  If you’re using any programs with overlay features such as Discord, disable the In-Game Overlay as it will cause random game crashes on your PC.
@@ -180,13 +171,15 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) When prompted for permission to make changes, select**Change Priority** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9\. Repair your system files
 
  If the Modern Warfare shares the same system files with your operating system, and the specific file is corrupt or missing, thus causing your game to crash, you may need to restore it with one of the following:
@@ -202,9 +195,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -218,8 +208,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -232,6 +223,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -243,8 +238,9 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -292,8 +288,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +295,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels/"><u>[New] 2024 Approved The Savvy Seeker's Guide to Spotting Superb Photos on Pexels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-radiant-renderings-perfecting-video-light-quality/"><u>[New] Radiant Renderings Perfecting Video Light Quality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-mouse-recorders-to-use/"><u>[Updated] Best Mouse Recorders to Use</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-high-quality-fast-downloaders-for-vimeo-content-for-2024/"><u>[Updated] High-Quality, Fast Downloaders for Vimeo Content for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-best-5-monitors-for-ps5-games/"><u>2024 Approved Selecting the Best 5 Monitors for PS5 Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celestial-sphere-prodesks-ultra-hd-integrated-panels/"><u>Celestial Sphere ProDesks Ultra HD Integrated Panels</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinite-black-screen-glitches-solutions-and-fixes/"><u>Halo Infinite Black Screen Glitches - Solutions and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-star-wars-squadrons-from-crashing-proven-techniques-revealed/"><u>How to Stop STAR WARS Squadrons From Crashing: Proven Techniques Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-update-your-minecraft-launcher-common-solutions-and-workarounds/"><u>How to Successfully Update Your Minecraft Launcher - Common Solutions and Workarounds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-gt-neo-5-se-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme GT Neo 5 SE Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-setup-solving-starfield-not-opening-issues-on-pcconsole/"><u>Mastering the Setup - Solving Starfield Not Opening Issues on PC/Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mlb-the-show-21-resolved-servers-game-now-up-and-running/"><u>MLB The Show 21: Resolved Servers - Game Now Up and Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-case-civ-6-strategies-for-handling-and-preventing-illegal-access-incidents/"><u>Navigating Case CIV 6 : Strategies for Handling and Preventing Illegal Access Incidents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-checklist-apple-chatgpt-verification/"><u>The Ultimate Checklist: Apple ChatGPT Verification</u></a></li>
+</ul></div>
 

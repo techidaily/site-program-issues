@@ -1,7 +1,7 @@
 ---
 title: "Reconnect and Enjoy Terraria: Discover These 6 Reliable Solutions for Lost Connections"
-date: 2024-08-19T16:54:49.049Z
-updated: 2024-08-20T16:54:49.049Z
+date: 2024-11-22T16:07:27.214Z
+updated: 2024-11-26T20:04:50.096Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Follow the questions below to troubleshoot the issue step by step:
 2. **[Does your Windows computer connect to the Internet successfully?](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Does the source you want to add run properly?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q1: Is the source you’ve inputted exactly correct?
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
@@ -40,14 +44,14 @@ Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 1
 
  You can run the**Windows Network Diagnostics** utility on your computer to detect any network issue. It’s easily and quickly, see how:
@@ -63,8 +67,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -78,8 +83,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -90,8 +96,9 @@ Follow to check the status the source you want to add:
 2. If the source runs properly, you would see a page**containing a zip file** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this is the case, we recommend **downloading other add-ons from the [official Kodi website](https://kodi.tv/addons) of your choice** .
@@ -108,8 +115,6 @@ Follow to check the status the source you want to add:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +122,22 @@ Follow to check the status the source you want to add:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-design-dynamics-font-application-in-adobe-after-effects/"><u>[Updated] 2024 Approved Design Dynamics Font Application in Adobe After Effects</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-pinterest-pin-square-advice/"><u>[Updated] In 2024, Pinterest Pin Square Advice</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007739300-banish-lag-and-crash-in-lol-easy-fix-guides-you-need-today/"><u>Banish Lag & Crash in LoL: Easy Fix Guides You Need Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-failures-a-comprehensive-walkthrough-for-harvest-heroes-22/"><u>Fixing Launch Failures: A Comprehensive Walkthrough for Harvest Heroes 22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-graphics-driver-failed-bug-a-step-by-step-guide-for-valorant-players/"><u>Fixing the 'Graphics Driver Failed' Bug: A Step-by-Step Guide for Valorant Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ghostly-horizons-video-tech-update/"><u>Ghostly Horizons Video Tech Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-eraser-guru-expert-tips-for-psx-users/"><u>In 2024, The Eraser Guru Expert Tips for PSX Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-remedies-resolving-the-oculus-link-screen-issue-in-minutes/"><u>Instant Remedies: Resolving the Oculus Link Screen Issue in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mordhau-crashes-no-more-expert-solutions-and-troubleshooting-guide/"><u>Mordhau Crashes No More: Expert Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-best-programs-to-edit-mp4-video-tags-for-2024/"><u>New Best Programs to Edit MP4 Video Tags for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/retrospective-review-exploring-the-new-dimensions-in-ratchet-and-clank-classic/"><u>Retrospective Review: Exploring the New Dimensions in Ratchet & Clank Classic</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722984789862-solve-discord-overlay-problems-instantly-effective-tips-and-tricks/"><u>Solve Discord Overlay Problems Instantly - Effective Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003466476-ultimate-troubleshooting-steps-for-the-2022-leaf-error-in-apex-legends/"><u>Ultimate Troubleshooting Steps for the 2022 Leaf Error in Apex Legends!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C02? | Dr.fone</u></a></li>
+</ul></div>
 

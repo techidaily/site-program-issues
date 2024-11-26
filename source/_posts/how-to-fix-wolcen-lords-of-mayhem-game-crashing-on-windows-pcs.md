@@ -1,7 +1,7 @@
 ---
 title: "How to Fix 'Wolcen: Lords of Mayhem' Game Crashing on Windows PCs"
-date: 2024-08-19T16:55:46.246Z
-updated: 2024-08-20T16:55:46.246Z
+date: 2024-11-21T16:07:41.506Z
+updated: 2024-11-26T17:17:14.468Z
 tags:
   - win11
   - win10
@@ -17,10 +17,18 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -45,9 +53,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
@@ -62,14 +67,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
@@ -78,9 +82,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -91,14 +92,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -108,9 +115,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -130,9 +137,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -146,15 +150,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -171,8 +174,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +181,23 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-elite-drone-recommendations-to-boost-gopro-video-impact/"><u>[New] 2024 Approved Elite Drone Recommendations to Boost GoPro Video Impact</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ce-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone-for-2024/"><u>[New] Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-defeat-bot-intruders-elevate-video-engagement/"><u>[Updated] In 2024, Defeat Bot Intruders, Elevate Video Engagement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-captivate-your-audience-professional-end-screen-creations/"><u>2024 Approved Captivate Your Audience Professional End Screen Creations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-launchpad-proven-fixes-for-far-cry-5s-stalling-start-up/"><u>Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-enhance-your-websites-user-experience-with-advanced-tracking/"><u>Cookiebot-Enabled: Enhance Your Website's User Experience with Advanced Tracking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-hitman-3-pc-crashes-essential-troubleshooting-guide-for-gamers/"><u>Fixing Hitman 3 PC Crashes: Essential Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/illuminating-the-path-to-play-eradicating-nba-2k21s-stubborn-black-screen-challenge/"><u>Illuminating the Path to Play: Eradicating NBA 2K21's Stubborn Black Screen Challenge</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-n3-flip-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Find N3 Flip Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-winning-with-windows-11-mastering-video-conferencing-via-zoom/"><u>In 2024, Winning with Windows 11 Mastering Video Conferencing via Zoom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-strategies-for-resolving-league-of-legends-mysterious-black-screen-issue/"><u>Latest Strategies for Resolving League of Legends' Mysterious Black Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-halting-overcoming-constant-crashing-in-halo-infinite-on-pc/"><u>No More Halting: Overcoming Constant Crashing in Halo Infinite on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-boosting-gameplay-smoothness-eliminate-fps-drops-on-your-pc/"><u>Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210105546-9780578745626-turn-your-shit-into-magic/"><u>TURN YOUR SHIT INTO MAGIC | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zoom-blackout-blues-heres-your-ultimate-guide-to-clear-the-screen/"><u>Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen</u></a></li>
+</ul></div>
 

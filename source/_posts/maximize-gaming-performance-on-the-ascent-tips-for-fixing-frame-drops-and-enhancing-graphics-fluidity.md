@@ -1,7 +1,7 @@
 ---
 title: "Maximize Gaming Performance on 'The Ascent': Tips for Fixing Frame Drops & Enhancing Graphics Fluidity"
-date: 2024-08-19T16:52:58.488Z
-updated: 2024-08-20T16:52:58.488Z
+date: 2024-11-24T18:59:49.336Z
+updated: 2024-11-26T19:34:56.065Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-driver-outdated-featured.jpg)
 
  After the Minecraft update, many players start reporting an**Drivers Outdated message** telling that they need to update their graphics driver. If you’re on the same boat, you’re in the right place. In this tutorial, we’ll show you how to get rid of this message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -48,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
  After updating your graphics driver, restart your PC and check if Minecraft is running fine.
 
 If the update message pops up again, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
 
@@ -62,11 +75,13 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
+
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
@@ -78,20 +93,19 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Scan and repair Windows
 
  If you’re sure it’s not a driver issue, try scanning Windows and see if it’s a system error.
@@ -102,9 +116,11 @@ If you’re still seeing the message, continue to the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -112,8 +128,9 @@ If you’re still seeing the message, continue to the next fix.
 Once done, restart Windows and try again in Minecraft.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Check your default GPU
 
  If your computer comes with dual graphics cards, for example an Intel integrated graphics and a dedicated NVIDIA/AMD graphics card, you can check if you’re**running Minecraft on the desired GPU** . The update message might appear if you’re running Minecraft on the wrong GPU.
@@ -125,9 +142,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
@@ -136,9 +150,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 5. Click**High performance** and then**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Now you can restart Minecraft and check if the message is still there.
 
 ---
@@ -153,8 +164,6 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +171,24 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-guide-to-curved-picture-editing/"><u>[New] 2024 Approved Essential Guide to Curved Picture Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-9-mic-recorder-selections-for-online-use-in-23/"><u>[Updated] 2024 Approved Essential 9 Mic Recorder Selections for Online Use in '23</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-retro-facebook-stories-pcmobile-guide/"><u>[Updated] 2024 Approved Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4vm4amovavi/"><u>無限制地將M4V格式改為M4A：如何使用Movavi的編譯器</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/acethinker-screen-recorder-review-and-alternative/"><u>AceThinker Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/breaking-the-stalemate-ultimate-solutions-to-overcome-discord-stream-buffering-problems/"><u>Breaking the Stalemate: Ultimate Solutions to Overcome Discord Stream Buffering Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-start-up-dilemma-eliminating-swtor-game-boot-errors/"><u>Conquering the Start-Up Dilemma - Eliminating SWTOR Game Boot Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989576318-destiny-2-launch-glitch-on-pc-squashed-get-into-the-game-now/"><u>Destiny 2 Launch Glitch on PC Squashed - Get Into The Game Now!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eering-video-excerpts-for-online-platforms/"><u>Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-troubleshooting-and-repairing-ark-crash-incidents/"><u>Expert Tips for Troubleshooting and Repairing ARK Crash Incidents</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-msi-x470-gamingplus-chipset-and-graphics-drivers-get-them-here/"><u>Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-call-of-duty-warzones-dev-error-ebx-6634-with-easy-steps-updated/"><u>Overcome Call of Duty Warzone's Dev Error Ebx-6634 with Easy Steps – Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-handbook-to-overcoming-fortnite-errors-on-desktop-systems/"><u>PC Gamer's Handbook to Overcoming Fortnite Errors on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-fixing-sims-3-errors-and-preventing-pc-crashes/"><u>Quick Solutions for Fixing Sims 3 Errors and Preventing PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-adobes-error-message-application-failed-to-launch-correctly/"><u>Step-by-Step Guide to Fixing Adobe's Error Message 'Application Failed to Launch Correctly'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-do-when-rocket-league-fails-to-load-on-pcmac/"><u>What To Do When Rocket League Fails To Load on PC/Mac</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Polymorphisms in the VKORC1 Gene Affect Warfarin Sensitivity and Metabolism, Necessitating Personalized Dose Adjustments
-date: 2024-08-19T16:55:12.405Z
-updated: 2024-08-20T16:55:12.405Z
+date: 2024-11-19T18:57:04.713Z
+updated: 2024-11-26T22:12:50.626Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 Released in November,**Call of Duty: Vanguard** is one of the hottest game titles for 2021\. While some players can enjoy their gameplay without any problems, others report**Fatal Error, Dev Error, or other crashing issues** that lock them out of the game. If you’ve also encountered**CoD Vanguard crashing** problem, don’t worry. It’s not too hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix CoD Vanguard Crashing
 
  Here are seven fixes that have helped other users resolve their CoD Vanguard crashing problem. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Repair system files
 
@@ -49,6 +57,11 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -64,8 +77,17 @@ Here’s how to use Fortect to run a Windows repair:
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -86,9 +108,6 @@ Here’s how to use Fortect to run a Windows repair:
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
  Your game may crash if it doesn’t meet the system requirements for the game. So before attempting anything more advanced, you should compare your system to the officially suggested specifications to see if your PC is powerful enough to run the game.
@@ -110,18 +129,13 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
@@ -145,8 +159,9 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -159,9 +174,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 3. Restart your computer.
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -173,9 +185,6 @@ Here are the steps:
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer.
 
 ---
@@ -190,8 +199,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +206,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes/"><u>[New] 2024 Approved Maximizing Visibility A Comprehensive Guide to YT Gaming Hashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-persistent-crashing-issues-on-your-pc-while-playing-call-of-dute-black-ops-cold-war/"><u>[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-metaverse-vs-multiverse-a-comprehensive-breakdown/"><u>[Updated] In 2024, Metaverse vs Multiverse A Comprehensive Breakdown</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-leaderboards-unveiled-1-26-in-youtube-snacking/"><u>2024 Approved Leaderboards Unveiled #1, #2...#6 in YouTube Snacking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-bug-fixes-for-call-of-duty-gamers-addressing-modern-warfare-and-warzone-errors/"><u>Critical Bug Fixes for Call of Duty Gamers - Addressing Modern Warfare and Warzone Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-lag-and-glitches-a-players-manual-for-fixing-fifa-19-pc-stability-problems/"><u>Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-errors-in-playstation-now-streamed-titles-like-robocop-fatal-mission/"><u>Eliminating Errors in PlayStation Now Streamed Titles Like RoboCop: Fatal Mission</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycams-live-video-platform-and-digital-webcam-technology/"><u>Enhance Your Broadcasts Using ManyCam's Live Video Platform & Digital Webcam Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-users-unable-to-access-discord-application/"><u>Essential Fixes for Users Unable to Access Discord Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-constant-game-crashes-and-hang-ups-in-minecraft/"><u>How to Resolve Constant Game Crashes and Hang-Ups in Minecraft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-shot-recording-camcorders-for-the-hunt/"><u>In 2024, Ultimate Shot-Recording Camcorders for the Hunt</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-restoring-lost-files-on-unresponsive-hard-drives-with-ifind-data-recovery-by-ifind/"><u>Ultimate Guide to Restoring Lost Files on Unresponsive Hard Drives with IFind Data Recovery by iFinD</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-add-audio-fade-out-effect-for-2024/"><u>Updated How to Add Audio Fade Out Effect for 2024</u></a></li>
+</ul></div>
 

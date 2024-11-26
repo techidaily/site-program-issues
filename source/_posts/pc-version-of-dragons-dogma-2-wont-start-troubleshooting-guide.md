@@ -1,7 +1,7 @@
 ---
 title: PC Version of Dragon's Dogma 2 Won't Start? - Troubleshooting Guide
-date: 2024-11-13T09:51:32.098Z
-updated: 2024-11-17T00:50:05.382Z
+date: 2024-11-25T19:26:42.440Z
+updated: 2024-11-26T22:38:36.012Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 4. [**Repair the game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
 
  Video games nowadays are becoming more graphically demanding. So if Madden 22 just won’t work on your computer, you should make sure the machine is up for handling the game.
@@ -55,6 +48,10 @@ Here are the minimum requirements for Madden NFL 22:
 | **Storage**   | 50GB                                     |
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your device drivers
 
@@ -71,12 +68,20 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -86,28 +91,12 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 See if the issue persists. If yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
@@ -120,22 +109,8 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
@@ -146,6 +121,10 @@ See if the issue persists. If yes, continue to the next solution.
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
@@ -189,24 +168,21 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>[New] 2024 Approved Prime Choices in Cinema Cameras From Newbies to Professionals</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-voice-from-images-turning-instagram-into-mp3s/"><u>[New] In 2024, Voice From Images Turning Instagram Into MP3s</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-insta-influence-made-simple/"><u>[Updated] 2024 Approved Insta-Influence Made Simple</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-user-friendly-way-of-migrating-snapchat-images-home/"><u>[Updated] In 2024, The User-Friendly Way of Migrating SnapChat Images Home</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>[Updated] Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-alternative-video-editor-tips-beyond-youtube/"><u>2024 Approved Alternative Video Editor Tips Beyond YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-unexpected-crashes-while-designing-virtual-towns-in-city-crafter-pro/"><u>Fixing Unexpected Crashes While Designing Virtual Towns in City Crafter Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-most-out-of-playing-call-of-duty-black-ops-cold-war-by-fixing-pc-stability-issues/"><u>Get the Most Out of Playing Call of Duty - Black Ops Cold War by Fixing PC Stability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-freezing-issues-in-world-of-tanks-blitz-gameplay/"><u>How to Fix Continuous Freezing Issues in World of Tanks Blitz Gameplay</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-overcome-compatibility-issues-with-corsair-h115i-graphics-card-on-win-81011/"><u>How to Overcome Compatibility Issues with Corsair H115i Graphics Card on Win 8/10/11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-m6-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco M6 Pro 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/light-as-a-feather-strong-in-functionality-the-ultimate-review-of-the-acer-chromebook-r-11/"><u>Light as a Feather, Strong in Functionality: The Ultimate Review of the Acer Chromebook R 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-phasmophobia-stability-essential-bug-fixes-and-optimization-for-players/"><u>Mastering Phasmophobia Stability: Essential Bug Fixes and Optimization for Players</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-smartphone-apps-guide-to-managing-your-roku-device-without-using-a-physical-remote/"><u>Mastering Smartphone Apps: Guide to Managing Your Roku Device without Using a Physical Remote</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-starcraft-ii-hangar-latency-issue-on-steam-deck-and-macbook-pro/"><u>Overcoming StarCraft II Hangar Latency Issue on Steam Deck and MacBook Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overwatch-graphic-glitch-resolved-drivers-updated/"><u>Overwatch Graphic Glitch Resolved: Drivers Updated</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-prevent-blender-from-collapsing-during-use-on-desktops/"><u>Step-by-Step Solutions to Prevent Blender From Collapsing During Use on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012900107-troubleshoot-apex-legends-loading-problems-in-a-jiffy/"><u>Troubleshoot Apex Legends Loading Problems in a Jiffy!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-eliminating-frame-drops-in-deathloop-on-windows-systems/"><u>Troubleshooting Guide: Eliminating Frame Drops in Deathloop on Windows Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors/"><u>[New] In 2024, Precision in Portability The Ultimate List of 35 Free Android Video Compressors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-for-faster-vimeo-video-viewing/"><u>[Updated] In 2024, Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-picks-top-5-high-performing-android-recorders/"><u>2024 Approved Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-magic-5-lite-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Magic 5 Lite Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/conquer-the-webcam-world-with-ease/"><u>Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-ways-to-fix-an-unresponsive-epic-games-launcher-on-any-device/"><u>Easy Ways to Fix an Unresponsive Epic Games Launcher on Any Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tactics-for-getting-valorant-to-start-properly-on-your-computer/"><u>Expert Tactics for Getting Valorant to Start Properly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-to-optimal-performance-in-assassins-creed-valhalla-no-more-delays/"><u>Fast Track to Optimal Performance in Assassin's Creed Valhalla - No More Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-path-of-exiles-inability-to-connect-with-the-game-server/"><u>How to Fix Path of Exile's Inability to Connect with the Game Server</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 14 Pro Max to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-routines-to-rearrange-youtube-playlists-effectively-for-2024/"><u>Rapid Routines to Rearrange YouTube Playlists Effectively for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-baldurs-gate-3-top-6-strategies-to-tackle-excessive-cpu-demands-updated-guide/"><u>Resolving Baldur's Gate 3: Top 6 Strategies to Tackle Excessive CPU Demands - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-cortana-guided-steps-for-smooth-operation/"><u>Reviving Your Cortana: Guided Steps for Smooth Operation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-chic-and-trendy-taotronics-tt-dl16-led-lamp-features-benefits-and-more/"><u>The Ultimate Guide to the Chic & Trendy TaoTronics TT-DL16 LED Lamp: Features, Benefits, And More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-battlenet-launch-problems-with-our-expert-2024-tips-and-solutions/"><u>Troubleshoot Battle.net Launch Problems with Our Expert 2024 Tips & Solutions</u></a></li>
 </ul></div>
 

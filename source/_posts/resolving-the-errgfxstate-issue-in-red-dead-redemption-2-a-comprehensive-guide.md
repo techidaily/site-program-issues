@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-11-14T03:50:26.389Z
-updated: 2024-11-16T19:51:40.684Z
+date: 2024-11-23T21:32:13.937Z
+updated: 2024-11-26T19:15:31.068Z
 tags:
   - win11
   - win10
@@ -63,6 +63,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -123,16 +127,7 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
@@ -146,10 +141,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -164,21 +156,7 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -187,16 +165,7 @@ There are mainly two methods for you to update the graphics driver:
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -208,14 +177,15 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -244,18 +214,21 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-masterful-voice-modification-tools-for-smartphones/"><u>[New] 2024 Approved Masterful Voice Modification Tools for Smartphones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-black-ops-cold-war-error-code-887a0005/"><u>[SOLVED] Black Ops Cold War Error Code 887A0005</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exquisite-android-screen-capture-solutions-ranked-five/"><u>[Updated] 2024 Approved Exquisite Android Screen-Capture Solutions Ranked Five</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-of-breed-exceptional-cardboard-vr-gaming-experienits/"><u>[Updated] Best of Breed Exceptional Cardboard VR Gaming Experienits</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-decoding-youtubes-srt-download-with-3-methods/"><u>[Updated] In 2024, Decoding YouTube's SRT Download with 3 Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ace-your-match-in-rainbow-six-siege-by-fixing-the-server-connectivity-glitch/"><u>Ace Your Match in Rainbow Six Siege by Fixing the Server Connectivity Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-maplestory-initialization-errors-tips-and-fixes-for-smooth-launches/"><u>Bypassing Maplestory Initialization Errors: Tips & Fixes for Smooth Launches</u></a></li>
-<li><a href="https://games-able.techidaily.com/disc-jammed-fix-it-with-a-manual-eject-on-series-x/"><u>Disc Jammed? Fix It with a Manual Eject on Series X</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/hacking-twitters-humor-for-personal-use-on-pc/"><u>Hacking Twitter's Humor for Personal Use on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-cs2-network-response-time-for-a-smoother-pc-gaming-experience/"><u>Improving CS2 Network Response Time for a Smoother PC Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-disruption-a-step-by-step-guide-to-preventing-google-chrome-crashes/"><u>Stop the Disruption: A Step-by-Step Guide to Preventing Google Chrome Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-lost-ark-cant-reach-server/"><u>Troubleshooting Steps for 'Lost Ark Can't Reach Server'</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-merge-your-videos-for-free-the-best-web-based-tools/"><u>Updated Merge Your Videos for Free The Best Web-Based Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-eliminate-camera-sway-no-tripods-allowed/"><u>[New] In 2024, Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hacking-the-process-instant-deletion-on-youtube/"><u>[Updated] In 2024, Hacking the Process Instant Deletion on Youtube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-fresh-windows-10-gaming-and-application-delights/"><u>Discover Fresh Windows 10 Gaming & Application Delights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-use-of-snap-in-zoom-webinar-for-2024/"><u>Efficient Use of Snap in Zoom Webinar for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-quality-in-avatar-the-games-frontiers-of-pandora-combatting-low-frame-rates-and-glitches/"><u>Enhancing Gameplay Quality in 'Avatar: The Game's Frontiers of Pandora': Combatting Low Frame Rates & Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-the-unchanged-status-of-windows-screensaver/"><u>Ensuring the Unchanged Status of Windows Screensaver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-problems-with-launching-your-new-monster-hunter-game/"><u>Expert Tips to Resolve Problems with Launching Your New Monster Hunter Game</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-motorola-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Motorola</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-fix-a-failed-connectivity-on-new-world/"><u>How to Successfully Fix a Failed Connectivity on 'New World'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s18-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S18 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-s18e-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo S18e</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/microsofts-new-innovation-a-potential-annoyance-or-game-changer-insights-from-zdnet/"><u>Microsoft's New Innovation: A Potential Annoyance or Game-Changer? - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-fortnite-login-failed-issue-in-minutes-step-by-step-guide/"><u>Resolve Your 'Fortnite Login Failed' Issue in Minutes - Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fallout-n-freezing-issues-in-windows-11-gaming-pcs/"><u>Troubleshooting Fallout N' Freezing Issues in Windows 11 Gaming PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzones-black-screen-issue-top-strategies-for-troubleshooting-and-fixes/"><u>Warzone's Black Screen Issue: Top Strategies for Troubleshooting & Fixes</u></a></li>
 </ul></div>
 

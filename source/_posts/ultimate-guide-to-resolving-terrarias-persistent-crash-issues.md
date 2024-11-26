@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Resolving Terraria's Persistent Crash Issues
-date: 2024-08-19T16:54:42.233Z
-updated: 2024-08-20T16:54:42.233Z
+date: 2024-11-20T16:02:25.895Z
+updated: 2024-11-26T16:40:51.817Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8
 ## Phasmophobia Crash Troubles? Here's How to Resolve the Latest Issues
 
 Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers have reported this problem. But the good news is, you can fix it. Here’re 9 known fixes for the Phasmophobia crashing issue. You may not need to try them all; just work your way down the list until you find the one that does the trick for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,12 +49,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -68,38 +73,22 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience, and your graphics driver is essential for getting top performance from your GPU.
@@ -132,6 +121,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -160,16 +153,14 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -187,8 +178,9 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -201,9 +193,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -214,8 +203,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +210,23 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-instagrams-guide-to-intellectual-property-in-music/"><u>[New] In 2024, Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-blast-your-favorite-episode-now/"><u>[Updated] Instagram Blast Your Favorite Episode Now</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-logo-design-for-maximum-impact/"><u>2024 Approved The Art of Podcast Logo Design for Maximum Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/breaking-the-silence-in-the-commonwealth-comprehensive-guide-to-repairing-fallout-4s-audio-issues-on-your-computer/"><u>Breaking The Silence in the Commonwealth: Comprehensive Guide to Repairing Fallout 4'S Audio Issues on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013760204-enhance-your-modern-warfare-2-experience-overcoming-windowed-woes-steady-fps-and-smooth-action-guaranteed/"><u>Enhance Your Modern Warfare 2 Experience: Overcoming Windowed Woes – Steady FPS and Smooth Action Guaranteed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ensuring-the-security-of-your-ai-data-in-the-cloud-unveiling-apples-strategies-and-impact-learn/"><u>Ensuring the Security of Your AI Data in the Cloud: Unveiling Apple's Strategies & Impact - Learn</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-microsoft-flight-simulator-2020-from-killing-your-gaming-experience-on-windows-machines/"><u>Expert Tips to Prevent Microsoft Flight Simulator 2020 From Killing Your Gaming Experience on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-elder-scrolls-online-loading-errors-explained/"><u>Fixing the Problem: Elder Scrolls Online Loading Errors Explained</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-12-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 12 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-and-get-your-samsung-bd-player-back-in-action/"><u>How to Repair and Get Your Samsung BD Player Back in Action</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 15 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-forest-sons-game-crashes-on-your-pc-comprehensive-guide/"><u>Resolving 'Forest Sons' Game Crashes on Your PC - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-launching-battlenet-successfully-guide/"><u>Step-by-Step Solutions for Launching Battle.net Successfully (Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-how-to-fix-a-blank-interface-in-epic-games-launcher-application/"><u>The Solution: How to Fix a Blank Interface in Epic Games Launcher Application</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-the-lzma-compression-preferences-window/"><u>Understanding the LZMA Compression Preferences Window</u></a></li>
+</ul></div>
 

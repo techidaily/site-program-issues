@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues
-date: 2024-08-19T16:55:11.295Z
-updated: 2024-08-20T16:55:11.295Z
+date: 2024-11-25T22:44:40.937Z
+updated: 2024-11-26T18:23:10.491Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ## Why am I receiving this error?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/attention.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the[status of the Destiny 2 servers](https://help.bungie.net/hc/en-us/articles/360049199271) . If the server itself is not down at the moment, the potential causes of the ‘You have lost connection to the Destiny 2 servers’ error are listed below:
 
@@ -51,6 +55,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 3. Then select**OK** to confirm and acknowledge that you’ll need to log in to Steam again.  
 ![confirm clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/confirm_clear_cache.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
 
 ## Fix 2\. Switch to a wired connection
@@ -77,11 +85,13 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,6 +104,11 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 1. In the Windows search box, type**cmd** . Under**Command Prompt** , select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 2. Click**OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following command lines (press**Enter** after entering each command line):  
 **`netsh winsock reset`**  
 **`netsh int ip reset`**  
@@ -111,18 +126,18 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Type in**ncpa.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -131,13 +146,14 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6\. Enable UPnP or Port Forwarding
 
  If you worked hard through the basic troubleshooting guide but still the error ‘**You have lost connection to the Destiny 2 servers** ‘ persists, you can try setting up UPnP or Port Forwarding (we don’t recommend doing both of them).
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1\. Enable UPnP
 
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
@@ -145,16 +161,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Get your Router’s internal IP (Default Gateway) by entering**ipconfig** in Command Prompt.  
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2\. Enable Port Forwarding
 
  If you can’t use UPnP or don’t feel like it, you can enable Port Forwarding to allow all the connections Destiny needs. Note that you **won’t be able to use more than one console to play Destiny on the same network simultaneously** when using Port Forwarding. If you need this feature, I suggest you choose
@@ -172,8 +182,9 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
 #### Step 2\. Set up the static IP address
@@ -184,23 +195,18 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click **OK**  to apply.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -209,12 +215,14 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 3. Search for the **Port Forwarding**  or **Advanced** or **Virtual Server** section.  
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose both **TCP** and **UDP**  ports for your games in the appropriate box.  
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 ##### Ports that should be OPEN
 
@@ -256,8 +264,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +271,26 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>[New] In 2024, Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-optimize-content-delivery-top-12-html5-video-platforms/"><u>[Updated] In 2024, Optimize Content Delivery Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-precision-editing-unveiled-harnessing-the-potential-of-ps-background-erasure-feature-for-2024/"><u>[Updated] Precision Editing Unveiled Harnessing the Potential of PS Background Erasure Feature for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-finest-9-mic-recorders-web-based-edition/"><u>2024 Approved The Finest 9 Mic Recorders, Web-Based Edition</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-guide-to-seasonal-instant-purchase-discounts-expert-tips-from-zdnet/"><u>Discover the Ultimate Guide to Seasonal Instant Purchase Discounts: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-and-tricks-to-prevent-dreamlight-valley-from-freezing-your-pc-screen/"><u>Essential Tips and Tricks to Prevent Dreamlight Valley From Freezing Your PC Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-solve-vanguards-uninitialized-problem-on-valorant/"><u>How to Address and Solve Vanguard's Uninitialized Problem on Valorant</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-iphone-7-plus-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For iPhone 7 Plus?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-camera-connoisseurs-hits-the-best-6-of-the-years-4k-cameras/"><u>In 2024, Camera Connoisseurs' Hits The Best 6 of the Year's 4K Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-guide-to-sims-4-gameplay-recording/"><u>In 2024, Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-of-f1-2021-solutions-to-common-pc-issues/"><u>Mastering Smooth Playthroughs of F1 2021: Solutions to Common PC Issues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-art-of-youtube-closings-inclusive-guide-for-2024/"><u>Mastering the Art of YouTube Closings [Inclusive Guide] for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-startup-pitfalls-expert-tips-to-jumpstart-a-failing-pre-launch-in-2-groovy-2024/"><u>Navigating Startup Pitfalls: Expert Tips to Jumpstart a Failing Pre-Launch in 2 Groovy 2024!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-problems-in-robocop-rogue-city-how-to-get-it-running-smoothly-on-your-computer/"><u>Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-discords-screen-mirroring-fix-it-easily-and-effectively/"><u>Trouble with Discord's Screen Mirroring? Fix It Easily & Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-battlefield-2042-fixing-persistent-directx-errors-easily/"><u>Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-epic-games-launcher-swift-opening-techniques/"><u>Troubleshooting the Epic Games Launcher - Swift Opening Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-over-overwatch-errors-tackling-the-graphics-driver-problem-once-and-for-all/"><u>Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All</u></a></li>
+</ul></div>
 

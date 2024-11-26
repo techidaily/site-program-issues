@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Gameplay: Quick Fixes for MultiVersus Failure to Load on PC"
-date: 2024-08-19T16:54:12.059Z
-updated: 2024-08-20T16:54:12.059Z
+date: 2024-11-23T18:48:37.258Z
+updated: 2024-11-26T16:50:15.095Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -43,6 +47,10 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
 Check if the game runs normally now. If not, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of your game files
 
@@ -58,19 +66,10 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
 
 #### If you’re playing on Origin
@@ -80,11 +79,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -111,16 +115,18 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Turn off overlays
 
  If you’re using the overlay feature, that might be the reason for Star Wars Squadrons crashing. You can follow the instruction below to turn it off on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Origin](https://tools.techidaily.com/drivereasy/download/)**  and **[NVIDIA GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -131,16 +137,10 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
@@ -153,10 +153,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**settings icon** and click**Game Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
@@ -177,9 +173,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
 ### Fix 5 – Adjust the graphics settings
@@ -193,15 +186,17 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Change** button next to Screen Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
@@ -209,6 +204,10 @@ There are mainly two ways you can do the driver update:
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -228,8 +227,6 @@ There are mainly two ways you can do the driver update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +234,24 @@ There are mainly two ways you can do the driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pro-gameplay-documentation-on-fbx-format/"><u>[New] 2024 Approved Pro Gameplay Documentation on FBX Format</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-game-changing-ps4-screen-recordings-using-obs-for-2024/"><u>[Updated] Game-Changing PS4 Screen Recordings Using OBS for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-perfected-frames-select-software-and-websites-of-the-year-2023-for-2024/"><u>[Updated] Perfected Frames Select Software & Websites of the Year, 2023 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>2024 Approved Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intensifying-interaction-with-enhanced-zoom-on-roblox/"><u>2024 Approved Intensifying Interaction with Enhanced Zoom on Roblox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-best-ways-to-fix-zoom-cannot-start-video/"><u>5 Best Ways to Fix Zoom Cannot Start Video</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-how-to-overcome-and-repair-persistent-pc-bugs/"><u>Euro Truck Simulator 2 - How to Overcome and Repair Persistent PC Bugs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources-for-2024/"><u>Free Photos for Every Project - An Exclusive List of Top 12 Online Sources for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unresponsive-utorrent-in-just-7-simple-steps-pro-tips-inside/"><u>How to Fix Unresponsive uTorrent in Just 7 Simple Steps - Pro Tips Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-problems-in-resident-evil-village-on-your-pc-the-ultimate-guide/"><u>How To Resolve Lag Problems In Resident Evil Village on Your PC - The Ultimate Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-k11-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo K11 5G Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-troubleshooting-steps-for-msi-mystic-light-issues-under-windows/"><u>Solution Found: Troubleshooting Steps for MSI Mystic Light Issues Under Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-forest-saga-pc-game-crashes-a-comprehensive-guide/"><u>Solving 'Forest Saga' PC Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-for-a-smooth-experience-with-tiny-tinas-wonderlands-pc-patch-details/"><u>Steps for a Smooth Experience with Tiny Tina’s Wonderlands [PC Patch Details]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993515097-tower-of-fantasy-pc-game-persistently-fails-find-out-why/"><u>Tower of Fantasy PC Game Persistently Fails – Find Out Why</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ultimate-collection-of-wireless-charger-picks-for-2e24-professional-evaluation/"><u>Unveiling the Ultimate Collection of Wireless Charger Picks for 2E24: Professional Evaluation</u></a></li>
+</ul></div>
 

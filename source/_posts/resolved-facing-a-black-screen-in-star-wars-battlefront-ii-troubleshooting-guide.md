@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Facing a Black Screen in Star Wars Battlefront II - Troubleshooting Guide"
-date: 2024-11-10T16:27:48.427Z
-updated: 2024-11-17T01:57:30.413Z
+date: 2024-11-19T21:49:20.454Z
+updated: 2024-11-26T16:22:08.365Z
 tags:
   - win11
   - win10
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 1: Delete the cache files of Origin**
@@ -62,37 +59,24 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**AppData** in the address bar.
 
@@ -144,25 +128,19 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
@@ -176,6 +154,10 @@ Or
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
@@ -196,6 +178,10 @@ Or
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
@@ -221,16 +207,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
@@ -258,6 +241,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
@@ -280,19 +267,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -300,6 +274,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -327,22 +305,22 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-5-hilarious-tiktoks-laughter-unleashed/"><u>[Updated] 5 Hilarious TikToks Laughter Unleashed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-assemble-photos-for-a-captivating-storyboard-experience/"><u>[Updated] Assemble Photos for a Captivating Storyboard Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-social-stardom-spectrum-global-internet-icons-for-2024/"><u>[Updated] Social Stardom Spectrum Global Internet Icons for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-x7b-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor X7b to Roku | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/data-survival-scenarios-post-fb-demise/"><u>Data Survival Scenarios Post-FB Demise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/delving-into-ffmpeg-unaltered-audio-extraction/"><u>Delving Into FFmpeg Unaltered Audio Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-utorrent-connections-and-resume-torrent-downloads-seamlessly/"><u>How to Restore uTorrent Connections and Resume Torrent Downloads Seamlessly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy M14 4G Phone?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-a-guide-to-lowering-cpu-usage-in-phasmophobia/"><u>Optimizing Performance: A Guide to Lowering CPU Usage in Phasmophobia</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-game-crashes-effective-remedies-for-stabilizing-your-arcadegeddon-pc-experience/"><u>Overcoming Game Crashes: Effective Remedies for Stabilizing Your Arcadegeddon PC Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-metro-exodus-pc-gameplay-interruptions-avoidance-of-frequent-crashes-and-freezes/"><u>Overcoming Metro Exodus PC Gameplay Interruptions: Avoidance of Frequent Crashes and Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/race-ready-fixes-how-to-tackle-forza-horizon-ns-persistent-loading-problem-with-these-7-hacks/"><u>Race-Ready Fixes: How to Tackle Forza Horizon N's Persistent Loading Problem with These 7 Hacks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-left-4-dead-2-game-crashes/"><u>Resolved: Fixing Left 4 Dead 2 Game Crashes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailoring-your-playstation-experience-with-sounds/"><u>Tailoring Your PlayStation Experience with Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-overcoming-low-frames-per-second-fps-in-valorant-essential-tips-and-techniques/"><u>The Ultimate Fix: Overcoming Low Frames Per Second (FPS) in Valorant - Essential Tips & Techniques</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-videos-top-rated-ipad-video-editors/"><u>Updated In 2024, Elevate Your Videos Top-Rated iPad Video Editors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-reinventing-speech-the-ultimate-guide-to-free-vocal-adjustments/"><u>[New] In 2024, Reinventing Speech The Ultimate Guide to Free Vocal Adjustments</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations-for-2024/"><u>[New] Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>[Updated] Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/gpt-ssdssd/"><u>如何将大容量的GPT SSD数据复制至较小的SSD上：高效转移技巧</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/breaking-the-barrier-uploading-and-live-broadcasting-vids-to-fb-for-2024/"><u>Breaking the Barrier Uploading and Live Broadcasting Vids to FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-microsoft-print-to-pdf-error-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Fixing the Microsoft Print to PDF Error: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-correctly-resolve-minecrafts-old-graphics-driver-notification/"><u>How To Correctly Resolve Minecraft's Old Graphics Driver Notification</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-quickly-resolve-cod-warzones-dev-error-6634-pro-techniques-and-advice/"><u>How to Quickly Resolve CoD: Warzone's Dev Error #6634 - Pro Techniques & Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-game-crashes-in-red-dead-online/"><u>How To Resolve PC Game Crashes in Red Dead Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985255082-pc-gaming-made-easy-assassins-creed-valhalla-crash-troubleshooted-and-solved/"><u>PC Gaming Made Easy: Assassin’s Creed Valhalla Crash Troubleshooted and Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-ffxiv-update-problems-how-to-fix-version-check-errors/"><u>Resolving FFXIV Update Problems - How to Fix Version Check Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-crashing-issues-on-dead-by-daylight-latest-tips/"><u>Resolving Persistent Crashing Issues on Dead By Daylight (Latest Tips )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-how-to-fix-origin-wont-open-issue-in-windows-10-and-11/"><u>Solving the Problem: How to Fix 'Origin Won't Open' Issue in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-easy-path-to-observing-well-liked-comments-on-the-video-platform-for-2024/"><u>The Easy Path to Observing Well-Liked Comments on the Video Platform for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-steam-server-connectivity-issues/"><u>Troubleshooting Solutions: Fixing Steam Server Connectivity Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005837283-troubleshooting-tips-for-narakabladepoint-performance-issues-resolved/"><u>Troubleshooting Tips for Naraka:Bladepoint Performance Issues Resolved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-your-ai-journey-with-claude-3/"><u>Unveiling the Potential of Your AI Journey with Claude 3</u></a></li>
 </ul></div>
 

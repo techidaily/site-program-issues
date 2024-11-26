@@ -1,7 +1,7 @@
 ---
 title: "Resolving Crashing Problems on Your Arma 3 PC: Latest Updates for Gaming Smoothness"
-date: 2024-08-19T16:52:47.385Z
-updated: 2024-08-20T16:52:47.385Z
+date: 2024-11-21T19:47:27.129Z
+updated: 2024-11-26T22:40:15.070Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/the-ascent-featured.jpg)
 
  The most awaited cyberpunk RPG, The Ascent, finally hit PC in the middle of 2021\. But the game is still at a primitive stage, and there’re already many players complaining about the**stuttering and FPS issues** . If your game lags like crazy and you’re looking for a cure, you’re in the right place. Here’re some workarounds we found that can stop, or at least mitigate the lag.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
  If this doesn’t fix the stuttering issue, take a look at the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  Stuttering or FPS drops might indicate that you’re using**a buggy or outdated graphics driver** . This is actually pretty common—games are getting more and more demanding, and the generic driver that comes with Windows no longer suffices. To get the best in-game performance, always check if you have the latest GPU driver.
@@ -63,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Make sure Windows is up to date
 
  Every once in a while, Microsoft releases Windows updates that fix bugs and offer performance boosts. To ensure the best gaming experience, besides drivers you also need to**keep your system up to date** .
@@ -78,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 
  If this doesn’t give you any improvements, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Run The Ascent on DirectX 11
 
  Some players reported different results on DirectX 11 and 12, so you can switch between these two and see which works the best. By default you’ll be running The Ascent on DirectX 12.
@@ -91,9 +94,6 @@ If you don’t know how to switch, follow these steps:
 2. In the pop-up window, scroll down until you see**LAUNCH OPTIONS** . Click the input area and type**\-dx11** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
@@ -106,20 +106,25 @@ If you don’t know how to switch, follow these steps:
 2. Navigate to the Program settings tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -132,8 +137,6 @@ If you don’t know how to switch, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +144,22 @@ If you don’t know how to switch, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-game-on-for-gaiety-your-must-try-10/"><u>[New] 2024 Approved Game On for Gaiety Your Must-Try 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>[Updated] Flashback Flair Top 80S Video Tricks for a Contemporary Edge</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-switch-on-windows-11s-hdr-functionality/"><u>[Updated] In 2024, How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bon-voyage-to-smooth-sailing-in-the-sims-4-fixing-graphics-cards/"><u>Bon Voyage to Smooth Sailing in The Sims 4 - Fixing Graphics Cards</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-3-resolved-fixes-for-prevailing-system-crash-problems/"><u>Dark Souls 3 - Resolved: Fixes for Prevailing System Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-risk-of-rain-2-crashes-ultimate-troubleshooting-guide/"><u>Fixing Risk of Rain 2 Crashes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-top-meme-maker-apps-for-android-and-ios-devices/"><u>New 2024 Approved Top Meme Maker Apps for Android and iOS Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000900353-origin-software-offline-heres-how-to-fix-it/"><u>Origin Software Offline? Here's How to Fix It</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-cannot-connect-problems-for-win-users/"><u>Overcoming Cannot Connect Problems for Win Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010387686-pc-gaming-fixes-why-isnt-payday-2-starting-solutions-inside/"><u>PC Gaming Fixes: Why Isn't Payday 2 Starting? Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problems-eliminate-gta-5-game-crashes-with-these-fixes/"><u>Persistent Problems? Eliminate GTA 5 Game Crashes with These Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-disappearance-of-your-seagate-hdd-in-win10/"><u>Resolving the Disappearance of Your Seagate HDD in Win10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-expert-reviews-and-comparisons/"><u>Top Rated Portable Solar Power Banks - Expert Reviews & Comparisons</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-2024-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's 2024 Black Screen Issue</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: War Thunder Crashing Solved - Discover the Ultimate Guide and Tips to Keep Your Game Running
-date: 2024-08-19T16:51:39.467Z
-updated: 2024-08-20T16:51:39.467Z
+date: 2024-11-23T23:23:22.008Z
+updated: 2024-11-26T20:46:59.903Z
 tags:
   - win11
   - win10
@@ -51,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
  If your PC specs are sufficient for the game but you still suffer from low FPS issues, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  An outdated or faulty graphics driver can cause a lot of display issues. If you notice constant FPS drops in-game, you may want to update your graphics driver to make sure it’s functioning properly.
@@ -69,16 +70,14 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 
  By default, the Steam client will detect any available patches and update your game, so you don’t have to worry about missing an update. However, if you want to report a bug or any game issues, feel free to[post in their Steam forum](https://steamcommunity.com/app/1199030/discussions/) or[join their official discord](https://discord.com/invite/j4ejXQa) for quicker responses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Verify game files integrity
 
  Damaged or missing game files could cause a lot of game issues, including in-game FPS drops as well. You may want to make sure your game files are intact. Here’s how:
@@ -101,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/9512aea1a507981ddcbdbe0823cb40f28338d2e0f
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 3. Steam will scan your local game files, and replace or add any corrupted or missing files to your game folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If repairing your game files doesn’t bring a boost in your FPS, try the next fix.
 
@@ -154,9 +161,6 @@ Make sure to save the changes then test the in-game FPS.
 
  If adjusting the graphics settings fails to bring a major boost in your FPS, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Change the power plan in your graphics setting
 
  Windows allows the users to change the power options if needed. By setting to the high-performance mode, your CPU usage won’t be limited as it’ll be able to run at a high speed constantly.
@@ -166,24 +170,24 @@ Make sure to save the changes then test the in-game FPS.
 1. In the search bar next to the Start button, type**graphics** then click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-graphics.png)
 2. Click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/browse.png)
 3. Locate your game executable file and add it to the list. It’s usually in **C:Program Files (x86)Steamsteamappscommon** .
 4. Once the exe. file is added to the list, click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/options.png)
 5. Select**High Performance** , then click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/high-performance.png)
 
  Check if you get a higher FPS in-game now. If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Keep your system up-to-date
 
  Every now and then, Windows releases updates. It’s always a good idea to install the available updates, so you can make sure your PC has the necessary functions for the game. Although it may not address the low FPS issues directly, it will help prevent compatibility issues with the game which could affect the in-game FPS. Here’s how to check for available updates and how to install them:
@@ -192,9 +196,6 @@ Make sure to save the changes then test the in-game FPS.
  (If you don’t see the search bar, click the Start button and you should find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)  
  If there are available updates, click**Install updates** .
 3. Restart your PC to let the updates take effect.
@@ -213,8 +214,6 @@ Make sure to save the changes then test the in-game FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +221,20 @@ Make sure to save the changes then test the in-game FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-practices-in-winning-tv-recording-with-software/"><u>[New] Best Practices in Winning TV Recording with Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>[New] Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-luts-implementation-for-cinematographic-coloring/"><u>[Updated] Luts Implementation for Cinematographic Coloring</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alcatel-joy-tab-2-pro-your-guide-to-the-best-economical-lte-tablet-ever-made/"><u>Alcatel Joy Tab 2 Pro: Your Guide to the Best Economical LTE Tablet Ever Made</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-steamvr-issues-instantly-a-comprehensive-guide/"><u>Fix SteamVR Issues Instantly: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-constant-crash-of-microsoft-teams-assistant-on-windows/"><u>Fixing the Constant Crash of Microsoft Teams Assistant on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ag-wisdom-jumpstart-your-6-figure-youtube-rank-for-2024/"><u>Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lightning-cure-fast-remedy-for-amd-and-tarkov-bug/"><u>Lightning Cure: Fast Remedy for AMD & Tarkov Bug</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-top-5-best-tools-to-convert-text-to-audio-online-for-free-for-2024/"><u>New Top 5 Best Tools to Convert Text to Audio Online for Free for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slime-rancher-2-performance-problems-heres-how-to-address-pc-crashes-and-freezing-issues-effectively/"><u>Slime Rancher 2 Performance Problems? Here's How to Address PC Crashes & Freezing Issues Effectively!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-cyberpunk-2077-failure-to-initialize/"><u>Troubleshooting Tips for Cyberpunk 2077 Failure to Initialize</u></a></li>
+</ul></div>
 

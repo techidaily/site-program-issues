@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: How to Stop TOTAL WAR: WARHAMMER III From Crashing on Windows"
-date: 2024-08-19T16:54:36.573Z
-updated: 2024-08-20T16:54:36.573Z
+date: 2024-11-23T23:06:40.428Z
+updated: 2024-11-26T22:12:41.062Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d35e798d7cf8d00e558373e4952ec0178aa0674db
 ## How to Stop Microsoft Edge From Crashing on Windows 10 Systems
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common methods
 
@@ -34,9 +38,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -45,19 +46,23 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -68,21 +73,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -92,29 +100,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -155,9 +147,18 @@ No advertising on the website.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -174,8 +175,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +182,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-digital-media-screening-an-insightful-critique/"><u>[New] 2024 Approved Digital Media Screening - An Insightful Critique</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[New] In 2024, Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-photo-video-capture-snapchat-and-mobile-guide/"><u>[Updated] Enhancing Photo-Video Capture Snapchat & Mobile Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-infiltrating-hidden-user-communications-on-yt-platforms/"><u>[Updated] Infiltrating Hidden User Communications on YT Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>2024 Approved Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-steelseries-gg-mouse-engine-malfunctioning-under-windows-os/"><u>Comprehensive Solutions for SteelSeries GG Mouse Engine Malfunctioning Under Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-latest-glitch-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077'S Latest Glitch: Understanding the Impact of Error 2024!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancements-to-tackle-freezing-woes-the-new-world-game-receives-crucial-updates/"><u>Enhancements to Tackle Freezing Woes: The New World Game Receives Crucial Updates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y27 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-nubia-z50-ultra-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Nubia Z50 Ultra</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-exclusive-apple-insights-worth-the-price-can-we-see-customers-subscribing-for-as-much-as-20-monthly/"><u>Is Investing in Exclusive Apple Insights Worth the Price: Can We See Customers Subscribing for as Much as $20 Monthly?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-the-sounds-of-dying-light-top-tricks-to-overcome-sound-malfunctions/"><u>Revive the Sounds of Dying Light - Top Tricks to Overcome Sound Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-discord-crash-issues-effective-strategies-and-tips/"><u>Solve Your Discord Crash Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-operation-blue-eclipse-issue-code-3-0x0001000b-troubleshooting-guide/"><u>Solving Rainbow Six Operation Blue Eclipse Issue: Code 3-0X0001000B Troubleshooting Guide</u></a></li>
+</ul></div>
 

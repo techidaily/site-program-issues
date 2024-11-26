@@ -1,7 +1,7 @@
 ---
 title: "Improve Gaming Performance: Solutions to Fix Stuttering & Increase FPS on 'The Ascent'"
-date: 2024-08-19T16:52:13.243Z
-updated: 2024-08-20T16:52:13.243Z
+date: 2024-11-20T19:27:33.061Z
+updated: 2024-11-26T21:42:26.063Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 GTFO
 
  GTFO, an extrame cooperative horror shooter, is finally ready for release after two years of early access. On December 9 at the Game Awards, 10 Chambers revealed that GTFO 1.0 has arrived. As more and more PC gamers come back to play the game, many of them are bothered by**GTFO FPS drop issue on their PC** . If you find yourself on the same boat, don’t worry. You’ve come to the right place. After reading this article, you shloud be able to fix the GTFO performance issues and boost the GTFO in-game FPS easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,20 +64,22 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
 
@@ -88,15 +94,8 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -133,6 +132,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -140,17 +144,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -160,15 +156,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -186,8 +180,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +187,20 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-facebook-live-mastery-a-recording-journey/"><u>[New] 2024 Approved Facebook Live Mastery A Recording Journey</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-selections-cutting-edge-iphone-tune-makers/"><u>[New] Prime Selections Cutting-Edge iPhone Tune Makers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-channels-viewer-count-12-must-try-approaches/"><u>[Updated] 2024 Approved Boosting Your Channel's Viewer Count - 12 Must-Try Approaches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-choosing-the-right-fps-30-or-60-which-is-better/"><u>[Updated] In 2024, Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-craft-compelling-fb-video-ads-free-toolkit-included/"><u>[Updated] In 2024, Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-imagination-a-look-at-the-leading-6-nft-makers/"><u>[Updated] In 2024, Ignite Your Imagination - A Look at the Leading 6 NFT Makers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-low-cost-cameras-list/"><u>[Updated] The Ultimate Low-Cost Cameras List</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-automate-free-hourly-backups-for-windows-users-of-versions-11-8-and-7-without-spending-a-penny/"><u>How to Automate Free Hourly Backups for Windows Users of Versions 11, 8 & 7 Without Spending a Penny!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-issues-resolved-enjoy-robocops-latest-installment-rogue-city-on-pc/"><u>Launch Issues Resolved: Enjoy RoboCop's Latest Installment, Rogue City on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-problem-how-to-fix-and-prevent-fortnite-version-ls-0013-initialization-failures/"><u>Solved Problem: How to Fix and Prevent Fortnite Version LS-0013 Initialization Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-surge-2s-endless-crash-loop-woes/"><u>Solving The Surge 2'S Endless Crash Loop Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-msi-mystic-light-compatibility-on-windows/"><u>Troubleshooting Guide: Fixing Issues with MSI Mystic Light Compatibility on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-with-error-code-critical-fixes/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite with Error Code Critical Fixes</u></a></li>
+</ul></div>
 

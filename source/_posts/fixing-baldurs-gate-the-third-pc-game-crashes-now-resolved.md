@@ -1,7 +1,7 @@
 ---
 title: "Fixing Baldur's Gate The Third: PC Game Crashes Now Resolved"
-date: 2024-08-19T16:55:24.586Z
-updated: 2024-08-20T16:55:24.586Z
+date: 2024-11-20T22:37:23.719Z
+updated: 2024-11-26T16:16:59.276Z
 tags:
   - win11
   - win10
@@ -83,9 +83,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -93,17 +90,15 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -116,19 +111,23 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
 
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -142,8 +141,9 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
@@ -166,18 +166,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -197,8 +199,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +206,23 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-srt-file-sharing-on-social-platforms/"><u>[New] Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-playlist-perfection-weaving-youtube-videos-into-webpages/"><u>[Updated] In 2024, Playlist Perfection Weaving YouTube Videos Into Webpages</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-inexpensive-cloud-storage-services/"><u>[Updated] Unveiling Inexpensive Cloud Storage Services</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unlock-full-potential-of-canon-cams-with-gratuitous-and-fee-based-luts/"><u>2024 Approved Unlock Full Potential of Canon Cams with Gratuitous & Fee-Based LUTs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphones-screen-issues-here-are-your-options/"><u>Dealing with iPhones Screen Issues? Here Are Your Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-connectivity-and-performance-hiccups-in-the-new-virtual-realm/"><u>Easy Fixes for Connectivity & Performance Hiccups in the New Virtual Realm</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-high-performance-windows-editing-tools-roundup-reviewed/"><u>In 2024, High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-gameplay-in-avatar-frontiers-of-pandora-by-eliminating-lags-and-improving-frame-rate/"><u>Optimize Gameplay in Avatar: Frontiers of Pandora by Eliminating Lags and Improving Frame Rate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-critical-failure-resolving-the-failed-to-load-steamuidll-fatal-error/"><u>Steam Critical Failure: Resolving the 'Failed to Load SteamUI.DLL' Fatal Error</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trailblazers-top-intro-list-for-zooids-for-2024/"><u>Trailblazers Top Intro List for Zooids for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985364808-troubleshooting-mlb-the-show-21-network-issues-now-fixed/"><u>Troubleshooting MLB The Show 21 Network Issues – Now Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-gpeditmsc-tool-for-windows-home-users-a-step-by-step-guide/"><u>Unlocking the gpedit.msc Tool for Windows Home Users – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/"><u>Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+</ul></div>
 

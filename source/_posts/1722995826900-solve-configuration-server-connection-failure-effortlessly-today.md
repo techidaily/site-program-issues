@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-11-13T19:33:23.074Z
-updated: 2024-11-16T23:44:32.440Z
+date: 2024-11-23T20:38:06.219Z
+updated: 2024-11-26T21:07:34.450Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [1. Sign in again](https://tools.techidaily.com/drivereasy/download/)
@@ -42,13 +46,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if this method doesn’t do the trick, you can try the next fix below.
 
 ## 2\. Check the status of Teredo (Windows 10)
@@ -61,36 +58,18 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
@@ -100,6 +79,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  1) In the Search bar, type**cmd** and select**Run as administrator** .
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **the following command** and press **Enter** .
 
@@ -133,6 +116,10 @@ netsh interface Teredo set state type=default
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **the following command** and press **Enter** .
 
 netsh advfirewall set allprofiles state on
@@ -150,22 +137,12 @@ netsh advfirewall set allprofiles state on
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/services-on.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Close the window and launch your game.
 
@@ -192,14 +169,24 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-editing-elegance-into-news-summations/"><u>[New] 2024 Approved Editing Elegance Into News Summations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[New] 2024 Approved Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-detecting-imitation-gpt-powered-tools-on-apples-app-store/"><u>Guide to Detecting Imitation GPT-Powered Tools on Apple's App Store</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-forza-horizon-5-with-a-driver-update/"><u>How To Resolve Graphical Issues in Forza Horizon 5 With A Driver Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-non-working-escape-keys-on-your-windows-system/"><u>Navigating Non-Working Escape Keys on Your Windows System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-fifa-19-from-disappearing-expert-tips-to-prevent-game-crashes-on-personal-computers/"><u>Stop FIFA 19 From Disappearing: Expert Tips to Prevent Game Crashes on Personal Computers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-1000-club-achievement-monthly-tips-for-insta-success-and-growth-for-2024/"><u>The 1,000 Club Achievement Monthly Tips for Insta Success and Growth for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007958056-trouble-with-apex-legends-solve-common-engine-issues-now/"><u>Trouble with Apex Legends? Solve Common Engine Issues Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-strategies-for-smoother-loads-in-cod-warzone-eradicating-lags-and-upping-fps/"><u>Ultimate Strategies For Smoother Loads in COD: Warzone - Eradicating Lags and Upping Fps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[Updated] 2024 Approved Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-precision-in-photos-mastering-insta-story-zoom-levels/"><u>[Updated] 2024 Approved Precision in Photos Mastering Insta Story Zoom Levels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fixing-inaccurate-avatar-showcasing-in-fb-messages/"><u>[Updated] Fixing Inaccurate Avatar Showcasing in FB Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-new-partnership-with-beats-exclusive-insights-techcrunch/"><u>Apple Discontinues FineWoven Collection in Favor of New Partnership with Beats - Exclusive Insights | TechCrunch</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-conversion-boost-your-site-with-smart-analytics/"><u>Cookiebot-Driven Conversion: Boost Your Site with Smart Analytics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-startup-crashes-optimizing-your-system-for-a-smooth-far-cry-6-experience/"><u>Eliminating Startup Crashes: Optimizing Your System for a Smooth Far Cry 6 Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-persistent-freezing-in-final-fantasy-xv-pc-version/"><u>Fixes and Solutions for Persistent Freezing in Final Fantasy XV PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-httpswwwusgsgovspecial-topicwater-science-570/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-m14-4g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy M14 4G Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-switch-off-mobility-features-on-win-11/"><u>How To Switch Off Mobility Features on Win 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>In 2024, Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-creative-commons-rights-step-by-step-tutorial-for-2024/"><u>Navigating Creative Commons Rights Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/no-download-zone-10-top-free-online-video-compressors-for-2024/"><u>No-Download Zone 10 Top Free Online Video Compressors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reducing-high-cpu-consumption-issues-while-playing-phasmophobia/"><u>Reducing High CPU Consumption Issues While Playing Phasmophobia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-issues-in-cs2-a-guide-to-boost-your-pcs-performance/"><u>Solving Frame Rate Issues in CS2: A Guide to Boost Your PC's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-error-resolved-ensuring-easy-anti-cheat-is-installed-correctly-to-avoid-game-launch-issues/"><u>Steam Error Resolved: Ensuring Easy Anti-Cheat Is Installed Correctly to Avoid Game Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-eliminating-the-opaque-screen-glitch-in-star-wars-battlefront-ii-gaming/"><u>Step-by-Step Solution: Eliminating the Opaque Screen Glitch in Star Wars Battlefront II Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-your-amd-radeon-drivers-wont-launch/"><u>Troubleshooting Steps for When Your AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-ghostrunner-errors-for-smooth-windows-10-gaming/"><u>Ultimate Guide: Eliminating Ghostrunner Errors for Smooth Windows 10 Gaming</u></a></li>
 </ul></div>
 

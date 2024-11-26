@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2024-11-16T07:53:14.717Z
-updated: 2024-11-17T06:11:51.526Z
+date: 2024-11-20T22:47:43.408Z
+updated: 2024-11-26T20:50:06.552Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
  The most possible causes of ‘ **_Connection to the Battle.net game server has been lost_**  ‘ are as follows:
@@ -37,13 +41,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -58,6 +55,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Allow your game to run through Windows Firewall
 
@@ -75,6 +76,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -84,10 +89,7 @@ If your game isn’t on the list, follow these steps:
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
@@ -113,17 +115,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -132,19 +124,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
@@ -157,6 +136,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -180,16 +163,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -230,21 +204,21 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[New] 2024 Approved Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>[New] In 2024, From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stealthy-edits-blur-without-compromising-quality/"><u>[New] Stealthy Edits Blur Without Compromising Quality</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-video-posting-on-twitter-and-tumblr-connection/"><u>[Updated] 2024 Approved Video Posting on Twitter and Tumblr Connection</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-find-youtube-sponsorships-by-using-famebit-for-2024/"><u>[Updated] How to Find YouTube Sponsorships by Using FameBit for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-game-capture-kit-tools-and-methodologies/"><u>2024 Approved The Ultimate Game Capture Kit Tools and Methodologies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-disconnection-the-six-key-techniques-to-restore-terraria-connectivity/"><u>Defeat Disconnection: The Six Key Techniques to Restore Terraria Connectivity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-stability-addressing-warzone-20-pc-crash-problems/"><u>Fixing Game Stability: Addressing Warzone 2.0 PC Crash Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-idt-hd-audio-driver-problems-for-windows-11-users/"><u>How to Fix IDT HD Audio Driver Problems for Windows 11 Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-picdistort-a-comprehensive-guide-to-image-alteration/"><u>In 2024, PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/navigate-through-itunes-recording-like-a-pro-for-2024/"><u>Navigate Through iTunes Recording Like a Pro for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005134870-no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-among-us-stuck-at-boot-screens-tips-and-tricks-to-get-back-into-the-game/"><u>Overcome Among Us Stuck at Boot Screens - Tips and Tricks to Get Back Into the Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-error-getting-netflix-up-and-running-again-on-xbox-gaming-system/"><u>Overcome Error: Getting Netflix Up and Running Again on Xbox Gaming System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-with-valheim-expert-tips-and-tricks/"><u>Overcoming Startup Difficulties with Valheim : Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/participate-actively-in-continuous-learning-activities-including-webinars-workshops-training-sessions-to-improve-product-knowledge-and-stay-up-to-date-on-in402/"><u>Participate Actively in Continuous Learning Activities, Including Webinars, Workshops, Training Sessions to Improve Product Knowledge and Stay Up-to-Date on Industry Trends Relevant to Customer Support Best Practices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-boost-your-income-with-effective-snapchat-ads/"><u>[New] 2024 Approved Boost Your Income with Effective Snapchat Ads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-hasten-your-vimeo-watch-time/"><u>[New] Hasten Your Vimeo Watch Time</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essential-techniques-to-avert-windows-11-photos-crashes/"><u>[Updated] 2024 Approved Essential Techniques to Avert Windows 11 Photos Crashes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-getting-started-free-videography-templates/"><u>2024 Approved Getting Started Free Videography Templates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-dvd-production-modern-techniques-for-mac-users/"><u>2024 Approved Innovative DVD Production Modern Techniques for Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-freezing-quick-tips-to-smooth-your-gaming-experience/"><u>Call of Duty: Vanguard Freezing - Quick Tips to Smooth Your Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-ubisoft-connect-download-speed-slow/"><u>How to Fix Ubisoft Connect Download Speed Slow</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-g54-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola G54 5G Is Unlocked</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-value-proposition-of-wireless-meshes/"><u>Navigating the Value Proposition of Wireless Meshes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fortnites-video-memory-issues-a-complete-guide/"><u>Resolving Fortnite's Video Memory Issues: A Complete Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-broken-avchd-videos/"><u>Restoring Broken AVCHD Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-optimizing-performance-on-pandora/"><u>Solving Lag Issues in Avatar: Optimizing Performance on Pandora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-lag-issues-in-outriders-ultimate-guide/"><u>Solving PC Lag Issues in Outriders: Ultimate Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-iphoneipad-screenshots-with-2023-tricks-for-2024/"><u>Streamline Your iPhone/iPad Screenshots with 2023 Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-notorious-cyberpunk-2077-freezing-problems/"><u>Troubleshooting Guide: Fixing the Notorious Cyberpunk 2077 Freezing Problems</u></a></li>
 </ul></div>
 

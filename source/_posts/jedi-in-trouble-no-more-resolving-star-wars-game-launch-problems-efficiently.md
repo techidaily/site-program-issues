@@ -1,7 +1,7 @@
 ---
 title: "Jedi in Trouble No More: Resolving Star Wars Game Launch Problems Efficiently"
-date: 2024-08-19T16:50:56.198Z
-updated: 2024-08-20T16:50:56.198Z
+date: 2024-11-25T19:41:49.344Z
+updated: 2024-11-26T21:09:30.715Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b7b1a27d1ec7d492ee38fae4ae064cccff7a07bb8
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  If your game files are missing or corrupted, you’re likely to encounter the crashing issue when playing Insurgency: Sandstorm. To make sure the game is correctly installed on your PC, you can scan and repair your game files via Steam. Here’s how:
@@ -38,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/b7b1a27d1ec7d492ee38fae4ae064cccff7a07bb8
 1. Run Steam and click**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-library.jpg)
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
@@ -47,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/b7b1a27d1ec7d492ee38fae4ae064cccff7a07bb8
 
 If the game keeps crashing, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  Some programs need administrator rights to work properly on your computer. If Insurgency: Sandstorm keeps crashing on startup, you can try running the game as an administrator. Here’s how:
@@ -57,27 +63,31 @@ If the game keeps crashing, move on to the next fix.
 1. Run Steam and click**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-library.jpg)
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -91,9 +101,6 @@ If the crashing issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -103,9 +110,6 @@ If the crashing issue remains, check out the next fix.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reset the video settings
 
  Some players have reported that they fixed the crashing issue by resetting the video settings. You can give it a try. Here’s how:
@@ -113,9 +117,6 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Delete the**GameUserSettings.ini** file.
 
  Relaunch Insurgency: Sandstorm and all your video settings should be reset to default. Check if the crashing issue is resolved.
@@ -136,6 +137,10 @@ Launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the crashing issue persists, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Allow the game through Windows Firewall
 
  The Windows Firewall can block the normal operation of certain programs, which may cause the game to crash. To ensure Insurgency: Sandstorm works properly on your PC, you should allow the game through Windows Firewall. Here’s how:
@@ -143,28 +148,33 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
 Once done, relaunch the game to see if it crashes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -182,8 +192,6 @@ Once done, relaunch the game to see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +199,23 @@ Once done, relaunch the game to see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-auditory-interpretation-software-priceless-access/"><u>[Updated] Auditory Interpretation Software Priceless Access</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-for-correcting-motion-blur-from-drones/"><u>2024 Approved Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2amoored-eliminating-stuttering-and-smoothing-out-lags/"><u>Cyberpunk 2Amoored: Eliminating Stuttering and Smoothing Out Lags</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/displaying-caps-lock-and-numeric-status-on-taskbar-tray-of-win11/"><u>Displaying Caps Lock & Numeric Status on Taskbar Tray of Win11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/eyelaughs-funny-image-generator-for-2024/"><u>EyeLaughs Funny Image Generator for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-sony-xperia-10-v-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Sony Xperia 10 V Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-ps4-controller-power-problems-solutions-found/"><u>How to Troubleshoot and Repair PS4 Controller Power Problems - Solutions Found</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-y28-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo Y28 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-why-the-philips-somneo-is-a-leader-in-alarm-technology/"><u>In-Depth Review: Why the Philips Somneo Is a Leader in Alarm Technology</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-dig-tool-in-linux-a-step-by-step-guide/"><u>Mastering the 'Dig' Tool in Linux: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-computer-instability-with-football-manager-2022-effective-strategies/"><u>Overcoming Computer Instability with Football Manager 2022: Effective Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-darkest-dungeon-2-crashes-expert-tips-and-solutions-for-a-smooth-pc-experience/"><u>Say Goodbye to Darkest Dungeon 2 Crashes - Expert Tips & Solutions for a Smooth PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcoming-zoom-cannot-start-video-5-proven-fixes/"><u>The Ultimate Guide to Overcoming 'Zoom Cannot Start Video': 5 Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-crashes-in-final-fantasy-xv-for-windows-users/"><u>Troubleshooting Guide: Resolving Crashes in Final Fantasy XV for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-stop-madden-20-from-freezing-on-your-computer/"><u>Troubleshooting Made Easy: Stop Madden 20 From Freezing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-paladins-solutions-for-stable-gameplay-2024-edition/"><u>Troubleshooting Paladins: Solutions for Stable Gameplay, 2024 Edition</u></a></li>
+</ul></div>
 

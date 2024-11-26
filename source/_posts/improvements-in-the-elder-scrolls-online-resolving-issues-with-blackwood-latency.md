@@ -1,7 +1,7 @@
 ---
 title: Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency
-date: 2024-11-12T21:51:58.249Z
-updated: 2024-11-17T01:00:44.384Z
+date: 2024-11-21T17:46:50.612Z
+updated: 2024-11-26T17:46:00.840Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Check your computer specifications
 
  Game issues, such as freezing, lagging and crashing, occur when your computer fails to meet the minimum system requirements to run the game. If that’s the problem for you, you’ll need to play the game on another PC.
@@ -50,6 +43,10 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 | **RAM** :          | 35 GB available space                |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix _Code Vein_ freezing?
 
@@ -91,11 +88,19 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -116,6 +121,10 @@ _Code Vein_ may not be able to access certain game files on your computer under 
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch_Code Vein_ from Steam.
 
@@ -142,6 +151,10 @@ If your game freezes again, then go ahead with the next fix.
 **5)**  Wait for Steam to detect and fix any corrupted game files automatically. Then, relaunch_Code Vein_ .
 
 If the freezing issue still happens, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix4: End unnecessary background programs
 
@@ -176,6 +189,10 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-07.jpg)
@@ -187,13 +204,6 @@ If the freezing issue still happens, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-16.jpg)
 
  Try launching _Code Vein_  to see if it works properly now. If your issue persists, check the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Set your PC power plan to High Performance
 
@@ -209,19 +219,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-34.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-42.jpg)
@@ -234,6 +231,10 @@ If the freezing issue still happens, try the fix below.
  **Note that your computer will generate more heat under High Performance mode.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Restart your computer and your game.
 
@@ -257,13 +258,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-46.jpg)
@@ -271,6 +265,10 @@ If the freezing issue still happens, try the fix below.
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -282,23 +280,9 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-44.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -316,6 +300,10 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer after the update is complete, then try running _Code Vein_ again. If the freezing issue happens again, try the fix, below.
 
 ### Fix 8: Reinstall Steam
@@ -327,22 +315,12 @@ If the freezing issue still happens, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -392,22 +370,24 @@ If the freezing issue still happens, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>[New] 2024 Approved The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/eb-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>[New] Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010508263-effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005837875-effortless-solutions-for-when-discord-wont-install-resolve-it-quickly/"><u>Effortless Solutions for When Discord Won't Install – Resolve It Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-lenovo-mouse-pad-up-and-running-in-windows-1187-solution/"><u>Get Your Lenovo Mouse Pad Up and Running in Windows 11/8/7 [SOLUTION]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-cut-the-cord-clutter-simultaneous-playthrough-of-videos/"><u>In 2024, Cut the Cord Clutter Simultaneous Playthrough of Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-valheim-stalling-effective-fixes-for-pc-players-struggling-with-freezing/"><u>Overcome Valheim Stalling: Effective Fixes for PC Players Struggling with Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-for-robocop-rogue-city-game-on-personal-computers/"><u>Overcoming Launch Problems for 'RoboCop: Rogue City' Game on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-subnautica-below-zero-crashes-a-comprehensive-guide-for-pc-gamers/"><u>Overcoming Subnautica (Below Zero) Crashes: A Comprehensive Guide for PC Gamers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-network-connection-a-comprehensive-tutorial-for-flushing-dns-on-windows-operating-systems/"><u>Revitalize Your Network Connection: A Comprehensive Tutorial for Flushing DNS on Windows Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-spotify-reveals-errors-within-your-devices-audio-arrangement/"><u>Solution: Spotify Reveals Errors Within Your Device's Audio Arrangement</u></a></li>
-<li><a href="https://fox-links.techidaily.com/spotlight-on-5-captivating-book-viddies-for-2024/"><u>Spotlight on 5 Captivating Book Viddies for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-input-latency-issues-in-valorant-pc-update-2e24/"><u>Troubleshooting & Fixing Input Latency Issues in Valorant (PC) - Update 2E24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012916536-win-your-battle-against-broken-msi-mystic-lights-in-windows-with-these-fixes/"><u>Win Your Battle Against Broken MSI Mystic Lights in Windows with These Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>[New] Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-building-podcast-rss/"><u>[New] The Ultimate Guide to Building Podcast RSS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-optimization-tips-overcoming-fps-lags-and-smoothing-out-hitches/"><u>Dragon's Dogma 2 Optimization Tips: Overcoming FPS Lags & Smoothing Out Hitches</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-ways-to-transfer-information-between-android-and-iphone-se-devices/"><u>Effortless Ways to Transfer Information Between Android and iPhone SE Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-troubleshooting-saints-rows-failed-startup-on-windows/"><u>Fixing the Issue: Troubleshooting Saints Row's Failed Startup on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-error-0xc0000005-step-by-step-guide/"><u>How to Fix Black Ops: Cold War 'Error 0xC0000005' - Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-8t-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-gt-10-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-overcome-pc-game-crashes-in-lego-star-wars-the-skywalker-saga/"><u>How to Troubleshoot and Overcome PC Game Crashes in LEGO Star Wars: The Skywalker Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-dragons-dogma-2-for-smoother-gameplay-addressing-pfds-and-glitches/"><u>Optimize Dragon's Dogma 2 for Smoother Gameplay: Addressing PFDS and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-performance-hiccups-in-overwatch-fixes-revealed/"><u>Overcoming Performance Hiccups in Overwatch - Fixes Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-playing-ready-or-not-without-a-hitch-on-your-pc/"><u>Resolved Issue: Playing 'Ready or Not' Without a Hitch on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-icloud-sync-issues-top-7-fixes-for-non-syncing-iphone-pictures/"><u>Solve Your iCloud Sync Issues: Top 7 Fixes for Non-Syncing iPhone Pictures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spark-creativity-mindmapping-and-ai-enhanced-ideas/"><u>Spark Creativity: Mindmapping & AI-Enhanced Ideas</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-rated-sandisk-ssd-data-transfer-tools-securely-relocate-your-files/"><u>Top-Rated Sandisk SSD Data Transfer Tools: Securely Relocate Your Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-does-outpost-infinity-siege-keep-crashing-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Does Outpost: Infinity Siege Keep Crashing and How to Fix It?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-assassins-creed-odyssey-from-freezing-on-your-pc-updated-guide/"><u>Troubleshooting Steps to Stop Assassin's Creed Odyssey From Freezing on Your PC (Updated Guide)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-potential-the-finest-6-nft-creation-spaces/"><u>Unleash Potential The Finest 6 NFT Creation Spaces</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/wiederherstellung-geloschter-dateien-in-windows-11-schritt-fur-schritt-anleitung-zur-datenwiederherstellung/"><u>Wiederherstellung Gelöschter Dateien in Windows 11: Schritt-Für-Schritt-Anleitung Zur Datenwiederherstellung</u></a></li>
 </ul></div>
 

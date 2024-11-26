@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Black Ops Cold War Error Code 887A0005"
-date: 2024-08-19T16:57:19.015Z
-updated: 2024-08-20T16:57:19.015Z
+date: 2024-11-24T19:27:08.145Z
+updated: 2024-11-26T22:27:21.744Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
  Though seems tricky, this error might not be so hard to fix at all. Here we’ve put together some working fixes for you, try them and go back to the field right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 3. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair game files
 
@@ -46,9 +54,6 @@ You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of this error is that you’re using**a faulty or outdated graphics driver** . If you want to fully enjoy a new AAA title, first make sure your graphics driver is up to date.
@@ -61,6 +66,11 @@ If this trick doesn’t help you, simply continue to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -81,8 +91,9 @@ And it’s fairly easy to update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
@@ -100,23 +111,19 @@ Here’s how:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable in-game Ray Tracing
 
  In some cases, this error code shows up when your GPU is overloaded. Aside from that, Black Ops Cold War is still a new title, which means there’s still room for improvement. Ray Tracing might sound fancy, but according to some gamers it can be unstable on Black Ops Cold War. So you can try disabling this feature and check if the error code disappears.
@@ -127,8 +134,9 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
@@ -143,8 +151,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +158,23 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-the-perfect-aesthetic-with-controlled-lighting-for-2024/"><u>[Updated] Crafting the Perfect Aesthetic with Controlled Lighting for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-designing-engaging-film-teasers-for-2024/"><u>[Updated] Designing Engaging Film Teasers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft-3-methods-for-2024/"><u>[Updated] How to Allocate More Ram to Minecraft 3 Methods for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beating-heat-on-a-budget-in-depth-examination-of-the-topmate-c302-portable-laptop-chiller/"><u>Beating Heat on a Budget: In-Depth Examination of the TopMate C302 Portable Laptop Chiller</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-darkness-restore-light-fixing-the-pc-screen-blackout-in-rainbow-six-siege-gameplay/"><u>Eliminate Darkness, Restore Light: Fixing the PC Screen Blackout in Rainbow Six Siege Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-security-change-your-email-through-proton-vpn-add-on-for-chrome-and-detecting-fake-chatgpt-apps-for-pc/"><u>Enhancing Security: Change Your Email Through Proton VPN Add-On for Chrome and Detecting Fake ChatGPT Apps for PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-obs-studio-stability-issues-in-windows-111e-whats-new/"><u>Master the Art of Fixing OBS Studio Stability Issues in Windows 11/1E - What's New ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-update-fixed-issues-while-battling-persistent-freezing-problems/"><u>New World Update: Fixed Issues While Battling Persistent Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-amd-radeon-driver-problems-software-wont-launch/"><u>Resolve Your AMD Radeon Driver Problems - Software Won't Launch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users/"><u>Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-no-cost-global-dns-services-you-should-know-about/"><u>The Best No-Cost Global DNS Services You Should Know About</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-story-of-resolving-fatal-errors-in-arise-an-unreal-engine-4-journey/"><u>The Story of Resolving Fatal Errors in 'Arise': An Unreal Engine 4 Journey</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-enjoy-a-seamless-hades-gaming-experience-on-pc/"><u>Troubleshooting Success: How to Enjoy a Seamless Hades Gaming Experience on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-youtube-star-status-becoming-a-self-assured-vlogger/"><u>Unlock YouTube Star Status Becoming a Self-Assured Vlogger</u></a></li>
+</ul></div>
 

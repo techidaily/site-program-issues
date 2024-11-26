@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!
-date: 2024-11-14T18:09:30.963Z
-updated: 2024-11-16T23:25:39.198Z
+date: 2024-11-22T18:07:32.953Z
+updated: 2024-11-26T22:58:25.642Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -75,24 +76,22 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 3. Select **Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -103,6 +102,10 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -138,13 +141,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -166,13 +162,6 @@ If the crash happens again, you can take a look at the next fix.
 3. Continue your game and check if it crashes again.
 
  If this trick failed to solve your problem, you can move on to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
 
@@ -207,14 +196,18 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-discover-the-perfect-tunefab-recorder-for-your-needs-for-2024/"><u>[New] Discover the Perfect Tunefab Recorder for Your Needs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>2024 Approved The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-computers-cpu-to-meet-vanguard-program-demands-successfully/"><u>Boost Your Computer's CPU to Meet Vanguard Program Demands Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004855726-elden-ring-initial-boot-problem-solutions-for-clearing-the-darkness/"><u>Elden Ring Initial Boot Problem? Solutions for Clearing the Darkness!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-electronics-in-depth-analysis-and-reviews-of-premium-hardware/"><u>Exploring Tom's Electronics: In-Depth Analysis and Reviews of Premium Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-pc-experience-for-f1-2021-frames-per-second-fps-optimization-achieved/"><u>Improved PC Experience for F1 2021 - Frames Per Second (FPS) Optimization Achieved</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-g42-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia G42 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-for-overcoming-black-screen-difficulties-while-playing-star-wars-battlefront-2/"><u>Solutions for Overcoming Black Screen Difficulties While Playing Star Wars Battlefront 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-do-when-you-cant-get-into-world-of-warcraft-on-your-desktop/"><u>What to Do When You Can't Get Into World of Warcraft on Your Desktop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-visual-vaults-expert-tips-on-capturing-and-storing-twitter-video-for-2024/"><u>[New] Visual Vaults Expert Tips on Capturing and Storing Twitter Video for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>[Updated] 2024 Approved VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-in-the-realm-of-favorites-top-10-reddit-discussions-revisited/"><u>[Updated] In 2024, In the Realm of Favorites Top 10 Reddit Discussions Revisited</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138552564-9781578596928-area-51/"><u>Area 51 | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enable-and-watch-av1-video-content-with-ease-using-plex-step-by-step-tutorial/"><u>Enable and Watch AV1 Video Content with Ease Using Plex – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-updated/"><u>How to Stop Dead by Daylight From Crashing (Updated )</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-fold-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel Fold Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y55s-5g-2023-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y55s 5G (2023) Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-strategies-for-seamless-biomutant-gameplay-on-pcs-avoid-crashes-and-glitches/"><u>Latest Strategies for Seamless Biomutant Gameplay on PCs - Avoid Crashes and Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-in-windows-11-overcoming-common-problem-resetting-errors/"><u>Mastering PC Restoration in Windows 11: Overcoming Common Problem Resetting Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-chivalry-2-addressing-and-correcting-crashes/"><u>Mastering Stability in Chivalry 2: Addressing and Correcting Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-obstacles-preventing-collective-takeoff-strategies-and-solutions/"><u>Overcoming Obstacles Preventing Collective Takeoff: Strategies and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-lag-in-dying-light-video-game/"><u>Troubleshooting Tips: Overcoming Lag in Dying Light Video Game</u></a></li>
 </ul></div>
 

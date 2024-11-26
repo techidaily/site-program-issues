@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting FPS Drops on DayZ - Quick Guide to Smooth Gaming Experience
-date: 2024-08-19T16:57:22.312Z
-updated: 2024-08-20T16:57:22.312Z
+date: 2024-11-20T21:11:30.828Z
+updated: 2024-11-26T23:12:51.638Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest game patch
 
  Respawn Entertainment, the developer of Apex Legends, releases regular game patches to fix bugs and enhance performance. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it.
@@ -49,7 +53,15 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -71,20 +83,18 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -93,18 +103,16 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
  If you linked your Apex Legends account to your Steam account, you may also run into this issue. To fix it, you need to unlink it from your Steam account. Here is how to do it:
@@ -118,15 +126,17 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
@@ -144,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -154,8 +161,9 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Play with VPN
 
  Some players reported that when they play Apex Legends with VPN, this issue disappears. So before Respawn Entertainment releases game patches to fix this issue, playing with VPN temporarily may also be a good choice if you really want to play the game.
@@ -184,10 +192,6 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -210,8 +214,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +221,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-10-best-gba-emulators-for-android-you-can-find/"><u>[New] 10 Best GBA Emulators for Android You Can Find</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-impactful-video-campaigns-for-startups/"><u>[Updated] 2024 Approved Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-elite-list-of-online-stores-for-tones-on-snapchat/"><u>[Updated] Elite List of Online Stores for Tones on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exploring-the-prime-linux-screenshot-applications-for-2024/"><u>[Updated] Exploring the Prime Linux Screenshot Applications for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-freedom-through-jokes-ranking-the-most-hilarious-social-media-prisons/"><u>[Updated] In 2024, Freedom Through Jokes Ranking the Most Hilarious Social Media Prisons</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-video-spin-vlcs-rotation-guide/"><u>2024 Approved Mastering Video Spin VLC's Rotation Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-endless-load-screen-when-watching-or-hosting-a-discord-live-session/"><u>Bypassing the Endless Load Screen When Watching or Hosting a Discord Live Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crashes-no-more-overcoming-total-war-warhammer-iis-technical-glitches/"><u>Crashes No More: Overcoming Total War: Warhammer II's Technical Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-twitch-hiccups-7-strategies-for-resolving-playback-glitches/"><u>Defeat Twitch Hiccups: 7 Strategies for Resolving Playback Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-low-fps-issues-for-dota-2-players-on-the-latest-windows-operating-system/"><u>Fixing Low FPS Issues for Dota 2 Players on the Latest Windows Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-riot-games-fixed-the-recurring-connectivity-bug-in-lols-latest-2aster-version/"><u>How Riot Games Fixed the Recurring Connectivity Bug in LoL's Latest 2Aster Version</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/integrated-technique-for-cross-platform-movie-logging/"><u>Integrated Technique for Cross-Platform Movie Logging</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/limiting-users-ability-to-modify-windows-safescreen/"><u>Limiting Users' Ability to Modify Windows SafeScreen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-prolonged-startup-for-pc-players-of-star-wars-battlefront-ii/"><u>Troubleshooting Prolonged Startup for PC Players of Star Wars: Battlefront II</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-spark-20-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Spark 20 to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

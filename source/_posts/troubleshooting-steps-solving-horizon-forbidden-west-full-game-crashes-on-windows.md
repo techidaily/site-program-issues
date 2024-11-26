@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Solving 'Horizon Forbidden West' Full Game Crashes on Windows"
-date: 2024-08-19T16:54:14.354Z
-updated: 2024-08-20T16:54:14.354Z
+date: 2024-11-25T23:23:59.252Z
+updated: 2024-11-26T18:56:50.238Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 **Scavengers** launched into early access in April 2021\. However, just like other games under development, the game has its fair share of issues, with**crashing** problem being the most common.
 
  So far, we have received player reports about **the game crashing on startup, after loading screen, mid-game, Unreal Engine crashes** etc. If you’re met with the same issue, don’t worry. Frustrating as it is, it isn’t too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I run Scavengers?
 
@@ -56,9 +60,6 @@ To check the specs of your PC:
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver
 
  Device drivers are essential to the functioning of your computer system. If your Scavenger game keeps crashing, it is likely that you have the wrong, outdated or corrupt graphics driver on your computer. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -71,17 +72,21 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -99,6 +104,10 @@ To check the specs of your PC:
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
  If Scavengers crashes while you’re on Unreal Engine, it is possible that the current version of Unreal Engine on your launcher is faulty or corrupt, causing Scavenger to crash. In this case, you can check for a newer Unreal Engine, install it to see if it solves your woe.
@@ -111,9 +120,6 @@ Here is how to do it:
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update DirectX
 
  Your game of Scavengers may crash if you don’t have the latest version of DirectX. So you should check on your PC whether you have the latest version; if you don’t, you should update it.
@@ -123,6 +129,10 @@ Here is how to do it:
 1. On your keyboard, press **the Windows logo ke** y, then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
@@ -134,9 +144,6 @@ Here is how to do it:
 
 With the latest DirectX, check to see if Scavengers still crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -149,9 +156,11 @@ Here’s how to close background apps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
 ### Fix 6: Stop overclocking
@@ -172,8 +181,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +188,18 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ideal-mac-screenshot-guide-5-streamlined-and-effective-methods/"><u>[New] 2024 Approved Ideal Mac Screenshot Guide 5 Streamlined and Effective Methods</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-top-6-instagram-reel-enhancements/"><u>[New] The Ultimate Guide to Top 6 Instagram Reel Enhancements</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-10-tiktok-sensations-dominating-twitter-for-2024/"><u>[Updated] 10 TikTok Sensations Dominating Twitter for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-enhance-web-presentations-top-12-html5-video-platforms-for-2024/"><u>[Updated] Enhance Web Presentations Top 12 HTML5 Video Platforms for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/anticipated-launch-apples-upcoming-airpods-lite-and-premium-airpods-max-set-for-release-in-the-coming-months/"><u>Anticipated Launch: Apple's Upcoming 'AirPods Lite' And Premium AirPods Max Set for Release in the Coming Months</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-lag-and-hitching-proven-methods-to-optimize-grand-theft-auto-5-performance/"><u>Banish Lag and Hitching: Proven Methods to Optimize Grand Theft Auto 5 Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-realme-narzo-n53-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Realme Narzo N53</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-garrys-mod-ultimate-guide-to-preventing-game-crashes-in-22024/"><u>Fixing Garry's Mod: Ultimate Guide to Preventing Game Crashes in 2^2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-hd-content-efficient-posting-in-fb-app/"><u>Navigating HD Content: Efficient Posting in FB App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-dev-error-6634-in-cod-warzone-updated-tips/"><u>Step-by-Step Solutions for Fixing Dev Error 6634 in COD Warzone - Updated Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-rocket-league-from-freezing-tips-and-solutions/"><u>Ultimate Guide: Stop Rocket League From Freezing (Tips & Solutions)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-11-10T19:36:00.811Z
-updated: 2024-11-17T01:59:23.815Z
+date: 2024-11-25T18:32:35.359Z
+updated: 2024-11-26T22:59:10.419Z
 tags:
   - win11
   - win10
@@ -42,10 +42,7 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
@@ -62,13 +59,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
 There are mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
@@ -84,6 +74,10 @@ There are mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -102,6 +96,10 @@ There are mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -111,6 +109,10 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -118,6 +120,10 @@ There are mainly two ways you can update your graphics drivers:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
@@ -129,13 +135,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -143,13 +142,6 @@ There are mainly two ways you can update your graphics drivers:
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer’s specifications.
 
  If this issue persists after you stop overclocking, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Update or reinstall DirectX files
 
@@ -159,13 +151,6 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -194,18 +179,17 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-send-hidden-youtube-videos-using-google-login-for-2024/"><u>[New] How to Send Hidden YouTube Videos Using Google Login for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-perfecting-your-instagram-format-imovie-square-video-creation/"><u>[Updated] Perfecting Your Instagram Format IMovie Square Video Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-sony-xperia-5-v-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Sony Xperia 5 V Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/copernic-technique-for-efficient-file-content-searches-in-windows-11/"><u>Copernic Technique for Efficient File Content Searches in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-latency-in-apex-legends-connection-fixes-that-worked-for-me/"><u>Defeating Latency in Apex Legends: Connection Fixes That Worked for Me</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-to-address-discords-packet-transmission-challenges/"><u>Effective Techniques to Address Discord's Packet Transmission Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004004222-experience-a-seamless-steam-vr-connection-try-these-6-troubleshooting-steps/"><u>Experience a Seamless Steam VR Connection - Try These 6 Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-frame-rate-and-smoothness-problems-in-red-dead-redemption-2/"><u>Fixing Frame Rate & Smoothness Problems in Red Dead Redemption 2</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-correcting-unrecognized-or-invalid-drivers-on-your-device/"><u>Guide to Correcting Unrecognized or Invalid Drivers on Your Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-directx-problem-in-fifa-20-a-step-by-step-guide/"><u>How to Resolve the DirectX Problem in FIFA 20 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-exceptional-zero-cost-passport-portrait-clients/"><u>In 2024, 10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-movie-maker-on-windows-11/"><u>In 2024, How to Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-impact-with-google-based-podcast-uploads-for-2024/"><u>Maximizing Impact with Google-Based Podcast Uploads for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-tutorial-adding-timer-functionality-to-obs/"><u>[New] 2024 Approved Comprehensive Tutorial Adding Timer Functionality to OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>[New] 2024 Approved Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transforming-insta-video-to-mp3-audio/"><u>[New] In 2024, Transforming Insta Video to Mp3 Audio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-adding-descriptive-titlestexts-via-microsoft-photos-win-11/"><u>[Updated] In 2024, Adding Descriptive Titles/Texts via Microsoft Photos Win 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-most-motivational-shots-a-top-20-list-for-2024/"><u>[Updated] Instagram's Most Motivational Shots A Top 20 List for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-zero-to-hundred-hundreders-yt-success-story/"><u>2024 Approved From Zero to Hundred Hundreders YT Success Story</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-solution-resolving-star-wars-jedi-fallen-order-pc-launch-issues/"><u>Complete Solution: Resolving Star Wars Jedi: Fallen Order PC Launch Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-free-match-mastery-how-to-stream-and-slice/"><u>In 2024, Cost-Free Match Mastery How to Stream and Slice</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/metaverses-versus-omniverse-unveiled-for-2024/"><u>Metaverses Versus Omniverse Unveiled for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989111203-mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-a-nonfunctional-keyboard-for-your-pathfinder-game/"><u>Step-by-Step Guide to Fixing a Nonfunctional Keyboard for Your Pathfinder Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-re-establishing-access-to-your-steam-friend-list/"><u>Success Story: Re-Establishing Access to Your Steam Friend List</u></a></li>
 </ul></div>
 

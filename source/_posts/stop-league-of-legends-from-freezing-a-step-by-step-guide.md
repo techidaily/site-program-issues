@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2024-11-14T07:26:53.905Z
-updated: 2024-11-17T02:00:42.233Z
+date: 2024-11-23T19:48:06.528Z
+updated: 2024-11-26T20:17:52.641Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -72,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -103,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -139,22 +137,23 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -168,23 +167,9 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,21 +193,17 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/davinci-resolve-wont-open-common-hurdles-and-how-to-clear-them-in-windows-os/"><u>DaVinci Resolve Won't Open: Common Hurdles and How to Clear Them in Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-and-techniques-for-fixing-mtg-arenas-troublesome-black-screen-displays/"><u>Expert Tips and Techniques for Fixing MTG Arena's Troublesome Black Screen Displays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fast-track-your-download-speed-with-these-simple-fixes/"><u>Fast Track Your Download Speed with These Simple Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-epics-ls-0013-launcher-glitch-in-fortnite/"><u>Fixes for Epic's LS-0013 Launcher Glitch in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-fixes-upfront-ls-0013-initialization-flaw-now-solved/"><u>Fortnite Fixes Upfront: LS-0013 Initialization Flaw Now Solved</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-g42-5g-lock-screen-password-by-drfone-android/"><u>How To Change Nokia G42 5G Lock Screen Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 6s Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrate-gpt-4-seamlessly-into-your-chatgpt-now/"><u>Integrate GPT-4 Seamlessly Into Your ChatGPT Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721459927854-issue-with-iphone-app-downloads-discover-10-quick-fixes-that-work/"><u>Issue with iPhone App Downloads? Discover 10 Quick Fixes That Work!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mx/"><u>MXプレーヤー用コーデックダウンロード＆設置手順: 任意の動画形式再生可能に！</u></a></li>
-<li><a href="https://program-issues.techidaily.com/naraka-point-blank-solved-game-issues-and-fixes/"><u>Naraka: Point Blank - Solved Game Issues & Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-the-pitfalls-of-iphone-12-ultimate-troubleshooting-tips-and-fixes/"><u>Navigating the Pitfalls of iPhone 12 - Ultimate Troubleshooting Tips & Fixes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-facebook-insight-into-its-history-user-engagement-and-primary-characteristics/"><u>Navigating the World of Facebook: Insight Into Its History, User Engagement, and Primary Characteristics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-mlb-the-show-21-connectivity-problems-and-how-to-fix-them/"><u>Resolved: MLB The Show 21 Connectivity Problems and How to Fix Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-drops-on-dayz-quick-guide-to-smooth-gaming-experience/"><u>Troubleshooting FPS Drops on DayZ - Quick Guide to Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-xcom-2-crash-on-windows/"><u>[SOLVED] XCOM 2 Crash on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-tech-for-new-channel-launches/"><u>[Updated] In 2024, Essential Tech for New Channel Launches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revealing-the-future-with-microsofts-hololens-analysis/"><u>[Updated] Revealing the Future with Microsoft's HoloLens Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/giggle-genie-selecting-the-finest-jokes-makers/"><u>Giggle Genie Selecting the Finest Jokes Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-does-predictive-ai-forecast-future-events-an-overview/"><u>How Does Predictive AI Forecast Future Events? An Overview</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/laptop-and-web-navigating-live-video-communication-in-whatsapp/"><u>Laptop & Web Navigating Live Video Communication in WhatsApp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-class-overcoming-dead-by-daylights-crashes-in-202-cups/"><u>Master Class: Overcoming Dead By Daylight's Crashes in 202 Cups</u></a></li>
+<li><a href="https://techidaily.com/model-c-safety-first-1920-5-fixed-rear-sight-safety-feature-incorporated-into-the-design-of-the-grip-assembly-underneath-the-hammer-similar-to-a-cross-bolt-18/"><u>Model C (Safety First) - 1920-5, Fixed Rear Sight, Safety Feature Incorporated Into the Design of the Grip Assembly Underneath the Hammer (Similar to a Cross Bolt Screwdriver), Fluted Grip</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-obstacles-in-your-playthrough-of-witcher-n3-wild-hunt/"><u>Overcoming Launch Obstacles in Your Playthrough of Witcher N3: Wild Hunt</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-how-to-resolve-marvels-guardians-of-the-galaxy-pc-crashes/"><u>Top 8 Solutions: How to Resolve Marvel's Guardians of the Galaxy PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-restarts-of-pacific-drive-in-windows-environments/"><u>Troubleshooting Continuous Restarts of Pacific Drive in Windows Environments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-various-codecs-and-containers-for-4k-definition-footage/"><u>Understanding the Various Codecs and Containers for 4K Definition Footage</u></a></li>
 </ul></div>
 

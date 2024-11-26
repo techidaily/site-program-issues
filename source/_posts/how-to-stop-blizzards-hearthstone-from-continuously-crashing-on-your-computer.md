@@ -1,7 +1,7 @@
 ---
 title: How to Stop Blizzard's Hearthstone From Continuously Crashing on Your Computer
-date: 2024-08-19T16:54:47.956Z
-updated: 2024-08-20T16:54:47.956Z
+date: 2024-11-24T19:00:13.713Z
+updated: 2024-11-26T21:47:08.397Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/gas-station-simulator.jpg)
 
  With the full game being launched on Steam, now you can operate your own gas station in Gas Station Simulator. However, some players reported that the**game keeps crashing on their PC** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 5. **[Check your antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest game patch
 
  Recently, the Gas Station Simulator developer has released a new hotfix that resolves random crashes while playing. The developer has acknowledged that Texture Streaming was responsible for a significant amount of random crashes in various circumstances. Those crashes have been fixed in the latest update. So before you try anything more complicated,**make sure you have installed the latest game patch** .
@@ -49,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  If the game still keeps crashing after installing the latest update, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you’re more likely to encounter crashing issues with your game. To fix it, you can scan and repair your game files via Steam. Here’s how:
@@ -58,20 +67,13 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 1. Go to your Steam**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library-1.jpg)
 2. Right-click**Gas Station Simulator** and select**Properties…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -79,9 +81,6 @@ Once done, relaunch the game and check if your problem is resolved.
 
 If the crashing issue persists, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run the game as administrator
 
  Some programs need administrator rights to function properly on your PC. To ensure that Gas Station Simulator has the full rights it needs, you can run this game as an administrator. Here’s how:
@@ -91,13 +90,14 @@ If the crashing issue persists, continue to the next fix.
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If you’re using a faulty or outdated graphics driver, you’re more likely to encounter the crashing issue in Gas Station Simulator. To fix the potential problem and get the best performance, you should always **ensure you have the latest drivers for your graphics card installed** .
@@ -111,21 +111,23 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your antivirus settings
 
  Some antivirus programs could block your game from running and cause the game to crash. To see if that’s the case for you, you can temporarily disable your antivirus.
@@ -141,16 +143,10 @@ If the crashing issue remains, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
@@ -172,8 +168,6 @@ If the crashing issue remains, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +175,18 @@ If the crashing issue remains, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-experts-top-picks-for-creating-art-on-windows/"><u>[Updated] Expert's Top Picks for Creating Art on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-calculating-video-data-use-in-a-full-day-watch/"><u>2024 Approved Calculating Video Data Use in a Full-Day Watch</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-transforming-viewers-experience-with-onestream-broadcasts/"><u>2024 Approved Transforming Viewers' Experience with OneStream Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-intels-advantage-in-the-battle-for-quality-gaming/"><u>Exploring Intel's Advantage in the Battle for Quality Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991326994-fixing-madden-22-stalling-issue-at-launch-proven-methods-to-get-playing-asap/"><u>Fixing Madden 22 Stalling Issue at Launch - Proven Methods to Get Playing ASAP!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-strategies-for-improving-youtubefacebook-video-quality/"><u>In 2024, Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-armored-core-6-stability-and-play-experience-on-your-pc/"><u>Optimizing Armored Core 6 Stability and Play Experience on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-audio-fixed-say-goodbye-to-intermittent-sounds-and-freezing-tracks/"><u>Starfield Audio Fixed: Say Goodbye to Intermittent Sounds & Freezing Tracks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-resident-evil-village-pc-lag-issues-step-by-step-solution/"><u>Troubleshooting and Solving Resident Evil Village PC Lag Issues - Step by Step Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-the-significance-apple-declares-additional-macs-as-obsolete-insights-and-consequences/"><u>Understanding the Significance: Apple Declares Additional Macs as Obsolete - Insights & Consequences</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208249873-unlock-touchpad-integrity-with-quick-fixes/"><u>Unlock Touchpad Integrity with Quick Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot DirectX Problems on Your Xbox to Enjoy COD MW2 Again!
-date: 2024-08-19T16:51:53.814Z
-updated: 2024-08-20T16:51:53.814Z
+date: 2024-11-24T20:28:03.603Z
+updated: 2024-11-26T23:25:00.687Z
 tags:
   - win11
   - win10
@@ -45,15 +45,24 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  This issue may also be caused by the outdated or missing drivers on your PC. If there is something wrong with your network driver or graphics driver, this issue may occur. In this case, you can try updating the drivers on your PC to the latest version to see if you can resolve this issue.
@@ -75,18 +84,20 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -101,8 +112,9 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -117,12 +129,13 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
@@ -131,9 +144,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -144,9 +154,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -173,9 +180,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -183,6 +187,10 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -194,9 +202,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
  Hopefully one of the fixes above resolved your Apex Legends not loading issue. If you have any questions or suggestions, you’re more than welcome to leave us a comment below. Enjoy the game!
@@ -209,8 +214,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +221,26 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-perfect-your-technique-how-to-on-overwatch-audio-recordings/"><u>[New] 2024 Approved Perfect Your Technique How-To on Overwatch Audio Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-techniques-for-downloading-vimeo-media-as-mp3/"><u>[New] 2024 Approved Techniques for Downloading Vimeo Media as MP3</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-creating-captivating-grids-the-best-photo-tools/"><u>[New] Creating Captivating Grids - The Best Photo Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-not-launching-how-to-fix/"><u>Alan Wake 2 Not Launching: How to Fix?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comprender-el-corazon-humano-en-espanol-dentro-desde-el-estomago-a-los-nudillos/"><u>Comprender El Corazón Humano en Español: Dentro Desde El Estómago A Los Nudillos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-the-creepy-critters-a-step-by-step-guide-to-resolving-mouse-issues-in-resident-evil-village/"><u>Conquer the Creepy Critters: A Step-by-Step Guide to Resolving Mouse Issues in Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-fix-blue-screen-problems-a-step-by-step-guide-for-helldivers-2-users/"><u>Diagnose and Fix Blue Screen Problems: A Step-by-Step Guide for HellDivers 2 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-overcoming-geforce-experience-crashes-and-interruptions/"><u>Effective Solutions for Overcoming GeForce Experience Crashes and Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-infamous-black-screen-glitch-in-persona-5-strikers/"><u>How To Resolve The Infamous Black Screen Glitch in Persona 5 Strikers?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-deciding-filmora-vs-democracy-creator/"><u>In 2024, Deciding Filmora Vs. Democracy Creator</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-live-gaming-strategies-for-capturing-moments/"><u>In 2024, Live Gaming Strategies for Capturing Moments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-the-hurdle-starting-age-of-empires-ii-on-latest-windows-11-platform/"><u>Overcome the Hurdle: Starting Age of Empires II on Latest Windows 11 Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-forest-sons-gameplay-interruptions-on-pc-expert-advice-and-tips/"><u>Overcoming 'Forest Sons' Gameplay Interruptions on PC: Expert Advice & Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-upgrading-your-steelseries-arcteus-5-audio-experience-via-driver-download/"><u>Step-by-Step Guide to Upgrading Your SteelSeries Arcteus 5 Audio Experience via Driver Download</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-final-step-delete-your-youtube-shorts-link-for-2024/"><u>The Final Step Delete Your YouTube Shorts Link for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-guide-to-overcoming-directx-issues-in-fifa-19-for-smooth-gaming/"><u>Trouble-Free Guide to Overcoming DirectX Issues in FIFA 19 for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-unfreeze-your-gameplay-tips-for-call-of-duty-vanguard/"><u>Troubleshoot and Unfreeze Your Gameplay: Tips for Call of Duty: Vanguard</u></a></li>
+</ul></div>
 

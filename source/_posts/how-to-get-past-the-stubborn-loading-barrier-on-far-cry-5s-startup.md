@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2024-11-09T19:44:00.915Z
-updated: 2024-11-17T08:51:20.775Z
+date: 2024-11-24T23:33:59.481Z
+updated: 2024-11-26T21:52:23.292Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -64,10 +57,7 @@ The known problematic software are:
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -87,19 +77,6 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -107,6 +84,10 @@ There are mainly two ways to update your device drivers:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -120,10 +101,7 @@ There are mainly two ways to update your device drivers:
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
@@ -140,17 +118,14 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -180,6 +155,10 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -206,24 +185,22 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-10-awesome-ideas-for-igtv-videos-brands-shouldnt-miss-out-on/"><u>[New] 2024 Approved 10 Awesome Ideas for IGTV Videos Brands Shouldn't Miss Out On</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-2-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-glitches-fixing-frequent-issues-in-hearts-of-iron-iv-how-to-video/"><u>Beat the Glitches: Fixing Frequent Issues in Hearts of Iron IV | How-To Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010983538-cracking-the-frozen-code-cyberpunk-2077s-problem-solved/"><u>Cracking the Frozen Code: Cyberpunk 2077'S Problem Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-slowdown-how-to-resolve-dying-light-game-lags/"><u>Fixing the Slowdown: How to Resolve Dying Light Game Lags</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-medium-app-crashing-issues-on-your-computer/"><u>How to Fix the Medium App Crashing Issues on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-v-purse-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor V Purse without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-f04-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy F04 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-poco-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Poco Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ios-18-causing-issues-with-your-ipad-essential-info-and-tips-pre-installation-insights/"><u>Is iOS 18 Causing Issues with Your iPad? Essential Info & Tips Pre-Installation - Insights</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-luminances-hdr-suitable-for-production-for-2024/"><u>Is Luminance's HDR Suitable for Production for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722969847499-non-conductive-agents-like-fm-200-are-suitable-for-electrical-fires-but-may-not-be-effective-on-metal-or-cooking-oilgrease-fires/"><u>Non-Conductive Agents Like FM-200 Are Suitable for Electrical Fires but May Not Be Effective on Metal or Cooking Oil/Grease Fires.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-gameplay-fixing-age-of-empires-4s-performance-issues/"><u>Optimize Your Gameplay: Fixing Age of Empires 4'S Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regaining-control-restoring-gpeditmsc-access-in-your-windows-home-system/"><u>Regaining Control: Restoring 'gpedit.msc' Access in Your Windows Home System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionizing-ubisoft-pc-game-downloading-strategies-for-enhanced-transfer-rates/"><u>Revolutionizing Ubisoft PC Game Downloading - Strategies for Enhanced Transfer Rates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-minecraft-wont-install-issue-on-windows-11/"><u>Troubleshooting Guide: Fixing 'Minecraft Won't Install' Issue on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-common-apex-legends-gameplay-engine-problems-now-resolved/"><u>Ultimate Fixes for Common Apex Legends Gameplay Engine Problems – Now Resolved!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-shared-links-functionality-and-mechanics-explained/"><u>Understanding ChatGPT Shared Links: Functionality and Mechanics Explained</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-divine-warriors-convergence-ragnarok-epoch/"><u>[Updated] In 2024, Divine Warriors Convergence Ragnarok Epoch</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-strategizing-success-the-open-door-approach/"><u>[Updated] In 2024, Strategizing Success The Open Door Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-lore-of-video-production-expert-insights/"><u>2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-no-more-effective-solutions-for-left-4-dead-2-gameplay-problems/"><u>Crash No More: Effective Solutions for Left 4 Dead 2 Gameplay Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decode-fn-key-operations-in-modern-windows-pcs/"><u>Decode FN Key Operations in Modern Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeating-the-unseen-enemy-persistent-stalling-in-diablo-iii-demystified/"><u>Defeating the Unseen Enemy: Persistent Stalling in Diablo III Demystified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-new-acoustic-marvel-in-lg-tvs-features-tailored-for-apple-fans-exclusively-covered/"><u>Discover the New Acoustic Marvel in LG TVs – Features Tailored for Apple Fans, Exclusively Covered</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-the-persistent-crashing-of-halo-3-on-desktop-systems/"><u>Effective Fixes for the Persistent Crashing of Halo 3 on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-a-seamless-launch-addressing-common-setbacks-in-gta-5/"><u>Ensuring a Seamless Launch: Addressing Common Setbacks in GTA 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-unsuccessful-launch-of-pathfinder-wrath-of-the-righteous-explained/"><u>Fixing the Problem: Unsuccessful Launch of Pathfinder: Wrath of the Righteous Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-the-star-wars-battlefront-ii-error-327-a-comprehensive-guide/"><u>How to Repair the Star Wars Battlefront II Error 327 - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-camon-20-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Camon 20 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-fixing-apex-legends-error-23/"><u>Resolving the Issue: Fixing 'Apex Legends' Error 23</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplified-installation-of-samsung-m2070fw-driver/"><u>Simplified Installation of Samsung M2070FW Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-steam-from-crashing-now-with-these-easy-fixes/"><u>Stop Steam From Crashing Now with These Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-rocket-league-overcoming-launch-obstacles-easily/"><u>Troubleshooting Rocket League: Overcoming Launch Obstacles Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/trustworthy-sources-for-downloading-your-canon-mg3620-printer-drivers/"><u>Trustworthy Sources for Downloading Your Canon MG3620 Printer Drivers</u></a></li>
 </ul></div>
 

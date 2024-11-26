@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Fixing Input Latency Issues in Valorant (PC) - Update 2E24
-date: 2024-08-19T16:53:09.487Z
-updated: 2024-08-20T16:53:09.487Z
+date: 2024-11-25T20:37:50.614Z
+updated: 2024-11-26T21:33:21.500Z
 tags:
   - win11
   - win10
@@ -49,6 +49,11 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -61,9 +66,19 @@ Here’s how to use Fortect to run a Windows repair:
 1. On your keyboard, press the**Windows logo key**  and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -81,17 +96,19 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -114,25 +131,18 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Scan & repair Vanguard game files
 
  Call of Duty: Vanguard may crash if certain game files are missing or corrupt. To see if this is the case, you should run a scan & repair to verify its integrity. If any files are missing or found damaged, the tool will repair them for you.
@@ -141,9 +151,6 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
@@ -164,9 +171,11 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
@@ -194,8 +203,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +210,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>[New] 2024 Approved Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-complete-tiktok-user-manual-for-pc-and-apple-devices/"><u>[New] The Complete TikTok User Manual for PC & Apple Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-elite-selection-of-instagram-image-boosters-for-2024/"><u>[Updated] The Elite Selection of Instagram Image Boosters for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/conquering-challenges-the-comprehensive-guide-to-google-podcasts/"><u>Conquering Challenges The Comprehensive Guide to Google Podcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gpu-optimization-fixes-for-cyberpunk-2077-users-on-windows-10-systems/"><u>GPU Optimization Fixes for Cyberpunk 2077 Users on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-relink-not-working-heres-what-to-do/"><u>Granblue Fantasy Relink Not Working? Here’s What to Do!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-2-pc-performance-boosters-fix-these-six-common-causes-of-game-crashes/"><u>Modern Warfare 2 PC Performance Boosters - Fix These Six Common Causes of Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-slow-play-solving-league-of-legends-latency-issues/"><u>No More Slow Play – Solving League of Legends Latency Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-v2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic V2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/strategizing-with-snapshots-a-guide-to-instagram-video-marketing/"><u>Strategizing with Snapshots A Guide to Instagram Video Marketing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/streamlined-strategies-for-a-smooth-cyberpunk-ebrinkdownload-issueson-steam/"><u>Streamlined Strategies for a Smooth Cyberpunk Ebrinkdownload Issues]on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-buffering-resolving-video-delay-in-vlc-win/"><u>Tackling Buffering: Resolving Video Delay in VLC Win</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-off-road-potential-a-complete-breakdown-of-the-all-terrain-top-race-rc-rock-crawler/"><u>Unleash Off-Road Potential: A Complete Breakdown of the All-Terrain Top Race RC Rock Crawler</u></a></li>
+</ul></div>
 

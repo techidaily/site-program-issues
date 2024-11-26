@@ -1,7 +1,7 @@
 ---
 title: The Fix Is In! How to Ensure Your FIFA 21 Launches Without Glitches
-date: 2024-08-19T16:53:43.613Z
-updated: 2024-08-20T16:53:43.613Z
+date: 2024-11-21T18:41:13.874Z
+updated: 2024-11-26T19:35:11.123Z
 tags:
   - win11
   - win10
@@ -51,8 +51,9 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -62,11 +63,17 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -82,6 +89,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -90,17 +101,15 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -110,14 +119,13 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -138,8 +146,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +153,21 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-transform-your-shots-with-understanding-luts/"><u>[Updated] Transform Your Shots with Understanding LUTs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-demystifying-youtube-shorts-template-design-principles/"><u>2024 Approved Demystifying YouTube Shorts Template Design Principles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-sound-on-call-sensor-iphone-24-tech/"><u>2024 Approved Sound-on-Call Sensor IPhone '24 Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-restrictions-a-guide-to-solving-fortnite-unauthorized-play-errors/"><u>Bypassing Restrictions: A Guide to Solving Fortnite Unauthorized Play Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-play-fixing-stutter-and-delays-for-a-smoother-rocket-league-game/"><u>Enhanced Play: Fixing Stutter and Delays for a Smoother Rocket League Game</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-erase-your-presence-eliminating-your-chatgpt-account-effortlessly/"><u>How To Erase Your Presence: Eliminating Your ChatGPT Account Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-superior-hd-video-capture-options-reviewed-here/"><u>In 2024, Superior HD Video Capture Options Reviewed Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-photoshops-image-smoothing-worth-the-hype-in-2024/"><u>Is Photoshop's Image Smoothing Worth the Hype, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/premium-choices-for-unparalleled-video-communication/"><u>Premium Choices for Unparalleled Video Communication</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-fixes-for-fortnite-sign-in-failures-restart-your-gameplay-today/"><u>Quick and Easy Fixes for Fortnite Sign-In Failures: Restart Your Gameplay Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-dragons-dogma-2-not-launching-on-your-pc-a-step-by-step-guide/"><u>Solving 'Dragon's Dogma 2 Not Launching on Your PC': A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-phasmophobia-voice-chat-problems/"><u>Step-by-Step Solution for Phasmophobia Voice Chat Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-better-performance-in-tainted-grail-conquest-a-guide-to-higher-fps/"><u>Unlock Better Performance in 'Tainted Grail: Conquest': A Guide to Higher FPS</u></a></li>
+</ul></div>
 

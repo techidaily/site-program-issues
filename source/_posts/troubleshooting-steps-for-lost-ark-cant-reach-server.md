@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for 'Lost Ark Can't Reach Server'
-date: 2024-08-19T16:57:17.892Z
-updated: 2024-08-20T16:57:17.892Z
+date: 2024-11-19T23:06:08.925Z
+updated: 2024-11-26T17:18:45.651Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnected from the server** issue. If you’re also in the same situation, don’t worry. It’s often not hard to fix…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
  Here are seven fixes that have helped other users resolve the Fallout 76 Disconnected From Server problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 5. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Reset Winsock**
 
@@ -51,9 +59,6 @@ Here is how to reset Winsock data:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 2:**Close bandwidth hogging applications**
 
  If you’re running other programs like OneDrive, Dropbox or iCloud that use lots of bandwidth, or your family is streaming videos on YouTube or Netflix, Fallout 76 may lose connection from its game server. So you should close these bandwidth hungry apps and services to see if it can fix the**Fallout 76 disconnected from server** issue.
@@ -67,17 +72,15 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Make sure you have the latest network drivers
 
  This problem may occur if you are using the wrong or outdated network drivers. So you should update your network drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -92,9 +95,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
@@ -117,9 +117,17 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -147,14 +155,15 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -165,8 +174,9 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
@@ -179,9 +189,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -205,22 +212,21 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Restart your computer for the changes to take effect.
 
 8) Launch Fallout 76 to see if it connects to game server properly.
@@ -247,8 +253,6 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +260,21 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-chromatic-confluence-music-and-photography-online/"><u>[Updated] 2024 Approved Chromatic Confluence Music & Photography Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-utilmate-guide-15-tips-to-become-instagram-famous-fast-and-easy/"><u>[Updated] In 2024, Utilmate Guide 15 Tips to Become Instagram Famous Fast and Easy</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-hot-40i-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Hot 40i? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-spiked-cpu-usage-on-modern-operating-systems-like-windows/"><u>Diagnosing & Fixing Spiked CPU Usage on Modern Operating Systems Like Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-combat-discords-packet-loss-problem/"><u>Effective Solutions to Combat Discord's Packet Loss Problem</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-downloading-of-wacom-device-drivers-step-by-step/"><u>Effortless Downloading of Wacom Device Drivers - Step by Step</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-latency-in-outriders-my-step-by-step-solution/"><u>Eliminating Latency in Outriders: My Step-by-Step Solution</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-timers-cameras-guide-best-of-24-for-2024/"><u>First-Timer's Cameras Guide - Best of '24 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-fortnite-account-instant-solutions-for-login-issues/"><u>Fix Your Fortnite Account: Instant Solutions for Login Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-audio-issues-in-evil-genius-2/"><u>Fixing Silent Menace: Resolving Audio Issues in 'Evil Genius 2'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-100-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 100 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sound-in-your-epic-adventure-through-skyrim/"><u>How To Restore Sound in Your Epic Adventure Through Skyrim</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp/"><u>New Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP</u></a></li>
+</ul></div>
 

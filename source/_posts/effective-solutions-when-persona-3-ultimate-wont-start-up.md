@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions When Persona 3 Ultimate Won't Start Up
-date: 2024-08-19T16:52:04.883Z
-updated: 2024-08-20T16:52:04.883Z
+date: 2024-11-20T20:04:06.820Z
+updated: 2024-11-26T16:29:43.467Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
  Note: Be sure to meet the **[system requirements](https://tools.techidaily.com/drivereasy/download/)**  to install and play Fortnite in your computer, as the insufficient system resources will fail to load your Fortnite.
 
  If your problem still persists, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Set your graphics settings to Low
 
@@ -66,8 +74,9 @@ To do so, follow these steps:
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated drivers in your computer can cause Fortnite won’t load, especially your graphics card driver and your network adapter driver. So you should verify that your graphics card drivers are up to date.
@@ -94,9 +103,6 @@ To do so, follow these steps:
 
 Still no luck? Okay, there’s something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Fortnite as administrator
 
  Runing your game as administrator can grant admin rights to run your game in your computer, and this will hopefully fix Fortnite not loading problem.
@@ -105,9 +111,6 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
@@ -128,18 +131,17 @@ Below lists out some PC settings you can configure:
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
+
 #### 2\. Adjust settings in System Properties
 
  To fix the issue if your Fortnite won’t load, you can also adjust your system settings:
@@ -148,25 +150,27 @@ Below lists out some PC settings you can configure:
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
@@ -184,8 +188,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +195,19 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-showcase-of-excellence-the-best-9-platforms-for-accessing-3d-font-innovations/"><u>[New] 2024 Approved A Showcase of Excellence The Best 9 Platforms for Accessing 3D Font Innovations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reak-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-top-networking-grounds-grow-your-youtube-audience/"><u>[Updated] 2024 Approved Top Networking Grounds Grow Your YouTube Audience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/bridging-the-gap-luts-from-cg-central-to-movie-colors-for-2024/"><u>Bridging the Gap Luts From CG Central to Movie Colors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cs2-performance-issues-solved-eliminate-latency-and-reduce-your-ping-on-pc/"><u>CS2 Performance Issues Solved: Eliminate Latency & Reduce Your Ping on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-responding-error-how-to-get-valorant-running-on-your-pc-latest-guide/"><u>Fix 'Not Responding' Error: How to Get Valorant Running on Your PC (Latest Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-hack-elevating-your-gameplay-with-higher-fps-on-tainted-grail-conquest-stage/"><u>Gaming Hack: Elevating Your Gameplay with Higher FPS on Tainted Grail: Conquest Stage</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>In 2024, Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-farming-simulator-22-gameplay-fixing-fps-drops-on-the-pc-build/"><u>Optimizing Farming Simulator 22 Gameplay: Fixing FPS Drops on the PC Build</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/schritt-fur-schritt-anleitung-vergleich-zwischen-in-place-upgrades-und-neuinstallationen-auf-windows-server/"><u>Schritt-Für-Schritt-Anleitung: Vergleich Zwischen In-Place Upgrades Und Neuinstallationen Auf Windows Server</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-funniest-memes-download-now-for-2024/"><u>The Funniest Memes, Download Now for 2024</u></a></li>
+</ul></div>
 

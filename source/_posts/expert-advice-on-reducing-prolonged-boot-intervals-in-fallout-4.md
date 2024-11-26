@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Reducing Prolonged Boot Intervals in Fallout 4
-date: 2024-08-19T16:53:15.168Z
-updated: 2024-08-20T16:53:15.168Z
+date: 2024-11-19T16:35:24.073Z
+updated: 2024-11-26T23:00:50.250Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 Oxygen Not Included keeps crashing while you’re gaming? This is extremely annoying and you are certainly not alone. Many players are reporting it. But don’t panic! Here is a list of solutions that have proved useful to many players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
 
@@ -49,6 +57,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -63,9 +75,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2:**Restart your computer**
 
  If you’re running multiple programs on your computer at the same time, hogging your resources, your game might crash. If that’s the core issue， performing a simple reboot on your PC should fix your problem.
@@ -73,9 +82,9 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -84,16 +93,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
@@ -102,9 +105,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -114,8 +114,9 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -128,13 +129,14 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
@@ -142,8 +144,9 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5:**Change branches in Oxygen Not Included**
 
  If you’ve updated your game recently, and your game starts crashing now and then, try reverting your game version by changing your branch. Here is how to do it:
@@ -158,13 +161,18 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the**BETAS tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -175,16 +183,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
  **What is Microsoft Visual C++ 2015 runtime?**
@@ -236,9 +238,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -268,16 +267,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
@@ -302,8 +298,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -311,4 +305,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-accessing-trendsetting-background-images-for-tiktok/"><u>[New] Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/chieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-have-10-fcp-plug-ins-for-professionals/"><u>2024 Approved Must-Have 10 FCP Plug-Ins for Professionals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-beginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes/"><u>2024 Approved The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/clear-the-haunting-expert-advice-on-eliminating-ghost-images-in-3d-printing/"><u>Clear the Haunting: Expert Advice on Eliminating Ghost Images in 3D Printing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comprehensive-guide-to-utilizing-the-new-andes-1500-by-ampaq-for-effortless-power-anywhere/"><u>Comprehensive Guide to Utilizing the New Andes 1500 by Ampaq for Effortless Power Anywhere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/efficient-tiktok-twitter-crossposting-guide-for-2024/"><u>Efficient TikTok-Twitter Crossposting Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003202198-enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-restoring-spatial-audio-capability-for-windows-10-and-11-users/"><u>Guide: Restoring Spatial Audio Capability for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-stuck-on-a-black-canvas-heres-your-pc-solution/"><u>Hitman 3 Stuck on a Black Canvas? Here's Your PC Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fifa-22-pc-game-crashes-expert-solutions/"><u>How to Fix FIFA 22 PC Game Crashes: Expert Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-not-starting-errors-ensuring-correct-game-setup/"><u>How to Resolve 'Game Not Starting' Errors: Ensuring Correct Game Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-performance-optimization-overcoming-freeze-frames-update-2ebytes/"><u>Minecraft Performance Optimization: Overcoming Freeze Frames, Update 2Ebytes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/quick-guide-to-converting-myasiantv-streams-into-high-quality-mp4-format/"><u>Quick Guide to Converting MyasianTV Streams Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-sound-changes-with-premiere-pro/"><u>Seamless Sound Changes with Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-ipad-vpn-providers-comprehensive-reviews-and-comparisons-by-tech-experts-at-zdnet/"><u>Top-Rated iPhone & iPad VPN Providers: Comprehensive Reviews and Comparisons by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-cyberpunk-2077-enhancements-for-steady-frame-rates/"><u>Troubleshooting Cyberpunk 2077 - Enhancements for Steady Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-when-madden-22-stops-working/"><u>Troubleshooting Tips for When Madden 22 Stops Working</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-crashes-in-forza-horizon-5-on-your-windows-pc/"><u>Troubleshooting Tips: Resolving Crashes in Forza Horizon 5 on Your Windows PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Darkest Dungeon 2 PC Stability Issues - Solutions to Stop the Game From Crashing
-date: 2024-08-19T16:56:31.287Z
-updated: 2024-08-20T16:56:31.287Z
+date: 2024-11-20T22:55:39.635Z
+updated: 2024-11-26T17:29:15.005Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ## Effortless Solution for NBA 2K20 Stability Issues - Get Back to Gaming
 
 **NBA 2K20 keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -55,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Install the latest game patch
 
  Visual Concepts (the developer of NBA 2K20) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it. Or maybe this newly released game has not been fully optimized yet, so we need to install patches to optimize the gaming performance and experience.
@@ -73,14 +78,8 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Visual C++ Redistributable for Visual Studio 2015:**
@@ -102,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-904.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  T_he system requirements information is captured from Steam_
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
@@ -121,38 +124,35 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
-4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
+4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -163,24 +163,33 @@ The powerful video editing program for your Windows PC</a>
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart NBA 2K20 to see if you can play the game without crashes. If so, congratulations! You’ve resolved this issue; if not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Verify the game file
 
@@ -191,9 +200,6 @@ The powerful video editing program for your Windows PC</a>
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  Launch NBA 2K20 again to see if this issue persists. If the game still crashes, try the next fix, below.
 
 ### Fix 7: Add NBA 2K20 as an exception to your 3rd party antivirus software
@@ -217,8 +223,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +230,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-impact-of-new-instagrams-algorithms-on-users/"><u>[Updated] 2024 Approved Impact of New Instagram's Algorithms on Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-integrating-movie-capture-across-all-operating-systems/"><u>[Updated] In 2024, Integrating Movie Capture Across All Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-plex-vs-streaming-titanique/"><u>[Updated] In 2024, Plex vs Streaming Titanique</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-audience-reach-prime-dissemination-days/"><u>[Updated] Maximizing Audience Reach Prime Dissemination Days</u></a></li>
+<li><a href="https://program-issues.techidaily.com/10-effective-methods-to-combat-battlefield-5-stutter-and-improve-frame-rates/"><u>10 Effective Methods to Combat Battlefield 5 Stutter and Improve Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-webcam-trouble-here-are-five-ways-to-get-it-working-again/"><u>Discord Webcam Trouble? Here Are Five Ways to Get It Working Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-why-is-my-blender-closing-unexpectedly-and-what-can-i-do/"><u>Expert Advice: Why Is My Blender Closing Unexpectedly & What Can I Do?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-error-code-0xc000021a-in-windows-10-and-8-complete-guide/"><u>Fixing the 'Blue Screen of Death' Error Code 0xC000021A in Windows 10 and 8 - Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-maximizing-graphics-card-usage-for-cyberpunk-2077-on-windows-11-solution/"><u>Guide: Maximizing Graphics Card Usage for Cyberpunk 2077 on Windows 11 (Solution)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-available-memory-shortage-in-god-of-war-easy-fixes/"><u>How to Overcome Available Memory Shortage in God of War: Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-frame-rate-dips-in-battlefield-2042-for-a-smoother-pc-gaming-experience/"><u>How to Resolve Frame Rate Dips in Battlefield 2042 for a Smoother PC Gaming Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-dimension-incor-written-by-john-doe-for-tech-today-magazine-february-15-2023/"><u>In 2024, Adding Dimension Incor Written by John Doe for Tech Today Magazine, February 15, 2023</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-alight-motion-comprehensive-review/"><u>In 2024, Alight Motion Comprehensive Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-latency-challenges-in-guilty-gear-strive/"><u>Resolved: Overcoming Latency Challenges in Guilty Gear Strive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users-for-2024/"><u>The Complete Hulu Recording Manual for PC, Mac & Mobile Users for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-phablets-insights-on-samsungs-latest-creation-the-galaxy-z-fold-7-with-potential-specs-and-info/"><u>The Future of Phablets: Insights on Samsung's Latest Creation - The Galaxy Z Fold 7 with Potential Specs & Info</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-preventing-f1-2020-from-crashing-on-your-computer/"><u>Troubleshooting Guide: Preventing F1 2020 From Crashing on Your Computer</u></a></li>
+</ul></div>
 

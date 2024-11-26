@@ -1,7 +1,7 @@
 ---
 title: Simple Steps to Tackle KernelBase.dll Crashes Effectively
-date: 2024-08-19T16:56:13.474Z
-updated: 2024-08-20T16:56:13.474Z
+date: 2024-11-21T18:36:46.055Z
+updated: 2024-11-26T20:30:10.657Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ And you’ll need to disable overlay from the Origin client:
   
 ![Disable Origin Overlay Mass Effect Legendary Edition FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-2-1200x480.jpg)
@@ -79,6 +83,10 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -91,18 +99,12 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -129,16 +131,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run your game in high priority
 
  Even though your computer is able to run Mass Effect, you’ll need to set your game’s priority if you need a bit more FPS. This is more necessary when your computer is multitasking.
@@ -153,9 +153,6 @@ To run Mass Effect in high priority, follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select the **Details**  tab. Locate **MassEffectLegendaryEdition.exe** . Right-click it and select **Set priority > High** .
 
  5) Click **Change priority** .
@@ -164,9 +161,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -186,8 +180,9 @@ If this didn’t give you any luck, try the next fix below.
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -205,39 +200,50 @@ If this didn’t give you any luck, try the next fix below.
  Here’s how to turn off hardware acceleration in Chrome and Discord:
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### In Chrome
 
  1) At the top right, click on the three lines and then select **Settings** .  
   
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
 
@@ -252,8 +258,9 @@ Here’s how to do this:
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
@@ -262,9 +269,6 @@ Here’s how to do this:
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
@@ -281,8 +285,6 @@ Here’s how to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +292,21 @@ Here’s how to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-10-gratis-video-chat-solutions-for-corporate-and-schools/"><u>[New] In 2024, Top 10 Gratis Video Chat Solutions for Corporate & Schools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-your-potential-with-these-top-12-pc-clickers-for-2024/"><u>[New] Unleash Your Potential with These Top 12 PC Clickers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-10-emulator-selections-for-mobile-gba-players/"><u>[Updated] Top 10 Emulator Selections for Mobile GBA Players</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-voice-storage-test-report/"><u>[Updated] Voice Storage Test Report</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apples-innovation-the-m1-max-clip-explained-for-2024/"><u>Apple's Innovation The M1 Max Clip Explained for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-prolonged-load-times-in-star-wars-battlefront-ii-on-a-personal-computer/"><u>Eliminating Prolonged Load Times in Star Wars: Battlefront II On A Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-speech-delays-in-mass-effect-legendary-edition-a-comprehensive-guide/"><u>How to Fix Speech Delays in Mass Effect Legendary Edition - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-battlefield-5-easy-fix-tips/"><u>How to Stop Your PC From Crashing While Playing Battlefield 5: Easy Fix Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-burn-video-to-dvds-on-windowsmac-3-ways/"><u>New In 2024, Burn Video to DVDs on Windows/Mac 3 Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quickly-update-your-amd-ryzen-cufflinks-5-2600-drivers-with-these-tips/"><u>Quickly Update Your AMD Ryzen Cufflinks 5 2600 Drivers With These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-resolving-error-code-0x000-on-your-windows-11-devices-xbox-game-pass/"><u>Swiftly Resolving Error Code 0X000_ on Your Windows 11 Devices' Xbox Game Pass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>The Updated Method to Bypass Sony Xperia 5 V FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-expect-from-rainbow-six-siege-no-new-features-revealed/"><u>What to Expect From Rainbow Six Siege : No New Features Revealed</u></a></li>
+</ul></div>
 

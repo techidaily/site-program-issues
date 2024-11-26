@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-11-15T18:40:46.094Z
-updated: 2024-11-16T22:13:34.411Z
+date: 2024-11-22T19:40:34.140Z
+updated: 2024-11-26T16:17:21.283Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -40,22 +48,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -84,13 +83,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -100,10 +92,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
@@ -134,14 +123,11 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -156,13 +142,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -187,24 +166,19 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-beyond-reality-horizon-virtual-progress-and-upcoming-challenges-for-2024/"><u>[New] Beyond Reality Horizon Virtual Progress & Upcoming Challenges for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-tasty-tales-ideal-naming-for-culinary-broadcasts-for-2024/"><u>[Updated] Tasty Tales Ideal Naming for Culinary Broadcasts for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6/"><u>2024 Approved Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6)</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-algorithms-that-drive-fb-content-suggests/"><u>Deciphering the Algorithms That Drive FB Content Suggests</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-kodi-network-issue-expert-tips-on-getting-directory-info-back-solved/"><u>Fix Your Kodi Network Issue: Expert Tips on Getting Directory Info Back [Solved]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/illuminate-photos-10-premium-luts-revealed/"><u>Illuminate Photos 10 Premium LUTs Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-video-zoom-editor/"><u>In 2024, 10 Best Video Zoom Editor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-these-7-techniques-and-never-face-an-nba-2k23-game-crash-on-your-windows-machine-again/"><u>Master These 7 Techniques and Never Face an NBA 2K23 Game Crash on Your Windows Machine Again</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/nmihardwarefailure-blunder-effective-solutions-for-recovering-from-bsod/"><u>NMI_HARDWARE_FAILURE Blunder: Effective Solutions for Recovering From BSoD</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-league-of-legends-sync-bug-the-2024-update-breakdown/"><u>Overcoming League of Legends Sync Bug: The 2024 Update Breakdown</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-gas-station-simulation-software-continuous-pc-crashes/"><u>Resolved: Fixes for Gas Station Simulation Software Continuous PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-reviving-an-unresponsive-hp-display-unit-solved/"><u>Step-by-Step Guide to Reviving an Unresponsive HP Display Unit [SOLVED]</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial-for-2024/"><u>Step-by-Step to Smiles and Laughter Your Snapchat Gif Tutorial for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-transformed-amazon-echo-dot-gen-4-review-an-overview-of-upgrades-and-aesthetics/"><u>The Transformed Amazon Echo Dot Gen 4 Review: An Overview of Upgrades and Aesthetics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/total-war-warhammer-ii-stability-solutions-how-to-overcome-system-interruptions-and-game-breaking-glitches/"><u>Total War: WARHAMMER II Stability Solutions: How to Overcome System Interruptions and Game-Breaking Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-airdrop-problems-in-no-time-discover-the-top-16-hacks/"><u>Troubleshoot Your AirDrop Problems in No Time - Discover the Top 16 Hacks!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-windows-11-taskbar-issue/"><u>Troubleshooting Guide: Fixing the Non-Responsive Windows 11 Taskbar Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-issues-with-windows-11s-taskbar/"><u>Troubleshooting: Resolving Issues with Windows 11'S Taskbar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-lag-in-the-outriders-online-battle-royale/"><u>Ultimate Guide to Overcoming Lag in the Outriders Online Battle Royale</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-gender-diversity-in-streaming-celebrating-top-10-females/"><u>[New] In 2024, Gender Diversity in Streaming Celebrating Top 10 Females</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-visual-flow-with-kinemaster/"><u>[Updated] Mastering the Art of Visual Flow with Kinemaster</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-modern-warfare-2-startup-issues/"><u>Fixes & Solutions: Resolving 'Modern Warfare 2' Startup Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-sobre-como-convertir-tu-musica-wma-en-formato-m4a-sin-coste-alguno-con-movavi/"><u>Guía Paso a Paso Sobre Cómo Convertir Tu Música WMA en Formato M4A Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-bypass-update-freeze-on-microsoft-flight-simulator-2020-expert-advice-and-solutions/"><u>How to Bypass Update Freeze on Microsoft Flight Simulator 2020: Expert Advice and Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y78plus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y78+ Lock Screen Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-starfield-game-crashes-and-freezes-on-pc-fix-guide/"><u>Resolved: Starfield Game Crashes and Freezes on PC - Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-madden-20-game-keeps-crashing-on-your-pc-fix-steps-inside/"><u>Solving the Problem: Madden '20 Game Keeps Crashing on Your PC (Fix Steps Inside)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-sketching-for-fortnite-game-titles/"><u>Swift Sketching for Fortnite Game Titles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-review-how-onetastic-transforms-your-onenote-workflow/"><u>The Definitive Review: How Onetastic Transforms Your OneNote Workflow</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-inability-for-players-to-affect-the-game-world-outside-their-own-vault-led-to-a-sense-of-isolation-with-no-opportunities-for-cooperative-play-or-interac475/"><u>The Inability for Players to Affect the Game World Outside Their Own Vault Led to a Sense of Isolation, with No Opportunities for Cooperative Play or Interaction Between Different Player Communities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-addressing-and-correcting-frames-per-second-drops-in-the-windows-edition-of-farming-simulator-22/"><u>Update: Addressing and Correcting Frames Per Second Drops in the Windows Edition of Farming Simulator 22</u></a></li>
 </ul></div>
 

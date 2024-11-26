@@ -1,7 +1,7 @@
 ---
 title: "Quickly Resolve Your Call of Duty: Warzone DirectX Problem in Just Four Steps"
-date: 2024-08-19T16:54:17.726Z
-updated: 2024-08-20T16:54:17.726Z
+date: 2024-11-20T23:25:15.998Z
+updated: 2024-11-26T22:22:21.983Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  Before trying anything more complicated, you need to make sure that your PC meets the system requirements of Marvel’s Guardians of the Galaxy first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
@@ -49,9 +53,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -68,14 +69,19 @@ Marvel’s Guardians of the Galaxy system requirements
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Verify the integrity of game files
 
  If some important game files are missing or corrupted, the game may crash. But don’t worry, you can try to verify and repair the game files first. how to do it:
@@ -84,9 +90,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. **Right-click** on **Marvel’s Guardians of the Galaxy** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -103,6 +106,10 @@ If this issue persists, try the next fix, below.
 
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable overlays
 
  Overlays are handy. However, sometimes they would interfere with the game and even block the game files.
@@ -112,14 +119,8 @@ If this issue persists, try the next fix, below.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Marvel’s Guardians of the Galaxy_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -133,6 +134,10 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -150,9 +155,11 @@ If this fix didn’t work, try the next fix, below.
 2. Install and launch Fortect. You’ll be asked to run a free scan of your computer. Click **Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
@@ -167,29 +174,26 @@ If this fix didn’t work, try the next fix, below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -214,8 +218,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +225,26 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[New] Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-phone-videoclip-distortion/"><u>[Updated] Preventing Phone Videoclip Distortion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cygwin1dll-not-found-discover-effective-fixes-and-solutions-today/"><u>Cygwin1.dll Not Found? Discover Effective Fixes and Solutions Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensure-continuous-tracking-in-command-window/"><u>Ensure Continuous Tracking in Command Window</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-message-decode-and-fix-code-6-troubleshooting-steps-for-pc-players-of-call-of-duty-series/"><u>Error Message Decode & Fix: Code 6 Troubleshooting Steps for PC Players of Call of Duty Series</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-resolved-fixing-the-issue-of-no-access-to-configuration-servers-online/"><u>Error Resolved! Fixing the Issue of 'No Access to Configuration Servers Online'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-avoiding-thaumaturge-interruptions-on-desktop-systems/"><u>How to Ensure Smooth Gameplay: Avoiding Thaumaturge Interruptions on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-s23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Itel S23.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-resident-evil-village-from-freezing-or-crashing-on-a-pc-step-by-step-fixes/"><u>How to Stop Resident Evil Village From Freezing or Crashing on a PC: Step-by-Step Fixes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-elevate-your-igtv-status-strategies-for-viewership-surge/"><u>In 2024, Elevate Your IGTV Status Strategies for Viewership Surge</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/itunes-alert-resolving-detection-of-audio-configuration-issues-quickly/"><u>ITunes Alert: Resolving Detection of Audio Configuration Issues Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-mutters-of-morrowind-troubleshooting-game-audio-in-skyrim/"><u>Overcoming the Mutters of Morrowind: Troubleshooting Game Audio in Skyrim</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/solving-the-itunes-original-file-not-found-problem-a-step-by-step-guide/"><u>Solving the 'iTunes Original File Not Found' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-infinite-treasure-a-guide-to-conquering-like-a-dragon-on-your-computer/"><u>Unlocking Infinite Treasure - A Guide to Conquering Like a Dragon on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/voice-command-showdown-is-alexa-better-than-google-assistant-for-home-automation-and-more/"><u>Voice Command Showdown: Is Alexa Better Than Google Assistant for Home Automation and More?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+</ul></div>
 

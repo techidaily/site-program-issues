@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 'Persona 5 Strikers' Black Screen Issue: A Step-by-Step Guide"
-date: 2024-08-19T16:53:31.303Z
-updated: 2024-08-20T16:53:31.303Z
+date: 2024-11-19T16:54:29.712Z
+updated: 2024-11-26T20:42:14.366Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -43,8 +47,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
  Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update your graphics drivers
 
  It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
@@ -52,8 +57,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 There are mainly two ways for you to update your graphics driver:
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  To manually update your graphics driver, you’ll need to visit the manufacturer’s official website ([**NVIDIA**](https://tools.techidaily.com/drivereasy/download/) ,[**AMD**](https://www.amd.com/en/support) , or **[Intel](https://downloadcenter.intel.com/)**  ) to download the latest driver for your operating system.
@@ -63,8 +69,9 @@ There are mainly two ways for you to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,6 +84,11 @@ There are mainly two ways for you to update your graphics driver:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
@@ -91,13 +103,15 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click on Persona 5 Strikers, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
@@ -105,14 +119,8 @@ There are mainly two ways for you to update your graphics driver:
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
@@ -125,14 +133,8 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
@@ -165,8 +167,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +174,26 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-masterful-webcam-hacks-for-creative-sessions-for-2024/"><u>[New] Masterful Webcam Hacks for Creative Sessions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visionvoice-tips-for-perfectly-sized-insta-posts/"><u>[New] VisionVoice Tips for Perfectly Sized Insta Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>[Updated] How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-vanguard-of-radio-theatre-composition/"><u>[Updated] The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-persistent-crashes-when-starting-payday-2-on-windowspc/"><u>Dealing with Persistent Crashes When Starting Payday 2 on Windows/PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-eufy-t82-00-video-doorbell-complete-analysis-without-hidden-costs/"><u>Discover the Eufy T82 00 Video Doorbell - Complete Analysis without Hidden Costs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-dbz-kakarot-ultimate-fix-for-stability-and-performance-upgrade/"><u>Enhanced DBZ: Kakarot Ultimate Fix for Stability and Performance Upgrade</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhancing-productivity-how-to-master-screen-capture-on-an-hp-device/"><u>Enhancing Productivity How to Master Screen Capture on an HP Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-riot-games-lol-reconnect-issue-with-2024-software-upgrade/"><u>Fixing Riot Games' LoL Reconnect Issue with 2024 Software Upgrade</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-dark-panel-problem-in-epic-games-launcher-solution-found/"><u>How to Overcome the Dark Panel Problem in Epic Games Launcher - Solution Found!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-camon-20-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminous-upgrades-5-must-try-online-video-tools-for-2024/"><u>Luminous Upgrades 5 Must-Try Online Video Tools for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-destiny-2-server-disconnection-issues/"><u>Resolved: Overcoming 'Destiny 2 Server Disconnection Issues'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-stop-the-endless-crashes-in-outriders/"><u>Simple Solutions: Stop the Endless Crashes in Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fix-recurring-issues-with-call-of-duty-black-ops-cold-war-on-your-pc/"><u>Solved: Fix Recurring Issues with Call of Duty Black Ops Cold War on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-smoothing-out-freezes-in-grand-theft-auto-v/"><u>Step-by-Step Solution for Smoothing Out Freezes in Grand Theft Auto V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-addressing-the-unresponsive-launch-in-deathloop-game/"><u>Step-by-Step Solution: Addressing The Unresponsive Launch in Deathloop Game</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/thrustmaster-t150-gamepad-download-the-official-drivers-swiftly/"><u>Thrustmaster T150 Gamepad - Download the Official Drivers Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-10-tips-to-eliminate-battlefield-5-latency-issues/"><u>Top 10 Tips to Eliminate Battlefield 5 Latency Issues</u></a></li>
+</ul></div>
 

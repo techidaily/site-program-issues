@@ -1,7 +1,7 @@
 ---
 title: Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work
-date: 2024-08-19T16:56:29.075Z
-updated: 2024-08-20T16:56:29.075Z
+date: 2024-11-19T16:41:21.221Z
+updated: 2024-11-26T22:25:14.731Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
@@ -82,9 +86,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click the name of your graphics card and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
@@ -96,15 +97,13 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-29-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
 ---
@@ -123,13 +122,14 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -139,8 +139,9 @@ Follow the instructions below to view your computer hardware information:
  If your problem continues to occur, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run your game as an administrator
 
  Running a game with administrative privileges can help resolve compatibility issues and prevent game issues caused by restricted access. To run_Borderland 3_ as an administrator, follow these steps:
@@ -162,8 +163,9 @@ Follow the instructions below to view your computer hardware information:
 If the game still freezes, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: **Verify the game** files
 
  The_Borderlands 3_ freezing issue is sometimes triggered by damaged or missing game files. You can verify the integrity of game files to see if that’s the problem for you. Here is how to do it:
@@ -174,17 +176,10 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
 If your issue persists, check the fix below.
@@ -206,9 +201,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -225,9 +217,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
@@ -238,14 +227,12 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check for Windows updates
 
  Regularly updating your operating system is crucial for resolving compatibility issues and security vulnerabilities that may cause game issues. Follow the instructions below:
@@ -260,9 +247,6 @@ If your issue persists, check the fix below.
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 7: Adjust your virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -280,8 +264,9 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -290,9 +275,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
@@ -303,6 +285,10 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
@@ -312,8 +298,9 @@ If your issue persists, check the fix below.
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Reinstall the Epic Games Launcher
 
  If all else fails and you are still experiencing game freezing issues, reinstalling the game can often resolve underlying problems
@@ -325,15 +312,13 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
@@ -362,8 +347,6 @@ If your issue persists, check the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -371,4 +354,22 @@ If your issue persists, check the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-free-top-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>[New] FREE Top 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensible-guide-to-shifting-photosvideos-in-ios-world/"><u>2024 Approved Comprehensible Guide to Shifting Photos/Videos in iOS World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unexplored-instagram-tricks-for-enhanced-engagement/"><u>2024 Approved Unexplored Instagram Tricks for Enhanced Engagement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-modern-warfare-fps-issues-addressed-with-recent-game-update/"><u>Call of Duty: Modern Warfare - FPS Issues Addressed with Recent Game Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-glitched-graphics-a-guide-for-warzone-players-dealing-with-screen-flares/"><u>Eliminating Glitched Graphics: A Guide for Warzone Players Dealing with Screen Flares</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-stop-your-windows-computer-from-experiencing-blender-application-collapses/"><u>Fix: How to Stop Your Windows Computer From Experiencing Blender Application Collapses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/overcoming-connectivity-issues-in-your-live-feed-for-2024/"><u>Overcoming Connectivity Issues in Your Live Feed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993013472-resolving-rainbow-six-sieges-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Resolving Rainbow Six Siege's Error Code 3-0X0001000B: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-hitch-successful-activation-of-vanguard-skin-in-valorant-gameplay/"><u>Resolving the Hitch: Successful Activation of Vanguard Skin in Valorant Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-restoring-functionality-of-the-steelseries-gg-gamepad-engine-on-windows/"><u>Step-by-Step Guide to Restoring Functionality of the SteelSeries GG Gamepad Engine on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-to-overcome-ntdlldll-problems-on-windows-systems/"><u>Step-by-Step Solutions to Overcome ntdll.dll Problems on Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-for-improving-visibility-of-windows-1011s-search-results/"><u>Strategies for Improving Visibility of Windows 10/11'S Search Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-12-pro-max-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 12 Pro Max? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

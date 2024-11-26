@@ -1,7 +1,7 @@
 ---
 title: "'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs"
-date: 2024-11-10T22:03:12.804Z
-updated: 2024-11-16T20:45:55.509Z
+date: 2024-11-23T18:48:45.999Z
+updated: 2024-11-26T21:33:05.653Z
 tags:
   - win11
   - win10
@@ -38,6 +38,14 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -47,13 +55,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 There’re mainly two ways you can update your graphics drivers:
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -70,6 +71,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -99,13 +104,6 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -113,13 +111,6 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -129,6 +120,10 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
 
@@ -144,6 +139,10 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -154,23 +153,13 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -205,20 +194,18 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-high-quality-online-meeting-capture-devices/"><u>[New] 2024 Approved Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-exclusive-list-11-best-sound-capturers-guide/"><u>[New] In 2024, Exclusive List 11 Best Sound Capturers Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools/"><u>[New] In 2024, Flv to Youtubes Master the Art of Video Transformation with These Top Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-incremental-volume-decrease-with-lumafusion/"><u>[Updated] Mastering the Art of Incremental Volume Decrease with Lumafusion</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-launch-hurdles-in-genshin-impact-with-these-handy-tips/"><u>Bypassing Launch Hurdles in Genshin Impact with These Handy Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-stability-issues-with-sons-of-the-forest-pc-edition-malfunctions/"><u>Comprehensive Fixes for Stability Issues with 'Sons of the Forest': PC Edition Malfunctions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-walkthrough-setting-up-the-autonomous-gpt-module-on-ubuntu-linux/"><u>Comprehensive Walkthrough: Setting Up the Autonomous GPT Module on Ubuntu Linux</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-stability-now-in-disco-elysium-for-a-smoother-pc-experience/"><u>Enhanced Stability Now in Disco Elysium for a Smoother PC Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-best-performing-intel-network-driver-compatible-with-windows-11-10-and-7/"><u>Get the Best Performing Intel Network Driver Compatible with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-x100-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo X100</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-eliminating-lag-in-outriders-adventure/"><u>Mastering Smooth Gameplay: Eliminating Lag in Outrider's Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-persistent-pc-shutdowns-during-overwatch-2-strategies-for-a-seamless-gaming-experience/"><u>Overcoming Persistent PC Shutdowns During Overwatch 2: Strategies for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-solving-subnautica-below-zero-stability-issues-once-and-for-all/"><u>PC Troubles? Solving Subnautica Below Zero Stability Issues Once and For All</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-story-how-to-play-dragon-age-origins-without-glitches-on-windows-11/"><u>Success Story: How to Play Dragon Age: Origins Without Glitches on Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-the-magic-of-capturing-youtube-content-the-no-cost-way-for-2024/"><u>Unlock the Magic of Capturing YouTube Content - The No-Cost Way for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-the-nuances-of-ps4-live-gaming-recordings-for-2024/"><u>[New] Navigating the Nuances of PS4 Live Gaming Recordings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-image-editing-getting-rid-of-background-in-one-click/"><u>[New] Simplified Image Editing Getting Rid of Background in One Click</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-experiencing-dji-inspire-2-in-full-scale/"><u>2024 Approved Experiencing DJI Inspire 2 in Full Scale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-seamless-international-use-how-to-update-regional-settings-on-an-iphone/"><u>Achieve Seamless International Use: How to Update Regional Settings on an iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-trouble-unlock-winning-fixes-to-get-your-game-running-smoothly/"><u>Age of Empires IV Trouble? Unlock Winning Fixes to Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-recover-from-relink-crash-on-your-computer-tips-and-tricks/"><u>Granblue Fantasy Recover From Relink Crash on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hell-let-loose-pc-compatibility-optimized-ensuring-smooth-gaming-experience/"><u>Hell Let Loose PC Compatibility Optimized: Ensuring Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-nocturnal-nuances-expert-insights-into-nighttime-photography/"><u>In 2024, Nocturnal Nuances Expert Insights Into Nighttime Photography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gamers-guide-why-cant-i-launch-gta-5-solutions-inside/"><u>Master Gamers Guide: Why Can’t I Launch GTA 5? Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-overcoming-challenges-in-starting-evil-genius-2/"><u>Resolving the Issue: Overcoming Challenges in Starting Evil Genius 2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/she-shares-we-watch-top-female-content-creators-on-youtube-for-2024/"><u>She Shares, We Watch Top Female Content Creators on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-for-cyberpunk-2077-not-leveraging-gpu-on-win11-systems/"><u>Solution Guide for Cyberpunk 2077 Not Leveraging GPU on Win11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-successful-destiny-2-installation-on-pc/"><u>Troubleshooting Tips for Successful Destiny 2 Installation on PC</u></a></li>
 </ul></div>
 

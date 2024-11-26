@@ -1,7 +1,7 @@
 ---
 title: Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience
-date: 2024-11-09T20:52:29.428Z
-updated: 2024-11-17T04:51:45.276Z
+date: 2024-11-23T19:45:06.942Z
+updated: 2024-11-26T17:06:39.459Z
 tags:
   - win11
   - win10
@@ -38,10 +38,7 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 10. **[Uninstall Razer Synapse](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Update your graphics driver**
@@ -66,19 +63,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -97,23 +81,9 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click the**Battle.net icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-680.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
@@ -151,6 +121,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
@@ -166,6 +140,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: End unwanted background programs
 
@@ -213,6 +191,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -233,9 +215,17 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Type **%ProgramData%** and click**OK** .
 
@@ -244,6 +234,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **5)** Right-click the**Blizzard Entertainment folder** and select **Delete** . Then delete the**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-709.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch.
 
@@ -260,13 +254,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** Click**Overwatch > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-713.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Begin Scan** .
 
@@ -289,10 +276,7 @@ To check if there is any update, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If a patch is available, install it, then run your game again to check whether the black screen problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
@@ -308,15 +292,16 @@ To check if there is any update, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game after the update is complete.
 
@@ -331,13 +316,6 @@ If your problem persists, check the fix 10, below.
 **1)** On your keyboard, press the**Windows logo key** and type**control** . Then click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under**View by** , select**Category** .
 
@@ -383,18 +361,18 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>[Updated] In 2024, Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-twilight-assessment-diverse-ideas/"><u>[Updated] Twilight Assessment Diverse Ideas</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-effortless-google-podcast-upload-for-2024/"><u>Expert Tips for Effortless Google Podcast Upload for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-graphics-driver-crashed-issue-in-valorant-fast-solutions/"><u>Fixing the 'Graphics Driver Crashed' Issue in Valorant - Fast Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hearts-of-iron-4-troubleshooting-tips-fixing-game-crashing-bugs-successfully/"><u>Hearts of Iron 4 Troubleshooting Tips: Fixing Game-Crashing Bugs Successfully</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Huawei Nova Y71?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-slow-motion-secrets-reels-done-right-for-2024/"><u>Instagram's Slow Motion Secrets Reels Done Right for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-itunes-backups-essential-guide-and-step-by-step-tutorials/"><u>Mastering iTunes Backups: Essential Guide & Step-by-Step Tutorials</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-gaming-experience-how-to-prevent-and-fix-freezing-while-playing-borderlands-3/"><u>Optimizing Your Gaming Experience: How to Prevent & Fix Freezing While Playing Borderlands 3</u></a></li>
-<li><a href="https://win-tips.techidaily.com/simple-tricks-how-to-change-your-youtube-videos-into-3gp-format-with-ease/"><u>Simple Tricks: How to Change Your YouTube Videos Into 3GP Format with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/songsync-guide-tamil-ringtones-from-download-to-customize/"><u>SongSync Guide Tamil Ringtones From Download to Customize</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1723620262066-top-6-must-have-tools-convert-your-favorite-gifs-into-videos-seamlessly/"><u>Top 6 Must-Have Tools: Convert Your Favorite GIFs Into Videos Seamlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lag-problems-solutions-for-dying-light-players/"><u>Troubleshooting Lag Problems: Solutions for Dying Light Players</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-silencing-the-quiet-how-to-enhance-tweeted-vids/"><u>[Updated] 2024 Approved Silencing the Quiet How to Enhance Tweeted Vids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filming-made-easy-selecting-the-right-audio-devices-for-2024/"><u>[Updated] Filming Made Easy Selecting the Right Audio Devices for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quintessential-10-virtual-brawls-for-2024/"><u>[Updated] Quintessential 10 Virtual Brawls for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-the-darkness-resolving-fortnite-black-screen-issues-for-windows-players/"><u>Banish the Darkness: Resolving Fortnite Black Screen Issues for Windows Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-age-of-empires-4-stuttering/"><u>How to Fix Age of Empires 4 Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-counter-strike-2-cs2-lag-and-high-ping-on-pc/"><u>How to Fix Counter-Strike 2 (CS2) Lag and High Ping on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-edge-40-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-design-and-illumination-a-look-at-taotronics-latest-led-lamp/"><u>Innovative Design & Illumination: A Look at TaoTronics' Latest LED Lamp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-solution-stability-tweaks-for-resident-evil-village-on-windows-platform/"><u>Master the Solution: Stability Tweaks for Resident Evil Village on Windows Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mellow-your-playlist-device-specific-techniques-for-2024/"><u>Mellow Your Playlist Device-Specific Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hitman-3s-black-display-trouble-a-step-by-step-solution-for-gamers/"><u>Overcoming Hitman 3'S Black Display Trouble – A Step-by-Step Solution for Gamers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-xr-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone XR Making It Possible</u></a></li>
+<li><a href="https://win-unique.techidaily.com/winpc2/"><u>フリーで簡単復元！イメージが消えてしまったらWinPCで2つの方法で完全に回収</u></a></li>
 </ul></div>
 

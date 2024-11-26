@@ -1,7 +1,7 @@
 ---
 title: "Optimize Chrome Performance: How to Reduce Memory Usage"
-date: 2024-08-19T16:50:05.373Z
-updated: 2024-08-20T16:50:05.373Z
+date: 2024-11-19T18:26:04.269Z
+updated: 2024-11-26T21:55:37.960Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ A screenshot of Ghostwire: Tokyo from Steam
 7. **[Disable Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable third-party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  Game file corruption are usually the culprit for the game crashing issues. If you’re not sure if any game files are missing or corrupted on your PC, you can follow the instructions below to verify integrity of game files:
@@ -43,6 +47,10 @@ A screenshot of Ghostwire: Tokyo from Steam
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -74,8 +82,9 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -104,8 +113,9 @@ Or
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Repair corrupted system files
 
  Windows system file corruption will also lead the game to crash. If you’ve played PC games for years, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -122,9 +132,6 @@ Or
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -133,9 +140,6 @@ Or
 **Email:** <support@fortect.com>  
 **Submit a ticket:** _[https://www.fortect.com/company/contacts/](https://www.reimageplus.com/submit-ticket/)_
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -144,9 +148,6 @@ Or
 
  Run Ghostwire: Tokyo and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Install the latest DirectX files
 
  Most games require DirectX 12 to run properly, and Ghostwire: Tokyo is no exception. Ghostwire: Tokyo would crash on startup if there’s a problem with DirectX on your PC.
@@ -157,13 +158,19 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if Ghostwire: Tokyo crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking
 
  Many gamers would like to overclock the CPU or turbo boost the graphics card for a better FPS. However, this approach often crashes the game.
@@ -183,14 +190,13 @@ Or
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Ghostwire: Tokyo_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch Ghostwire: Tokyo and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -217,8 +223,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +230,22 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] In 2024, Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-6-online-networking-hubs-for-enterprises/"><u>[New] Leading 6 Online Networking Hubs for Enterprises</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-superior-video-editor-the-vimeo-edition/"><u>[Updated] 2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-setting-up-your-phone-as-a-home-based-webcam/"><u>2024 Approved Setting Up Your Phone as a Home-Based Webcam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-modern-broadcasters-guide-to-iphone-and-android-streaming/"><u>2024 Approved The Modern Broadcaster's Guide to iPhone and Android Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-stability-fixes-and-optimization-tips-players/"><u>Alan Wake 2 Stability Fixes and Optimization Tips Players</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-link-your-laptop-and-hp-printer-with-these-fixes/"><u>Effortlessly Link Your Laptop and HP Printer with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-gameplay-experience-with-lost-arks-fps-stability-update/"><u>Enhanced Gameplay Experience with Lost Ark’s FPS Stability Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-guide-6-reliable-methods-to-restore-your-terraria-game-connection/"><u>Essential Guide: 6 Reliable Methods to Restore Your Terraria Game Connection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/metro-exodus-pc-version-stability-issues-resolved-tips-and-tricks/"><u>Metro Exodus PC Version Stability Issues Resolved - Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-low-power-mode-options/"><u>Navigating Through Windows' Low-Power Mode Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-computer-for-seamless-gaming-strategies-to-address-and-prevent-low-fps-scenarios/"><u>Optimize Your Computer for Seamless Gaming: Strategies to Address and Prevent Low FPS Scenarios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pairing-audio-with-visuals-web-forum/"><u>Pairing Audio with Visuals Web Forum</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reasons-and-fixes-for-sudden-shutdowns-in-ghostwire-tokyo-on-windows-pcs/"><u>Reasons and Fixes for Sudden Shutdowns in Ghostwire: Tokyo on Windows PCs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-professional-photo-repair-tools-and-techniques/"><u>The Ultimate Guide to Professional Photo Repair Tools and Techniques</u></a></li>
+</ul></div>
 

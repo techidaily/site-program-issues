@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Eliminate Error 80070057 From Your COD: Black Ops Cold War Gameplay"
-date: 2024-08-19T16:52:11.573Z
-updated: 2024-08-20T16:52:11.573Z
+date: 2024-11-25T20:44:06.574Z
+updated: 2024-11-26T16:20:59.769Z
 tags:
   - win11
   - win10
@@ -48,8 +48,9 @@ The first thing, as it suggests, is to perform a scan and repair.
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Install the latest patch
 
  No matter what problem you’re experiencing, be sure to install the latest patch. Game developers keep releasing new updates to fix known issues.
@@ -58,14 +59,12 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
 ## 3\. Update the graphics driver
@@ -88,6 +87,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run your game in DX11
 
  If you still get this error in some specific spots, but all of your device drivers are up-to-date, the culprit might be DirectX 12\. There are some problems with advanced DX12 features such as ray tracing and variable rate shading. To enjoy a crash-free game, you can run your game in DX 11 instead. Here’s how:
@@ -95,22 +98,27 @@ The first thing, as it suggests, is to perform a scan and repair.
 1. Open the**Battle.net** app and locate your**Call of Duty: BOCW** under the**GAMES** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete the Battle.net Cache folder
 
  Your cache folder might get corrupted and it might cause some game issues such as the error code 80070057\. To fix this error code, you can try deleting the Cache folder (this won’t affect your game data) to resolve issues caused by outdated files.
@@ -121,9 +129,9 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -135,10 +143,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -156,8 +165,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +172,24 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>[New] 2024 Approved Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-best-8-linux-programs-for-media-makers-for-2024/"><u>[New] Best 8 Linux Programs for Media Makers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-insider-guide-to-intensified-minecraft-views-for-2024/"><u>[New] The Insider Guide to Intensified Minecraft Views for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transforming-film-with-vr-experience-for-2024/"><u>[New] Transforming Film with VR Experience for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-essentials-of-combining-apple-music-and-videos/"><u>[Updated] 2024 Approved The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-look-at-slug-line-practices-for-2024/"><u>A Comprehensive Look at Slug Line Practices for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-troubleshooting-guide-fix-stutters-boost-framerate-6-techniques/"><u>Baldur's Gate Troubleshooting Guide - Fix Stutters, Boost Framerate (6 Techniques)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-rockstar-games-launcher-glitches-proven-fixes-to-get-you-gaming/"><u>Beat Rockstar Games Launcher Glitches: Proven Fixes to Get You Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-directx-error-in-fifa-20-techniques-and-solutions-unveiled/"><u>Beating the DirectX Error in FIFA 20: Techniques and Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-speeding-up-origin-downloads/"><u>Effective Strategies for Speeding Up Origin Downloads</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-missing-camera-issue-in-snapchat-a-step-by-step-guide/"><u>How to Resolve the Missing Camera Issue in Snapchat: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-atomic-heart-crashes-on-startup-best-practices-and-solutions/"><u>Overcome 'Atomic Heart Crashes on Startup': Best Practices and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-unresponsive-gamepads-with-steam-in-windows/"><u>Overcoming the Hurdle of Unresponsive Gamepads with Steam in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-resolving-the-issue-of-dual-frame-rate-decrease/"><u>PC Gaming: Resolving the Issue of Dual Frame Rate Decrease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+</ul></div>
 

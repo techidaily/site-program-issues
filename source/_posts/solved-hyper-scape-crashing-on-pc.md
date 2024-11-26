@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Hyper Scape Crashing on PC"
-date: 2024-08-19T16:54:00.764Z
-updated: 2024-08-20T16:54:00.764Z
+date: 2024-11-23T22:15:15.836Z
+updated: 2024-11-26T16:41:06.301Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ## [Solved] Dying Light Crash | Quickly & Easily
 
 **Dying Light keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -71,8 +75,9 @@ Below are the system requirements for Dying Light from the Steam client:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Lower the in-game settings
 
  If your PC fails to meet the recommended system requirements for Dying Light, you should use a reduced settings profile for graphics related features, because higher settings will increase the workload for your PC, which may even lead to game crash issue.
@@ -81,9 +86,6 @@ Below are the system requirements for Dying Light from the Steam client:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the game files
 
  The game crash issue may occur if your game files are corrupted. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -92,6 +94,10 @@ Below are the system requirements for Dying Light from the Steam client:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Dying Light again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -116,8 +122,9 @@ Below are the system requirements for Dying Light from the Steam client:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -133,14 +140,8 @@ Below are the system requirements for Dying Light from the Steam client:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -160,6 +161,10 @@ Below are the system requirements for Dying Light from the Steam client:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Turn off Game Mode in Windows 10
 
  The Game Mode in Windows 10 may also crash Dying Light. Some players reported in the Steam community that after they turned off Game Mode, they can play Dying Light without crashes. You can follow the steps below to turn off Game Mode in Windows 10:
@@ -167,14 +172,13 @@ Below are the system requirements for Dying Light from the Steam client:
 1. On your keyboard, press**the Windows logo key** and type**game mode** , then**select Game Mode settings** from the list of search results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-game-mode.png)
 2. **Turn off the toggle** under**Game Mode** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/Game-Mode-Windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/Game-Mode-Windows-10.png)
+
  Launch Dying Light again after you disabled Game Mode to see if this fix works. If not, try the next fix, below.
 
 ---
@@ -192,9 +196,11 @@ Below are the system requirements for Dying Light from the Steam client:
 1. On your desktop,**right-click** on the shortcut of Dying Light, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** ,**check the box** next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list.**Check the box** next to**Run as an administrator** and click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Dying Light on your desktop to launch it. This time Dying Light will run in the compatibility mode you set in step 2.
 
@@ -213,8 +219,6 @@ Below are the system requirements for Dying Light from the Steam client:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +226,20 @@ Below are the system requirements for Dying Light from the Steam client:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-revamping-reality-the-premier-11-instagram-edits/"><u>[New] 2024 Approved Revamping Reality The Premier 11 Instagram Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhanced-collaboration-through-top-tier-backgrounds/"><u>[New] In 2024, Enhanced Collaboration Through Top-Tier Backgrounds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-inner-vfx-guru-with-diy-techniques/"><u>[New] Unleash Your Inner VFX Guru with DIY Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audience-accessibility-enhancement-adding-subtitles-and-closed-captions-on-youtube/"><u>[Updated] 2024 Approved Audience Accessibility Enhancement Adding Subtitles and Closed Captions on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-facebook-favorites-perfecting-square-video-crafting/"><u>2024 Approved Maximizing Facebook Favorites Perfecting Square Video Crafting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-obstacles-for-smooth-final-exam-release-tips-and-tricks/"><u>Bypassing Obstacles for Smooth Final Exam Release - Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-defi-apps-with-these-8-premier-chatbot-extensions-for-cryptocurrency-platforms/"><u>Enhance Your DeFi Apps with These 8 Premier Chatbot Extensions for Cryptocurrency Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-troubleshoot-discords-non-functional-screen-sharing-sound-issue/"><u>Fix: How to Troubleshoot Discord's Non-Functional Screen Sharing Sound Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-interruptions-a-complete-guide-to-solving-total-war-warhammer-ii-crashes/"><u>Overcoming Game Interruptions - A Complete Guide to Solving Total War: Warhammer II Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-robloxs-low-memory-alerts-a-step-by-step-guide-for-iphones/"><u>Resolving Roblox's 'Low Memory' Alerts: A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-darkest-dungeon-s-gt-mkii-on-your-gaming-rig/"><u>Troubleshooting Persistent Crashes in Darkest Dungeon ˈs Gt MkII on Your Gaming Rig</u></a></li>
+</ul></div>
 

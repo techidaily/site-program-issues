@@ -1,7 +1,7 @@
 ---
 title: Discord's Webcam Woes? Here's How You Can Get It Working Again
-date: 2024-08-19T16:53:02.939Z
-updated: 2024-08-20T16:53:02.939Z
+date: 2024-11-23T19:50:46.884Z
+updated: 2024-11-26T18:31:29.466Z
 tags:
   - win11
   - win10
@@ -35,10 +35,20 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 1. Press the**Windows logo key + I** and click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
 
@@ -63,8 +73,9 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -95,9 +106,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -113,16 +121,14 @@ OR
 2. Click **Check for updates** .  
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -133,28 +139,30 @@ If your camera is still not working on Discord, move to the next fix.
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
 11. Install it on your computer and try the camera.
 
@@ -170,8 +178,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +185,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-avoiding-escalation-stealthy-yet-effective-techniques-to-address-grievances-on-discord/"><u>[Updated] 2024 Approved Avoiding Escalation Stealthy Yet Effective Techniques to Address Grievances on Discord</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieve-profitability-with-powerful-facebook-video-marketing-tips/"><u>[Updated] Achieve Profitability with Powerful Facebook Video Marketing Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-obs-essentials-optimizing-your-skype-call-recording-quality/"><u>[Updated] OBS Essentials Optimizing Your Skype Call Recording Quality</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1-easy-guide-to-using-abc-iview-downloader-save-your-favorite-videos/"><u>1. Easy Guide to Using ABC iView Downloader: Save Your Favorite Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-stability-improved-no-more-unexpected-shutdowns/"><u>Cod: Modern Warfare Stability Improved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-retrouver-votre-informations-sur-un-toshiba-canvio-portable-perdu/"><u>Comment Retrouver Votre Informations Sur Un Toshiba Canvio Portable Perdu</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/enhance-your-ebook-with-our-flipbuildercom-branding-feature-incorporate-your-logo-into-the-background/"><u>Enhance Your eBook with Our FlipBuilder.com Branding Feature: Incorporate Your Logo Into the Background!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991019512-forza-horizon-5-loading-woes-here-are-7-effective-workarounds/"><u>Forza Horizon 5 Loading Woes? Here Are 7 Effective Workarounds!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-improve-bloodhunt-gameplay-eliminating-lag-and-hiccups-on-pc/"><u>How to Improve Bloodhunt Gameplay: Eliminating Lag and Hiccups on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improperly-installed-manholes/"><u>Improperly Installed Manholes:</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-a1-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo A1 5G?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x6-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X6 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988233117-no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-successful-ds4-connection-and-driver-implementation-in-windows/"><u>Troubleshooting Tips for Successful DS4 Connection and Driver Implementation in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-the-causes-behind-call-of-duty-modern-warfare-3s-performance-drops-insights-players/"><u>Understanding the Causes Behind Call of Duty: Modern Warfare 3'S Performance Drops - Insights Players</u></a></li>
+</ul></div>
 

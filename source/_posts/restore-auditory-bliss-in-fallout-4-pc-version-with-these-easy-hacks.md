@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-11-14T04:15:48.646Z
-updated: 2024-11-17T07:28:04.233Z
+date: 2024-11-19T16:19:42.218Z
+updated: 2024-11-26T17:45:53.925Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -41,22 +45,17 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
@@ -71,13 +70,6 @@ If the issue persists, read on and try the next fix.
 
 If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so the graphics driver is essential to your gaming experience. If your graphics driver is faulty or outdated, you’re likely to encounter a black screen in Minecraft. To fix it,**make sure you’re using the latest graphics driver** .
@@ -90,13 +82,6 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -127,6 +112,10 @@ If the issue remains, move on to the next fix.
 
 If this method doesn’t do the trick, continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -141,6 +130,10 @@ Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Uninstall and reinstall Minecraft
 
  If none of the fixes above work for you, you should consider reinstalling Minecraft completely. This will delete your local saves, so be aware to back up any files you wish to keep. Here’s how:
@@ -149,36 +142,23 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -204,16 +184,18 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-conquering-challenges-the-comprehensive-guide-to-google-podcasts/"><u>[New] Conquering Challenges The Comprehensive Guide to Google Podcasts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/27-french-sayings-and-idioms-to-make-your-french-sound-authentic/"><u>27 French Sayings And Idioms To Make Your French Sound Authentic</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-visual-experience-how-outriders-addressed-its-picture-problems/"><u>Enhanced Visual Experience: How Outriders Addressed Its Picture Problems</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-f23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo F23 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-high-quality-photos-a-guide-to-proraw-features-on-new-iphones/"><u>Master the Art of High-Quality Photos: A Guide to ProRAW Features on New iPhones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-tricks-to-launch-dota-2-successfully-bypassing-load-errors/"><u>Master the Tricks to Launch Dota 2 Successfully: Bypassing Load Errors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-cinematics-in-filmora-answering-the-core-questions/"><u>Simplifying Cinematics in Filmora Answering the Core Questions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-the-persistent-crashes-of-elex-ii-on-windowsmacos/"><u>Troubleshooting Guide: Resolving the Persistent Crashes of Elex II on Windows/MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-rainbow-six-sieges-latest-freezing-event-for-year-2024/"><u>Unlocking the Secrets to Rainbow Six Siege's Latest Freezing Event for Year 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-bing-chat-expert-strategies-for-harnessing-microsofts-advanced-artificial-intelligence-chatbot-capabilities/"><u>Unveiling Bing Chat: Expert Strategies for Harnessing Microsoft's Advanced Artificial Intelligence Chatbot Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>[New] 2024 Approved Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-5-must-see-facebook-vids-that-delight-us-all/"><u>[Updated] In 2024, 5 Must-See Facebook Vids That Delight Us All</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit-for-2024/"><u>[Updated] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banished-from-worlds-and-diablo-heres-how-to-fix-your-lost-access-to-blizzard-games/"><u>Banished From Worlds and Diablo? Here's How to Fix Your Lost Access to Blizzard Games!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-ways-to-overcome-challenges-with-family-sharing-subscriptions-on-ios-devices/"><u>Easy Ways to Overcome Challenges with Family Sharing Subscriptions on iOS Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-boost-performance-and-reduce-latency-in-battlefield-5-a-guide-with-10-methods/"><u>How to Boost Performance & Reduce Latency in Battlefield 5: A Guide with 10 Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-master-the-art-of-fast-instagram-videos/"><u>In 2024, Master the Art of Fast Instagram Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-pro-unlock-awesome-visuals-in-minutes/"><u>New 2024 Approved Video Editing Pro Unlock Awesome Visuals in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fallout-3-not-working-updated-tips-and-hacks-for-gamers/"><u>Resolving Fallout 3 Not Working: Updated Tips & Hacks for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-communications-a-comprehensive-guide-to-adding-a-safe-list-of-domains-in-macos-mail-app/"><u>Securing Communications: A Comprehensive Guide to Adding a Safe List of Domains in macOS Mail App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-black-screen-issue-in-rainbow-six-siege-a-comprehensive-guide-for-windows-users/"><u>Solving the 'Black Screen' Issue in Rainbow Six Siege: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-issues-on-ftdi-systems-ensuring-memory-reliability-with-proper-drivers/"><u>Troubleshooting Compatibility Issues on FTDI Systems: Ensuring Memory Reliability with Proper Drivers</u></a></li>
 </ul></div>
 

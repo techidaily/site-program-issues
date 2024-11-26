@@ -1,7 +1,7 @@
 ---
 title: Euro Truck Simulator 2 PC Crash Troubleshooting Guide
-date: 2024-08-19T16:56:47.084Z
-updated: 2024-08-20T16:56:47.084Z
+date: 2024-11-20T19:11:52.645Z
+updated: 2024-11-26T21:10:58.134Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ A screenshot of Farming Simulator 22 from Steam
 
  Launch Farming Simulator 22 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger the Farming Simulator 22 FPS dropping issue.
@@ -64,23 +61,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Set the Power Plan of your PC for high performance
 
  A power plan is a set of system and hardware settings on Windows OS. It’s designed to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -92,15 +80,13 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -168,9 +154,14 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -183,9 +174,17 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
@@ -196,11 +195,13 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch Farming Simulator 22 to see if you can play it smoothly.
@@ -217,8 +218,6 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +225,26 @@ Launch Farming Simulator 22 to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-deciphering-the-art-of-voice-documentation-for-2024/"><u>[New] Deciphering the Art of Voice Documentation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-financial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[Updated] 2024 Approved Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-start-to-finish-complete-xvideostudioinsight/"><u>[Updated] From Start to Finish Complete XVideoStudioInsight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-guide-for-soundless-video-documentation-for-2024/"><u>[Updated] How-To Guide for Soundless Video Documentation for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-crashes-in-deathloop-effortless-tips-and-techniques-for-players/"><u>Avoid Crashes in Deathloop - Effortless Tips and Techniques for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-common-issues-making-your-iphone-compatible-with-itunes-for-windows-10-users/"><u>Banish Common Issues: Making Your iPhone Compatible with iTunes for Windows 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722984661140-beat-the-connection-failed-glitch-in-hitman-3-solutions-that-work/"><u>Beat the 'Connection Failed' Glitch in Hitman 3 - Solutions That Work</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/comment-resoudre-le-probleme-de-image-disque-non-initialisee/"><u>Comment Résoudre Le Problème De 'Image Disque Non Initialisée'?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-how-to-fix-persistent-lag-and-smoothing-frame-rate-issues/"><u>Cyberpunk 2077: How to Fix Persistent Lag & Smoothing Frame Rate Issues</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/drei-strategien-zur-behebung-der-windows-10-problematik-beim-start-im-abgesicherten-modus/"><u>Drei Strategien Zur Behebung Der Windows 10-Problematik Beim Start Im Abgesicherten Modus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-dying-light-audio-problem-a-complete-guide/"><u>Fixing the Dying Light Audio Problem: A Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dragons-dogma-2-experience-a-guide-to-addressing-low-fps-and-hitches/"><u>Optimizing Dragon's Dogma 2 Experience: A Guide to Addressing Low FPS and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashes-in-football-manager-2020-expert-advice-and-fixes/"><u>Resolving Crashes in Football Manager 2020 - Expert Advice and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-fix-gray-zone-warfare-stability-issues-on-pc/"><u>Step-by-Step Solutions to Fix 'Gray Zone Warfare' Stability Issues on PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-6s-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 6s Plus You Should Try Out</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-march-2024-guide-to-bypassing-assassins-creed-odyssey-pc-performance-hiccups/"><u>The Ultimate March 2024 Guide to Bypassing Assassin's Creed Odyssey PC Performance Hiccups</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-waterproof-digital-camcorders/"><u>Top-Rated Waterproof Digital Camcorders</u></a></li>
+</ul></div>
 

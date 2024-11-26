@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Guide: Resolving World of Warships Issues on Windows Machines [5 Methods]"
-date: 2024-08-19T16:52:43.480Z
-updated: 2024-08-20T16:52:43.480Z
+date: 2024-11-20T21:17:00.186Z
+updated: 2024-11-26T18:40:59.868Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 #### If you play on Wargaming launcher
@@ -56,6 +60,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
@@ -91,9 +99,17 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -102,15 +118,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -121,16 +128,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -141,14 +142,8 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Do the crashes disappear now? If not, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 5 – Reinstall the game
 
  If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
@@ -161,13 +156,18 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
 **5)** Paste**C:\\Users\\\[User Name\]\\AppData\\Roaming\\Wargaming.net** to the address bar and press Enter. (If you play on Steam, then go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** .)
@@ -189,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +196,24 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-inexpensive-capture-apps-reviewed-for-budget-pcs/"><u>[New] 2024 Approved Inexpensive Capture Apps Reviewed For Budget PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-achieve-professional-aesthetics-embedding-watermarks-and-branding-in-videos/"><u>[New] Achieve Professional Aesthetics Embedding Watermarks & Branding in Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-central-luts-in-action-movie-visuals-enhancement/"><u>2024 Approved Central Luts in Action Movie Visuals Enhancement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-cs2-performance-effective-fixes-for-optimizing-fps-and-reducing-lags/"><u>Boost Your CS2 Performance: Effective Fixes for Optimizing FPS and Reducing Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-world-war-ii-error-code-woe-no-more-a-step-by-step-fix/"><u>Call of Duty World War II Error Code Woe No More - A Step-by-Step Fix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view-in-2024/"><u>Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-disruptions-effective-solutions-to-prevent-god-of-war-from-crashing-on-desktops/"><u>Eliminating Disruptions: Effective Solutions to Prevent God of War From Crashing on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-slow-lol-connection-tips-for-overcoming-game-lags/"><u>How to Fix Slow LoL Connection: Tips for Overcoming Game Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-crashing-issues-while-playing-lost-ark-on-your-computer/"><u>How to Stop Frequent Crashing Issues While Playing Lost Ark on Your Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-avoid-distortion-best-practices-for-shooting-up-close-with-videoleap/"><u>In 2024, Avoid Distortion Best Practices for Shooting Up Close with VideoLeap</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-poco-x5-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-to-keep-palworld-running-smoothly-on-windows-machines/"><u>Optimizing Gameplay: Tips to Keep Palworld Running Smoothly on Windows Machines</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frame-rate-drops-and-freezing-issues-in-call-of-duty-modern-warfare-2/"><u>Resolved: Fixes for Frame Rate Drops & Freezing Issues in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-for-restarting-a-stalled-pacific-drive-system/"><u>Step-by-Step Strategies for Restarting a Stalled Pacific Drive System</u></a></li>
+</ul></div>
 

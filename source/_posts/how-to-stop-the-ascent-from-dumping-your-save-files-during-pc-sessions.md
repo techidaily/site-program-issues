@@ -1,7 +1,7 @@
 ---
 title: How to Stop The Ascent From Dumping Your Save Files During PC Sessions
-date: 2024-08-19T16:49:51.506Z
-updated: 2024-08-20T16:49:51.506Z
+date: 2024-11-22T21:37:47.041Z
+updated: 2024-11-26T22:51:48.742Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ The Ascent
 
  But don’t worry. If you’re running into the same issue, you’ve come to the right place! After reading this article, you should be able to fix this issue on your own easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of The Ascent
 
  You should ensure that your PC meets the system requirements of The Ascent. Just take a quick glance at the system requirements of The Ascent and check if your PC meets its system requirements:
@@ -40,6 +44,10 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -55,9 +63,6 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -86,11 +91,18 @@ The Ascent
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -104,8 +116,9 @@ The Ascent
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run The Ascent with DirectX 11
 
  Many PC players report that The Ascent would stop crashing after they swtiched to DirectX 11\. Maybe the game hasn’t been fully optimized for DirectX 12\. So try run the game with DirectX 11 and see if it crashes. Here’s how to do it:
@@ -114,16 +127,14 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
 
@@ -177,6 +188,10 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -184,48 +199,19 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -253,8 +239,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +246,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[Updated] 2024 Approved Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-direct-streaming-use-vlc-for-webcam-video/"><u>[Updated] In 2024, Direct Streaming Use VLC for Webcam Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-swift-tips-to-get-your-roblox-game-running-smoothly-on-pc/"><u>6 Swift Tips to Get Your Roblox Game Running Smoothly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-to-resolve-non-responsive-vrchat-issues/"><u>Complete Guide to Resolve Non-Responsive VRChat Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-valheim-experience-overcoming-pc-system-lag-and-hitches/"><u>Enhance Your Valheim Experience: Overcoming PC System Lag & Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-no-more-your-complete-solution-for-minecrafts-exiting-issue-0/"><u>Error No More! Your Complete Solution for Minecraft's Exiting Issue (-0)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-the-persistent-launch-freeze-in-far-cry-5/"><u>Expert Tips for Resolving the Persistent Launch Freeze in Far Cry 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-phasmophobia-bugs-and-crashes-with-new-patch-of-2024/"><u>Fixing Phasmophobia Bugs and Crashes with New Patch of 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-simplified-file-conversion-for-audio-enthusiasts/"><u>In 2024, Simplified File Conversion for Audio Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-strategies-for-compelling-video-instruction-content/"><u>In 2024, Ultimate Strategies for Compelling Video Instruction Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-to-music-directing-videos-to-mp3-outputs/"><u>Instagram to Music Directing Videos to MP3 Outputs</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-unfreeze-your-pubg-gameplay-on-windows-or-macos/"><u>Step-by-Step Guide to Unfreeze Your PUBG Gameplay on Windows or macOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-pc-players-facing-grounded-errors-latest-tips/"><u>Step-by-Step Solutions for PC Players Facing 'Grounded' Errors - Latest Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-for-preventing-hogwarts-legacy-from-crashing-during-pc-launch/"><u>Top 8 Solutions for Preventing Hogwarts Legacy From Crashing During PC Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-preventing-cult-of-the-lamb-game-crashes-on-windows/"><u>Ultimate Fixes for Preventing Cult of the Lamb Game Crashes on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultra-hd-delight-choosing-the-5-best-for-color-precision/"><u>Ultra HD Delight Choosing the 5 Best for Color Precision</u></a></li>
+</ul></div>
 
