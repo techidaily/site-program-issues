@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-11-30T02:15:33.323Z
-updated: 2024-12-05T20:19:55.574Z
+date: 2024-12-07T17:15:26.351Z
+updated: 2024-12-11T20:53:09.495Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Sifu
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -42,6 +38,10 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -49,6 +49,10 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -67,10 +71,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -78,10 +78,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -112,7 +108,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -138,6 +134,10 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -147,10 +147,6 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -164,17 +160,21 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
- Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 ## Disable overlays
 
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -214,19 +214,22 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-captivating-ig-stories-with-youtube-content/"><u>[New] In 2024, Crafting Captivating IG Stories With YouTube Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-exploring-interconnected-digital-universes-meta-and-omni/"><u>[New] In 2024, Exploring Interconnected Digital Universes Meta & Omni</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-chrome-drawing-programs-the-ultimate-list/"><u>[New] Prime Chrome Drawing Programs The Ultimate List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-strike-a-chord-with-instagram-reels-using-tiktoks-hit-hacks-for-2024/"><u>[New] Strike a Chord with Instagram Reels Using TikTok's Hit Hacks for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-open-broadcasters-versus-shadowreplay-for-2024/"><u>[Updated] Open Broadcasters Versus ShadowReplay for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-speech-reader-feedback-summary/"><u>2024 Approved Speech Reader Feedback Summary</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-your-gaming-experience-fixes-for-assassins-creed-valhalla-slowdown/"><u>Accelerate Your Gaming Experience - Fixes for Assassin's Creed: Valhalla Slowdown</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010737663-banish-your-woes-in-star-wars-jedi-fallen-order-squadron-with-fixes-for-critical-errors/"><u>Banish Your Woes in Star Wars Jedi: Fallen Order Squadron with Fixes for Critical Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exceptional-e430-led-lamp-from-byb-a-thorough-reevaluation-of-the-premier-swing-arm-design/"><u>Exceptional E430 LED Lamp From BYB: A Thorough Reevaluation of the Premier Swing Arm Design</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-common-age-of-empires-4-stuttering-problems-proven-techniques/"><u>Fixing Common Age of Empires 4 Stuttering Problems: Proven Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-sims-4-visual-bliss-eliminating-video-card-glitches/"><u>Master The Sims 4 Visual Bliss: Eliminating Video Card Glitches</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-ultimate-guide-to-filming-for-virality-on-youtube/"><u>The Ultimate Guide to Filming for Virality on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-five-innovative-ai-applications-to-curate-your-ideal-book-list/"><u>Unveiling Five Innovative AI Applications to Curate Your Ideal Book List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-consolidating-your-youtube-video-collection/"><u>[New] 2024 Approved Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-cutting-edge-methods-to-reduce-youtube-video-size/"><u>[Updated] 2024 Approved Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-streaming-dilemma-solving-mute-microphones-during-screen-casts/"><u>Discord Streaming Dilemma: Solving Mute Microphones During Screen Casts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-stop-house-flipper-2-from-crashing-on-pc-with-easy-fixes/"><u>Expert Guide: Stop House Flipper 2 From Crashing on PC with Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/genshin-impact-wont-start-discover-these-effortless-fixes-today/"><u>Genshin Impact Won't Start? Discover These Effortless Fixes Today</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-create-and-manage-multiple-user-accounts-on-your-windows-pc-easypc-tips/"><u>How To Create And Manage Multiple User Accounts On Your Windows PC - EasyPC Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-obs-audio-input-expert-solutions/"><u>How to Repair an Unresponsive OBS Audio Input - Expert Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-edge-40-pro-easily-by-drfone-android/"><u>How To Unlock a Motorola Edge 40 Pro Easily?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ig-beats-unleashed-an-insiders-guide-to-music-integration/"><u>IG Beats Unleashed An Insider’s Guide to Music Integration</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-connection-repairs-how-to-overcome-unable-to-connect-with-a-remote-server/"><u>Mastering Connection Repairs: How to Overcome 'Unable to Connect' With a Remote Server</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982147391-size-and-mass-of-the-colliding-objects-larger-vehicles-can-cause-significant-damage-due-to-their-size-and-momentum/"><u>Size and Mass of the Colliding Objects - Larger Vehicles Can Cause Significant Damage Due to Their Size and Momentum.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999503431-solving-persona-5-strikers-display-problems-black-screen-solutions-available/"><u>Solving Persona 5 Strikers Display Problems: Black Screen Solutions Available!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-itunes-doesnt-recognize-iphone-in-widows-10/"><u>Troubleshooting Steps for When iTunes Doesn't Recognize iPhone in Widows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-launch-issues-2n-2024-identifying-causes-and-effective-solutions/"><u>Valheim Launch Issues 2N 2024: Identifying Causes and Effective Solutions</u></a></li>
 </ul></div>
 

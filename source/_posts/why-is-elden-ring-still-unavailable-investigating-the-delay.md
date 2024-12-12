@@ -1,7 +1,7 @@
 ---
 title: Why Is Elden Ring Still Unavailable? Investigating the Delay
-date: 2024-08-13T13:25:10.762Z
-updated: 2024-08-14T13:25:10.762Z
+date: 2024-12-05T21:07:07.938Z
+updated: 2024-12-12T07:21:19.444Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 These days, players are super hyped for the Elden Ring release. However, a large number of players are having the issue of the game not launching. Some might even get the error of EasyAntiCheat Failed to Initialize Launch. If you’re on the same boat, don’t worry. This article will help you troubleshoot it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -34,9 +31,6 @@ These days, players are super hyped for the Elden Ring release. However, a large
 
 ![Elden Ring Not Launching](https://images.drivereasy.com/wp-content/uploads/2022/04/image-17-1200x959.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Allow your game through Windows Firewall
 
  Players can’t launch Elden Ring if it fails to access the Internet. To make sure there is no interruption, you should manually allow Elden Ring to bypass the firewall.
@@ -47,19 +41,25 @@ These days, players are super hyped for the Elden Ring release. However, a large
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Now you need to scroll down until you can find Elden Ring. If your game isn’t on the list, click on **Change settings > Allow another app…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allow Modern Warfare through Windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 4. Your File Explorer is now opening. Then you can navigate to the game’s installation folder and add it to the list. Then **check the boxes under the Domain, Private and Public tabs** , and click **OK** to save the settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now see if you could start the game. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Close non-essential programs
 
  When you have too many programs running in the background, especially those memory-hogging programs, it can eat up the system resources. And therefore it makes your Elden Ring not launching or opening. To solve this, shut down those non-essential programs before you launch Elden Ring on Steam.
@@ -68,21 +68,16 @@ Now see if you could start the game. If not, try the next method.
 2. Type **taskmgr**  and press **Enter** .  
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then restart your game launcher. If it’s still not working, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  When your game fails to launch properly, it’s high time you check whether your graphics driver is misconfigured or outdated. It’s worth mentioned that NVIDIA has released the**game ready driver** for Elden Ring to give players a performance boost. And AMD is also expected to release a new driver with optimized Elden Ring support. To get the latest driver, you can go to the manufacturer’s download page ([NVIDIA](https://tools.techidaily.com/drivereasy/download/) /[AMD](https://www.amd.com/en/support) ) and follow the on-screen instructions to manually download and install the correct driver.
@@ -98,17 +93,15 @@ Now see if you could start the game. If not, try the next method.
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and try to launch the game. If your problem persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check for and install Windows updates
 
  Apart from keeping your drivers up to date, you should also update your Windows. Windows updates usually come with bug fixes (including fixes for compatibility issues) and bring new features. To diagnose your problem, you should check for and install Windows updates.
@@ -131,21 +124,20 @@ Now see if you could start the game. If not, try the next method.
 3. Click **Check for updates** . Then Windows will start downloading the updates if they are available.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 4. When the process is complete, click **Restart now**  to restart your PC. Or you can **Schedule the restart** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
  If installing Windows updates doesn’t seem to solve your issue, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run your game as administrator
 
  Running a program as an administrator could be a simple workaround to resolve issues due to the lack of administrative rights. So you can give it a try and see if it does the trick.
@@ -158,6 +150,10 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-exe-properties.png)
 3. Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-Elden-Ring-as-administrator.png)
 
  After applying the changes, try to relaunch your game and see how things go. If you still can’t play Elden Ring, try the next fix below.
@@ -169,9 +165,6 @@ Now see if you could start the game. If not, try the next method.
 1. Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-verify-integrity-of-game-files-properties.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Choose the**LOCAL FILES** tab. Then click on the**Verify integrity of game files…** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-verify-integrity-of-game-file.png)
@@ -181,6 +174,10 @@ Now see if you could start the game. If not, try the next method.
  Once the process is complete, close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-completed-verifying-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you still fail to launch Elden Ring, proceed to the next fix.
 
@@ -206,8 +203,6 @@ If you still fail to launch Elden Ring, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +210,21 @@ If you still fail to launch Elden Ring, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-breaking-limits-free-saves-for-your-story-loads/"><u>[New] Breaking Limits Free Saves for Your Story Loads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[New] Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-google-chrome-crashing-easily/"><u>[Solved] Google Chrome Crashing. Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-exploring-the-budget-needs-of-making-a-melody-on-screen/"><u>2024 Approved Exploring the Budget Needs of Making a Melody on Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-cuh-solved-overcoming-fps-dips-and-lag-in-bf2042-for-pc-users/"><u>Battlefield Cuh- [SOLVED]! Overcoming FPS Dips and Lag in BF2042 for PC Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-ways-to-document-smartphone-use-for-2024/"><u>Best Ways to Document Smartphone Use for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhancing-your-twitch-security-with-2fa-the-complete-tutorial/"><u>Enhancing Your Twitch Security with 2FA: The Complete Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-low-frame-rates-and-hiccups-in-naraka-bladepoint-a-comprehensive-guide/"><u>Fix Low Frame Rates and Hiccups in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-howling-winds-in-tribes-of-midgard-a-comprehensive-guide/"><u>Fixing Howling Winds in 'Tribes of Midgard' - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-startup-problems-in-call-of-duty-modern-warfare-2/"><u>How To Overcome Startup Problems in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-video-profits-dailymotion-vs-youtube-insights/"><u>Mastering Video Profits Dailymotion Vs. YouTube Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mixed-messages-and-monotonous-battles-the-underwhelming-debut-of-ps5-exclusive-godfall/"><u>Mixed Messages and Monotonous Battles: The Underwhelming Debut of PS5 Exclusive, Godfall</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-fallout-4/"><u>Resolved: How to Fix the Black Screen Problem in Fallout 4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-choosing-claude-3-over-gpt-3-for-better-results/"><u>Top 4: Choosing Claude 3 Over GPT-3 for Better Results</u></a></li>
+</ul></div>
 

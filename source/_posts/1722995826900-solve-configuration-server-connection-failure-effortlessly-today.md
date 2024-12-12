@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-11-28T21:18:48.392Z
-updated: 2024-12-05T21:33:57.039Z
+date: 2024-12-11T07:14:35.583Z
+updated: 2024-12-12T07:53:23.953Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -48,6 +48,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
  But if this method doesn’t do the trick, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check the status of Teredo (Windows 10)
 
  If you’re getting the ‘Unable to connect to the live configuration servers’ error, it may be caused by a Teredo issue. Here’s how:
@@ -59,7 +63,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
@@ -67,10 +71,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
 
@@ -80,19 +80,23 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **the following command** and press **Enter** .
 
 netsh interface Teredo set state disable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Teredo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On your keyboard, press the**Windows + R** key at the same time, and type**devmgmt.msc** . Then press**Ente** r.
 
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **View** \> **Show hidden devices** .
 
@@ -107,10 +111,6 @@ netsh interface Teredo set state disable
 netsh interface Teredo set state type=default
 
  8) Now launch your game and check if the error message ‘Unable to connect to the live configuration servers’ is gone for now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn on Windows Firewall
 
@@ -128,6 +128,10 @@ netsh advfirewall set allprofiles state on
 
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
 
  To make sure your game runs properly, you’d better check the Xbox Live Networking and Xbox Love Auth Manager services are both running properly. Here’s how:
@@ -139,10 +143,6 @@ netsh advfirewall set allprofiles state on
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/services-on.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Close the window and launch your game.
 
@@ -169,19 +169,22 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-a-deep-dive-into-apples-m1-processor-power/"><u>[New] A Deep Dive Into Apple's M1 Processor Power</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-escapades-testing-the-latest-lg-vr-headset/"><u>[New] Immersive Escapades Testing the Latest LG VR Headset</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhancing-narrative-depth-incorporating-b-roll-footage/"><u>[New] In 2024, Enhancing Narrative Depth Incorporating B-Roll Footage</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-shotchrome-xtreme-top-tier-os-capturing/"><u>[New] In 2024, ShotChrome Xtreme Top-Tier OS Capturing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-securing-your-youtube-footage-a-quick-walkthrough/"><u>[New] Securing Your YouTube Footage A Quick Walkthrough</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unveiling-the-secrets-of-a-fresh-twitter-account-for-2024/"><u>[New] Unveiling the Secrets of a Fresh Twitter Account for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-10-action-cameras-for-surfing-2023-update/"><u>[Updated] 2024 Approved Top 10 Action Cameras for Surfing -2023 Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/century-age-of-ashes-stability-fixed-no-more-pc-game-crashes/"><u>Century: Age of Ashes Stability Fixed - No More PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-rainbow-six-extraction-gameplay-crashes-on-personal-computers/"><u>Comprehensive Fix for Rainbow Six Extraction Gameplay Crashes on Personal Computers</u></a></li>
-<li><a href="https://article-files.techidaily.com/extensive-overview-the-comprehensive-guide-to-bublcams-panoramic-vision/"><u>Extensive Overview The Comprehensive Guide to Bublcam's Panoramic Vision</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-correct-oculus-app-errors-in-winxiwinxc/"><u>Guide to Correct Oculus App Errors in WinXI/WinXC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-unreachable-errors-with-the-steam-friend-network/"><u>Resolving 'Unreachable' Errors with the Steam Friend Network</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-problems-when-your-msi-dragon-center-wont-start/"><u>Resolving Problems When Your MSI Dragon Center Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-need-for-careful-design-considerations-to-optimize-esp-performance-while-avoiding-problems-like-back-corona-discharge-or-dust-re-entrainment/"><u>The Need for Careful Design Considerations to Optimize ESP Performance While Avoiding Problems Like Back Corona Discharge or Dust Re-Entrainment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>[New] In 2024, Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-revolutionize-communication-top-7-free-mac-tts-apps-uncovered-for-2024/"><u>[Updated] Revolutionize Communication Top 7 Free Mac TTS Apps Uncovered for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[Updated] YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-freezing-issue-resolved-play-smoothly-now/"><u>Cyberpunk 2077'S Freezing Issue Resolved – Play Smoothly Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/decouvrez-le-meilleur-logiciel-open-source-image-editing-gratuit-sur-windows-1110/"><u>Découvrez Le Meilleur Logiciel Open Source Image Editing Gratuit Sur Windows 11/10 !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enduring-ice-age-on-a-revived-globe-tips-to-stop-it-once-and-for-all/"><u>Enduring Ice Age on a Revived Globe - Tips to Stop It Once & For All</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-recurring-nox-player-collapses-on-laptop-and-desktop-systems/"><u>How to Fix Recurring Nox Player Collapses on Laptop and Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-world-of-warships-from-crashing-on-pc-5-crucial-fixes/"><u>How to Stop Your World of Warships From Crashing on PC: 5 Crucial Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-calming-harmonics-windowsmac-direction/"><u>In 2024, Calming Harmonics Windows/Mac Direction</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s21-fe-5g-2023-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S21 FE 5G (2023) FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002024009-lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-10-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark 10 4G Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/609791-9781407041049-now-is-the-time/"><u>Now is the Time | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-freeze-frame-troubleshooting-and-solving-fallout-3-stalling-problems-on-windows-10/"><u>Stop Freeze-Frame: Troubleshooting and Solving Fallout 3 Stalling Problems on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-resolving-rocket-league-game-crashes-2024-edition/"><u>Top Strategies for Resolving Rocket League Game Crashes - 2024 Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-11-29T08:21:20.443Z
-updated: 2024-12-05T21:54:05.566Z
+date: 2024-12-06T14:16:23.191Z
+updated: 2024-12-11T19:25:55.003Z
 tags:
   - win11
   - win10
@@ -67,23 +67,19 @@ System requirements of WRC 10 from Steam
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -100,12 +96,12 @@ System requirements of WRC 10 from Steam
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -130,7 +126,7 @@ System requirements of WRC 10 from Steam
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -144,22 +140,26 @@ System requirements of WRC 10 from Steam
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
-4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -197,20 +197,24 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>[Updated] In 2024, Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-boundless-gallery-of-forgotten-artists/"><u>2024 Approved The Boundless Gallery of Forgotten Artists</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-game-over-5-immediate-fixes-for-world-of-warships-pc-performance-and-stability/"><u>Beat the Game Over: 5 Immediate Fixes for World of Warships PC Performance & Stability</u></a></li>
-<li><a href="https://extra-information.techidaily.com/behind-the-brand-pewdiepies-financial-figures-unveiled-for-2024/"><u>Behind the Brand PewDiePie’s Financial Figures Unveiled for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003411247-effortless-fixes-how-to-overcome-apex-legends-load-issues-in-minutes/"><u>Effortless Fixes: How to Overcome Apex Legends Load Issues in Minutes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-windows-1110-d3d11-hardware-errors/"><u>Eliminating Windows 11/10 D3D11 Hardware Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>In 2024, Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-ultimate-selection-of-free-youtube-introduction-makers/"><u>In 2024, Ultimate Selection of Free YouTube Introduction Makers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-update-glitches-discord-patched-its-most-recent-software-issue/"><u>No More Update Glitches: Discord Patched Its Most Recent Software Issue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/resolution-imminent-intel-confirms-overvolting-as-key-culprit-of-processor-crashes-mid-august-fix-promised/"><u>Resolution Imminent: Intel Confirms Overvolting as Key Culprit of Processor Crashes, Mid-August Fix Promised</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-problems-with-persona-3-reload-game-crashes-and-not-loading/"><u>Resolving Problems with Persona 3 Reload Game Crashes and Not Loading</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-issue-missing-btballoondll-error-on-your-computer/"><u>Solving the Issue: Missing btballoon.dll Error on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-csgo-steps-to-resolve-non-launch-issues/"><u>Troubleshooting CS:GO - Steps to Resolve Non-Launch Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-cloud-consortium-choices-best-spaces-revealed/"><u>[Updated] 2024 Approved Cloud Consortium Choices Best Spaces Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-exploring-how-youtube-picks-most-engaging-comments/"><u>[Updated] Exploring How YouTube Picks Most Engaging Comments</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-poco-x6-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Poco X6 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/acquiring-animated-emojis-for-disco-without-a-subscription/"><u>Acquiring Animated Emojis for Disco Without a Subscription</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013268338-fixing-pc-boot-issues-with-hitman-3-step-by-step-solutions/"><u>Fixing PC Boot Issues with Hitman 3 - Step by Step Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-action-packed-first-person-shooter-launches-for-pc-gamers/"><u>God of War Action-Packed First-Person Shooter Launches for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kodi-cant-connect-error-secure-your-streams-now/"><u>How to Fix Kodi Can't Connect Error - Secure Your Streams Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-samsung-galaxy-a15-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-frame-rate-in-tainted-grail-conquest-a-comprehensive-guide/"><u>Improve Your Frame Rate in Tainted Grail: Conquest - A Comprehensive Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-premier-editing-software-for-vimeo-streams/"><u>In 2024, Premier Editing Software for Vimeo Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-stabilized-shots-fighting-instability/"><u>In 2024, Stabilized Shots Fighting Instability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-with-proper-gpu-implementation-in-call-of-duty-warzone-on-windows-10-systems/"><u>Maximizing Gameplay with Proper GPU Implementation in Call of Duty: Warzone on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-troubleshoot-preventing-outriders-game-crashes-easily/"><u>Quick Troubleshoot: Preventing Outriders Game Crashes Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-unable-to-connect-issues-with-your-nvidia-graphics-card/"><u>Resolved: Fixing 'Unable to Connect' Issues with Your NVIDIA Graphics Card</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-graphics-glitches-a-guide-to-enhancing-gameplay-with-steady-fps-and-smooth-visuals/"><u>Resolving Graphics Glitches: A Guide to Enhancing Gameplay with Steady FPS and Smooth Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-decoding-for-windows-and-mac-users/"><u>SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-showdown-of-corporate-and-casual-online-communities/"><u>The Ultimate Showdown of Corporate and Casual Online Communities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-specialists-exceptional-instragram-highlight-artisans-for-2024/"><u>Top Specialists Exceptional Instragram Highlight Artisans for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-a-step-by-step-guide/"><u>Troubleshooting PC Issues with Sons of the Forest: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

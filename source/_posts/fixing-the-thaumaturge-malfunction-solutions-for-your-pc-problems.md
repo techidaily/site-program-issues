@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2024-11-29T11:50:30.801Z
-updated: 2024-12-06T15:27:34.152Z
+date: 2024-12-10T19:09:52.857Z
+updated: 2024-12-12T01:57:03.079Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -54,12 +46,16 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Region & language.**
@@ -71,10 +67,14 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -89,7 +89,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Install the available updates.
@@ -122,11 +122,11 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -164,19 +164,24 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-gently-ebbing-sounds-with-logic-pros-dimming-function-for-2024/"><u>[New] Gently Ebbing Sounds with Logic Pro's Dimming Function for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-precise-approach-to-blend-gopro-videos-with-surrounding-virtual-landscapes/"><u>[New] In 2024, Precise Approach to Blend GoPro Videos with Surrounding Virtual Landscapes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-exceptional-mobile-screen-capture-with-mobizen/"><u>[Updated] 2024 Approved Comprehensive Guide to Exceptional Mobile Screen Capture with Mobizen</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-expert-guide-to-a-lasting-goodbye-deleting-tiktok-effectively/"><u>[Updated] Expert Guide to a Lasting Goodbye Deleting TikTok Effectively</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ios-video-experience-the-10-most-excellent-players/"><u>[Updated] IOS Video Experience The 10 Most Excellent Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-shooter-experience-expert-advice-for-fixing-framerate-drops-in-escape-from-tarkov/"><u>Enhance Your Shooter Experience: Expert Advice for Fixing Framerate Drops in Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-steampc-crash-issues-while-playing-sovled-necromunda-hired-gun/"><u>Fix SteamPC Crash Issues While Playing [SOVLED] Necromunda: Hired Gun</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-davinci-resolve-fails-to-launch-on-windows-systems/"><u>Fixing the Issue: Why DaVinci Resolve Fails to Launch on Windows Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-to-switching-off-speak-mode-guidance-on-samsung-series-televisions/"><u>Guide to Switching Off Speak Mode Guidance on Samsung Series Televisions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y27 4G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/learn-the-basics-of-digital-distortion/"><u>Learn the Basics of Digital Distortion</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-windows-potential-with-new-widgets/"><u>Maximize Your Window's Potential with New Widgets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-for-unresponsive-webpages-in-chrome-browser/"><u>Solution Guide for Unresponsive Webpages in Chrome Browser</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-2024-solutions-fixing-minecraft-stuttering-issues-on-your-pc/"><u>Top 2024 Solutions: Fixing Minecraft Stuttering Issues on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-total-war-three-kingdoms-crash-issue/"><u>[Solved] Total War: Three Kingdoms Crash Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-computing-select-the-optimal-device-for-video-editing/"><u>[Updated] Cutting Edge Computing Select the Optimal Device for Video Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-filmmaking-skills-for-ig-reels/"><u>2024 Approved Elevate Your Filmmaking Skills for IG Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-incognito-observer-of-online-chronicles/"><u>2024 Approved Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-crash-no-more-essential-fixes-to-enhance-your-windows-pc-experience/"><u>Cyberpunk 2077 Crash No More - Essential Fixes to Enhance Your Windows PC Experience!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-in-call-of-duty-modern-warfare-a-complete-guide/"><u>Eliminate FPS Drops in Call of Duty: Modern Warfare - A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-between-auto-gpt-and-its-cousin-chatgpt/"><u>Exploring the Differences Between Auto-GPT and Its Cousin, ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-battlenet-not-responding-error-a-comprehensive-2-growers-guide/"><u>Fixing the Battle.net Not Responding Error: A Comprehensive 2 Grower's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overwatch-has-crashed-in-the-graphics-driver-fixed/"><u>Overwatch Has Crashed in the Graphics Driver [Fixed]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gobi-fatal-error-in-back-4-blood-ue4-comprehensive-guide/"><u>Solving Gobi Fatal Error in Back 4 Blood (UE4) - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-to-overcome-rusts-graphical-anomalies/"><u>The Solution to Overcome Rust's Graphical Anomalies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-g22-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia G22 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-msi-afterburners-inability-to-recognize-gpu-under-windows-11/"><u>Troubleshooting Guide: Addressing MSI Afterburner's Inability to Recognize GPU Under Windows 11</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-do-you-wish-to-learn-about-some-tools-to-slow-down-a-video-discover-how-to-slow-down-time-lapse-on-iphone-throughout-this-article-for-2024/"><u>Updated Do You Wish to Learn About some Tools to Slow Down a Video? Discover How to Slow Down Time Lapse on iPhone Throughout This Article for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside!"
-date: 2024-08-13T13:24:18.231Z
-updated: 2024-08-14T13:24:18.231Z
+date: 2024-12-08T00:03:20.271Z
+updated: 2024-12-12T15:06:48.504Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
  But don’t worry. Whether you’re getting issues like your**Sims 3 keeps crashes on the loading screen** , or**Sims 3 crashes with the black screen** , you can try the solutions in this post to fix these issues. Check it out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to stop Sims 3 from crashing?
 
 1. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -37,9 +33,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest game patch
 
  The developers keeps releasing the game updates to fix some bugs and improve your gaming experience, so you should check the latest patch and**install the game patch** to keep your Sims 3 up to date.
@@ -60,6 +53,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a73c0d605.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Restart your router/modern, and restart your computer.
 
  4) Open your Sims 3 to see if it work properly.
@@ -68,9 +65,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated graphics card driver can cause the Sims 3 crashing, so you should make sure your graphics card driver is up to date, and update it if it’s not.
@@ -91,6 +85,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -104,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Set Sims 3 to the Windowed mode
 
  This method works for many users who have had the crashing issue. So you can change your Sims 3 to the Windowed mode to fix it. To do so, follow the steps below:
@@ -119,9 +118,9 @@ If you can access to the game settings:
  3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Save the changes.
@@ -142,6 +141,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
@@ -155,23 +158,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  2) Type**dxdiag** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa31a511b.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  3) You can see the**DirectX Version** under the**System** tab.
 
@@ -198,8 +184,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +191,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-image-enlargers-making-photographs-larger-without-losing-quality/"><u>[Updated] Best Image Enlargers Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-fast-track-to-time-lapse-magic-on-samsung-phones-for-2024/"><u>[Updated] Fast Track to Time-Lapse Magic on Samsung Phones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discover-the-best-practices-to-master-snapchats-video-timeline/"><u>[Updated] In 2024, Discover the Best Practices to Master Snapchat's Video Timeline</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights-for-2024/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-clipchamp-integration-windows-11-setup-solved/"><u>Achieve ClipChamp Integration: Windows 11 Setup Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-fortnites-stuttering-performance-issues-tips-and-fixes/"><u>Addressing Fortnite's Stuttering Performance Issues: Tips & Fixes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-camon-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Camon 20</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-fixes-for-an-alienware-command-center-that-refuses-to-work/"><u>Common Fixes for an Alienware Command Center That Refuses to Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-the-dark-initial-display-error-in-elden-ring/"><u>Diagnosing and Solving the Dark Initial Display Error in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999071895-easy-fix-battlefield-5-wont-launch-issue-2024-guide/"><u>Easy Fix Battlefield 5 Won't Launch Issue - 2024 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-racing-experience-overcoming-low-fps-challenges-in-forza-horizon-5-for-pc/"><u>Enhance Your Racing Experience: Overcoming Low FPS Challenges in Forza Horizon 5 for PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fallout-76-low-fps-2023-tips/"><u>How to Fix Fallout 76 Low FPS – 2023 Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>In 2024, Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-modern-warfares-dev-error-6034-a-detailed-guide-to-fixing-for-call-of-duty-fans/"><u>Navigating Through Modern Warfare's Dev Error 6034 - A Detailed Guide to Fixing for Call of Duty Fans</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-from-still-to-motion-10-best-online-image-video-makers/"><u>New 2024 Approved From Still to Motion 10 Best Online Image Video Makers</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-strategy-combined-coverage-of-the-wnb/"><u>Social Strategy: Combined Coverage of the WNB</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlined-audio-processing-in-windows-media-player-for-2024/"><u>Streamlined Audio Processing in Windows Media Player for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-the-black-screen-issue-in-zoom-for-desktop-users/"><u>Troubleshoot and Fix the Black Screen Issue in Zoom for Desktop Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-11-and-ghostrunner-overcoming-deadly-game-crashes-with-proven-methods/"><u>Windows 11 and Ghostrunner: Overcoming Deadly Game Crashes with Proven Methods</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing F1 2021: Solving PC Performance Issues and Frame Rate Dips"
-date: 2024-08-13T13:27:19.869Z
-updated: 2024-08-14T13:27:19.869Z
+date: 2024-12-11T14:53:25.858Z
+updated: 2024-12-11T19:17:24.089Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/0c231e30e1cde65144bf91e6e96a309bb581e79a5
 
  If a patch is available, just download and install it to see if it can fix the game lag issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
 The outdated or broken graphics driver may also lag the game.
@@ -60,6 +57,10 @@ The outdated or broken graphics driver may also lag the game.
 
 **Or**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -75,15 +76,13 @@ The outdated or broken graphics driver may also lag the game.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -93,35 +92,32 @@ The outdated or broken graphics driver may also lag the game.
 
  If the latest graphics driver didn’t fix the game lag issue, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to reduce lags in Dying Light. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Modify the graphics settings in Nvidia Control Panel
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. View Control Panel by**Large icons** .  
 ![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 3. Click**NVIDIA Control Panel** to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
 4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
 ![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Lower the in-game graphics settings
@@ -149,6 +145,10 @@ No advertising on the website.
 
 See if the game lag issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Use Steam launch options for Dying Light
 
  If your PC didn’t meet the recommended system requirements for Dying Light, and you’re suffering from the lag in-game, you can also try using Steam launch options for Dying Light. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -158,9 +158,6 @@ See if the game lag issue persists. If not, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-properties.jpg)
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Copy and paste the commands below and click**OK** .  
 `-nologos -high -useallavailablecores`  
 ![Steam set launch options 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options-1.jpg)
@@ -178,14 +175,13 @@ See if the game lag issue persists. If not, try the next fix, below.
 4. Navigate to the**Details** tab and locate**DyingLightGame.exe** .
 5. **Right-click** on**DyingLightGame.exe** and select**Set affinity** .  
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 6. **Check CPU 0** and**uncheck the rest** . (The game will freeze in the background, but don’t worry)  
-![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
 
  See if the game runs more smoothly than before. If this fix still didn’t work, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
@@ -203,8 +199,6 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +206,24 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-cross-promotional-efforts-brands-on-youtubes-stage/"><u>[Updated] 2024 Approved Cross-Promotional Efforts Brands on YouTube's Stage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-masterpiece-makers-best-apps-of-2024-photos/"><u>[Updated] Masterpiece Makers Best Apps of 2024 Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-roller-champions-multiplayer-battles-your-definitive-guide/"><u>Conquering Roller Champions Multiplayer Battles - Your Definitive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-resurrected-wont-boot-here-are-your-top-solutions/"><u>Diablo II Resurrected Won't Boot? Here Are Your Top Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-total-war-warhammer-iii-from-crashing-on-windows/"><u>Fixes and Solutions: How to Stop TOTAL WAR: WARHAMMER III From Crashing on Windows</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/harness-the-power-of-cookiebot-for-optimized-web-traffic-growth/"><u>Harness the Power of Cookiebot for Optimized Web Traffic Growth</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-game-crash-issues-black-screen-solutions-for-resident-evil-village/"><u>How to Overcome Game-Crash Issues: Black Screen Solutions for Resident Evil Village</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XS After iOS Update? | Stellar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-initialization-problems-with-age-of-empires-iv/"><u>How to Resolve Initialization Problems with Age of Empires IV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/immediate-purchase-options-for-the-latest-apple-gadgets-announced-at-wwdc-where-and-when-to-preorder-cnet/"><u>Immediate Purchase Options for the Latest Apple Gadgets Announced at WWDC - Where and When To Preorder | CNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-improvements-for-windows-10-users-crashes-solved/"><u>Microsoft Edge Stability Improvements for Windows 10 Users [Crashes Solved]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-smarts-a-tale-of-two-ais/"><u>Social Media Smarts: A Tale of Two AIs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-money-behind-the-screen-youtube-earnings-demystified-for-2024/"><u>The Money Behind the Screen YouTube Earnings Demystified for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-airpods-pro-compatible-gadgets-and-cases-techradar/"><u>Top AirPods Pro Compatible Gadgets & Cases - TechRadar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-cant-i-access-the-elden-ring-release/"><u>Troubleshooting: Why Can't I Access the Elden Ring Release?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-magic-6-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Magic 6.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-your-utorrent-experience-strategies-to-resolve-and-prevent-slow-download-speeds/"><u>Upgrade Your uTorrent Experience: Strategies to Resolve and Prevent Slow Download Speeds</u></a></li>
+</ul></div>
 

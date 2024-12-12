@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-12-04T13:48:40.478Z
-updated: 2024-12-06T10:10:51.952Z
+date: 2024-12-08T05:14:53.324Z
+updated: 2024-12-12T13:56:00.560Z
 tags:
   - win11
   - win10
@@ -17,16 +17,16 @@ thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf
 
 If you’re presented with an error message ‘_**DirectX Encountered an Unrecoverable Error**_ ‘, don’t worry. It’s quite easy to fix and the following are all the possible solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
 
@@ -36,10 +36,6 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 * **Apps that support overlay features** (you can disable Discord Overlay or GeForce Experience Overlay etc.)
 
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
 
@@ -68,6 +64,10 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -75,7 +75,7 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Once complete, restart your computer for the changes to take effect.
@@ -100,7 +100,7 @@ There are mainly two ways of updating your device drivers:
  Does the simple workaround work for you? If not, you can try the following fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Play the game in DirectX 11 mode
@@ -114,7 +114,7 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
@@ -147,18 +147,22 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[New] 2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-inshot-guide-successfully-load-tracks-into-videos/"><u>[New] InShot Guide Successfully Load Tracks Into Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-brand-reflection-personalize-free-logo-templates-to-perfection-for-2024/"><u>[Updated] Brand Reflection Personalize Free Logo Templates to Perfection for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-excellence-the-premier-6-for-zoom-cams/"><u>2024 Approved Choosing Excellence The Premier 6 for Zoom Cams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-screen-woes-no-more-successful-fix-for-common-display-issues-explained/"><u>Black Screen Woes No More: Successful Fix for Common Display Issues Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-lag-issues-and-improve-frame-rate-in-call-of-duty-warzone-expert-tips-inside/"><u>Fix Lag Issues & Improve Frame Rate in Call of Duty Warzone - Expert Tips Inside!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-successfully-turn-on-and-use-closed-captions-on-your-roku-tv-or-streamer/"><u>How To Successfully Turn On and Use Closed Captions on Your Roku TV or Streamer</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-bloodhunt-how-to-stop-it-from-freezing-or-crashing-on-windows/"><u>Overcoming Technical Hurdles in BloodHunt: How to Stop It From Freezing or Crashing on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-to-eliminating-fortnites-latency-problems/"><u>Resolved: Ultimate Guide to Eliminating Fortnite's Latency Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-gits-full-potential-with-github-desktop-on-windows/"><u>Unlocking Git's Full Potential with GitHub Desktop on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-your-mobile-content-on-youtube-starting-now/"><u>[New] 2024 Approved Harness the Power of Your Mobile Content on YouTube, Starting Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-choice-for-fb-vids-mp4-download-toolkit/"><u>[New] 2024 Approved Top Choice for FB Vids – MP4 Download Toolkit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-gtfo-fps-drops-stuttering-and-performance-issues/"><u>[SOLVED] GTFO FPS Drops, Stuttering & Performance Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-assessing-the-riches-of-mr-beast-for-2024/"><u>[Updated] Assessing the Riches of Mr. Beast for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-the-art-of-capturing-live-cricket-action/"><u>[Updated] In 2024, Mastering the Art of Capturing Live Cricket Action</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[Updated] In 2024, Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mp44/"><u>変更可能なMP4ビデオの光量設定：最適化に必要な4つの方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dyra-fotballfantasimarkeslista-for-windows-nasta-ar-basta-14-spelare-med-programvarorna-i-2024/"><u>Dyra Fotballfantasimärkeslista För Windows Nästa År: Bästa 14 Spelare Med Programvarorna I 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-initializing-hitman-3-on-windows-platforms/"><u>Fixes and Solutions for Initializing Hitman 3 on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-network-connectivity-error-in-lost-ark-game/"><u>Fixing Network Connectivity Error in Lost Ark Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/flight-simulator-x-wont-start-heres-how-you-can-fix-that-problem-on-pc/"><u>Flight Simulator X Won't Start? Here's How You Can Fix That Problem on PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-sketches-to-stakes-leading-platforms-turning-art-into-nfts/"><u>From Sketches to Stakes Leading Platforms Turning Art Into NFTs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-paradox-launcher-back-on-track-a-step-by-step-fixing-guide/"><u>Getting Your Paradox Launcher Back on Track - A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-gt-5-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme GT 5 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-when-your-hp-screen-goes-black/"><u>Solution Found: When Your HP Screen Goes Black</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-boosting-frame-rate-for-resident-evil-village-on-pc/"><u>Troubleshooting Tips: Boosting Frame Rate for Resident Evil Village on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-samurai-spirit-triumphs-pc-gaming-masterpiece-unlocked/"><u>Yakuza: Samurai Spirit Triumphs - PC Gaming Masterpiece Unlocked</u></a></li>
 </ul></div>
 

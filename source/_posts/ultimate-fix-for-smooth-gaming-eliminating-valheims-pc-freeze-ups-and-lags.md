@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fix for Smooth Gaming: Eliminating Valheim's PC Freeze-Ups and Lags"
-date: 2024-11-29T23:27:01.230Z
-updated: 2024-12-06T01:44:01.303Z
+date: 2024-12-09T21:10:28.451Z
+updated: 2024-12-12T00:38:17.700Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Stop other bandwidth-intensive activities
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues. Make sure you shut down all the other resource-hungry programs before streaming with OBS; if it’s your family members or friends who are doing bandwidth-intensive activities, just pick another time to stream or ask them politely to give way to you.
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use “flushdns” command
@@ -78,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
  1) On your taskbar, type **command** into the search box. Then right-click on the **Command Prompt** result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click **Yes** if you’re prompted about permission.
 
@@ -118,7 +126,7 @@ ipconfig /flushdns
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -157,20 +165,24 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
 
@@ -182,6 +194,10 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -190,10 +206,6 @@ wireless router
 2. **[Update graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
 
@@ -208,17 +220,9 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Update graphics card drivers
 
@@ -228,10 +232,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Shut down unnecessary programs
 
  If you have too many GPU-intensive programs running in the background, that will definitely slow down the processing speed of your computer and lead to graphics lag. It’s not hard to shut down unnecessary programs, but have you noticed a Windows 10 feature called “Game Bar” that may render poor performance in OBS? If you haven’t, it’s about time you turned it off.
@@ -240,13 +240,13 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -283,21 +283,22 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/diagnosis-and-repair-why-is-my-(span-stylecolor-0078af)halo-3(span)-game-crashing-expert-advice-for-players/"><u>[Diagnosis & Repair] Why Is My <Span Style=color: #0078AF;>Halo 3</Span> Game Crashing? Expert Advice for Players</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>2024 Approved Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-royale-gamers-unite-eradicating-warzones-pc-and-console-error-code-5573-a-comprehensive-guide/"><u>Battle Royale Gamers Unite! Eradicating Warzone’s PC & Console Error Code 5573: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-13-mini-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 13 mini screen turns black? | Stellar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-hiccups-masterful-tweaks-to-fix-fallout-4-freezing-on-windows-machine/"><u>Eliminate Game Hiccups: Masterful Tweaks to Fix Fallout 4 Freezing on Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-unstuck-from-your-screen-overcoming-minecrafts-endless-loading-issue/"><u>Get Unstuck From Your Screen: Overcoming Minecraft's Endless Loading Issue</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/871902-9781780991863-greenspirit/"><u>GreenSpirit | Free Book</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-troubles-get-your-monster-hunter-rise-game-running-again/"><u>Persistent Troubles? Get Your Monster Hunter Rise Game Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-pc-performance-hiccups-in-assassins-creed-valhalla/"><u>Resolved: Troubleshooting PC Performance Hiccups in Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sculpting-images-selecting-the-right-aspect-ratio/"><u>Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-missing-msvcr100dll-errors-on-your-pc/"><u>Step-by-Step Solutions for Correcting Missing Msvcr100.dll Errors on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-troubleshoot-and-stop-no-rest-for-the-wicked-from-crashing-on-your-pc/"><u>Steps to Troubleshoot and Stop 'No Rest for the Wicked' From Crashing on Your PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-modern-readers-pathway-to-capturing-internet-television-for-2024/"><u>The Modern Reader's Pathway to Capturing Internet Television for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-path-to-higher-rankings-a-podcast-seo-guidebook-for-2024/"><u>The Path to Higher Rankings A Podcast SEO Guidebook for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-90-gt-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor 90 GT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficiently-log-your-overwatch-battles/"><u>[New] Efficiently Log Your Overwatch Battles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-strategic-planning-making-memorable-tiktok-videos/"><u>[Updated] Strategic Planning Making Memorable TikTok Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-exploring-8-youtube-fitness-hacks-that-energize-audiences/"><u>2024 Approved Exploring 8 YouTube Fitness Hacks That Energize Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>2024 Approved How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fix-guide-preventing-gameplay-interruptions-in-house-flipper-2-for-windows-users/"><u>Easy Fix Guide: Preventing Gameplay Interruptions in 'House Flipper 2' For Windows Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/effortless-image-change-the-finest-online-transformer-tools-for-2024/"><u>Effortless Image Change The Finest Online Transformer Tools for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-setup-get-your-validity-fingerprint-sensor-driver-now/"><u>Effortless Setup: Get Your Validity Fingerprint Sensor Driver Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-frustration-to-victory-overcoming-error-6328-woes-in-call-of-duty-warzone-insider-tips-and-tricks/"><u>From Frustration to Victory: Overcoming Error 6328 Woes in Call of Duty Warzone - Insider Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-achieve-seamless-play-with-high-fps-and-no-stuttering-in-naraka-bladepoint/"><u>How To Achieve Seamless Play with High FPS and No Stuttering in Naraka: Bladepoint</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-free-android-recording-apps-no-ads/"><u>In 2024, Premier Free Android Recording Apps (No Ads)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nintendo-switch-prime-capture-experience-for-2024/"><u>Nintendo Switch Prime Capture Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204640851-solution-found-overcome-the-configuring-windows-hangaroo-scenario-easily/"><u>Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spotify-not-working-on-your-browser-resolve-playback-speed-issues/"><u>Spotify Not Working on Your Browser? Resolve Playback Speed Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-resolving-baldurs-gate-3-crashes-on-desktop-pcs/"><u>Trouble-Free Gaming: Resolving Baldur's Gate 3 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-serious-sam-4-fixes-for-pc-performance-issues/"><u>Troubleshooting Serious Sam 4: Fixes for PC Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-optimizing-cs-2-performance-overcoming-lags-and-high-pings/"><u>Troubleshooting Steps for Optimizing CS 2 Performance: Overcoming Lags and High Pings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-baldurs-gate-3-continuous-pc-shutdowns-easy-steps-inside/"><u>Ultimate Fix for Baldur's Gate 3 Continuous PC Shutdowns – Easy Steps Inside</u></a></li>
 </ul></div>
 

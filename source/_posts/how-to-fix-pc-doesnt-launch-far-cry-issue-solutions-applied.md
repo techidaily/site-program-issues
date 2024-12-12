@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'PC Doesn't Launch Far Cry 지도' Issue - Solutions Applied!
-date: 2024-12-04T10:31:35.634Z
-updated: 2024-12-05T16:57:36.780Z
+date: 2024-12-09T04:09:08.240Z
+updated: 2024-12-12T00:29:06.121Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 If you’re stuck in the endless Everspace 2 crashing and looking for some tried-and-true methods, you’ve come to the right place. In this post, we’ll walk you through 4 easy and quick fixes for the issue and help you get back to the game right away!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -47,11 +47,11 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
@@ -62,14 +62,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -97,6 +93,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
@@ -104,6 +104,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  How does your game work now? If it crashes again, head to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Set launch options
 
@@ -119,10 +123,6 @@ Here are the steps:
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -148,22 +148,21 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram-for-2024/"><u>A Comprehensive List of Frames to Upgrade Your Photos on Instagram for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-and-minimize-latency-a-complete-guide-to-optimizing-fps-in-fall-guys/"><u>Boost Your Frame Rate & Minimize Latency: A Complete Guide to Optimizing FPS in Fall Guys</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-remplacer-le-disque-dur-de-votre-ordinateur-lenovo-tout-en-un-une-aide-concise-et-pratique/"><u>Comment Remplacer Le Disque Dur De Votre Ordinateur Lenovo Tout-en-Un : Une Aide Concise Et Pratique</u></a></li>
-<li><a href="https://fox-links.techidaily.com/compilation-of-top-mobile-photo-and-film-editors/"><u>Compilation of Top Mobile Photo & Film Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-windows-11-taskbar-functionality/"><u>Diagnosing and Restoring Your Windows 11 Taskbar Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-recurrent-issues-with-the-ark-software-crashing-down/"><u>Effective Solutions for Recurrent Issues with the ARK Software Crashing Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-for-successfully-starting-saints-row-pc-version-without-errors/"><u>Essential Tips for Successfully Starting Saints Row PC Version Without Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-lag-for-call-of-duty-modern-warfare-on-your-computer/"><u>How to Resolve Game Lag for Call of Duty: Modern Warfare on Your Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-does-stardew-valley-keep-freezing-on-your-computer/"><u>Resolving the Issue: Why Does Stardew Valley Keep Freezing on Your Computer?</u></a></li>
-<li><a href="https://win-guides.techidaily.com/1728483586909-samsung/"><u>Samsungデータ移行後、コピー生成で困難を経験する方へ</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-content-warning-app-malfunction-troubleshooting-steps-for-pc-users/"><u>Solving 'Content Warning' App Malfunction: Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/oadmap-to-captivating-shorts-visuals-custom-thumbnail-essentials-for-2024/"><u>The Roadmap to Captivating Shorts Visuals Custom Thumbnail Essentials for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-obs-software-errors-on-windows-1110/"><u>Troubleshooting and Solving OBS Software Errors on WIndows 11/10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-troubleshooting-and-smoothening-lag-in-4k-videos-on-vlc-player/"><u>Ultimate Guide: Troubleshooting and Smoothening Lag in 4K Videos on VLC Player</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unleashing-your-social-media-potential-pining-on-snapchat/"><u>Unleashing Your Social Media Potential Pining on Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-navigating-lunapic-like-an-ace-photographer/"><u>[New] 2024 Approved Navigating LunaPic Like an Ace Photographer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-much-will-it-cost-to-shoot-a-music-video/"><u>2024 Approved How Much Will It Cost To Shoot A Music Video?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-digital-reading-devices-face-off-comparing-ipads-kindles-and-nooks/"><u>Best Digital Reading Devices Face-Off: Comparing iPads, Kindles & Nooks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-exceed-chatgpts-maximum-text-length-strategies-unveiled/"><u>Can You Exceed ChatGPT's Maximum Text Length? Strategies Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-construir-presentaciones-visuales-impactantes-con-musica-e-inclusiones-en-pc-y-computadoras-apple/"><u>Cómo Construir Presentaciones Visuales Impactantes Con Música E Inclusiones en PC Y Computadoras Apple</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-launching-problems-strategies-to-get-past-the-unresponsive-screen-dilemma/"><u>Football Manager 2021 Launching Problems: Strategies to Get Past the Unresponsive Screen Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-connectivity-fixes-end-the-game-downtime-now/"><u>Hitman 3 Connectivity Fixes – End the Game Downtime Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-x5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco X5? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-a-step-by-step-approach-for-flawless-instagrams/"><u>In 2024, A Step-by-Step Approach for Flawless Instagrams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>In 2024, The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001607445-madden-nfl-22-malfunctions-heres-how-you-can-fix-it-asap/"><u>Madden NFL '22 Malfunctions? Here's How You Can Fix It ASAP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-stuttering-in-outriders-expert-advice-to-enhance-your-pc-gameplay/"><u>Overcome Stuttering in Outriders: Expert Advice to Enhance Your PC Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-oxygen-not-included-game-freezing-expert-advice-for-smooth-play/"><u>Overcoming 'Oxygen Not Included' Game Freezing: Expert Advice for Smooth Play</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-13-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 13 WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-ntdlldll-malfunctions-and-errors-in-windows-11-and-10-systems/"><u>Troubleshooting ntdll.dll Malfunctions and Errors in Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-persistent-among-us-malfunctions-in-2/"><u>Ultimate Troubleshooting Tips for Persistent Among Us Malfunctions in 2지급</u></a></li>
 </ul></div>
 

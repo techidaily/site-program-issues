@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-12-03T10:00:06.727Z
-updated: 2024-12-05T21:37:33.011Z
+date: 2024-12-10T18:28:11.104Z
+updated: 2024-12-12T10:47:05.473Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -45,14 +49,22 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -63,7 +75,7 @@ If the issue persists, read on and try the next fix.
 If the issue remains, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -79,16 +91,8 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -111,7 +115,7 @@ If the issue remains, move on to the next fix.
 5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
@@ -128,15 +132,15 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -148,10 +152,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -184,24 +184,16 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-lightning-loop-transferring-youtube-playlists-fast/"><u>[New] 2024 Approved Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-shoot-igtv-videos-with-smartphonedlsr-cameras-in-2024/"><u>[New] How to Shoot IGTV Videos With Smartphone/DLSR Cameras, In 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-high-end-picture-sources-at-zero-cost/"><u>[New] In 2024, Unveiling High-End Picture Sources at Zero Cost</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-master-fast-photoshop-edits-on-windows-11-for-2024/"><u>[New] Master Fast Photoshop Edits on Windows 11 for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/causes-and-fixes-high-ping-lags-and-dips-in-fps-during-call-of-duty-black-ops-4/"><u>Causes & Fixes: High Ping, Lags & Dips in FPS During Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-when-your-windows-update-gets-stuck-at-zero/"><u>Effective Remedies for When Your Windows Update Gets Stuck at Zero</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-for-overcoming-graphics-library-malfunctions/"><u>Effective Techniques for Overcoming Graphics Library Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-pc-hiccups-comprehensive-troubleshooting-steps-for-a-smooth-experience-with-modern-warfare-ii/"><u>Eliminating PC Hiccups: Comprehensive Troubleshooting Steps for a Smooth Experience with Modern Warfare II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-update-how-to-stop-psychonauts-2-from-crashing-on-windows/"><u>Fixes Update: How to Stop Psychonauts 2 From Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-new-world-low-fps-and-stuttering/"><u>How To Fix New World Low FPS And Stuttering</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-90-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 90 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-how-to-download-youtube-srt-subtitles-with-3-actionable-ways/"><u>In 2024, How to Download YouTube SRT Subtitles with 3 Actionable Ways?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-zoom-performance-fixes-for-crashes-on-windows-11-and-windows-10-latest-update/"><u>Mastering Zoom Performance: Fixes for Crashes on Windows 11 and Windows 10 (Latest Update)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-22-pc-game-freezing-issues/"><u>Resolved: Fixes for FIFA 22 PC Game Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-steps-correcting-discords-js-errors-effortlessly/"><u>Simple Steps: Correcting Discord's JS Errors Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004702641-why-isnt-diablo-iii-playing-find-out-how-to-fix-it/"><u>Why Isn't Diablo III Playing? Find Out How to Fix It!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-step-by-step-methodology-assembling-youtube-playlists/"><u>[New] 2024 Approved Step-by-Step Methodology Assembling YouTube Playlists</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-reinforcing-silence-in-obs-recordings/"><u>[New] In 2024, Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transform-your-snapshots-with-vsco-essentials/"><u>[New] In 2024, Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://program-issues.techidaily.com/brighten-up-your-gameplay-expert-solutions-to-the-2ndraftblocked-screen-problem-minecraft/"><u>Brighten Up Your Gameplay: Expert Solutions to the 2nDraftblocked Screen Problem (Minecraft)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-repair-how-to-restore-your-phasmophobia-vr-gameplay/"><u>DIY Repair: How to Restore Your Phasmophobia VR Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-7-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 7 Plus without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-c65-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco C65 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-stop-gears-of-war-4-from-crashing-on-pc/"><u>Ultimate Fixes to Stop Gears of War 4 From Crashing on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-elusive-code-43-error-in-windows-systems/"><u>Ultimate Guide: Resolving the Elusive Code 43 Error in Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-zoom-problems-tech-failures-or-personal-perceptions/"><u>Understanding Zoom Problems: Tech Failures or Personal Perceptions?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-over-windows-11-crashes-solutions-for-a-smooth-fallout-3-experience/"><u>Winning Over Windows 11 Crashes - Solutions for a Smooth Fallout 3 Experience</u></a></li>
 </ul></div>
 

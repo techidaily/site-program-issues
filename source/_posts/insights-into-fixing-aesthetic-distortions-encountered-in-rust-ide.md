@@ -1,7 +1,7 @@
 ---
 title: Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE
-date: 2024-11-16T05:08:12.503Z
-updated: 2024-11-16T20:00:44.161Z
+date: 2024-12-09T10:06:56.019Z
+updated: 2024-12-12T09:33:05.342Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down until you find the one that does the trick!
@@ -32,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for hardware issues
@@ -48,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 * **Test your keyboard with another PC** if possible. If your keyboard still won’t work, then it’s likely defective and may need a repair.
 
 If you didn’t find any hardware issues, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Make sure no other devices are interfering
 
@@ -70,13 +75,6 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
@@ -84,16 +82,7 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
@@ -117,10 +106,7 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -147,24 +133,24 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ake-following-fiasco-avoiding-illusory-supporters-in-social-media-space-for-2024/"><u>[New] Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-streamlined-method-to-alter-iphone-resolution/"><u>[New] In 2024, Streamlined Method to Alter iPhone Resolution</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-go-digital-capturing-lifes-motion-with-ios-device/"><u>[Updated] 2024 Approved Go Digital Capturing Life's Motion with iOS Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-telegram-web-potentials-a-practical-guide/"><u>[Updated] Unlocking Telegram Web Potentials A Practical Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unraveling-the-efficiency-of-lg-ud88-w-display-technology/"><u>[Updated] Unraveling the Efficiency of LG UD88-W Display Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/aromatic-hydrocarbons-have-a-conjugated-pi-electron-system-that-confers-stability-through-resonance-energy/"><u>Aromatic Hydrocarbons Have a Conjugated Pi Electron System that Confers Stability Through Resonance Energy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-obs-studio-issues-how-to-prevent-crashes-on-windows-11-and-10/"><u>Fixes for OBS Studio Issues: How to Prevent Crashes on Windows 11 & 10</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015844298-how-to-fix-audio-delay-2024-guide/"><u>How to Fix Audio Delay - 2024 Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hand-in-the-wind-understanding-its-types/"><u>In 2024, Hand-In-The-Wind Understanding Its Types</u></a></li>
-<li><a href="https://program-issues.techidaily.com/installing-and-configuring-hyper-v-environment-on-windows-10-best-practices/"><u>Installing and Configuring Hyper-V Environment on Windows 10: Best Practices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/interactive-learning-landscapes-with-vr-for-2024/"><u>Interactive Learning Landscapes with VR for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-8-plus-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 8 Plus You Should Try Out</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-six-biggest-blunders-with-chatgpt-prompts-and-how-to-fix-them/"><u>The Six Biggest Blunders with ChatGPT Prompts & How to Fix Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-last-epoch-launch-failures-effective-strategies-and-fixes-for-players-using-pcs/"><u>Troubleshoot 'Last Epoch' Launch Failures: Effective Strategies & Fixes for Players Using PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004940462-troubleshooting-tips-for-when-madden-22-wont-start-easy-fixes-inside/"><u>Troubleshooting Tips for When Madden 22 Won't Start: Easy Fixes Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-audio-issues-during-discord-screen-sharing/"><u>Troubleshooting: Fixing Audio Issues During Discord Screen Sharing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-stop-arma-3-from-freezing-expert-tips-and-tricks/"><u>Ultimate Guide to Stop Arma 3 From Freezing - Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-resolving-battlefield-5-not-starting-problem/"><u>Ultimate Solution: Resolving 'Battlefield 5 Not Starting' Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-roblox-wont-start-issues/"><u>Ultimate Troubleshooting Guide: Resolving 'Roblox Won't Start' Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exploring-zero-price-picture-frame-media-for-2024/"><u>[New] Exploring Zero-Price Picture Frame Media for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-free-fb-hd-videos-step-by-step/"><u>[New] Free FB HD Videos Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-digital-makeup-on-video-platforms/"><u>[New] The Art of Digital Makeup on Video Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-quintessential-list-of-top-15-masterpieces-in-stop-motion-for-2024/"><u>[New] The Quintessential List of Top 15 Masterpieces in Stop Motion for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-framefinder-focus-top-recording-software-of-2023-for-2024/"><u>[Updated] FrameFinder Focus Top Recording Software of 2023 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-4-pc-crash-issues-resolved-troubleshooting-guide/"><u>Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-overcoming-insufficient-memory-challenges-for-uninterrupted-gameplay/"><u>God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-se-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone SE & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-cyberpunk-2077-an-ambitious-but-undeveloped-saga/"><u>In-Depth Look at Cyberpunk 2077: An Ambitious but Undeveloped Saga</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-level-techniques-for-attaching-srt-to-mp4-clips-for-2024/"><u>Master Level Techniques for Attaching SRT to MP4 Clips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-the-stuck-screen-successful-launch-of-rainbow-six-siege-explained/"><u>Overcome the Stuck Screen: Successful Launch of Rainbow Six Siege Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalize-gpts-dialogue-power/"><u>Personalize GPT's Dialogue Power</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rejuvenate-right-click-menus-with-effective-fixes/"><u>Rejuvenate Right-Click Menus with Effective Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-nier-automata-freezing-issues/"><u>Resolved: How to Fix NieR: Automata Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-mlb-the-show-21-connectivity-problems/"><u>Resolved: MLB The Show 21 Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-glitches-the-ultimate-guide-to-overcoming-apex-legends-error-23/"><u>Solving Game Glitches: The Ultimate Guide to Overcoming Apex Legends Error 23</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-operating-driver-easys-mobile-app/"><u>Step-by-Step Guide: Operating Driver Easy's Mobile App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/streamline-survival-proven-fixes-to-achieve-optimal-fps-in-ark-vikings-ascendant-pc-edition/"><u>Streamline Survival: Proven Fixes to Achieve Optimal FPS in ARK: Vikings Ascendant - PC Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-fortnite-freezing-issues-in-windows-10/"><u>Ultimate Guide: Solve Your Fortnite-Freezing Issues in Windows 10</u></a></li>
 </ul></div>
 

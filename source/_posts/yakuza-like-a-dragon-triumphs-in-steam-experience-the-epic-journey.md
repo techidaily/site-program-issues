@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-12-03T22:15:35.827Z
-updated: 2024-12-06T15:09:24.133Z
+date: 2024-12-09T21:45:31.864Z
+updated: 2024-12-11T20:19:18.536Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-dev-error-6328.jpg)
 
  Lately, players complained that Call of Duty Warzone became unplayable with the dev error 6328\. If you happen to be on the same boat, don’t worry. While the Warzone crashes with a fatal error have been commonplace especially after the update, there is something you can do to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,6 +46,10 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
@@ -59,12 +67,12 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -80,12 +88,12 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -97,32 +105,28 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -142,14 +146,10 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -176,14 +176,22 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[New] Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-avoid-the-backtrack-blunder-with-these-tips/"><u>[Updated] 2024 Approved Avoid the Backtrack Blunder with These Tips</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/convertir-imagenes-tiff-y-jpg-sin-costo-guia-simple/"><u>Convertir Imágenes TIFF Y JPG Sin Costo: Guía Simple</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-mismatched-audio-on-youtube-videos-in-browsers-like-chrome-and-firefox/"><u>Fixing Mismatched Audio on YouTube Videos in Browsers Like Chrome & Firefox</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-novices-compendium-understanding-pixel-perfection/"><u>In 2024, Novice's Compendium Understanding Pixel Perfection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-steams-cloud-error-tips-for-successful-synchronization/"><u>Overcoming Steam's Cloud Error: Tips for Successful Synchronization</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reliable-pet-nutrition-with-the-smart-easy-to-use-petsafe-automatic-feeder/"><u>Reliable Pet Nutrition with the Smart, Easy-to-Use PetSafe Automatic Feeder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007714139-skip-the-struggle-speed-up-shader-optimization-for-a-better-run-of-battlefront-ii/"><u>Skip the Struggle: Speed Up Shader Optimization for a Better Run of Battlefront II!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000981836-step-by-step-fixes-for-warzones-notorious-dev-error-5573-pc-edition-and-console-tips-included/"><u>Step-by-Step Fixes for Warzone's Notorious Dev Error #5573: PC Edition & Console Tips Included!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-green-screen-filming-essential-techniques/"><u>[New] 2024 Approved Mastering Green Screen Filming Essential Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fast-forward-features-unveiled-the-editors-guidebook-for-2024/"><u>[New] Fast-Forward Features Unveiled The Editor's Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uncomplicated-blueprint-for-crafting-successful-ads-online/"><u>[New] Uncomplicated Blueprint for Crafting Successful Ads Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-intros-with-imovie-techniques/"><u>[Updated] Mastering YouTube Intros with iMovie Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-superior-introductory-editors-for-mobile-apps-for-2024/"><u>[Updated] Superior Introductory Editors for Mobile Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-top-7-must-have-metaverse-devices-you-need-to-prepare/"><u>[Updated] Top 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-the-problem-solving-stability-issues-in-wolcen-gameplay-on-pc/"><u>Diagnosing the Problem: Solving Stability Issues in Wolcen Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-remedies-to-resolve-world-of-warcraft-instability-issues/"><u>Effortless Remedies to Resolve World of Warcraft Instability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-steps-to-resolve-amd-radeon-program-failure-on-startup/"><u>Essential Steps to Resolve AMD Radeon Program Failure on Startup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-securing-skype-audio-with-obs-recording-techniques/"><u>In 2024, Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-srt-conversion-made-simple-xml-ssa-ttml-and-more/"><u>In 2024, SRT Conversion Made Simple XML, SSA, TTML, and More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-crashing-problems-in-nba-k23-for-pc-learn-our-best-solutions/"><u>Overcome Crashing Problems in NBA ^K23 for PC – Learn Our Best Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-stability-boosters-how-to-prevent-crashes/"><u>PC Game Stability Boosters: How to Prevent Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/selecting-a-suitable-surge-protector-to-safeguard-your-gadgets/"><u>Selecting a Suitable Surge Protector to Safeguard Your Gadgets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-end-of-frustrating-input-delay-in-cyberpunk-2077-solutions-applied/"><u>The End of Frustrating Input Delay in Cyberpunk 2077 - Solutions Applied</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-paladins-game-crashes-expert-advice/"><u>Ultimate Guide: Solving Paladins Game Crashes - Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-issue-of-witcher-3-not-starting/"><u>Ultimate Guide: Solving the Issue of Witcher 3 Not Starting</u></a></li>
 </ul></div>
 

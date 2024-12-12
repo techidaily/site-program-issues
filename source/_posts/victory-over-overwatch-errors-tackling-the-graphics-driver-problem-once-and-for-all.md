@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2024-12-01T20:56:20.874Z
-updated: 2024-12-06T10:42:54.237Z
+date: 2024-12-08T05:31:24.478Z
+updated: 2024-12-11T18:33:04.083Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -65,15 +69,11 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
@@ -84,8 +84,16 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -107,7 +115,7 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -120,16 +128,8 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -138,11 +138,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -204,24 +204,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clip-weaver-workshop-for-2024/"><u>[New] Clip Weaver Workshop for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-snapshot-techniques-maximizing-zoomed-photo-and-video-experience/"><u>[Updated] Pro-Level Snapshot Techniques Maximizing Zoomed Photo and Video Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audfreetechunveiled-detailed-look-at-the-new-audio-tool-for-2024/"><u>AudFreeTechUnveiled Detailed Look at the New Audio Tool for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-fifa-20-dilemma-a-step-by-step-guide-to-fixing-directx-errors/"><u>Bypassing the FIFA #20 Dilemma: A Step-by-Step Guide to Fixing DirectX Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-heart-of-iron-4-crash-errors-a-comprehensive-solution-breakdown/"><u>Fixing Heart of Iron 4 Crash Errors: A Comprehensive Solution Breakdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-optimal-watchlists/"><u>Harnessing ChatGPT for Optimal Watchlists</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-zte-blade-a73-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast ZTE Blade A73 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997938550-how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won't Open - 2024 Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-itel-a60-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigabyte-totals-for-extended-video-playback/"><u>In 2024, Gigabyte Totals for Extended Video Playback</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>In 2024, Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-upcoming-release-dates-revealed/"><u>Is GPT-5 on the Horizon? Upcoming Release Dates Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-ultimate-guide-to-getting-your-hp-display-working-again/"><u>Mastering the Fix: Ultimate Guide to Getting Your HP Display Working Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-through-the-ocean-eleven-sea-nier-worlds-crash-fixes-revealed/"><u>Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-on-your-pc-with-windows-11-or-10/"><u>Troubleshooting Dolby Atmos Playback Problems on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-hiccups-in-the-mass-effect-legendary-edition-for-xbox-series-xs/"><u>Troubleshooting Fixed Hiccups in the Mass Effect Legendary Edition for Xbox Series X|S</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-roblox-wont-open-errors-tips-for-2n2/"><u>Troubleshooting Steps to Fix 'Roblox Won't Open' Errors (Tips for 2N2)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-fabulous-20-adobe-premiere-intro-templates/"><u>Updated 2024 Approved Free and Fabulous 20 Adobe Premiere Intro Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-android-apps-for-playing-old-school-ps2-titles-for-2024/"><u>[New] Essential Android Apps for Playing Old-School PS2 Titles for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>[Updated] In 2024, A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/breathe-new-life-into-windows-11s-diagnostic-features/"><u>Breathe New Life Into Windows 11'S Diagnostic Features</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-et-pourquoi-telecharger-vos-courriels-en-un-clic-guide-fait-main/"><u>Comment Et Pourquoi Télécharger Vos Courriels en Un Clic - Guide Fait Main</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-steps-to-fix-your-wow-game-crashes-in-minutes/"><u>Effortless Steps to Fix Your WoW Game Crashes in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010393294-how-to-stop-forza-horizon-4-from-crashing-on-a-windows-pc-expert-tips-and-tricks/"><u>How to Stop Forza Horizon 4 From Crashing on a Windows PC - Expert Tips & Tricks!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-maximizing-engagement-with-instagrams-ask-emoji/"><u>In 2024, Maximizing Engagement with Instagram's Ask Emoji</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-space-avoid-among-us-crashes-with-proven-strategies-for-gaming-smoothness/"><u>Master the Space: Avoid Among Us Crashes with Proven Strategies for Gaming Smoothness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/payday-2-wont-open-on-pc-discover-effective-fixes-and-workarounds/"><u>Payday 2 Won't Open on PC? Discover Effective Fixes and Workarounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-achieved-tackling-stutter-with-advanced-fps-techniques/"><u>Smooth Gaming Experience Achieved: Tackling Stutter with Advanced FPS Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-accessing-new-plugin-capabilities-in-chatgpts-beta-version/"><u>Step-by-Step Instructions for Accessing New Plugin Capabilities in ChatGPT's Beta Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-firefox-from-hanging-in-seconds-expert-solutions-and-troubleshooting-tips/"><u>Stop Firefox From Hanging in Seconds! Expert Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-sony-xperia-5-v-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Sony Xperia 5 V Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/syncing-two-mac-folders-without-spending-a-penny-a-step-by-step-guide/"><u>Syncing Two Mac Folders Without Spending a Penny: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-game-stutter-and-ping-problems-in-bless-unleashed-pc/"><u>Troubleshooting Steps for Resolving Game Stutter and Ping Problems in Bless Unleashed (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-issues-with-recurring-discord-app-crashes/"><u>Ultimate Guide: Resolving Issues with Recurring Discord App Crashes</u></a></li>
 </ul></div>
 

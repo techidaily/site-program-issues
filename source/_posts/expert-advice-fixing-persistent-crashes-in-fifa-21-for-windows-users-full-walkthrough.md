@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing Persistent Crashes in FIFA 21 for Windows Users - Full Walkthrough"
-date: 2024-08-13T13:25:17.137Z
-updated: 2024-08-14T13:25:17.137Z
+date: 2024-12-08T18:48:12.486Z
+updated: 2024-12-12T07:08:55.495Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest game patch
 
  The developers of Rage 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it.
@@ -41,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -78,6 +79,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Turn off VSync settings
 
  Many players have reported that this issue was resolved after they completely turned off VSync settings when playing Rage 2\. It seems as if the VSync settings is a probable cause of the game crashing issue. You can follow the steps below to completely turn off VSync completely:
@@ -85,9 +90,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) Open Rage 2 and go to its video settings. Then**turn off** **the VSYNC MODE** .
 
 ![fix Rage 2 crash](https://images.drivereasy.com/wp-content/uploads/2019/06/image-2.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
 2) Save the changes and exit the game.
 
@@ -99,9 +101,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Windows Compatibility Troubleshooter
 
 **Program Compatibility Troubleshooter** is a built-in tool in Windows OS that can check whether programs are compatible for your current Windows OS or not. The game crash issues often occur when some program settings are not compatible with the current Windows OS.
@@ -114,20 +113,22 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Navigate to**the Compatibility tab** and click**Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-4.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click **Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
@@ -137,8 +138,9 @@ _You can do it for free if you like, but it’s partly manual._
 * **Run this program as an administrator:**  If Rage 2 is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-6.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 See if this fix works. If not, try the next fix, below.
@@ -167,8 +169,6 @@ See if this fix works. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +176,18 @@ See if this fix works. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-frolics-in-film-an-analytical-review-on-vhs/"><u>[New] 2024 Approved 'Frolics in Film' An Analytical Review on VHS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>[Updated] Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-detect-and-eradicate-keygen-malware-on-pcs/"><u>How to Detect and Eradicate Keygen Malware on PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-a60-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel A60 to Protect Your Individual Information</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011773844-master-the-fixes-eliminating-steamvr-error-code-groggy-and-irritable-you-can-try-a-combination-of-these-strategies/"><u>Master the Fixes: Eliminating SteamVR Error Code Groggy and Irritable, You Can Try a Combination of These Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-next-years-cyber-landscape-predictions-and-tips/"><u>Navigating Next Year's Cyber Landscape: Predictions and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-the-2024-amendment-in-civ-law-a-guide-to-fixing-exception-handling-and-access-violations/"><u>Navigating the 2024 Amendment in CIV Law - A Guide to Fixing Exception Handling and Access Violations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-how-to-optimize-your-pc-for-madden-nfl-2nv-20/"><u>No More Crashes: How To Optimize Your PC For Madden NFL 2Nv 20</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-approach-to-achieving-smoother-frames-in-ring-of-elysium/"><u>Step-by-Step Approach to Achieving Smoother Frames in Ring of Elysium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-how-to-fix-constant-crashes-in-wwe-2k22-on-windows/"><u>Troubleshooting Steps: How to Fix Constant Crashes in WWE 2K22 on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultra-fast-dvd-ripping-authorized-platinum-edition-winx-ripper-convert-dvds-to-hd-quality-mp4-in-half-an-hour/"><u>Ultra-Fast DVD Ripping: [AUTHORIZED] Platinum Edition WinX Ripper - Convert DVDs to HD Quality MP4 in Half an Hour</u></a></li>
+</ul></div>
 

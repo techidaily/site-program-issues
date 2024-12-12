@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-12-04T00:09:16.066Z
-updated: 2024-12-06T15:35:04.055Z
+date: 2024-12-08T08:04:23.660Z
+updated: 2024-12-11T16:04:41.465Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -75,7 +75,7 @@ You can do it with only 2 steps:
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -89,11 +89,15 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -112,8 +116,16 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -137,27 +149,15 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -180,18 +180,21 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>[New] 2024 Approved Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[New] In 2024, Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-viral-video-tags-tips-for-popular-youtube-shorts/"><u>[New] Top Viral Video Tags Tips for Popular YouTube Shorts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eight-effective-solutions-to-prevent-multiversus-game-from-crashing/"><u>Eight Effective Solutions to Prevent Multiversus Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-session-overcoming-stutter-in-assassins-creed-valhalla-for-pc-players/"><u>Enhance Your Gaming Session: Overcoming Stutter in Assassins Creed Valhalla for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-amazon-prime-video-playback-problems/"><u>How to Resolve Amazon Prime Video Playback Problems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 12 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-initializing-resident-evil-5-on-personal-computers/"><u>Overcoming the Hurdle of Initializing Resident Evil 5 on Personal Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y02t-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y02T</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tricks-for-a-seamless-experience-cutting-down-lags-and-raising-frame-rates-in-fall-guys/"><u>Tricks for a Seamless Experience: Cutting Down Lags & Raising Frame Rates in Fall Guys</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-league-of-legends-not-launching-issue/"><u>Ultimate Guide: Resolving the 'League of Legends Not Launching' Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-does-dread-hunger-keeps-freezing-on-your-pc-solve-the-issue-now/"><u>Why Does Dread Hunger Keeps Freezing on Your PC? - Solve the Issue Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>[New] Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-methods-for-downloading-multiple-tiktok-videos/"><u>[Updated] Proven Methods for Downloading Multiple TikTok Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-20-must-try-youtube-tricks-to-boost-views/"><u>[Updated] Unveiling 20 Must-Try YouTube Tricks to Boost Views</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-xsplit-archive-expert-analysis-and-downloads/"><u>2024 Approved XSplit Archive Expert Analysis & Downloads</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/aomei-securdata-pro-advanced-protection-and-recovery-solutions-at-no-cost/"><u>AOMEI SecurData Pro - Advanced Protection & Recovery Solutions at No Cost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-steps-to-address-minecraft-launch-problems/"><u>Comprehensive Steps to Address Minecraft Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-no-more-top-strategies-to-fix-among-us-glitches/"><u>Crash No More: Top Strategies To Fix 'Among Us' Glitches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-9-complimentary-languages-online-platforms/"><u>Discover the Ultimate Selection of 9 Complimentary Languages Online Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-assassins-creed-valhalla-from-continuously-freezing-or-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop Assassin's Creed Valhalla From Continuously Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-failed-pc-installation-problems-fixed/"><u>How to Fix 'Days Gone' Failed PC Installation Problems (FIXED)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/installing-and-updating-your-logitech-g602-mini-gamepad-driver-on-windows-pcs-a-comprehensive-guide/"><u>Installing & Updating Your Logitech G602 Mini Gamepad Driver on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-tutorial-overcoming-super-persona-disruptions-for-smooth-playthroughs/"><u>PC Gamers' Tutorial: Overcoming Super Persona Disruptions for Smooth Playthroughs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-vanguard-initiation-errors-for-a-smooth-gameplay-experience-in-valorant/"><u>Resolving Vanguard Initiation Errors for a Smooth Gameplay Experience in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-street-fighter-6-from-crashing-the-top-6-tips-to-optimize-your-pc/"><u>Stop Street Fighter 6 From Crashing: The Top 6 Tips to Optimize Your PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-social-spectacle-10-tweets-to-watch/"><u>The Social Spectacle 10 Tweets To Watch</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/website-free-affiliate-marketing-success-with-massmail-software-solutions/"><u>Website-Free Affiliate Marketing Success with MassMail Software Solutions</u></a></li>
 </ul></div>
 

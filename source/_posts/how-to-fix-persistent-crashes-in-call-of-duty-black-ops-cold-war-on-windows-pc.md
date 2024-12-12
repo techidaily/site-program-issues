@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-11-14T04:00:04.250Z
-updated: 2024-11-17T03:37:58.536Z
+date: 2024-12-05T06:35:01.829Z
+updated: 2024-12-12T11:37:14.604Z
 tags:
   - win11
   - win10
@@ -38,10 +38,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
@@ -52,6 +49,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Enter** keys on your keyboard at the same time to switch back to the full screen view.
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -85,26 +86,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -119,16 +108,7 @@ OR
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
@@ -154,20 +134,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instigate-inspiration-top-20-ideas-for-ig-masterpieces/"><u>[New] Instigate Inspiration Top 20 Ideas for IG Masterpieces</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2022s-golden-age-for-ice-dancing-showcases-for-2024/"><u>2022'S Golden Age for Ice Dancing Showcases for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-gratuite-dun-fichier-ogg-en-m4a-un-guide-simple-avec-movavi-online/"><u>Conversion Gratuite D'un Fichier OGG en M4A : Un Guide Simple Avec Movavi Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-blackout-blues-ended-key-steps-for-a-smooth-gameplay-experience/"><u>Cyberpunk 2077 Blackout Blues Ended - Key Steps for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragon-quest-xis-endgame-bug-fix-a-step-by-step-solution-to-prevent-game-crashes/"><u>Dragon Quest XI's Endgame Bug Fix - A Step-by-Step Solution to Prevent Game Crashes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-twelve-souths-compact-and-secure-compass-pro/"><u>Expert Analysis of Twelve South's Compact and Secure Compass Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-connection-errors-successfully/"><u>How to Overcome League of Legends Internet Connection Errors Successfully</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-content-creation-ai-software-at-your-fingertips/"><u>Maximize Content Creation: AI Software at Your Fingertips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-prevent-total-war-saga-troy-from-crashing/"><u>Optimizing Your PC to Prevent Total War Saga: Troy From Crashing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-s24plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy S24+ Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-minecraft-crashes-in-6-easy-steps-a-step-by-step-troubleshooting-guide/"><u>Stop Minecraft Crashes in 6 Easy Steps: A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-multiple-versus-from-crashing-discover-the-8-most-effective-solutions/"><u>Stop Multiple Versus From Crashing! Discover the 8 Most Effective Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-future-on-day-2-of-ces-2023-top-innovations-and-breakthroughs-insights-from-zdnet/"><u>Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights From ZDNet</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-free-wmv-video-editing-software/"><u>Updated The Ultimate Guide to Free WMV Video Editing Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-a-guide-to-designing-spectacular-photo-tileworks/"><u>[New] In 2024, A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-could-not-connect-to-the-system-event-notification-service-service/"><u>[SOLVED] Windows Could Not Connect to the System Event Notification Service Service</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seize-endless-photographic-content-from-elite-4-video-clips/"><u>[Updated] Seize Endless Photographic Content From Elite 4 Video Clips</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-browsers-cache-on-any-platform-a-complete-tutorial/"><u>Clear Your Browser's Cache on Any Platform - A Complete Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-deep-into-the-world-of-text-animation-top-14-samples/"><u>Dive Deep Into the World of Text Animation Top 14 Samples</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995422570-fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-to-glass-obs-edition-for-2024/"><u>Game to Glass OBS Edition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-game-error-understanding-0xc0000005-issue/"><u>How to Fix Black Ops Cold War Game Error: Understanding 0Xc0000005 Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pubg-performance-boosted-eradicate-stuttering-instantly-and-effortlessly/"><u>PUBG Performance Boosted: Eradicate Stuttering Instantly & Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-critical-game-crashes-gobiv-fix-guide-for-ue4-based-borderlands-3-mods/"><u>Solving Critical Game Crashes: GOBIV Fix Guide for UE4-Based Borderlands 3 Mods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-guide-to-stop-fifa-21-from-crashing-on-windows/"><u>Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
 </ul></div>
 

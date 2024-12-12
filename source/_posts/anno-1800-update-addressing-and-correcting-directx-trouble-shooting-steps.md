@@ -1,7 +1,7 @@
 ---
 title: "Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps"
-date: 2024-12-04T19:01:44.793Z
-updated: 2024-12-05T19:47:01.050Z
+date: 2024-12-08T20:17:27.548Z
+updated: 2024-12-12T04:28:26.963Z
 tags:
   - win11
   - win10
@@ -27,28 +27,24 @@ If you have GeForce Experience installed, and you find that you can’t record y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Restart NVIDIA Streamer service
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See if your Shadowplay can record now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Reinstall NVIDIA Driver
@@ -61,14 +57,22 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -76,10 +80,6 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 If desktop capture is disabled, Shadowplay won’t detect if you play the game full-screen. You can enable this feature for the recording to work again: 1) Open your Shadowplay. Click**Preference**. 2) Make sure the box for**Allow desktop capture**is ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -100,15 +100,18 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-checklist-for-youtube-video-resolution-and-size-for-2024/"><u>[Updated] The Complete Checklist for YouTube Video Resolution and Size for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-lag-and-hiccups-expert-fixes-for-apex-legends-engine-woes/"><u>Banish Your Lag and Hiccups - Expert Fixes for Apex Legends' Engine Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-guide-how-to-fix-crashing-issues-with-thaumaturge-program-on-your-pc/"><u>Debugging Guide: How to Fix Crashing Issues with Thaumaturge Program on Your PC</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/dominate-karaoke-night-explore-this-weeks-latest-releases-on-karaoke-cloud-pro-for-aplus-performance/"><u>Dominate Karaoke Night: Explore This Week's Latest Releases on Karaoke Cloud Pro for A+ Performance!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-uninstall-install-protocol-for-enhancing-wacom-support-on-windows/"><u>Efficient Uninstall-Install Protocol for Enhancing Wacom Support on Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-diablo-ii-resurrected-failed-installation-issues/"><u>How to Fix Diablo II: Resurrected Failed Installation Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000643663-microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-effective-fixes-for-the-notorious-scavengers-game-crashing-problem/"><u>PC Gaming Relief: Effective Fixes for the Notorious Scavengers Game Crashing Problem</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-potential-in-depth-insights-into-the-alcatel-joy-tab-2-a-value-driven-lte-tablet/"><u>Unveiling the Potential: In-Depth Insights Into the Alcatel Joy Tab 2, A Value-Driven LTE Tablet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-essential-tips-for-effective-instagram-video-conversations/"><u>[Updated] In 2024, Essential Tips for Effective Instagram Video Conversations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essentials-comprehensive-editing-tutorial/"><u>[Updated] The Essentials Comprehensive Editing Tutorial</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-user-configuration-panel-customize-your-apps-interface/"><u>1. User Configuration Panel: Customize Your App's Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-house-flipper-2-game-crash-on-your-computer/"><u>Effective Fixes to Stop House Flipper 2 Game Crash on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gas-station-simulator-windows-errors-heres-a-solution/"><u>Gas Station Simulator Windows Errors? Here's a Solution!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-converter-videomaterialen-rmvb-naar-flv-met-movavi-online/"><u>Gratis Converter Videomaterialen - RMVB Naar FLV Met Movavi Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-an-individuals-3dr-experience/"><u>In 2024, A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nighttime-novelties-with-vocalists-recommended-guide/"><u>Nighttime Novelties with Vocalists Recommended Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y02t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y02T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-monster-hunter-rise-installation-issues-fixed/"><u>Solutions for Monster Hunter Rise Installation Issues - Fixed?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-stop-resident-evil-village-from-crashing-on-your-pc/"><u>Solving Performance Issues: Stop Resident Evil Village From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
 </ul></div>
 

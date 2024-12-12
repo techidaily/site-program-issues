@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-11-28T21:31:28.231Z
-updated: 2024-12-05T16:34:31.038Z
+date: 2024-12-07T22:38:55.145Z
+updated: 2024-12-12T06:10:55.248Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -50,10 +54,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -63,27 +63,19 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -98,6 +90,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -107,14 +103,14 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -126,6 +122,10 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -159,22 +159,18 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>[Updated] Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-instagram-live-via-obs-technology/"><u>2024 Approved Instagram Live via OBS Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-to-resolve-cannot-join-party-issue-in-fortnite-error-84/"><u>A Step-by-Step Guide to Resolve Cannot Join Party Issue in Fortnite (Error 84)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-the-notorious-error-103003-in-tarkov-a-comprehensive-guide/"><u>Deciphering and Fixing the Notorious Error 103003 in Tarkov: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-review-of-vsco-editing-techniques-and-tools/"><u>Detailed Review of VSCO Editing Techniques and Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-guide-to-savings-where-to-find-the-hottest-dell-offers-this-holiday-season-at-leading-retailers-featuring-insider-info/"><u>Discover the Ultimate Guide to Savings: Where to Find The Hottest Dell Offers This Holiday Season at Leading Retailers - Featuring Insider Info</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-a-seamless-cs2-experience-fixing-frame-rate-hiccups/"><u>Optimizing Your PC for a Seamless CS2 Experience – Fixing Frame Rate Hiccups</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/overcoming-compression-artifacts-on-youtube-videos/"><u>Overcoming Compression Artifacts on YouTube Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-lag-issues-for-a-smooth-experience-in-naraka-bladepoint/"><u>Overcoming Lag Issues for a Smooth Experience in Naraka: Bladepoint</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-sluggish-windows-11-and-10-machines/"><u>Quick Fixes for Sluggish Windows 11 and 10 Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-restored-ending-black-desert-online-crash-issues/"><u>Seamless Gaming Experience Restored: Ending Black Desert Online Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-in-sanctuary-fixed-strategies-for-dealing-with-diablo-iv-crashes/"><u>Seamless Gaming in Sanctuary: Fixed Strategies for Dealing with Diablo IV Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-sony-vegas-sudden-shutdown-problems-for-smooth-editing/"><u>Solving the Sony Vegas Sudden Shutdown Problems for Smooth Editing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-job-hunting-how-chatgpt-enhances-job-application-strategies/"><u>The Future of Job Hunting: How ChatGPT Enhances Job Application Strategies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-screen-capture-tools-explored-apowersoft-and-others-compared-for-2024/"><u>Top Screen Capture Tools Explored - Apowersoft and Others Compared for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-resolving-helldivers-iis-launch-failures-on-your-pc-via-steam/"><u>Unlock the Secrets: Resolving Helldivers II's Launch Failures on Your PC via Steam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discovering-the-significance-of-blue-icons-on-fb-messaging-app/"><u>[New] 2024 Approved Discovering the Significance of Blue Icons on FB Messaging App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-efficiency-in-exporting-photos-from-device-to-share-via-snapchat-for-2024/"><u>[Updated] Efficiency in Exporting Photos From Device to Share via Snapchat for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/aomei-onekey/"><u>一鍵修復程式AOMEI OneKey的異形版本比較</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-woes-solving-wolcen-pc-malfunctions-and-crashes/"><u>Fix Your Woes: Solving Wolcen PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-persistent-90-load-bug-in-phasmophobia-updated-guide/"><u>Fixing the Persistent 90% Load Bug in Phasmophobia (Updated Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007990149-fortnite-access-denied-bypass-the-hassle-with-these-tips/"><u>Fortnite Access Denied? Bypass the Hassle with These Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-baldurs-gate-gameplay-top-six-tactics-to-overcome-stuttering-and-freezing-challenges/"><u>Improve Your Baldur's Gate Gameplay: Top Six Tactics to Overcome Stuttering and Freezing Challenges</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/newest-nvidia-geforce-rtx-2080-drivers-compatible-with-windows-10-7-and-8/"><u>Newest NVIDIA GeForce RTX 2080 Drivers: Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/optimizing-your-pcs-efficiency-a-guide-to-tweaking-system-performance-insights-from-yl-computing/"><u>Optimizing Your PC's Efficiency: A Guide to Tweaking System Performance - Insights From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-common-causes-of-and-fixes-for-the-black-screen-problem/"><u>Resolved: Common Causes of and Fixes for the Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-game-security-compromise-warning-message/"><u>Troubleshooting the 'Game Security Compromise' Warning Message</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlocking-the-power-of-screencastify-recorder-for-2024/"><u>Unlocking the Power of Screencastify Recorder for 2024</u></a></li>
 </ul></div>
 

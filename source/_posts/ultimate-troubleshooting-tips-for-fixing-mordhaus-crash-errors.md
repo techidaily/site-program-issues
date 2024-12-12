@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-12-01T14:46:46.423Z
-updated: 2024-12-06T07:33:29.720Z
+date: 2024-12-06T23:55:42.055Z
+updated: 2024-12-11T22:33:25.216Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 5. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update or reinstall DirectX files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  It Takes Two may crash if some game files are corrupted or broken. If this is the case, you can follow the steps below to verify the game files and repair the game:
@@ -41,17 +45,9 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -62,6 +58,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
  The latest graphics driver will**enhance your graphics card performance** and**unlock the full potential of your graphics card** , which will give you an edge in PC video games.
 
 There are mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -78,6 +78,10 @@ There are mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -96,10 +100,6 @@ There are mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -109,10 +109,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -120,10 +116,6 @@ There are mainly two ways you can update your graphics drivers:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
@@ -135,6 +127,10 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -142,6 +138,10 @@ There are mainly two ways you can update your graphics drivers:
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer’s specifications.
 
  If this issue persists after you stop overclocking, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Update or reinstall DirectX files
 
@@ -179,24 +179,22 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charting-your-course-from-creator-to-major-label/"><u>[Updated] In 2024, Charting Your Course From Creator to Major Label</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtubian-beginnings-unveiled-building-a-business-and-bringing-big-bucks-for-2024/"><u>[Updated] Youtubian Beginnings Unveiled Building a Business and Bringing Big Bucks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-chatgpt-therapist-bots-and-ai-apps-to-relieve-mental-health-problems/"><u>5 ChatGPT Therapist Bots and AI Apps to Relieve Mental Health Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/age-of-empires-2021-release-addressing-not-launching-problems-and-solutions/"><u>Age of Empires 2021 Release - Addressing Not-Launching Problems and Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/copyright-compliance-for-streaming-songs-on-instagram/"><u>Copyright Compliance for Streaming Songs on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/defeat-windows-10-relentless-restarts-with-these-user-friendly-remedies/"><u>Defeat Windows 10 Relentless Restarts with These User-Friendly Remedies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011520453-fortnite-gameplay-enhancements-season-8s-frame-rate-improvements-revealed/"><u>Fortnite Gameplay Enhancements: Season 8'S Frame Rate Improvements Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-stabilize-dragon-age-origins-and-eliminate-windows-10-interference/"><u>Guide to Stabilize Dragon Age: Origins and Eliminate Windows 10 Interference</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-broadcasting-best-practices-twitch-facebook-integration/"><u>In 2024, Broadcasting Best Practices Twitch-Facebook Integration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-how-to-install-the-right-camera-drivers-on-windows-7/"><u>Quick Fix: How to Install the Right Camera Drivers on Windows 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-x9a-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor X9a Screen | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-to-prevent-nier-replicant-game-from-freezing/"><u>Solution To Prevent Nier Replicant Game From Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001697353-stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/successful-data-migration-strategies-moving-files-from-hdds-to-nvme-ssds-across-different-brands/"><u>Successful Data Migration Strategies: Moving Files From HDDs to NVMe SSDs Across Different Brands</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-call-of-duty-warzone-lag-and-hitches/"><u>Troubleshooting Steps for Fixing Call of Duty Warzone Lag and Hitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-discord-display-issues-when-sharing-your-screen/"><u>Ultimate Guide to Overcoming Discord Display Issues When Sharing Your Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-9-command-center-of-live-gaming-streams/"><u>[New] 2024 Approved 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-discovering-the-roots-of-visual-content-through-reverse-scans-fb/"><u>[New] Discovering the Roots of Visual Content Through Reverse Scans (FB)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-the-path-of-adobe-presenter-video-creation/"><u>[New] In 2024, Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-the-process-of-google-voice-call-capture/"><u>[Updated] In 2024, Streamlining the Process of Google Voice Call Capture</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-the-buffering-how-to-fix-and-prevent-packet-loss-in-discord-chat/"><u>Bypass the Buffering: How To Fix and Prevent Packet Loss in Discord Chat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-of-non-launchable-steam-titles-in-windows-11/"><u>Fixing the Problem of Non-Launchable Steam Titles in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-and-video-ram-overcoming-limitations-fixed/"><u>Fortnite and Video RAM: Overcoming Limitations [FIXED]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-escapades-with-top-samsung-gear-vr-games/"><u>In 2024, Virtual Escapades with Top Samsung Gear VR Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-lane-the-funniest-youtubers-for-a-good-time-for-2024/"><u>Laughing Lane The Funniest YouTubers for a Good Time for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/rust/live-server/"><u>Live Server</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamlessly-stream-your-laptops-dvd-library-for-2024/"><u>Seamlessly Stream Your Laptop's DVD Library for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-solutions-overcome-lag-issues-with-spotifys-web-player-update-tips/"><u>Speedy Solutions: Overcome Lag Issues with Spotify's Web Player Update - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-fix-launch-issues-with-overwatch-2-top-7-tips/"><u>The Ultimate Guide to Fix Launch Issues with Overwatch 2 - Top 7 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-metro-exodus-on-pc-crashes-continuously/"><u>Troubleshooting Steps When 'Metro Exodus' On PC Crashes Continuously</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-win-11-tweaks-seven-essential-steps-to-elevate-your-playstyle/"><u>Ultimate Win 11 Tweaks: Seven Essential Steps to Elevate Your Playstyle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-launch-modern-warfare-on-my-computer-troubleshooting-steps-for-a-flawless-2024-gaming-experience/"><u>Why Can't I Launch Modern Warfare on My Computer? Troubleshooting Steps for a Flawless 2024 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-remastered-pc-version-fixes-and-solutions-for-common-crash-issues/"><u>Yakuza 3 Remastered PC Version - Fixes and Solutions for Common Crash Issues</u></a></li>
 </ul></div>
 

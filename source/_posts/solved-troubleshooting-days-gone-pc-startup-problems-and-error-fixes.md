@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2024-11-16T04:47:30.583Z
-updated: 2024-11-16T20:28:29.983Z
+date: 2024-12-11T11:40:50.538Z
+updated: 2024-12-12T05:39:42.041Z
 tags:
   - win11
   - win10
@@ -32,16 +32,7 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1\. End the Resolve process
@@ -58,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 No luck? Don’t worry. We have a few more fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Unplug USB devices
 
  According to what many Resolve users have suggested, USB devices can cause your Resolve to not open so you can unplug these devices to check if your Resolve works again.
@@ -65,10 +60,7 @@ No luck? Don’t worry. We have a few more fixes for you.
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
@@ -79,17 +71,14 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update the graphics driver
 
@@ -112,10 +101,7 @@ No luck? Don’t worry. We have a few more fixes for you.
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
@@ -126,6 +112,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
@@ -135,10 +125,7 @@ No luck? Don’t worry. We have a few more fixes for you.
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
@@ -172,13 +159,6 @@ No luck? Don’t worry. We have a few more fixes for you.
  In the meantime, you should disable VPN services, such as NordVPN, ExpressVPN.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8\. Allow TCP Network Port Access
 
@@ -223,14 +203,18 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-first-time-streamers-unite-learn-obs-and-broadcast-to-youtube-for-2024/"><u>[Updated] First-Time Streamers Unite Learn OBS & Broadcast to Youtube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-from-syncing-to-capturing-a-complete-itunes-journey/"><u>[Updated] From Syncing to Capturing A Complete iTunes Journey</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>2024 Approved Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-fortnites-stuttering-performance-issues-tips-and-fixes/"><u>Addressing Fortnite's Stuttering Performance Issues: Tips & Fixes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-and-safeguard-periscope-videos-effectively/"><u>Capture & Safeguard Periscope Videos Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-the-dark-initial-display-error-in-elden-ring/"><u>Diagnosing and Solving the Dark Initial Display Error in Elden Ring</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-key-drone-upgrades-and-supplies-for-2024/"><u>The Ultimate Guide Key Drone Upgrades & Supplies for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-the-black-screen-issue-in-zoom-for-desktop-users/"><u>Troubleshoot and Fix the Black Screen Issue in Zoom for Desktop Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-11-and-ghostrunner-overcoming-deadly-game-crashes-with-proven-methods/"><u>Windows 11 and Ghostrunner: Overcoming Deadly Game Crashes with Proven Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-empowerment-in-entertainment-top-10-inspirational-women-for-2024/"><u>[New] Empowerment in Entertainment Top 10 Inspirational Women for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-friendly-playgrounds-metaverses-favorites/"><u>[New] Friendly Playgrounds Metaverse's Favorites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-foundational-approach-to-gradual-volume-adjustment/"><u>[New] In 2024, Foundational Approach to Gradual Volume Adjustment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-clear-youtube-watch-later-playlist/"><u>[Updated] 2024 Approved How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-issue-of-your-pacific-vehicle-not-starting-here/"><u>Fix the Issue of Your Pacific Vehicle Not Starting Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-the-persistent-issue-halting-halo-infinites-pc-crashes/"><u>Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-obs-studio-crashes-on-windows-10-and-11-updated-guide-2024/"><u>Fixing Obs Studio Crashes on Windows 10 & 11 (Updated Guide, 2024)</u></a></li>
+<li><a href="https://win-web3.techidaily.com/get-your-favorite-youtube-content-on-your-mobile-device-effortless-downloader-for-ipods-and-iphones-available-now/"><u>Get Your Favorite YouTube Content on Your Mobile Device: Effortless Downloader for iPods & iPhones Available Now!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apple-protects-user-ai-data-on-cloud-platforms-the-significance-explained-by-zdnet/"><u>How Apple Protects User AI Data on Cloud Platforms: The Significance Explained by ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-regain-your-login-privileges-on-origin-today/"><u>Resolved Issue: Regain Your Login Privileges on Origin Today</u></a></li>
+<li><a href="https://discover-community.techidaily.com/strategies-doptimisation-seo-pour-les-techniques-de-questions-courantes-a-propos-de-winxvideo-ai-reponses-fournies/"><u>Stratégies D'optimisation SEO Pour Les Techniques De Questions Courantes À Propos De Winxvideo AI : Réponses Fournies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/charge-your-channels-mastering-youtube-traffic-boosts/"><u>Supercharge Your Channels Mastering YouTube Traffic Boosts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-your-youtube-potential-idea-generation-guide/"><u>Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
 </ul></div>
 

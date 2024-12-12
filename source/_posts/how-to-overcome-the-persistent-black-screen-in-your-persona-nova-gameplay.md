@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2024-11-30T14:59:20.174Z
-updated: 2024-12-06T04:10:24.507Z
+date: 2024-12-10T09:33:47.090Z
+updated: 2024-12-12T00:06:17.517Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ There’re things you can do before trying complicated fixes:
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -45,14 +45,14 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -63,17 +63,17 @@ If it’s not working, move to the next fix.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this didn’t solve your problems, read on for further troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -95,7 +95,7 @@ If it’s not working, move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -124,20 +124,16 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-dissecting-disney-disguises-the-goofy-trek-for-2024/"><u>[New] Dissecting Disney Disguises 'The Goofy Trek' For 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[Updated] 2024 Approved The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-free-guide-to-accessing-youtube-video-texts/"><u>[Updated] In 2024, The Ultimate FREE Guide to Accessing YouTube Video Texts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/audio-capture-for-post-review-for-2024/"><u>Audio Capture for Post-Review for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-improvements-addressing-frame-rate-dips-and-stuttering-on-pc/"><u>Battlefield 2042 Performance Improvements: Addressing Frame Rate Dips and Stuttering on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-display-woes-resolving-black-screen-issues-effectively/"><u>Fixing Your Display Woes: Resolving Black Screen Issues Effectively</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05s-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05s by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unlock-live-photos-from-videos-top-converter-apps-and-tips-for-2024/"><u>New Unlock Live Photos From Videos Top Converter Apps and Tips for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-nioh-2-complete-edition-lag-top-techniques-for-a-smooth-play/"><u>Overcoming Nioh 2 Complete Edition Lag: Top Techniques for a Smooth Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/slay-your-foes-in-3d-god-of-war-fps-battle-begins-on-personal-computers/"><u>Slay Your Foes in 3D: God of War FPS Battle Begins on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-the-rockstar-games-launcher-malfunction-expert-tips-for-2n4/"><u>Troubleshoot the Rockstar Games Launcher Malfunction - Expert Tips for 2N4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-minecraft-unresponsive-issues-on-windows/"><u>Troubleshooting: Fixes for 'Minecraft Unresponsive' Issues on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-troubled-wires-effective-techniques-to-prevent-fallout-3-crashing-on-win10/"><u>Untangling Troubled Wires: Effective Techniques to Prevent Fallout 3 Crashing on Win10</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapp-calls-for-judicial-review-on-indian-communication-policy/"><u>WhatsApp Calls for Judicial Review on Indian Communication Policy</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-spotlight-series-the-best-gamers-on-tiktok/"><u>[New] In 2024, Spotlight Series The Best Gamers on TikTok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-streamlined-playback-import-tunes-into-inshot/"><u>[Updated] In 2024, Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-s23plus-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy S23+ Fingerprint Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elite-gamers-guide-maximize-performance-with-these-6-fixes-for-low-fps-on-escape-from-tarkov/"><u>Elite Gamer's Guide: Maximize Performance with These 6 Fixes for Low FPS on Escape From Tarkov</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-5-tools-crafting-ideal-ai-prompts-everywhere/"><u>Essential 5 Tools: Crafting Ideal AI Prompts Everywhere</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-lag-solved-top-techniques-for-smooth-gameplay-experience/"><u>Fortnite Lag Solved: Top Techniques for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-stop-recording-problems-successfully-tips-and-tricks/"><u>How to Fix OBS Stop Recording Problems Successfully - Tips & Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/live-streaming-mastery-discover-how-manycam-elevates-your-online-presence-with-virtual-camera-technology/"><u>Live Streaming Mastery: Discover How ManyCam Elevates Your Online Presence with Virtual Camera Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oneplus-nord-n100-reviewed-a-value-packed-phone-without-breaking-the-bank/"><u>OnePlus Nord N100 Reviewed - A Value-Packed Phone Without Breaking the Bank</u></a></li>
+<li><a href="https://win-superb.techidaily.com/top-rated-usb-flash-drive-cloning-tools-compatible-with-windows-11-10-8-and-7/"><u>Top-Rated USB Flash Drive Cloning Tools Compatible with Windows 11, 10, 8 and 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-eos-login-mishaps-top-6-solutions/"><u>Troubleshooting Palworld's EOS Login Mishaps: Top 6 Solutions</u></a></li>
 </ul></div>
 

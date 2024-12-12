@@ -1,7 +1,7 @@
 ---
 title: Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen
-date: 2024-11-15T17:41:17.111Z
-updated: 2024-11-17T04:52:11.677Z
+date: 2024-12-09T06:41:48.049Z
+updated: 2024-12-11T22:21:37.677Z
 tags:
   - win11
   - win10
@@ -28,9 +28,17 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 * [Fix 5: Exit full-screen mode](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart your computer
 
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Turn off automatic GPU switching
 
@@ -44,13 +52,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select**Program Settings** , then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
@@ -63,29 +64,23 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/12-1.jpg)
 
- If this didn’t fix Zoom black screen issues for you, try the next fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this didn’t fix Zoom black screen issues for you, try the next fix below.
 
 ## Fix 3: Update your graphics driver
 
@@ -103,18 +98,15 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you want, but it’s partly manual.
 
@@ -124,13 +116,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 4) Restart your computer and Zoom to test the issue.
 
 If you still have the problem, then try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn on/off Hardware Acceleration
 
@@ -145,13 +130,6 @@ If you still have the problem, then try the next fix below.
 2) Go to Setting > Share screen > Advanced.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Uncheck** Enable hardware acceleration to optimize video sharing.
 
@@ -172,13 +150,14 @@ If you still have the problem, then try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the issue still exists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Zoom
 
@@ -214,17 +193,18 @@ If the issue still exists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>[Updated] In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sophisticated-style-advanced-tiktok-filters/"><u>[Updated] Sophisticated Style Advanced TikTok Filters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speaking-the-unspoken-writing-subtext-driven-dialogues/"><u>[Updated] Speaking the Unspoken Writing Subtext-Driven Dialogues</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-best-practices-facebooks-role-in-dynamic-work-environments/"><u>8 Best Practices: Facebook's Role in Dynamic Work Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-recurring-nox-player-collapses-on-laptop-and-desktop-systems/"><u>How to Fix Recurring Nox Player Collapses on Laptop and Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-world-of-warships-from-crashing-on-pc-5-crucial-fixes/"><u>How to Stop Your World of Warships From Crashing on PC: 5 Crucial Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chasing-victories-olympics-year-2022/"><u>In 2024, Chasing Victories Olympics, Year 2022</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-a14-4g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy A14 4G FRP Locks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002024009-lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/secure-your-shots-in-the-cloud-unlimited-free-space-plus-charged-premium-solutions/"><u>Secure Your Shots in the Cloud Unlimited Free Space + Charged Premium Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-resolving-rocket-league-game-crashes-2024-edition/"><u>Top Strategies for Resolving Rocket League Game Crashes - 2024 Edition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-edit-with-ease-10-video-to-mp3-tools-of-the-trade/"><u>[New] 2024 Approved Edit with Ease #10 Video-to-Mp3 Tools of the Trade</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-beyond-popularity-youtube-earnings-for-1m-viewer-base/"><u>[Updated] Beyond Popularity – YouTube Earnings for 1M Viewer Base</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-master-class-adding-podcasts-to-instagram-features/"><u>2024 Approved Master Class Adding Podcasts to Instagram Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-invalid-captcha-on-steam/"><u>Bypassing Invalid CAPTCHA on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-endless-load-resolving-anthems-infinity-loop-issue/"><u>Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-prevent-madden-nfl-21-from-frequently-crashing-on-your-pc/"><u>Fixing the Issue: How to Prevent Madden NFL 21 From Frequently Crashing on Your PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a79-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A79 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-solution-to-vpn-mistake-code-800-tips-for-clients-and-servers-alike/"><u>Master the Solution to VPN Mistake Code 800 – Tips for Clients and Servers Alike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-scholarly-work-a-guide-to-integrating-chatgpt-into-essays/"><u>Maximizing Your Scholarly Work: A Guide to Integrating ChatGPT Into Essays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-with-utorrents-peer-network-and-download-process/"><u>Overcoming Common Issues with uTorrent's Peer Network & Download Process</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-corrected-no-compatible-graphics-issue/"><u>Overwatch: Corrected No Compatible Graphics Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-tricks-to-optimize-frame-rates-and-eliminate-lag-in-elden-ring/"><u>Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-outlook-not-opening-expert-fixes-and-tips-for-users/"><u>Why Is My Outlook Not Opening? Expert Fixes & Tips for Users</u></a></li>
 </ul></div>
 

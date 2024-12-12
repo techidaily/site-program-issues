@@ -1,7 +1,7 @@
 ---
 title: "Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems"
-date: 2024-12-01T19:33:52.768Z
-updated: 2024-12-06T15:09:19.625Z
+date: 2024-12-07T19:56:53.040Z
+updated: 2024-12-12T01:18:19.857Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -44,10 +48,6 @@ GTFO
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -91,10 +91,14 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
@@ -123,11 +127,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -139,19 +143,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -164,7 +164,7 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -197,17 +197,22 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-reference-guide-to-mastering-mobizens-screen-recording-tech/"><u>[Updated] In 2024, Quick Reference Guide to Mastering Mobizen's Screen Recording Tech</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-integration-one-third-of-marketing-crews-embrace-advanced-tech-zdnet-insights/"><u>AI Integration: One-Third of Marketing Crews Embrace Advanced Tech | ZDNet Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-user-corrections-improve-ai-learning-in-chatgpt-platforms/"><u>Can User Corrections Improve AI Learning in ChatGPT Platforms?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-escape-from-tarkovs-connection-to-anticheat-service-failed/"><u>Effective Fixes for Escape From Tarkov's 'Connection to Anticheat Service Failed'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-rockstar-game-services-are-unavailable-on-pc/"><u>Fix Rockstar Game Services Are Unavailable on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-warzone-20-running-smoothly-on-your-pc-7-key-fixes-you-need-in-2nd4/"><u>How to Get Warzone 2.0 Running Smoothly on Your PC: 7 Key Fixes You Need in 2nD4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-remedies-for-fixing-oxygen-not-included-game-crash-issues/"><u>In-Depth Analysis & Remedies for Fixing 'Oxygen Not Included' Game Crash Issues</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>PC Games Memory - Freeze and Capture 6 Ways to Win</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/troubleshoot-high-latency-tips-to-improve-your-ping-while-playing-back-4-blood/"><u>Troubleshoot High Latency: Tips to Improve Your Ping While Playing Back 4 Blood</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-no-available-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Available Camera' On Your Snap Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-concluding-your-instagram-journey-a-detailed-breakdown/"><u>[New] Concluding Your Instagram Journey A Detailed Breakdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-saving-a-look-at-your-window/"><u>[New] In 2024, Saving a Look at Your Window</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-next-level-livestream-selecting-the-best-360-cameras-for-2024/"><u>[New] Next-Level Livestream Selecting the Best 360° Cameras for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-sewn-sequences-learning-loom-screen-casting/"><u>[New] Sewn Sequences Learning Loom Screen Casting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-cod-black-ops-cold-war-error-code-80070057/"><u>[SOLVED] COD: Black Ops Cold War Error Code 80070057</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pathway-to-perfect-audio-placement-on-youtube/"><u>[Updated] The Pathway to Perfect Audio Placement on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-correcting-the-notorious-nwstoreexe-glitch/"><u>Expert Tips for Correcting the Notorious NW_Store.exe Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-when-red-dead-redemption-2-just-wont-launch-step-by-step-solutions/"><u>Fix It! When Red Dead Redemption 2 Just Won't Launch: Step-by-Step Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-problems-with-cyberpunk-2077-success-stories-inside/"><u>Fixing Launch Problems with Cyberpunk 2077 – Success Stories Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-disruptions-in-sons-of-the-forest-a-guide/"><u>Fixing PC Disruptions in 'Sons of the Forest': A Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hassle-free-gaming-with-the-fixed-assassins-creed-odyssey-on-your-pc/"><u>Hassle-Free Gaming with the Fixed Assassin's Creed Odyssey on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-pc-performance-cutting-edge-strategies-to-enhance-your-sims-4-gaming/"><u>Mastering PC Performance: Cutting Edge Strategies to Enhance Your Sims 4 Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-launch-errors-in-modern-warfare-2-for-players/"><u>Resolved: Overcoming Launch Errors in Modern Warfare 2 for Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-your-workday-with-chatgpt-the-ultimate-guide-to-an-ai-powered-professional-sidekick/"><u>Streamline Your Workday with ChatGPT: The Ultimate Guide to an AI-Powered Professional Sidekick</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-30-marketing-moments-that-can-transform-your-fb-game-for-2024/"><u>The 30 Marketing Moments That Can Transform Your FB Game for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-game-design-with-chatgpt-6-essential-tips-for-aspiring-scriptwriters/"><u>Transforming Game Design with ChatGPT: 6 Essential Tips for Aspiring Scriptwriters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win7plusie-management-guide-installation-made-simple/"><u>Win7+IE Management Guide: Installation Made Simple</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-11-12T02:42:53.902Z
-updated: 2024-11-17T01:50:07.985Z
+date: 2024-12-10T07:18:39.840Z
+updated: 2024-12-12T07:50:37.817Z
 tags:
   - win11
   - win10
@@ -35,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
@@ -50,21 +47,11 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
@@ -79,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -96,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -114,13 +102,14 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
@@ -160,24 +149,22 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-step-by-step-journey-mac-and-pcs-path-to-tiktok-videos/"><u>[New] A Step-by-Step Journey Mac & PC's Path to TikTok Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-level-up-your-farming-life-explore-7-14-mods/"><u>[New] In 2024, Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-android-photography-alterations/"><u>[New] Premium Android Photography Alterations</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-hotspot-solutions-for-your-laptop-spotlight-on-topmate-c302/"><u>Budget-Friendly Hotspot Solutions for Your Laptop - Spotlight on TopMate C302</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-persona/"><u>Comprehensive Guide to Fixing Persona</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-windows-users-with-broken-amd-radeon-applications/"><u>Comprehensive Solution for Windows Users with Broken AMD Radeon Applications</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-tech-selection-the-15-finest-cameras-for-2024/"><u>Elite Tech Selection – The 15 Finest Cameras for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-wont-start-fixes-for-persistent-loading-screens/"><u>Football Manager 2021 Won't Start: Fixes for Persistent Loading Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-freeing-up-vram-a-guide-to-clearing-video-memory-issues/"><u>Fortnite Freeing Up VRAM: A Guide to Clearing Video Memory Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-a-broken-taskbar-on-your-windows-11-computer/"><u>How to Repair a Broken Taskbar on Your Windows 11 Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010377946-instant-solutions-for-unresponsive-gaming-controllers-step-by-step-repair-tips/"><u>Instant Solutions for Unresponsive Gaming Controllers - Step-by-Step Repair Tips!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-youtube-content-a-guide-on-crafting-scripts-with-chatgpt/"><u>Mastering the Art of YouTube Content: A Guide on Crafting Scripts with ChatGPT</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210404357-9780799356953-my-pad-met-engele/"><u>My pad met engele | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nvidias-gaming-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Nvidia's Gaming Overlay Not Responding? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/smart-reading-choices-explore-the-best-ai-recommendation-websites-for-your-next-book/"><u>Smart Reading Choices: Explore the Best AI Recommendation Websites for Your Next Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-troublesome-maplestory-boot-problems-ensures-seamless-play/"><u>Solution for Troublesome Maplestory Boot Problems Ensures Seamless Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-fixing-issues-when-your-microsoft-outlook-wont-open/"><u>Step-by-Step Guide: Fixing Issues When Your Microsoft Outlook Won't Open</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-6-must-have-mobile-journaling-applications/"><u>Top 6 Must-Have Mobile Journaling Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-illuminate-your-videos-with-17-lighting-hacks/"><u>[New] 2024 Approved Illuminate Your Videos with #17 Lighting Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-weaving-the-art-of-photomontages/"><u>[Updated] Image Weaving The Art of Photomontages</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/bandicam-for-professionals-unveiling-the-latest-2023-advances-for-2024/"><u>Bandicam for Professionals Unveiling the Latest 2023 Advances for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-connectivity-and-performance-hiccups-in-the-new-virtual-realm/"><u>Easy Fixes for Connectivity & Performance Hiccups in the New Virtual Realm</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-access-fubotv-content-using-amazons-firestick-a-comprehensive-guide/"><u>How to Access FuboTV Content Using Amazon's Firestick: A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-ace-2-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus Ace 2 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await-for-2024/"><u>Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-shade-changes-3-photoshop-hacks-for-2024/"><u>Mastering Shade Changes 3 Photoshop Hacks for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/olympus-oder-sony-voice-recorders-methoden-zum-wiederherstellen-geloschter-aufnahmen/"><u>Olympus Oder Sony Voice Recorders: Methoden Zum Wiederherstellen Gelöschter Aufnahmen!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-gameplay-in-avatar-frontiers-of-pandora-by-eliminating-lags-and-improving-frame-rate/"><u>Optimize Gameplay in Avatar: Frontiers of Pandora by Eliminating Lags and Improving Frame Rate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-critical-failure-resolving-the-failed-to-load-steamuidll-fatal-error/"><u>Steam Critical Failure: Resolving the 'Failed to Load SteamUI.DLL' Fatal Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985364808-troubleshooting-mlb-the-show-21-network-issues-now-fixed/"><u>Troubleshooting MLB The Show 21 Network Issues – Now Fixed!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-restoring-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Restoring Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-gpeditmsc-tool-for-windows-home-users-a-step-by-step-guide/"><u>Unlocking the gpedit.msc Tool for Windows Home Users – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/"><u>Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</u></a></li>
 </ul></div>
 

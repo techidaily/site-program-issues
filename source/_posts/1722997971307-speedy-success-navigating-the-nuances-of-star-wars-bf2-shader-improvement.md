@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2024-12-02T11:02:04.459Z
-updated: 2024-12-05T17:00:59.794Z
+date: 2024-12-08T22:14:36.197Z
+updated: 2024-12-12T07:59:58.310Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable DirectX 12 mode
@@ -35,10 +35,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
@@ -46,7 +42,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
@@ -56,6 +52,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
  5) Click**File > Save** to save the changes.  
   
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
@@ -67,6 +67,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
  3) Press the**Windows logo key** and**R** at the same time to open the File Explorer. Then click**Documents** . And open the file**STAR WARS Battlefront II** . Double-click**BootOptions** and open it with**Notepad** .
@@ -76,14 +80,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -106,20 +106,15 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722987830742-fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-of-free-got-tune-sources/"><u>[New] Ultimate List of Free GoT Tune Sources</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[Updated] Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/aperfeicoando-imagens-com-filtros-fotograficos-e-tecnicas-de-correcao/"><u>Aperfeiçoando Imagens Com Filtros Fotográficos E Técnicas De Correção</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y36i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y36i? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-gaming-experience-the-path-to-infinite-riches-with-how-to-fix-like-a-dragon-on-your-personal-computer/"><u>Elevate Your Gaming Experience: The Path to Infinite Riches with How to Fix Like a Dragon on Your Personal Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-audio-enhancement-issues-comprehensive-solutions/"><u>Fixing Windows Audio Enhancement Issues - Comprehensive Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-updated-drivers-for-hp-officejet-pro-9015/"><u>Free Download: Updated Drivers for HP OfficeJet Pro 9015</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insurgent-conflict-why-sandstorm-video-game-frequently-experiences-crashes/"><u>Insurgent Conflict: Why 'Sandstorm' Video Game Frequently Experiences Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013492368-quick-fix-for-apex-legends-not-opening-top-tips-inside/"><u>Quick Fix for 'Apex Legends Not Opening': Top Tips Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-common-reasons-behind-ark-database-applications-crashes/"><u>Solutions for Common Reasons Behind ARK Database Applications Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-roblox-wont-start-top-troubleshooting-steps-of-2022/"><u>Solving the 'Roblox Won't Start': Top Troubleshooting Steps of 2022</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-livestream-selector-pick-between-virusmix-and-castpro/"><u>[New] Professional Livestream Selector Pick Between VirusMix and CastPro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-wallet-friendly-mirrorless-choices/"><u>2024 Approved Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-lag-fix-escaping-the-endless-boot-loop/"><u>Among Us Lag Fix: Escaping the Endless Boot Loop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Sony Xperia 10 V</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/peak-performance-platform-extensive-tripod-features/"><u>Peak Performance Platform: Extensive Tripod Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-gamers-blueprint-to-resolve-steam-display-failures/"><u>The Gamer’s Blueprint to Resolve Steam Display Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-top-concerns-with-the-latest-iphone-ios-update-youre-not-alone-ios-18-zdnet/"><u>The Top Concerns with the Latest iPhone iOS Update – You’re Not Alone (iOS 18) | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-cannot-load-asset-issue-error-4201-in-genshin-impact-tips-and-tricks/"><u>Troubleshooting the 'Cannot Load Asset' Issue (Error #4201) in Genshin Impact: Tips and Tricks</u></a></li>
 </ul></div>
 

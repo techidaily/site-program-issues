@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-11-30T04:02:27.638Z
-updated: 2024-12-06T00:46:40.374Z
+date: 2024-12-08T12:16:13.621Z
+updated: 2024-12-12T04:52:49.445Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ FIFA 20 DirectX Error
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For FIFA 20 DirectX Error
@@ -41,7 +41,7 @@ FIFA 20 DirectX Error
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -58,13 +58,13 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -82,6 +82,10 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:**Modify fifasetup.ini**
 
  Another effective fix for the DirectX game crash error is modify**fifasetup.ini** .
@@ -91,10 +95,6 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -108,6 +108,10 @@ Here is how to do it:
 5) Run FIFA 20 again and check to see if it plays smoothly. If yes, then you’ve solved the issue! If it still crashes with the DirectX error, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update DirectX
 
@@ -155,10 +159,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of FIFA 20.
@@ -186,16 +186,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1723011030971-fixed-grounded-crashing-on-pc-2024-tips/"><u>[Fixed] Grounded Crashing on PC - 2024 Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-enter-immersive-realms-top-10-youtubes-most-captivating-vr-videos/"><u>[New] In 2024, Enter Immersive Realms Top 10 YouTube's Most Captivating VR Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ipodcast-exploration-techniques-with-the-iphone/"><u>[New] In 2024, IPodcast Exploration Techniques with the iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>2024 Approved Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-facebooks-automatic-video-features/"><u>2024 Approved Navigating Facebook's Automatic Video Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-the-persistent-problem-of-vray-crashes-in-windows-or-mac-systems/"><u>How to Solve the Persistent Problem of Vray Crashes in Windows or Mac Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-8-premier-online-photo-frame-creators-revealed/"><u>In 2024, 8 Premier Online Photo Frame Creators Revealed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-and-adapt-intels-chipset-software-for-win-11-7-and-81/"><u>Refresh and Adapt Intel's Chipset Software for Win 11, 7 & 8.1</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-common-slowdowns-for-the-spotify-web-player-fixes-and-tips/"><u>Solve Common Slowdowns for the Spotify Web Player (Fixes and Tips)</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-manycam-webcam-applications-compatible-with-ustream-live-broadcasting/"><u>Top ManyCam Webcam Applications Compatible with uStream Live Broadcasting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-address-and-correct-acrocef-exe-glitches/"><u>Troubleshooting Tips: How to Address and Correct AcroCEF Exe Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-optimizing-connection-speeds-and-overcoming-high-ping-in-back-4-blood/"><u>[FIXED] Optimizing Connection Speeds and Overcoming High Ping in 'Back 4 Blood'</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-editors-on-smartphones-for-dji-footage-excellence-for-2024/"><u>[New] Best Editors on Smartphones for DJi Footage Excellence for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-expert-tips-to-download-and-save-instagram-media-from-your-computer/"><u>[Updated] In 2024, Expert Tips to Download and Save Instagram Media From Your Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-image-impact-top-iphone-and-android-sticker-augmenting-tools/"><u>2024 Approved Boost Image Impact Top iPhone and Android Sticker Augmenting Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-light-and-time-iphones-extended-exposure-techniques/"><u>Bridging Light and Time IPhone's Extended Exposure Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000781849-conquering-the-dark-fixing-far-cry-6s-opaque-screens/"><u>Conquering the Dark: Fixing Far Cry 6'S Opaque Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-battlefield-v-from-freezing-or-crashing-on-your-computer/"><u>Fixes & Solutions: Stop Battlefield V From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-darkest-dungeon-2-from-freezing-and-crashing-on-your-pc/"><u>How to Prevent Darkest Dungeon 2 From Freezing and Crashing on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-finding-your-ideal-recorder-macos/"><u>In 2024, The Ultimate Guide to Finding Your Ideal Recorder (MacOS)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-controller-connectivity-in-steam-on-windows-systems/"><u>Troubleshooting Controller Connectivity in Steam on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-when-persona-3-reload-wont-launch-expert-tips/"><u>Ultimate Fixes for When Persona 3 Reload Won't Launch – Expert Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-lava-blaze-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Lava Blaze Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-11-unveiling-the-real-speed-of-your-systems-ram-a-comprehensive-guide/"><u>Windows 11: Unveiling the Real Speed of Your System's RAM – A Comprehensive Guide</u></a></li>
 </ul></div>
 

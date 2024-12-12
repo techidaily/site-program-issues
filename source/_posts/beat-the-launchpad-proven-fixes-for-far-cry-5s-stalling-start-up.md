@@ -1,7 +1,7 @@
 ---
 title: "Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up"
-date: 2024-11-14T18:43:59.919Z
-updated: 2024-11-16T20:24:35.072Z
+date: 2024-12-11T05:39:54.427Z
+updated: 2024-12-11T21:44:59.193Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35
 ## Tips for Fixing the Dreaded Black Screen Glitch on Electronics – Solved
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before trying…
 
@@ -33,10 +37,7 @@ There’re things you can do before trying complicated fixes:
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -48,24 +49,14 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
-If it’s not working, move to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If it’s not working, move to the next fix.
 
 ### Fix 2: Install Windows updates
 
@@ -77,6 +68,10 @@ If it’s not working, move to the next fix.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
@@ -99,21 +94,12 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -138,18 +124,18 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/days-gone-when-and-where-to-play-the-fps-adventure-on-pc/"><u>'Days Gone': When and Where to Play the FPS Adventure on PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[New] Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pathway-to-facebook-success-livestreaming-recorded-visual-narratives/"><u>[Updated] 2024 Approved Pathway to Facebook Success Livestreaming Recorded Visual Narratives</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Oppo A59 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-freezing-issue-resolved-play-smoothly-now/"><u>Cyberpunk 2077'S Freezing Issue Resolved – Play Smoothly Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enduring-ice-age-on-a-revived-globe-tips-to-stop-it-once-and-for-all/"><u>Enduring Ice Age on a Revived Globe - Tips to Stop It Once & For All</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722868019900-error-code-0x80004005-explained-tips-and-solutions-to-fix-it-now/"><u>Error Code 0X80004005 Explained: Tips and Solutions to Fix It Now!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harnessing-ig-videos-effectively-blueprint-for-a-dynamic-marketing-plan/"><u>In 2024, Harnessing IG Videos Effectively Blueprint for a Dynamic Marketing Plan</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-steams-cloud-synchronization-problem/"><u>Resolved: Fixing Steam's Cloud Synchronization Problem</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-screencasting-team-virtual-gatherings-for-2024/"><u>Step-by-Step Screencasting Team Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-freeze-frame-troubleshooting-and-solving-fallout-3-stalling-problems-on-windows-10/"><u>Stop Freeze-Frame: Troubleshooting and Solving Fallout 3 Stalling Problems on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-palworld-errors-steps-for-a-smooth-startup/"><u>Troubleshoot Palworld Errors: Steps for a Smooth Startup</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-gigglegrid-generate-memes-with-ease-and-speed/"><u>[New] In 2024, GiggleGrid Generate Memes with Ease and Speed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-extensive-investigation-into-gecatas-recorder-tech/"><u>[Updated] In 2024, Extensive Investigation Into Gecata's Recorder Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lenovo-thinkphone-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lenovo ThinkPhone Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/color-dynamics-bringing-artistic-vision-to-life-for-2024/"><u>Color Dynamics Bringing Artistic Vision to Life for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/creating-captivating-hdr-portraits-in-10-steps-for-2024/"><u>Creating Captivating HDR Portraits in 10 Steps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/evaluating-the-oneplus-9-pros-aesthetics-processing-power-and-camera-capabilities/"><u>Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-guide-to-photo-transformation-tools/"><u>Expert Guide to Photo Transformation Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-pc-doesnt-launch-far-cry-issue-solutions-applied/"><u>How to Fix 'PC Doesn't Launch Far Cry 지도' Issue - Solutions Applied!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-constant-freezing-and-crashing-of-beat-saber-on-your-pcconsole/"><u>How to Stop Constant Freezing and Crashing of Beat Saber on Your PC/Console</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-redmi-k70e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi Redmi K70E to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/online-consumer-protection-strategies-for-a-risk-free-digital-shopping-experience/"><u>Online Consumer Protection: Strategies for a Risk-Free Digital Shopping Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997971307-speedy-success-navigating-the-nuances-of-star-wars-bf2-shader-improvement/"><u>Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-permission-denied-for-fortnite-error-message/"><u>Troubleshooting the 'Permission Denied for Fortnite' Error Message</u></a></li>
 </ul></div>
 

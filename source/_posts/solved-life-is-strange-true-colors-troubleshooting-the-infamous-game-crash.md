@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2024-11-30T11:37:54.765Z
-updated: 2024-12-06T10:52:59.348Z
+date: 2024-12-10T17:32:30.802Z
+updated: 2024-12-12T11:46:43.057Z
 tags:
   - win11
   - win10
@@ -48,13 +48,13 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -63,6 +63,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5) Launch Gears of War and check to see if the crash problem is resolved. If yes, then congrats and enjoy the game! If the issue remains, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
 
@@ -78,10 +82,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
@@ -89,6 +89,10 @@ Here is how to do it:
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -106,11 +110,11 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
 
@@ -120,15 +124,15 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -140,13 +144,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait for the system to check online for available updates for the game.
 
@@ -154,10 +158,6 @@ Here is how to do it:
 * If**no** – there is no updates available for the game, please move on **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update DirectX
 
@@ -171,10 +171,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -182,6 +178,10 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -208,24 +208,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>[Updated] 2024 Approved Recording Techniques for Stellar Voice-Over Audio</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-transforming-youtube-content-advanced-strategies-to-perfect-videos-after-publishing/"><u>[Updated] 2024 Approved Transforming YouTube Content Advanced Strategies to Perfect Videos After Publishing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exclusive-list-elite-4k-tv-selection-for-2024/"><u>[Updated] Exclusive List Elite 4K TV Selection for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-viral-visuals-the-birth-and-journey/"><u>2024 Approved Viral Visuals The Birth and Journey</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/building-trust-key-elements-in-forging-youtube-brand-relationships/"><u>Building Trust Key Elements in Forging Youtube Brand Relationships</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-reasons-behind-warno-game-malfunctions-and-pc-instability-explained/"><u>Common Reasons Behind Warno Game Malfunctions and PC Instability Explained.</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-facebook-profiles-versus-usernames-in-digital-spaces/"><u>Decoding Facebook Profiles Versus Usernames in Digital Spaces</u></a></li>
-<li><a href="https://fox-place.techidaily.com/efficient-techniques-for-converting-aiff-files-into-mp3-format/"><u>Efficient Techniques for Converting AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cloud-sync-failed-on-steam-comprehensive-guide/"><u>Fixing 'Cloud Sync Failed' On Steam - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-crash-issues-in-cult-of-the-lamb-for-windows-users/"><u>Fixing Game Crash Issues in Cult of the Lamb for Windows Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-lower-cpu-drain-in-god-of-war/"><u>Optimizing Performance for Lower CPU Drain in God of War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-fixing-red-dead-redemption-2s-incessant-loading-screen-issue/"><u>Overcoming the Hurdle: Fixing Red Dead Redemption 2'S Incessant Loading Screen Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-of-a-non-launchable-cyberpunk-2077-game/"><u>Solving the Dilemma of a Non-Launchable Cyberpunk 2077 Game</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-art-of-adding-unique-emojis-in-discord-a-complete-guide-for-pc-and-mobile-users/"><u>The Art of Adding Unique Emojis in Discord A Complete Guide for PC & Mobile Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-game-crashes-in-forza-horizon-5-for-windows-users-expert-tips-and-solutions/"><u>Troubleshooting Game Crashes in Forza Horizon 5 for Windows Users: Expert Tips and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-football-manager-2019-game-crashes-effectively/"><u>Troubleshooting Tips: Resolving 'Football Manager 2019' Game Crashes Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-warzones-inability-to-utilize-gpu-on-windows-10/"><u>Troubleshooting: Fixing Warzone's Inability to Utilize GPU on Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[New] 2024 Approved Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-crescendo-video-tips-for-music-loving-snapchaters/"><u>[Updated] 2024 Approved Crescendo Video Tips for Music-Loving Snapchaters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtubes-latest-payment-regulations/"><u>[Updated] 2024 Approved YouTube's Latest Payment Regulations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-innovative-approaches-to-sims-4-video/"><u>2024 Approved Innovative Approaches to Sims 4 Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-selecting-prime-4k-recorders-and-tools/"><u>2024 Approved Selecting Prime 4K Recorders and Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-cold-war-boot-bug-tips-and-tricks-for-smooth-gameplay-across-platforms/"><u>Beat the Cold War Boot Bug: Tips & Tricks for Smooth Gameplay Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiarty-celebrates-18th-anniversary-with-exclusive-special-project/"><u>DigiArty Celebrates 18Th Anniversary with Exclusive Special Project</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-fixing-lego-star-wars-series-on-your-pc-skywalker-saga-edition/"><u>Expert Guide to Fixing Lego Star Wars Series on Your PC – Skywalker Saga Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcome-crash-issues-in-total-war-three-kingdoms-gameplay/"><u>Guide to Overcome Crash Issues in Total War: Three Kingdoms Gameplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-advanced-tutorial-embedding-srt-into-mp4-content/"><u>In 2024, Advanced Tutorial Embedding SRT Into MP4 Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/multiversus-wont-start-heres-the-solution-for-your-pc-game-crashes/"><u>MultiVersus Won't Start? Here's the Solution for Your PC Game Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-experience-by-resolving-fps-issues/"><u>Optimizing Cyberpunk 2077 Experience by Resolving FPS Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-mordhau-effective-techniques-revealed/"><u>Overcome Game Crashes in Mordhau - Effective Techniques Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-challenges-with-audio-during-discord-screen-presentations/"><u>Solved: Overcoming Challenges with Audio During Discord Screen Presentations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-common-troubles-tackling-arises-ue4-deadly-faults/"><u>Solving Common Troubles: Tackling Arise's UE4 Deadly Faults</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-microsoft-copilot-on-your-apple-computer/"><u>Step-by-Step Guide: Setting Up Microsoft Copilot on Your Apple Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-hands-free-viewing-the-ultimate-guide-to-pairing-a-firestick-remote/"><u>Unlocking Hands-Free Viewing: The Ultimate Guide to Pairing a Firestick Remote</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-game-clearing-up-loading-screen-problems-in-football-manager-2021/"><u>Unstick Your Game: Clearing Up Loading Screen Problems in Football Manager 2021</u></a></li>
 </ul></div>
 
