@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Darkness: Fixing Your Fallout 4'S Persistent Pitch-Black Problem"
-date: 2024-09-29T18:24:46.852Z
-updated: 2024-10-03T03:16:00.874Z
+date: 2024-12-15T23:09:25.343Z
+updated: 2024-12-18T17:43:49.001Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 Windows 11 has been launched for months and many users have upgraded to Windows 11\. But some users have reported they can’t find the taskbar or it’s not working suddenly. Don’t worry, you’re not alone. My taskbar is not working after lunchtime and it’s troublesome. The post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped users solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Windows 11 has been launched for months and many users have upgraded to Windows 
 3. [Microsoft fix](https://tools.techidaily.com/drivereasy/download/)
 4. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -46,6 +54,10 @@ If this simple reboot doesn’t work, the next fix might help.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/task1.jpg)
 4. Check your taskbar to see the difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Microsoft fix
 
  The Microsoft support team discovered an issue with a server-side deployment that went out to Insiders and canceled that deployment. You can follow the steps below to get back into a working state on your PC.
@@ -56,6 +68,10 @@ If this simple reboot doesn’t work, the next fix might help.
 4. Copy and paste the following into the command panel. Then hit the Enter key on your keyboard.  
  reg delete HKCU\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\IrisService /f && shutdown -r -t 0
 5. Your PC will reboot and everything should be back to normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -76,31 +92,10 @@ If this simple reboot doesn’t work, the next fix might help.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your graphics driver
 
@@ -119,10 +114,7 @@ If this simple reboot doesn’t work, the next fix might help.
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -147,16 +139,18 @@ If this simple reboot doesn’t work, the next fix might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-perfection-sizing-your-video-just-right-for-2024/"><u>[Updated] Instagram Perfection Sizing Your Video Just Right for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-with-these-top-10-igtv-experts/"><u>2024 Approved Elevate with These Top 10 IGTV Experts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-experience-the-next-wave-watching-fb-live-on-roku/"><u>2024 Approved Experience the Next Wave Watching FB Live on Roku</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-insight-into-top-10-youtube-mp3-downloader-apps/"><u>2024 Approved Insight Into Top 10 YouTube MP3 Downloader Apps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/buy-video-transcoder-master-suite-securely-100-money-back-guarantee/"><u>Buy Video Transcoder Master Suite Securely - 100% Money-Back Guarantee</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-playthrough-resolve-life-is-strange-true-colors-gameplay-interruptions/"><u>Fix Your Playthrough - Resolve Life Is Strange: True Colors Gameplay Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-crashing-heres-how-you-can-resolve-the-issue-in-6-steps/"><u>Minecraft Crashing? Here's How You Can Resolve the Issue in 6 Steps!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-oculus-graphics-driver-issues/"><u>Resolved: Fixing Oculus Graphics Driver Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winxvideo-ai-mastery-step-by-step-tutorial-and-ultimate-user-guide/"><u>Winxvideo AI Mastery: Step-by-Step Tutorial and Ultimate User Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zombie-army-4-on-pc-how-to-solve-unexpected-shutdown-problems/"><u>Zombie Army 4 on PC - How to Solve Unexpected Shutdown Problems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-influencers-in-your-twitter-marketing-plan-for-2024/"><u>[New] Leveraging Influencers in Your Twitter Marketing Plan for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-methods-capturing-powerpoint-talks/"><u>[Updated] 2024 Approved Simplified Methods Capturing PowerPoint Talks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[Updated] How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-navigating-the-maze-of-stock-visual-acquisition/"><u>[Updated] Navigating the Maze of Stock Visual Acquisition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-initialization-errors-for-an-optimal-experience-on-refunded-diablo-legacy-redefined/"><u>Bypassing Initialization Errors for an Optimal Experience on [REFUNDED] Diablo: Legacy Redefined</u></a></li>
+<li><a href="https://program-issues.techidaily.com/doom-eternal-crash-woes-heres-how-you-can-rectify-them/"><u>DOOM Eternal Crash Woes? Here's How You Can Rectify Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-pc-instability-in-crusader-kings-iii/"><u>Fixes for PC Instability in Crusader Kings III</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-htc-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of HTC Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/norse-adventures-redefined-unpacking-the-brilliance-of-assassins-creed-valhalla-a-detailed-review/"><u>Norse Adventures Redefined: Unpacking the Brilliance of Assassin's Creed: Valhalla – A Detailed Review.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-risk-of-rain-2-stability-issues-and-crashes/"><u>Ultimate Fix for Risk of Rain 2 Stability Issues and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-thaumaturge-game-crashes-on-your-computer/"><u>Ultimate Guide: Resolving the Thaumaturge Game Crashes on Your Computer</u></a></li>
 </ul></div>
 

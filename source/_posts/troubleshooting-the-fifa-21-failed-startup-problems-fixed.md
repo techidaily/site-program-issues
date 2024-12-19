@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the FIFA 21 Failed Startup Problems - Fixed!
-date: 2024-11-05T20:34:55.567Z
-updated: 2024-11-07T00:02:30.617Z
+date: 2024-12-14T21:49:12.706Z
+updated: 2024-12-18T19:54:00.652Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -26,6 +30,10 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 3. [Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)
 4. [Set Virtual Disk Service to automatic](https://tools.techidaily.com/drivereasy/download/)
 5. [Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1\. Update your graphics driver
 
@@ -46,25 +54,11 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 4. Restart your PC for the changes to take effect.
 5. Launch Valorant, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-launch Riot Vanguard
 
  Sometimes a simple restart could help fix lots of hiccups. So as an empirical method, you can force quit the program and give Riot Vanguard a re-launch. Then restart your computer and check to see if the game still crashes.
 
  If the problem still persists, please try**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Reinstall Riot Vanguard
 
@@ -80,20 +74,10 @@ To do so:
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Virtual Disk Service to automatic
 
@@ -104,18 +88,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/services.msc_.png)
 3. Scroll down to**Virtual Disk** and double-click on it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Install all Windows updates
 
@@ -128,6 +109,10 @@ The steps are pretty easy:
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer.
 5. Launch your game again and hopefully you’ve got rid of the woe.
@@ -155,19 +140,16 @@ The steps are pretty easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-to-high-quality-mac-frames-max-156-chars-for-2024/"><u>[New] Ultimate Guide to High-Quality Mac Frames (Max 156 Chars) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>[Updated] Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-channels-customized-end-screen-templates/"><u>2024 Approved Streamline Your Channels Customized End Screen Templates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-playability-diagnosing-and-correcting-pc-lag-in-formula-one-2021/"><u>Enhancing Playability: Diagnosing and Correcting PC Lag in Formula One 2021</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009943367-exclusive-sniper-rounds-and-weaponry-now-available-in-cod-mw-fps-drop/"><u>Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-restricted-outlook-startup-glitches/"><u>Fixing Windows-Restricted Outlook Startup Glitches</u></a></li>
-<li><a href="https://win-data.techidaily.com/guida-passo-passo-eseguire-il-backup-di-tutto-su-windows-11/"><u>Guida Passo-Passo: Eseguire Il Backup Di Tutto Su Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-achieve-smooth-gameplay-advanced-techniques-for-fixing-fps-drops-on-valorant-updated-guide/"><u>How to Achieve Smooth Gameplay: Advanced Techniques for Fixing FPS Drops on Valorant (Updated Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-error-4201-in-genshin-impact-a-comprehensive-guide/"><u>How to Fix the 'Error 4201' In Genshin Impact: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-look-how-chromeos-fuels-the-pixel-slate-mayhem/"><u>Inside Look: How ChromeOS Fuels the Pixel Slate Mayhem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-valorant-performance-clear-the-stutter-elevate-your-fps/"><u>Optimizing Valorant Performance: Clear the Stutter, Elevate Your FPS!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-is-watch-dogs-legion-persistently-crashing-on-your-pc/"><u>Troubleshooting Guide: Why Is Watch Dogs Legion Persistently Crashing on Your PC?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-oneplus-nord-n100-the-ultimate-budget-friendly-smartphone-evaluation/"><u>Unveiling the OnePlus Nord N100: The Ultimate Budget-Friendly Smartphone Evaluation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-seamless-clip-recording-solutions/"><u>[Updated] 2024 Approved Seamless Clip Recording Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-fixes-for-major-development-glitches-in-call-of-duty-mw-and-black-ops-cold-war/"><u>Expert Fixes for Major Development Glitches in Call of Duty: MW & Black Ops Cold War</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-go-2023-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark Go (2023) to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-global-networks-with-language-skills/"><u>Navigating Global Networks with Language Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-oculus-device-troubles-a-guide-to-overcoming-hardware-issues/"><u>Solving Your Oculus Device Troubles: A Guide to Overcoming Hardware Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-continuous-freezes-resolving-watch-dogs-legion-malfunctions-for-windows-users/"><u>Tackling Continuous Freezes - Resolving 'Watch Dogs: Legion' Malfunctions for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-for-mscorwksdll-not-found-errors-on-your-pc/"><u>The Ultimate Solution for Mscorwks.dll Not Found Errors on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-blender-pc-issues-avoid-unwanted-shutdowns-and-stabilize-your-experience/"><u>Troubleshooting Blender PC Issues: Avoid Unwanted Shutdowns and Stabilize Your Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-robocop-legacy-rogue-city-game-crashes-on-windows/"><u>Troubleshooting Tips: Resolving Issues with RoboCop: Legacy – Rogue City Game Crashes on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-way-through-chatgpt-sign-in-issues/"><u>Troubleshooting Your Way Through ChatGPT Sign-In Issues</u></a></li>
 </ul></div>
 

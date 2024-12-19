@@ -1,7 +1,7 @@
 ---
 title: How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11
-date: 2024-08-13T13:19:29.292Z
-updated: 2024-08-14T13:19:29.292Z
+date: 2024-12-12T19:18:11.681Z
+updated: 2024-12-18T22:11:12.398Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 
  If not, eg. saying it’s already up to date, you may have installed the old DS4 Windows. You should uninstall the current DS4 Windows and proceed to the next fix to download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall your DS4 Windows
 
  To get the latest version, you can go to[**DS4 Windows New Releases**](https://ryochan7.github.io/ds4windows-site/) and download the app according to your operating system.
@@ -47,40 +44,41 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
  1) Uninstall your old DS4 Windows and extract the zip file that you’ve just downloaded.
 
  2) Launch**DS4Windows.exe**  in the extracted folder.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ds4 windows not installing driver](https://images.drivereasy.com/wp-content/uploads/2020/01/ds4-windows.jpg)
 
  3) You may be prompted to install the **[.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)**  if you haven’t installed it.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![install the net](https://images.drivereasy.com/wp-content/uploads/2020/01/proceed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under “**Run desktop apps** “, select**Download X64** .  
 ![desktop](https://images.drivereasy.com/wp-content/uploads/2020/01/desktop-app.jpg)
 
  5) Select**Appdata** when you’re prompted to choose where to save the settings and files, for it will ensure you have full access.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/save.jpg)
 
  6) Follow the steps described in the**Welcome to DS4Windows** to install the driver and finish the setup.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![install windows ds4 driver](https://images.drivereasy.com/wp-content/uploads/2020/01/install-driver.jpg)
 
- 7) Follow the on-screen instructions to finish installing.  
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 7) Follow the on-screen instructions to finish installing.  
 ![complete](https://images.drivereasy.com/wp-content/uploads/2020/01/complete.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) You can install optional drivers if you want other cool features. Once complete, you can click**Finished** .  
 ![finish ds4 windows driver installation](https://images.drivereasy.com/wp-content/uploads/2020/01/finished.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Go to the**Settings** tab and select**Hide DS4 Controller** .  
  This will prevent your system from recognizing two controllers and causing connection issues.  
@@ -98,13 +96,14 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**Human Interface Devices** and right-click**HID-compliant game controller** , then select**Enable** **device** . (For Bluetooth users, it’s**Bluetooth-HID-device** . )
 
 If it’s already enabled, you can disable and enable it again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/enable.jpg)
 
 3) Disconnect your controller and restart your PC.
@@ -120,8 +119,9 @@ If it’s already enabled, you can disable and enable it again.
  If re-enabling the controller fails, you can go back to the Device Manager to uninstall the**HID-compliant game controller** . Then close your DS4 Windows and disconnect your controller and connect it again. Afterward, open DS4 Windows, and you will see your controller here again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Uninstall the game controller driver
 
  Still can’t fix your DS4 Windows not detecting your controller problem? It might be other device drivers that are causing your DS4 Windows not to work. You can follow these steps to test the issue:
@@ -140,29 +140,28 @@ If it’s already enabled, you can disable and enable it again.
 
  4) Go to the**Hardware** tab, and double-click the**HID-compliant game controller** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/hid-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to the**Driver** tab, and select**Uninstall Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/uninstall-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Once the driver is uninstalled, unplug your controller, and then restart your PC. Reconnect your Controller using DS4 Windows to see if it pops up in the**Controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Uninstall the latest Windows Update
 
  If this problem occurred just after a Windows Update, then the new update may be the one to blame.
 
  1) On your keyboard, press the Windows logo key and R at the same time, then type**appwiz.cpl** in the Run box and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/app-uninstall.jpg)
 
  2) Select**View installed updates** on the left panel.
@@ -172,6 +171,10 @@ If it’s already enabled, you can disable and enable it again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unistall.jpg)
 
 4) Follow the on-screen instructions to finish the uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pro-Tip
 
@@ -187,9 +190,6 @@ If it’s already enabled, you can disable and enable it again.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-4.png)
 
  3) Click the**Update** button next to your graphics card driver to automatically download the correct version of that driver, and then you can manually install it (you can do this with the FREE version).
@@ -214,8 +214,6 @@ If it’s already enabled, you can disable and enable it again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +221,22 @@ If it’s already enabled, you can disable and enable it again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[New] 2024 Approved Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-transformative-youtube-decks-via-tailored-templates/"><u>2024 Approved Transformative Youtube Decks via Tailored Templates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-instability-issues-while-playing-sons-of-the-forest-on-pc/"><u>Expert Tips for Fixing Instability Issues While Playing Sons of the Forest on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-nier-gestalt-game-crashes-and-glitches/"><u>Expert Tips to Prevent NieR Gestalt Game Crashes and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-error-why-valheim-failed-to-boot-and-how-to-resolve-it/"><u>Fixing the Error: Why Valheim Failed to Boot & How to Resolve It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2023-how-i-fixed-the-game-not-opening-problem/"><u>Football Manager 2023: How I Fixed the Game Not Opening Problem</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/montage-music-the-top-10-online-compilations-and-direct-links-for-2024/"><u>Montage Music The Top 10 Online Compilations and Direct Links for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-filmmakers-dilemma-in-filmora/"><u>Navigating the Filmmaker's Dilemma in Filmora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fixing-stutter-and-lag-problems-in-pc-gameplay-of-fall-guys/"><u>Optimizing Performance: Fixing Stutter and Lag Problems in PC Gameplay of Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-continuous-loading-problems-with-cold-war-across-pc-and-console-platforms-expert-tips/"><u>Resolving Continuous Loading Problems with Cold War Across PC & Console Platforms - Expert Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skyrocketing-sales-with-high-roi-in-dynamic-fb-ad-creations/"><u>Skyrocketing Sales with High ROI in Dynamic FB Ad Creations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/switch-to-apple-tablet-now-how-the-new-ipados-18-features-unveiled-at-wwdc-2024-are-game-changers-techspot/"><u>Switch to Apple Tablet Now: How the New iPadOS 18 Features Unveiled at WWDC 2024 Are Game-Changers | TechSpot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unexpected-twist-in-cyberpunk-2nk7s-saga-decoding-the-perplexing-error-2024-issue/"><u>Unexpected Twist in Cyberpunk 2Nk7's Saga - Decoding the Perplexing Error 2024 Issue</u></a></li>
+</ul></div>
 
