@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Unresponsive Minecraft Gameplay in Windows Environments
-date: 2024-12-15T00:33:58.929Z
-updated: 2024-12-18T17:35:33.312Z
+date: 2024-12-11T22:23:13.845Z
+updated: 2024-12-19T08:49:56.278Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
  Before trying these methods, have you reached the minimum system requirements for Fortnite? If you’re sure about it, jump to the[fixes](https://tools.techidaily.com/drivereasy/download/) .
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Minimum system requirements for Fortnite
 
@@ -42,6 +46,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -71,17 +79,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -119,6 +119,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -126,10 +130,6 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -139,20 +139,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -169,6 +165,10 @@ OR
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -193,22 +193,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-from-observing-to-involved-the-tiktok-life-journey-for-2024/"><u>[Updated] From Observing to Involved The TikTok Life Journey for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rapid-reclamation-of-elusive-videos-for-2024/"><u>[Updated] Rapid Reclamation of Elusive Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-ranked-costless-pixel-perfection-aid-for-2024/"><u>[Updated] Top-Ranked Costless Pixel Perfection Aid for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007498244-discover-cod-modern-warfare-the-latest-first-person-shooter-sensation/"><u>Discover COD: Modern Warfare - The Latest First-Person Shooter Sensation!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-warzone-glitches-a-step-by-step-solution-for-the-notorious-directx-error/"><u>Eliminate Warzone Glitches: A Step-by-Step Solution for the Notorious 'DirectX Error'</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/film-makers-guide-to-selecting-between-hero-and-cube-videos-for-2024/"><u>Film Maker's Guide to Selecting Between Hero and Cube Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-rainbow-six-connection-error-with-these-easy-steps/"><u>Fixing Your Rainbow Six Connection Error with These Easy Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-can-chatgpt-revolutionize-the-medical-industry/"><u>How Can ChatGPT Revolutionize the Medical Industry?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-audiovisual-appeal-essential-tips-for-podcast-logos/"><u>In 2024, Audiovisual Appeal Essential Tips for Podcast Logos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y100t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y100t to New Android? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-mfs-xbox-series-xs-how-to-fix-dev-error-6068-and-enhance-your-gaming-experience/"><u>Mastering MFS Xbox Series X/S: How to Fix Dev Error 6068 and Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-cod-warzone-tips-to-enhance-frame-rate-and-eliminate-stuttering/"><u>Optimizing Performance in COD: Warzone - Tips to Enhance Frame Rate and Eliminate Stuttering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-how-to-improve-frame-rates-and-reduce-stuttering-in-the-ascent/"><u>Optimizing Your Experience: How to Improve Frame Rates & Reduce Stuttering in The Ascent</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/premier-moba-games-on-android-top-10-edition-for-2024/"><u>Premier MOBA Games on Android - TOP 10 Edition for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enable-missing-thx-immersive-audio-on-windows-1110-devices/"><u>Step-by-Step Solution: Enable Missing THX Immersive Audio on Windows 11/10 Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy A15 4G FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-game-breaking-crashes-in-football-manager-2022-for-windows-users/"><u>Troubleshooting Tips: Resolving Game-Breaking Crashes in Football Manager 2022 for Windows Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-correcting-obs-darkness-during-live-streams-for-2024/"><u>[New] Correcting OBS Darkness During Live Streams for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-blend-media-items-for-enhanced-youtube-organization/"><u>[Updated] 2024 Approved Blend Media Items for Enhanced YouTube Organization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-smooth-gaming-eliminating-lags-in-serious-sam-4-for-pc-users/"><u>Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-gt-3-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme GT 3 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-fifa-2020-game-crash-issue/"><u>Resolved: How to Fix the FIFA 2020 Game Crash Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-dealing-with-frequent-frontier-crashes-on-windows/"><u>The Ultimate Fix Guide: Dealing with Frequent Frontier Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-the-persistent-problem-of-metro-exodus-pc-crashes/"><u>Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-how-ai-manipulates-paperclip-efficiency/"><u>Understanding How AI Manipulates Paperclip Efficiency</u></a></li>
 </ul></div>
 

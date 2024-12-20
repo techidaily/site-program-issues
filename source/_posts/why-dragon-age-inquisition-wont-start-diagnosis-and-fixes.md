@@ -1,7 +1,7 @@
 ---
 title: "Why Dragon Age Inquisition Won't Start: Diagnosis & Fixes"
-date: 2024-08-19T16:38:07.952Z
-updated: 2024-08-20T16:38:07.952Z
+date: 2024-12-14T11:28:02.454Z
+updated: 2024-12-19T01:50:53.868Z
 tags:
   - win11
   - win10
@@ -19,14 +19,8 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  But don’t worry. The following are some methods that have helped many players fix the won’t launch issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Check if you meet the minimum specifications
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Minimum System Requirement of Dragon Age: Inquisition**
 
 | **Supported OS** | Windows 7 or 8.1, 64-bit                             |
@@ -36,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 | **Video Card**   | NVIDIA GeForce 8800 GT or AMD Radeon HD 4870         |
 | **Hard Drive**   | 26 GB                                                |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Recommended**System Requirement of** **Dragon Age: Inquisition**
 
 | **Supported OS** | Windows 7 or 8.1, 64-bit                                      |
@@ -59,12 +49,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 4. **[Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set exception on your antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Run with the dedicated graphics card
 
  The problem may relate to your GPU settings. If you’re using a laptop or your computer has two graphics cards, the problem may be caused by using the low-power intel chipset. However, when you want to play a graphics-intensive modern game, the Nvidia card will be needed, so please ensure that when you play DAI it’s set to use your dedicated graphics card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Run a clean boot
 
@@ -75,18 +66,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.jpg)
 3. Click the**Services** tab and **check** the**Hide all Microsoft Services** box.
 4. Click**Disable All** to disable all the third-party services.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/service.jpg)
 5. Right-click on the**Task Bar** and click**Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/taskbar.jpg)
 6. In the **Startup** tab, select an application and click**Disable** . Make sure that all of the applications on the list are **disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/task-1.jpg)
 7. Reboot your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Run the game and check the problem is solved or not.
 
 ### Method 3: Verifying game files
@@ -97,12 +92,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click**My Game Library** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/origin.jpg)
 3. Right-click on the game and click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait for it to verify the game files.
 5. Run the game and check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Dragon Age Inquisition won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -132,11 +133,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -158,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/crackdown-n-3-a-comprehensive-guide-to-address-and-rectify-pc-crashing-scenarios/"><u>'Crackdown N 3': A Comprehensive Guide to Address and Rectify PC Crashing Scenarios</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram-for-2024/"><u>[Updated] The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-tales-creating-gifs-without-charges/"><u>[Updated] Twitter Tales Creating GIFs Without Charges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-stop-wow-from-freezing-and-crashing/"><u>Effortless Solutions to Stop WoW From Freezing & Crashing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frame-reconfigurator-for-videos-for-2024/"><u>Frame Reconfigurator for Videos for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-top-insights-into-fifa-football-videos-on-youtube-for-2024/"><u>Infographic - Top Insights Into FIFA Football Videos On YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-how-to-prevent-stardew-valley-from-crashing/"><u>Overcoming Stability Issues - How to Prevent Stardew Valley From Crashing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-in-browsing-top-7-selective-android-adblocking-tools-for-2024/"><u>Purity in Browsing Top 7 Selective Android AdBlocking Tools for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-for-media-glitch-code-0xc10100be/"><u>Quick Fix for Media Glitch Code: 0XC10100be</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-troubleshooting-non-functional-nvidia-shadowplaygeforce-experience-overlays/"><u>Solution Steps: Troubleshooting Non-Functional Nvidia ShadowPlay/GeForce Experience Overlays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-unlocking-steam-files-for-smooth-playback/"><u>Solution: Unlocking Steam Files for Smooth Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-game-wont-start-heres-how-to-resolve-it-for-windows-11-users/"><u>Steam Game Won't Start? Here's How to Resolve It for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-digital-life-using-windows-11s-taskbar-search/"><u>Streamline Your Digital Life: Using Windows 11'S Taskbar Search</u></a></li>
+</ul></div>
 

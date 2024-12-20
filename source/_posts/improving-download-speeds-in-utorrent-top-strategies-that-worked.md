@@ -1,7 +1,7 @@
 ---
 title: Improving Download Speeds in uTorrent - Top Strategies That Worked
-date: 2024-08-23T17:19:34.017Z
-updated: 2024-08-24T17:19:34.017Z
+date: 2024-12-18T12:08:06.841Z
+updated: 2024-12-18T18:24:34.593Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 ![Origin slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/EA-image-1-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -36,8 +37,9 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 8. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check your network
 
  The Origin download requires a stable network. If you’re seeing slow speeds, it’s most likely an issue with your network. In this case, you can:
@@ -52,9 +54,6 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your network adapter driver
 
  Your Origin’s slow download speed may indicate an issue related to your network connection. And**your outdated network adapter driver** can be the culprit. To fix it, you need to update your network adapter driver, especially if you can’t remember when was the last time you updated it.
@@ -75,10 +74,11 @@ OR
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,22 +94,20 @@ OR
 
 2) Right-click on the Origin shortcut on your desktop and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-Origin-as-an-administrator-1.png)
 
  3) Under the**Compatibility** tab, check**Run this program as an administrator** . Click**Apply** then**OK** .
 
 ![run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-Origin-as-an-administrator-2-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the changes are applied, the program always runs with administrator permissions. If you want to disable this option, just uncheck it and follow the same steps.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Perform a clean boot
 
  A clean boot on PC or safe mode on Mac might help fix the issue by disabling all background programs including Steam. Because chances are they are interfering with your games. Below are the steps on how to perform a clean boot on a PC. If you’re using Mac, please visit the page on[How to use safe mode on your Mac](https://support.apple.com/en-us/HT201262) .
@@ -132,6 +130,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/prevent-programs-from-starting-automatically.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Close the**Task Manager** window and go back to the**System Configuration** window.
 
  7) Click**OK** to save your changes, then restart your computer.
@@ -140,16 +142,10 @@ OR
 
  8) Click**restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.png)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 5: Start Origin in R&D mode
 
  It has been reported by many players that having Origin in R&D mode does increase the download speed. It’s Research & Development mode which is meant for developers of Origin. To start Origin in this mode, you need to:
@@ -157,6 +153,10 @@ OR
  1) Right-click on the empty space of your desktop and select**New** \>**Text Document** to create a new empty document.
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Double-click on the**New Text Document** you just created.
 
@@ -168,10 +168,11 @@ OR
  **\[Feature\]**
  **CdnOverride=akamai**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/RD-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**File** \>**Save As** .
 
@@ -179,9 +180,6 @@ OR
 
  5) Type**EACore.ini** in the**File name** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-3.png)
 
 After that, you’ll see an icon on your desktop like the picture.
@@ -190,14 +188,15 @@ After that, you’ll see an icon on your desktop like the picture.
 
  6) Now start Origin, and click Yes when the USE CONFIGURATION FILE ON DESKTOP window pops up. This will overwrite your old config file. After that, log into Origin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-4.png)
 
  The**EACore.ini** file is deleted from your desktop once you import it. If you want to leave R&D mode, you can navigate to the file by typing**%ProgramData%/Origin** in the Run box.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Clean the Origin cache file
 
@@ -205,9 +204,6 @@ After that, you’ll see an icon on your desktop like the picture.
 
  First, in the**menu bar** , click**Origin** and then**Exit** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![exit Origin](https://images.drivereasy.com/wp-content/uploads/2020/09/exit-Origin.png)
 
  To double-check if it’s running in the background, you can go to the**Task Manager** :
@@ -231,9 +227,6 @@ After that, you’ll see an icon on your desktop like the picture.
 
  2) Type**%ProgramData%/Origin** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open the cache files](https://images.drivereasy.com/wp-content/uploads/2020/09/open-the-cache-files.png)
 
  3) Delete all the files and folders inside Origin**except for LocalContent** . Do not delete this folder.
@@ -254,20 +247,18 @@ After that, you’ll see an icon on your desktop like the picture.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-origin-cache-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Delete the**Origin** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete the Origin cache](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-Origin-cache-3-2.png)
 
 After that, restart your computer and log into Origin.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Reinstall Origin
 
  If none of the fixes listed above work for you, then you might consider uninstalling and reinstalling the app. To do so, you can:
@@ -278,20 +269,18 @@ After that, restart your computer and log into Origin.
 
 ![how to uninstall an app; slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/how-to-uninstall-an-app-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the list, click**Origin** and right-click to**Uninstall** it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to  uninstall Origin; slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/how-to-uninstall-an-app-2-3.png)
 
  After you finish uninstalling the app, navigate to[EA Origin](https://www.origin.com/hkg/en-us/store/download) to download the latest version. Till then, follow the on-screen instructions to install it.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## If your problem persists
 
  If nothing else helped, give VPNs a try. By connecting to a different server, you’re able to avoid bandwidth throttling. But be advised: lots of problems may arise if you use a free VPN. To secure your network, we suggest you use a paid VPN.
@@ -314,8 +303,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +310,20 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneering-a-dual-perspective-3-innovative-techniques-for-viewpoint-based-youtube-reactions/"><u>[Updated] Pioneering a Dual Perspective 3 Innovative Techniques for Viewpoint-Based YouTube Reactions</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-g22-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia G22 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-100-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 100 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Asus ROG Phone 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-improvements-to-fix-lag-issues-in-assassins-creed-valhalla-gameplay/"><u>Instant Improvements to Fix Lag Issues in Assassin's Creed: Valhalla Gameplay</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-voice-customization-go-beyond-echoes/"><u>Leading Voice Customization Go Beyond Echoes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-these-hacks-conquering-state-of-decay-2-stability-problems/"><u>Master These Hacks! Conquering State of Decay 2 Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-in-rocket-league-goodbye-to-freezes/"><u>Resolved Issue in Rocket League - Goodbye to Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-titanfall-gropey-graphics-how-to-improve-gameplay-performance/"><u>Troubleshooting Titanfall Gropey Graphics | How to Improve Gameplay Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-when-your-forza-horizon-4-refuses-to-start-updated-march-2023/"><u>Ultimate Troubleshooting Tips for When Your Forza Horizon 4 Refuses to Start (Updated March 2023)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-over-woes-comprehensive-fixes-for-persistent-fuser-software-malfunctions-on-personal-computers/"><u>Winning Over Woes: Comprehensive Fixes for Persistent Fuser Software Malfunctions on Personal Computers</u></a></li>
+</ul></div>
 

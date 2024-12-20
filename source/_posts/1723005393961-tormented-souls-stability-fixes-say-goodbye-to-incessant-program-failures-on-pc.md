@@ -1,7 +1,7 @@
 ---
 title: Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!
-date: 2024-12-13T01:57:11.444Z
-updated: 2024-12-18T19:11:35.809Z
+date: 2024-12-17T17:21:05.614Z
+updated: 2024-12-19T12:29:29.227Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -33,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 3. Select **Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
@@ -98,7 +102,7 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -136,6 +140,10 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
@@ -153,10 +161,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick failed to solve your problem, you can move on to the next one.
 
 ### Fix 6: Disable peripherals
@@ -164,10 +168,6 @@ If the crash happens again, you can take a look at the next fix.
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
 
@@ -196,22 +196,16 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-how-to-fix-outlook-not-connecting/"><u>[FIXED] How to Fix Outlook Not Connecting?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-your-typography-with-affects-best-in-class-plug-ins/"><u>[New] 2024 Approved Elevate Your Typography with Affects' Best-in-Class Plug-Ins</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-asmr-knowledge-beyond-what-you-see/"><u>[New] In 2024, ASMR Knowledge Beyond What You See</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-directx-issues-your-guide-to-seamless-playthroughs-in-anno-1800/"><u>Bypassing DirectX Issues: Your Guide to Seamless Playthroughs in Anno 1800</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-strategies-to-fix-the-persistent-roblox-error-code-277-on-your-pc/"><u>Comprehensive Strategies to Fix the Persistent Roblox Error Code 277 on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-premier-drawing-tools-for-win-11/"><u>Discover the Premier Drawing Tools for Win 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-drive-with-evs-gain-unmatched-privileges-in-parking-and-high-occupancy-vehicle-lanes/"><u>Elevate Your Drive with EVs: Gain Unmatched Privileges in Parking and High Occupancy Vehicle Lanes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-lag-and-frame-drops-in-your-forza-horizon-5-adventure/"><u>How to Overcome Lag & Frame Drops in Your Forza Horizon 지정 5 Adventure</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exceptional-20-no-license-pubg-images/"><u>In 2024, Exceptional 20 No-License PUBG Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/network-startup-problem-in-dragon-ball-fighterz-now-corrected/"><u>Network Startup Problem in Dragon Ball FighterZ Now Corrected</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-and-fixing-persistent-black-screen-problems/"><u>Resolved: Troubleshooting and Fixing Persistent Black Screen Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/soundstage-excellence-critical-interface-tips-for-podcasters-for-2024/"><u>Soundstage Excellence Critical Interface Tips for Podcasters for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-up-your-skills-techniques-for-a-smoother-experience-with-higher-fps-in-ring-of-elysium/"><u>Step Up Your Skills: Techniques for a Smoother Experience with Higher FPS in Ring of Elysium</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-launching-the-witcher-n-wild-hunt-successfully/"><u>Step-by-Step Solution for Launching The Witcher N: Wild Hunt Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-learning-platforms-for-students-our-pick/"><u>The Best Learning Platforms for Students: Our Pick</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-pathfinders-wrath-of-the-righteous-game-that-refuses-to-start/"><u>Ultimate Fixes for Pathfinder's Wrath of the Righteous Game That Refuses to Start</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/webinars-in-written-form-for-2024/"><u>Webinars in Written Form for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-best-in-class-real-time-broadcast-systems/"><u>[New] 2024 Approved Best-in-Class Real-Time Broadcast Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/a-complete-guide-to-mp4-videos-definitions-advantages-and-practical-use-cases/"><u>A Complete Guide to MP4 Videos: Definitions, Advantages, and Practical Use Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-you-still-need-an-iphone-case-discover-how-apples-persistent-stance-might-change-the-game-zdnet-insights/"><u>Do You Still Need an iPhone Case? Discover How Apple's Persistent Stance Might Change the Game | ZDNET Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-norsk-acquisition-short-sessions/"><u>Effortless Norsk Acquisition - Short Sessions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-red-magic-9-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Red Magic 9 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-troubleshoot-effective-fixes-for-last-epoch-malfunctions-in-pc-systems-2/"><u>Master the Troubleshoot: Effective Fixes for 'Last Epoch' Malfunctions in PC Systems - 2지온</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-samsung-phones-usb-drivers-made-easy/"><u>Step-by-Step Guide: Updating Your Samsung Phone's USB Drivers Made Easy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-fixing-your-ps4-when-it-wont-stop-freezing/"><u>Step-by-Step Solution: Fixing Your PS4 When It Won't Stop Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/streamline-survival-proven-fixes-to-achieve-optimal-fps-in-ark-vikings-ascendant-pc-edition/"><u>Streamline Survival: Proven Fixes to Achieve Optimal FPS in ARK: Vikings Ascendant - PC Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-subtle-sound-dimming-in-productions-for-2024/"><u>The Art of Subtle Sound Dimming in Productions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-solve-lost-arks-unable-to-connect-error-effective-methods-explored/"><u>Troubleshoot & Solve Lost Ark's Unable-to-Connect Error: Effective Methods Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Solve Silent Twitch Stream Problems – Now Working
-date: 2024-08-19T16:42:37.985Z
-updated: 2024-08-20T16:42:37.985Z
+date: 2024-12-17T17:45:35.876Z
+updated: 2024-12-19T11:19:22.846Z
 tags:
   - win11
   - win10
@@ -15,19 +15,15 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ## How to Solve Silent Twitch Stream Problems – Now Working
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/twitch-3384022_640.png)
 
  Not getting any sound from streams on Twitch? You’re not alone! Many Twitch users are reporting the audio missing issue. This problem can be frustrating, especially when all your other apps have sound.
 
  But don’t panic. You can fix it. In this post, we’ve put together 4 methods to resolve the Twitch audio issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Twitch No Sound Issues
 
@@ -47,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  If you have multiple audio devices (external speakers or a microphone) hooked up to your computer, check to see if your devices are**powered on** and**the wired connections clean and plugged in** all the way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/cable-connection.jpg)
 
 #### Ensure your computer is not on mute
@@ -58,10 +51,11 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  If there’s no sound at all,**check** the speak icon on the bottom right corner of your screen to see**if you’ve accidentally muted the sound** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/speaker-icon.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the volume is on, follow the instructions below to check if you set the right playback device.
 
@@ -71,22 +65,24 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Playback tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-226.png)
 
 **3)** Make sure you have the right device set as the default audio device. If not, right-click your audio device and select **Set as default device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-228.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-230.png)
 
 If the sound is still not available, try the fixes below.
@@ -117,9 +113,6 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-09-03.jpg)
 
  4) Click**OK** to save the changes.
@@ -134,9 +127,6 @@ If there’s still no sound, read on and try the next fix.
 
  2) Click**Clear data** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
 
 3) Relaunch the browser to see if the sound comes back.
@@ -148,6 +138,10 @@ If not, read on and try the next solution.
  You can try streaming on another browser. For example, if you were streaming on Chrome, try using another browser like Opera or Edge. If the problem is occurring in Chrome only, then it could be a Chrome issue. You can try updating your browser or contact the developer for assistance.
 
 If the sound isn’t coming back, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Update Your Audio Driver
 
@@ -163,9 +157,6 @@ If the sound isn’t coming back, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -181,6 +172,10 @@ If the sound isn’t coming back, try the next fix.
 
  If the sound issue isn’t resolved, then move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Run Windows Audio Troubleshooter
 
  The audio troubleshooter is a Windows **built-in utility** that can detect and fix common audio problems automatically.
@@ -189,16 +184,14 @@ If the sound isn’t coming back, try the next fix.
 
 **1)** On your keyboard, press the **Windows logo key**  and type **audio** troubleshooter. Then click **Find and fix audio playback problems** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/audio-issues.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Next**  and wait for the scans to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/run-audio-troubleshooter.jpg)
 
 3) Follow the on-screen instructions to fix the Twitch audio issue.
@@ -217,8 +210,6 @@ If the sound isn’t coming back, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +217,24 @@ If the sound isn’t coming back, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/the-division-2-performance-enhancements-tackling-the-2024-frame-rate-dip-and-motion-hitches/"><u>'The Division 2' Performance Enhancements: Tackling the 2024 Frame Rate Dip and Motion Hitches</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-visual-storytelling-live-broadcasts-of-360-videos-on-facebook/"><u>[New] Mastering Visual Storytelling Live Broadcasts of 360 Videos on Facebook</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[Updated] For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-your-vlog-presence-with-tubebuddys-tools/"><u>[Updated] In 2024, Amplify Your Vlog Presence with TubeBuddy's Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-top-strategies-for-downloading-high-resolution-videos-mastering-8k-and-4k-movies/"><u>1. Top Strategies for Downloading High-Resolution Videos: Mastering 8K and 4K Movies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-your-storage-space-how-to-hook-up-an-external-hd-on-xbox-one/"><u>Expand Your Storage Space: How To Hook Up An External HD on Xbox One</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/held-balance-for-sharp-images/"><u>Hand-Held Balance for Sharp Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-11-proplus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme 11 Pro+ Phone? Unlock It Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-system-failures-the-definitive-guide-to-stable-dark-souls-3-play-sessions/"><u>Overcoming System Failures: The Definitive Guide to Stable Dark Souls 3 Play Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-minecraft-error-code-crossbow-issues-explained/"><u>Quick Fixes for Minecraft Error Code: Crossbow Issues Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-extraction-issues-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction Issues Fixed: No More PC Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-alan-wake-2-crashes-in-their-tracks-with-these-2024-tips-and-fixes/"><u>Stop Alan Wake 2 Crashes in Their Tracks with These 2024 Tips & Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-35-unbeatable-dell-offers-on-cyber-monday-across-walmart-target-staples-and-other-retailers-explore-the-best-bargains/"><u>Top 35 Unbeatable Dell Offers on Cyber Monday Across Walmart, Target, Staples & Other Retailers - Explore the Best Bargains!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-iphone-hacks-for-capturing-stunning-skyline-shots-for-2024/"><u>Top iPhone Hacks for Capturing Stunning Skyline Shots for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-payday-2-running-on-my-computer/"><u>Troubleshooting Guide: Why Isn't Payday 2 Running on My Computer?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-armored-core-vi-wont-start/"><u>Troubleshooting Steps for When Armored Core VI Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-it-manual-stop-fifa-21-from-crashing-on-your-computer/"><u>Ultimate Fix-It Manual: Stop FIFA 21 From Crashing on Your Computer</u></a></li>
+</ul></div>
 
