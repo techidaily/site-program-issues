@@ -1,7 +1,7 @@
 ---
 title: "Solving Game Glitches: The Ultimate Guide to Overcoming Apex Legends Error 23"
-date: 2024-12-11T20:17:52.156Z
-updated: 2024-12-18T23:46:01.683Z
+date: 2024-12-16T16:14:36.776Z
+updated: 2024-12-19T22:24:50.969Z
 tags:
   - win11
   - win10
@@ -27,10 +27,6 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-legendary-edition-fps-drops.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Origin/ Steam Overlay
 
  The in-game overlay feature allows you to access certain features while playing games. But it is also known to have a negative effect on performance. To alleviate your problem, you’re supposed to disable overlays on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -42,16 +38,12 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/game-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the GENERAL tab, uncheck the box**Enable Origin In Game for Mass Effect Legendary Edition** . Then click**Save** .  
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay-on-Origin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And you’ll need to disable overlay from the Origin client:
 
@@ -59,13 +51,13 @@ And you’ll need to disable overlay from the Origin client:
   
 ![Disable Origin Overlay Mass Effect Legendary Edition FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-2-1200x480.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If it didn’t help you get a noticeable performance increase, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -106,10 +98,14 @@ After you save the changes, test your gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -125,6 +121,10 @@ After you save the changes, test your gameplay.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -142,6 +142,10 @@ Here’s how to update drivers with Driver Easy:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -169,10 +173,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -185,15 +185,15 @@ If this didn’t give you any luck, try the next fix below.
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Locate your game’s exe file on your system.
 
 4) Click **MassEffectLauncher**  and click **Add** .  
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Options** .  
   
@@ -232,14 +232,22 @@ If this didn’t give you any luck, try the next fix below.
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
 
@@ -257,10 +265,6 @@ Here’s how to do this:
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
@@ -268,10 +272,6 @@ Here’s how to do this:
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -294,24 +294,20 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-skys-dynamic-range-masterpieces-website-roundup/"><u>2024 Approved Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ark-survival-ascended-debugging-the-persistent-pc-crash-issues-fix-1-9/"><u>ARK: Survival Ascended - Debugging the Persistent PC Crash Issues (Fix #1-9)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-cameras-the-creme-de-la-crop-of-mobile-video-recorders-for-2024/"><u>Best Cameras The Crème De La Crop of Mobile Video Recorders for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-in-valheim-top-strategies-to-achieve-smooth-gameplay/"><u>Boost Your Frame Rate in Valheim: Top Strategies to Achieve Smooth Gameplay</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/build-your-own-cryptocurrency-wallet-a-comprehensive-guide-by-yl-computing/"><u>Build Your Own Cryptocurrency Wallet: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013885752-consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cutting-edge-cameras-for-4khd-live-performance-shootouts/"><u>Cutting-Edge Cameras for 4K/HD Live Performance Shootouts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-your-gaming-experience-solutions-for-smoothing-out-stuttering-and-boosting-fps-on-call-of-duty-warzone/"><u>Elevating Your Gaming Experience: Solutions for Smoothing Out Stuttering & Boosting Fps on Call of Duty: Warzone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-rogue-company-addresses-and-corrects-pc-stability-glitches/"><u>No More Freezing: Rogue Company Addresses and Corrects PC Stability Glitches</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/pixel-prodigies-top-10-gaming-ladies-on-yt-for-2024/"><u>Pixel Prodigies Top 10 Gaming Ladies on YT for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-the-corsair-icue-non-responsive-problems-under-windows-11-with-ease/"><u>Resolve the Corsair iCUE Non-Responsive Problems Under Windows 11 with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cod-black-ops-fortress-fixing-lag-spikes-and-improving-frame-rate/"><u>Resolving Cod: Black Ops Fortress - Fixing Lag Spikes & Improving Frame Rate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-monster-hunter-rise-failed-to-initialize-problem-guide/"><u>Solving the 'Monster Hunter Rise Failed to Initialize' Problem - Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/sow-seeds-of-smile-inducing-images/"><u>Sow Seeds of Smile-Inducing Images</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/thriving-on-youtube-the-guide-to-affiliates-for-2024/"><u>Thriving on YouTube The Guide to Affiliates for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-resolving-the-ascent-pc-performance-issues/"><u>Troubleshooting Made Easy: Resolving 'The Ascent' PC Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-god-of-war-on-windows/"><u>Troubleshooting Tips for Persistent Crashes in God of War on Windows</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/44cm44oh44o844k5b6p5ywd44gr5asx5pwx44gx44gf5ac05zci44cb5lplusd5a2y5ywi44gm44kp44gl44kj44gq44ge5aplusplus562w44cn/"><u>「データ復元に失敗した場合、保存先がわからない対策」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-5-ways-to-record-facetime-calls/"><u>2024 Approved 5 Ways to Record FaceTime Calls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-sequel-delayed-heres-your-step-by-step-fix-guide/"><u>Alan Wake Sequel Delayed? Here's Your Step-by-Step Fix Guide!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/change-network-from-public-to-private-in-windows-10-easily/"><u>Change Network From Public to Private in Windows 10 Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997393249-comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-pubg-gameplay-interruptions-with-these-simple-fixes/"><u>Eliminate PUBG Gameplay Interruptions with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-grandest-picture-tweaker-suite/"><u>In 2024, Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-spark-10-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Spark 10 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30-vip-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30 VIP on Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-unresponsive-gameplay-no-more-freezes-in-warframe/"><u>Solution for Unresponsive Gameplay - No More Freezes in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-the-issue-of-heavy-cpu-demands-on-your-gameplay-god-of-war-edition/"><u>Tackling the Issue of Heavy CPU Demands on Your Gameplay - God of War Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-roblox-windows-errors-swift-fixes-to-get-you-back-in-the-game-updated/"><u>Troubleshooting Roblox Windows Errors: Swift Fixes to Get You Back in the Game - Updated</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-top-12-choices-in-gamers-introductory-videos-freepaid/"><u>YouTube's Top 12 Choices in Gamers' Introductory Videos (Free/Paid)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2024-12-12T19:54:17.528Z
-updated: 2024-12-18T17:26:38.333Z
+date: 2024-12-17T02:45:38.574Z
+updated: 2024-12-20T01:19:28.690Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ## Game No More? Restarting 'Elite Dangerous' Woes and How to Get Back on Track
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -51,10 +47,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -65,13 +57,13 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -89,6 +81,10 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -99,17 +95,9 @@ This could take several minutes. Wait for the process to be complete.
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -123,9 +111,17 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -138,6 +134,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 **3)** Set a less demanding configuration for your game.
 
 If the crashing still happens, continue with the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
 
@@ -152,7 +152,7 @@ If the crashing still happens, continue with the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
@@ -182,19 +182,24 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/electing-the-best-free-melodies-for-your-youtube-video-for-2024/"><u>[New] Selecting the Best Free Melodies for Your YouTube Video for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-azure-speech-to-text-functionality/"><u>[New] Understanding Azure Speech to Text Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-modern-warfare-freezing-on-pc/"><u>[SOLVED] Modern Warfare Freezing on PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-2023-strategy-for-twitter-snaps-via-snapchat-uploads/"><u>[Updated] In 2024, 2023 Strategy for Twitter Snaps via Snapchat Uploads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-chrome-freeze-problems-in-windows-10-expert-advice/"><u>Bypassing Chrome Freeze Problems in Windows 10: Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-everspace-2-pc-game-freeze-issues-solutions-and-tips/"><u>Fixing Everspace 2 PC Game Freeze Issues - Solutions & Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-14-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 14 Face Lock?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-dauntless-gaming-on-your-pc-no-more-crashing/"><u>Master Dauntless Gaming on Your PC: No More Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-game-no-more-crashing-in-world-of-tanks-blitz/"><u>Master the Game - No More Crashing in World of Tanks Blitz</u></a></li>
-<li><a href="https://fox-access.techidaily.com/proven-steps-to-convert-webp-to-high-quality-jpeg-for-2024/"><u>Proven Steps to Convert WebP to High-Quality JPEG for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-epson-xp-640-drivers-update-for-windows-users/"><u>Step-by-Step Guide: Epson XP-640 Drivers Update for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-phasmophobia-vr-performance/"><u>Troubleshooting Guide: Resolving Issues with Phasmophobia VR Performance</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/trategies-for-monetizing-your-content-without-infringement-for-2024/"><u>[New] Strategies for Monetizing Your Content Without Infringement for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/civilization-vi-crashing-woes-heres-how-you-can-get-smooth-gameplay-again/"><u>Civilization VI Crashing Woes? Here's How You Can Get Smooth Gameplay Again</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guide-adding-music-and-sounds-to-your-digital-magazines-with-flipbuilders-easy-tools/"><u>Guide: Adding Music and Sounds to Your Digital Magazines with FlipBuilder's Easy Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-hue-and-shade-the-finest-4k-displays-reviewed-for-2024/"><u>Harmonizing Hue and Shade The Finest 4K Displays Reviewed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-error-preventing-my-minecraft-launcher-from-updating-successfully/"><u>How I Fixed the Error Preventing My Minecraft Launcher From Updating Successfully</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-15-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 15 Pro Max Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-insights-on-asmr-videos/"><u>In 2024, Essential Insights on ASMR Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y77t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y77t Location | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-video-formats-that-thrive-on-instagram-whats-best/"><u>In 2024, Video Formats That Thrive on Instagram - What's Best?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-visual-hurdles-a-guide-to-correcting-black-screens-in-destiny-2/"><u>Overcoming Visual Hurdles: A Guide to Correcting Black Screens in Destiny 2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picture-perfect-support-portal-for-2024/"><u>Picture Perfect Support Portal for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-failed-to-connect-issues-for-path-of-exile-players-comprehensive-guide/"><u>Resolving 'Failed to Connect' Issues for Path of Exile Players - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snowrunner-stability-issues-on-desktop-heres-how-to-prevent-the-unexpected-shutdowns-and-restarts/"><u>SnowRunner Stability Issues on Desktop? Here's How to Prevent the Unexpected Shutdowns and Restarts!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-non-responsive-amd-radeon-graphics-driver/"><u>Solving the Issue of Non-Responsive AMD Radeon Graphics Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-bluestacks-from-crashing-a-step-by-step-guide-for-instant-fixes/"><u>Stop BlueStacks From Crashing: A Step-by-Step Guide for Instant Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-your-mouse-control-glitches-in-resident-evil-village/"><u>Troubleshooting and Solving Your Mouse Control Glitches in Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steady-issues-how-to-fix-arcadegeddon-crashes-on-your-computer/"><u>Troubleshooting Steady Issues: How to Fix Arcadegeddon Crashes on Your Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-fixing-update-issues-with-the-minecraft-java-edition-launcher/"><u>Troubleshooting: Fixing Update Issues with the Minecraft Java Edition Launcher</u></a></li>
 </ul></div>
 

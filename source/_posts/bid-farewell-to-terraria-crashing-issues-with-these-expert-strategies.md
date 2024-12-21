@@ -1,7 +1,7 @@
 ---
 title: Bid Farewell to Terraria Crashing Issues with These Expert Strategies
-date: 2024-08-23T17:26:32.810Z
-updated: 2024-08-24T17:26:32.810Z
+date: 2024-12-18T03:31:23.694Z
+updated: 2024-12-20T00:27:09.905Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/f68ca812bcde6ea11b49f44592ad32b754408fad9
 ## Experience the Excitement with Cod: Modern Warfare's Newest FPS Release
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,8 +57,9 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
  If you’re confident with your gaming rig, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -63,11 +68,12 @@ You can do it with only 2 steps:
 
 1. Open Modern Warfare and go to**Options** .
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
@@ -84,15 +90,16 @@ You can do it with only 2 steps:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -100,14 +107,13 @@ You can do it with only 2 steps:
 And it’s quite easy to update too:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -130,23 +136,19 @@ And it’s quite easy to update too:
 Here’s how to enable this power plan:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -161,8 +163,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +170,23 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quantifying-igtv-engagement-and-outreach/"><u>[New] 2024 Approved Quantifying IGTV Engagement and Outreach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-breaking-down-the-process-for-youtube-comment-highlights-for-2024/"><u>[New] Breaking Down the Process for YouTube Comment Highlights for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-techniques-for-moving-snapshot-to-photo-library/"><u>[Updated] In 2024, Efficient Techniques for Moving SnapShot to Photo Library</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-storytelling-techniques-to-grow-your-youtube-channel-for-2024/"><u>[Updated] The Best Storytelling Techniques to Grow Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/cracked-the-full-screen-hurdle-in-obs/"><u>Cracked The Full Screen Hurdle in OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/custom-gpt-boosts-elevating-chatgpts-interaction-quality/"><u>Custom GPT Boosts: Elevating ChatGPT's Interaction Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restart-and-repair-windows-spotlight-functionality-on-your-windows-11-pc/"><u>How to Restart and Repair Windows Spotlight Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-call-of-duty-warzone-from-crashing-pc-optimization-guide/"><u>How to Stop Call of Duty Warzone From Crashing: PC Optimization Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-studio-sessions-best-practices-15-youtube-production-guides-for-musicians/"><u>In 2024, The Studio Sessions Best Practices - 15 YouTube Production Guides for Musicians</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-under-the-moonlight-photography-tips-for-2024/"><u>IPhone Under the Moonlight Photography Tips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991219478-join-deacon-st-john-embark-on-a-post-apocalyptic-journey-with-days-gone-for-pc-gamers/"><u>Join Deacon St. John: Embark on a Post-Apocalyptic Journey with 'Days Gone' For PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-detroit-become-humans-on-your-pc-solutions-for-stability-and-enjoyment/"><u>Mastering 'Detroit: Become Humans' On Your PC – Solutions for Stability and Enjoyment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-speed-essential-fixes-for-enhancing-origin-downloads-in-2/"><u>Maximize Speed: Essential Fixes for Enhancing Origin Downloads in 2([])</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-price-for-gamers-unveiling-the-acer-nitro-5-with-an-exceptional-250-off-spotted/"><u>Slash Price for Gamers: Unveiling the Acer Nitro 5 with an Exceptional $250 Off - Spotted !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-non-responsive-battlenet-windows-applications/"><u>Step-by-Step Fixes for Non-Responsive Battle.net Windows Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-the-notorious-error-code-leaf-in-new-apex-update/"><u>Troubleshooting Tips for Fixing the Notorious Error Code Leaf in New Apex Update</u></a></li>
+</ul></div>
 

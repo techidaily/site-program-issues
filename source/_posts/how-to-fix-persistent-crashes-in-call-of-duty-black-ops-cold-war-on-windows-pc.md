@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-12-16T22:39:08.395Z
-updated: 2024-12-18T19:23:42.120Z
+date: 2024-12-18T23:16:58.194Z
+updated: 2024-12-20T02:31:10.490Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 
 See a black screen when playing CoD: WWII? Although this is an annoying issue, you’re definitely not the only person to experience it. And more importantly, this is fixable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -40,10 +40,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Tab** keys on your keyboard at the same time to switch back into your game.
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
@@ -55,7 +51,7 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -89,13 +85,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
@@ -108,7 +108,7 @@ OR
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
@@ -134,20 +134,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-5-easy-free-methods-to-master-youtube-video-frames/"><u>[New] In 2024, 5 Easy, Free Methods to Master YouTube Video Frames</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ultimate-headset-guide-for-drone-racing-enthusiasts-for-2024/"><u>[New] Ultimate Headset Guide for Drone Racing Enthusiasts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-tier-techniques-instagrams-clandestine-tools-for-growth/"><u>[Updated] 2024 Approved Top-Tier Techniques Instagram's Clandestine Tools for Growth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-gpt-performance-dive-into-our-1-to-9-selection/"><u>Enhance GPT Performance – Dive Into Our #1 to #9 Selection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-your-warzone-experience-tips-to-resolve-stuttering-and-maximize-fps/"><u>Enhancing Your Warzone Experience: Tips to Resolve Stuttering and Maximize FPS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-power-of-asus-rt-ac88u-is-it-truly-a-game-changer-for-gamers/"><u>Evaluating the Power of Asus RT-AC88U: Is It Truly a Game-Changer for Gamers?</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-secret-mode-for-ephemeral-texts/"><u>Facebook's Secret Mode for Ephemeral Texts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-action-packed-first-person-shooter-now-available-for-windows-gamers/"><u>God of War Action-Packed First Person Shooter Now Available for Windows Gamers!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-eliminating-the-black-ops-cold-war-issue-with-error-code/"><u>Guide: Eliminating the Black Ops Cold War Issue with Error Code</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003795758-how-to-fix-resident-evil-village-pc-game-crashes-solved/"><u>How to Fix Resident Evil Village PC Game Crashes - Solved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-play-8t-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor Play 8T Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-digital-realm-lessons-from-toms-hardware/"><u>Navigating the Digital Realm - Lessons From Tom's Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-your-minecraft-game-crashes-a-step-by-step-guide/"><u>Resolving Your Minecraft Game Crashes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/techniques-for-transforming-facespace-lives-into-tv-content-for-2024/"><u>Techniques for Transforming Facespace Lives Into TV Content for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-a-broken-rockstar-games-launcher-tips-and-tricks-for-202e/"><u>Ultimate Fixes for a Broken Rockstar Games Launcher - Tips and Tricks for 202E</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ream-makers-the-online-marvel-experience/"><u>[New] Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mobile-video-experience-review-report-for-2024/"><u>[Updated] Mobile Video Experience Review Report for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-your-iphone-xs-full-potential/"><u>2024 Approved Unlock Your iPhone X's Full Potential</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-down-high-resource-consumption-in-starfield-advanced-tips-and-tricks-for-the-current-year/"><u>Cutting Down High Resource Consumption in Starfield: Advanced Tips and Tricks for the Current Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-cutting-out-of-sound-issues-in-windows-11-solved/"><u>How to Fix Continuous Cutting Out of Sound Issues in Windows 11 – Solved!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>How to Fix This Computer Does Not Meet the Minimum Requirement for Installing Software. When Installing Intel Graphics Driver</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29e-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29e to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-lag-and-fix-fall-guys-freezing-problems-quickly/"><u>Overcome PC Lag & Fix Fall Guys Freezing Problems Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-shadowplay-hiccups-effortless-recording-tips-for-windows-users/"><u>Overcome ShadowPlay Hiccups - Effortless Recording Tips for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reconnect-to-wi-fi-a-detailed-fix-for-your-surface-pro-woes/"><u>Reconnect to Wi-Fi: A Detailed Fix for Your Surface Pro Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-problems-when-your-msi-dragon-center-wont-start/"><u>Resolving Problems When Your MSI Dragon Center Won't Start</u></a></li>
 </ul></div>
 

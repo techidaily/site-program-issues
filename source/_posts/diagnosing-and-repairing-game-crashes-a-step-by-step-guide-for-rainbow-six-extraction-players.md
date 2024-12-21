@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing & Repairing Game Crashes: A Step-by-Step Guide for Rainbow Six Extraction Players"
-date: 2024-12-16T19:14:56.280Z
-updated: 2024-12-18T22:24:25.042Z
+date: 2024-12-15T19:17:57.042Z
+updated: 2024-12-19T16:17:51.717Z
 tags:
   - win11
   - win10
@@ -42,7 +42,7 @@ Here’s how you can download and install Windows updates:
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
@@ -52,6 +52,10 @@ Here’s how you can download and install Windows updates:
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
@@ -65,13 +69,13 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
@@ -80,6 +84,10 @@ Here’s how you can download and install Windows updates:
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -95,18 +103,10 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -140,13 +140,13 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
@@ -163,12 +163,16 @@ To verify the integrity of game files, take these steps:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
@@ -185,16 +189,12 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -217,22 +217,16 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-sound-sourcing-the-top-15-freebie-audiosites/"><u>[New] 2024 Approved Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-unleash-your-creativity-with-mobile-blur-tools/"><u>[New] In 2024, Unleash Your Creativity with Mobile Blur Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-biomutant-crash-on-pc-2024-tips/"><u>[SOLVED] Biomutant Crash on PC - 2024 Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-tutorial-turning-on-grid-view-in-google-meet-chats-for-2024/"><u>[Updated] Tutorial Turning On Grid View in Google Meet Chats for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-pc-video-capture-tools-assessed/"><u>2024 Approved Budget PC Video Capture Tools Assessed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creative-tactics-for-medical-ad-success-on-facebook/"><u>Creative Tactics for Medical Ad Success on Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnose-and-fix-performance-hiccups-for-a-smooth-fallout-76-adventure/"><u>Diagnose & Fix Performance Hiccups for a Smooth Fallout 76 Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998260664-discord-webcam-trouble-here-are-five-ways-to-get-it-working-again/"><u>Discord Webcam Trouble? Here Are Five Ways to Get It Working Again!</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/high-definition-marvels-hawkeye-wallpapers-compilation-by-yl-computing-ultimate-digital-artwork/"><u>High-Definition Marvel's Hawkeye Wallpapers Compilation by YL Computing - Ultimate Digital Artwork</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-mastering-youtube-insights-for-channel-expansion/"><u>In 2024, Mastering YouTube Insights for Channel Expansion</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-high-frame-rates-in-escape-from-tarkov-a-professionals-insightful-guide/"><u>Mastering High Frame Rates in Escape From Tarkov: A Professional's Insightful Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-hitman-3-avoiding-pc-malfunctions-and-game-crashes-updated-guide/"><u>Mastering Hitman 3: Avoiding PC Malfunctions & Game Crashes (Updated Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-your-star-wars-galaxies-of-warriors-honor-issues-with-these-easy-steps/"><u>Overcome Your Star Wars Galaxies of Warrior's Honor Issues with These Easy Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-launch-issues-in-pathfinder-wrath-of-the-righteous-a-comprehensive-guide/"><u>Resolving Launch Issues in Pathfinder: Wrath of the Righteous - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-high-system-load-on-recent-game-updates-effective-solutions-explored/"><u>Troubleshooting High System Load on Recent Game Updates: Effective Solutions Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-overcoming-black-screen-in-persona-5-strikers-gameplay/"><u>Troubleshooting Steps for Overcoming Black Screen in Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>[Updated] 2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-gopro-timelapse-a-step-by-step-guide/"><u>[Updated] Mastering GoPro Timelapse A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-guide-of-hdr-photo-on-iphone-camera-for-2024/"><u>[Updated] The Ultimate Guide of HDR Photo on iPhone Camera for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024s-best-camera-innovations-explored/"><u>2024'S Best Camera Innovations Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-installer-woes-heres-how-to-get-it-right-in-no-time/"><u>Discord Installer Woes? Here's How to Get It Right in No Time!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-improve-lost-arks-fps-and-enhance-smooth-gameplay-experience/"><u>How To Improve Lost Ark's FPS & Enhance Smooth Gameplay Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-90-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor 90 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-more-overspending-master-these-data-friendly-messaging-hacks/"><u>No More Overspending - Master These Data-Friendly Messaging Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-a-non-updatable-minecraft-native-launcher/"><u>Step-by-Step Solution for a Non-Updatable Minecraft Native Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-twin-technical-troubles-how-to-fix-concurrent-computer-errors-on-pc/"><u>Taming Twin Technical Troubles: How to Fix Concurrent Computer Errors on PC</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-essential-process-of-modifying-your-online-community-background-for-2024/"><u>The Essential Process of Modifying Your Online Community Background for 2024</u></a></li>
 </ul></div>
 

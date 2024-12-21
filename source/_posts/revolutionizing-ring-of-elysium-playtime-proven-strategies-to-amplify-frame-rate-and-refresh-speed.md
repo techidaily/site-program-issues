@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Ring of Elysium Playtime: Proven Strategies to Amplify Frame Rate and Refresh Speed"
-date: 2024-08-28T06:20:35.143Z
-updated: 2024-08-29T06:20:35.143Z
+date: 2024-12-12T19:07:48.641Z
+updated: 2024-12-19T16:34:56.477Z
 tags:
   - win11
   - win10
@@ -17,12 +17,20 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
 Star Wars Battlefront 2 is an old game, so is the issue. The old game issue discussions still got new replies. If you have the same problem, don’t worry, this post can help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
 2. [Turn off Discord overlay](https://tools.techidaily.com/drivereasy/download/)
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1\. Check your system requirement
 
@@ -38,23 +46,18 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
 
 1. Launch Discord.
 2. Click the**gear button** on the bottom to open User settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
 
@@ -64,9 +67,6 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Star Wars Battlefront 2 black screen issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -93,16 +93,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -117,8 +120,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/best-free-tools-and-apps-for-students-get-ready-for-back-to-school/"><u>Best Free Tools & Apps for Students: Get Ready for Back-to-School</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/cambia-facilmente-tus-archivos-wma-a-mp3-sin-coste-con-el-convertidor-online-de-movavi/"><u>Cambia Fácilmente Tus Archivos WMA a Mp3 Sin Coste Con El Convertidor Online De Movavi</u></a></li>
+<li><a href="https://discover-great.techidaily.com/erfolgreiches-wiederherstellen-von-daten-tipps-zum-abrufen-auf-einer-alten-festplatte/"><u>Erfolgreiches Wiederherstellen Von Daten: Tipps Zum Abrufen Auf Einer Alten Festplatte</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-no-available-camera-on-your-snapchat-app/"><u>Fixing the Issue: 'No Available Camera' On Your Snapchat App</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-0x8024002e-on-your-windows-pc-a-complete-troubleshooting-manual/"><u>How to Fix Error 0X8024002E on Your Windows PC: A Complete Troubleshooting Manual</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-pc-to-recognize-usb-devices-on-windows-10-solution-included/"><u>How To Get Your PC To Recognize USB Devices On Windows 10 (Solution Included)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>In 2024, Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-fixed-now-successfully-starting-up/"><u>Rainbow Six Siege Fixed! Now Successfully Starting Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persistent-apex-legends-connection-errors-easily/"><u>Troubleshooting Guide: Resolving Persistent Apex Legends Connection Errors Easily</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/k-the-potential-of-your-youtube-videos-in-movie-maker-for-2024/"><u>Unlock the Potential of Your YouTube Videos in Movie Maker for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-hand-drawn-whiteboard-video-creation-the-top-5-software-options-for-2024/"><u>Updated Hand-Drawn Whiteboard Video Creation The Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-smartphone-a-comparative-analysis-of-iphone-16-pro-vs-iphone-14-pro-is-it-worth-it-tech-advisor/"><u>Upgrading Your Smartphone: A Comparative Analysis of iPhone 16 Pro Vs. IPhone 14 Pro - Is It Worth It? | Tech Advisor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vanguard-software-demands-higher-cpu-specs-upgrade-necessary/"><u>Vanguard Software Demands Higher CPU Specs - Upgrade Necessary</u></a></li>
+</ul></div>
 

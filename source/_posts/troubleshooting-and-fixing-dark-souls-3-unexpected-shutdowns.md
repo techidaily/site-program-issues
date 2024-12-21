@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2024-12-16T03:16:43.985Z
-updated: 2024-12-19T00:48:44.148Z
+date: 2024-12-16T03:47:44.664Z
+updated: 2024-12-20T03:37:51.402Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-713.png)
 
 **Dark Souls 3 keeps crashing** on your computer? This is quite frustrating, but you’re not the only one. The good news is, you can fix Dark Souls 3 crashing quite easily. This post puts together the possible solutions for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Dark Souls 3 crashing
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
  If, unfortunately, you can’t access the game options, try modify the settings in the GraphicsConfig file.
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  Your problem still persists, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -111,7 +111,7 @@ Now launch Dark Souls 3 and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
@@ -121,10 +121,6 @@ If you can’t access the in-game settings, try this:
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -151,7 +147,7 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click on**Dark Souls 3** , and click**Properties** .
@@ -161,6 +157,10 @@ Then play your game to see if it works properly.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -187,20 +187,17 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-time-capsule-transformation-step-by-step-guide-to-digitalize-old-printed-photographs/"><u>[Updated] 2024 Approved A Time-Capsule Transformation Step-By-Step Guide to Digitalize Old Printed Photographs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audio-harmony-mastering-the-cut-and-switch/"><u>[Updated] Audio Harmony Mastering the Cut and Switch</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eliminated-invisible-youtube-micro-videos/"><u>[Updated] In 2024, Eliminated Invisible YouTube Micro Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-visionary-creatives-for-backdrops-pixelpioneers-realm/"><u>[Updated] In 2024, Visionary Creatives for Backdrops PixelPioneer's Realm</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-interrupting-real-time-recording-on-quicktime/"><u>[Updated] Interrupting Real-Time Recording on QuickTime</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-youtubes-monthly-monetization-rules/"><u>2024 Approved Unveiling YouTube’s Monthly Monetization Rules</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-canon-mg3000-printer-drivers-latest-version/"><u>Download and Install Canon MG3000 Printer Drivers - Latest Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancements-to-tackle-freezing-woes-the-new-world-game-receives-crucial-updates/"><u>Enhancements to Tackle Freezing Woes: The New World Game Receives Crucial Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-aoc-graphics-card-drivers-for-windows-users-versions-11108/"><u>How to Update & Install AOC Graphics Card Drivers for Windows Users (Versions 11/10/8)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>In 2024, Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revived-and-improved-bioshock-2-the-definitive-remaster/"><u>Revived and Improved BioShock 2 - The Definitive Remaster!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-discord-crash-issues-effective-strategies-and-tips/"><u>Solve Your Discord Crash Issues: Effective Strategies and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-operation-blue-eclipse-issue-code-3-0x0001000b-troubleshooting-guide/"><u>Solving Rainbow Six Operation Blue Eclipse Issue: Code 3-0X0001000B Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011910777-troubleshoot-frequent-application-freezes-in-minutes-expert-tips-inside/"><u>Troubleshoot Frequent Application Freezes in Minutes – Expert Tips Inside!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-notable-examples-of-book-trailers/"><u>[New] In 2024, Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-windows-11-the-ultimate-screen-grabber-collection/"><u>[New] Windows 11 The Ultimate Screen Grabber Collection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-eliminating-robotic-ratings-to-grow-views-for-2024/"><u>[Updated] Eliminating Robotic Ratings to Grow Views for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-eliminate-audio-problems-in-halo-infinite/"><u>Comprehensive Solutions to Eliminate Audio Problems in Halo Infinite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-leading-edge-the-ultimate-guide-to-20-superior-metadata-editors-including-movavis-expertise/"><u>Discover the Leading Edge: The Ultimate Guide to 20 Superior Metadata Editors , Including Movavi's Expertise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-restore-corsair-icue-interface-functionality-on-the-latest-windows-operating-system/"><u>Expert Tips to Restore Corsair iCUE Interface Functionality on the Latest Windows Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sound-in-roblox-games-for-windows-users-windows-1110/"><u>How to Restore Sound in Roblox Games for Windows Users (Windows 11/10)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-content-extractor-the-best-of-the-rest/"><u>In 2024, Instagram Content Extractor The Best of the Rest</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900866193-make-sure-you-dont-miss-calls-how-to-get-iphones-ringing-properly-again/"><u>Make Sure You Don’t Miss Calls: How to Get iPhones Ringing Properly Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-overcome-lengthy-boot-time-in-star-wars-battlefront-ii-pc/"><u>Quick Guide to Overcome Lengthy Boot Time in Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-palworld-search-error-in-sessions-with-these-tips/"><u>Solve the ‘Palworld’ Search Error in Sessions with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-ensure-death-strandings-successful-release-journey/"><u>Troubleshooting Triumphs Ensure Death Stranding's Successful Release Journey</u></a></li>
 </ul></div>
 

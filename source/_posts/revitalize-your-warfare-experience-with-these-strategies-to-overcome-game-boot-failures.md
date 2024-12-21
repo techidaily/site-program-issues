@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-12-11T16:14:06.292Z
-updated: 2024-12-19T04:55:39.786Z
+date: 2024-12-16T21:32:34.335Z
+updated: 2024-12-19T18:02:47.900Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -68,11 +72,11 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -85,18 +89,22 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -108,22 +116,18 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-3. Once you’ve installed the updates, restart the computer.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+3. Once you’ve installed the updates, restart the computer.
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
  After updating your system, launch Modern Warfare and check if your FPS has been improved.
 
  If this method doesn’t help your case, please move on to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
 
@@ -147,16 +151,12 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -180,20 +180,21 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-stepwise-mastery-of-green-screen-techniques-in-kinemaster/"><u>[New] Stepwise Mastery of Green Screen Techniques in Kinemaster</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-online-fame-essential-instagram-tips-for-star-status/"><u>[Updated] 2024 Approved Crafting Online Fame Essential Instagram Tips for Star Status</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-adding-narrative-milestones-a-youtube-video-guide/"><u>[Updated] Adding Narrative Milestones A YouTube Video Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-navigating-download-land-free-photo-frames/"><u>[Updated] Navigating Download Land Free Photo Frames</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guidelines-for-perfect-nightscape-photography/"><u>2024 Approved Guidelines for Perfect Nightscape Photography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-hacks-keeping-wwe-2k20-running-without-pc-disruptions/"><u>Easy Hacks: Keeping WWE 2K20 Running Without PC Disruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/evil-genius-2-launch-success-problem-solving-strategies-revealed/"><u>Evil Genius 2 Launch Success: Problem Solving Strategies Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cannot-update-expert-strategies-to-refresh-your-minecraft-game-client-smoothly/"><u>Fixing 'Cannot Update' - Expert Strategies to Refresh Your Minecraft Game Client Smoothly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-or-not-found-an-in-depth-look-at-btballoondll-issues/"><u>Fixing 'Missing' Or 'Not Found': An In-Depth Look at BTBalloon.DLL Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/just-40-instant-discount-on-nordvpn-and-microsoft-office-suite-limited-offer/"><u>Just $40 Instant Discount on NordVPN & Microsoft Office Suite - Limited Offer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-black-ops-cold-war-a-step-by-step-fix-for-the-error-code-0xc0000005/"><u>Mastering Black Ops Cold War: A Step-by-Step Fix for the 'Error Code 0xC0000005'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-with-a-patched-up-a-total-war-saga-troy-for-pc-users/"><u>Smooth Gaming Experience with a Patched-Up A Total War Saga: Troy for PC Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcending-boundaries-understanding-the-mechanisms-of-ai-transfer-learning/"><u>Transcending Boundaries: Understanding the Mechanisms of AI Transfer Learning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-overcoming-cod-vanguard-pc-stability-issues/"><u>Ultimate Fix Guide: Overcoming CoD Vanguard PC Stability Issues</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/unveiling-the-benefits-of-garmin-venu-your-intelligent-partner-in-nonstop-activity-and-health-tracking/"><u>Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-what-is-haul-video-and-how-to-make-a-catchy-try-on-haul-video/"><u>[Updated] In 2024, What Is Haul Video and How to Make a Catchy Try on Haul Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-the-social-media-labyrinth-for-virality/"><u>2024 Approved Mastering the Social Media Labyrinth for Virality</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/comprehensive-partition-fix-utility-extract-files-from-inaccessible-and-missing-volumes/"><u>Comprehensive Partition Fix Utility: Extract Files From Inaccessible & Missing Volumes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/culmination-of-clear-windows-11-screens/"><u>Culmination of Clear Windows 11 Screens</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-code-43-error-windows-has-stopped-this-device-because-it-has-reported-problems/"><u>Fix Code 43 Error: Windows Has Stopped This Device because It Has Reported Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-oppo-f25-pro-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo F25 Pro 5G Lock Screen Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-cod-black-ops-cold-war-issue-with-code-80070057/"><u>How to Resolve the Cod: Black Ops Cold War Issue with Code 80070057</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-instantaneous-ease-in-podcast-broadcasts/"><u>In 2024, Instantaneous Ease in Podcast Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solutions-for-common-league-of-legends-game-crash-problems/"><u>Instant Solutions for Common League of Legends Game Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k23-wont-launch-here-are-seven-expert-fixes-to-get-you-back-in-game-on-your-computer/"><u>NBA 2K23 Won't Launch? Here Are Seven Expert Fixes to Get You Back in Game on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-experience-with-halo-infinite-by-correcting-motion-lag-and-stutter/"><u>Optimize Your Experience with Halo Infinite by Correcting Motion Lag and Stutter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/recommended-set-17-apps-that-make-picture-fixing-easier-for-2024/"><u>Recommended Set 17 Apps That Make Picture Fixing Easier for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-skyrim-forge-edition-launching-error-issues-easily/"><u>Resolving Skyrim Forge Edition Launching Error Issues Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-hogwarts-legacys-launch-issues-8-essential-tips/"><u>Solving Hogwarts Legacy's Launch Issues: 8 Essential Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-tecnicas-para-combinar-duas-fotografias-com-fotoeditor-e-alternativas-em-2024/"><u>Top 5 Técnicas Para Combinar Duas Fotografias Com FotoEditor E Alternativas Em 2024</u></a></li>
 </ul></div>
 

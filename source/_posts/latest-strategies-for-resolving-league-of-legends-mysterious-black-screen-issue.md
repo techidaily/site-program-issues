@@ -1,7 +1,7 @@
 ---
 title: Latest Strategies for Resolving League of Legends' Mysterious Black Screen Issue
-date: 2024-12-11T19:10:13.183Z
-updated: 2024-12-18T20:59:15.375Z
+date: 2024-12-13T20:15:52.133Z
+updated: 2024-12-19T19:09:52.869Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
  Although it’s hard to detect the cause of the issue because of the different hardware and software settings, there are a few fixes you can try.
 
  Before trying these fixes, make sure your computer has met[the minimum requirements](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,6 +52,10 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -83,10 +91,6 @@ If your issue continues to occur, you can move to the next fix.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Adjust your virtual memory
 
 **Virtual memory**  is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running Cyberpunk 2077, Windows will dip into virtual memory for temporary file storage.
@@ -102,19 +106,19 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
@@ -122,21 +126,17 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
@@ -162,25 +162,25 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -207,18 +207,18 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-building-brand-loyalty-tips-for-higher-fb-page-ranking-for-2024/"><u>[New] Building Brand Loyalty Tips for Higher FB Page Ranking for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-expert-guide-choosing-best-bdr-players-on-windowsmacos-for-2024/"><u>[New] Expert Guide Choosing Best BDR Players on Windows/macOS for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-approaches-to-documenting-film-content-on-various-os/"><u>[New] Innovative Approaches to Documenting Film Content on Various OS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[Updated] 2024 Approved Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-amc-explorer-ghost-drift-cam-analysis/"><u>[Updated] In 2024, AMC Explorer Ghost Drift Cam Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-elden-rings-launch-hurdle-a-step-by-estep-guide-to-fixing-the-games-black-screen-glitch/"><u>Conquering Elden Ring's Launch Hurdle: A Step-by-eStep Guide to Fixing the Game's Black Screen Glitch</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xls files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-tecno-spark-10-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Tecno Spark 10 5G?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-above-and-beyond-the-best-non-twitter-networks/"><u>In 2024, Above and Beyond The Best Non-Twitter Networks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/manage-your-stress-chronic-stress-may-weaken-your-immune-system-making-you-more-susceptcuable-to-infections-like-utis-consider-trying-relaxation-techniques-597/"><u>Manage Your Stress: Chronic Stress May Weaken Your Immune System, Making You More Susceptcuable to Infections Like UTIs. Consider Trying Relaxation Techniques Such as Meditation, Yoga or Deep Breathing Exercises to Help Manage Stress Levels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/play-smoother-than-ever-cyberpunk-2077s-persistent-latency-challenges-fixed/"><u>Play Smoother than Ever: Cyberpunk 2077'S Persistent Latency Challenges Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-crashing-on-windows/"><u>Troubleshooting Guide - How To Stop Hell Let Loose From Crashing on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-podcasts-on-pc-select-5-freebies/"><u>Elevate Podcasts on PC: Select 5 Freebies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-failed-to-connect-via-anticheat-error-on-escape-from-tarkov/"><u>Fixing the 'Failed to Connect via Anticheat' Error on Escape From Tarkov</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-spark-10c-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Spark 10C</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use/"><u>High-Fidelity AVI Player for Portable & Stationary Use</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-connect-chatgpt-and-siri-for-enhanced-iphone-interaction/"><u>How to Seamlessly Connect ChatGPT and Siri for Enhanced iPhone Interaction</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pc-edition-a-brief-inspection-for-2024/"><u>New VN Video Editor PC Edition A Brief Inspection for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skip-the-struggle-speed-up-shader-optimization-for-a-better-run-of-battlefront-ii/"><u>Skip the Struggle: Speed Up Shader Optimization for a Better Run of Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-overcome-battlefield-nite-2042-stutter-and-fps-woes-on-your-personal-computer/"><u>Smooth Sailing: Overcome Battlefield Nite 2042 Stutter and FPS Woes on Your Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-blue-screen-in-helldivers-version-2/"><u>Troubleshooting and Repairing 'Blue Screen' In Helldivers Version 2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-mobvoi-ticwatch-pro-4g-a-revolutionary-approach-to-smartwatch-connectivity/"><u>Unveiling the Potential of Mobvoi Ticwatch Pro 4G: A Revolutionary Approach to Smartwatch Connectivity</u></a></li>
 </ul></div>
 

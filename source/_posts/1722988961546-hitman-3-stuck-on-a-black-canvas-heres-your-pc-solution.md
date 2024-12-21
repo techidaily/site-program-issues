@@ -1,7 +1,7 @@
 ---
 title: Hitman 3 Stuck on a Black Canvas? Here's Your PC Solution!
-date: 2024-12-13T17:15:06.571Z
-updated: 2024-12-18T16:58:21.977Z
+date: 2024-12-18T16:08:32.809Z
+updated: 2024-12-19T18:49:33.337Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
 As one of the most anticipated video games in early 2022, Monster Hunter Rise is finally here. The game is amazing. However, there are sporadic reports about Monster Hunter Rise not launching or black screen on startup. If you happen to be on the same boat, don’t worry. Here is a full list of fixes to help you solve the bugs and regain a smooth gaming experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Try these 6 simple fixes to troubleshoot the Monster Hunter Rise not launching issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -28,6 +32,10 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Repair your system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run the game as an administrator
 
  Your game may not launch when it can’t access the necessary permission. So, to make sure it works without interruption, you should run Monster Hunter Rise as an administrator.
@@ -38,14 +46,10 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
@@ -59,28 +63,24 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/1.jpg)
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/3.jpg)
 4. Click **Add an allowed app** **\> Browse all apps** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/browse-all-apps.png)
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -106,10 +106,6 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Check your current **CPU and memory usage** to see what apps are consuming your resources most. Then right-click the process you want to end and select **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 Check if the game launches as expected. If not, take a look at Fix 5.
@@ -122,16 +118,24 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Repair your system files
 
@@ -146,10 +150,6 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -177,21 +177,17 @@ Test the game to see if your system runs faster and smoother now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-zero-price-windows-desktop-snapping-tutorials/"><u>[New] 2024 Approved Zero Price Windows Desktop Snapping Tutorials</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-capturing-a-full-view-iphone-filming-secrets-for-social-feeds/"><u>[New] Capturing a Full View IPhone Filming Secrets for Social Feeds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-join-the-journey-to-a-calmer-mind-games/"><u>[New] In 2024, Join the Journey to a Calmer Mind (Games)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-ethical-tiktok-following-purchase-with-peace-of-mind/"><u>[Updated] 2024 Approved Ethical TikTok Following Purchase with Peace of Mind</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advancing-digital-conferences-via-chatgpt-utilization/"><u>Advancing Digital Conferences via ChatGPT Utilization</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-guide-how-to-stop-your-resident-evil-village-from-crashing-on-pc/"><u>Complete Guide: How to Stop Your Resident Evil Village From Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-making-your-steam-games-work-seamlessly-in-windows-11/"><u>Comprehensive Guide: Making Your Steam Games Work Seamlessly in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dead-by-daylight-troubleshooting-solving-error-code-8014/"><u>Dead by Daylight Troubleshooting: Solving Error Code 8014</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-borderlands-3-gameplay-effective-solutions-to-fix-low-fps-on-pc/"><u>Enhance Your Borderlands 3 Gameplay: Effective Solutions to Fix Low FPS on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-incorrectly-entered-text-when-typing-errors-arise/"><u>Fixing Incorrectly Entered Text When Typing Errors Arise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010179905-gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/handling-common-browser-errors-when-ie-wont-show-the-webpage-anymore/"><u>Handling Common Browser Errors: When IE Won't Show the Webpage Anymore</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-iphone-videography-elevated-8-key-techniques-for-professional-recordings/"><u>In 2024, IPhone Videography Elevated 8 Key Techniques for Professional Recordings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-storm-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Storm 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-fix-guide-overcome-division-tcrash-challenges-easily/"><u>Instant Fix Guide: Overcome Division Tcrash Challenges Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speedy-repairs-enhancing-performance-and-reducing-lags-in-assassins-creed-valhalla/"><u>Speedy Repairs: Enhancing Performance & Reducing Lags in Assassins Creed: Valhalla</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>[New] In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-swift-guide-to-screenshots-via-ipados/"><u>[Updated] 2024 Approved Swift Guide to Screenshots via iPadOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtubes-revenue-revolution-a-practical-guide-for-monetization/"><u>[Updated] Youtube's Revenue Revolution A Practical Guide for Monetization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-the-darkness-troubleshooting-total-black-screens-on-pc-while-playing-rainbow-six-siege/"><u>Decode the Darkness: Troubleshooting Total Black Screens on PC While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992179229-enhance-your-gameplay-addressing-fps-dips-in-farming-simulator-grower-you-may-need-to-evaluate-your-growing-conditions-and-adjust-accordingly/"><u>Enhance Your Gameplay: Addressing FPS Dips in Farming Simulator Grower, You May Need to Evaluate Your Growing Conditions and Adjust Accordingly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-c65-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco C65 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solution-overcome-sluggish-performance-in-assassins-creed-valhalla/"><u>Instant Solution: Overcome Sluggish Performance in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcome-windows-10-sound-defects-by-reinstalling-drivers/"><u>Overcome Windows 10 Sound Defects by Reinstalling Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-keeping-fortnite-runs-smooth-without-interruption/"><u>Overcoming Common Issues: Keeping Fortnite Runs Smooth Without Interruption</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y36i-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y36i</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-required-enhance-your-cpu-to-comply-with-vanguards-minimum-specs/"><u>Update Required: Enhance Your CPU to Comply with Vanguard's Minimum Specs</u></a></li>
 </ul></div>
 

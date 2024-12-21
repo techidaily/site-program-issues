@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Phasmophobia: Tackling High Processor Usage"
-date: 2024-12-13T22:04:59.491Z
-updated: 2024-12-18T20:23:27.002Z
+date: 2024-12-12T19:20:07.978Z
+updated: 2024-12-19T22:48:46.586Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -47,11 +55,11 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -95,21 +103,17 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -122,10 +126,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -153,19 +153,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-online-audio-accessibility-ideal-tools-for-iphone-and-youtube-for-2024/"><u>[New] Effortless Online Audio Accessibility Ideal Tools for iPhone & YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-best-4k-video-converter-apps-for-mp3-output/"><u>2024 Approved Exploring Best 4K Video Converter Apps for MP3 Output</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-a-gif-artist-basic-steps-for-2024/"><u>Become a GIF Artist Basic Steps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-stardew-valley-from-keeping-black-screen-on-desktop/"><u>How to Stop Stardew Valley From Keeping Black Screen on Desktop</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/hing-into-youtube-success-a-starter-guide-for-profit-for-2024/"><u>Launching Into Youtube Success A Starter Guide for Profit for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/manejo-diario-semana-en-espanol/"><u>Manejo Diario: Semana en Español</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-expert-tips-for-fixing-biomutant-glitches-on-pcs/"><u>Mastering Stability: Expert Tips for Fixing Biomutant Glitches on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-hitman-3-connectivity-errors-strategies-that-work/"><u>Overcoming Hitman 3 Connectivity Errors: Strategies That Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionary-fixes-to-combat-low-fps-and-hitching-issues-in-the-division-2-expert-tips/"><u>Revolutionary Fixes to Combat Low FPS & Hitching Issues in The Division 2: Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-corsair-icue-not-responding-in-windows-10-or-11/"><u>Step-by-Step Solution to Fix Corsair iCUE Not Responding in Windows 10 or 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transforma-tu-formato-gif-en-un-eficiente-tiff-completamente-gratis-online-guia-simple/"><u>Transforma Tu Formato GIF en Un Eficiente TIFF Completamente Gratis Online - Guía Simple</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-successful-reconnection-of-your-iphone-to-itunes-on-a-windows/"><u>Troubleshooting Tips: Successful Reconnection of Your iPhone to iTunes on a Windows 지구톱 셀렉트롤</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-ios-177-release-could-offer-enhanced-security-over-future-ios-18-update-zdnet-insights/"><u>Upcoming IOS 17.7 Release Could Offer Enhanced Security Over Future iOS 18 Update | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-youtube-creators-subscription-leaders/"><u>[New] Top 5 YouTube Creators Subscription Leaders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-intel-driver-and-support-assistant-not-working-on-pc/"><u>[SOLVED] Intel Driver and Support Assistant Not Working on PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-elevate-video-editing-gratuitous-premiere-pro-tools/"><u>[Updated] 2024 Approved Elevate Video Editing Gratuitous Premiere Pro Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-download-sites-showcasing-exquisite-text-effects-for-2024/"><u>[Updated] Top Download Sites Showcasing Exquisite Text Effects for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-setup-guide-clearing-the-incorrect-configuration-error-message-error-code-1/"><u>Device Setup Guide: Clearing the 'Incorrect Configuration' Error Message (Error Code 1)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disneyplus-july-lineup-our-top-picks-for-kids-favorite-animated-adventures-july-2024/"><u>Disney+ July Lineup: Our Top Picks for Kids' Favorite Animated Adventures (July #2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-eliminating-game-glitches-in-persona-5-strikers-on-windows/"><u>Expert Tips for Eliminating Game Glitches in Persona 5 Strikers on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-immortals-fenyx-rising-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-snowrunner-from-continuously-crashing-your-pc/"><u>Fixes and Solutions: How to Stop SnowRunner From Continuously Crashing Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-find-x6-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Find X6 FRP Bypass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-framerate-dilemmas-a-guide-to-fix-stutter-and-improve-avatars-frontiers-of-pandora-gameplay/"><u>Overcoming Framerate Dilemmas: A Guide To Fix Stutter & Improve Avatar's Frontiers of Pandora Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivotal-points-in-adopting-bot-driven-assistance/"><u>Pivotal Points in Adopting Bot-Driven Assistance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-frequent-overwatch-2-pc-game-crashes-a-comprehensive-guide/"><u>Solving the Issue of Frequent Overwatch 2 PC Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-launch-of-it-takes-two-now-available/"><u>Successful Launch of 'It Takes Two' - Now Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-strategy-for-endless-riches-in-dragonia-a-guide-for-computer-users/"><u>The Ultimate Strategy for Endless Riches in Dragonia: A Guide for Computer Users</u></a></li>
 </ul></div>
 

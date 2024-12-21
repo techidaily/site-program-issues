@@ -1,7 +1,7 @@
 ---
 title: Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)
-date: 2024-12-14T21:14:29.269Z
-updated: 2024-12-19T07:48:23.380Z
+date: 2024-12-12T18:30:19.051Z
+updated: 2024-12-19T19:43:46.330Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 As one of the most awaited games in 2022, Elden Ring is finally here. However many players are not that happy with their gameplay. Various types of performance issues and technical bugs have been reported since the release. If you’re also experiencing**insufferable Elden Ring FPS drops and constant stuttering** , don’t worry. In this post, we’ve put together all the simple and quick fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  Here are 6 proven fixes for Elden Ring FPS drops and stuttering. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -27,10 +31,6 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 4. [**Disable Steam overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Disable Microsoft Device Association Root Enumerator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -50,6 +50,10 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -63,6 +67,10 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
 
@@ -72,10 +80,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 
 If this method doesn’t work, try the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Verify integrity of game files
 
  Missing or corrupted game files could also lead to annoying issues like Elden Ring FPS drops. Before moving on to the more advanced steps, you could check if there’s something wrong with your game files and repair it automatically in Steam. Here are the steps:
@@ -84,18 +88,18 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
@@ -107,24 +111,12 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -134,18 +126,26 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
@@ -156,14 +156,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -189,19 +189,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-time-stamps-on-youtube-videos/"><u>[New] 2024 Approved Mastering Time Stamps on YouTube Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-android-and-ios-wedding-timers-latest-app-rankings/"><u>[New] In 2024, Top 10 Android & iOS Wedding Timers Latest App Rankings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/op-10plus-creative-youtubes-channel-names-for-aspiring-vloggers-no-more-than-156-characters-for-2024/"><u>[New] Top 10+ Creative YouTubes Channel Names for Aspiring Vloggers (No More than 156 Characters) for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-download-any-song-on-fb-for-free/"><u>2024 Approved Download Any Song on FB for Free</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/cool-down-boost-up-secrets-to-gpu-thermal-management/"><u>Cool Down, Boost Up: Secrets to GPU Thermal Management</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-mobile-video-quality-top-4-strategies-to-brighten-iphone-hdr-in-adobe/"><u>In 2024, Maximize Mobile Video Quality Top 4 Strategies to Brighten iPhone HDR in Adobe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-a-comprehensive-guide/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' - A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transform-images-into-movies-xp-software-guide-for-2024/"><u>Transform Images Into Movies XP Software Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-msi-dragon-centre-stops-responding/"><u>Troubleshooting Steps When Your MSI Dragon Centre Stops Responding</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-core-principles-youtubes-social-contract/"><u>[New] 2024 Approved Core Principles YouTube's Social Contract</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>[New] The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcasting-brilliance-share-your-twitch-stream-on-fb/"><u>2024 Approved Broadcasting Brilliance Share Your Twitch Stream on FB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-issues-and-fixes-for-playing-evil-genius-2/"><u>Common Issues and Fixes for Playing Evil Genius 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discover-how-to-prevent-constant-crashes-in-lost-ark-for-your-computer-system/"><u>Discover How to Prevent Constant Crashes in Lost Ark for Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-what-to-do-if-you-cant-play-due-to-permission-issues/"><u>Fortnite Troubleshooting: What to Do If You Can’t Play Due to Permission Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-steams-problems-when-attempting-to-access-its-servers/"><u>How to Resolve Steam's Problems When Attempting to Access Its Servers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices/"><u>In 2024, Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-p40-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel P40 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsungs-big-reveal-key-announcements-rumored-innovations-and-what-to-watch-for/"><u>Samsung's Big Reveal : Key Announcements, Rumored Innovations & What to Watch For</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-2024-release-problems-for-the-last-epoch-on-personal-computers/"><u>Solving 2024 Release Problems for The Last Epoch on Personal Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138569257-9781440139246-the-root-of-all-healing/"><u>The Root of All Healing | Free Book</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-3-estrategias-para-converter-filmes-em-dvd-do-formato-mkv-compativel-com-windows-e-mac/"><u>Top 3 Estratégias Para Converter Filmes Em DVD Do Formato MKV (Compatível Com Windows E Mac)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Resolving Continuous Crashes in Samurai Warriors 5 for PC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-12-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 12 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tutorial-implementing-virtualization-with-hyper-v-on-your-windows-10-pc/"><u>Ultimate Tutorial: Implementing Virtualization with Hyper-V on Your Windows 10 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-and-ready-to-play-overcoming-the-black-load-hurdle-in-nba-2k21-202n4/"><u>Unstuck and Ready to Play: Overcoming the Black Load Hurdle in NBA 2K21 (202N4)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: What to Do If Paradox Launcher Won't Open"
-date: 2024-12-13T18:43:16.730Z
-updated: 2024-12-19T00:08:32.285Z
+date: 2024-12-17T01:06:46.871Z
+updated: 2024-12-20T03:05:26.101Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-dev-error-6328.jpg)
 
  Lately, players complained that Call of Duty Warzone became unplayable with the dev error 6328\. If you happen to be on the same boat, don’t worry. While the Warzone crashes with a fatal error have been commonplace especially after the update, there is something you can do to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -80,18 +84,14 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -101,22 +101,18 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
@@ -125,11 +121,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -141,6 +133,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -151,6 +147,10 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -176,22 +176,20 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge/"><u>[New] 2024 Approved Behind the Screen Discovering Samsung Galaxy S8's 4K Edge</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-scrutinizing-vrs-enchantment-and-challenges-ahead/"><u>[New] In 2024, Scrutinizing VR's Enchantment and Challenges Ahead</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts/"><u>[New] In 2024, The Ultimate OBS Studio Guide to Facebook Live Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-smart-way-to-store-video-meetings-on-devices/"><u>[Updated] 2024 Approved The Smart Way to Store Video Meetings on Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-storytelling-borders-for-instagram-videos/"><u>2024 Approved Elevate Your Storytelling Borders for Instagram Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-wealth-wave-of-the-philanthropic-maverick-mr-beast/"><u>2024 Approved The Wealth Wave of the Philanthropic Maverick, Mr. Beast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/although-fired-tiles-are-durable-they-should-be-handled-with-care-to-avoid-chipping-or-cracking-clean-gently-with-a-soft-cloth-when-needed-avoid-harsh-chemi564/"><u>Although Fired Tiles Are Durable, They Should Be Handled with Care to Avoid Chipping or Cracking. Clean Gently with a Soft Cloth when Needed; Avoid Harsh Chemicals that Could Damage the Surface</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-fix-resolving-centipede-error-message-effectively/"><u>Destiny 2 Fix: Resolving Centipede Error Message Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990448600-football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-startup-issues-with-maplestory-for-a-seamless-gaming-experience/"><u>How to Overcome Startup Issues with Maplestory for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-download-speeds-in-utorrent-top-strategies-that-worked/"><u>Improving Download Speeds in uTorrent - Top Strategies That Worked</u></a></li>
-<li><a href="https://discover-data.techidaily.com/millie-bobby-brown-2019-collection-hd-backgrounds-photos-and-pictures-for-pc-and-mobile-provided-by-yl-software/"><u>Millie Bobby Brown 2019 Collection: HD Backgrounds, Photos & Pictures for PC & Mobile | Provided by YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-google-meet-camera-failures-expert-tips-and-fixes/"><u>Overcoming Google Meet Camera Failures: Expert Tips and Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-computing-standards-best-non-windows-apps-for-win-11/"><u>Redefining Computing Standards: Best Non-Windows Apps for Win 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-chrome-stalling-problems-effective-troubleshooting-steps/"><u>Solve Your Chrome Stalling Problems - Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-issues-overcoming-stability-problems-with-fifa-22-on-personal-computers/"><u>Solved Issues: Overcoming Stability Problems with FIFA 22 on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-solutions-fixing-elder-scrolls-online-persistent-loading-problems/"><u>Tips and Solutions: Fixing Elder Scrolls Online Persistent Loading Problems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premiere-pros-finest-tools-free-and-exceptional-quality/"><u>[New] 2024 Approved Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-addressing-missing-image-display-in-youtubes-shorts/"><u>[Updated] Addressing Missing Image Display in YouTubes Shorts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-subtext-converting-srt-to-sub/"><u>2024 Approved Unlocking Subtext Converting SRT to SUB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-unreal-process-has-crashed-error-in-outriders-ue4-solution-guide/"><u>Expert Tips for Fixing 'Unreal Process Has Crashed' Error in Outriders - UE4 Solution Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998504478-fortnite-wont-load-here-are-the-best-troubleshooting-steps/"><u>Fortnite Won't Load? Here Are the Best Troubleshooting Steps!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-asus-monitor-drivers-instantly-download-and-installation-tips/"><u>Get the Newest ASUS Monitor Drivers Instantly – Download & Installation Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>In 2024, Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-a2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi A2 Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-vac-failure-in-steam-gaming/"><u>Navigating Through VAC Failure in Steam Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-alien-fireteam-elite-from-crashing-on-your-pc-with-these-tips/"><u>Prevent Alien: Fireteam Elite From Crashing on Your PC with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-mlb-the-show-21-connectivity-problems-how-to-fix/"><u>Resolved: MLB The Show 21 Connectivity Problems - How to Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-middle-earth-jotunheim-clans-freezing/"><u>Resolving Issues with Middle-Earth: Jotunheim Clans Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-initialization-errors-when-trying-to-boot-up-destiny-2-on-windows/"><u>Solved: Overcoming Initialization Errors When Trying To Boot Up Destiny 2 on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-youtube-editors-toolkit-for-post-publish-adjustments-for-2024/"><u>The Complete YouTube Editor's Toolkit for Post-Publish Adjustments for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-ping-problems-how-to-enhance-back-4-blood-network-performance/"><u>Troubleshooting Ping Problems: How to Enhance Back 4 Blood Network Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Freezes in Naraka: Point Blades – Effective Solutions Inside"
-date: 2024-12-15T21:01:00.133Z
-updated: 2024-12-18T16:03:24.753Z
+date: 2024-12-18T22:57:54.590Z
+updated: 2024-12-20T00:47:47.614Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System requirements
 
 | **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f379595bc7b1cd3050b5ae0744653e1ab5e0a3846
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
@@ -79,10 +83,6 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -105,10 +105,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **On Epic Games** :
 
 1. Open your library and find Naraka: Bladepoint. Click the**three-dot icon** next to the game title.
@@ -127,10 +123,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -154,6 +146,10 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To manually allocate paging file size** :
 
  If you want to increase your virtual memory to fix the crashing issue, or for a better gaming experience, follow the steps below:
@@ -172,11 +168,11 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your game still crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -196,7 +192,7 @@ If your game still crashes, try the next fix.
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
@@ -211,11 +207,15 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
@@ -225,10 +225,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
 **Here’s how to find out which one(s):**
@@ -237,13 +233,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -256,7 +252,7 @@ If this doesn’t solve your problem, try the last fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
@@ -269,6 +265,10 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -293,19 +293,17 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-painting-with-light-the-role-of-film-grade/"><u>[New] In 2024, Painting with Light The Role of Film Grade</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-revolutionizing-virtual-reality-top-pc-headsets-of-the-new-year-for-2024/"><u>[New] Revolutionizing Virtual Reality Top PC Headsets of the New Year for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-sierra-sovereign-dvd-and-media-cutting-tools/"><u>[New] Sierra Sovereign Dvd & Media Cutting Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-players-guide-fixing-the-infamous-error-code-23-glitch/"><u>Apex Legends Players Guide: Fixing the Infamous Error Code 23 Glitch</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-11-proplus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Realme 11 Pro+</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-prevent-repeated-crashing-of-immortals-fenyx-rising/"><u>Effective Solutions to Prevent Repeated Crashing of Immortals: Fenyx Rising</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-game-crashes-for-dragon-age-origins-on-new-windows-platform/"><u>How to Prevent Game Crashes for Dragon Age: Origins on New Windows Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-your-obs-microphone-problems-top-6-tips/"><u>How to Resolve Your OBS Microphone Problems – Top 6 Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-v-purse-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor V Purse Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insightful-critique-on-the-functionality-of-rca-video-doorbell-camera/"><u>Insightful Critique on the Functionality of RCA Video Doorbell Camera</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-3-outshines-rivals-as-zdnets-top-gadget-see-why-it-stands-out/"><u>Meta Quest 3 Outshines Rivals as ZDNet's Top Gadget - See Why It Stands Out!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-challenge-of-uninstalling-city-creation-game-2/"><u>Overcoming the Challenge of Uninstalling City Creation Game 2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-vpn-providers-comprehensive-evaluation-by-industry-experts-insights/"><u>Top-Ranking VPN Providers : Comprehensive Evaluation by Industry Experts - Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-minecraft-wont-launch/"><u>Troubleshooting Guide: Resolving Issues When Minecraft Won't Launch</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-dimming-tunes-windows-and-mac-strategies-for-2024/"><u>[New] Dimming Tunes Windows & Mac Strategies for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/dj-mixes-now-available-with-beatsources-enhanced-streaming-platform-expanded-offline-storage-options/"><u>DJ Mixes Now Available with Beatsource's Enhanced Streaming Platform, Expanded Offline Storage Options</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/exclusive-deal-alert-iphone-xs-unveiled-with-detailed-analysis-and-specifications/"><u>Exclusive Deal Alert - iPhone XS Unveiled with Detailed Analysis & Specifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-complete-non-functionality-vrchat-wont-load-or-start/"><u>Fixing Complete Non-Functionality: VRChat Won't Load or Start</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-resolve-zerodxgerror-device-hunk-in-win11/"><u>Guide to Resolve ZeroDXGError: Device HUNK in Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-correct-the-steam-wont-start-issue-with-these-effective-fixes-updated-guide/"><u>How to Correct the 'Steam Won't Start' Issue with These Effective Fixes (Updated Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-solutions-to-overcome-error-1053-timely-service-management/"><u>Immediate Solutions to Overcome Error 1053: Timely Service Management</u></a></li>
+<li><a href="https://discover-data.techidaily.com/passwortlosen-zurucksetzen-fur-windows-367-tipps-und-tricks/"><u>Passwortlosen Zurücksetzen Für Windows #367 - Tipps Und Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-and-easy-guide-enhance-youtube-shorts-with-new-images-for-2024/"><u>Quick & Easy Guide Enhance YouTube Shorts with New Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-proven-strategies-to-resolve-game-latency-issues-on-pcs-update/"><u>Smooth Sailing: Proven Strategies to Resolve Game Latency Issues on PCs - Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-gaming-optimization-proven-techniques-to-address-low-frames-per-second/"><u>Valorant Gaming Optimization: Proven Techniques to Address Low Frames per Second</u></a></li>
+<li><a href="https://media-tips.techidaily.com/vpn-friendly-smart-tv-sticks-which-ones-can-be-used/"><u>VPN-Friendly Smart TV Sticks: Which Ones Can Be Used?</u></a></li>
 </ul></div>
 

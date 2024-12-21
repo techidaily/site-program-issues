@@ -1,7 +1,7 @@
 ---
 title: Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer
-date: 2024-12-14T17:07:45.697Z
-updated: 2024-12-19T03:44:07.764Z
+date: 2024-12-17T18:43:46.239Z
+updated: 2024-12-19T18:30:00.746Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 | **Storage**   | 50 GB (SSD recommended)                            | 50 GB (SSD recommended)                          |
 | **DirectX**   | Version 11                                         | Version 12                                       |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  The first thing you can do is to verify Super People game files. Steam will help you scan and repair any missing or corrupted game files. Here’s how:
@@ -65,14 +69,14 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 2. Under the**Local files** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files-1.jpg)
 3. It may take a while for Steam to finish the process. When it’s done, restart the Steam client and launch the game.
 
 If the problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -86,21 +90,17 @@ If the problem persists, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run Super People. If updating the graphics driver doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Check for conflicting programs
 
@@ -124,10 +124,6 @@ If the problem persists, try the next fix.
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable overlays
 
  In-game overlays like in Steam or Discord are handy, but some reports say the overlays can cause Super People to crash. Some players have solved the crashing issue by disabling the overlays, so it’s definitely worth trying.
@@ -147,6 +143,10 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** , make sure **Enable the Steam Overlay while in-game is unchecked** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
 
 #### Discord
@@ -155,13 +155,17 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find **Game Overlay** . Toggle off **Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-53-25.jpg)
 
-If disabling in-game overlays doesn’t help, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If disabling in-game overlays doesn’t help, try the next fix.
 
 ## Fix 6: Keep your system up-to-date
 
@@ -177,7 +181,7 @@ If disabling in-game overlays doesn’t help, try the next fix.
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
@@ -188,7 +192,7 @@ If disabling in-game overlays doesn’t help, try the next fix.
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check the Windows Update is not running in the background while you’re playing the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Restore MSVCP140\_1.dll
@@ -198,10 +202,6 @@ If disabling in-game overlays doesn’t help, try the next fix.
  Go to[Microsoft official download page](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) and download the corresponding file for X64 version. Once the download is complete, run the executable file and follow on-screen instructions to complete the installation.
 
  X64 is for 64-bit and X84 is for 32-bit. If your PC is a 32-bit version, you won’t be able to run Super People since it’s not supported.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Super People
 
@@ -230,14 +230,24 @@ If disabling in-game overlays doesn’t help, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/deciphering-cyberpunk-2077s-error-2024-solutions-and-game-updates-explained/"><u>Deciphering Cyberpunk 2077'S Error 2024 - Solutions and Game Updates Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-streaming-woes-getting-your-screen-share-audio-back-on-track/"><u>Discord Streaming Woes: Getting Your Screen Share Audio Back On Track</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-troubleshooting-resolving-game-lags-and-performance-problems/"><u>Guilty Gear Strive Troubleshooting: Resolving Game Lags and Performance Problems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-adopting-innovative-approaches-to-elevate-your-fb-campaigns/"><u>In 2024, Adopting Innovative Approaches to Elevate Your FB Campaigns</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mozillas-new-update-causes-freezing-heres-your-fix-for-smooth-browsing/"><u>Mozilla's New Update Causes Freezing? Here's Your Fix for Smooth Browsing</u></a></li>
-<li><a href="https://win-popular.techidaily.com/revolutionizing-digital-audio-production-explore-the-new-features-in-pcdjs-major-dex-2-upgrade/"><u>Revolutionizing Digital Audio Production: Explore the New Features in PCDJ's Major Dex 2 Upgrade</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-tecno-pop-7-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Pop 7 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-download-instagram-highlights-in-2-ways/"><u>[New] 2024 Approved How to Download Instagram Highlights in 2 Ways?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-achieve-crystal-clear-slack-discussions-with-these-10-tools/"><u>[Updated] Achieve Crystal Clear Slack Discussions with These 10 Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pushing-visual-limits-in-depth-analysis-of-video-enhancer-22-for-2024/"><u>[Updated] Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-vollgultige-lizenz-fur-winx-dvd-extraktor-platin-kostenloses-probeexemplar-beziehen/"><u>1. Vollgültige Lizenz Für WinX DVD-Extraktor Platin, Kostenloses Probeexemplar Beziehen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-palworld-login-errors-on-ethereums-blockchain-discover-these-6-strategies/"><u>Fixing Palworld Login Errors on Ethereum's Blockchain - Discover These 6 Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-a-smooth-version-verification-in-final-fantasy-xiv-tips-and-tricks/"><u>How to Ensure a Smooth Version Verification in Final Fantasy XIV: Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-and-prevent-euro-truck-simulator-2-from-crashing-on-your-computer/"><u>How to Repair and Prevent Euro Truck Simulator 2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-alan-wake-2-from-crashing-essential-fixes-and-advice-for-players/"><u>How to Stop Alan Wake 2 From Crashing: Essential Fixes and Advice for Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-razr-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Razr 40 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-guide-to-resolving-cod-vanguards-error-5573-for-smooth-gaming/"><u>In-Depth Guide to Resolving COD Vanguard's Error 5573 for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-your-gameplay-stop-minecraft-lag-and-stutter-latest-strategies/"><u>Master Your Gameplay: Stop Minecraft Lag & Stutter - Latest Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005915242-overcoming-obs-recording-troubles-successfully-captured/"><u>Overcoming OBS Recording Troubles – Successfully Captured!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quickly-restore-sound-quality-with-these-5-tips-for-windows-nusers/"><u>Quickly Restore Sound Quality with These 5 Tips for Windows nUsers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-awaits-expert-solutions-for-stabilizing-your-titanfall-2-experience/"><u>Seamless Gaming Awaits! Expert Solutions for Stabilizing Your Titanfall 2 Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-g2-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo G2 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-strategies-to-thrive-on-reddit/"><u>Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategizing-your-data-space-pre-eminent-cloud-services-for-2024/"><u>Strategizing Your Data Space Pre-Eminent Cloud Services for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-humanity-fails-to-take-off-an-in-depth-look/"><u>Troubleshooting Steps When Humanity Fails to Take Off - An In-Depth Look</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aimp4-5/"><u>ウィンクスビデオAIのMP4変換手法：音声取得とビデオ圧縮完全ガイド - ページ5解説</u></a></li>
 </ul></div>
 

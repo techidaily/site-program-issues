@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Not Found' Issue When Trying to Enter Fortnite
-date: 2024-08-23T17:24:03.595Z
-updated: 2024-08-24T17:24:03.595Z
+date: 2024-12-13T22:42:05.230Z
+updated: 2024-12-20T00:06:05.037Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 
 ## Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9593219518-1024x627.jpg)
 
  Recently, many Fortnite PC players have been reporting that**Fortnite gets stuck on the loading screen** . For some, they can’t get past the Fortnite screen in the beginning after clicking**Launch** with the Epic Launcher. For others, after they select a game mode, Fortnite finds a game but gets stuck on the loading screen into the match.
@@ -37,17 +34,9 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -59,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
@@ -68,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 1. From the GeForce Experience app, click the**Settings** icon in the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
@@ -93,36 +82,37 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4c9c13ba1.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Fortnite as administrator
 
  Running an application as administrator can give you administrative rights to use the app. And this will hopefully fix the Fortnite stuck on loading screen problem.
 
 1. Make sure Fortnite is closed.
 2. Right-click the Epic Games Launcher icon, and select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for account issues
 
@@ -148,8 +138,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +145,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-practices-apps-and-sites-mastering-photo-framing/"><u>[Updated] Best Practices Apps & Sites - Mastering Photo Framing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-fixes-implemented-fps-and-stuttering-problems-addressed-for-pc-gamers/"><u>Battlefield 2042 - Fixes Implemented: FPS and Stuttering Problems Addressed for PC Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-unresponsive-chrome-browser-quick-reboot-solutions/"><u>Dealing with Unresponsive Chrome Browser - Quick Reboot Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-boot-issues-solutions-for-when-outriders-refuses-to-start/"><u>Fixing PC Boot Issues: Solutions for When Outriders Refuses to Start</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-itel-p55t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Itel P55T Devices</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/lg-stylo-6-craftsmens-guide-the-perfect-blend-of-style-and-functionality/"><u>LG Stylo 6 Craftsmen's Guide - The Perfect Blend of Style & Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-x-beginners-guide-to-quick-tips-and-tricks-x-was-previously-known-as-twitter/"><u>Mastering X: Beginner's Guide to Quick Tips and Tricks (X Was Previously Known as Twitter)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-controller-detection-errors-in-steam-on-a-windows-platform/"><u>Overcoming Controller Detection Errors in Steam on a Windows Platform</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/passaggio-di-disco-rigido-tra-due-computer-metodo-semplificato-per-windows-10-utenti/"><u>Passaggio Di Disco Rigido Tra Due Computer: Metodo Semplificato per Windows 10 Utenti</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-chromes-loading-problems-tips-and-tricks-for-optimal-performance/"><u>Troubleshooting Chrome's Loading Problems: Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-disconnected-status-from-blizzards-online-gaming-servers/"><u>Troubleshooting Steps: Resolving Disconnected Status From Blizzard's Online Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-minecraft-lag-issues/"><u>Ultimate Guide: Eliminating Minecraft Lag Issues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-full-potential-with-ps3-video-converter-on-mac-a-comprehensive-guide/"><u>Unlocking Full Potential with PS3 Video Converter on Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-money-potential-a-beginners-guide-on-periscope/"><u>Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+</ul></div>
 

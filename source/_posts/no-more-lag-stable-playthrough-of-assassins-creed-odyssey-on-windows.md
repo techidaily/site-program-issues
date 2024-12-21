@@ -1,7 +1,7 @@
 ---
 title: No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!
-date: 2024-12-16T11:30:45.868Z
-updated: 2024-12-19T05:25:42.307Z
+date: 2024-12-17T20:36:10.366Z
+updated: 2024-12-20T02:09:37.606Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Assassin’s Creed Odyssey crashing
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
 
@@ -76,15 +80,15 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -104,6 +108,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
@@ -136,16 +144,12 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -154,10 +158,6 @@ Open Assassin’s Creed Odyssey and see if it works.
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
 
@@ -186,22 +186,20 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[New] 2024 Approved Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-potential-your-guide-to-obs-android-broadcasts/"><u>[New] In 2024, Unlocking Potential Your Guide to OBS Android Broadcasts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-a-comprehensive-approach-to-adding-text-overlays-vimeo-for-2024/"><u>[Updated] A Comprehensive Approach to Adding Text Overlays (Vimeo) for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-precision-control-for-incredible-android-time-lapses/"><u>[Updated] In 2024, Precision Control for Incredible Android Time-Lapses</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/dont-panic-over-data-loss-easy-guide-to-fixing-damaged-refs-drives/"><u>Don't Panic Over Data Loss - Easy Guide to Fixing Damaged ReFS Drives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-ark-gameplay-master-the-art-of-fps-boosting-on-pc/"><u>Enhance ARK Gameplay: Master the Art of FPS Boosting on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-critical-ntdlldll-error-causing-system-crashes-in-windows-11-and-10/"><u>Fixing the Critical ntdll.dll Error Causing System Crashes in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014051615-fortnite-login-restrictions-heres-how-to-secure-your-rightful-entry-into-gameplay/"><u>Fortnite Login Restrictions? Here’s How to Secure Your Rightful Entry Into Gameplay!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuttering-glitch-in-total-war-three-kingdoms/"><u>How to Overcome the Stuttering Glitch in Total War: Three Kingdoms?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-faster-powerpoint-tips-for-quick-video-viewing/"><u>In 2024, Faster PowerPoint Tips for Quick Video Viewing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/luminous-color-corrector-kit/"><u>Luminous Color Corrector Kit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-troubleshooting-stop-horizon-forbidden-west-from-freezing-now/"><u>PC Gaming Troubleshooting: Stop Horizon Forbidden West From Freezing Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-realme-v30t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme V30T? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-tips-for-overcoming-steams-corrupted-disc-errors/"><u>Quick Fix Tips for Overcoming Steam's Corrupted Disc Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-ahead-no-more-fps-drops-for-forza-horizon-5-players-on-windows-machines/"><u>Smooth Sailing Ahead: No More FPS Drops for Forza Horizon 5 Players on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-unveiled-successfully-starting-your-game-of-resident-evil-village/"><u>Solution Unveiled: Successfully Starting Your Game of Resident Evil Village</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/xmas-joy-gifting-apps-on-microsoft-store-platform/"><u>Xmas Joy: Gifting Apps on Microsoft Store Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-autoplay-youtube-on-mobile-no-distractions/"><u>[New] In 2024, AutoPlay YouTube on Mobile, No Distractions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-call-recording-with-facetime-advancements/"><u>[New] Revolutionizing Call Recording with FaceTime Advancements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>[New] Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes/"><u>[Updated] In 2024, The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>2024 Approved Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-straightforward-path-to-iphone-screen-capture/"><u>A Straightforward Path to iPhone Screen Capture</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-troubled-startup-in-call-of-duty-black-ops-4/"><u>Effective Fixes for Troubled Startup in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-motorola-moto-g84-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Moto G84 5G? Try These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-access-football-manager-2022-despite-the-postponed-launch-fixes-inside/"><u>How to Access Football Manager 2022 Despite the Postponed Launch - Fixes Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-black-ops-cold-war-ui-glitch-27711-fix-and-troubleshoot/"><u>Solution for 'Black Ops Cold War' UI Glitch #27711 - Fix & Troubleshoot</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unlocking-the-potential-of-your-iphones-wifi-sharing-abilities/"><u>Step-by-Step Instructions: Unlocking the Potential of Your iPhone's WiFi Sharing Abilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-troubleshoot-and-solve-rainbow-six-siege-connection-problems-effectively/"><u>Steps to Troubleshoot and Solve Rainbow Six Siege Connection Problems Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-playtime-interruptions-expert-advice-on-fixing-forza-horizon-5-lag-issues/"><u>Tackling Playtime Interruptions: Expert Advice on Fixing Forza Horizon 5 Lag Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-the-incompatible-driver-issue-on-rainbow-six-extraction-games/"><u>Troubleshooting: Overcoming the Incompatible Driver Issue on Rainbow Six Extraction Games</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29e-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

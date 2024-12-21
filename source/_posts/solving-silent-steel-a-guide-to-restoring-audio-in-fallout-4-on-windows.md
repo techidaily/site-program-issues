@@ -1,7 +1,7 @@
 ---
 title: "Solving Silent Steel: A Guide to Restoring Audio in Fallout 4 on Windows"
-date: 2024-08-23T17:23:24.558Z
-updated: 2024-08-24T17:23:24.558Z
+date: 2024-12-12T21:16:27.740Z
+updated: 2024-12-19T16:52:10.152Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -46,24 +50,23 @@ The outdated or broken graphics driver often crashes the game.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
- Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -71,16 +74,19 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -94,11 +100,6 @@ The outdated or broken graphics driver often crashes the game.
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
 
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
@@ -111,9 +112,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 `-useallavailablecores -high`
@@ -141,8 +139,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-bring-back-the-buzz-transforming-previous-media-with-ig-filters-for-2024/"><u>[New] Bring Back the Buzz Transforming Previous Media with IG Filters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-football-manager-2019-crash/"><u>[Solved] How to Fix Football Manager 2019 Crash?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>[Updated] 2024 Approved Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comparative-study-pre-and-post-vegaspro-19/"><u>[Updated] A Comparative Study Pre and Post-VegasPro '19</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-tested-fixes-for-error-6-issues-in-call-of-duty-warzone-and-mod-wwii-games-on-windows-systems/"><u>Battle-Tested Fixes for Error 6 Issues in Call of Duty Warzone and Mod WWII Games on Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-security-with-a-new-user-code-for-fb/"><u>Elevating Security with a New User Code for FB</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epa-2015-glyphosate-and-aminomethylphosphonic-acid-retrieved-from-httpswwwepagovinventorysearchresultssourcegandcompoundandnameaminomethylphphosphonic20acid403/"><u>EPA (2015). Glyphosate and Aminomethylphosphonic Acid. Retrieved From https://www.epa.gov/inventory/search_results/?source=G&compound=&name=AMINOMETHYLPHPHOSPHONIC ACID&smi=C13H8NClO5P</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-crashing-in-life-is-strange-true-colors-step-by-step-solutions/"><u>Expert Tips to Resolve Crashing in Life Is Strange: True Colors - Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a58-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A58 4Gwith/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6s-plus-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6s Plus? Complete Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-soft-amplitude-in-fl-studio-tracks/"><u>In 2024, Sculpting Soft Amplitude in FL Studio Tracks</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-begins-fbs-ad-chief-quits/"><u>New Era Begins: FB's Ad Chief Quits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-intel-system-utilities-errors-on-your-computer-a-step-by-step-guide/"><u>Resolving Intel System Utilities Errors on Your Computer - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-display-dilemma-permanent-fix-for-wows-screen-glitch/"><u>Solve Your Display Dilemma: Permanent Fix for Wow's Screen Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-resolving-persistent-black-screen-problems-in-discords-share-feature/"><u>Success Story: Resolving Persistent Black Screen Problems in Discord's Share Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-crash-issues-in-nioh-2-full-experience/"><u>Troubleshooting Tips for Resolving Crash Issues in Nioh 2 Full Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-no-matches-issues-on-bumble/"><u>Ultimate Guide: Resolving 'No Matches' Issues on Bumble</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006825560-unveiling-the-truth-football-manager-2022-holds-off-onto-the-pitch-problems-fixed/"><u>Unveiling the Truth: Football Manager 2022 Holds Off Onto The Pitch – Problems Fixed!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/windows-10-video-compression-made-easy-top-10-free-solutions-for-2024/"><u>Windows 10 Video Compression Made Easy Top 10 Free Solutions for 2024</u></a></li>
+</ul></div>
 

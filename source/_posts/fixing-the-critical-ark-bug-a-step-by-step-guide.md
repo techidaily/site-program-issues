@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Critical 'Ark' Bug: A Step-by-Step Guide"
-date: 2024-12-11T19:25:02.431Z
-updated: 2024-12-18T17:47:35.858Z
+date: 2024-12-18T17:16:42.138Z
+updated: 2024-12-20T01:48:15.462Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6b81d20b1d6e26d0457009bbfe739603019d02e6b
 ## Battle the Lag: Ultimate Guide to Fixing Halo Infinite's PC Freezes in Just 7 Steps
 
 We understand how frustrating it can be to run into the freezing issue when playing Halo Infinite. And we’re here to help. In our article, we’ll walk you through 7 methods to fix your freezing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,11 +36,7 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![Halo Infinite freezing PC how to fix](https://cdn.akamai.steamstatic.com/steam/apps/1240440/ss_df472c9be04184fae305b8fee28fa384a2d18846.1920x1080.jpg?t=1639025793)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Download & install all Windows updates
@@ -49,10 +49,6 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -74,12 +70,20 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After updating drivers, restart your PC and check if your problem has been resolved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating drivers doesn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Delete temp files
 
@@ -91,10 +95,6 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
@@ -103,11 +103,11 @@ If updating drivers doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
- Now launch Halo Infinite. If your problem persists, move on to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
 ## 4\. Disable background applications
 
@@ -119,15 +119,19 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -144,7 +148,7 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
@@ -159,11 +163,11 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
 
@@ -178,10 +182,6 @@ If this doesn’t help, try the next fix below.
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now relaunch your game and you should be able to play in rows without having the annoying freezing issue.
 
@@ -218,22 +218,16 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/common-fixes-for-issues-updating-the-official-minecraft-game-launcher/"><u>Common Fixes for Issues Updating the Official Minecraft Game Launcher</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-ii-resurrected-update-issues-steps-to-resolve-a-failed-game-start/"><u>Diablo II Resurrected Update Issues - Steps to Resolve a Failed Game Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-game-over-frustration-proven-strategies-to-resolve-state-of-decay-2-crashing-issues-2024-update/"><u>End the 'Game Over' Frustration: Proven Strategies to Resolve State of Decay 2 Crashing Issues - 2024 Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/hide-your-contacts-delete-email-post-login-in-windows/"><u>Hide Your Contacts: Delete Email Post Login in Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-play-the-ultimate-fix-guide-to-overcome-stuttering-in-hogwarts-legacy/"><u>Improve Your Play: The Ultimate Fix Guide to Overcome Stuttering in Hogwarts Legacy</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-examining-youtubes-highlighted-comment-mechanics/"><u>In 2024, Examining YouTube's Highlighted Comment Mechanics</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-bug-fix-the-end-of-reconnect-woes-for-players/"><u>League of Legends Bug Fix - The End of Reconnect Woes for Players</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/master-the-art-of-crypto-sales-with-techniques-from-yl-computings-expertise-in-blockchain-solutions/"><u>Master the Art of Crypto Sales with Techniques From YL Computing's Expertise in Blockchain Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-steam-for-better-gameplay-how-to-increase-its-speeds/"><u>Optimizing Steam for Better Gameplay: How to Increase Its Speeds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/terraria-2024-update-causing-crashes-heres-how-to-resolve-them-quickly/"><u>Terraria 2024 Update Causing Crashes? Here's How to Resolve Them Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-successful-swtor-initialization/"><u>Troubleshooting Steps for Successful SWTOR Initialization</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube/"><u>[New] Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-storytelling-free-soundtrack-options-available/"><u>[Updated] Elevate Storytelling - Free Soundtrack Options Available!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-to-diagnosing-and-solving-connection-problems-in-path-of-exile/"><u>2024 Ultimate Guide to Diagnosing and Solving Connection Problems in Path of Exile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-unstucking-and-fixing-compiling-shaders-problems/"><u>Call of Duty Black Ops Cold War: Unstucking and Fixing 'Compiling Shaders' Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-error-code-crossbow-in-your-minecraft-adventures/"><u>Comprehensive Fix for 'Error Code: Crossbow' In Your Minecraft Adventures</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-7-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 7 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-samsung-galaxy-m34-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Samsung Galaxy M34</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-pop-7-pro-easily-by-drfone-android/"><u>How To Unlock a Tecno Pop 7 Pro Easily?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-horizon-zero-dawn-gameplay-with-fps-improvements-and-advanced-performance-boosting-strategies/"><u>Revamp Horizon Zero Dawn Gameplay with FPS Improvements and Advanced Performance Boosting Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/software-digiartistry-winxdvd-end-user-license-agreement-overview/"><u>Software DigiArtistry: WinXDVD End-User License Agreement Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-gaming-101-integrating-emudeck/"><u>Steam Deck Gaming 101: Integrating EmuDeck</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes"
-date: 2024-12-17T01:59:52.062Z
-updated: 2024-12-18T21:24:02.233Z
+date: 2024-12-19T02:02:28.893Z
+updated: 2024-12-20T03:46:57.002Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 
 If the problem persists, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  The constant crashes might indicate a driver issue. In other words, you might be using**a faulty or outdated graphics driver** . You should always keep your driver up to date for the best in-game performance. And this is especially the case when you are dealing with new titles like New World.
@@ -66,8 +62,16 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -76,7 +80,7 @@ If the problem persists, take a look at the next fix below.
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
@@ -104,7 +108,7 @@ Here’s how you can check for updates manually:
 If your system is already up to date, you can try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
@@ -116,6 +120,10 @@ If your system is already up to date, you can try the next method.
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
@@ -129,15 +137,11 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
@@ -146,12 +150,12 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
@@ -164,10 +168,6 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * The**savedata** folder  
    * The**user\_preload\_settings** file
@@ -192,16 +192,16 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-top-vr-treadmills-review/"><u>[Updated] Top VR Treadmills Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/an-honored-list-top-15-stop-motion-gems-through-ages/"><u>An Honored List Top 15 Stop-Motion Gems Through Ages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-severe-errors-in-ark-software/"><u>Expert Advice on Overcoming Severe Errors in Ark Software</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-guide-safely-upgrade-from-an-hdd-to-a-samsung-ssd/"><u>How-To Guide: Safely Upgrade From an HDD to a Samsung SSD</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-nikon-a10-stunning-images-with-tricky-interface/"><u>Inexpensive Nikon A10: Stunning Images with Tricky Interface</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-solutions-for-persistent-warzone-20-crashes-on-pcs/"><u>Mastering Stability: Effective Solutions for Persistent Warzone 2.0 Crashes on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-visual-error-guide-overcoming-errgfxstate-hurdles/"><u>Red Dead Redemption 2 Visual Error Guide - Overcoming ERR_GFX_STATE Hurdles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-and-gaming-controllers-ensuring-seamless-detection-on-windows-machines/"><u>Steam and Gaming Controllers: Ensuring Seamless Detection on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-non-opening-discord-app-running-again/"><u>Step-by-Step Guide to Get Your Non-Opening Discord App Running Again</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-movie-making-blueprint-easy-and-fast/"><u>Updated 2024 Approved The Ultimate Movie Making Blueprint Easy and Fast</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/verbal-enchantments-crafting-compelling-pickup-jokes/"><u>Verbal Enchantments: Crafting Compelling Pickup Jokes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>[New] 2024 Approved Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-live-tiktok-broadcasting-on-your-computer/"><u>[New] Navigating Live TikTok Broadcasting on Your Computer</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>[Updated] Crafting Chorus in a Click Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/activating-virtualization-a-detailed-walkthrough-of-hyper-v-on-windows-10/"><u>Activating Virtualization: A Detailed Walkthrough of Hyper-V on Windows 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-to-declutter-your-hard-drive-and-boost-system-efficiency-tips-from-yl-computing/"><u>Effective Strategies to Declutter Your Hard Drive & Boost System Efficiency - Tips From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-batman-arkham-knight-crashing-and-critical-bugs/"><u>Fixes for Batman: Arkham Knight Crashing and Critical Bugs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-motorola-moto-g04-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Moto G04? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-alan-wake-2-stability-issues-expert-guidance/"><u>Resolving Alan Wake 2 Stability Issues – Expert Guidance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/this-title-indicates-that-it-is-a-step-by-step-guide-to-fixing-startup-issues-and-includes-the-current-year-for-freshness/"><u>This Title Indicates that It Is a Step-by-Step Guide to Fixing Startup Issues and Includes the Current Year for Freshness</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/0-companion-apps-for-seamless-video-to-mp3-conversions/"><u>Top 10 Companion Apps for Seamless Video to Mp3 Conversions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-error-code-0xc0000185-definition-and-troubleshooting-steps/"><u>Understanding Error Code 0xC0000185: Definition & Troubleshooting Steps</u></a></li>
 </ul></div>
 

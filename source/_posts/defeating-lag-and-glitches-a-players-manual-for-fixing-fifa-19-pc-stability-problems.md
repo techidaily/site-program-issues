@@ -1,7 +1,7 @@
 ---
 title: "Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems"
-date: 2024-12-12T02:49:29.738Z
-updated: 2024-12-19T08:16:42.320Z
+date: 2024-12-13T18:16:55.442Z
+updated: 2024-12-19T16:12:16.341Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -44,6 +40,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -54,13 +54,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -78,6 +78,10 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -85,6 +89,10 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -110,7 +118,7 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -121,6 +129,10 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -134,10 +146,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -150,21 +158,17 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -181,10 +185,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -217,18 +217,19 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-feel-motivated-10-epic-movies-with-deep-impact-for-2024/"><u>[Updated] Feel Motivated 10 Epic Movies with Deep Impact for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-insights-tracking-your-insta-posts-viewers/"><u>[Updated] Mastering Insights Tracking Your Insta Posts' Viewers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide/"><u>2024 Approved Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/choosing-between-vlc-and-mpc-for-free-video-viewing-for-2024/"><u>Choosing Between VLC and MPC for Free Video Viewing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013180582-common-fixes-for-crusader-kings-ii-launch-failures-get-gaming-now/"><u>Common Fixes for Crusader Kings II Launch Failures - Get Gaming Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/oneplus-8t-assessment-speed-shines-camera-quality-dulls/"><u>OnePlus 8T Assessment: Speed Shines, Camera Quality Dulls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004036022-samurai-warriors-5-pc-stability-issues-heres-what-you-need-to-know/"><u>Samurai Warriors 5 PC Stability Issues? Here's What You Need to Know!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-speedy-fixes-to-resolve-roblox-issues-on-your-pc/"><u>Top 6 Speedy Fixes to Resolve Roblox Issues on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-techniques-to-smooth-out-minecraft-play-on-your-computer/"><u>Top Techniques to Smooth Out Minecraft Play on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-ensuring-smooth-gameplay-on-your-computer-with-spellbreak/"><u>Troubleshooting Guide: Ensuring Smooth Gameplay on Your Computer with Spellbreak</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-eliminate-v-rising-frame-drops-and-freeze-ups-on-pc/"><u>Ultimate Fixes to Eliminate 'V Rising' Frame Drops and Freeze-Ups on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-how-to-screen-record-on-mac-with-shortcuts/"><u>[New] In 2024, How to Screen Record on Mac with Shortcuts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-instantvidwin11-direct-straightforward-capture-tool/"><u>[Updated] InstantVidWin11 Direct, Straightforward Capture Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-laughter-in-every-note-essential-ringtones-for-2024/"><u>[Updated] Laughter in Every Note Essential Ringtones for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-journey-from-gifs-to-stickers-perfect-instructions-for-all-chat-platforms/"><u>2024 Approved Journey From GIFs to Stickers Perfect Instructions for All Chat Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitches-proven-methods-for-unfreezing-borderlands-3-during-playtime/"><u>Beat the Glitches: Proven Methods for Unfreezing Borderlands 3 During Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-not-responding-errors-in-madden-22-simple-steps-to-success/"><u>Fixing 'Not Responding' Errors in Madden 22 – Simple Steps to Success</u></a></li>
+<li><a href="https://fox-place.techidaily.com/hd-bubble-themed-walls-and-graphics-premium-collection-by-yl-computing/"><u>HD Bubble-Themed Walls & Graphics - Premium Collection by YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-action-packed-angling-best-fishing-cameras-ranked/"><u>In 2024, Action-Packed Angling Best Fishing Cameras Ranked</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia Phone FRP Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-proven-fixes-for-assassins-creed-valhalla-bugs/"><u>Mastering Smooth Gameplay: Proven Fixes for Assassin's Creed Valhalla Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-eradicating-slowdown-woes-in-fortnite-gaming/"><u>Solution Found: Eradicating Slowdown Woes in Fortnite Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Tips for Resolving 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-pc-when-call-of-duty-mobile-suit-warzone-ii-continuously-crashes/"><u>Troubleshooting Your PC When Call of Duty: Mobile Suit Warzone II Continuously Crashes</u></a></li>
 </ul></div>
 

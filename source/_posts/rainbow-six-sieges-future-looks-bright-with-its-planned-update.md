@@ -1,7 +1,7 @@
 ---
 title: Rainbow Six Siege's Future Looks Bright with Its Planned Update !
-date: 2024-08-23T17:20:06.490Z
-updated: 2024-08-24T17:20:06.490Z
+date: 2024-12-15T21:14:24.009Z
+updated: 2024-12-20T00:40:55.333Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 
 Wondering how you can fix the error “Unable to launch game, please verify your game data. ” when trying to play**GTA 5** or**Red Dead Redemption 2** ? You’re on the right page to get your answers! In our article, we’ll walk you through the whole process to get past this error message.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -31,15 +28,8 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 5. **[Run the launcher as administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Delete the Rockstar Games folders](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 1\. Verify your game files
 
  Obviously, when this error message pops up, the first thing you would do is to verify the game files. If you’ve done this for multiple times but it still doesn’t work, move to[fix 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -51,13 +41,14 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![Rockstar Games Launcher verify game files](https://images.drivereasy.com/wp-content/uploads/2021/12/rockstar-verify.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Upon completion, a message will pop up above the system tray stating that your game is verified and ready to play.
 
  However, if the error message “Unable to launch game, please verify your game data. ” still appears, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Download and install all Windows updates
 
  Before tweaking any settings within the launcher, you should check if there are Windows updates available. Windows updates come with bug fixes and new features. Downloading and installing all Windows updates is probably the best shot to fix any issues you’re having.
@@ -67,13 +58,18 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update your drivers
 
  After you’ve confirmed the integrity of your game files is intact and you have the latest Windows version, it’s time you check if your drivers,**especially your graphics driver** , are up-to-date. Using outdated drivers can cause a wide variety of issues with your programs. Therefore, you should check if there are any driver updates available.
@@ -83,20 +79,29 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable background applications
 
@@ -109,8 +114,9 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
@@ -130,18 +136,12 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 6\. Delete the Rockstar Games folders
 
  If none of the fixes listed above help, you should try deleting the Social Club folder from**Program Files** and**Program Files (x86)** . It’s usually located on**C:\\Program Files\\Rockstar Games** and**C:\\Program Files (x86)\\Rockstar Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
 
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
@@ -160,8 +160,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +167,23 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-psychonauts-2-keeps-crashing-on-pc/"><u>[SOLVED] Psychonauts 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pixelpioneer-screensaver-logging/"><u>[Updated] 2024 Approved PixelPioneer Screensaver Logging</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-amplify-your-creative-impact-youtube-studio-editing-essentials/"><u>[Updated] Amplify Your Creative Impact YouTube Studio Editing Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-8-webcams-to-elevate-your-livestreams/"><u>2024 Approved Premier 8 Webcams to Elevate Your Livestreams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-obstacles-for-smooth-final-exam-release-tips-and-tricks/"><u>Bypassing Obstacles for Smooth Final Exam Release - Tips & Tricks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dji-flight-pattern-review-phantom-3/"><u>DJI Flight Pattern Review - Phantom 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-troubleshoot-discords-non-functional-screen-sharing-sound-issue/"><u>Fix: How to Troubleshoot Discord's Non-Functional Screen Sharing Sound Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location on TikTok to See More Content On your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-interruptions-a-complete-guide-to-solving-total-war-warhammer-ii-crashes/"><u>Overcoming Game Interruptions - A Complete Guide to Solving Total War: Warhammer II Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-voice-clarity-in-discord/"><u>Restored Voice Clarity in Discord</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/social-media-music-rules-and-regulations/"><u>Social Media Music Rules and Regulations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-note-30-vip-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Note 30 VIP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-darkest-dungeon-s-gt-mkii-on-your-gaming-rig/"><u>Troubleshooting Persistent Crashes in Darkest Dungeon ˈs Gt MkII on Your Gaming Rig</u></a></li>
+<li><a href="https://win11.techidaily.com/winirq-fixing-killer-soundsystem-problems/"><u>WinIRQ: Fixing Killer Soundsystem Problems</u></a></li>
+</ul></div>
 

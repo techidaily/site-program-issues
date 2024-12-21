@@ -1,7 +1,7 @@
 ---
 title: "Easy Fixes: Get Your Thaumaturge App Running Smoothly Again on Your Computer"
-date: 2024-08-28T06:21:03.436Z
-updated: 2024-08-29T06:21:03.436Z
+date: 2024-12-14T21:13:26.797Z
+updated: 2024-12-20T03:06:34.042Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -78,9 +75,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -89,35 +83,41 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run the game, you should give this fix a try.
 
  1) Locate the **executable file** of Star Wars Jedi in your PC. Right-click on it and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -132,6 +132,10 @@ If you continue to have the crashing problem, please proceed to Fix 3.
  1) Log in Steam and click **LIBRARY** .
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
@@ -155,9 +159,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 2) Click**Library** in the left pane, then click the**cog icon** under Star Wars Jedi.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
  3) In the drop-down menu, click**Verify** .
@@ -171,8 +172,9 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Close unnecessary programs
 
  If there’s a program in your PC that conflicts with Star Wars Jedi, you’ll probably fail to run the game. Although this kind of software clashes don’t occur very often, it’s still worth trying to close unnecessary programs.
@@ -183,20 +185,12 @@ To completely shut down a program:
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
@@ -221,9 +215,6 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
@@ -231,8 +222,9 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extra Info:**Unreal Engine crashes**
 
  Some players reported that they’ve encountered crashes relating to Unreal Engine and received an error message reading “Unreal Engine is exiting due to D3D device being lost.” If that’s also the problem for you, here are two articles you can refer to:
@@ -255,8 +247,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +254,20 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-your-content-with-vimeo-links/"><u>[New] 2024 Approved Unlocking Your Content with Vimeo Links</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-youtube-beginnings-15-editing-samples/"><u>[New] In 2024, Best YouTube Beginnings 15 Editing Samples</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-free-online-editor-suites-ranked-15/"><u>[New] In 2024, Essential Free Online Editor Suites - Ranked #15</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-the-smm-landscape-key-steps-to-success/"><u>[New] In 2024, Navigating the SMM Landscape Key Steps to Success</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>[Updated] Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bringing-vision-to-life-the-art-of-post-color-enhancement-for-2024/"><u>Bringing Vision to Life The Art of Post-Color Enhancement for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-how-to-fix-the-endless-loading-screen-in-roblox/"><u>Fixed: How to Fix the Endless Loading Screen in Roblox</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-broadcom-bluetooth-driver-on-windows-1087-devices/"><u>How to Install Broadcom Bluetooth Driver on Windows 10/8/7 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-fifa-19-from-freezing-or-crashing-on-your-computer-solutions-proven-effective/"><u>How to Stop FIFA 19 From Freezing or Crashing on Your Computer - Solutions Proven Effective</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-epic-games-fortnite-ls-0013-startup-bug/"><u>Resolved: Fixes for Epic Games Fortnite LS-0013 Startup Bug</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-stuck-on-load-screen-here-are-your-fixes/"><u>Sea of Thieves Stuck on Load Screen? Here Are Your Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-fixing-biomutant-game-crashes-on-pc/"><u>Ultimate Troubleshooting Guide: Fixing Biomutant Game Crashes on PC</u></a></li>
+</ul></div>
 

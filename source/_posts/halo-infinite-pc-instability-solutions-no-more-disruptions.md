@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite PC Instability Solutions - No More Disruptions
-date: 2024-12-12T16:52:25.706Z
-updated: 2024-12-18T20:47:58.237Z
+date: 2024-12-19T03:26:52.409Z
+updated: 2024-12-20T02:13:35.401Z
 tags:
   - win11
   - win10
@@ -44,22 +44,14 @@ Here’s how:
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, restart Halo Infinite and check if the issue persists.
 
 If this doesn’t stop the crash, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Disable in-game overlays
 
@@ -73,14 +65,10 @@ Here’s how to disable Steam Overlay:
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check if you can play Halo Infinite normally.
 
@@ -110,15 +98,15 @@ Now check if you can play Halo Infinite normally.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Check for conflicting programs
 
  According to some players, Halo Infinite doesn’t get along well with some hardware-monitoring tools. So you can check if your PC is running programs like**MSI Afterburner** and**Razer Synapse** . If you do, close them and check if that fixes the problem. Also, check if the game runs better without controllers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 MSI Afterburner
 
@@ -139,10 +127,14 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now restart your game and check the gameplay.
@@ -153,19 +145,27 @@ If this trick doesn’t give you luck, simply try the next one.
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
- To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 ### On Windows 11
 
@@ -174,14 +174,14 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
@@ -198,7 +198,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Scan and repair Windows
@@ -237,19 +237,15 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-conquering-macs-record-functionality-keyboard-driven-tips/"><u>[New] In 2024, Conquering Mac's Record Functionality Keyboard-Driven Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-top-tier-screen-capture-tech-in-itop-review/"><u>[Updated] Unveiling Top-Tier Screen Capture Tech in ITop Review</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-dividends-the-creators-guide-to-monetization/"><u>2024 Approved Digital Dividends The Creator's Guide to Monetization</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>2024 Approved From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
-<li><a href="https://fox-links.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/embrace-the-odyssey-dive-into-the-god-of-war-action-as-an-fps-now-available-for-pc-gamers/"><u>Embrace the Odyssey: Dive Into the God of War Action as an FPS, Now Available for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-google-chrome-wont-launch/"><u>Fixing the Issue: Why Google Chrome Won't Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-issues-during-content-warning-scenarios/"><u>Fixing Voice Communication Issues During Content Warning Scenarios</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-going-beyond-boundaries-streaming-mastery-on-facebook/"><u>In 2024, Going Beyond Boundaries Streaming Mastery on Facebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-file-explorer-challenges-and-boost-productivity-on-windows-11/"><u>Overcome File Explorer Challenges and Boost Productivity on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-frame-rate-drops-and-stutter-issues-on-naraka-bladepoint/"><u>Solve Frame Rate Drops & Stutter Issues on Naraka: Bladepoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-ensuring-stability-and-preventing-fails-in-world-rally-championship-10-gameplay-across-pcs/"><u>Troubleshooting Guide: Ensuring Stability and Preventing Fails in World Rally Championship '10 Gameplay Across PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-remote-server-settings-fix-connection-lost-errors-instantly/"><u>Unlock Remote Server Settings - Fix 'Connection Lost' Errors Instantly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos/"><u>[New] In 2024, Crafting Shareable Moments A Guide to Enhanced Viewership in 15-Second Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-slow-motion-secrets-reels-done-right/"><u>[New] Instagram's Slow Motion Secrets Reels Done Right</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-hardware-for-high-quality-livestreams/"><u>[Updated] Best Hardware for High-Quality Livestreams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterful-approaches-to-applying-digital-video-effects-online/"><u>2024 Approved Masterful Approaches to Applying Digital Video Effects Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-wwii-black-screen-issues-on-windows-solved/"><u>Call of Duty: WWII Black Screen Issues on Windows [SOLVED]</u></a></li>
+<li><a href="https://techidaily.com/discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps</u></a></li>
+<li><a href="https://discover-data.techidaily.com/expert-tips-for-configuring-system-reboots-using-the-task-scheduler-in-windows-server-2022/"><u>Expert Tips for Configuring System Reboots Using the Task Scheduler in Windows Server 2022</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-nox-player-glitches-a-step-by-step-fix-for-constant-app-failures-on-desktops/"><u>No More Nox Player Glitches - A Step-by-Step Fix for Constant App Failures on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-pc-woes-decode-the-error-277-issue-with-our-latest-2024-fix-guide/"><u>Roblox PC Woes? Decode the Error 277 Issue with Our Latest 2024 Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-dev-error-6034-optimizing-your-call-of-duty-experience-across-platforms/"><u>Step-by-Step Solutions for Dev Error 6034 – Optimizing Your Call of Duty Experience Across Platforms</u></a></li>
 </ul></div>
 

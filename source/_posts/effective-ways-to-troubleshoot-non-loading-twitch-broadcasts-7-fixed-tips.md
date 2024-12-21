@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Troubleshoot Non-Loading Twitch Broadcasts (7 Fixed Tips)
-date: 2024-08-23T17:25:28.249Z
-updated: 2024-08-24T17:25:28.249Z
+date: 2024-12-19T03:36:34.166Z
+updated: 2024-12-20T02:31:21.972Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
 ## Troubleshooting Solutions for Non-Responsive Discord Overlays - Instant Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
  1) Click**the gear button** to open**User Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
@@ -54,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -63,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -74,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/90cf06f9730c5591652ae4f421f62950743940a3b
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -90,8 +86,9 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -100,10 +97,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
  1) Open your**Discord** , Click **the gear button** to open **User Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
@@ -119,24 +117,27 @@ See if this issue reappears. If not, you have fixed this issue.
 
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -168,9 +169,6 @@ See if this issue reappears. If not, you have fixed this issue!
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
@@ -186,8 +184,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +191,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-video-posting-on-twitter-and-tumblr-connection-for-2024/"><u>[New] Video Posting on Twitter and Tumblr Connection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-audio-quality-get-high-quality-fx/"><u>[Updated] 2024 Approved Enhance Audio Quality, Get High-Quality FX</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-highest-achievers-in-the-realm-of-reddit-posts/"><u>[Updated] In 2024, Highest Achievers in the Realm of Reddit Posts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-fixing-and-preventing-nwstoreexe-application-failures/"><u>Comprehensive Guide: Fixing and Preventing NW_Store.exe Application Failures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-techniques-in-building-photomosaics/"><u>Essential Techniques in Building PhotoMosaics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-lag-ultimate-tips-to-overcome-code-veins-freezing-problem/"><u>Fixing Game Lag: Ultimate Tips to Overcome Code Vein's Freezing Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-crashes-in-wolcen-lords-of-mayhem-now-running-smoothly/"><u>Fixing PC Crashes in Wolcen: Lords of Mayhem, Now Running Smoothly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-decoding-the-perfection-of-hp-envy-27s-design/"><u>In 2024, Decoding the Perfection of HP Envy 27'S Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-green-screen-technology-in-kinemaster-for-2024/"><u>In-Depth Analysis of Green Screen Technology in Kinemaster for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-in-latest-releases-resolving-low-fps-and-stuttering-problems/"><u>Mastering Smooth Playthroughs in Latest Releases: Resolving Low FPS and Stuttering Problems</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/mov-to-avi-conversion-guide-step-by-step-process-on-mac-os/"><u>MOV to AVI Conversion Guide: Step-by-Step Process on Mac OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-input-lag-in-valorant-tips-and-tricks-for-a-smoother-experience-2024-edition/"><u>Overcoming Input Lag in Valorant: Tips and Tricks for a Smoother Experience, 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamped-bioshock-2-a-high-definition-visual-upgrade/"><u>Revamped BioShock 2: A High-Definition Visual Upgrade!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-post-launch-woes-steps-to-prevent-outpost-beyond-from-crashing-on-your-pc/"><u>Solving Post-Launch Woes: Steps to Prevent 'Outpost: Beyond' From Crashing on Your PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swift-soundphone-tools-for-rapid-tracks-for-2024/"><u>Swift Soundphone Tools for Rapid Tracks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-simultaneous-fps-drops-for-a-smoother-gaming-experience/"><u>Troubleshooting Simultaneous FPS Drops for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unfreeze-your-gameplay-a-comprehensive-guide-to-fixing-stutter-in-call-of-duty-black-ops-cold-war/"><u>Unfreeze Your Gameplay: A Comprehensive Guide to Fixing Stutter in Call of Duty: Black Ops Cold War</u></a></li>
+</ul></div>
 

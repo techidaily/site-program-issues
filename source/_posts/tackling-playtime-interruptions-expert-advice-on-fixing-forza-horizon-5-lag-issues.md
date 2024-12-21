@@ -1,7 +1,7 @@
 ---
 title: "Tackling Playtime Interruptions: Expert Advice on Fixing Forza Horizon 5 Lag Issues"
-date: 2024-08-23T17:22:02.871Z
-updated: 2024-08-24T17:22:02.871Z
+date: 2024-12-13T21:19:21.650Z
+updated: 2024-12-19T19:23:50.456Z
 tags:
   - win11
   - win10
@@ -44,13 +44,18 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -59,19 +64,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -81,19 +89,17 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 5. Reboot your computer and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -119,9 +125,6 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -136,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/he-key-to-click-through-success-top-thumbnail-size-recommendations/"><u>[New] The Key to Click-Through Success Top Thumbnail Size Recommendations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pinnacle-of-hd-recording-expertly-curated-list/"><u>2024 Approved Pinnacle of HD Recording Expertly Curated List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ace-gaming-smoothness-how-to-fix-assassins-creed-valhalla-latency-once-and-for-all/"><u>Ace Gaming Smoothness: How To Fix Assassin's Creed Valhalla Latency Once and For All</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-live-streaming-tools-master-video-broadcasts-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Best Live Streaming Tools: Master Video Broadcasts with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://win-studio.techidaily.com/download-gratuit-les-meilleurs-logiciels-de-recuperation-des-donnees-pour-disques-durs-externes-seagate/"><u>Download Gratuit : Les Meilleurs Logiciels De Récupération Des Données Pour Disques Durs Externes Seagate</u></a></li>
+<li><a href="https://driver-error.techidaily.com/error-signal-ideport0-system-issue/"><u>Error Signal: Ideport0 System Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-solutions-boost-your-gameplay-in-elden-ring-with-improved-fps/"><u>Fast Solutions: Boost Your Gameplay in Elden Ring with Improved FPS</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/flawless-firefights-advanced-techniques-to-combat-low-fps-in-valorant-exclusive-2024-insights/"><u>Flawless Firefights: Advanced Techniques to Combat Low FPS in Valorant (Exclusive 2024 Insights)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-successfully-fixing-the-finals-not-launching-issue-events-top-techniques-and-tips/"><u>Guide to Successfully Fixing The Finals Not Launching Issue Events: Top Techniques and Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-mobile-virtual-realitys-elite-selection/"><u>In 2024, Discovering Mobile Virtual Reality's Elite Selection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-soundscape-and-aesthetics-in-windows-photos-app/"><u>In 2024, Integrating Soundscape and Aesthetics in Windows Photos App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-issues-fix-your-fallout-4-on-windows/"><u>No More Freezing Issues - Fix Your Fallout 4 on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-getting-your-astro-a50-recognized-by-the-astro-command-hub/"><u>Overcoming Connectivity Hurdles: Getting Your Astro A50 Recognized by the Astro Command Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-dread-hunger-game-freezes-on-pc-a-step-by-step-guide/"><u>Resolving Constant Dread Hunger Game Freezes on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-disconnected-remote-resources-on-your-pc/"><u>Reviving Disconnected Remote Resources on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-the-relentless-malfunctioning-of-the-ascent-while-running-on-personal-computers/"><u>Step-by-Step Guide: Stop The Relentless Malfunctioning of The Ascent While Running on Personal Computers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-google-pixel-7a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Google Pixel 7a without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-star-wars-squadron-game-breaking-issues-now-resolved/"><u>Untangling Star Wars Squadron Game-Breaking Issues – Now Resolved</u></a></li>
+</ul></div>
 

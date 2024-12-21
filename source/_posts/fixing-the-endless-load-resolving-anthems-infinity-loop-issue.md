@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-12-14T19:20:47.720Z
-updated: 2024-12-18T17:37:07.196Z
+date: 2024-12-12T22:45:15.372Z
+updated: 2024-12-19T23:11:01.850Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/SOLVED-FUSER-keeps-crashing-on-PC.jpg)
 
  If you’re experiencing any**crashing or freezing issues with FUSER** , don’t worry. You should be able to fix this issue on your own easily after reading this article!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 1. Launch**Epic Games Launcher** and go to your**Library** .
 2. click on the**three dots** under the**FUSER** game tile and select**Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -68,15 +72,11 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
  Launch FUSER and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The developer of FUSER releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run FUSER again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off VSync
 
@@ -119,25 +119,25 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab,**check Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -173,19 +173,22 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-efficient-video-production-tips-embracing-free-luts-in-obs-workflow/"><u>[Updated] Efficient Video Production Tips Embracing Free LUTs in OBS Workflow</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>[Updated] In 2024, Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-masterclass-in-virality-cutting-edge-strategies-for-instagram-films-for-2024/"><u>[Updated] Masterclass in Virality Cutting-Edge Strategies for Instagram Films for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-row-fun-beyond-the-game-top-alternatives/"><u>2024 Approved First Row Fun Beyond the Game Top Alternatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-guide-successful-connection-steps-for-kodi-where-directory-info-was-lost/"><u>DIY Guide: Successful Connection Steps for Kodi Where Directory Info Was Lost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-gaining-new-followers-on-instagram/"><u>Effective Strategies for Gaining New Followers on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-the-crash-problem-of-guilty-gear-strive-on-windowsmac-computers/"><u>Expert Tips on Fixing the Crash Problem of Guilty Gear Strive on Windows/Mac Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-connection-errors-a-step-by-step-solution/"><u>Guide to Fixing Path of Exile Connection Errors : A Step-by-Step Solution</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-pursuit-of-perfection-the-in-depth-review-of-benqs-27-high-def-display-bl2711u-for-2024/"><u>In Pursuit of Perfection The In-Depth Review of BenQ’s 27” High-Def Display, BL2711U for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-application-unable-to-start-hurdle-in-adobe-software-error-code-0xc0c0000022/"><u>Overcoming the 'Application Unable to Start' Hurdle in Adobe Software (Error Code 0xC0^[c0000022)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/reflecting-on-10-years-mondlybacks-filters-evolution/"><u>Reflecting on 10 Years: MondlyBack's Filters Evolution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-minecrafts-crossbow-glitches-and-error-messages/"><u>Resolving Minecraft's Crossbow Glitches and Error Messages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-village-pc-game-crashes-a-comprehensive-guide/"><u>Troubleshooting Resident Evil Village PC Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-human-touch-matters-in-therapy-more-than-computerized-care/"><u>Why Human Touch Matters in Therapy, More Than Computerized Care</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-demystifying-the-powerhouse-behind-youtube-creator-hub/"><u>[New] Demystifying the Powerhouse Behind YouTube Creator Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-forza-horizon-4-wont-launch-2024-tips/"><u>[SOLVED] Forza Horizon 4 Won't Launch | 2024 Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elite-8-video-transformations-for-virtual-events/"><u>[Updated] 2024 Approved Elite 8 Video Transformations for Virtual Events</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>[Updated] Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-kinetic-control-on-android-the-kinemaster-dive-for-2024/"><u>[Updated] Kinetic Control on Android The KineMaster Dive for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-checklist-for-streamlined-recording-of-virtual-gatherings-for-2024/"><u>[Updated] The Ultimate Checklist for Streamlined Recording of Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-frequent-interruptions-a-solution-for-lost-arks-pc-system-failures/"><u>Addressing Frequent Interruptions: A Solution for Lost Ark's PC System Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-when-persona-amo-3-f-escape-wont-load/"><u>Comprehensive Solutions for When Persona Amo 3 F Escape Won't Load</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-s18-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo S18 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-compatibility-problems-with-intel-driver-assistants-on-pcs/"><u>How to Overcome Compatibility Problems with Intel Driver Assistants on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989065536-how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-stream-on-twitch-the-ultimate-guide/"><u>How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13-ultra-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13 Ultra Phone FRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodic-content-and-legalities-on-insta/"><u>Melodic Content and Legalities on Insta</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-utorrent-downloading-and-network-issues-with-easy-to-follow-advice/"><u>Overcoming Common uTorrent Downloading and Network Issues with Easy-to-Follow Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-problems-and-hitching-performance-on-windows-cod-mow-2/"><u>Troubleshooting FPS Problems and Hitching Performance on Windows - COD: MoW 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stutters-and-frame-drops-on-dragons-dogma-2-for-optimal-gaming-experience/"><u>Troubleshooting Stutters and Frame Drops on Dragon's Dogma 2 for Optimal Gaming Experience</u></a></li>
 </ul></div>
 

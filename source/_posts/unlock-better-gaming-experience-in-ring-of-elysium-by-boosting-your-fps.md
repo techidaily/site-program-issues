@@ -1,7 +1,7 @@
 ---
 title: Unlock Better Gaming Experience in Ring of Elysium by Boosting Your FPS
-date: 2024-08-23T17:20:21.629Z
-updated: 2024-08-24T17:20:21.629Z
+date: 2024-12-14T23:36:11.811Z
+updated: 2024-12-19T17:20:34.921Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ You may not have to try them all. Just choose the one you need.
  **What is FPS?**
  FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Optimize your in-game settings
 
  Improper game settings can lower your game’s FPS and undermine your gaming performance. In this case, optimizing your in-game settings can help. Here is how to do it:
@@ -45,9 +42,6 @@ You may not have to try them all. Just choose the one you need.
 
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
 **4)** Click**Apply** , then relaunch your game.
@@ -86,33 +80,43 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -120,16 +124,14 @@ OR
 
 **4)** Select **High Performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer, and then relaunch your game to see if this worked for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Configure your graphics settings
 
  Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
@@ -141,10 +143,11 @@ OR
 
 **1)** Right-click your desktop and select**NVIDIA Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
@@ -152,10 +155,11 @@ OR
 
 **3)** Click the**Add** **button** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
@@ -163,23 +167,12 @@ OR
 
 **5)** Modify the settings following the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
 **2)** Click**Gaming** , then**Global Settings** .
@@ -191,8 +184,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Overclock your GPU
 
  A slight overclock about by 10-15% can also improve your game’s performance. This is because overclocking your GPU can unlock the full potential of your graphics card and boost your FPS in Ring of Elysium. Check **[here](https://tools.techidaily.com/drivereasy/download/)**  to see how to do it.
@@ -213,8 +207,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +214,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-complete-examination-the-video-show-app/"><u>[New] 2024 Approved Complete Examination The Video Show App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-crafting-ae-titles-with-maximum-impression/"><u>[New] Crafting AE Titles with Maximum Impression</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decrypt-viewer-counts-unveiling-instagram-audience-numbers-for-2024/"><u>[New] Decrypt Viewer Counts Unveiling Instagram Audience Numbers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>[Updated] Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-fixes-for-steam-vr-headset-not-detected/"><u>6 Fixes for Steam VR Headset Not Detected</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-troubles-a-step-by-step-solution-to-graphics-loading-failures/"><u>Call of Duty Warzone Display Troubles? A Step-by-Step Solution to Graphics Loading Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-call-of-duty-warzone-takes-advantage-of-your-graphics-card-in-windows-11/"><u>How to Ensure Call of Duty Warzone Takes Advantage of Your Graphics Card in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-continuously-crashing-blender-program-on-your-windows-computer/"><u>How to Fix a Continuously Crashing Blender Program on Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-path-of-exile-server-connectivity-problems-ultimate-fixes-players/"><u>How to Overcome Path of Exile Server Connectivity Problems - Ultimate Fixes Players</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-number-a-comprehensive-guide-to-finding-out-if-youve-been-blocked-by-an-iphone-contact/"><u>Identifying a Blocked Number: A Comprehensive Guide to Finding Out If You've Been Blocked by an iPhone Contact</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-camon-20-pro-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Camon 20 Pro 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operating-system-errors-corrupted-system-files-incorrect-boot-configurations-or-other-os-errors-can-lead-to-a-blank-display-during-startup-running-system-re498/"><u>Operating System Errors: Corrupted System Files, Incorrect Boot Configurations, or Other OS Errors Can Lead to a Blank Display During Startup. Running System Repair Tools or Reinstalling the Operating System Could Resolve This Issue.</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-context-selection-by-omitting-show-more/"><u>Optimize Context Selection by Omitting Show More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overwatch-2-startup-problems-here-are-7-effective-fixes-for-the-2024-edition/"><u>Overwatch 2 Startup Problems? Here Are 7 Effective Fixes for the 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/reignite-your-vintage-video-gaming-passion-add-achievements-via-retroarch/"><u>Reignite Your Vintage Video Gaming Passion - Add Achievements via Retroarch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-how-to-overcome-sim-card-unprovisioned-mmi-2-error/"><u>Solving the Issue: How To Overcome 'SIM Card Unprovisioned MMI 2' Error</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starfield-sound-fixes-solving-audio-glitches-and-stutters/"><u>Starfield Sound Fixes: Solving Audio Glitches & Stutters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-insiders-guide-to-fixing-adobe-cannot-start-as-expected-with-code-0xc0000022/"><u>The Insider's Guide to Fixing 'Adobe Cannot Start as Expected' With Code 0Xc0000022</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-address-dead-by-daylight-e8014-bug/"><u>Troubleshooting Guide: How to Address Dead by Daylight E8014 Bug</u></a></li>
+</ul></div>
 

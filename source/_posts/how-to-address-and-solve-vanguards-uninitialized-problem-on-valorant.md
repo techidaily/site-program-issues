@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-12-13T16:00:53.943Z
-updated: 2024-12-19T08:59:00.359Z
+date: 2024-12-17T20:43:54.281Z
+updated: 2024-12-20T03:35:33.187Z
 tags:
   - win11
   - win10
@@ -22,13 +22,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
@@ -69,10 +69,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -87,10 +83,6 @@ If your game isn’t on the list, follow these steps:
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
@@ -98,6 +90,10 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -110,6 +106,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -117,21 +117,29 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -149,21 +157,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -204,22 +204,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[New] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-high-quality-power-units-for-gopro-hero5-genuine-sources-and-copycats-for-2024/"><u>[New] High-Quality Power Units for GoPro Hero5 Genuine Sources & Copycats for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximizing-speed-with-top-pc-monitor-controls/"><u>[New] In 2024, Maximizing Speed with Top PC Monitor Controls</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-tunepiercer-screen-capture-app-review-for-2024/"><u>[New] TunePiercer Screen Capture App Review for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>[Updated] Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-instagram-the-art-of-rewinding-videos/"><u>2024 Approved Mastering Instagram The Art of Rewinding Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-gamers-guide-maximize-performance-with-these-6-fixes-for-low-fps-on-escape-from-tarkov/"><u>Elite Gamer's Guide: Maximize Performance with These 6 Fixes for Low FPS on Escape From Tarkov</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exceptional-display-quality-at-an-unbeatable-price-discover-this-fantastic-portable-laptop-on-zdnet/"><u>Exceptional Display Quality at an Unbeatable Price: Discover This Fantastic, Portable Laptop on ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-black-desert-pc-crashes-expert-troubleshooting-tips/"><u>How to Fix Black Desert PC Crashes: Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-stop-recording-problems-successfully-tips-and-tricks/"><u>How to Fix OBS Stop Recording Problems Successfully - Tips & Tricks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-if-youre-a-looking-for-a-way-to-quickly-convert-a-video-to-vr-youve-come-to-the-right-place-because-in-this-article-we-are-going-to-take-you-through-5-b/"><u>New If Youre a Looking for a Way to Quickly Convert a Video to VR, Youve Come to the Right Place because in This Article We Are Going to Take You Through 5 Best Video Converters</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>New In 2024, Unleash Your Creativity Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-origin-fails-to-load-get-back-online-now/"><u>Quick Solutions for When Origin Fails to Load - Get Back Online Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-with-pacific-drive-freezing-on-windows-step-by-step-guide/"><u>Resolving Issues with Pacific Drive Freezing on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-downloading-woes-utorrent-not-responding-here-are-7-smart-ways-to-fix-it/"><u>Solve Your Downloading Woes: Utorrent Not Responding? Here Are #7 Smart Ways to Fix It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-eos-login-mishaps-top-6-solutions/"><u>Troubleshooting Palworld's EOS Login Mishaps: Top 6 Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/watch-dogs-legion-users-manual-boosting-speed-cutting-lag-and-increasing-fps/"><u>Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-executing-the-last-goodbye-to-your-instagram-account/"><u>[New] Executing the Last Goodbye to Your Instagram Account</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-save-techniques-for-snapchat-memories/"><u>[New] In 2024, Quick Save Techniques for Snapchat Memories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[New] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-brief-glimpses-in-the-social-space-for-2024/"><u>[Updated] Brief Glimpses in the Social Space for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-the-launch-error-of-granblue-fantasys-link-replacement-feature/"><u>Addressing the Launch Error of Granblue Fantasy's Link Replacement Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-successful-strategies-to-launch-steam-games-on-windows-11-systems/"><u>Cracking the Code: Successful Strategies to Launch Steam Games on Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-fixes-for-the-farming-simulator-22-launch-failure/"><u>Detailed Fixes for the Farming Simulator 22 Launch Failure</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gain-cost-free-visuals-from-selective-4-youtube-feeds-for-2024/"><u>Gain Cost-Free Visuals From Selective 4 YouTube Feeds for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-huawei-nova-y91-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Huawei Nova Y91 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue-for-2024/"><u>Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-on-windows-11-diagnosing-and-fixing-installation-hurdles/"><u>Minecraft on Windows 11 - Diagnosing and Fixing Installation Hurdles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quicknetflix-screenshots-a-mac-users-guide/"><u>QuickNetflix Screenshots A Mac User's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-tackle-the-notorious-ghost-runner-bugs-on-pcs-running-windows-ebx/"><u>Step-by-Step Fixes to Tackle the Notorious 'Ghost Runner' Bugs on PCs Running Windows Ebx</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-live-server-connection-not-available-error/"><u>Step-by-Step Solution for 'Live Server Connection Not Available' Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-fixing-the-common-causes-of-rocket-league-game-crashes/"><u>Top Strategies: Fixing the Common Causes of Rocket League Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-roblox-wont-open-issue/"><u>Ultimate Guide: Solve Your Roblox Won't Open Issue</u></a></li>
 </ul></div>
 

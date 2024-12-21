@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2024-12-14T06:24:17.628Z
-updated: 2024-12-19T10:21:51.640Z
+date: 2024-12-12T20:15:45.418Z
+updated: 2024-12-20T03:34:05.683Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 1. **[Adjust your proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
 
@@ -39,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
@@ -91,17 +91,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -111,10 +115,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -123,25 +123,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -160,7 +160,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -189,20 +189,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-low-power-pc-screen-capturing-apps/"><u>[New] In 2024, Essential Low-Power PC Screen Capturing Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-image-sharing-blueprint-for-youtube-enthusiasts/"><u>[New] In 2024, The Ultimate Image Sharing Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-choices-for-budget-conscious-consumers-4k-viewing/"><u>[New] Prime Choices for Budget-Conscious Consumers' 4K Viewing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-background-of-your-youtube-video/"><u>[Updated] 2024 Approved How to Blur Background of Your YouTube Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-tips-for-adding-visual-impact-in-google-meet/"><u>2024 Approved Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chronicle-of-innovation-the-dawn-of-artificial-intelligence-an-historical-overview/"><u>Chronicle of Innovation: The Dawn of Artificial Intelligence – An Historical Overview</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-fortnite-lag-and-crash-issues-on-your-pc-top-fixes-for-a-seamless-experience/"><u>Conquer Fortnite Lag & Crash Issues on Your PC – Top Fixes for a Seamless Experience</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/convert-oklilive-tv-streams-download-hd-content-as-mp4-or-avi-files-for-pc-and-mac/"><u>Convert OkliLive TV Streams: Download HD Content as MP4 or AVI Files for PC & MAC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996578134-fallout-cuh-freeze-bug-fixed-now-you-can-enjoy-the-game-without-interruptions/"><u>Fallout Cuh-Freeze Bug Fixed: Now You Can Enjoy the Game Without Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improvements-in-the-elder-scrolls-online-resolving-issues-with-blackwood-latency/"><u>Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>In 2024, Unleash Potential Our Picks for the Most Inspiring Films</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-sound-output-overcoming-low-volume-issues-on-windows-11-systems/"><u>Mastering Sound Output: Overcoming Low Volume Issues on Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-to-improve-frame-rates-and-gameplay-in-ring-of-elysium/"><u>Step-by-Step Strategies to Improve Frame Rates and Gameplay in Ring of Elysium</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012100302-troubleshooting-dark-mode-display-glitches-in-cod-wwii-game-on-windows-systems-fix-now/"><u>Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-youtube-buffering-issues-solved/"><u>Ultimate Guide: Resolving YouTube Buffering Issues - Solved!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/"><u>[New] Podcast Cover Design Ten Essential Best Practices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-broad-overview-delving-into-google-podcasts-application-for-2024/"><u>[Updated] Broad Overview Delving Into Google Podcasts Application for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-npc-bug-0x00001338-elimination-guide-restore-your-pc-gaming-experience-now/"><u>Call of Duty Vanguard NPC Bug (0X00001338) Elimination Guide: Restore Your PC Gaming Experience Now!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-desktop-screen-capture-method/"><u>Easy Desktop Screen Capture Method</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations-for-2024/"><u>Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-persistent-lags-and-freezes-during-deathloop-sessions-on-your-gaming-console-or-pc/"><u>Expert Advice for Fixing Persistent Lags and Freezes During Deathloop Sessions on Your Gaming Console or PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-youtube-videos-with-audio-but-no-visuals-a-guide-for-chrome-and-firefox-users/"><u>Fix YouTube Videos with Audio but No Visuals: A Guide for Chrome & Firefox Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-msi-afterburner-fails-to-detect-gpus-under-windows-1110/"><u>Troubleshooting Tips: When MSI Afterburner Fails to Detect GPUs Under Windows 11/10</u></a></li>
 </ul></div>
 

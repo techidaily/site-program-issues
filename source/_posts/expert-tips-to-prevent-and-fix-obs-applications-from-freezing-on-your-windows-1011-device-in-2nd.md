@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent and Fix OBS Applications From Freezing on Your Windows 10/11 Device in 2nD
-date: 2024-12-14T06:46:49.229Z
-updated: 2024-12-18T20:50:01.505Z
+date: 2024-12-19T01:50:54.469Z
+updated: 2024-12-19T18:24:36.849Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478
 ## Ultimate Guide to Prevent Hitman 3 From Freezing on PC - Expert Tips Inside
 
 Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story mission is exquisite and aesthetic design is stunning. However, many players are reporting the Hitman 3 crashing issue and complained they can’t enjoy the game at all. If you’re one of them, don’t worry. After reading this post, you’ll be able to rule out the common causes and get your issue fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -33,10 +37,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Use the dedicated GPU
 
  If you have two graphics cards installed to your computer, make sure to run Hitman 3 on your dedicated GPU, because the inbuilt card is usually underpowered for graphics-intensive games and can trigger the crashing issue. Here’s how to switch to the dedicated card in NVIDIA settings:
@@ -45,16 +45,8 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
@@ -62,8 +54,16 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
@@ -72,16 +72,12 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
 
@@ -91,12 +87,12 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
@@ -116,13 +112,17 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Increase virtual memory
@@ -139,15 +139,15 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
@@ -176,17 +176,24 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-8-must-have-apps-for-instagram-schedulers-on-all-smartphones/"><u>[New] 2024 Approved The 8 Must-Have Apps for Instagram Schedulers on All Smartphones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-arcade-over-a-hundred-game-channels/"><u>2024 Approved Digital Arcade Over a Hundred Game Channels</u></a></li>
-<li><a href="https://win-web3.techidaily.com/samsung-data-transfer/"><u>解決 Samsung Data Transfer失敗問題的輕鬆手段</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-when-your-battlefield-4-game-wont-launch-on-pc-systems/"><u>Comprehensive Fixes: When Your Battlefield 4 Game Won't Launch on PC Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes/"><u>Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-total-war-warhammer-ii-key-solutions-for-eliminating-runtime-issues/"><u>Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722882764760-solve-the-annoying-shake-and-flicker-on-your-surface-pros-screen-today/"><u>Solve the Annoying Shake & Flicker on Your Surface Pro's Screen Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-windows-11-black-screen-challenge/"><u>Step-by-Step Solutions for Your Windows 11 Black Screen Challenge</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-discounted-laptops-on-amazon-prime-day-2024-shopping-guide-by-pcmag/"><u>Top-Rated Discounted Laptops on Amazon Prime Day 2024: Shopping Guide by PCMag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-perplexing-loading-hurdle-in-minecraft/"><u>Troubleshooting Tips: Overcoming the Perplexing 'Loading' Hurdle in Minecraft</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-how-to-prevent-and-fix-modern-warfare-2-crashes-on-windows/"><u>Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-make-slow-motion-videos-on-instagram-reels-step-by-step/"><u>[New] In 2024, How to Make Slow Motion Videos on Instagram Reels [Step by Step]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>[New] Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-blueprint-accessing-facebook-status-videos-for-2024/"><u>[Updated] Step-by-Step Blueprint Accessing Facebook Status Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-rapid-visual-repository-w-audio-walkthrough-guide/"><u>2024 Approved Rapid Visual Repository W/ Audio Walkthrough Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-valorant-gameplay-top-strategies-to-improve-frame-rate-and-eliminate-lag-issues-updated/"><u>Boost Your 'Valorant' Gameplay: Top Strategies to Improve Frame Rate and Eliminate Lag Issues (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-expert-advice-for-fixing-e-1030003-in-rainbow-six-tarkov/"><u>Cracking the Code: Expert Advice for Fixing E-1030#003 in Rainbow Six: Tarkov</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/des-solutions-ideales-pour-capturer-des-ecrans-sous-windows-1187-la-meilleure-selection-pour-realiser-des-recordings-decran-efficaces-sur-pc/"><u>Des Solutions Idéales Pour Capturer Des Écrans Sous Windows 11/8/7 - La Meilleure Sélection Pour Réaliser Des Recordings D'écran Efficaces Sur PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-battles-against-demons-with-smooth-gameplay-resolving-stuttering-and-low-fps-in-naraka-bladepoint/"><u>Enhance Your Battles Against Demons with Smooth Gameplay: Resolving Stuttering and Low FPS in Naraka: Bladepoint</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-the-20-leading-graphic-design-software-solutions-today/"><u>Expert Picks: The 20 Leading Graphic Design Software Solutions Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-regain-access-when-your-steam-friends-network-is-out-of-reach-expert-tips/"><u>How to Regain Access When Your Steam Friends Network Is Out of Reach – Expert Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-resolve-buffering-issues-on-youtube-tv-when-watching-advertisements-easy-solutions-shared/"><u>How To Resolve Buffering Issues On YouTube TV When Watching Advertisements - Easy Solutions Shared!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-lava-yuva-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Lava Yuva 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-guide-for-players-what-to-do-if-the-paradox-launcher-fails/"><u>Quick Fix Guide for Players: What To Do If The Paradox Launcher Fails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-upgraded-say-goodbye-to-stutter-enjoy-seamless-gameplay-with-better-fps/"><u>Red Dead Redemption 2 Upgraded: Say Goodbye to Stutter, Enjoy Seamless Gameplay with Better FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steamvr-trouble-no-more-overcoming-error-308-quickly/"><u>SteamVR Trouble No More: Overcoming Error 308 Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-overcoming-black-screen-glitches-in-rainbow-six-siege-pc-edition/"><u>Step-by-Step Tutorial: Overcoming Black Screen Glitches in Rainbow Six Siege PC Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-color-in-online-beauty-content-for-2024/"><u>The Art of Color in Online Beauty Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993817324-unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-quoras-poe-access/"><u>Unlocking Potential with Quora's POE Access</u></a></li>
 </ul></div>
 

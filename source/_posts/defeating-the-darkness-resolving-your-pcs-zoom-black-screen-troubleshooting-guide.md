@@ -1,7 +1,7 @@
 ---
 title: "Defeating the Darkness: Resolving Your PC's Zoom Black Screen Troubleshooting Guide"
-date: 2024-08-23T17:20:19.391Z
-updated: 2024-08-24T17:20:19.391Z
+date: 2024-12-16T19:00:46.609Z
+updated: 2024-12-20T02:00:29.871Z
 tags:
   - win11
   - win10
@@ -28,18 +28,14 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 * [Fix 5: Exit full-screen mode](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart your computer
 
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 2: Turn off automatic GPU switching
 
 **GPU switching** allows you to maximize your graphic performance and prolong battery life when you have more than one graphics card. For many users, turning off the auto GPU switching feature fix the Zoom black screen issues.
@@ -52,19 +48,25 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Program Settings** , then click**Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Browse** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/10-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Find**Cpthost.exe** from the Zoom bin directory (located at C:/>Users>YOURUSERNAME>AppData>Roaming>Zoom>bin).
 
@@ -72,23 +74,18 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/12-1.jpg)
 
  If this didn’t fix Zoom black screen issues for you, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  This issue could happen when your graphics driver is not compatible or gets corrupted somehow. So you want to make sure that your graphics driver is updated.
@@ -104,6 +101,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
@@ -136,16 +137,10 @@ If you still have the problem, then try the next fix below.
 
  3)**Uncheck** Enable hardware acceleration to optimize video sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-hardware-acceleration.png)
 
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Fix 5: Exit full-screen mode
 
  If you’re running Zoom on the full-screen mode when the issue occurs, try exiting out of the full screen and then share your screen.
@@ -158,11 +153,12 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the issue still exists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Reinstall Zoom
 
  If you still can’t get Zoom to work correctly, it could be an issue with Zoom installation files. In this case, uninstalling Zoom then reinstalling it could help.
@@ -171,11 +167,6 @@ If the issue still exists, then move on to the next fix below.
 
  2) Type**appwiz.cpl** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
 
  3) Right-click Zoom and click**Uninstall** .
@@ -193,8 +184,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +191,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-voice-recorder-tools-for-mac-discovering-the-five-top-apps/"><u>[New] Premium Voice Recorder Tools for Mac Discovering The Five Top Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-proven-tactics-increasing-your-instagram-video-traffic/"><u>[Updated] In 2024, Proven Tactics Increasing Your Instagram Video Traffic</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks/"><u>2024 Approved Video Content Battlefront Short Form Supremacy – YouTubes Vs. TikToks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-persistent-crashes-in-call-of-duty-warzone-20-on-desktop-computers/"><u>Effective Solutions for Persistent Crashes in Call of Duty: Warzone 2.0 on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-latency-top-tips-to-fix-counter-strike-2-lag-and-optimize-ping-on-windows-systems/"><u>Eliminate Latency: Top Tips to Fix Counter-Strike 2 Lag and Optimize Ping on Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-blaze-2-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Blaze 2 Pro.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-13-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 13 Pro Max Making It Possible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-techniques-to-tackle-non-responsive-rust-applications-pro-tips/"><u>Modern Techniques to Tackle Non-Responsive Rust Applications - Pro Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-issues-resolved-on-xbox-one-streaming-smoothly-again/"><u>Netflix Issues Resolved on Xbox One - Streaming Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/now-running-smoothly-solve-your-total-war-saga-troy-pc-glitches-with-latest-update/"><u>Now Running Smoothly: Solve Your Total War Saga: Troy PC Glitches with Latest Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-assassins-creed-valhalla-performance-issues-on-pc/"><u>Resolved: Fixes for Assassin's Creed Valhalla Performance Issues on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-silent-streams-on-twitch-solutions-included/"><u>Resolved: Fixes for Silent Streams on Twitch - Solutions Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-corsair-hs35-audio-problems-in-windows-os-a-step-by-step-guide/"><u>Resolving Corsair HS35 Audio Problems in Windows OS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snapchat-camera-woes-solved-restoring-your-devices-camera-functionality/"><u>Snapchat Camera Woes Solved: Restoring Your Device's Camera Functionality</u></a></li>
+<li><a href="https://facebook.techidaily.com/tiktoks-challenge-to-facebook-in-social-media-realm/"><u>TikTok's Challenge to Facebook in Social Media Realm</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-free-uninstaller-programs-you-must-try-today/"><u>Top 15 Free Uninstaller Programs You Must Try Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-missing-hardware-alert-code-24-on-windows-os-versions-11-8-and-7/"><u>Understanding and Repairing the Missing Hardware Alert (Code 24) on Windows OS: Versions 11, 8 & 7</u></a></li>
+</ul></div>
 

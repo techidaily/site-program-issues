@@ -1,7 +1,7 @@
 ---
 title: Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU
-date: 2024-12-16T04:01:41.629Z
-updated: 2024-12-19T06:19:40.013Z
+date: 2024-12-13T23:21:37.007Z
+updated: 2024-12-19T18:09:49.453Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,7 +39,7 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
@@ -45,10 +49,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -79,10 +79,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -91,11 +87,11 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+ Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
- Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 ## Fix 4: Optimize the graphics settings
 
@@ -104,7 +100,7 @@ There are mainly two methods for you to update the graphics driver:
 To optimize the graphics settings, follow the steps below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
@@ -120,15 +116,19 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -143,19 +143,11 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -164,6 +156,10 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -178,13 +174,13 @@ To optimize the graphics settings, follow the steps below:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -205,6 +201,10 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -232,17 +232,22 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cutting-edge-tools-to-make-your-fb-cover-photo-stand-out/"><u>[New] 2024 Approved Cutting-Edge Tools to Make Your FB Cover Photo Stand Out</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration/"><u>[Updated] In 2024, Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-skating-stories-from-sochi-2022/"><u>[Updated] Skating Stories From Sochi 2022</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/discover-the-new-features-of-dex-316-with-karaotastics-premiere-beatmixing-experience/"><u>Discover the New Features of Dex 3.16 with Karaotastic's Premiere Beatmixing Experience!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-multiplayer-connectivity-problems-and-solutions/"><u>Elden Ring Multiplayer Connectivity Problems and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-ensure-smooth-play-in-armored-core-6-on-your-personal-computer/"><u>Expert Tips to Ensure Smooth Play in Armored Core 6 on Your Personal Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-users-through-bios-thermal-configuration/"><u>Guiding Users Through BIOS Thermal Configuration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-madden-nfl-22-freezing-during-load-effective-fixes/"><u>How to Resolve Madden NFL 22 Freezing During Load: Effective Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-90-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor 90 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-experts-approach-to-inserting-subtitlescc-on-youtube-videos-for-2024/"><u>The Expert's Approach to Inserting Subtitles/CC on YouTube Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-prevent-spellbreak-from-freezing-on-your-desktop/"><u>Troubleshooting Tips: How to Prevent Spellbreak From Freezing on Your Desktop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-giggles-in-a-gigabyte-10-hilarious-video-concepts-to-share-online/"><u>[New] 2024 Approved Giggles in a Gigabyte 10 Hilarious Video Concepts to Share Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-photo-vid-mosaic-designer-slideshows-for-sierra-for-2024/"><u>[Updated] Photo-Vid Mosaic Designer Slideshows for Sierra for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhancing-your-gpu-efficiency-expert-tips-and-tricks-powered-by-yl-computing/"><u>Enhancing Your GPU Efficiency: Expert Tips & Tricks - Powered by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eradicate-youtube-stutter-and-stream-smoothly-again/"><u>Eradicate YouTube Stutter and Stream Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-experience-achieved-effective-fixes-for-continuous-crashing-in-age-of-wonders-planetfall-on-pc/"><u>Error-Free Experience Achieved: Effective Fixes for Continuous Crashing in 'Age of Wonders: Planetfall' On PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/galaxy-s10plus-and-s20-face-off-in-depth-analysis-for-tech-enthusiasts/"><u>Galaxy S10+ and S20 Face-Off: In-Depth Analysis for Tech Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-six-secrets-to-masterful-mov-saving-in-windows-11/"><u>In 2024, Six Secrets to Masterful .MOV Saving in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlock-quality-video-recording-top-5-recorder-brands/"><u>In 2024, Unlock Quality Video Recording - Top 5 Recorder Brands</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-apex-legends-effective-fixes-for-error-code-23-bugs/"><u>Mastering Apex Legends: Effective Fixes for Error Code 23 Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snowrunner-crashing-woes-overcome-master-these-fixes-to-enjoy-uninterrupted-gameplay-on-windows-machines/"><u>Snowrunner Crashing Woes Overcome? Master These Fixes to Enjoy Uninterrupted Gameplay on Windows Machines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-pinnacle-of-picture-quality-best-players-24/"><u>The Pinnacle of Picture Quality Best Players '24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-to-prevent-sudden-shutdowns-enhancing-stability-for-state-of-decay-2-players/"><u>Top Strategies to Prevent Sudden Shutdowns: Enhancing Stability for State of Decay 2 Players</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-accessing-windows-credential-vault/"><u>Troubleshoot Accessing Windows Credential Vault</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-enhance-game-stability-top-e-fixes-for-dreamlight-valley-pc-glitches/"><u>Troubleshoot and Enhance Game Stability: Top E Fixes for Dreamlight Valley PC Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-a-bright-future-in-halo-infinite-visual-glitches/"><u>Troubleshooting Tips for a Bright Future in Halo Infinite Visual Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-optimal-gameplay-a-master-level-guide-to-solving-your-efts-lag-and-low-fps-issues/"><u>Unlock Optimal Gameplay: A Master-Level Guide to Solving Your EFT's Lag and Low FPS Issues</u></a></li>
 </ul></div>
 

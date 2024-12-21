@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for Dragon Quest XI's Crash Concern - Learn How to Play Uninterrupted
-date: 2024-08-23T17:22:59.474Z
-updated: 2024-08-24T17:22:59.474Z
+date: 2024-12-13T23:35:48.724Z
+updated: 2024-12-20T03:26:04.451Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -48,9 +44,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
@@ -61,16 +54,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. Press the**Windows logo key + Pause** to open System.
 2. Click**Advanced system settings.**  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
@@ -85,19 +77,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -125,7 +120,16 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -137,8 +141,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +148,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-boosting-connectivity-with-creative-fb-slideshow-ideas/"><u>[Updated] Boosting Connectivity with Creative FB Slideshow Ideas</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-repairing-amazon-prime-streaming-problems/"><u>DIY Guide: Repairing Amazon Prime Streaming Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-alan-wake-2-from-freezing-2024-tips-inside/"><u>Effective Solutions to Stop Alan Wake 2 From Freezing: 2024 Tips Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-nier-replicant-from-crashing-issue-resolved/"><u>How to Prevent NieR: Réplicant From Crashing - Issue Resolved!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-your-digital-landscape-with-regular-windows-backups/"><u>Protecting Your Digital Landscape with Regular Windows Backups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-adobe-after-effects-crashing-issues-on-windows-11-and-10/"><u>Resolved: How To Fix Adobe After Effects Crashing Issues on Windows 11 and 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-offers-in-september-2024-exclusive-insights-from-zdnet/"><u>Top Amazon Offers in September 2024 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-essential-iphone-add-ons-a-must-have-guide/"><u>Top Essential iPhone Add-Ons: A Must-Have Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-connectivity-how-to-make-your-iphone-work-with-itunes-on-windows-11/"><u>Troubleshooting Connectivity: How to Make Your iPhone Work with iTunes on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-armored-core-6-fires-of-rubicon-crashes-on-pc/"><u>Troubleshooting Steps for 'Armored Core 6: Fires of Rubicon' Crashes on PC</u></a></li>
+</ul></div>
 

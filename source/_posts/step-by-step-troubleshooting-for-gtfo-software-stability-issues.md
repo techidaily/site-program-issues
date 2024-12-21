@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for GTFO Software Stability Issues
-date: 2024-12-13T17:59:03.965Z
-updated: 2024-12-19T05:06:20.172Z
+date: 2024-12-14T18:02:43.593Z
+updated: 2024-12-19T21:49:03.257Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -84,15 +88,15 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -113,17 +117,21 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -131,6 +139,10 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -144,29 +156,21 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -186,10 +190,6 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -203,7 +203,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -231,10 +231,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -244,6 +240,10 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -284,24 +284,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[Updated] 2024 Approved Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigating-virtual-board-functions-across-zoom-devices/"><u>2024 Approved Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bioshock-2-enhanced-edition-repairing-glitches-and-improving-gameplay/"><u>BioShock 2 Enhanced Edition - Repairing Glitches & Improving Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010744764-fix-your-google-chrome-when-it-wont-launch-proven-solutions/"><u>Fix Your Google Chrome When It Won't Launch: Proven Solutions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/frozen-olympics-spectacular-2022-highlights/"><u>Frozen Olympics Spectacular 2022 Highlights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-forza-horizon-4-up-and-running-top-troubleshooting-guide/"><u>Get Your Forza Horizon 4 Up and Running : Top Troubleshooting Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-art-of-virtual-exploration-a-tactical-approach/"><u>In 2024, The Art of Virtual Exploration A Tactical Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/protocols-to-regain-lost-connection-on-windows/"><u>Protocols to Regain Lost Connection on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996220553-pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-spatial-audio-issues-on-your-pc-with-windows-11-or-10/"><u>Resolving Spatial Audio Issues on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restore-stability-and-performance-for-gta-5-online-players/"><u>Restore Stability and Performance for GTA 5 Online Players</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782241-9781594779510-sanctuary-of-the-divine-presence/"><u>Sanctuary of the Divine Presence | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-headset-is-unresponsive/"><u>Troubleshooting Steps When Your Astro A50 Headset Is Unresponsive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-microphone-mod-solutions-for-a-non-functioning-vocal-effect/"><u>Troubleshooting Your Clownfish Microphone Mod: Solutions for a Non-Functioning Vocal Effect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-frame-rate-variations-fortnites-transformation-post-season-8-release/"><u>Understanding Frame Rate Variations - Fortnite's Transformation Post-Season 8 Release</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>[Updated] Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://media-tips.techidaily.com/2-troubleshooting-steps-when-ios-apps-wont-launch-on-macos-systems/"><u>2. Troubleshooting Steps When iOS Apps Won't Launch on macOS Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-legal-landscape-what-to-watch-for/"><u>AI's Legal Landscape: What to Watch For?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-stabilizing-gameplay-avoiding-r-type-final-ebrashing-glitches-on-windows-and-mac-os/"><u>Guide to Stabilizing Gameplay: Avoiding R-Type Final Ebrashing Glitches on Windows and Mac OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-rocket-league-performance-hiccups-and-stutters/"><u>How to Address Rocket League Performance Hiccups and Stutters</u></a></li>
+<li><a href="https://win-guides.techidaily.com/how-to-fix-a-distorted-or-blurry-monitor-display-a-guide-from-yl-computing/"><u>How to Fix a Distorted or Blurry Monitor Display: A Guide From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-ai-techniques-crafting-epic-dandd-characters-with-chatgpt-and-dall-e/"><u>Innovative AI Techniques: Crafting Epic D&D Characters with ChatGPT and DALL-E</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-stable-play-in-yakuza-6-the-song-of-life-on-pc/"><u>Mastering the Fix for Stable Play in Yakuza 6 'The Song of Life' On PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-nvidia-rtx-3080-driver-download-best-for-windows-10-8-and-7/"><u>Official NVIDIA RTX 3080 Driver Download - Best for Windows 10, 8 and 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-guide-resolving-issues-with-madden-nfl-22/"><u>Quick Fix Guide: Resolving Issues with Madden NFL 22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-resident-evil-village-crashing-issues-on-your-windows-pc/"><u>Resolving Resident Evil Village Crashing Issues on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-stability-fix-6-rapid-repairs-to-enhance-your-gaming-pc/"><u>Roblox Stability Fix: 6 Rapid Repairs to Enhance Your Gaming PC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/starfield-storage-universe-restoration-base/"><u>Starfield Storage - Universe Restoration Base</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-to-updating-difficulties-with-minecraft-native-launcher/"><u>The Ultimate Solution to Updating Difficulties with Minecraft Native Launcher</u></a></li>
 </ul></div>
 

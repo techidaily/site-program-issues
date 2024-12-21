@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting COD: MW3 When It Suddenly Stops Working"
-date: 2024-08-23T17:21:36.847Z
-updated: 2024-08-24T17:21:36.847Z
+date: 2024-12-13T17:56:20.732Z
+updated: 2024-12-20T02:48:55.892Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes for Internet Explorer has stopped working
 
  Here are 6 fixes that have worked for other users. You don’t have to try them all; just work your way down the list until you find one that resolves the issue for you.
@@ -39,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your video driver
 
  Perhaps the most common cause of the ‘**Internet Explorer has stopped working** ’ error is an outdated/corrupted/faulty**video driver** . So you should update your video driver to see if it fixes the issue.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -47,11 +52,13 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc4523d19203.jpg)
 4. Restart your computer and check if Internet Explorer works properly. If the problem still exists, then move on to **Fix 2** , below.
 
@@ -68,24 +75,20 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 1. On your keyboard, press**the Windows logo key**  and**R** at the same time, then type **inetcpl.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Programs** \>**Manage add-ons** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
 4. **Restart** your computer and check if Internet Explorernow works:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * If Internet Explorer does work after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.  
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Uninstall toolbars
 
  Toolbars in Internet Explorer are very much like add-ons. They improve your browsing experience and add functionality. If one of your toolbars is faulty, or for some reason conflicts with your browser or your other toolbars, it can cause the**Internet Explorer has stopped working** problem.
@@ -95,13 +98,20 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **appwiz.cpl**  and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 2. Right-click on **the each toolbar** in your list of programs and features **and clickUninstall** / ****Change .**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1acaa16c1.jpg)
 3. Click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd64bdd78f4.jpg)
 4. **Restart** your computer and check if Internet Explorernow works.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * If Internet Explorer does work after uninstalling all your toolbars, it’s likely one of your toolbars was the problem. Now you just need to figure out which one. To do this, you can try to reinstall one of your original toolbars, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after reinstalling the toolbar, reinstall another one and test again. Continue testing each toolbar in this way until you find the one that stops Internet Explorer from working. Once you find it, uninstall it again. If you need it, contact the vendor for support.  
    * If uninstalling your toolbars doesn’t solve your problem, move on to**Fix 4** .
 
@@ -116,22 +126,18 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 Here’s how to do it…
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **inetcpl.cpl** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Advanced**  , and check whether the **Use software rendering instead of GPU rendering** checkbox is ticked. If it is ticked, un-tick it. If it’s not ticked, tick it. Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc98b95b2550.jpg)
 3. **Restart**  your computer and see if Internet Explorer works properly. If not, move on to **Fix 5** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset your security zones to their default levels
 
  If you’ve changed Internet Explorer’s s  ecurity zone settings, or if an app has changed them, this can sometimes cause **Internet Explorer has stopped working** problem. You may be able to resolve the problem by resetting your security zones to their default levels.
@@ -149,6 +155,10 @@ Here’s how to do it…
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Internet Explorer
 
  If all else fails and you’re not quite ready to ditch Internet Explorer, then you might want to reinstall it.
@@ -156,21 +166,17 @@ Here’s how to do it…
 **Important** : Reinstalling Internet Explorer will delete pinned tabs, passwords and add-ons. It won’t affect your bookmarks, though.
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **appwiz.cpl** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 2. Click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
 5. Click **OK** and wait until Internet Explorer turns off.
 6. **Restart** your computer.
@@ -179,9 +185,6 @@ Here’s how to do it…
 8. Click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 9. Tick the **Internet Explorer**  checkbox, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4228e8c23.jpg)
 10. Wait until Internet Explorer turns on.
 11. Re-launch Internet Explorer and see if it works properly.
@@ -198,8 +201,6 @@ Here’s how to do it…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +208,20 @@ Here’s how to do it…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-comprehensive-mac-recorder-plus-audio/"><u>[New] In 2024, Comprehensive Mac Recorder Plus Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-single-stream-live-a-guide-for-solo-broadcasts/"><u>2024 Approved Mastering Single-Stream LIVE A Guide for Solo Broadcasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-high-definition-4k-gaming-screens/"><u>2024 Approved Top 5 High Definition 4K Gaming Screens</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/create-personalized-flipbooks-from-multiple-pdfs-in-one-go-flipbuildercom/"><u>Create Personalized Flipbooks From Multiple PDFs in One Go [FlipBuilder.com]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-steps-to-fix-the-issue/"><u>Crusader Kings II Won't Start? Troubleshooting Steps to Fix the Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-overcome-glitches-solving-code-vein-stutter-and-pause-problems/"><u>Guide to Overcome Glitches - Solving Code Vein Stutter and Pause Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>How to Stop Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-the-art-of-tiktok-intros-on-mac-devices/"><u>Mastering the Art of TikTok Intros on Mac Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-playthrough-solving-subnautica-below-zeros-crashing-woes-on-pc/"><u>Optimizing Your Playthrough - Solving Subnautica: Below Zero's Crashing Woes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-problems-in-monster-hunter-stories-curosity-and-a-drive-for-continuous-improvement-with-your-help-i-aim-to-provide-valuable-insigh575/"><u>Overcoming Initialization Problems in Monster Hunter Stories Curosity, and a Drive for Continuous Improvement. With Your Help, I Aim to Provide Valuable Insights Into Tech Topics</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-errors-why-your-itunes-synchronization-wont-begin-and-steps-for-success/"><u>Resolving Errors: Why Your iTunes Synchronization Won't Begin & Steps for Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-appraisal-gopro-silver-hero4-version-analysis/"><u>Thorough Appraisal GoPro Silver HERO4 Version Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-spellbreak-no-more-pc-freezing-or-crashing-issues/"><u>Ultimate Fix for Spellbreak - No More PC Freezing or Crashing Issues</u></a></li>
+</ul></div>
 

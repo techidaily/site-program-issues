@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: Why DOOM Eternal Won't Start?"
-date: 2024-12-14T00:07:28.481Z
-updated: 2024-12-18T22:07:04.230Z
+date: 2024-12-13T20:44:23.205Z
+updated: 2024-12-19T18:56:19.679Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -80,7 +84,7 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
@@ -88,10 +92,6 @@ See if this issue reappears. If not, you have fixed this issue.
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -103,19 +103,15 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
- Run your game again to see if this issue persists. If not, you have resolved this problem!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
 
@@ -131,13 +127,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -148,6 +144,10 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -193,21 +193,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nderstanding-youtubes-monetization-schedule/"><u>[New] Understanding YouTube's Monetization Schedule</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-x-capture-pro-for-home-systems-for-2024/"><u>[New] X-Capture Pro for Home Systems for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-youtube-visibility-with-tubebuddy/"><u>[Updated] In 2024, Enhancing YouTube Visibility with TubeBuddy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-to-address-recurring-watch-dogs-legion-freezes-and-shutdowns-on-windows/"><u>Ensuring Smooth Gameplay: Strategies to Address Recurring Watch Dogs Legion Freezes and Shutdowns on Windows</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/how-to-identify-and-remove-copy-cat-images-from-your-portable-storage/"><u>How to Identify & Remove Copy-Cat Images From Your Portable Storage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-unresponsiveness-steam-continuously-crashing-now-solved/"><u>How to Overcome Unresponsiveness: Steam Continuously Crashing - Now Solved!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y78t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y78t Without PUK Codes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-depth-evaluation-of-clipcreator-editor-updated/"><u>In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-guide-to-mobile-file-exchange-in-ios/"><u>In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-game-software-problems-heres-how-to-get-them-working-again/"><u>Logitech Game Software Problems? Here's How to Get Them Working Again!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-repairing-stuck-media-drives-dvdbdcd/"><u>Step-by-Step Guide to Repairing Stuck Media Drives (DVD/BD/CD)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-common-issues-with-halo-infinites-sound/"><u>Troubleshooting Guide: Resolving Common Issues with Halo Infinite's Sound</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-ensure-death-strandings-successful-release-journey/"><u>Troubleshooting Triumphs Ensure Death Stranding's Successful Release Journey</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-expert-advice-top-6-tricks-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Advice: Top 6 Tricks to Boost Your FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-tips-for-escaping-roblox-stuck-on-startup-screen/"><u>Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-costlesscapture-revolutionizing-how-you-record-play/"><u>[Updated] CostlessCapture Revolutionizing How You Record Play</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-eliminating-frame-discrepancies-in-obs-recordings/"><u>[Updated] In 2024, Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-bargain-elite-gamer-speakers-slashed-to-just-30-off-at-amazon-featured-exclusively/"><u>Discover the Ultimate Bargain: Elite Gamer Speakers Slashed to Just 30% Off at Amazon, Featured Exclusively !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-issues-with-yakuza-6-life-and-death-love-song/"><u>How to Resolve PC Issues with Yakuza 6: Life and Death Love Song</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-poco-c51-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Poco C51</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone X Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-camcorders-of-2024-ranked-and-reviewed/"><u>Prime Camcorders of 2024 Ranked & Reviewed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screenorientationfix-guide/"><u>ScreenOrientationFix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-problem-of-your-unresponsive-logitech-c920-webcam-now/"><u>Solve the Problem of Your Unresponsive Logitech C920 Webcam Now</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/some-linux-distributions-also-offer-tools-like-startup-disk-creator-for-ubuntu-or-systemrescuecd-for-fedora-which-can-be-used-similarly-to-brasero-but-are-t187/"><u>Some Linux Distributions Also Offer Tools Like Startup Disk Creator for Ubuntu or SystemRescueCD for Fedora Which Can Be Used Similarly to Brasero but Are Tailored for Creating Boot Disks.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-valheims-low-fps-problem-increase-your-frame-rate-easily/"><u>Step-by-Step Solutions for Valheim's Low FPS Problem - Increase Your Frame Rate Easily !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-solutions-for-fortnite-entry-point-missing-issue/"><u>Troubleshooting Solutions for Fortnite 'Entry Point Missing' Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-battlefield-5-launching-problems/"><u>Ultimate Guide: Solving Battlefield 5 Launching Problems</u></a></li>
 </ul></div>
 

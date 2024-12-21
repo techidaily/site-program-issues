@@ -1,7 +1,7 @@
 ---
 title: "Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes"
-date: 2024-12-18T00:55:29.209Z
-updated: 2024-12-19T02:06:04.514Z
+date: 2024-12-13T19:39:42.109Z
+updated: 2024-12-20T02:57:09.794Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -71,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -82,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
- If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
 
@@ -107,14 +115,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -152,20 +152,18 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-camstudio-screen-recorder-complete-review/"><u>[New] 2024 Approved CamStudio Screen Recorder Complete Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pixelated-palaces-6-basic-mc-homes-for-neophytes/"><u>[New] In 2024, Pixelated Palaces 6 Basic MC Homes for Neophytes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlock-youtubes-potential-key-strategies-from-creator-studio-manual/"><u>[New] Unlock YouTube's Potential Key Strategies From Creator Studio Manual</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-breaking-the-screens-top-10-most-popular-female-youtubers/"><u>[Updated] 2024 Approved Breaking the Screens Top 10 Most Popular Female YouTubers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024-release-analysis-call-of-duty-modern-warfare-3-performance-issues-and-frame-rate-hiccups/"><u>2024 Release Analysis: Call of Duty: Modern Warfare 3 Performance Issues and Frame Rate Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-frame-rate-in-ark-survival-evolved-ultimate-guide-for-gamers/"><u>Boosting Frame Rate in ARK: Survival Evolved - Ultimate Guide for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993417584-deathloop-release-woes-heres-how-you-can-overcome-them/"><u>Deathloop Release Woes? Here's How You Can Overcome Them</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-fold-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel Fold Location by Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-fallout-76-frame-rate-tackling-the-persistent-problem-of-in-game-jitters/"><u>Improving Fallout 76 Frame Rate: Tackling the Persistent Problem of In-Game Jitters</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>In 2024, Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>In 2024, Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/increase-fps-in-roe-proven-strategies-for-a-smoother-gaming-experience/"><u>Increase FPS in ROE: Proven Strategies for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/spellbreak-crashing-no-more-effective-fixes-for-a-seamless-pc-experience/"><u>Spellbreak Crashing No More: Effective Fixes for a Seamless PC Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-brings-an-end-to-latency-in-the-elder-scrolls-onlines-blackwood-zone/"><u>Update Brings an End to Latency in The Elder Scrolls Online’s Blackwood Zone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-powerpoint-presentations-merging-text-with-tuneable-tracks-for-2024/"><u>[Updated] PowerPoint Presentations Merging Text with Tuneable Tracks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009090845-effortlessly-fix-your-pc-issues-with-assassins-creed-odyssey-no-more-crashes/"><u>Effortlessly Fix Your PC Issues with Assassin's Creed Odyssey - No More Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-90-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Honor 90 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-freezing-problems-in-ghostwire-tokyo-for-windows-computers/"><u>How to Resolve Persistent Freezing Problems in Ghostwire: Tokyo for Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-yakuza-like-a-dragons-intricacies-a-comprehensive-walkthrough-for-pc-gamers/"><u>Master Yakuza: Like a Dragon's Intricacies - A Comprehensive Walkthrough for PC Gamers</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-ssd-partition-alignment-techniques-for-optimal-performance/"><u>Mastering SSD Partition Alignment Techniques for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-easily-resolve-javascript-issues-in-discord/"><u>Quick Solutions: Easily Resolve JavaScript Issues in Discord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionize-your-viewing-in-depth-analysis-of-lg-c9-oled-65-inch-screens-stunning-4k-performance/"><u>Revolutionize Your Viewing: In-Depth Analysis of LG C9 OLED 65-Inch Screen's Stunning 4K Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-arma-e-3-game-crashes-once-and-for-all-learn-proven-techniques/"><u>Stop Arma E 3 Game Crashes Once and For All! Learn Proven Techniques</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/unlinking-and-deleting-onedrive-from-your-pc-a-comprehensive-walkthrough-for-windows-11-users/"><u>Unlinking and Deleting OneDrive From Your PC: A Comprehensive Walkthrough for Windows 11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-31-on-windows-a-step-by-point-approach/"><u>Unraveling Error Code 31 on Windows: A Step-By Point Approach</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
 </ul></div>
 

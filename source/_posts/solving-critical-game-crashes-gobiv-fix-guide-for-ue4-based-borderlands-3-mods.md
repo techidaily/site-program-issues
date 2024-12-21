@@ -1,7 +1,7 @@
 ---
 title: "Solving Critical Game Crashes: GOBIV Fix Guide for UE4-Based Borderlands 3 Mods"
-date: 2024-12-15T00:27:16.111Z
-updated: 2024-12-19T01:11:28.575Z
+date: 2024-12-18T02:56:38.817Z
+updated: 2024-12-19T21:34:57.521Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -55,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
 
@@ -78,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -101,19 +109,11 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Launch the game again in a reduced settings to see it it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that the game may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Verify the game file
 
@@ -123,13 +123,17 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_11-12-38.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Add Borderland 3 as an exception to your 3rd party antivirus software
 
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
  Since Borderlands 3 consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus application may regard it as a potential threat and Borderlands 3 may not run as expected. You can try   **adding Borderlands 3 as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -152,11 +152,15 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
@@ -169,16 +173,12 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Restart** your PC and run Borderlands 3 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall the game
@@ -207,20 +207,18 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unraveling-the-benefits-of-rapid-youtube-subscription/"><u>[New] 2024 Approved Unraveling the Benefits of Rapid YouTube Subscription</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/trategies-for-optimal-youtube-shorts-growth/"><u>[New] Strategies for Optimal YouTube Shorts Growth</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>[Updated] 2024 Approved From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-recording-gear-for-vloggers/"><u>[Updated] Ideal Recording Gear for Vloggers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-televisual-enhancements-through-engaging-fb-livestreams/"><u>[Updated] Televisual Enhancements Through Engaging FB Livestreams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-charting-new-territory-after-magixs-acid-pro/"><u>2024 Approved Charting New Territory After Magix's ACID Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>2024 Approved Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-troubleshoot-non-loading-twitch-broadcasts-7-fixed-tips/"><u>Effective Ways to Troubleshoot Non-Loading Twitch Broadcasts (7 Fixed Tips)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-addressing-football-manager-2019-crash-issues-without-frustration/"><u>Expert Advice for Addressing Football Manager 2019 Crash Issues Without Frustration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-unreal-process-has-crashed-error-in-outriders-game/"><u>How to Overcome 'Unreal Process Has Crashed' Error in Outriders Game</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-efficient-text-extraction-with-abby-ocr-sdk-smart-document-insight-generation/"><u>Mastering Efficient Text Extraction with Abby OCR SDK – Smart Document Insight Generation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-solution-addressing-sea-of-thieves-initial-boot-issues/"><u>Mastering the Solution: Addressing 'Sea of Thieves' Initial Boot Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restoring-game-sounds-overcoming-silence-in-fallout-4-on-desktops-and-laptops/"><u>Restoring Game Sounds: Overcoming Silence in Fallout 4 on Desktops and Laptops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-full-power-of-your-graphics-card-troubleshooting-warzones-gpu-usage-on-windows-10-devices/"><u>Unlock the Full Power of Your Graphics Card: Troubleshooting Warzone's GPU Usage on Windows 10 Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-delayed-releases-boost-gamer-interest/"><u>Why Delayed Releases Boost Gamer Interest</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-live-streaming-tools-head-to-head-obs-vs-fraps-for-2024/"><u>[New] Live Streaming Tools Head to Head OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-master-the-charm-of-darker-digital-images/"><u>[Updated] 2024 Approved Master the Charm of Darker Digital Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/"><u>Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-6-tech-for-accurate-video-subtitles/"><u>Elite 6 Tech for Accurate Video Subtitles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-pc-stability-problems-solutions-and-fixes/"><u>God of War PC Stability Problems - Solutions and Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-invalid-profiles-in-win11-devices/"><u>How to Address 'Invalid Profiles' In Win11 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-drivers-for-your-lenovo-ideapad-100-on-windows-11-instructions-inside/"><u>How to Get the Newest Drivers for Your Lenovo IdeaPad 100 on Windows 11: Instructions Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-persistent-issues-why-is-rocket-league-still-crashing/"><u>Solving Persistent Issues: Why Is Rocket League Still Crashing ?</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-note-navigation-in-windows-11/"><u>Sticky Note Navigation in Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/synchronisierung-von-google-drive-auf-deinem-pc-mit-windows-11-10-8-und-7/"><u>Synchronisierung Von Google-Drive Auf Deinem PC Mit Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/"><u>Troubleshooting Steps to Stop 'Forza Horizon 5' From Freezing on Windows</u></a></li>
 </ul></div>
 

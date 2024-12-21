@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows
-date: 2024-12-16T16:57:07.627Z
-updated: 2024-12-18T19:14:11.205Z
+date: 2024-12-13T16:53:48.304Z
+updated: 2024-12-20T00:00:55.260Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -90,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -116,11 +108,19 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -136,18 +136,18 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -188,20 +188,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>[New] Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-instant-screen-capture-plus-audio-walkthrough-for-2024/"><u>[New] Instant Screen Capture + Audio Walkthrough for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel-for-2024/"><u>[New] The Ultimate Guide to Banner & Art Design for Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[Updated] In 2024, Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-2022-update-understanding-and-resolving-the-leaf-error-code/"><u>Apex Legends 2022 Update: Understanding and Resolving the 'Leaf' Error Code</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-farewell-to-warframes-freezing-problem-with-these-effective-solutions/"><u>Bid Farewell to Warframe's Freezing Problem with These Effective Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-the-differences-between-nintendo-switch-lite-and-nintendo-switch-oled/"><u>Head-to-Head Comparison: The Differences Between Nintendo Switch Lite and Nintendo Switch OLED</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8715-windows-11108/"><u>HP OfficeJet Pro 지정기 8715와의 호킹: Windows 11/10/8용 드라이버 다운로드 가이드</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>In 2024, Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-with-dying-light-2-on-pc-solutions-for-improved-fps-and-smooth-graphics/"><u>Optimizing Your Experience with Dying Light 2 on PC: Solutions for Improved FPS & Smooth Graphics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-error-6-in-call-of-duty-modern-warfare-and-diver-wars-on-pc/"><u>Resolved: Fixing Error 6 in Call of Duty Modern Warfare & Diver Wars on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-path-to-endless-wealth-triumphing-over-challenges-in-the-world-of-like-a-dragon-for-pc/"><u>The Path to Endless Wealth: Triumphing Over Challenges in the World of Like a Dragon for PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-persona-5-strikers-game-crashes-on-pc/"><u>Troubleshooting: Fixing Persona 5 Strikers Game Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-solving-guilty-gear-strive-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Solving Guilty Gear Strive PC Game Freezes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-ambiance-with-thoughtful-lighting/"><u>[New] 2024 Approved Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-high-end-drones-expert-buyers-choices-top-5/"><u>[New] In 2024, High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-your-views-optimal-hashtags-for-video-success/"><u>[Updated] Boost Your Views Optimal Hashtags for Video Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-conceptualization-to-production-a-guide-to-making-mukbang/"><u>[Updated] In 2024, From Conceptualization to Production A Guide to Making Mukbang</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/beat-it-back-with-eargasm-pro-earmuffs-review/"><u>Beat It Back with Eargasm Pro Earmuffs Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bestellung-des-winx-hauspakets-im-internet-schnelles-handeln/"><u>Bestellung Des WinX Hauspakets Im Internet - Schnelles Handeln!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-overview-harnessing-the-power-of-googles-text-conversion-for-2024/"><u>Complete Overview Harnessing the Power of Google's Text Conversion for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-sea-of-thieves-game-crash-problems-easily/"><u>Fixing the Sea of Thieves Game Crash Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuttering-and-boost-fps-in-warzone/"><u>How to Fix Stuttering and Boost FPS in Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/r-type-final-2-stability-issues-how-to-prevent-pc-game-crashes/"><u>R-Type Final 2 Stability Issues: How to Prevent PC Game Crashes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/small-spaces-big-flavor-6-miniature-east-asian-houses/"><u>Small Spaces, Big Flavor 6 Miniature East Asian Houses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-outpost-infinity-siege-from-closing-unexpectedly-on-your-computer/"><u>Step-by-Step Solutions to Stop Outpost: Infinity Siege From Closing Unexpectedly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-resolve-hogwarts-legacy-game-lagging/"><u>Top 6 Solutions to Resolve Hogwarts Legacy Game Lagging</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-persistent-crashes-in-remnant-from-the-ashes/"><u>Troubleshooting and Fixing Persistent Crashes in 'Remnant: From The Ashes'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-tekken-8-wont-boot-on-your-computer/"><u>Troubleshooting Steps When Tekken 8 Won't Boot on Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-se-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone SE</u></a></li>
 </ul></div>
 

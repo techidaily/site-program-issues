@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issues: Troubleshooting Steps for FIFA 19 Game Crashes on Windows Machines"
-date: 2024-12-12T02:48:20.798Z
-updated: 2024-12-19T11:58:45.506Z
+date: 2024-12-18T16:11:08.259Z
+updated: 2024-12-19T21:10:44.797Z
 tags:
   - win11
   - win10
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -74,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -112,18 +112,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -141,6 +133,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -148,7 +144,7 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
@@ -163,10 +159,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -175,9 +167,17 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -198,7 +198,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your computer.
@@ -229,20 +229,22 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[Updated] 2024 Approved Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-androids-free-video-chat-alternatives-top-list-for-2024/"><u>[Updated] Android's Free Video Chat Alternatives Top List for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-eternal-banishment-of-youtubes-quick-clips/"><u>[Updated] In 2024, Eternal Banishment of YouTube's Quick Clips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[Updated] In 2024, Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-enhancing-media-workflow-the-rise-of-magix-vpx/"><u>2024 Approved Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-darkness-top-strategies-to-fix-call-of-duty-warzones-black-screen-problem-tips-and-tricks/"><u>Defeating Darkness: Top Strategies to Fix Call of Duty Warzone's Black Screen Problem (Tips & Tricks)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-continuous-freezing-and-crashes-on-cod-modern-warfare/"><u>Effective Fixes to Stop Continuous Freezing & Crashes on COD: Modern Warfare</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-checklist-choosing-the-right-wrist-worn-health-device/"><u>Essential Checklist: Choosing the Right Wrist-Worn Health Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011272458-fixes-for-star-wars-squadrons-game-breaking-glitches-now-solved/"><u>Fixes for Star Wars: Squadrons Game-Breaking Glitches - Now Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hitman-3-and-the-infamous-connection-failure-problem-solutions-inside/"><u>Hitman 3 and the Infamous Connection Failure Problem - Solutions Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/marvel-enthusiasts-rejoice-solve-guardians-of-the-galaxy-pc-crash-issues-using-our-top-8-fixes/"><u>Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-tweaks-to-fix-and-optimize-elite-dangerous-on-your-personal-computer/"><u>Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k24-error-resolution-tackling-issue-727e66ac-with-proven-strategies/"><u>NBA 2K24 Error Resolution: Tackling Issue 727E66AC with Proven Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-dynamic-duo-of-collage-and-creativity-light-up-your-world/"><u>[New] 2024 Approved Dynamic Duo of Collage & Creativity Light Up Your World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[New] 2024 Approved Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/6-free-methods-to-capture-your-google-hangout-sessions-a-step-by-step-guide-with-movavi/"><u>6 FREE Methods to Capture Your Google Hangout Sessions: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-look-at-telecommunications-companeis-and-their-services/"><u>A Comprehensive Look at Telecommunications Companeis and Their Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-electric-cars-handle-severe-hot-and-cold-temperatures-an-in-depth-review/"><u>Can Electric Cars Handle Severe Hot and Cold Temperatures? An In-Depth Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-why-your-pacific-drive-wont-launch-and-how-to-overcome-it/"><u>Diagnose & Repair: Why Your Pacific Drive Won't Launch and How to Overcome It</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-opinion-navigating-with-google-maps-on-your-iphone/"><u>Expert Opinion: Navigating with Google Maps on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-game-crashing-issues/"><u>How to Fix Game Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987672252-optimizing-gpu-performance-for-warzone-on-windows-11-fixed/"><u>Optimizing GPU Performance for Warzone on Windows 11 - Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-problems-in-your-atomic-heart-app/"><u>Overcoming Initialization Problems in Your Atomic Heart App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
+<li><a href="https://win-docs.techidaily.com/page-cannot-be-displayed-http-404/"><u>Page Cannot Be Displayed (HTTP 404)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-black-ops-cold-war-interface-bug-27711-fixed/"><u>Resolved: Black Ops Cold War Interface Bug 27711 Fixed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/rethink-how-you-research-choose-perplexity-ai/"><u>Rethink How You Research - Choose Perplexity AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-dinosaur-adventures-ultimate-guide-to-solve-jurassic-world-evolution-crashes/"><u>Smooth Dinosaur Adventures: Ultimate Guide to Solve Jurassic World Evolution Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-practical-use-cases-for-chatgpt-a-look-at-seven-key-areas/"><u>Unveiling the Practical Use Cases for ChatGPT: A Look at Seven Key Areas</u></a></li>
 </ul></div>
 

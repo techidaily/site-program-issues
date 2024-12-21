@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer
-date: 2024-12-17T18:54:56.889Z
-updated: 2024-12-18T19:05:33.495Z
+date: 2024-12-17T23:05:40.284Z
+updated: 2024-12-19T17:29:02.561Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  After confirming that your computer is powerful enough to run the game, read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest game patch
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
  Recently, the Gas Station Simulator developer has released a new hotfix that resolves random crashes while playing. The developer has acknowledged that Texture Streaming was responsible for a significant amount of random crashes in various circumstances. Those crashes have been fixed in the latest update. So before you try anything more complicated,**make sure you have installed the latest game patch** .
 
  If the game still keeps crashing after installing the latest update, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -71,8 +67,16 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once done, relaunch the game and check if your problem is resolved.
 
@@ -86,15 +90,19 @@ If the crashing issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -112,15 +120,15 @@ If the crashing issue remains, move on to the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
 
@@ -130,10 +138,6 @@ If the crashing issue remains, move on to the next fix.
 
  But if the game remains crashing after disabling your antivirus, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a clean boot
 
  The programs running in the background could interfere with your game. To fix it, you can perform a clean boot to figure out if the crash was caused due to a software conflict. To do so:
@@ -141,10 +145,6 @@ If the crashing issue remains, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
@@ -183,16 +183,24 @@ If the crashing issue remains, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unlocking-gameplay-success-with-ps3-screen-recording/"><u>[New] In 2024, Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-masterclass-creating-captivating-splitscreen-content/"><u>[Updated] In 2024, YouTube Masterclass Creating Captivating Splitscreen Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-spectacular-your-guide-to-selecting-a-stellar-4k-display/"><u>2024 Approved From Standard to Spectacular Your Guide to Selecting a Stellar 4K Display</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-nba-2k24s-troublesome-error-727e66ac-comprehensive-guide-to-game-stability-and-performance-enhancements/"><u>Bypass NBA 2K24's Troublesome Error 727E66ac - Comprehensive Guide to Game Stability & Performance Enhancements</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypassing-driver-installation-on-your-pc/"><u>Bypassing Driver Installation on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-low-fps-problems-while-playing-dying-light-a-comprehensive-guide/"><u>Fixing Low Fps Problems While Playing Dying Light - A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-pop-7-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-g22-easily-by-drfone-android/"><u>How To Unlock a Nokia G22 Easily?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-success-story-overcoming-rainbow-six-extraction-stability-problems/"><u>PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-techniques-to-combat-high-ping-and-lag-in-chivalry-ii-enhance-your-gaming-performance-now-2024-insights/"><u>Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-content-strategy-for-success-for-2024/"><u>YouTube Shorts Content Strategy for Success for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-maximize-view-count-responsibly-legal-avenues-to-a-million-fans/"><u>[New] 2024 Approved Maximize View Count Responsibly Legal Avenues to a Million Fans</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-drone-selections-for-young-pilots-and-rookie-flyers-for-2024/"><u>[New] Best Drone Selections for Young Pilots and Rookie Flyers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-gameplay-with-optimized-ram-assignment-for-minecraft/"><u>[New] Elevating Gameplay with Optimized Ram Assignment for Minecraft</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>[New] Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-time-travel-adventures-for-unique-anime-inspired-tiktoks/"><u>[Updated] 2024 Approved Time Travel Adventures for Unique Anime-Inspired TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-velocity-video-tape-echoes-included/"><u>[Updated] 2024 Approved Velocity Video Tape Echoes Included</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>[Updated] In 2024, Direct Connection Navigating Desktop Display Integration on Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-display-error-solved-end-of-the-dark-screen-woes/"><u>Cyberpunk 2077 Display Error Solved: End of the Dark Screen Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-handling-the-asset-not-found-mistake-error-4201-in-genshin-impact/"><u>Expert Advice on Handling the 'Asset Not Found' Mistake (Error #4201) in Genshin Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-black-screen-problem-when-playing-overwatch/"><u>Fixing the Mysterious Black Screen Problem When Playing Overwatch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-ghostrunner-crashes-in-windows-11-a-step-by-step-guide/"><u>Resolving Ghostrunner Crashes in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-lags-in-obs-advanced-strategies-for-stable-recording-and-streaming/"><u>Resolving Playback Lags in OBS: Advanced Strategies for Stable Recording and Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simplify-the-numerator-by-combining-like-terms-4x-and-5x/"><u>Simplify the Numerator by Combining Like Terms (4X and 5X):</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000799950-stop-that-minecraft-outdated-drivers-error-easy-fix-inside/"><u>Stop That 'Minecraft Outdated Drivers' Error! Easy Fix Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tactical-strategies-to-combat-the-0xc0000005-error-code-in-black-ops-cold-war/"><u>Tactical Strategies to Combat the 0xC0000005 Error Code in Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-valorants-pc-latency-techniques-to-improve-your-gameplay/"><u>The Ultimate Fix for Valorant's PC Latency : Techniques to Improve Your Gameplay</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-mapi3ndll-missing-error-effective-fixes-to-try-now/"><u>Troubleshooting Mapi3nDll Missing Error – Effective Fixes to Try Now!</u></a></li>
 </ul></div>
 

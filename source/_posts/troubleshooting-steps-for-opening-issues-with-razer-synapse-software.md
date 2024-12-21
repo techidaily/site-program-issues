@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-12-11T23:17:48.994Z
-updated: 2024-12-18T21:47:05.708Z
+date: 2024-12-16T20:00:42.311Z
+updated: 2024-12-20T01:26:57.041Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,6 +33,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -74,10 +78,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -89,7 +89,7 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
@@ -99,12 +99,16 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -125,10 +129,6 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -155,21 +155,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/xpert-insights-for-youtube-end-credits-top-makers-advice-for-2024/"><u>[New] Expert Insights for YouTube End Credits - Top Makers' Advice for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-boosting-videos-the-best-5-tech-aids/"><u>[Updated] 2024 Approved Boosting Videos The Best 5 Tech Aids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-frozen-screen-expert-advice-to-overcome-issues-in-call-of-duty-vanguard/"><u>Beat the Frozen Screen: Expert Advice to Overcome Issues in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-crashes-in-thunder-tier-one-on-windows-a-comprehensive-guide/"><u>Fixing Persistent Crashes in Thunder Tier One on Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unreal-process-has-crashed-on-outriders-ue4-bug-explained/"><u>How to Fix 'Unreal Process Has Crashed' On Outriders - UE4 Bug Explained</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-n53-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme Narzo N53?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/kopieren-von-fotos-aus-dem-icloud-account-zu-einer-externen-speicherkarte-schnelle-anleitung/"><u>Kopieren Von Fotos Aus Dem iCloud-Account Zu Einer Externen Speicherkarte - Schnelle Anleitung</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-longer-waiting-immerse-yourself-in-the-world-of-immortals-fenyx-rising/"><u>No Longer Waiting? Immerse Yourself in the World of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-continuous-crashing-of-escape-from-tarkov-on-windows-pc/"><u>Resolved: Fixes for Continuous Crashing of Escape From Tarkov on Windows PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-home-essentials-for-the-modern-household-top-picks-of-2024-featuring-in-depth-analysis-and-expert-opinions-zdnet/"><u>Smart Home Essentials for the Modern Household - Top Picks of 2024, Featuring In-Depth Analysis and Expert Opinions | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-bloodhunts-freezing-and-skipping-issues-a-comprehensive-guide-for-pc-users/"><u>Solving Bloodhunt's Freezing & Skipping Issues: A Comprehensive Guide for PC Users</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-adjusting-your-pcs-security-preferences-with-yl-software-solutions/"><u>Step-by-Step Guide: Adjusting Your PC's Security Preferences with YL Software Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-improved-graphics-driver-compatibility-in-new-forza-horizon-version/"><u>Troubleshooting Steps for Improved Graphics Driver Compatibility in New Forza Horizon Version</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-gpu-acceleration-on-your-pc-a-guide-to-optimizing-windows-10-and-11/"><u>Unlocking GPU Acceleration on Your PC: A Guide to Optimizing Windows 10 & 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2023s-prime-divers-top-tier-aquatic-camera-choices-for-2024/"><u>[New] 2023'S Prime Divers Top-Tier Aquatic Camera Choices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-aesthetic-alchemy-grading-with-colors/"><u>[Updated] 2024 Approved Aesthetic Alchemy Grading with Colors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-5-low-cost-solar-panels-powering-your-tech/"><u>[Updated] 2024 Approved Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[Updated] In 2024, ScreenSnapper Revisited Apowersoft's Latest PC Tool</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-budget-friendly-tips-for-acquiring-high-end-gopros/"><u>2024 Approved Budget-Friendly Tips for Acquiring High-End GoPros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-your-amd-gpu-software-not-initializing-properly/"><u>Fixing Issues with Your AMD GPU Software Not Initializing Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-collapsing-tower-of-fantasy-solving-pc-game-crashes/"><u>Fixing the Collapsing Tower of Fantasy: Solving PC Game Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/guide-to-seamlessly-share-your-igtv-story-for-2024/"><u>Guide to Seamlessly Share Your IGTV Story for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-crashes-in-forza-horizon-4-for-pc-players/"><u>How to Fix and Prevent Crashes in Forza Horizon 4 for PC Players</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-20-anime-song-intros/"><u>In 2024, Superior 20 Anime Song Intros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-minecraft-troubleshooting-a-step-by-step-guide-to-fixing-error-code-0/"><u>Mastering Minecraft Troubleshooting - A Step-by-Step Guide to Fixing Error 'Code 0'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-freeze-frustration-in-microsoft-flight-simulator-2020-with-solutions-for-update-errors/"><u>Overcome Freeze Frustration in Microsoft Flight Simulator 2020 with Solutions for Update Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pro-gamers-secrets-achieve-higher-fps-in-escape-from-tarkov-with-our-six-essential-hacks/"><u>Pro Gamers' Secrets: Achieve Higher FPS in Escape From Tarkov With Our Six Essential Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-acrocefexe-errors-expert-strategies-revealed/"><u>Troubleshooting AcroCEF.exe Errors: Expert Strategies Revealed</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
 

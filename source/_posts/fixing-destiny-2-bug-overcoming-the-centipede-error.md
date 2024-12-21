@@ -1,7 +1,7 @@
 ---
 title: "Fixing Destiny 2 Bug: Overcoming the Centipede Error"
-date: 2024-08-28T06:19:46.160Z
-updated: 2024-08-29T06:19:46.160Z
+date: 2024-12-13T03:23:37.742Z
+updated: 2024-12-20T01:45:34.906Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -36,10 +40,12 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
-3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
@@ -51,22 +57,20 @@ If you’re not using the controller, check the below settings.
 1. Launch the game and move to SETTINGS.
 2. Go to the**VIDEO** tab, turn**off** the**VSync** .
 3. Make sure the Resolution matches the resolution of your monitor.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -75,14 +79,8 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
@@ -113,22 +111,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -144,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +146,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unleashing-creativity-advanced-obs-techniques-explained-for-2024/"><u>[New] Unleashing Creativity Advanced OBS Techniques Explained for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-discover-7-best-free-macos-compatible-tiktok-tools/"><u>[Updated] 2024 Approved Discover 7 Best Free, MacOS Compatible TikTok Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sifting-through-the-elements-of-instagram-stories/"><u>[Updated] In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/celebrate-thanksgiving-top-family-friendly-movies-for-a-festive-holiday/"><u>Celebrate Thanksgiving: Top Family-Friendly Movies for a Festive Holiday</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/create-fantastic-youtube-description-with-templates-to-get-more-viewers-for-2024/"><u>Create Fantastic YouTube Description With Templates To Get More Viewers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cultivating-effective-sponsorship-agreements-in-youtubers-realm/"><u>Cultivating Effective Sponsorship Agreements in YouTubers' Realm</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gameplay-fluidity-solutions-to-cyberpunk-2077s-frame-rate-dips-explored/"><u>Enhancing Gameplay Fluidity: Solutions to Cyberpunk 2077'S Frame Rate Dips Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-frustrating-crashes-in-manor-lords-a-comprehensive-guide-for-gamers/"><u>Fixing the Frustrating Crashes in Manor Lords: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-glitches-unraveled-successfully-tackling-two-sequential-crashes-on-windows-systems/"><u>Gaming Glitches Unraveled: Successfully Tackling Two Sequential Crashes on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dragon-age-origins-from-closing-unexpectedly-in-windows-10/"><u>How to Stop Dragon Age: Origins From Closing Unexpectedly in Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-biomutant-gaming-expert-tips-to-prevent-your-pc-from-freezing/"><u>Master Biomutant Gaming : Expert Tips to Prevent Your PC From Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-lag-and-hiccups-in-dragons-dogma-2-optimize-your-experience/"><u>Resolving Lag & Hiccups in Dragon's Dogma 2 - Optimize Your Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-crash-woes-here-are-5-proven-strategies-to-stabilize-your-game-on-pc/"><u>Stardew Valley Crash Woes? Here Are 5 Proven Strategies to Stabilize Your Game on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/starters-manual-to-mastering-screen-clarity/"><u>Starter's Manual to Mastering Screen Clarity</u></a></li>
+</ul></div>
 

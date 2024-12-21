@@ -1,7 +1,7 @@
 ---
 title: Fortnite Windows Woes? How to Fix a Persistent Black Screen Problem
-date: 2024-08-23T17:26:14.427Z
-updated: 2024-08-24T17:26:14.427Z
+date: 2024-12-16T22:18:52.494Z
+updated: 2024-12-19T17:04:49.075Z
 tags:
   - win11
   - win10
@@ -17,14 +17,12 @@ thumbnail: https://thmb.techidaily.com/28460332c706ced456fd18767c0466a64d105614a
 
 Resident Evil Village is finally out. And like every AAA title, Resident Evil Village has its own issues. If you’re experiencing Resident not launching, or crashing on startup, below you’ll find every possible fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/resident.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  First, make sure your PC is capable of handling Resident Evil Village (RE8). Check the[_Resident Evil Village_ _System Requirements_](https://www.systemrequirementslab.com/cyri/requirements/resident-evil-village/20493) if you’re not sure you can run it. After that, you can walk your way through the following fixes until you find the one that works for you.
@@ -37,9 +35,6 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 6. **[Run the game as administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update the related software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Disable in-game Overlay
 
  Overlays sometimes eat up bandwidth or introduce compatibility problems, thus causing problems in games, and that includes Resident Evil Village not launching or crashing on start up.
@@ -51,9 +46,6 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 1. Launch the Discord app.
 2. Click the **Settings** icon, and then select the **Overlay** tab.
 3. Toggle the switch to disable the **Enable in-game overlay** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-overlay-discord.jpg)
 
  Note: If you want to diable it just for Resident Evil Village, you can go to**Settings** \>**Games** , and togglle**Resident Evil Village** to**Off** .
@@ -70,6 +62,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 2. Uncheck the box next to **Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlay_options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Other common overlay applications
 
 * AMD Radeon ReLive
@@ -82,6 +78,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 * Plays TV
 
  Check if you’re having other common overlay applications installed and learn how to disable them. Once they’re disabled, you can launch your game and test the issue. If Resident Evil Village is still not launching, you can try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update to the latest Game Ready driver
 
@@ -101,9 +101,6 @@ There’re mainly two ways you can update your graphics drivers:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -117,9 +114,6 @@ There’re mainly two ways you can update your graphics drivers:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Verify game integrity on Steam
 
  It’s always recommended to verify the game files when you’re experiencing game issues. This will help you rule out the possibility of corrupted game files. Here’s how to do it:
@@ -132,12 +126,13 @@ There’re mainly two ways you can update your graphics drivers:
 
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
  4) Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Disable your antivirus software temporarily
 
@@ -146,23 +141,27 @@ There’re mainly two ways you can update your graphics drivers:
  There might be software conflict with other software, so you can perform a clean boot so that you can start Windows only with the essential programs.,
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those that belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech,** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** +**Shift**  +**Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Launch the game in windowed mode
 
  If you can launch your Resident Evil Village, you can try launching it in windowed mode. Here are the steps you can follow:
@@ -171,10 +170,11 @@ There’re mainly two ways you can update your graphics drivers:
 
 2) Go to**Library** and right-click**Resident Evil Village** , and then select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click on the**General** tab and click**SET LAUNCH OPTIONS** .
 
@@ -196,10 +196,11 @@ There’re mainly two ways you can update your graphics drivers:
 
 3) In the**Properties** window, go to the**Compatibility** tab, and select**Run this program as an administrator** . Then click**Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Update the related software
 
@@ -227,8 +228,6 @@ There’re mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +235,26 @@ There’re mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>[New] From Zero to Hero on Instagram 6 Strategies That Lead to Verified Status</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-integrating-skype-into-zoom-meetings-made-simple/"><u>[New] Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-hue-adjustment-in-post-production/"><u>[New] The Art of Hue Adjustment in Post-Production</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-oodle-your-go-to-source-for-complimentary-neighborhood-listings/"><u>Discover Oodle: Your Go-To Source for Complimentary Neighborhood Listings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-tips-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Tips: How To Stop SnowRunner From Continuously Crashing On Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-llama-2-for-enhanced-problem-solving/"><u>Harnessing Llama 2 for Enhanced Problem-Solving</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722858801847-leading-imessage-game-selection-of-2024-unveiling-our-top-seven-favorites/"><u>Leading iMessage Game Selection of 2024: Unveiling Our Top Seven Favorites</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-overwatch-fixing-the-games-recurring-crashes/"><u>Overcoming Overwatch: Fixing the Game's Recurring Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-your-discord-overlay-stops-functioning/"><u>Quick Solutions for When Your Discord Overlay Stops Functioning</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-the-diversity-in-ps5-game-clubs/"><u>Reconciling the Diversity in PS5 Game Clubs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-constant-crashing-issue-in-microsoft-outlook/"><u>Resolving the Constant Crashing Issue in Microsoft Outlook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-hub-overcoming-startup-problems-for-multiversus-players/"><u>Solution Hub: Overcoming Startup Problems for MultiVersus Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-re-establishing-access-to-your-steam-friend-list/"><u>Success Story: Re-Establishing Access to Your Steam Friend List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-navigating-and-correcting-call-of-dutys-wwz-dev-error-6634-updated/"><u>The Ultimate Fix Guide: Navigating and Correcting Call of Duty's WWZ Dev Error 6634 - Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-getting-the-witcher-3-wild-hunt-up-and-running/"><u>Troubleshooting Steps for Getting The Witcher 3: Wild Hunt Up and Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-the-recurring-crashes-in-blender-for-desktop-users/"><u>Understanding & Fixing the Recurring Crashes in Blender for Desktop Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-eerie-discounts-and-haunting-treasures-in-the-macxdvd-all-hallows-spooktacular-giveaway/"><u>Unlock Eerie Discounts & Haunting Treasures in the MacXDVD All-Hallows Spooktacular Giveaway!</u></a></li>
+</ul></div>
 

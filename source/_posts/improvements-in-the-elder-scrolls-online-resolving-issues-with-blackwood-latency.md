@@ -1,7 +1,7 @@
 ---
 title: Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency
-date: 2024-12-18T10:20:53.259Z
-updated: 2024-12-18T22:39:26.390Z
+date: 2024-12-15T20:26:21.880Z
+updated: 2024-12-20T00:00:02.770Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does _Code Vein_ keep freezing?
 
@@ -56,10 +60,6 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 6. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -98,10 +98,6 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: **Run Code Vein as an administrator**
 
 _Code Vein_ may not be able to access certain game files on your computer under user mode, which could cause the freezing issue. To see if that’s the problem for you, try running your game as an administrator to give it high integrity access. Here is how to do it:
@@ -132,6 +128,10 @@ If your game freezes again, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Code Vein** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-14.jpg)
@@ -157,15 +157,27 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-31.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the process you want to end and select **End Process Tree** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-49.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try launching_Code Vein_ again to see if this has resolved your issue. If not, try **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  , below.
 
@@ -187,10 +199,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching _Code Vein_  to see if it works properly now. If your issue persists, check the next fix.
 
 ### Fix 5: Set your PC power plan to High Performance
@@ -203,13 +211,13 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -224,13 +232,13 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and your game.
 
  You should be able to run_Code Vein_ without freezing now. If the issue still exists, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Adjust your virtual memory
 
@@ -254,16 +262,12 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-46.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
@@ -284,10 +288,6 @@ If the freezing issue still happens, try the fix below.
 
  If you still run into the freezing issue, don’t fret. Check the fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check for Windows updates
 
  Windows updates can address bugs related to both hardware and software. So make sure you’ve installed all the new Windows updates to keep_Code Vein_ running smoothly. Here is how to do it:
@@ -302,6 +302,10 @@ If the freezing issue still happens, try the fix below.
 
  Restart your computer after the update is complete, then try running _Code Vein_ again. If the freezing issue happens again, try the fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Steam
 
  If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Here is how to do it:
@@ -310,10 +314,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-23.jpg)
@@ -321,6 +321,10 @@ If the freezing issue still happens, try the fix below.
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-31-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
@@ -339,10 +343,6 @@ If the freezing issue still happens, try the fix below.
 **8)**  Move the backup **steamapps**  folder you created to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-47-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)**  Restart_Code Vein_ to test your problem.
 
@@ -370,15 +370,22 @@ If the freezing issue still happens, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-pro-shortcuts-every-youtuber-needs-the-top-20-list/"><u>[Updated] In 2024, Pro Shortcuts Every YouTuber Needs - The Top 20 List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009531008-alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-fixing-pacific-disk-errors-and-preventing-system-failures-on-pc-or-laptop/"><u>Expert Advice: Fixing Pacific Disk Errors & Preventing System Failures on PC or Laptop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-counter-strike-2-from-crashing-on-windows-latest-fixes-and-tweaks/"><u>How to Stop Counter-Strike 2 From Crashing on Windows: Latest Fixes and Tweaks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y27-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y27 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-art-of-smooth-performance-for-dying-light-tackling-frame-rate-problems-head-on/"><u>Master the Art of Smooth Performance for Dying Light: Tackling Frame Rate Problems Head-On</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211268786-9781800653597-mindfulness-meditations/"><u>Mindfulness Meditations | Free Book</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-guide-to-downgrade-from-windows-11-to-windows-10-with-a-twist-gadgetpundit/"><u>Step-by-Step Guide to Downgrade From Windows 11 to Windows 10 with a Twist | GadgetPundit</u></a></li>
-<li><a href="https://facebook.techidaily.com/untraceable-searches-delete-your-fb-snoop-logs/"><u>Untraceable Searches: Delete Your FB Snoop Logs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visibility-restored-for-youtube-shorts-post-update/"><u>[New] Visibility Restored for YouTube Shorts Post-Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-black-solutions-for-nba-2k21-stalling-during-load-up/"><u>Bypassing the Black: Solutions for NBA 2K21 Stalling During Load-Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-pre-launch-issues-with-your-business/"><u>Effective Strategies to Resolve Pre-Launch Issues with Your Business</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-with-these-simple-fixes-for-disco-elysium-on-pc/"><u>Enhance Your Gaming with These Simple Fixes for 'Disco Elysium' On PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-top-free-screen-recorders-ranked-list-for-2024/"><u>Explore the Top Free Screen Recorders Ranked List for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29 Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-average-profit-per-million-youtube-viewers/"><u>In 2024, Average Profit per Million YouTube Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-renewed-list-of-questions-to-inspire-podcast-attendees/"><u>In 2024, Renewed List of Questions to Inspire Podcast Attendees</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993904935-microsoft-edge-windows-11-update-say-goodbye-to-unwanted-crashes/"><u>Microsoft Edge Windows 11 Update - Say Goodbye to Unwanted Crashes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/smart-guide-top-picks-for-6-fb-lite-videos/"><u>Smart Guide Top Picks for 6 FB Lite Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-rainbow-six-siege-stuttering-problems-with-these-proven-fixes/"><u>Solve Your Rainbow Six Siege Stuttering Problems with These Proven Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-advanced-ai-googles-launch-of-palm-2-model/"><u>The Dawn of Advanced AI: Google's Launch of PaLM 2 Model</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/to-keep-or-not-to-keep-your-current-operating-system/"><u>To Keep or Not to Keep Your Current Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-tower-of-fantasy-stability-problems-on-personal-computers/"><u>Troubleshooting and Solutions for Tower of Fantasy Stability Problems on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-when-the-nvidia-overlay-stops-functioning/"><u>Troubleshooting When the NVIDIA Overlay Stops Functioning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-solutions-for-launch-failures-in-games-verify-and-resolve-issues-now/"><u>Unlocking Solutions for Launch Failures in Games – Verify and Resolve Issues Now</u></a></li>
 </ul></div>
 

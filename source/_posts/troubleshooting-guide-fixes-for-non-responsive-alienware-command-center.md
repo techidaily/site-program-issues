@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixes for Non-Responsive Alienware Command Center"
-date: 2024-08-23T17:25:00.160Z
-updated: 2024-08-24T17:25:00.160Z
+date: 2024-12-16T17:33:10.570Z
+updated: 2024-12-19T22:49:18.470Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,8 +39,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -56,8 +54,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -70,9 +69,6 @@ If it’s not working, move to next fix.
 
 No luck with this one? Move to the next.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -99,20 +95,27 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -140,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-viral-stardom-quick-simple-strategies-for-instagram-success/"><u>[Updated] 2024 Approved Mastering Viral Stardom Quick, Simple Strategies for Instagram Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-guidelines-instagram-and-intellectual-property/"><u>[Updated] Harmonious Guidelines Instagram & Intellectual Property</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-hourly-hitlist-the-leading-youtube-videos-by-watch-time/"><u>2024 Approved Hourly Hitlist The Leading YouTube Videos by Watch Time</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-experience-with-kurtzpel-top-strategies-to-overcome-technical-glitches/"><u>Crash-Free Experience with KurtzPel: Top Strategies to Overcome Technical Glitches</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-content-the-secrets-to-increased-subscribers/"><u>Elevate Your Content The Secrets to Increased Subscribers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000066368-expert-solutions-for-the-notorious-terraria-crash-issue-get-rid-of-it-now/"><u>Expert Solutions for the Notorious Terraria Crash Issue - Get Rid of It Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g84-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G84 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-tips-innovative-lens-creation-on-snapchat/"><u>In 2024, Quick Tips Innovative Lens Creation on Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-launching-issues-successful-strategies-and-tips-to-play-without-glitches/"><u>Outriders Launching Issues? Successful Strategies and Tips to Play Without Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-stop-outriders-from-continuously-crashing/"><u>Quick Solution: How to Stop Outriders From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-dota-2-issues-with-game-not-starting-or-getting-stuck-at-boot/"><u>Resolved: Fixes for Dota 2 Issues with Game Not Starting or Getting Stuck at Boot</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-soundscape-how-to-update-focusrites-scarlett-6i6/"><u>Seamless Soundscape: How to Update Focusrite's Scarlett 6I6</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-persistent-bugs-everscape-2-windows-crash-fixes/"><u>Solving the Persistent Bugs: Everscape 2 Windows Crash Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-overcoming-temperature-troubles-enhancing-your-experience-in-rocket-league/"><u>Troubleshooting & Overcoming Temperature Troubles: Enhancing Your Experience in Rocket League</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-404-not-found-mistake-and-simple-solutions/"><u>Understanding the 404 Not Found Mistake & Simple Solutions</u></a></li>
+</ul></div>
 

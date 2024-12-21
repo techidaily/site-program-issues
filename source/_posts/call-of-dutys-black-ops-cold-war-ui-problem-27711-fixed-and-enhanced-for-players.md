@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-12-13T01:00:55.301Z
-updated: 2024-12-18T16:43:20.816Z
+date: 2024-12-13T17:50:08.015Z
+updated: 2024-12-20T02:30:51.148Z
 tags:
   - win11
   - win10
@@ -52,20 +52,16 @@ There are two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Disable fullscreen optimizations
 
@@ -83,16 +79,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
 
@@ -103,17 +103,13 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
- After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -125,10 +121,14 @@ Here are the steps:
 3. Lower the parameters under each section according to your needs.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
 
@@ -154,24 +154,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-deciphering-srt-cues-in-oses-with-ease-for-2024/"><u>[New] Deciphering SRT Cues in OSes with Ease for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-15-creative-ventures-to-pursue-while-youre-heeding-stories/"><u>[Updated] 15 Creative Ventures to Pursue While You're Heeding Stories</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/"><u>Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-google-pixel-6-a-critical-perspective/"><u>Comprehensive Analysis of the Google Pixel 6: A Critical Perspective</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nokia-g310-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia G310 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-mp4-video-format-compatible-with-windows-10-and-mac-works-on-wmp-quicktime-and-vlc/"><u>Download MP4 Video Format Compatible with Windows 10 & Mac: Works on WMP, QuickTime, and VLC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/"><u>Effective Ways to Lower Your Computer's CPU Load During a Zoom Call</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-error-code-0xc0000022-a-step-by-step-guide-for-resolving-adobes-launch-issues/"><u>Fixing Error Code 0xC0000022: A Step-by-Step Guide for Resolving Adobe's Launch Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/"><u>How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 Pro 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-content-warning-barriers-in-your-voice-chat-experience/"><u>Overcoming 'Content Warning' Barriers in Your Voice Chat Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/"><u>The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/"><u>Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-your-creativity-with-mobile-blur-tools/"><u>Unleash Your Creativity with Mobile Blur Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-zte-nubia-flip-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On ZTE Nubia Flip 5G Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/"><u>World of Tanks Blitz Stability Issues? Here's How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>2024 Approved A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anticipating-rainbow-six-siege-updates-the-comprehensive-guide-to-the-202-cu4-release/"><u>Anticipating Rainbow Six Siege Updates - The Comprehensive Guide to the 202 Cu4 Release</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/easy-guide-to-setting-up-automatic-folder-sync-with-network-drives-in-windows-11-learn-both-approaches/"><u>Easy Guide to Setting Up Automatic Folder Sync with Network Drives in Windows 11 - Learn Both Approaches</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-buffering-for-smooth-videos/"><u>Eradicate Buffering for Smooth Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/experience-portable-power-the-new-minisforum-ti-touchscreen-mini-pc-ultra-9-cpu-inside/"><u>Experience Portable Power: The New MinisForum Ti Touchscreen Mini PC - Ultra 9 CPU Inside</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/express-originality-craft-professional-logos-from-template-designs-free/"><u>Express Originality Craft Professional Logos From Template Designs (Free)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-gameplay-overcome-persistent-crashes-in-immortals-fenyx-rising/"><u>Fix Your Gameplay: Overcome Persistent Crashes in Immortals: Fenyx Rising</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-evil-genius-2-audio-malfunction/"><u>Fixing Silent Menace: Resolving 'Evil Genius 2' Audio Malfunction</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/harnessing-hours-of-light-long-exposure-iphone-tips-for-2024/"><u>Harnessing Hours of Light Long-Exposure iPhone Tips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-broken-battlenet-launcher-for-pc-users/"><u>How to Repair a Broken Battle.net Launcher for PC Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-film-fans-choice-cutting-edge-youtube-channels/"><u>In 2024, Film Fan's Choice Cutting-Edge YouTube Channels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-repair-solutions-for-silent-microphones-in-boostq-certified-xeno-ut-recon-70s/"><u>Mastering the Repair: Solutions for Silent Microphones in BOOST!Q-Certified Xeno UT Recon 70S</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initial-hurdles-diagnosing-and-repairing-startup-malfunctions-in-atomics/"><u>Overcoming Initial Hurdles: Diagnosing and Repairing Startup Malfunctions in Atomics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-screen-stabilization-in-wow-how-to-stop-fluttering-once-and-for-all/"><u>Persistent Screen Stabilization in Wow: How to Stop Fluttering Once & For All</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-tecno-spark-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Tecno Spark 10 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-tips-for-curing-gtfo-errors/"><u>Step-by-Step Troubleshooting Tips for Curing GTFO Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-fixes-for-persistent-crashing-in-halo-infinite/"><u>Trouble-Free Gaming: Fixes for Persistent Crashing in Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-lag-no-more-a-comprehensive-2024-guide-to-overcome-low-fps-challenges/"><u>World of Warcraft Lag No More: A Comprehensive 2024 Guide to Overcome Low FPS Challenges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs"
-date: 2024-12-17T01:48:18.621Z
-updated: 2024-12-18T19:47:35.661Z
+date: 2024-12-18T02:38:38.647Z
+updated: 2024-12-19T17:03:25.630Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Even since its demo, House Flipper 2 has gained popularity and positive reviews 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make sure your machine meets the system requirements for House Flipper 2
 
  Technically speaking, House Flipper 2 doesn’t have rather high requirements for your computer, especially when compared to other games. So if your House Flipper 2 crashes easily, one of the first things you need to check is whether your computer meets the minimum system requirements for the game. If your machine is below or just at the requirements, you may need to upgrade your hardware for House Flipper 2 to run smoothly.
@@ -53,10 +57,6 @@ Here are the requirements for your reference:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-81.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’re sure that your machine meets the system requirements to run the game, but House Flipper 2 still crashes, please move on to the other fixes below.
 
 ---
@@ -71,16 +71,12 @@ Here are the requirements for your reference:
 3. When asked if you want to run House Flipper 2, click OK to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This command is to force House Flipper 2 to run on Direct 10, which is lower than Direct 11 it requires. It should work on older computers or older graphics cards. But if your House Flipper 2 still crashes or doesn’t open in this way, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update Windows
 
@@ -126,7 +122,7 @@ Here are the requirements for your reference:
 2. Select**Manage 3D settings** on the left menu, and select**Program Settings** on the right panel. Then click the**Add** button.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Navigate to the folder where you install House Flipper 2\. (It’ll most likely be C:\\Program Files (x86)\\Steam\\steamapps\\common\\House Flipper 2). Then select the executable file for House Flipper 2.
@@ -134,13 +130,17 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-16.png)
 5. In the_Specify the settings for this program:_ section, scroll down to find the**Power management** mode, then select**Prefer maximum performance** .![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Apply** to save the changes.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-18.png)
 
- Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
 
 ### 5.2 I have an AMD display card
 
@@ -153,6 +153,10 @@ Here are the requirements for your reference:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-22.png)
 4. Click**Installed Profile Applications** if House Flipper 2 is not shown in Running Applications. Click the .exe for House Flipper 2 and select**High Performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-23.png)
 
@@ -171,11 +175,15 @@ Here are the requirements for your reference:
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch your House Flipper 2 again to see if it still crashes. If the problem remains, please move on.
 
@@ -211,7 +219,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -231,6 +239,10 @@ To do so, first visit the website of your GPU manufacturer:
 * **[If you have an Nvidia display card](https://tools.techidaily.com/drivereasy/download/)**
 * **[If you have an AMD display card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **To enable VSync in NVIDIA Control Panel:**
 
 1. On your desktop, right-click in an empty space and select **NVIDIA Control Panel** .  
@@ -238,10 +250,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. In the left pane, select **Manage 3D Settings** and choose **Global Settings** . Then find **Vertical sync** and click the drop-down menu on the right. Select **On**  and click **Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
@@ -275,10 +283,6 @@ To tell which drive you have, please view the Task Manager in this way:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with House Flipper 2 and are free from the pain of constant crashes, it’s highly recommended that you install the game on your SSD.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this still doesn’t fix the crashing problem with House Flipper 2 for you, please move on.
 
 ---
@@ -295,10 +299,6 @@ To tell which drive you have, please view the Task Manager in this way:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -323,22 +323,20 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-periscopes-offerings-no-cost-entry-and-signup-process/"><u>[New] Exploring Periscope's Offerings No Cost Entry & Signup Process</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[New] In 2024, Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-entry-into-the-world-of-google-meet-webinars/"><u>[Updated] 2024 Approved Entry Into the World of Google Meet Webinars</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-video-game-chroniclers-essential-checklist/"><u>[Updated] In 2024, The Video Game Chronicler’s Essential Checklist</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/20plus-hashes-to-skyrocket-your-short-films-popularity-for-2024/"><u>20+ Hashes to Skyrocket Your Short Film's Popularity for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/8-proven-fixes-for-vrchat-crashing-on-pc/"><u>8 Proven Fixes for VRChat Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-solving-crashes-in-yakuza-6-seamless-gaming-experience-on-windows/"><u>Expert Tips for Solving Crashes in Yakuza 6 - Seamless Gaming Experience on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-3-wont-start-try-these-expert-troubleshooting-tips/"><u>Fallout 3 Won't Start? Try These Expert Troubleshooting Tips !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-implemented-solving-horizon-zero-dawn-pc-game-freezing-issues/"><u>Fixes Implemented: Solving Horizon Zero Dawn PC Game Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-connection-failed-glitch-in-hitman-3-expert-solutions/"><u>Fixing the 'Connection Failed' Glitch in Hitman 3 - Expert Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-share-vimeo-video-in-instagram-stories/"><u>How to Share Vimeo Video in Instagram Stories</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-lagging-deathloop-gameplay-performance-on-pc/"><u>Resolved: Fixes for Lagging Deathloop Gameplay Performance on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-acrocefexe-malfunction-a-comprehensive-guide/"><u>Resolving AcroCEF.exe Malfunction: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sparkling-vibrancy-the-android-video-brightening-guide/"><u>Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-a-disconnected-steam-contacts-circle-solutions-at-hand/"><u>Troubleshooting a Disconnected Steam Contacts Circle – Solutions at Hand</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-converting-mpeg-videos-into-crisp-h264-format-for-superior-viewing/"><u>Ultimate Guide: Converting MPEG Videos Into Crisp H.264 Format for Superior Viewing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/est-free-video-cutting-apps-your-go-to-list/"><u>[New] Best Free Video Cutting Apps Your Go-To List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[New] Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-gif-revolution-free-transformation-of-tweets-to-gifs/"><u>[New] In 2024, Gif Revolution Free Transformation of Tweets to GIFs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-real-time-hardware-for-vr/"><u>2024 Approved Real-Time Hardware for VR</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/chortlecraft-funny-visuals-for-social-engagement/"><u>ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://win-info.techidaily.com/detecting-issues-with-your-driver-common-warning-indicators-and-solutions-by-yl-software/"><u>Detecting Issues with Your Driver: Common Warning Indicators and Solutions by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008853146-how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mlb-the-show-21-update-addressing-the-previous-server-connection-error/"><u>MLB The Show 21 Update: Addressing the Previous Server Connection Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-stability-improvements-and-crash-fixes-whats-new-in-the-2024-update/"><u>Phasmophobia Stability Improvements & Crash Fixes: What's New in the 2024 Update?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-black-ops-cold-war-error-xc0000005/"><u>Resolved: Overcoming the Black Ops Cold War Error XC0000005</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-tackled-missing-camera-on-snap-application-error/"><u>Successfully Tackled: Missing Camera on Snap Application Error</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-how-to-fix-freezing-issues-in-fallout-4-on-pc/"><u>Troubleshooting Made Easy: How to Fix Freezing Issues in Fallout 4 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-the-solution-to-overcome-fallout-4s-persistent-black-screen-challenge/"><u>Uncover the Solution to Overcome Fallout 4'S Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-distinctions-siri-vs-chatgpt-unveiled/"><u>Understanding the Distinctions: Siri Vs. ChatGPT Unveiled</u></a></li>
 </ul></div>
 

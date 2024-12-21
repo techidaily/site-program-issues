@@ -1,7 +1,7 @@
 ---
 title: "Diagnose & Repair: Why Your Pacific Drive Won't Launch and How to Overcome It"
-date: 2024-08-23T17:23:53.771Z
-updated: 2024-08-24T17:23:53.771Z
+date: 2024-12-14T16:07:40.753Z
+updated: 2024-12-19T22:17:43.694Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/f3f2548974ead8262f3cbe2023235f7ed337f6212
 Fortnite is not launching because of LS-0013 error? You’re certainly not the only one. Hundreds of Fortnite players are reporting it. The good news is, you can fix it…
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes For Fortnite LS-0013 Launching Error
 
  Here are 3 fixes that have helped other users resolve the LS-0013 launching error on Fortnite. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,9 +29,6 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 2. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: **Update your device drivers**
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -47,6 +45,10 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -60,8 +62,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -79,8 +82,9 @@ Here is how to verify the integrity of Fortnite:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -89,17 +93,15 @@ Here is how to run Epic Games Launcher as administrator:
 
  1) On your desktop, right-click on the **Epic Games Launcher icon** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
 
@@ -121,8 +123,6 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,24 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-motivational-speaker-appraisal-edition-8-for-2024/"><u>[New] Motivational Speaker Appraisal, Edition 8 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] 2024 Approved Master Money Makers The Best of the Top IG Earners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>[Updated] Streaming to the Next Level The Top 5 Game Cameras Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/death-stranding-pc-bug-fixed-no-more-game-crashes/"><u>Death Stranding PC Bug Fixed - No More Game Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722979058917-easy-access-to-newest-amd-radeon-rx-480-graphic-driver-releases/"><u>Easy Access to Newest AMD Radeon RX 480 Graphic Driver Releases.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-novice-to-pro-strategies-for-amassing-incredible-fps-drops-in-me-legendary-edition/"><u>From Novice to Pro: Strategies for Amassing Incredible FPS Drops in ME Legendary Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-apples-full-lineup-iphone-ipad-apple-watch-airpods-and-mac-at-half-the-cost-with-vision-pro/"><u>Get Apple's Full Lineup - iPhone, iPad, Apple Watch, AirPods & Mac at Half the Cost with Vision Pro!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-the-wont-open-dilemma-on-battlenet-users/"><u>How to Successfully Overcome the Won't Open Dilemma on Battle.net Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-gaming-software-wont-opensolved/"><u>Logitech Gaming Software Won’t Open[Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-pc-games-a-step-by-step-guide-to-repairing-damaged-file-structures/"><u>Reviving Your PC Games: A Step-by-Step Guide to Repairing Damaged File Structures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-youtube-videos-with-playing-audio-but-frozen-visuals-solutions-for-chrome-and-firefox-users/"><u>Solving the Issue of YouTube Videos with Playing Audio but Frozen Visuals: Solutions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-king-of-fighters-xv-pc-instability-troubleshooting-and-fixes/"><u>The King of Fighters XV PC Instability: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-converting-mp3-files-into-iphone-ringtones-with-top-two-methods/"><u>The Ultimate Guide: Converting MP3 Files Into iPhone Ringtones with Top Two Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-startup-failures-diagnosing-and-solving-the-most-common-problems-as-of-2024/"><u>Valheim Startup Failures: Diagnosing and Solving the Most Common Problems as of 2024</u></a></li>
+</ul></div>
 

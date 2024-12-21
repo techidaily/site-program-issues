@@ -1,7 +1,7 @@
 ---
 title: "Get Your Game Running: Expert Advice on Fixing Launch Issues with Hogwarts Legacy"
-date: 2024-08-23T17:20:01.976Z
-updated: 2024-08-24T17:20:01.976Z
+date: 2024-12-19T02:29:29.377Z
+updated: 2024-12-19T19:14:39.167Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 3. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the server status
 
@@ -53,30 +57,27 @@ If it’s not the server, please move to the next method.
 | Google   | 8.8.8.8            | 8.8.4.4       |
 
 1. Type**Control Panel** on the search bar and click to open.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
-5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Reboot the game and check.
 
 ### Method 3: Run as administrator
@@ -88,6 +89,10 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
@@ -101,22 +106,18 @@ If this method doesn’t help, please move to the next one.
 
 1. ****[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -157,8 +158,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +165,26 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-free-video-call-apps-versatile-use-on-windows-and-macos/"><u>[New] 2024 Approved Top Free Video Call Apps Versatile Use on Windows & MacOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>[New] Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-virtual-vanguard-of-humor-your-blueprint-for-metaspace-meme-creation/"><u>[Updated] The Virtual Vanguard of Humor – Your Blueprint for Metaspace Meme Creation</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728464670459-onedrive/"><u>隨手移動文件至OneDrive: 使用兩種不同方法保留歷史記錄</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-solutions-for-prey-game-crashing-issues-on-personal-computers/"><u>Common Solutions for Prey Game Crashing Issues on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dual-impact-unraveling-the-complexities-of-it-takes-two-crashes-in-pc-gaming/"><u>Dual-Impact: Unraveling the Complexities of 'It Takes Two Crashes' In PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-performance-of-dragon-age-origins-after-fixing-compatibility-with-windows-11/"><u>Improved Performance of Dragon Age: Origins After Fixing Compatibility with Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-retrieval-the-top-5-software-compared/"><u>In 2024, FB Video Retrieval The Top 5 Software Compared</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-disjointed-edits-to-fluid-inshot-moves/"><u>In 2024, From Disjointed Edits to Fluid Inshot Moves</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/moveavi-free-video-converter-upload-convert-and-download-videos-at-no-cost/"><u>Moveavi Free Video Converter - Upload, Convert & Download Videos at No Cost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996290789-no-more-freezes-in-naraka-point-blades-effective-solutions-inside/"><u>No More Freezes in Naraka: Point Blades – Effective Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-for-god-of-war-with-lowered-cpu-usage/"><u>Optimizing System Performance for God of War with Lowered CPU Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-hiccups-resolving-the-arcadegeddon-games-recurring-collapse/"><u>Overcome PC Hiccups - Resolving the Arcadegeddon Game's Recurring Collapse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-call-of-duty-warzone-launch-issues/"><u>Resolved: Fixes for 'Call of Duty Warzone' Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rust-debugging-guide-overcoming-frequent-software-crashes/"><u>Rust Debugging Guide: Overcoming Frequent Software Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-access-denied-issues-with-files-and-folders-in-windows-a-comprehensive-guide/"><u>Solving 'Access Denied' Issues with Files & Folders in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-digital-hubs-a-guide-to-facebook-twitter-instagram-and-youtube-engagement/"><u>The Leading Digital Hubs: A Guide to Facebook, Twitter, Instagram, and YouTube Engagement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-overcoming-black-screen-on-your-epic-games-platform/"><u>Troubleshooting Steps for Overcoming Black Screen on Your Epic Games Platform</u></a></li>
+</ul></div>
 

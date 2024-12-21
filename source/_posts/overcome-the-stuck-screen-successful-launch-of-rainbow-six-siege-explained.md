@@ -1,7 +1,7 @@
 ---
 title: "Overcome the Stuck Screen: Successful Launch of Rainbow Six Siege Explained"
-date: 2024-12-14T00:56:53.286Z
-updated: 2024-12-18T17:39:31.786Z
+date: 2024-12-16T23:47:14.590Z
+updated: 2024-12-20T01:27:27.828Z
 tags:
   - win11
   - win10
@@ -69,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once the process is completed, try launching the game again.
 
 If the issue persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -89,10 +93,6 @@ If the issue persists, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -112,10 +112,6 @@ If the issue persists, move on to the next fix.
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
 
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
@@ -146,15 +142,19 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**OK** .
 
@@ -164,16 +164,8 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/windows-security.jpg)
 2. Click the gear icon to open**Settings** , then click**Protection History** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Windows Controlled Folder Access
 
@@ -184,12 +176,12 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -198,6 +190,10 @@ If this fix doesn’t work for you, proceed to the next one.
  If the game is on the allow-list for your antivirus programs, check to see if temporarily disabling the program allows the game to launch.
 
 If it doesn’t, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -210,21 +206,25 @@ If it doesn’t, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
@@ -254,21 +254,18 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-build-a-custom-facebook-coverage/"><u>[New] Build a Custom Facebook Coverage</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-secrets-unveiled-saving-twitter-gifs-for-later-use/"><u>[New] Secrets Unveiled Saving Twitter GIFs for Later Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[New] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2-eggs-beaten/"><u>2 Eggs, Beaten</u></a></li>
-<li><a href="https://win11.techidaily.com/a-practical-approach-backing-up-and-restoring-notebooks/"><u>A Practical Approach: Backing Up & Restoring Notebooks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-woes-with-these-proven-methods-to-correct-loading-glitches-in-teso/"><u>Banish Your Woes with These Proven Methods to Correct Loading Glitches in TESO</u></a></li>
-<li><a href="https://win-special.techidaily.com/download-your-favorite-shows-from-dnatube-in-high-quality-formats-like-mp4-mov-and-avi/"><u>Download Your Favorite Shows From DNATube in High-Quality Formats Like MP4, MOV & AVI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-comparative-study-on-vlc-video-capture/"><u>In 2024, Comparative Study on VLC Video Capture</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>In 2024, The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009315769-lost-ark-quiet-dilemma-solved-audio-fixes-inside/"><u>Lost Ark Quiet Dilemma Solved – Audio Fixes Inside</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/234291-9781135636258-optimal-human-being/"><u>Optimal Human Being | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-league-of-legends-2024-connection-issue-loop-glitch/"><u>Resolved: League of Legends' 2024 Connection Issue Loop Glitch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-when-cssource-wont-start-up/"><u>Step-by-Step Solutions for When CS:Source Won't Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-end-of-delays-improving-server-responsiveness-in-blackwood-the-elder-scrolls-online-edition/"><u>The End of Delays: Improving Server Responsiveness in 'Blackwood' - The Elder Scrolls Online Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-audiophiles-collection-of-drama-writing/"><u>[New] In 2024, Audiophile's Collection of Drama Writing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-insiders-list-google-pixel-tone-sources/"><u>[New] Insider's List Google Pixel Tone Sources</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go-in-2024/"><u>[New] Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-proven-tips-for-lowering-cpu-demand-by-zoom-on-your-pc/"><u>6 Proven Tips for Lowering CPU Demand by Zoom on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/desktop-puzzle-solved-effortless-techniques-for-retrieving-misplaced-off-screen-windows/"><u>Desktop Puzzle Solved: Effortless Techniques for Retrieving Misplaced Off-Screen Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-stutters-in-overwatch-with-these-effective-tricks/"><u>Eliminate Stutters in Overwatch with These Effective Tricks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/instant-guide-how-to-safely-gratisly-download-vlc-on-macos-for-2024/"><u>Instant Guide How to Safely, Gratisly Download VLC on MacOS for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/life-q30-review-soundcores-entry-level-noise-cancelling-solutions/"><u>Life Q30 Review - Soundcore's Entry-Level Noise Cancelling Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-proven-methods-to-keep-minecraft-running-smoothly-on-your-pc-this-year/"><u>Mastering Stability: Proven Methods to Keep Minecraft Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pacific-storm-unleashed-celebrating-the-fix-of-call-of-duty-warzones-notorious-glitch/"><u>Pacific Storm Unleashed: Celebrating the Fix of Call of Duty: Warzone's Notorious Glitch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-hub-for-advanced-computer-components-recommended-by-toms-team/"><u>The Ultimate Resource Hub for Advanced Computer Components - Recommended by Tom's Team</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-deadly-development-glitches-in-modern-warfarewarzone/"><u>Troubleshooting Guide: Overcoming Deadly Development Glitches in Modern Warfare/Warzone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-command-line-expertise-the-top-20-must-know-commands/"><u>Windows Command Line Expertise: The Top 20 Must-Know Commands</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2024-12-16T00:14:10.742Z
-updated: 2024-12-19T09:02:31.360Z
+date: 2024-12-13T22:41:24.552Z
+updated: 2024-12-19T23:21:01.488Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,10 +45,14 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -70,11 +70,11 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
- Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
 ### Fix 4 – Close background applications
 
@@ -85,6 +85,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Right-click the resource-demanding process and click**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
@@ -101,18 +105,14 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
 
@@ -135,19 +135,21 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-hitting-high-notes-enhance-your-youtube-content-with-music-edits/"><u>[New] 2024 Approved Hitting High Notes Enhance Your YouTube Content with Music Edits</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-most-efficient-analytics-instruments-for-your-tiktok-success-for-2024/"><u>[New] The Most Efficient Analytics Instruments for Your TikTok Success for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elevate-your-productivity-io-screen-capture-secrets/"><u>[Updated] In 2024, Elevate Your Productivity IO Screen Capture Secrets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-crashes-in-deathloop-effortless-tips-and-techniques-for-players/"><u>Avoid Crashes in Deathloop - Effortless Tips and Techniques for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-how-to-fix-persistent-lag-and-smoothing-frame-rate-issues/"><u>Cyberpunk 2077: How to Fix Persistent Lag & Smoothing Frame Rate Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-dying-light-audio-problem-a-complete-guide/"><u>Fixing the Dying Light Audio Problem: A Complete Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-of-epson-gt-series-driver-supporting-windows-7-to-10-systems/"><u>Free Download of Epson GT Series Driver Supporting Windows 7 to 10 Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-echelon-writers-club-for-2024/"><u>Highest Echelon Writers Club for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-galaxy-s23-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Galaxy S23?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-dragons-dogma-2-experience-a-guide-to-addressing-low-fps-and-hitches/"><u>Optimizing Dragon's Dogma 2 Experience: A Guide to Addressing Low FPS and Hitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-overcome-the-challenge-of-forcing-a-shutdown-in-windows-11-systems/"><u>Solution Found! Overcome the Challenge of Forcing a Shutdown in Windows 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transferring-youtube-content-onto-your-kindle-fire-device/"><u>Step-by-Step Guide: Transferring YouTube Content Onto Your Kindle Fire Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-march-2024-guide-to-bypassing-assassins-creed-odyssey-pc-performance-hiccups/"><u>The Ultimate March 2024 Guide to Bypassing Assassin's Creed Odyssey PC Performance Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-fortnites-challenge-fixing-error-84-and-restoring-your-team-play-capability/"><u>Conquering Fortnite's Challenge: Fixing Error 84 and Restoring Your Team Play Capability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counterstrike-2-stuck-heres-how-you-can-get-it-running-smoothly-again/"><u>Counterstrike 2 Stuck? Here's How You Can Get It Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-your-warzone-experience-tips-to-resolve-stuttering-and-maximize-fps/"><u>Enhancing Your Warzone Experience: Tips to Resolve Stuttering and Maximize FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-wowreforg-crashes-a-comprehensive-guide/"><u>Fixing WoWReforg Crashes : A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-s23-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel S23</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-8-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100A Phone without PIN</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>In 2024, Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/integrating-zoom-seamlessly-with-tiktok-live-streams/"><u>Integrating Zoom Seamlessly with TikTok Live Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-constant-failures-of-the-finals-software-on-personal-computers/"><u>Overcoming Constant Failures of The Finals Software on Personal Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209780767-9781984857811-pocket-guide-to-chakras-revised/"><u>Pocket Guide to Chakras, Revised | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-printing-fixed-hp-laserjet-on-windows/"><u>Smooth Printing: Fixed HP LaserJet on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark 10 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-steam-friends-not-available-problems/"><u>Solved! Overcoming 'Steam Friends Not Available' Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-mystery-how-to-repair-error-code-0xc19001e1-on-your-windows-10-device/"><u>Solving the Mystery: How to Repair Error Code 0xC19001E1 on Your Windows 10 Device</u></a></li>
 </ul></div>
 

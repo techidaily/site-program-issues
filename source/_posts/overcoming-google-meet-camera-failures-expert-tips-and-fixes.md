@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Google Meet Camera Failures: Expert Tips and Fixes"
-date: 2024-08-23T17:19:38.566Z
-updated: 2024-08-24T17:19:38.566Z
+date: 2024-12-15T21:47:39.801Z
+updated: 2024-12-19T18:04:01.484Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6568a394f73588c2742e16d9523df01c904b1fdda
 
 Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 6 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,9 +32,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 5. **[Reinstall your game and/or game launche](https://tools.techidaily.com/drivereasy/download/)** [**r**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  If you’re running multiple programs on your PC, chances are one or more programs are conflicting with_Crusader Kings 2_ or your game launcher, causing this issue for you. In this case, try restarting your computer to turn off unnecessary programs completely, then restart your game to test your issue.
@@ -39,9 +40,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
  If your problem still exists after the reboot, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  If you’re running_Crusader Kings 2_ on a standard user account, the game might not be able to access all the game files and folders. To see if that’s the problem for you, try running the game as an administrator to give it high integrity access. Here is how to do it:
@@ -52,41 +50,41 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-51-56.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Compatibility tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-12.jpg)
 
 **4)**  Check the box next to **Run this program as an administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-21-1.jpg)
 
 **5)** Click **Apply** , then **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-12-35.jpg)
 
 **6)**  Right-click**Crusader Kings 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-11-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Click the **Compatibility tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-57-25.jpg)
 
 **8)**  Check the box next to **Run this program as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Click **Apply > OK** .
 
@@ -96,9 +94,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 If your problem still exists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of your game files
 
  If your game still won’t launch at all, you may have one or more corrupted game files that are conflicting with the game. Try verifying the integrity of your game files to see if that’s the core issue. Here is how to do it:
@@ -111,27 +106,20 @@ If your problem still exists, try the fix below.
 
 **3)**  Right-click**Crusader Kings 2** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-42.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-20-58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  This issue is likely to occur if you’re using the wrong graphics driver or it’s out of date. So, you should update your graphics driver to see if it fixes your issue. There are two ways you can do this:
@@ -157,23 +145,15 @@ If your game still won’t launch, then go ahead with the next fix.
 
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-3.jpg)
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -181,9 +161,6 @@ If your game still won’t launch, then go ahead with the next fix.
 
  Relaunch your game to test your issue after updating your graphics driver. If your game is still unplayable, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game launcher
 
  The_Crusader Kings 2_ launching error might occur if the game is not properly installed on your PC. In this case, reinstalling your game is very likely the solution for you. Here is how to do it:
@@ -192,10 +169,11 @@ If your game still won’t launch, then go ahead with the next fix.
 
 **2)** Click**LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click**Crusader Kings II** , then click**Manage> Uninstall** .
 
@@ -231,13 +209,17 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Restart your computer and your game after the update is complete.
 
@@ -255,8 +237,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +244,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unlock-the-power-of-easy-edits-for-stunning-tiktok-visuals/"><u>[Updated] 2024 Approved Unlock the Power of Easy Edits for Stunning TikTok Visuals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-last-minute-to-first-impression-how-to-rewind-video-on-instagram/"><u>[Updated] In 2024, From Last Minute to First Impression How to Rewind Video on Instagram</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-action-packed-comparisons-gopro-vs-star-sj7/"><u>2024 Approved Action-Packed Comparisons GoPro Vs Star SJ7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-azure-transcript-api-in-software/"><u>2024 Approved Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-teardown-app-malfunctions-in-depth-strategies-and-solutions/"><u>Defeat Teardown App Malfunctions: In-Depth Strategies & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007345984-diablo-immortal-stability-hacks-for-players-no-more-pc-crashes/"><u>Diablo Immortal Stability Hacks for Players: No More PC Crashes!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-13-ultra-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi 13 Ultra FRP Locks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-crashes-in-sony-vegas-video-editing-software-expert-advice/"><u>How to Fix Constant Crashes in Sony Vegas Video Editing Software: Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-your-battlefield-v-from-freezing-on-windows-solutions-for-gamers/"><u>How to Prevent Your Battlefield V From Freezing on Windows - Solutions for Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-c110-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia C110</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-in-palworld-solve-your-eos-login-errors-with-these-nifty-techniques/"><u>Mastering the Art of Troubleshooting in Palworld: Solve Your EOS Login Errors with These Nifty Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-fix-problematic-game-sounds-in-halo-infinite/"><u>Step-by-Step Tips to Fix Problematic Game Sounds in Halo Infinite</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/strategies-pour-eviter-la-suppression-automatique-des-fichiers-sur-votre-bureau/"><u>Stratégies Pour Éviter La Suppression Automatique Des Fichiers Sur Votre Bureau</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-gta-5-online-connectivity-problems/"><u>Troubleshooting Steps to Fix GTA 5 Online Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-improving-your-ubisoft-connects-downloading-performance/"><u>Troubleshooting Steps: Improving Your Ubisoft Connect's Downloading Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-utorrent-non-response-issues-top-7-effective-solutions/"><u>Troubleshooting UTorrent Non-Response Issues: Top 7 Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-fallout-76-gameplay-with-enhanced-frame-rates/"><u>Ultimate Guide: Boosting Your Fallout 76 Gameplay with Enhanced Frame Rates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-utilizing-windows-11s-volume-mixer-feature/"><u>Understanding and Utilizing Windows 11'S Volume Mixer Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715701176974-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
+</ul></div>
 

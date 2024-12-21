@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Instability in Madden 2Nolution: Solutions for a Smooth Experience"
-date: 2024-12-12T20:53:18.715Z
-updated: 2024-12-19T04:38:13.623Z
+date: 2024-12-16T18:30:55.438Z
+updated: 2024-12-20T03:26:32.408Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -51,10 +51,14 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
@@ -72,22 +76,18 @@ If this doesn’t help, you can take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -113,33 +113,29 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -148,6 +144,10 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
@@ -178,19 +178,20 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-5-helmet-action-cameras-for-motorcycle/"><u>[New] 2024 Approved Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/"><u>[New] From Zero to Hero How to Triumph with 10 Powerful FB Strategies for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>[New] The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-warehouse-in-the-sky-top-pricing-on-demand/"><u>[Updated] In 2024, Warehouse in the Sky Top Pricing on Demand</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-phone-background-blur-companion/"><u>[Updated] Ultimate Phone Background Blur Companion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-extended-scope-camera-platforms/"><u>2024 Approved Extended Scope Camera Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cracking-the-cod-top-strategies-to-overcome-dev-error-6328-in-warzone-updated/"><u>Cracking the Cod: Top Strategies to Overcome Dev Error 6328 in Warzone, Updated</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-get-counter-strike-going-again-after-a-failed-start/"><u>Effective Strategies to Get Counter-Strike Going Again After a Failed Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-guide-for-players-struggling-with-persona-3-f-escape/"><u>Fixing Launch Errors: A Guide for Players Struggling with Persona 3 F Escape</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-ultimate-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Asus ROG Phone 7 Ultimate Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/spellbreak-pc-issues-resolved-fixes-for-stability-and-performance/"><u>Spellbreak PC Issues Resolved: Fixes for Stability and Performance</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-lego-stop-motion-mavens-the-top-creators/"><u>Updated In 2024, Lego Stop Motion Mavens The Top Creators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/vrchat-stability-guide-discover-8-successful-fixes-to-enhance-gameplay-experience-on-pc/"><u>VRChat Stability Guide: Discover 8 Successful Fixes to Enhance Gameplay Experience on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-pubg-voice-customization-for-2024/"><u>[Updated] The Ultimate Guide to PUBG Voice Customization for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-advanced-strategies-for-enhancing-your-experience-with-forza-horizon-5/"><u>Beat the Lag - Advanced Strategies for Enhancing Your Experience with Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-game-launch-errors-a-comprehensive-fix-for-steam-woes-in-windows-11/"><u>Defeat Game Launch Errors: A Comprehensive Fix for Steam Woes in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elevate-your-visual-fidelity-with-expert-tips-on-managing-nvidias-3d-settings/"><u>Elevate Your Visual Fidelity with Expert Tips on Managing NVIDIA's 3D Settings</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-tower-of-fantasy-game-crash-issues-on-windows-pc/"><u>Fixing the 'Tower of Fantasy' Game Crash Issues on Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013407373-gta-5-online-not-responding-heres-how-to-solve-it/"><u>GTA 5 Online Not Responding? Here's How to Solve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-network-packet-loss-issues-in-discord-chat-platforms/"><u>Guide to Correcting Network Packet Loss Issues in Discord Chat Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-unlock-mac-with-apple-watch-sierra/"><u>How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-motorola-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Motorola</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-play-experience-by-accelerating-ubisoft-connect-downloads/"><u>Improve Your Play Experience by Accelerating Ubisoft Connect Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-vga-connector-from-usb-easy-installation-and-driver-guide/"><u>Insignia VGA Connector From USB: Easy Installation and Driver Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/probleme-de-sauvegarde-windows-echoue-lors-du-tentative-de-lecture-a-partir-dune-capture-instantanee-solutions-rapides/"><u>Problème De Sauvegarde Windows Échoué Lors Du Tentative De Lecture À Partir D'une Capture Instantanée : Solutions Rapides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003177246-the-ultimate-guide-to-fixing-checking-for-updates-in-microsoft-flight-simulator-2020-troubleshooting-tips/"><u>The Ultimate Guide to Fixing 'Checking For Updates' In Microsoft Flight Simulator 2020 - Troubleshooting Tips!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-the-distinctions-between-steam-and-gog/"><u>Unpacking the Distinctions Between Steam and GOG</u></a></li>
 </ul></div>
 

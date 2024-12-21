@@ -1,7 +1,7 @@
 ---
 title: "Trouble-Free Gaming: Fixes for Persistent Crashing in Halo Infinite"
-date: 2024-08-28T06:19:14.145Z
-updated: 2024-08-29T06:19:14.145Z
+date: 2024-12-16T21:23:38.581Z
+updated: 2024-12-19T16:58:42.098Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ For game players, Steam is the window to the world of gaming. But there are situ
 
  Before performing any troubleshooting steps listed below, you should restart your computer. This action refreshes the operating system and removes any corrupt temporary data that could be causing the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -31,6 +28,10 @@ For game players, Steam is the window to the world of gaming. But there are situ
 5. **[Add –no-cef-sandbox in your Steam shortcut](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -44,15 +45,16 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,18 +65,12 @@ OR
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -82,8 +78,9 @@ OR
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Delete web browser cache
 
  The Steam desktop client has a built-in browser that can show you details of a game. So users use it quite frequently. But the problem is, Steam doesn’t automatically clear its web browser cache. This would in turn cause Steam not to load properly. To fix it, you should clear the cache.
@@ -92,17 +89,15 @@ Here’s how you can do this:
 
  1) Open your Steam client. From the menu bar, click Steam and select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -128,17 +123,15 @@ To participate in the Steam Client beta, follow the instructions below:
 
  1) With Steam running, click**Steam** in the upper left, then select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the “Steam Beta Update” from the drop-down list and click “OK”.  
  You will be prompted to restart Steam, please select the “Restart Steam” button.
@@ -153,15 +146,19 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
 
 Now try opening Steam client to check if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Steam
 
@@ -173,6 +170,10 @@ Now try opening Steam client to check if it works.
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
@@ -190,10 +191,6 @@ Now try opening Steam client to check if it works.
 
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 ---
@@ -209,8 +206,6 @@ Now try opening Steam client to check if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +213,23 @@ Now try opening Steam client to check if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-evolution-and-function-of-modern-vr-helmets/"><u>[Updated] 2024 Approved The Evolution and Function of Modern VR Helmets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-top-10-motivating-films-to-energize-your-lifes-journey/"><u>[Updated] 2024 Approved Top 10 Motivating Films to Energize Your Life's Journey</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-clear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>[Updated] In 2024, Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-quick-fix-mac-compatible-youtube-video-resize/"><u>2024 Approved Quick Fix Mac-Compatible YouTube Video Resize</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-compatible-logitech-speaker-drivers-available-download-now-for-w7-w8-and-w11/"><u>Best Compatible Logitech Speaker Drivers Available – Download Now for W7, W8 & W11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-quality-in-avatar-the-games-frontiers-of-pandora-combatting-low-frame-rates-and-glitches/"><u>Enhancing Gameplay Quality in 'Avatar: The Game's Frontiers of Pandora': Combatting Low Frame Rates & Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-problems-with-launching-your-new-monster-hunter-game/"><u>Expert Tips to Resolve Problems with Launching Your New Monster Hunter Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-fix-a-failed-connectivity-on-new-world/"><u>How to Successfully Fix a Failed Connectivity on 'New World'</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y78t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y78t Phones with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-fortnite-login-failed-issue-in-minutes-step-by-step-guide/"><u>Resolve Your 'Fortnite Login Failed' Issue in Minutes - Step-by-Step Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/team-wide-security-at-just-1995month-discover-how-1password-transforms-password-management-tech-insights/"><u>Team-Wide Security at Just $19.95/Month: Discover How 1Password Transforms Password Management | Tech Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fallout-n-freezing-issues-in-windows-11-gaming-pcs/"><u>Troubleshooting Fallout N' Freezing Issues in Windows 11 Gaming PCs</u></a></li>
+<li><a href="https://win-docs.techidaily.com/understanding-keyword-stuffing-and-its-impact-on-seo-definitions-and-strategies/"><u>Understanding Keyword Stuffing & Its Impact on SEO: Definitions and Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzones-black-screen-issue-top-strategies-for-troubleshooting-and-fixes/"><u>Warzone's Black Screen Issue: Top Strategies for Troubleshooting & Fixes</u></a></li>
+</ul></div>
 

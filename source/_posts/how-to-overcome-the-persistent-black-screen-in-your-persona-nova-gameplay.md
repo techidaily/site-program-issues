@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2024-12-13T04:44:48.762Z
-updated: 2024-12-18T20:41:50.224Z
+date: 2024-12-18T16:16:03.191Z
+updated: 2024-12-19T21:54:09.827Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before trying…
 
 There’re things you can do before trying complicated fixes:
@@ -25,7 +29,7 @@ There’re things you can do before trying complicated fixes:
 * Make sure Enlisted are not blocked from your firewall
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,6 +40,10 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -45,8 +53,16 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -61,15 +77,7 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this didn’t solve your problems, read on for further troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -90,16 +98,8 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,16 +124,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-professional-choice-top-10-4k-dslr-stands-for-filmmakers/"><u>[New] Professional Choice Top 10 4K DSLR Stands for Filmmakers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-essential-tactics-in-creating-convincing-testimonial-content/"><u>[Updated] Essential Tactics in Creating Convincing Testimonial Content</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-infuse-kinetic-smear-into-photos-in-photoshop/"><u>2024 Approved Infuse Kinetic Smear Into Photos in Photoshop</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-curious-case-of-instavideos-turned-sideways/"><u>2024 Approved The Curious Case of InstaVideos Turned Sideways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix GT 10 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-4-pc-crash-issues-resolved-troubleshooting-guide/"><u>Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-overcoming-insufficient-memory-challenges-for-uninterrupted-gameplay/"><u>God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-discord-auto-launch-and-update-checks-on-windows-10/"><u>Halt Discord Auto-Launch & Update Checks on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-nier-automata-freezing-issues/"><u>Resolved: How to Fix NieR: Automata Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-operating-driver-easys-mobile-app/"><u>Step-by-Step Guide: Operating Driver Easy's Mobile App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-legitimate-strategies-to-amass-over-a-million-youtube-views/"><u>[New] In 2024, Legitimate Strategies to Amass Over a Million YouTube Views</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-leading-free-converters-for-optimal-srt-files/"><u>[Updated] 2024 Approved The Leading Free Converters for Optimal SRT Files</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok/"><u>[Updated] In 2024, Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/aprenda-a-integrar-gravacoes-em-um-unico-filme-com-windows-ebrmais-eficientes-na-versao-11/"><u>Aprenda a Integrar Gravações Em Um Único Filme Com Windows Ebrmais Eficientes Na Versão 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-pixel-trembling-now-a-step-by-step-guide-to-fix-screeflickering-issue/"><u>Eliminate Pixel Trembling Now: A Step-by-Step Guide to Fix ScreeFlickering Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-valheim-planting-manual/"><u>In 2024, The Ultimate Valheim Planting Manual</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-microsoft-copilot-a-comprehensive-mac-installation-tutorial/"><u>Mastering Microsoft Copilot: A Comprehensive Mac Installation Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ating-through-top-10-youtube-mp3-extractors-for-2024/"><u>Navigating Through Top 10 YouTube Mp3 Extractors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-bugs-updated-euro-truck-simulator-terrific-for-pc-with-improved-performance-and-stability/"><u>No More Bugs! Updated Euro Truck Simulator Terrific for PC with Improved Performance and Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-last-epochs-pc-launch-challenges-a-step-by-step-guide-to-the-2024-patch/"><u>Overcoming The Last Epoch's PC Launch Challenges: A Step-by-Step Guide to the 2024 Patch</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/professionelle-und-einfache-losungen-zum-sichern-von-windows-pcs-und-arbeitsplatzen/"><u>Professionelle Und Einfache Lösungen Zum Sichern Von Windows PCs Und Arbeitsplätzen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-bluestacks-instability-quickly-with-these-5-tips/"><u>Resolve BlueStacks Instability Quickly With These 5 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-acrocefexe-from-crashing-effective-fixes-for-windows-users/"><u>Stop AcroCEF.exe From Crashing - Effective Fixes for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-msi-afterburner-not-recognizing-graphics-cards-in-windows-operating-systems/"><u>Troubleshooting Tips for MSI Afterburner Not Recognizing Graphics Cards in Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-rainbow-six-siege-stuttering-issues-with-these-techniques/"><u>Ultimate Guide: Solve Your Rainbow Six Siege Stuttering Issues with These Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008636285-winning-the-battle-against-adobe-premiere-pro-crashes-on-windows-11-and-10-systems-tips-included/"><u>Winning the Battle Against Adobe Premiere Pro Crashes on Windows 11 and 10 Systems - Tips Included!</u></a></li>
 </ul></div>
 

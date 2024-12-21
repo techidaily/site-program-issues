@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Persistent Crashes in God of War on Windows
-date: 2024-08-28T06:20:52.728Z
-updated: 2024-08-29T06:20:52.728Z
+date: 2024-12-14T19:19:27.166Z
+updated: 2024-12-20T01:53:11.931Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 This fast-paced game is super fun for those who love the joy of movement. However, you’re not the only one who’s experiencing Ghostrunner Fatal Error. And luckily, it can be fixed easily with the following workarounds.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Close all background apps](https://tools.techidaily.com/drivereasy/download/)
@@ -30,17 +31,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -65,9 +58,6 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -78,11 +68,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Install Microsoft Visual C++ 2013
 
  Especially when you get error codes when starting your game, try installing Microsoft Visual C++ 2013 (both b84bit and 64bit), which proved to be working for many Ghostrunner gamers. Here’s how to do it:
@@ -95,16 +86,14 @@ OR
 
 3) Download the x64.exe in the language you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Scroll down the page and download the x86.exe.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -113,9 +102,6 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -144,14 +130,19 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 2) You can find the Ghostrunner game there, right-click on the game and click on**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Ghostrunner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/VERIFY.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
 
@@ -173,8 +164,6 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +171,21 @@ Play Ghostrunner again to see if this fatal error reoccurs.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-fallout-4-black-screen-issue/"><u>[FIXED] Fallout 4 Black Screen Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-from-mundane-to-magical-a-guide-to-chromatic-brilliance-for-2024/"><u>[New] From Mundane to Magical A Guide to Chromatic Brilliance for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bust-the-glitch-effective-fixes-when-wwe-2k22-keeps-disappearing-on-windowsmacos/"><u>Bust the Glitch: Effective Fixes When WWE 2K22 Keeps Disappearing on Windows/MacOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancements-and-patch-update-bring-zombie-army-4-dead-war-to-smooth-performance-on-pc/"><u>Enhancements and Patch Update Bring 'Zombie Army 4: Dead War' To Smooth Performance on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-simplified-strategies-for-engaging-with-facebook-insights/"><u>In 2024, Simplified Strategies for Engaging with Facebook Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/motion-graphics-basic-knowledge-and-usage/"><u>Motion Graphics Basic Knowledge and Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-rodent-problem-in-resident-evil-village-game/"><u>Resolved: Fixing the Rodent Problem in Resident Evil Village Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-steam-error-code-130-a-comprehensive-guide/"><u>Resolving Steam Error Code 130: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-terraria-from-crashing-updated-troubleshooting-steps-for-gamers-in-245/"><u>Stop Terraria From Crashing: Updated Troubleshooting Steps for Gamers in 2#45</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-essential-device-checklist-for-beachside-chill/"><u>The Essential Device Checklist for Beachside Chill</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings-for-2024/"><u>The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-wmvcoredll-missing-error-on-your-computer/"><u>Troubleshooting the Wmvcore.dll Missing Error on Your Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
-date: 2024-12-17T04:57:00.400Z
-updated: 2024-12-18T16:24:58.263Z
+date: 2024-12-14T01:06:03.797Z
+updated: 2024-12-19T23:47:00.138Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-light-2-automatic-updates-1200x850.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### On Epic Games Launcher
 
  1) Open your Epic Games Launcher. Navigate to your game in the**LIBRARY** .
@@ -67,6 +71,10 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  3) Make sure the option**Auto Update** is toggled**on** .
 
  If having the latest game updates doesn’t give you the best performance, you should try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Close background processes
 
@@ -80,12 +88,16 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**CPU or Memory tab** to check whether anything is using up large chunks of your CPU or RAM (for instance, a web browser with dozens of tabs open).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Find any programs or processes that can affect the PC performance, right-click on it and select**End task** .
@@ -93,10 +105,14 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve done these, relaunch your game and test if you can notice an FPS boost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check for Windows updates
 
@@ -120,10 +136,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update-1200x710.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Check for updates** . If it detects any updates available, it will download it for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates-1200x685.png)
@@ -135,7 +147,7 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  If updating Windows doesn’t give you any luck, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
@@ -163,16 +175,12 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating drivers, restart your PC and test your gameplay. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Verify integrity of game files
 
@@ -236,10 +244,6 @@ Now scroll down and make these changes:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/apply-the-changes.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, by applying these changes, you’ll have to settle for less in-game visual detail. If you find you’re sacrificing too much in your graphical settings to hit your frame rate target, there’s always another option: Upgrading to a new system with a faster GPU and CPU.
 
 ## 8\. Enable hardware-accelerated GPU scheduling
@@ -267,30 +271,26 @@ Locate the game’s installation folder on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-light-2-browse-local-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then open the files**ph > work > bin > x64** . Click the very top to copy the file path.
 
  4) Paste the path of the game’s installation file into the address bar. Then double-click on the game’s exe.file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-add-to-the-list-gpu-scheduling.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Once it’s added to the list, simply select it and click**Options** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Choose**High performance** and click**Save** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/high-performance-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Doing this will make sure that the game runs on the best graphics processor you have on your computer, not holding back any performance.
@@ -332,24 +332,22 @@ When the process is complete, restart your PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>[New] Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
-<li><a href="https://app-tips.techidaily.com/2022s-leading-collaborative-platforms-for-enhanced-teamwork-pcmag/"><u>2022'S Leading Collaborative Platforms for Enhanced Teamwork | PCMag</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-5-pc-stability-guide-solve-your-game-crash-problems/"><u>Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-stability-issues-on-pc-fixed-tips-and-tricks/"><u>Call of Duty Warzone Stability Issues on PC Fixed - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-best-gaming-experience-in-forza-horizon-5-with-updated-drivers/"><u>Get the Best Gaming Experience in Forza Horizon 5 with Updated Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-stubborn-loading-barrier-on-far-cry-5s-startup/"><u>How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-2023s-social-trend-peaks-in-graphs/"><u>In 2024, Charting 2023'S Social Trend Peaks in Graphs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-elite-5-non-twitter-channels-online/"><u>In 2024, Elite 5 Non-Twitter Channels Online</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-solved-muted-youtube-shorts-appearance/"><u>In 2024, Solved Muted YouTube Shorts Appearance</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mastering-3d-viewing-techniques-learn-what-is-3d-and-experience-movies-in-depth-fast/"><u>Mastering 3D Viewing Techniques - Learn What Is 3D and Experience Movies in Depth Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008836444-monster-hunter-stories-2-wings-of-ruin-not-starting-fix-it-now/"><u>Monster Hunter Stories 2: Wings of Ruin Not Starting? Fix It Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-gtfo-software-stability-issues/"><u>Step-by-Step Troubleshooting for GTFO Software Stability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-chaos-overcoming-unreal-engine-troubleshooting-in-outriders/"><u>Stop the Chaos - Overcoming Unreal Engine Troubleshooting in Outriders</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-stop-windows-from-misidentifying-audio-device/"><u>Techniques to Stop Windows From Misidentifying Audio Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repairing-your-mouse-when-the-left-click-fails/"><u>Troubleshooting Guide: Repairing Your Mouse When the Left-Click Fails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-city-skylines-game-crashes/"><u>Ultimate Guide to Solving City Skylines Game Crashes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-balance-youtube-with-a-full-time-job-for-2024/"><u>[New] How to Balance YouTube with a Full-Time Job for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-transforming-ones-and-twosies-into-avis-with-ease-for-2024/"><u>[Updated] Transforming Ones and Twosies Into Avis with Ease for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spectrumsewn-studio-photo-montage-expertise/"><u>2024 Approved SpectrumSewn Studio Photo Montage Expertise</u></a></li>
+<li><a href="https://program-issues.techidaily.com/all-clear-la-noires-long-awaited-debut-arrives-on-windows-and-mac-pc/"><u>All Clear: L.A. Noire's Long-Awaited Debut Arrives on Windows and Mac PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-leap-in-innovation-comparing-performance-and-value-of-m3-vs-m1-macbook-pro-what-you-need-to-know-before-upgrading-zdnet/"><u>Apple's Latest Leap in Innovation: Comparing Performance and Value of M3 vs M1 MacBook Pro - What You Need to Know Before Upgrading | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-chrome-freeze-problems-in-windows-10-expert-advice/"><u>Bypassing Chrome Freeze Problems in Windows 10: Expert Advice</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1728483819304-dropbox/"><u>Dropboxとエクスプローラー間でファイルをリンクさせる手軽な方法 - セットアップガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-macos-sequoia-on-your-device-a-step-by-step-guide-for-a-secure-trial/"><u>Experience macOS Sequoia on Your Device: A Step-by-Step Guide for a Secure Trial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-everspace-2-pc-game-freeze-issues-solutions-and-tips/"><u>Fixing Everspace 2 PC Game Freeze Issues - Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-framespikes-in-outriders-a-comprehensive-tutorial-for-pc-players/"><u>Fixing Framespikes in Outriders: A Comprehensive Tutorial for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-game-no-more-crashing-in-world-of-tanks-blitz/"><u>Master the Game - No More Crashing in World of Tanks Blitz</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-find-x7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Find X7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transforming-your-windows-11-machine-into-an-easy-to-use-dlna-server/"><u>Step-by-Step Tutorial: Transforming Your Windows 11 Machine Into an Easy-to-Use DLNA Server</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-fixing-the-wow-launch-issue-on-your-computer/"><u>Success Story: Fixing the WoW Launch Issue on Your Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-livestreaming-on-mobile-devices/"><u>The Complete Guide to Livestreaming on Mobile Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-ensuring-a-smooth-gaming-experience-in-call-of-duty-mw2-without-crashing/"><u>Troubleshooting Tips: Ensuring a Smooth Gaming Experience in Call of Duty: MW2 without Crashing</u></a></li>
 </ul></div>
 

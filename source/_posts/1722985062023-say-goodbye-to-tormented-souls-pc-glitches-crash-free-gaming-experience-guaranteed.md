@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!
-date: 2024-12-17T21:30:03.911Z
-updated: 2024-12-18T21:38:58.817Z
+date: 2024-12-13T01:00:09.685Z
+updated: 2024-12-20T02:49:00.988Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  If verifying game files didn’t help your case, simply check out the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -95,10 +91,6 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -106,10 +98,6 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -140,11 +128,19 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -160,7 +156,7 @@ If the crash happens again, you can take a look at the next fix.
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -172,6 +168,10 @@ If the crash happens again, you can take a look at the next fix.
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -196,22 +196,16 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-creating-your-channels-simple-subscribe-button/"><u>[New] Step by Step Creating Your Channel's Simple Subscribe Button</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fifth-round-of-top-time-lapse-capture-apps/"><u>[Updated] In 2024, Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-enhancement-glitches-settled-your-chat-app-is-up-to-date-again/"><u>Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/disk-cloning-between-hdds-and-ssds-in-windows-compatible-with-win11-10-8-and-7/"><u>Disk Cloning Between HDDs and SSDs in Windows - Compatible with Win11, 10, 8 & 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-gpts-capabilities-to-overhaul-health-systems/"><u>Exploring GPT's Capabilities to Overhaul Health Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-apex-legends-game-crash-troubleshooting-common-engine-issues/"><u>Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-microsoft-edge-net-framework-fault-your-complete-guide/"><u>Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-fix-addressing-release-troubles-and-solutions/"><u>Get Your Football Manager 2022 Fix - Addressing Release Troubles & Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-m6-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco M6 Pro 5G Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-honor-magic-5-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Honor Magic 5 Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-3-mw3-keeps-crashing-on-pc-easy-fixes/"><u>Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-solved-issues-with-team-fortress-2-stability/"><u>No More Crashes: Solved Issues with Team Fortress 2 Stability</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-secrets-behind-ai-decision-making-how-does-the-black-box-model-operate/"><u>The Secrets Behind AI Decision-Making: How Does the 'Black Box' Model Operate?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trading-techniques-tested-gpts-impact-on-digital-assets/"><u>Trading Techniques Tested: GPT's Impact on Digital Assets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-nvidias-geforce-experience-steps-to-get-it-running-smoothly/"><u>Troubleshooting Nvidia's GeForce Experience: Steps to Get It Running Smoothly</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/vidvault-prodigies-mastering-the-download-of-tweeted-videos-for-2024/"><u>VidVault Prodigies Mastering the Download of Tweeted Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>[New] From Flash Photography to Sustained Videography Your Pixiz Adventure</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-influential-facebook-video-marketing/"><u>[New] The Art of Influential Facebook Video Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-the-art-of-motion-without-contact-sensors/"><u>2024 Approved Mastering the Art of Motion Without Contact Sensors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-blackout-screens-in-your-mtg-arena-experience/"><u>Expert Tips to Overcome Blackout Screens in Your MTG Arena Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-frequent-crashes-of-rocket-league-top-tips-for-gamers/"><u>How to Prevent Frequent Crashes of Rocket League - Top Tips for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-money-with-periscope-a-newcomers-manual-for-2024/"><u>Master Money with Periscope A Newcomer's Manual for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-9-essential-solutions-to-fix-ark-survival-evolved-game-crashes/"><u>PC Troubles? 9 Essential Solutions to Fix ARK: Survival Evolved Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/regain-control-in-terraria-top-6-methods-to-restore-a-disconnected-game/"><u>Regain Control in Terraria: Top 6 Methods to Restore a Disconnected Game</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-youtube-music-how-toes-2023-edition-for-2024/"><u>Top 10 YouTube Music How-Toes, 2023 Edition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-assassins-creed-valhalla-release-issues-solutions-revealed/"><u>Troubleshooting Assassin's Creed Valhalla Release Issues – Solutions Revealed!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-videopad-video-editor-review-does-it-live-up-to-the-hype/"><u>Updated Videopad Video Editor Review Does It Live Up to the Hype?</u></a></li>
 </ul></div>
 

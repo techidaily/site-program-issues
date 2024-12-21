@@ -1,7 +1,7 @@
 ---
 title: Fixing Madden 22'S Load Screen Hang-Up for Smooth Gameplay Experience
-date: 2024-12-15T23:21:28.508Z
-updated: 2024-12-19T00:39:15.581Z
+date: 2024-12-13T23:52:49.516Z
+updated: 2024-12-19T21:26:49.133Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -60,10 +64,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 **2)**  Right-click the **Steam icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -91,10 +91,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -111,10 +107,6 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5:**Install the latest game patch**
 
  The developers of_Remnant_ release regular game patches to resolve bugs. It’s possible that a recent patch has stopped_Remnant_ from launching correctly, and that a new patch is required to fix it.
@@ -122,10 +114,6 @@ If your problem persists, then move on to the next fix below.
  To check if there is any update, go to the **[Remnant site](https://www.remnantgame.com/en/about/)**  and search for the latest patch**.**  If a patch is available, install it, then run your game again to check whether the crashing problem has been fixed. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Verify the integrity of your game files
 
@@ -146,7 +134,7 @@ If your problem persists, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-86.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Relaunch_Remnant_ to see if this has fixed your problem. If not, move on to the fix below.
@@ -161,13 +149,13 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-586.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
@@ -182,9 +170,17 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-609.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** On your keyboard, press the**Ctrl key** and**S** at the same time to save the changes. Then, close the Window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Relaunch your game to test your issue.
 
@@ -193,7 +189,7 @@ If the game is still unplayable, read on and try the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
@@ -206,6 +202,10 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-214.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
@@ -213,6 +213,10 @@ If the game is still unplayable, read on and try the fix below.
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -239,10 +243,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
@@ -259,6 +259,10 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -271,10 +275,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -282,10 +282,6 @@ If the game is still unplayable, read on and try the fix below.
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -300,6 +296,10 @@ If the game is still unplayable, read on and try the fix below.
 **10)**  Move the backup **steamapps folder** to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **11)**  Restart Remnant.
 
@@ -326,22 +326,18 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>[Updated] 2024 Approved Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dota-2-slowdown-solutions-boost-your-fps-in-windows-11-and-10-with-easy-fixes/"><u>Dota 2 Slowdown Solutions: Boost Your FPS in Windows 11 and 10 with Easy Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-message-resolved-ensure-game-data-is-correct-to-play-successfully/"><u>Error Message Resolved: Ensure Game Data Is Correct to Play Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-past-starting-trouble-a-guide-to-repairing-teso-launch-problems/"><u>Getting Past Starting Trouble: A Guide to Repairing TESO Launch Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-paso-a-paso-para-insertar-texto-en-un-gif-metodos-de-vanguardia/"><u>Guía Paso a Paso Para Insertar Texto en Un GIF: Métodos De Vanguardia</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-granblue-fantasy-relink-crashing-on-pc/"><u>How to Fix Granblue Fantasy: Relink Crashing on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-youtube-not-loading-or-playing-videos-a-step-by-step-guide/"><u>How To Fix YouTube Not Loading or Playing Videos – A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-creativity-with-iphone-shadow-photography/"><u>In 2024, Unleashing Creativity with iPhone Shadow Photography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initial-hurdles-diagnosing-and-repairing-startup-malfunctions-in-atomics/"><u>Overcoming Initial Hurdles: Diagnosing and Repairing Startup Malfunctions in Atomics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-screen-stabilization-in-wow-how-to-stop-fluttering-once-and-for-all/"><u>Persistent Screen Stabilization in Wow: How to Stop Fluttering Once & For All</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/selecting-trustworthy-cryptocurrency-exchanges-a-guide-insights-from-yl-computing/"><u>Selecting Trustworthy Cryptocurrency Exchanges: A Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-fixes-for-persistent-crashing-in-halo-infinite/"><u>Trouble-Free Gaming: Fixes for Persistent Crashing in Halo Infinite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dark-mode-display-glitches-in-cod-wwii-game-on-windows-systems-fix-now/"><u>Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-sonys-best-full-review-of-fdr-x1000v-camera/"><u>Unveiling Sony's Best - Full Review of FDR-X1000V Camera</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-couch-to-chart-topper-skyrocketing-your-channels-views-for-2024/"><u>[New] From Couch to Chart-Topper Skyrocketing Your Channel's Views for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>[Updated] 2024 Approved Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-create-or-schedule-a-google-meet-for-2024/"><u>[Updated] How to Create or Schedule A Google Meet for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-solving-your-division-2-games-launch-issues/"><u>2024 Ultimate Guide: Solving Your Division 2 Game's Launch Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-playthrough-of-halo-infinite-essential-fixes-and-tips-for-your-computer/"><u>Crash-Free Playthrough of Halo Infinite - Essential Fixes and Tips for Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/directx-glitches-in-battlefield-2042-heres-how-to-fix-them/"><u>DirectX Glitches in Battlefield 2042? Here's How to Fix Them!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ion-air-pro-3-review-unleashing-videography-potential/"><u>ION Air Pro 3 Review Unleashing Videography Potential</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-avi-playback-software-for-pcmobile-users-for-2024/"><u>Optimal AVI Playback Software for PC/Mobile Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-guide-to-reversed-videos-on-instagram/"><u>The Complete Guide to Reversed Videos on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-fix-recurring-issues-with-assassins-creed-valhalla-on-pc/"><u>Troubleshooting Complete Guide: Fix Recurring Issues with Assassin's Creed: Valhalla on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-fixing-persona-3-fes-pc-game-crashes/"><u>Troubleshooting Steps: Fixing 'Persona 3 FES' PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-stop-cyberpunk-2077-from-freezing-lag-and-stutter-no-more/"><u>Ultimate Fixes to Stop Cyberpunk #2077 From Freezing: Lag & Stutter No More</u></a></li>
 </ul></div>
 

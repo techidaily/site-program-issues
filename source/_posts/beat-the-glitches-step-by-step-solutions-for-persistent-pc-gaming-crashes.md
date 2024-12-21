@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitches: Step-by-Step Solutions for Persistent PC Gaming Crashes"
-date: 2024-08-23T17:20:53.872Z
-updated: 2024-08-24T17:20:53.872Z
+date: 2024-12-18T02:10:44.987Z
+updated: 2024-12-19T19:28:20.543Z
 tags:
   - win11
   - win10
@@ -31,8 +31,9 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -53,13 +54,14 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -68,16 +70,10 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -87,8 +83,9 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -98,6 +95,10 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -106,9 +107,6 @@ The outdated or broken graphics driver often crashes the game.
 
 1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 `-useallavailablecores -high`
@@ -116,8 +114,9 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -139,8 +138,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +145,22 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-keep-your-games-bright-solutions-for-avoiding-obs-black-screens/"><u>[New] In 2024, Keep Your Games Bright Solutions for Avoiding OBS Black Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mp4-conversion-made-simple-fb-video-to-720p-1080p-at-zero-charge-for-2024/"><u>[New] MP4 Conversion Made Simple FB Video to 720P, 1080P at Zero Charge for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-novices-compendium-understanding-pixel-perfection/"><u>[New] Novice's Compendium Understanding Pixel Perfection</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nveiling-the-top-7-android-apps-to-banish-ads-for-2024/"><u>[New] Unveiling The Top 7 Android Apps to Banish Ads for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-latency-expert-tips-to-fix-rainbow-six-siege-game-delays/"><u>Beat the Latency: Expert Tips to Fix Rainbow Six Siege Game Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-mozilla-firefoxs-freeze-problem-a-step-by-step-guide/"><u>Defeat Mozilla Firefox's Freeze Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/expert-analysis-of-the-msi-codex-r2-tower-ideal-for-midrange-gamers/"><u>Expert Analysis of the MSI CODEX R2 Tower - Ideal for Midrange Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-wwe-2k20-pc-crashing-problems-without-hassle/"><u>Fix WWE 2K20 PC Crashing Problems Without Hassle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722863499798-how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-play-effective-fixes-for-forza-horizon-5s-performance-crashes-on-windows-pcs/"><u>Optimize Your Play: Effective Fixes for Forza Horizon 5'S Performance Crashes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-installation-hurdles-how-to-get-your-football-manager-2023-game-running-smoothly/"><u>Overcome Installation Hurdles: How to Get Your Football Manager 2023 Game Running Smoothly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-x-by-drfone-ios/"><u>Remove Device Supervision From your iPhone X</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-video-format-transformation-best-free-avi-to-mkv-converter-software-on-mac-and-windows-xp7810/"><u>Seamless Video Format Transformation: Best Free AVI to MKV Converter Software on MAC & WINDOWS XP/7/8/10</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stop-video-wrongs-before-they-start/"><u>Stop Video Wrongs Before They Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-fix-age-of-empires-4-wont-open-problems/"><u>Troubleshooting Success: How to Fix Age of Empires 4 Won't Open Problems</u></a></li>
+</ul></div>
 

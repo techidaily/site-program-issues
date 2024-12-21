@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-12-15T02:52:24.550Z
-updated: 2024-12-19T10:42:25.329Z
+date: 2024-12-12T23:55:54.340Z
+updated: 2024-12-19T19:11:03.424Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -68,7 +64,7 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
@@ -141,7 +137,7 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -156,14 +152,10 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -171,6 +163,10 @@ There are mainly two methods for you to update the graphics driver:
  Apps like Discord, Nvidia GeForce Experience, Twitch supprt the overlay feature. Although the overlay feature is handy, it may interfere with many games, and sometimes it would even introduce performance issues and compatibility issues.
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -180,13 +176,17 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
@@ -214,16 +214,20 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1715859968256-new-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>[New] Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-airplay-to-download-effortless-apods-access/"><u>[Updated] 2024 Approved From AirPlay to Download Effortless APods Access</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gopro-hero-5-black-vs-nikon-keymission-170-which-one-is-better-for-2024/"><u>[Updated] GoPro Hero 5 Black vs Nikon Keymission 170 Which One Is Better for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-narrating-your-journey-channeling-authenticity-online/"><u>[Updated] In 2024, Narrating Your Journey Channeling Authenticity Online.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ios-and-android-techniques-to-record-live-video-chats/"><u>[Updated] IOS & Android Techniques to Record Live Video Chats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008166107-cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/issue-settled-printer-issues-post-upgrade/"><u>Issue Settled: Printer Issues Post Upgrade</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/mastering-steady-videos-across-devices-essential-techniques-for-windows-mac-android-and-iphones/"><u>Mastering Steady Videos Across Devices: Essential Techniques for Windows, Mac, Android, and iPhones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996467083-troubleshooting-guide-eradicate-stuttering-in-your-pc-fortnite-battles-today/"><u>Troubleshooting Guide: Eradicate Stuttering in Your PC Fortnite Battles Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-overcome-street-fighter-nlag-issues-for-smoother-gaming-on-pc/"><u>Ultimate Guide: Overcome Street Fighter nLag Issues for Smoother Gaming on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-my-gta-5-online-experience-broken-and-how-to-repair-it/"><u>Why Is My GTA 5 Online Experience Broken and How to Repair It?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-blueprint-to-thriving-in-spotify-ads-for-2024/"><u>[New] The Ultimate Blueprint to Thriving in Spotify Ads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-m1-processor-a-leap-forward-in-video-production-technology/"><u>[Updated] M1 Processor A Leap Forward in Video Production Technology?</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-nokia-c12-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Nokia C12 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-release-delay-explained/"><u>Assassin's Creed Valhalla Release Delay Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y17s-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y17s to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-gm-crash-dilemma-proven-solutions-to-stabilize-your-game/"><u>End GM Crash Dilemma: Proven Solutions to Stabilize Your Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-ongoing-oxygen-not-included-crash-concerns/"><u>Expert Solutions for Ongoing 'Oxygen Not Included' Crash Concerns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-freezing-and-stuttering-in-the-thrilling-world-of-dying-light/"><u>Expert Tips to Resolve Freezing and Stuttering in the Thrilling World of Dying Light</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-thaumaturge-not-launching-or-working-on-pc/"><u>Fix The Thaumaturge Not Launching or Working on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-find-and-install-the-right-epson-scanner-drivers/"><u>How To Find And Install The Right Epson Scanner Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-camon-20-premier-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Camon 20 Premier 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-for-enhancing-frame-rate-and-reducing-stutters-in-call-of-duty-warzone/"><u>Optimizing Gameplay: Tips for Enhancing Frame Rate & Reducing Stutters in Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-initial-black-screen-in-elden-ring-gameplay/"><u>Troubleshooting the Initial Black Screen in Elden Ring Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-high-ping-and-lag-in-chivalry-ii/"><u>Ultimate Guide: Solving High Ping & Lag in Chivalry II</u></a></li>
 </ul></div>
 

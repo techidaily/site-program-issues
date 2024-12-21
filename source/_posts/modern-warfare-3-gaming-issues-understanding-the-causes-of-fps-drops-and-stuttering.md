@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare 3 Gaming Issues : Understanding the Causes of FPS Drops and Stuttering"
-date: 2024-12-13T00:29:33.967Z
-updated: 2024-12-18T21:23:40.257Z
+date: 2024-12-15T16:52:02.604Z
+updated: 2024-12-20T02:17:04.424Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 Specially designed for split-screen cooperative muliplayer,**It Takes Two** is definitely a great action-advanture game in 2021\. However, just like any other games released recently, for many players, the game still has some performance issues. **If It Takes Two FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix this issue on your own easily after reading this article!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,10 +40,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -83,10 +79,14 @@ There are mainly two methods for you to update the graphics driver:
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
 
@@ -95,7 +95,7 @@ There are mainly two methods for you to update the graphics driver:
 To optimize the graphics settings, follow the steps below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
@@ -112,15 +112,11 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
@@ -145,7 +141,7 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
@@ -169,17 +165,13 @@ To optimize the graphics settings, follow the steps below:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
- Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -188,6 +180,10 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -200,6 +196,10 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -227,16 +227,18 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-legal-pathways-for-flawless-free-imagery-purchases/"><u>[New] In 2024, Legal Pathways for Flawless Free Imagery Purchases</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-setting-and-changing-personalized-iphone-tones/"><u>[New] Setting & Changing Personalized iPhone Tones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hidden-horizons-in-hand-drawn-harmony-for-2024/"><u>[Updated] Hidden Horizons in Hand-Drawn Harmony for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-a78-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo A78 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/current-status-of-xbox-live-are-there-any-issues-or-downtime-today/"><u>Current Status of Xbox Live: Are There Any Issues or Downtime Today?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-when-msi-afterburner-doesnt-detect-your-gpu-on-recent-windows-versions-windows-1011/"><u>Effective Fixes when MSI Afterburner Doesn't Detect Your GPU on Recent Windows Versions (Windows 10/11)</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-disconnected-to-connected-integrating-a-controller-into-your-android/"><u>From Disconnected to Connected: Integrating a Controller Into Your Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-balance-and-beauty-premier-photos-tripods-for-smartphones/"><u>In 2024, Balance and Beauty Premier Photos Tripods for Smartphones</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-cannot-play-video-issue-with-code-22-a-step-by-step-fix/"><u>Overcome 'Cannot Play' Video Issue with Code 22# - A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/secure-your-scare-how-to-prevent-and-solve-crash-issues-in-fnaf-for-windows-players/"><u>Secure Your Scare: How to Prevent and Solve Crash Issues in FNaF for Windows Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-friends-network-now-accessible-after-troubleshooting-guide-success/"><u>Steam Friend's Network Now Accessible After Troubleshooting Guide Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-essence-of-sharex-detailed-evaluations-and-alternates/"><u>[New] In 2024, The Essence of ShareX Detailed Evaluations & Alternates</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-maximizing-collaboration-with-zoom-meeting-recordings/"><u>[Updated] 2024 Approved Maximizing Collaboration with Zoom Meeting Recordings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-amplify-your-minecraft-experience-five-simple-techniques/"><u>[Updated] In 2024, Amplify Your Minecraft Experience Five Simple Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-step-by-step-sharing-photos-on-youtube/"><u>[Updated] Step-by-Step Sharing Photos on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-exclusive-imagery-tale-constructor/"><u>2024 Approved Exclusive Imagery Tale Constructor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-the-unwanted-darkness-fixes-for-fortnites-visual-hiccup-on-windows-systems/"><u>Banishing the Unwanted Darkness: Fixes for Fortnite's Visual Hiccup on Windows Systems</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/como-crear-una-copia-de-seguridad-total-del-disco-duro-con-windows-11-tecnicas-faciles-y-efectivas/"><u>Cómo Crear Una Copia De Seguridad Total Del Disco Duro Con Windows 11: Técnicas Fáciles Y Efectivas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-fps-decreases-for-better-gaming-experience/"><u>Expert Advice on Overcoming FPS Decreases for Better Gaming Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-azure-for-audio-transcriptions-a-beginners-manual/"><u>In 2024, Azure for Audio Transcriptions A Beginner’s Manual</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-pc-crash-errors-in-hyper-scape-a-complete-fix-guide/"><u>Say Goodbye to PC Crash Errors in Hyper Scape: A Complete Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-s18e-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from S18e.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-play-fortnite-solving-you-dont-have-permission-to-play-problems/"><u>Why Can’t I Play Fortnite? Solving 'You Don't Have Permission to Play' Problems</u></a></li>
 </ul></div>
 

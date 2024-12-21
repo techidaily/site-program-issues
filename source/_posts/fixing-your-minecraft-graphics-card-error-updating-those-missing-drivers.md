@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Minecraft Graphics Card Error: Updating Those Missing Drivers"
-date: 2024-12-11T22:30:24.730Z
-updated: 2024-12-18T19:41:02.889Z
+date: 2024-12-14T19:57:30.353Z
+updated: 2024-12-19T17:31:54.529Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ Game freezing is the most frustrating part of PC gaming. You may run into issues
 6. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Adjust your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check your computer specs
 
@@ -67,6 +63,10 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -131,7 +131,7 @@ Follow the instructions below to view your computer hardware information:
  If your problem continues to occur, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
@@ -143,7 +143,7 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Go to the **Compatibility tab** , check the box next to **Run this program as an administrator** .
@@ -153,6 +153,10 @@ Follow the instructions below to view your computer hardware information:
 **3)**  Click**Apply** , then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
@@ -189,23 +193,19 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -227,15 +227,7 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -245,9 +237,17 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
@@ -267,9 +267,17 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -285,10 +293,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
@@ -296,10 +300,6 @@ If your issue persists, check the fix below.
 **9)** Restart your computer and your game.
 
  You should be able to run the game without freezing now. If the issue continues to occur, don’t fret. There is still 1 more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall the Epic Games Launcher
 
@@ -315,13 +315,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -356,24 +356,19 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-high-impact-tweets-of-the-year-viewer-rankings-for-2024/"><u>[Updated] High-Impact Tweets of the Year Viewer Rankings for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-resolving-grounded-game-crashes-on-pc/"><u>2024 Ultimate Guide: Resolving 'Grounded' Game Crashes on PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-note-30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/can-you-confirm-psn-downtime-across-the-board-or-is-it-only-impacting-me/"><u>Can You Confirm PSN Downtime Across the Board, or Is It Only Impacting Me?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-wont-boot-here-are-the-solutions-for-pc-players/"><u>COD: Black Ops Cold War Won't Boot? Here Are The Solutions for PC Players</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/how-to-diagnose-and-fix-a-fluctuating-network-connection-with-tips-from-yl-software-experts/"><u>How to Diagnose and Fix a Fluctuating Network Connection with Tips From YL Software Experts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-resident-evil-village-wont-open-glitch-fixed/"><u>How to Get Past the 'Resident Evil Village Won't Open' Glitch - Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improve-your-gameplay-top-techniques-for-resolving-stutters-and-enhancing-frame-rate-in-valorant/"><u>Improve Your Gameplay: Top Techniques for Resolving Stutters & Enhancing Frame Rate in Valorant</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-free-range-riffs-and-rhythms-in-free-fire/"><u>In 2024, Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-video-displays-the-best-5-for-playstation-5/"><u>In 2024, Ideal Video Displays The Best 5 for PlayStation 5</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-a79-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo A79 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-pixelpilot-review-the-years-leading-screen-capture-tech/"><u>In 2024, PixelPilot Review The Year's Leading Screen Capture Tech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-gaming-performance-in-fall-guys-techniques-for-higher-fps-and-lower-latency/"><u>Maximize Gaming Performance in Fall Guys: Techniques for Higher FPS and Lower Latency</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-updating-your-minecraft-graphics-drivers/"><u>Resolved: Step-by-Step Guide on Updating Your Minecraft Graphics Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-fifa-20-from-crashing-on-your-computer-full-step-by-step-troubleshooting-tutorial/"><u>Stop FIFA 20 From Crashing on Your Computer - Full Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/titanfall-2-continuously-crashes-fix-it-fast-with-these-simple-solutions/"><u>Titanfall 2 Continuously Crashes? Fix It Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-crashing-issues-in-star-wars-jedi-fallen-order-for-pc-players/"><u>Troubleshooting Guide: Overcoming Crashing Issues in Star Wars Jedi: Fallen Order for PC Players</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728504875451-windows-1011/"><u>プログレスが停止したWindows 10/11初期化:完了に至らない状況を修正する</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-what-is-public-domain-art-for-2024/"><u>[New] What Is Public Domain Art for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] 2024 Approved Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-play-not-allowed-hurdle-in-fortnite/"><u>How to Get Past the 'Play Not Allowed' Hurdle in Fortnite</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-navigate-the-best-free-photography-enhancers-worldwide/"><u>In 2024, Navigate the Best Free Photography Enhancers Worldwide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-replicant-stability-enhanced-say-goodbye-to-game-crashes/"><u>NieR: Replicant Stability Enhanced – Say Goodbye to Game Crashes!</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-gaming-by-controlling-background-game-bar/"><u>Optimizing Gaming by Controlling Background Game Bar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixing-fall-guys-stuttering-and-lag-issues-in-pc-version/"><u>Solved: Fixing Fall Guys Stuttering and Lag Issues in PC Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-up-your-content-game-top-30-video-plans/"><u>Step Up Your Content Game Top 30 Video Plans</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-ai-writers-muse-tools/"><u>Top 5 AI Writer's Muse Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-msi-mystic-light-issue-on-a-pc-with-windows/"><u>Troubleshooting Guide: Fixing the MSI Mystic Light Issue on a PC with Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-persistent-fuser-instability-in-windows/"><u>Troubleshooting Steps for Persistent Fuser Instability in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-easily-overcome-genshin-impact-launch-issues/"><u>Troubleshooting Tips: Easily Overcome Genshin Impact Launch Issues</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/yl-computings-lush-landscapes-stunning-lasher-symbiote-wallpaper-and-background-collection-for-your-pc/"><u>YL Computing's Lush Landscapes: Stunning Lasher Symbiote Wallpaper & Background Collection for Your PC</u></a></li>
 </ul></div>
 

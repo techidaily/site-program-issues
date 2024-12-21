@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-12-17T16:56:09.646Z
-updated: 2024-12-18T20:04:31.583Z
+date: 2024-12-18T20:24:42.509Z
+updated: 2024-12-19T20:05:21.900Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Diablo Immortal is arriving but many players reported that it doesn’t work as smoothly as expected. If you’re on PC and also encounter the Diablo Immortal crashing on startup, don’t worry. After reading this post, you’ll learn 6 simple fixes that solve your problem easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -34,17 +30,9 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -54,14 +42,18 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
@@ -74,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -93,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
@@ -112,7 +100,15 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -149,21 +149,18 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/tep-by-step-tutorial-personalize-and-elevate-your-short-videos/"><u>[New] Step-by-Step Tutorial Personalize and Elevate Your Short Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>[New] Unleash Potential on Reddit Essential Post Guidelines Reviewed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-multitasking-mastery-activities-while-embracing-soundtracks/"><u>2024 Approved Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/iphone/"><u>恢复被永久删除iPhone上的视频：有效的两种方法 - 详解</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-tesos-launch-error-effective-troubleshooting-steps-inside/"><u>Beat TESO's Launch Error – Effective Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/identifying-and-solving-ram-problems-effectively-tips-from-yl-software/"><u>Identifying & Solving RAM Problems Effectively - Tips From YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-conflict-zone-survival-correcting-error-code-103003-in-tarkov/"><u>Mastering Conflict Zone Survival: Correcting Error Code 103003 in Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-frame-rate-on-valheim-with-top-performance-tricks/"><u>Maximize Frame Rate on Valheim with Top Performance Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/shadowplay-stuck-expert-fixes-to-ensure-seamless-video-capture-in-windows/"><u>ShadowPlay Stuck? Expert Fixes to Ensure Seamless Video Capture in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-logitech-c920-webcam-troubleshooting/"><u>Step-by-Step Solution for Logitech C920 Webcam Troubleshooting</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-7-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 7 You Should Try Out</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-definitive-guide-to-stabilizing-your-chrome-browser-in-windows-systems-avoiding-visual-glitches/"><u>The Definitive Guide to Stabilizing Your Chrome Browser in Windows Systems - Avoiding Visual Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-psychonauts-2-from-crashing-on-your-computer/"><u>Troubleshooting Guide - How to Stop Psychonauts 2 From Crashing on Your Computer</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/unmatched-3d-viewing-excellence-with-elite-decks-reviewed/"><u>Unmatched 3D Viewing Excellence with Elite Decks Reviewed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-from-phone-to-fame-best-vertical-video-editing-apps-for-mobile-creators/"><u>Updated In 2024, From Phone to Fame Best Vertical Video Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>[New] Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-8-software-linux-friendly-editing-tools/"><u>[New] In 2024, Top 8 Software Linux-Friendly Editing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-picks-in-affordable-home-cinema-setups-with-4k/"><u>[New] Top Picks in Affordable Home Cinema Setups with 4K</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[Updated] In 2024, Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-ultimate-canon-sequence-crafts/"><u>[Updated] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-and-trust-issues-understanding-6-major-red-flags/"><u>Artificial Intelligence and Trust Issues: Understanding 6 Major Red Flags</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-ios-file-explorer-apps-for-windows-1011-top-picks/"><u>Best Free iOS File Explorer Apps for Windows 10/11: Top Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/helldivers-2-crashing-on-pc-proven-fixes/"><u>Helldivers 2 Crashing on PC: Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-download-progress-timeout-issues-for-seamless-transfers/"><u>How to Address Download Progress 'Timeout' Issues for Seamless Transfers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>In 2024, Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-samsung-galaxy-a05s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fast-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>Troubleshooting Fast Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-mass-effect-legendary-edition-start/"><u>Troubleshooting Guide: Why Won't My Mass Effect Legendary Edition Start?</u></a></li>
 </ul></div>
 

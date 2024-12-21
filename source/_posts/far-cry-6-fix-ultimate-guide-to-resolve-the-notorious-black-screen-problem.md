@@ -1,7 +1,7 @@
 ---
 title: "Far Cry 6 Fix: Ultimate Guide to Resolve the Notorious Black Screen Problem"
-date: 2024-12-14T21:00:24.562Z
-updated: 2024-12-18T20:00:04.004Z
+date: 2024-12-12T19:26:52.313Z
+updated: 2024-12-20T00:44:49.350Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -45,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
@@ -79,15 +75,15 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -100,7 +96,7 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
@@ -108,10 +104,14 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -131,10 +131,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -146,7 +142,7 @@ iv. Restart your PC.
 See if this issue reappears. If not, you have fixed this issue!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
@@ -171,6 +167,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -193,15 +193,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-crafting-top-notch-gopro-cinematography-step-by-step-for-2024/"><u>[New] Crafting Top-Notch GoPro Cinematography Step by Step for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-demystifying-income-for-t-series-on-youtube/"><u>2024 Approved Demystifying Income for T-Series on YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-camon-30-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Camon 30 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerating-powerpoint-video-streams-for-2024/"><u>Accelerating PowerPoint Video Streams for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/efficient-tactics-for-viewing-subscribers-on-yt/"><u>Efficient Tactics for Viewing Subscribers on YT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-thrills-of-god-of-wars-first-person-shooter-version-launched-on-pc/"><u>Experience the Thrills of God of War's First-Person Shooter Version – Launched on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-overcoming-call-of-duty-black-ops-e-launch-errors/"><u>Expert Advice on Overcoming Call of Duty Black Ops E Launch Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ps4-hitches-no-more-expert-tips-and-steps-to-restore-performance/"><u>PS4 Hitches No More: Expert Tips and Steps to Restore Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-youtube-videos-a-guide-for-syncing-sound-and-visuals-in-chromefirefox/"><u>Unstick Your YouTube Videos - A Guide for Syncing Sound and Visuals in Chrome/Firefox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-top-users-on-snapchat/"><u>[New] Exploring Top Users on Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-broadcasting-on-demand-transferring-fb-videos-to-whatsapp-groups/"><u>[New] In 2024, Broadcasting on Demand Transferring FB Videos to WhatsApp Groups</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-excellent-global-music-livestreams/"><u>[New] In 2024, Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-your-sightline-in-roblox-playground/"><u>[New] Maximizing Your Sightline in Roblox Playground</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-leading-edge-in-social-media-video-capture-5-apps-reviewed/"><u>[Updated] The Leading Edge in Social Media Video Capture (5 Apps Reviewed)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-pc-game-crashes-ultimate-troubleshooting-guide/"><u>Biomutant PC Game Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-the-course-from-scale-to-submillions-in-youtube-for-2024/"><u>Charting the Course From Scale to Submillions in Youtube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-3-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-blenders-frequent-system-collapses-on-desktop-systems-windowsmac/"><u>Effective Fixes for Blender's Frequent System Collapses on Desktop Systems – Windows/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-tv-viewing-experience-with-online-features/"><u>Enhancing Your TV Viewing Experience with Online Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-sea-of-thieves-failure-to-start-properly/"><u>Fixing the Issue: Sea of Thieves Failure to Start Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-addressing-the-ntdlldll-system-crash-problem-on-windows-1110-platforms/"><u>Guide to Addressing the ntdll.dll System Crash Problem on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-videos-accelerating-playback/"><u>In 2024, Boosting Vimeo Videos Accelerating Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-multi-platform-content-delivery-youtube-and-beyond/"><u>Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-fortnite-microphone-a-step-by-step-fix-guide/"><u>Revive Your Fortnite Microphone: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-how-to-remove-lag-and-stutters-from-half-life-alyx-gameplay/"><u>Solving Performance Issues: How to Remove Lag & Stutters From Half-Life: Alyx Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-kodi-connection-error-couldnt-get-directory-data/"><u>Step-by-Step Solution for Kodi Connection Error: Couldn't Get Directory Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-solutions-to-resolve-the-no-user-logged-in-issue-on-cs-go/"><u>Top 5 Solutions to Resolve the 'No User Logged In' Issue on CS: GO</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-file-mp4-rapido-e-gratuito-con-moovavi-conversione-online/"><u>Trasforma File MP4 Rapido E Gratuito Con Moovavi - Conversione OnLine</u></a></li>
 </ul></div>
 

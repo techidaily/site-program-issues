@@ -1,7 +1,7 @@
 ---
 title: "Dota 2 Latency Solutions: Top Tricks to Achieve Zero Lag"
-date: 2024-12-15T00:20:06.242Z
-updated: 2024-12-18T23:33:31.772Z
+date: 2024-12-16T22:59:43.916Z
+updated: 2024-12-19T23:45:53.325Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-local-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or you can right-click Nioh 2, and select Manage > Browse local files.
@@ -47,15 +47,19 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Properties-Nioh-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Compatibility** tab. Then, tick the box next to Run this program as an administrator and click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Shut down all unnecessary apps
 
@@ -95,10 +99,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get **full support**  and a **30-day money back guarantee** .)
 
 3) Restart your computer for the changes to take effect.
@@ -118,6 +118,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/local-files-verify.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
 ## Fix 5: Install/repair Visual C++ files
@@ -128,9 +132,17 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the process to complete. This may take 2-3 minutes.
 
@@ -139,7 +151,7 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Once complete, restart your PC for it to take full effect.
@@ -160,10 +172,6 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 
 Now launch your game, and see if it crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 7: Perform a clean boot
 
  To make sure no other apps is interfering with Nioh 2, you can try performing a clean boot. Here’s how:
@@ -174,10 +182,6 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
@@ -185,10 +189,6 @@ Now launch your game, and see if it crashes again.
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
@@ -199,7 +199,7 @@ Now launch your game, and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
@@ -233,18 +233,18 @@ Now launch your game, and see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-recording-setup-on-xbox-for-gamers/"><u>[Updated] 2024 Approved Live Recording Setup on Xbox for Gamers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-experts-resource-advanced-screen-capture-techniques-by-zd-for-2024/"><u>[Updated] The Expert's Resource Advanced Screen Capture Techniques by ZD for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/boost-your-pcs-speed-effortlessly-essential-tricks-and-tips-by-yl-software/"><u>Boost Your PC's Speed Effortlessly: Essential Tricks & Tips by YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-address-rainbow-six-extractions-performance-issues-and-crashes-in-pc-setup/"><u>Comprehensive Tips to Address Rainbow Six Extraction's Performance Issues and Crashes in PC Setup</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ideal-spots-for-purchasing-smartphones-near-you/"><u>Discover the Ideal Spots for Purchasing Smartphones Near You</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-overcoming-the-csgo-user-logon-error/"><u>Effective Fixes for Overcoming the CSGO User Logon Error</u></a></li>
-<li><a href="https://article-files.techidaily.com/elite-gimbal-solutions-youtube-creators-stabilizing-allies/"><u>Elite Gimbal Solutions YouTube Creators' Stabilizing Allies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-launch-problems-with-your-thaumaturge-on-windows-computers/"><u>Expert Guide: Resolving Launch Problems with Your Thaumaturge on Windows Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guia-facil-para-combinar-y-superponer-imagenes-con-herramientas-en-linea/"><u>Guía Fácil Para Combinar Y Superponer Imágenes Con Herramientas en Línea</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hardcore-hardware-insights-by-tom-your-ultimate-guide/"><u>Hardcore Hardware Insights by Tom: Your Ultimate Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-fixes-a-step-by-step-guide-to-solve-call-of-duty-warzones-ominous-black-screen-problem-in-2amstagram-year-2024/"><u>Mastering Fixes: A Step-by-Step Guide to Solve Call of Duty Warzone's Ominous Black Screen Problem in 2Amstagram Year 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-11-audio-issues-a-step-by-step-guide/"><u>Troubleshooting Windows 11 Audio Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/yl-software-ray-of-light-wallpaper-collection-elegant-digital-designs-by-yl-computing/"><u>YL Software - Ray of Light Wallpaper Collection: Elegant Digital Designs by YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-conquering-challenges-expert-gopro-tips-for-2024/"><u>[New] Conquering Challenges Expert GoPro Tips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-mac-studio-for-crystal-clear-captures-and-sounds/"><u>[New] In 2024, Advanced Mac Studio for Crystal Clear Captures & Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-potential-of-gopro-for-time-lapse-artistry/"><u>[New] Unlocking the Potential of GoPro for Time Lapse Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv3/"><u>完全無損失でMKVを切り分ける3方法：高画質維持のコツ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deciphering-modern-media-all-about-internet-capable-smart-televisions/"><u>Deciphering Modern Media: All About Internet Capable Smart Televisions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/descargar-e-imprime-tga-archivos-como-formatos-de-fotos-libres-y-de-alta-calidad-tiff/"><u>Descargar E Imprime TGA Archivos Como Formatos De Fotos Libres Y De Alta Calidad (TIFF)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-how-to-resolve-logitech-speaker-and-headset-software-problems-on-windows/"><u>Fixing Issues: How to Resolve Logitech Speaker & Headset Software Problems on Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-add-external-wireless-capability-with-new-hardware-and-drivers/"><u>How to Add External Wireless Capability with New Hardware & Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-taming-the-lag-in-elder-scrolls-onlines-blackwood-expansion/"><u>Resolved - Taming the Lag in Elder Scrolls Online's Blackwood Expansion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-frame-drops-and-performance-lags-in-outriders/"><u>Resolved: Fixing Frame Drops and Performance Lags in Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-connect-wont-load-heres-how-to-resolve-it/"><u>Ubisoft Connect Won't Load? Here's How to Resolve It</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-fix-guide-resolving-persistent-issues-with-windows-error-messages-0x807042c-and-0x90017/"><u>Ultimate Fix Guide: Resolving Persistent Issues with Windows Error Messages 0X80^7042c and 0X90017</u></a></li>
 </ul></div>
 

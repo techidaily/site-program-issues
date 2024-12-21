@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Cycle of Existence: The Resilience Tale 'Eternal Return - Surviving in Shadow'"
-date: 2024-12-14T10:17:14.667Z
-updated: 2024-12-19T10:34:47.908Z
+date: 2024-12-15T17:56:49.875Z
+updated: 2024-12-20T03:42:06.683Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Does your FIFA 20 crash on PC so often that it is all but unplayable? If the ans
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check your PC specs first
@@ -36,9 +36,17 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-398.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **DirectX Diagnostic Tool** window, on the **System** tab, you can see the make and model of your computer. Just take note of the following parameters: **Operating System** , **Processor** , **Memory** , and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-402.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ignore the specs listed here. This computer is not used for gaming.
 
@@ -49,6 +57,10 @@ In case you don’t know how, here’s the guidance:
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_15-24-55-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
@@ -128,6 +140,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -135,7 +151,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -160,25 +176,21 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart your computer for the changes to take effect.
 
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
 
@@ -214,27 +226,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -245,7 +245,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
@@ -259,6 +259,10 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -299,10 +303,6 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -312,10 +312,6 @@ dism.exe /online /cleanup-image /restorehealth
  After that, hit **Enter** on your keyboard. Then the DISM tool will begin to scan for any problems and try to fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
@@ -330,6 +326,10 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -357,22 +357,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-engagement-with-custom-images-for-your-videos/"><u>[New] 2024 Approved Boost Engagement with Custom Images for Your Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sky-high-quality-with-your-iphone-camera-essential-tips-top-8/"><u>[New] Sky-High Quality with Your iPhone Camera Essential Tips (Top 8)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discover-the-joy-of-mobile-podcasts/"><u>[Updated] 2024 Approved Discover the Joy of Mobile Podcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-managing-high-cpu-usage-on-starfield-latest-techniques/"><u>Comprehensive Guide to Managing High CPU Usage on Starfield - Latest Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/crucial-specification-your-system-requires-directx-11-capable-video-card-to-operate-this-application/"><u>Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-prevent-manor-lords-from-crashing-on-your-computer/"><u>Easy Steps to Prevent Manor Lords From Crashing on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-common-issue-of-non-responsive-razer-synapse-launcher/"><u>Effective Solutions for the Common Issue of Non-Responsive Razer Synapse Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-hurdles-of-error-0x80040610-a-comprehensive-approach/"><u>Eliminating the Hurdles of Error 0X80040610: A Comprehensive Approach</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolve-black-screen-issues-in-far-cry-6-easily/"><u>Expert Guide: Resolve Black Screen Issues in Far Cry 6 Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-stuck-start-of-alan-wake-2-essential-troubleshooting-steps/"><u>Fixing the Stuck Start of Alan Wake 2 – Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-securely-document-whatsapp-discussions/"><u>How to Securely Document WhatsApp Discussions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world/"><u>In 2024, Top 10 Sci-Fi Metaverse Movies Take You to a Brand New World</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-lag-reduction-in-chivalry-2-latest-fixes/"><u>Step-by-Step Troubleshooting for Lag Reduction in Chivalry 2 - Latest Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-gas-station-simulator-from-crashing-on-windows/"><u>Troubleshooting Guide: How to Stop 'Gas Station Simulator' From Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-assassins-creed-origins-crash-issues/"><u>Ultimate Guide: Solving Assassin's Creed Origins Crash Issues</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-editors-paradise-10-essential-software-solutions/"><u>Updated Video Editors Paradise 10 Essential Software Solutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/weave-webcomic-wonders-with-giphy-for-2024/"><u>Weave Webcomic Wonders with Giphy for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>[New] 2024 Approved How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-moviegenius-for-windows-8/"><u>[New] MovieGenius for Windows 8</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-your-digital-cameras-potential-for-2024/"><u>[New] Unlocking Your Digital Camera's Potential for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-how-roku-enhances-your-viewing-experience-with-more-than-40-free-tv-channels-including-local-news-zdnet-report/"><u>Discover How Roku Enhances Your Viewing Experience with More than 40 Free TV Channels, Including Local News - ZDNet Report</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010200073-experience-days-gone-on-pc-new-release-alert/"><u>Experience Days Gone on PC - New Release Alert!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-how-to-ensure-warzone-utilizes-gpu-resources-in-windows-11/"><u>Fixing: How to Ensure Warzone Utilizes GPU Resources in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-sudden-frame-rate-drop-offs-in-f1-2021-on-your-computer/"><u>How to Fix Sudden Frame Rate Drop-Offs in F1 2021 on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012339058-modern-warfare-3-mw3-keeps-crashing-on-pc-easy-fixes/"><u>Modern Warfare 3 (MW3) Keeps Crashing on PC – Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/multiversus-launching-issues-here-are-proven-fixes-for-players-facing-pc-boot-problems/"><u>MultiVersus Launching Issues? Here Are Proven Fixes for Players Facing PC Boot Problems!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-resolving-the-steam-corrupted-disk-issue/"><u>Quick & Easy Solutions: Resolving the Steam Corrupted Disk Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-ce-34878-0-glitch-on-playstation-4-a-comprehensive-guide/"><u>Resolving the CE-34878-0 Glitch on PlayStation 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seize-the-opportunity-get-your-hands-on-one-of-the-finest-macbook-models-from-apple-today/"><u>Seize the Opportunity: Get Your Hands on One of the Finest MacBook Models From Apple Today!</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-guide-restoring-lost-files-on-your-windows-7-hard-disk/"><u>Step-by-Step Guide: Restoring Lost Files on Your Windows 7 Hard Disk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-tech-tools-in-an-ai-driven-world-expert-analysis-by-zdnet/"><u>The Future of Tech Tools in an AI-Driven World: Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-gta-5-freezing-issues-resolved/"><u>Troubleshooting GTA 5 Freezing Issues - Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-pc-game-crash-fixed-issues/"><u>Wolcen: Lords of Mayhem PC Game Crash - Fixed Issues!</u></a></li>
 </ul></div>
 

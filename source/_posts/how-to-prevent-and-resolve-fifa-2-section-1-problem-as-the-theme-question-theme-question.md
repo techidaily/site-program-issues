@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)"
-date: 2024-12-13T04:12:45.464Z
-updated: 2024-12-18T21:19:50.331Z
+date: 2024-12-14T17:36:43.687Z
+updated: 2024-12-19T21:47:16.839Z
 tags:
   - win11
   - win10
@@ -54,15 +54,11 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
@@ -72,15 +68,15 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -99,10 +95,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -110,10 +102,6 @@ OR
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -124,6 +112,10 @@ OR
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Hitman 3 so that you can encounter the “**connection failed** ” error. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -131,6 +123,10 @@ OR
  For some antivirus software, disabling them might not work. You can temporally uninstall it or add Hitman 3 to their exclusion lists.
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
 
@@ -141,22 +137,26 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -184,18 +184,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[New] 2024 Approved The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>[New] Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-instagram-story-tips-and-tricks-for-2024/"><u>[Updated] Ultimate Instagram Story Tips & Tricks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-fixes-the-infamous-ocean-crash-on-pacific-map/"><u>Call of Duty: Warzone Fixes the Infamous Ocean Crash on Pacific Map</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-tech-support-resolving-problems-with-unresponsive-samsung-smart-television-applications/"><u>DIY Tech Support: Resolving Problems with Unresponsive Samsung Smart Television Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-the-persistent-issue-halting-halo-infinites-pc-crashes/"><u>Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-fatal-launch-stalls-expert-tips-for-a-smooth-company-debut/"><u>Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers in Windows 10 and 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-a23-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy A23 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/transferer-des-donnees-dun-disque-dur-dans-windows-11-version-64-ou-32-bits/"><u>Transférer Des Données D'un Disque Dur Dans Windows 11 (Version 64 Ou 32 Bits)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubuntu-installation-guide-ensure-system-compatibility-and-avoid-crashes/"><u>Ubuntu Installation Guide: Ensure System Compatibility & Avoid Crashes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-10-patch-leads-to-realtek-lan-failure/"><u>Windows 10 Patch Leads to Realtek LAN Failure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-deciphering-the-language-of-copyright-notices-from-youtube/"><u>[New] 2024 Approved Deciphering the Language of Copyright Notices From YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play/"><u>[Updated] Become an Audio Concealer Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-effortless-gaming-sessions-on-your-screen/"><u>2024 Approved Effortless Gaming Sessions on Your Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-address-rainbow-six-extractions-performance-issues-and-crashes-in-pc-setup/"><u>Comprehensive Tips to Address Rainbow Six Extraction's Performance Issues and Crashes in PC Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-elden-rings-launch-hurdle-a-step-by-estep-guide-to-fixing-the-games-black-screen-glitch/"><u>Conquering Elden Ring's Launch Hurdle: A Step-by-eStep Guide to Fixing the Game's Black Screen Glitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-compelling-content-weaving-text-into-os-imagery/"><u>Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-8-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 8 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-overcoming-the-csgo-user-logon-error/"><u>Effective Fixes for Overcoming the CSGO User Logon Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-launch-problems-with-your-thaumaturge-on-windows-computers/"><u>Expert Guide: Resolving Launch Problems with Your Thaumaturge on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-origin-cannot-be-launched-on-windows-10-and-11/"><u>Fixing 'Origin Cannot Be Launched on Windows 10 & 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-change-your-videos-compatible-format-on-mac-a-comprehensive-tutorial-with-handbrake-and-macx-video-converter-pro/"><u>How to Change Your Videos Compatible Format on Mac: A Comprehensive Tutorial with Handbrake and MacX Video Converter Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fixes-a-step-by-step-guide-to-solve-call-of-duty-warzones-ominous-black-screen-problem-in-2amstagram-year-2024/"><u>Mastering Fixes: A Step-by-Step Guide to Solve Call of Duty Warzone's Ominous Black Screen Problem in 2Amstagram Year 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-instagrams-visual-storytelling/"><u>Mastering the Art of Instagram's Visual Storytelling</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-strategies-for-efficiently-freeing-up-ram-in-your-windows-machine-insights-by-yl-computing/"><u>Top Strategies for Efficiently Freeing Up RAM in Your Windows Machine - Insights by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-crashing-on-windows/"><u>Troubleshooting Guide - How To Stop Hell Let Loose From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-are-my-pc-games-crashing/"><u>Troubleshooting Steps: Why Are My PC Games Crashing?</u></a></li>
 </ul></div>
 

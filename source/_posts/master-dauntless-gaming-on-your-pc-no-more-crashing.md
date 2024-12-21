@@ -1,7 +1,7 @@
 ---
 title: "Master Dauntless Gaming on Your PC: No More Crashing"
-date: 2024-08-23T17:26:00.541Z
-updated: 2024-08-24T17:26:00.541Z
+date: 2024-12-14T00:20:31.290Z
+updated: 2024-12-20T01:12:04.603Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 ## Fix the Crashing Issue in Elite Dangerous on Your Computer Today
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -37,9 +41,6 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -50,25 +51,27 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -89,26 +92,25 @@ This could take several minutes. Wait for the process to be complete.
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -119,9 +121,6 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 **3)** Restart your game to see if it runs correctly now.
@@ -146,10 +145,11 @@ If the crashing still happens, continue with the next solution below.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -173,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +180,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-melodyrecorder-free-an-experts-evaluation/"><u>[New] 2024 Approved MelodyRecorder Free An Expert's Evaluation</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-your-easy-route-to-tiktok-bliss-on-a-macbook/"><u>[New] In 2024, Your Easy Route to TikTok Bliss on a MacBook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-review-the-full-package-of-the-logitech-4k-webcam/"><u>[Updated] 2024 Approved Review The Full Package of the Logitech 4K Webcam</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>[Updated] Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/amp-up-your-media-get-free-soundtracks-in-2024/"><u>Amp Up Your Media Get Free Soundtracks, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-the-ios-181-preview-version-unveiling-apples-latest-ai-features-get-started-today/"><u>Download the iOS 18.1 Preview Version: Unveiling Apple's Latest AI Features – Get Started Today !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xi-stability-fix-ending-the-game-crash-problem/"><u>Dragon Quest XI Stability Fix: Ending the Game Crash Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-far-cry-6-from-crashing-on-your-pc/"><u>How to Stop Far Cry 6 From Crashing on Your PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-list-best-free-video-subtitles-and-downloader/"><u>In 2024, Pro List Best Free Video Subtitles & Downloader</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-resolving-windows-spotlight-problems-on-your-windows-11-pc/"><u>Mastering the Fixes: Resolving Windows Spotlight Problems on Your Windows 11 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outpost-infinaturd-siege-stability-tips-avoid-game-crashing-on-pc-systems/"><u>Outpost: Infinaturd Siege Stability Tips - Avoid Game Crashing on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-problems-steelseries-gg-works-again-on-your-computer-windows/"><u>Overcoming Compatibility Problems: SteelSeries GG Works Again on Your Computer (Windows)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-stability-solutions-top-tips-for-avoiding-system-freezes/"><u>PC Stability Solutions: Top Tips for Avoiding System Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-hogwarts-legacy-game-startup-issues/"><u>Ultimate Guide: Solving Hogwarts Legacy Game Startup Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/vsg-screen-snapshots-review-thorough-examination-for-2024/"><u>VSG Screen Snapshots Review Thorough Examination for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-lag-in-fortnite-expert-tips-for-optimal-performance/"><u>Winning the Battle Against Lag in Fortnite: Expert Tips for Optimal Performance</u></a></li>
+</ul></div>
 

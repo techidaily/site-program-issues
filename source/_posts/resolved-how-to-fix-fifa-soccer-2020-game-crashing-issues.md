@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix FIFA Soccer 2020 Game Crashing Issues"
-date: 2024-08-28T06:21:12.901Z
-updated: 2024-08-29T06:21:12.901Z
+date: 2024-12-18T18:02:29.833Z
+updated: 2024-12-19T20:56:48.998Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/66bf8dac2766c75d064d843a5ce5be7969161220b
 
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**Madden 20** crashing
 
  Here are 5 fixes that have helped other users resolve the**Madden 20** **crashing** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,9 +31,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,10 +43,11 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -60,8 +62,9 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -108,9 +111,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -130,8 +130,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -139,6 +140,10 @@ Here is how to do it:
  If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
 
@@ -148,9 +153,6 @@ Here are the steps:
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
@@ -179,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +188,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-dailymovement-vs-youtube-income-comparison/"><u>[New] 2024 Approved DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>[New] 2024 Approved Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-4-ways-to-go-live-on-tiktok-on-computer-for-2024/"><u>[New] 4 Ways to Go Live on TikTok on Computer for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-android-performance-by-clearing-its-cache/"><u>Boost Your Android Performance by Clearing Its Cache</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-fame-forecast-2024/"><u>Digital Fame Forecast 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-eliminating-lag-and-increasing-frames-per-second-fps/"><u>Elevate Your Valorant Experience by Eliminating Lag & Increasing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/evil-genius-2-wont-start-heres-how-to-successfully-get-it-running-again/"><u>Evil Genius 2 Won't Start? Here's How to Successfully Get It Running Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982443194-how-to-get-your-hp-screen-up-and-running-again-solutions-inside/"><u>How To Get Your HP Screen Up And Running Again – Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-updated/"><u>How to Stop Dead by Daylight From Crashing (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-strategies-for-seamless-biomutant-gameplay-on-pcs-avoid-crashes-and-glitches/"><u>Latest Strategies for Seamless Biomutant Gameplay on PCs - Avoid Crashes and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-obstacles-preventing-collective-takeoff-strategies-and-solutions/"><u>Overcoming Obstacles Preventing Collective Takeoff: Strategies and Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/problem-mit-der-wiedergabe-von-hevc-videos-auf-windows-11-8-oder-7-losungen-finden/"><u>Problem Mit Der Wiedergabe Von HEVC-Videos Auf Windows 11, 8 Oder 7 - Lösungen Finden</u></a></li>
+<li><a href="https://program-issues.techidaily.com/soil-ph-affects-the-availability-of-nutrients-some-are-more-accessible-at-certain-ph-levels-an-optimal-ph-range-ensures-that-plants-can-absorb-the-necessary614/"><u>Soil pH Affects the Availability of Nutrients; some Are More Accessible at Certain pH Levels. An Optimal pH Range Ensures that Plants Can Absorb the Necessary Nutrients Effectively.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-creative-utilization-of-b-footage-in-media-for-2024/"><u>The Creative Utilization of B-Footage in Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-game-crashes-on-your-pc/"><u>Troubleshooting Steps: Resolving Game Crashes on Your PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-rescuing-your-device-steps-to-revive-water-damaged-iphoneipod/"><u>Ultimate Guide: Rescuing Your Device - Steps to Revive Water-Damaged iPhone/iPod</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/update-your-username-game-how-to-rename-system-administrator-in-windows-11-with-ease/"><u>Update Your Username Game: How to Rename System Administrator in Windows 11 with Ease</u></a></li>
+</ul></div>
 

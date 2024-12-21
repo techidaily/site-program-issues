@@ -1,7 +1,7 @@
 ---
 title: Overcome Technical Hurdles with These Tips to Prevent 'Tower of Fantasy' From Crashing on PC
-date: 2024-08-23T17:24:54.473Z
-updated: 2024-08-24T17:24:54.473Z
+date: 2024-12-13T22:29:00.438Z
+updated: 2024-12-20T00:39:03.189Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 ## Subnautica: Below Zero on PC - Stop the Game From Crashing with These Tips
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-feature.jpg)
 
 [Subnautica: Below Zero](https://www.epicgames.com/store/en-US/p/subnautica-below-zero?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=foxglove) is officially out. But before embarking on the underwater expedition, players found themselves facing issues such as**crashing** and**black screen.** If you’re on the same boat, don’t worry. We’ve put together some fixes to make your game work again.
@@ -32,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  One possible cause of the crash is that certain game files are**corrupted or missing** . You need to make sure all the game files are intact and up to date. To do so, you can run a scan to verify the integrity of game files.
@@ -44,14 +38,20 @@ Here’s how to do that on Steam:
 1. Go to your Steam library. Right click**Subnautica: Below Zero** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start Subnautica: Below Zero and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t help you, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Some players reported that**updating the graphics driver** could improve the performance of Subnautica and stop the crash. So if you don’t know whether you’re using the latest GPU driver, have a check or just go right ahead and do an update.
@@ -62,11 +62,13 @@ If this fix doesn’t help you, take a look at the next one below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,37 +78,38 @@ If this fix doesn’t help you, take a look at the next one below.
  If the latest video driver doesn’t give you luck, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Perform a clean boot
 
  Given that we all have different setups, it’s also likely that some programs might be interfering with the game. To verify, you can perform a clean boot. It allows your computer to start**with only essential services and programs** .
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can play and see if the game crashes again. If it doesn’t, repeat these steps but only disable half of the programs and services.
 
 If this trick doesn’t help, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Limit CPU cores for Subnautica: Below Zero
 
  There’re also players who found that**limiting the CPU cores** for Subnautica helps stop the crash. So you can try the same and see how it goes.
@@ -120,9 +123,6 @@ If this trick doesn’t help, you can move on to the next one.
 
 If Subnautica: Below Zero still crashes, you can check out the next tip.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Overclocking is not something new in 2021, basically every motherboard and graphics card has this gimmick. But when you’re enjoying this zero-cost performance booster, beware of the side effect of making your system unstable. So if you’re using overclocking software, such as**MSI Afterburner** and**Intel Extreme Tuning Utility** (Intel XTU), or you’re using a BIOS setting to overclock, disable it and test the gameplay again.
@@ -139,8 +139,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,23 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-unraveling-the-secrets-to-auditory-harmony-crossfade-for-2024/"><u>[New] Unraveling the Secrets to Auditory Harmony (Crossfade) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-key-view-figures-for-earning-living-on-youtube/"><u>[Updated] Key View Figures for Earning Living on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peek-into-innovation-with-microsofts-hololens-review/"><u>2024 Approved Peek Into Innovation with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-key-solutions-for-when-steam-ignores-your-virtual-reality-gear/"><u>6 Key Solutions for When Steam Ignores Your Virtual Reality Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-multiplayer-malfunctions-steps-to-repair-your-elden-ring-network-play/"><u>Addressing Multiplayer Malfunctions: Steps to Repair Your Elden Ring Network Play</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-the-unique-identifier-of-your-macbook-effortlessly/"><u>Discovering the Unique Identifier of Your MacBook Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005641917-fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-freezing-expert-troubleshooting-guide/"><u>How to Stop Dead by Daylight From Freezing : Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-ultimate-soundscapes-for-visual-storytelling/"><u>In 2024, Ultimate Soundscapes for Visual Storytelling</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-computer-builds-insider-tips-from-the-toms-hardware-team/"><u>Mastering Computer Builds: Insider Tips From the Tom's Hardware Team</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/onenote-on-windows-11/"><u>OneNote on Windows 11に完璧な復元方法説明 - バックアップ手順</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-techniques-to-increase-fps-and-fix-glitches-in-the-ascent/"><u>Optimizing Your Experience: Techniques to Increase FPS and Fix Glitches in The Ascent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-chromes-page-loading-challenges-a-step-by-step-fix/"><u>Overcoming Chrome's Page Loading Challenges: A Step-by-Step Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-halo-3-from-exiting-unexpectedly-a-comprehensive-troubleshooting-guide-for-gamers/"><u>Stop Halo 3 From Exiting Unexpectedly: A Comprehensive Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-of-gaming-leading-vr-game-engines/"><u>The Future of Gaming Leading VR Game Engines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-leveraging-the-power-of-claude-ai-insights-for-smart-decision-making/"><u>Understanding and Leveraging the Power of Claude AI: Insights for Smart Decision-Making</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide"
-date: 2024-12-12T22:12:42.157Z
-updated: 2024-12-18T18:51:17.590Z
+date: 2024-12-18T00:15:51.395Z
+updated: 2024-12-19T23:51:38.066Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
  Game crashing issues can happen for many reasons, and in most cases, it’s hard to identify the core issue because of the unique hardware and game settings players have. But don’t worry, there’re some fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix ETS2 crash
 
  You may not have to try them all, just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 5. **[Check for software conflicts](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First thing to check
 
@@ -45,10 +53,6 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 | **Hard Drive:** | 3 GB available space                  |
 
  Make sure your PC meets the minimum system specs to run the game, then move on to the solutions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -69,6 +73,10 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
  This could take several minutes. Wait for the process to be complete. Steam will automatically fix corrupt files if it detects any.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if this has resolved your issue.
 
@@ -94,16 +102,12 @@ Follow the instructions below to see how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-59-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Type **%public%\\Documents** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-52-48.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Right-click the**Steam folder** and select**Delete** .
@@ -111,7 +115,7 @@ Follow the instructions below to see how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-54-14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Restart your game to check if this worked for you.
@@ -133,10 +137,6 @@ If your game is still unplayable, move on to the next fix.
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-12-22.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -161,21 +161,29 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
 
@@ -184,10 +192,6 @@ If your game is still unplayable, move on to the next fix.
 **6)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-37.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Relaunch your game.
 
@@ -209,16 +213,12 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -246,10 +246,6 @@ If your game is still unplayable, move on to the next fix.
 
  Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall your game
 
  Game issues, such as freezing, crashing or lagging might happen when the game is not properly installed on your PC, so try reinstalling ETS2\. Follow the instructions below:
@@ -263,6 +259,10 @@ If your game is still unplayable, move on to the next fix.
 **3)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-36-27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart**your computer** .
 
@@ -291,17 +291,24 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-sprinkle-new-colors-into-your-past-media-with-instagram-for-2024/"><u>[Updated] How to Sprinkle New Colors Into Your Past Media with Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-teaching-through-media-efficient-classroom-editing/"><u>2024 Approved Teaching Through Media Efficient Classroom Editing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-optimization-overcoming-high-cpu-usage-issues-successfully/"><u>Chrome Optimization - Overcoming High CPU Usage Issues Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-get-your-thaumaturge-app-running-smoothly-again-on-your-computer/"><u>Easy Fixes: Get Your Thaumaturge App Running Smoothly Again on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-fortnite-lags-expert-tips-and-solutions-for-smooth-gaming/"><u>Eliminate Fortnite Lags: Expert Tips and Solutions for Smooth Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-your-parenthood-with-a-comprehensive-guide-to-chatgpt-and-ai-innovations/"><u>Empower Your Parenthood with a Comprehensive Guide to ChatGPT and AI Innovations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-stability-issues-heres-how-you-can-prevent-the-game-from-freezing/"><u>Euro Truck Simulator 2 Stability Issues? Here's How You Can Prevent the Game From Freezing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fresh-approaches-to-instagram-collages-made-simple/"><u>Fresh Approaches to Instagram Collages Made Simple</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-anon-mastery-pcandroidios-edition/"><u>In 2024, Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/iphone-x-versus-iphone-7-an-in-depth-head-to-head-review/"><u>IPhone X versus iPhone 7: An In-Depth Head-to-Head Review</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-turtle-beach-mic-problem-a-step-by-step-guide-for-clear-audio-output/"><u>Solve Your Turtle Beach Mic Problem - A Step-by-Step Guide for Clear Audio Output</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-content-extractor-the-best-of-the-rest-for-2024/"><u>[New] Instagram Content Extractor The Best of the Rest for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ideal-outlet-where-to-post-your-videos-for-2024/"><u>[New] The Ideal Outlet Where to Post Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>[Updated] 2024 Approved Elevate Your Digital Footprint Strategies for Effective FB Video Marketing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-newest-methods-for-ios-screenshots-and-playback/"><u>[Updated] 2024 Approved Newest Methods for iOS Screenshots & Playback</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-troubleshooting-guide-resolving-move-to-ios-feature-issues/"><u>1. Troubleshooting Guide: Resolving 'Move to iOS' Feature Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-2021-release-addressing-not-launching-problems-and-solutions/"><u>Age of Empires 2021 Release - Addressing Not-Launching Problems and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-get-into-the-world-of-assassins-creed-mirage-ultimate-launch-fix-guide-for-gamers/"><u>Can't Get Into the World of Assassin's Creed: Mirage? Ultimate Launch Fix Guide for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-new-favorite-powerhouse-the-hp-victus-15-for-only-515-on-best-buys-antidote-to-prime-day-featured/"><u>Discover Your New Favorite Powerhouse: The HP Victus 15 for Only $515 on Best Buy's Antidote to Prime Day – Featured</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011520453-fortnite-gameplay-enhancements-season-8s-frame-rate-improvements-revealed/"><u>Fortnite Gameplay Enhancements: Season 8'S Frame Rate Improvements Revealed!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guide-detaille-de-la-localisation-dun-fichier-after-effects-disparu/"><u>Guide Détaillé De La Localisation D'un Fichier After Effects Disparu</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-stabilize-dragon-age-origins-and-eliminate-windows-10-interference/"><u>Guide to Stabilize Dragon Age: Origins and Eliminate Windows 10 Interference</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-windows-and-mac-screenshots-a-step-by-step-guide/"><u>Mastering the Art of Windows & Mac Screenshots: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-nwstoreexe-program-malfunction-a-comprehensive-guide/"><u>Resolving the nw_store.exe Program Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-of-your-windows-11-taskbar/"><u>Troubleshooting Fixes: How To Restore Functionality Of Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-call-of-duty-warzone-lag-and-hitches/"><u>Troubleshooting Steps for Fixing Call of Duty Warzone Lag and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-discord-display-issues-when-sharing-your-screen/"><u>Ultimate Guide to Overcoming Discord Display Issues When Sharing Your Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-dragon-age-inquisition-wont-start-diagnosis-and-fixes/"><u>Why Dragon Age Inquisition Won't Start: Diagnosis & Fixes</u></a></li>
 </ul></div>
 

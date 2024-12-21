@@ -1,7 +1,7 @@
 ---
 title: How to Address and Repair the BOCW User Interface Gaffe (Error 27711)
-date: 2024-12-12T00:02:33.704Z
-updated: 2024-12-19T12:31:12.258Z
+date: 2024-12-14T01:53:23.736Z
+updated: 2024-12-19T21:49:25.009Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,6 +47,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick the box next to**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2.jpg)
@@ -64,24 +68,28 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Launch the DXSETUP.exe file
 
@@ -90,10 +98,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 **1)** Launch**Steam** , and click the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
@@ -124,7 +128,7 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select**NONE – Opt out of all beta programs** from the drop-down menu under Beta participation and click**OK** .
@@ -135,10 +139,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
  According to a lot of players, the Steam desktop theatre mode will also cause L.A. Noire not launching. Try disabling this option and see if that solves your problem.
@@ -147,13 +147,13 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
@@ -164,7 +164,7 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Update your graphics driver
@@ -218,17 +218,22 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-quicklooker-windows-11s-speedy-photo-viewer/"><u>[New] 2024 Approved QuickLooker Windows 11'S Speedy Photo Viewer</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-our-picks-for-the-finest-car-dvd-units-for-2024/"><u>[New] Our Picks for the Finest Car DVD Units for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>[Updated] In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-swift-youtube-discussion-management/"><u>[Updated] The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-assassins-creed-valhalla-quick-remedies-for-lag-and-frame-drops/"><u>Boosting 'Assassin's Creed: Valhalla': Quick Remedies for Lag and Frame Drops</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/decoding-vivacut-video-editing-essentials/"><u>Decoding VivaCut Video Editing Essentials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-s18e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo S18e</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-google-pixel-8-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Google Pixel 8 Pro Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/kodi-cant-connect-heres-how-to-fix-the-directory-information-retrieval-problem/"><u>Kodi Can't Connect? Here's How to Fix the ‘Directory Information Retrieval’ Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-tips-to-overcome-discord-installation-errors-and-get-back-on-track/"><u>Quick Tips to Overcome Discord Installation Errors and Get Back on Track</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-why-was-guilty-gear-strive-delayed-from-its-original-release/"><u>Resolved: Why Was 'Guilty Gear Strive' Delayed From Its Original Release?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-everspace-2-from-crashing-on-windows/"><u>Troubleshooting Tips for Preventing Everspace 2 From Crashing on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/afarichrome-youtube-on-the-move-autoplay-options-for-2024/"><u>[New] Safari/Chrome YouTube On-the-Move AutoPlay Options for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-silent-youtube-browsing-for-iphones-and-androids/"><u>[Updated] Silent YouTube Browsing for iPhones and Androids</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/3-easy-and-cost-free-methods-to-turn-your-mp3-files-into-an-audio-compact-disc/"><u>3 Easy & Cost-Free Methods to Turn Your MP3 Files Into an Audio Compact Disc</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/apricorn-ez-gig-iv-alternate-internal-fix-resolution-steps/"><u>Apricorn EZ Gig IV Alternate Internal Fix: Resolution Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-guide-asus-bt400/"><u>Download and Setup Guide: Asus BT400</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eradicate-your-pc-playthrough-problems-elite-strategies-to-resolve-troy-total-war-issues/"><u>Eradicate Your PC Playthrough Problems: Elite Strategies to Resolve 'Troy' Total War Issues.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-getting-the-paradoe-launcher-up-and-running-again/"><u>Expert Advice on Getting the Paradoe Launcher Up and Running Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcoming-steam-connection-issues-with-server/"><u>Fixes & Solutions: Overcoming Steam Connection Issues with Server</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004192507-fixing-valheims-pc-performance-stop-freezing-and-stuttering-issues/"><u>Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-script-mastery-online-academy/"><u>In 2024, Script Mastery Online Academy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>In 2024, Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-overcome-latency-spikes-and-improve-gameplay-performance-in-bless-unleashed-tips-and-tricks/"><u>Optimizing Your PC to Overcome Latency Spikes & Improve Gameplay Performance in Bless Unleashed: Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-steam-lag-with-easy-to-follow-optimization-techniques/"><u>Overcome Steam Lag with Easy-to-Follow Optimization Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-launch-fixes-and-updates-now-available-for-days-gone-action-game/"><u>PC Launch: Fixes and Updates Now Available for 'Days Gone' Action Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/phasmophobia-loader-how-to-proceed-beyond-the-stubborn-90-mark-in-latest-2024-release/"><u>Phasmophobia Loader: How to Proceed Beyond the Stubborn 90% Mark in Latest 2024 Release</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-case-against-downloading-chatgpt-on-your-smartphone/"><u>The Case Against Downloading ChatGPT on Your Smartphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-resolving-paladins-game-crashes/"><u>Top Strategies for Resolving Paladins Game Crashes</u></a></li>
 </ul></div>
 

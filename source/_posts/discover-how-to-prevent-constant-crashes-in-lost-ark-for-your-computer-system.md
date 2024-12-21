@@ -1,7 +1,7 @@
 ---
 title: Discover How to Prevent Constant Crashes in Lost Ark for Your Computer System
-date: 2024-08-28T06:20:01.681Z
-updated: 2024-08-29T06:20:01.681Z
+date: 2024-12-13T20:20:14.003Z
+updated: 2024-12-19T16:23:51.600Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 New Grounded patch is live! However, many players reported that Grounded keeps crashing and it’s literally unplayble. If you run into the same problem, don’t worry. Here’re 6 simple methods to fix it right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick for you.
@@ -27,6 +31,10 @@ New Grounded patch is live! However, many players reported that Grounded keeps c
 4. **[Switch to DirectX 11 in the game setting](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Play single-player in the offline mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Make sure your PC meets the minimum specs for Grounded
 
@@ -45,32 +53,24 @@ Here are Grounded’s minimum specs:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**dxdiag** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-0.jpg)
 
 **2)** Check the information about your**operating system** ,**processor** , and**memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Display** tab and check your graphics card’s information.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
 
  If your computer isn’t geared up for the game, then it’s time to upgrade your PC. If you have perfect PC specs but still see the crashing problem, then read on to find out more fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Temporarily disable your anti-virus programs
 
  Anti-virus programs can interfere with Grounded and stop it from running properly. To test if they’re the causes, you could temporarily disable your anti-virus programs and relaunch Grounded.
@@ -107,9 +107,6 @@ If the problem persists, move towards the next fix.
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -131,22 +128,20 @@ If the problem persists, move towards the next fix.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**dxdiag** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have an older version such as DirectX 10 or DirectX 9, you may need to **[update DirectX](https://tools.techidaily.com/drivereasy/download/)**  to run the game.
 
 **3)** Launch Steam, and click the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
@@ -169,6 +164,10 @@ If the problem persists, move towards the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Game data that is missing or corrupted also results in the Grounded crashing issue. You can let Steam check and repair the game files and cache, and this takes a few steps.
@@ -177,25 +176,29 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right click**Grounded** on the game list, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
 
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Play single-player in the offline mode
 
@@ -203,30 +206,22 @@ If the problem persists, move towards the next fix.
 
 **1)** Click**Steam** and then click**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1.jpg)
 
 **2)** Ensure the**Don’t save account credentials on this computer option** isn’t ticked. Then, click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
 **3)** Click**Steam** and click**Go offline** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Restart in offline mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
 
 Launch Steam. Then, play the game in single-player and see how it works.
@@ -247,8 +242,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +249,23 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-contentment-top-streaming-techniques/"><u>[New] Capturing Contentment Top Streaming Techniques</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-everything-uncovered-about-the-world-of-yt-shorts/"><u>[New] Everything Uncovered About the World of YT Shorts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-building-podcast-rss/"><u>[New] The Ultimate Guide to Building Podcast RSS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-how-to-capture-and-share-your-games-online/"><u>[Updated] 2024 Approved How to Capture and Share Your Games Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-fixed-resolving-ui-error-code-27711/"><u>Black Ops Cold War Fixed: Resolving UI Error Code 27711</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-avoiding-sudden-interruptions-in-the-latest-resident-evil-4-remake/"><u>Effective Fixes for Avoiding Sudden Interruptions in the Latest Resident Evil #4 Remake</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-overcome-battlefield-n-2042s-directx-error-messages/"><u>Effective Fixes to Overcome Battlefield N 2042'S DirectX Error Messages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-reactivate-your-corsair-icue-with-windows-nn-update/"><u>Effective Solutions to Reactivate Your Corsair iCUE with Windows nN Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-warzone-crash-with-guide-to-fixing-dev-error-5573-pc-and-console-edition/"><u>Eliminate Warzone Crash with Guide to Fixing Dev Error 5573 - PC & Console Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-linksys-wrt32x-advanced-wifi-router-cutting-edge-smart-connectivity-unleashed/"><u>Expert Analysis of the Linksys WRT32X Advanced WiFi Router: Cutting-Edge Smart Connectivity Unleashed</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-upgrade-intelligent-hd-graphics-support-in-windows/"><u>How to Upgrade Intelligent HD Graphics Support in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/job-security-alert-navigating-the-dangers-of-chatgpt-in-your-employment/"><u>Job Security Alert: Navigating the Dangers of ChatGPT in Your Employment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/live-streaming-made-easy-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Made Easy with ManyCam - Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-game-crashes-master-troubleshooting-assassins-creed-odyssey-for-smooth-pc-gaming-experience/"><u>No More Game Crashes: Master Troubleshooting Assassin's Creed Odyssey for Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-hp-monitor-issues-when-it-stops-functioning/"><u>Resolved: Fixing HP Monitor Issues When It Stops Functioning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-yuva-3-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Yuva 3 Pro Users</u></a></li>
+</ul></div>
 

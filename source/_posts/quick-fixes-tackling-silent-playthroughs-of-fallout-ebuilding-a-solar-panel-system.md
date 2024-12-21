@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Tackling Silent Playthroughs of Fallout Ebuilding a Solar Panel System"
-date: 2024-08-23T17:25:56.025Z
-updated: 2024-08-24T17:25:56.025Z
+date: 2024-12-14T21:44:51.871Z
+updated: 2024-12-19T22:04:27.479Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing experience that captivates players around the world. While the game is well-optimized, some enthusiasts encounter a vexing challenge: high CPU usage during gameplay. This guide unveils**six proven solutions** that can help you conquer**Baldur’s Gate 3 high CPU usage** issue and relish a seamless adventure.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Baldur’s Gate 3 high CPU usage?
 
  You don’t need to try them all. Just work your way down the list until you find the one that fixes the problem for you.
@@ -32,8 +29,9 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Before we begin
 
  Prior to diving into these fixes, it’s vital to ensure **your computer meets the game’s minimum system requirements** . Consult the table below to confirm your setup aligns with the game’s prerequisites:
@@ -54,14 +52,13 @@ To ascertain your computer’s specifications:
 2. Type **DxDiag**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-48-41.png)
 3. Now you can check your system information under the **System**  tab.  
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
@@ -77,9 +74,6 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/de-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
  Or, you can click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-graphics-card-1.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -92,14 +86,25 @@ To ascertain your computer’s specifications:
 
 1. Press the**Windows logo key** and**I** on your keyboard to invoke Settings.
 2. Select**System** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-54.png)
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open the game to check for any improvement.
 
@@ -113,11 +118,13 @@ Open the game to check for any improvement.
 2. In the Process tab, right-click on**Baldur’s Gate 3.exe** and select**Go to details** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
 
 Note: You may need to repeat this process each time you launch the game.
@@ -127,23 +134,27 @@ Note: You may need to repeat this process each time you launch the game.
  Setting an individual game with high-performance graphics might reduce its CPU usage. That’s because anything that requires GPU in the game will be using GPU, instead of CPU. However, this method has no guaranteed results. You can switch between different modes to see which one works better in easing the Baldur’s Gate 3 high cpu usage headache.
 
 1. Type**graphics settings** in the Windows search bar and click**Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch the game again to check if the problem has been fixed.
 
@@ -152,19 +163,15 @@ Launch the game again to check if the problem has been fixed.
  Running too many programs and processes absolutely lowers your system response time. When your GPU and CPU need more time to handle the data transition, it’s usual for game stuttering to occur, even with high FPS. And these tasks add burdens to your CPU usage. To have a better insight into what’s slowing down your system and end those unnecessary tasks, follow these steps:
 
 1. Right-click the taskbar and select **Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
 Go back to your game to see if it works smoother.
@@ -179,9 +186,6 @@ Go back to your game to see if it works smoother.
 2. Open Fortect and click **Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -198,8 +202,6 @@ Go back to your game to see if it works smoother.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +209,26 @@ Go back to your game to see if it works smoother.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails-for-2024/"><u>[New] Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-visualizing-perfection-our-1-10-camera-lens-picks-for-amazing-photography-for-2024/"><u>[New] Visualizing Perfection Our #1-10 Camera Lens Picks for Amazing Photography for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-titanfall-2-keeps-crashing-quickly-and-easily/"><u>[Solved] Titanfall 2 Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-click-your-way-to-fun-top-12-pc-titles-of-2021/"><u>[Updated] Click Your Way to Fun Top 12 PC Titles of 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-the-crash-overcome-halo-infinite-keeps-freezing-on-your-computer-using-7-easy-fixes/"><u>Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes!</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/customized-user-experience-enabled-by-cookiebot-technology/"><u>Customized User Experience Enabled by Cookiebot Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-lag-a-step-by-step-guide-to-resolve-mw2s-dev-error-6068-tailored/"><u>Defeating Lag: A Step-by-Step Guide to Resolve MW2's Dev Error 6068 (Tailored )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-pc-step-by-step-guide/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-and-mouse-stop-working-after-sleep-on-windows-11-solved/"><u>Keyboard & Mouse Stop Working After Sleep on Windows 11 [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-instance-connection-in-path-of-exile-comprehensive-fixes-and-tips/"><u>Mastering Instance Connection in Path of Exile: Comprehensive Fixes & Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-numeric-adjustments-in-tiktok-videos/"><u>Mastering Numeric Adjustments in TikTok Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-tackling-persistent-freezes-in-warframe/"><u>Overcoming Gameplay Disruptions: Tackling Persistent Freezes in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-implemented-for-warzone-game-failure-to-start/"><u>Resolved: Fixes Implemented for Warzone Game Failure to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-discord-glitches-for-a-smooth-streaming-experience-a-step-by-step-guide/"><u>Resolving Discord Glitches for a Smooth Streaming Experience: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-recurring-content-warning-failures-in-windows-systems/"><u>Step-by-Step Guide to Resolve Recurring Content Warning Failures in Windows Systems</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-the-aftermath-of-conflict-a-deep-dive-into-the-effects-of-the-sino-japanese-war/"><u>Unveiling the Aftermath of Conflict: A Deep Dive Into the Effects of the Sino-Japanese War</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-steps-for-instant-video-playback-from-youtube-to-facebook-pages-for-2024/"><u>Unveiling the Steps for Instant Video Playback From Youtube to Facebook Pages for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-arm-support-arrives-filmora-x-update-now-live/"><u>Updated 2024 Approved ARM Support Arrives Filmora X Update Now Live</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/yl-computing-celebrates-stitchs-birthday-with-exclusive-themed-graphics-and-digital-wallpaper-collection/"><u>YL Computing Celebrates Stitch's Birthday with Exclusive Themed Graphics & Digital Wallpaper Collection</u></a></li>
+</ul></div>
 

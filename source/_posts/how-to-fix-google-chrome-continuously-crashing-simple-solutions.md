@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Google Chrome Continuously Crashing: Simple Solutions"
-date: 2024-12-12T20:32:54.789Z
-updated: 2024-12-18T23:01:39.402Z
+date: 2024-12-17T20:17:43.044Z
+updated: 2024-12-19T19:32:09.905Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
  If you find your chrome becomes slower than usual, don’t worry! You’re not alone. Many users are reporting this annoying issue.
 
  The good news is you can fix it on your own. You should be able to fix the Chrome slow issue easily with the fixes we list below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -44,15 +48,7 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable the Chrome apps and extensions you don’t need
 
@@ -65,10 +61,14 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Enable the prediction service on your Chrome
 
@@ -78,14 +78,14 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this issue. If the issue persists, try clearing your old stuck browser data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear your old stuck browser data
 
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 2. Set the time range to**cover from when you started to use your browser till now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
@@ -118,15 +114,7 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check your PC for malware in your Chrome and reset your browser settings
 
@@ -150,11 +138,23 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset** and then click**Restore settings to their original defaults** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap36-2.jpg)
 3. Click**Reset settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
 
@@ -166,18 +166,18 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38.jpg)
 2. Wait until your Chrome updates itself to the latest version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap39.jpg)
 3. Reopen your Chrome.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip: Update your network driver
 
@@ -221,18 +221,20 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/disco-elysium-resolving-and-preventing-crashes-for-a-seamless-gameplay-experience-on-pc/"><u>'Disco Elysium': Resolving and Preventing Crashes for a Seamless Gameplay Experience on PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/elicious-dynamos-youtubers-for-your-food-journey-for-2024/"><u>[New] Delicious Dynamos YouTubers for Your Food Journey for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elite-emulators-for-budget-switch-games/"><u>[Updated] In 2024, Elite Emulators for Budget Switch Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>[Updated] Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-npc-bug-0x00001338-elimination-guide-restore-your-pc-gaming-experience-now/"><u>Call of Duty Vanguard NPC Bug (0X00001338) Elimination Guide: Restore Your PC Gaming Experience Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-fortnites-performance-hiccups-solving-vram-issues-quickly/"><u>Defeat Fortnite's Performance Hiccups: Solving VRAM Issues Quickly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-vivo-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Vivo lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-mix-fold-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Mix Fold 3 to Another | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-razr-40-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Razr 40 FRP Without Computer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-persistent-long-load-time-problems-in-fallout-4-tips-and-tricks/"><u>Solving Persistent LONG Load Time Problems in Fallout 4: Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-msi-afterburner-fails-to-detect-gpus-under-windows-1110/"><u>Troubleshooting Tips: When MSI Afterburner Fails to Detect GPUs Under Windows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixed-how-to-stop-the-game-helldivers-2-from-freezing-on-your-computer/"><u>Ultimate Guide: Fixed! - How to Stop the Game 'Helldivers 2' From Freezing on Your Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-securing-your-content-adobe-presenter-captures/"><u>[New] In 2024, Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-video-movie-maker-for-windows-8/"><u>[Updated] In 2024, Video Movie Maker for Windows 8</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-visual-storytelling-scribing-text-over-image-realms-online/"><u>[Updated] Visual Storytelling Scribing Text over Image Realms Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics/"><u>2024 Approved Navigating the World of IG Data An Expert Guide to Understanding Metrics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-gaming-experience-fixes-for-assassins-creed-valhalla-slowdown/"><u>Accelerate Your Gaming Experience - Fixes for Assassin's Creed: Valhalla Slowdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010737663-banish-your-woes-in-star-wars-jedi-fallen-order-squadron-with-fixes-for-critical-errors/"><u>Banish Your Woes in Star Wars Jedi: Fallen Order Squadron with Fixes for Critical Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-on-samsung-galaxy-tab-s5e-top-android-tablet-for-tech-enthusiasts/"><u>Expert Review on Samsung Galaxy Tab S5e - Top Android Tablet for Tech Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-common-age-of-empires-4-stuttering-problems-proven-techniques/"><u>Fixing Common Age of Empires 4 Stuttering Problems: Proven Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplicity-in-capturing-your-lenovo-pics/"><u>In 2024, Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus 12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-sims-4-visual-bliss-eliminating-video-card-glitches/"><u>Master The Sims 4 Visual Bliss: Eliminating Video Card Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-how-left-4-dead-2-got-rid-of-its-crash-problems/"><u>Smooth Sailing: How Left 4 Dead 2 Got Rid of Its Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-solutions-for-eos-login-failures/"><u>Troubleshooting PalWorld: Solutions for EOS Login Failures</u></a></li>
 </ul></div>
 

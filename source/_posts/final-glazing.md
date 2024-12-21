@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-12-18T06:09:40.834Z
-updated: 2024-12-19T09:02:13.321Z
+date: 2024-12-12T22:04:50.764Z
+updated: 2024-12-19T17:18:18.613Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ FIFA 20 DirectX Error
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For FIFA 20 DirectX Error
@@ -54,13 +54,13 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -70,10 +70,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -81,10 +77,6 @@ FIFA 20 DirectX Error
  So if you have any controllers plugged into your computer, you can remove them. Then launch FIFA 20 again to see if the error is solved. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Modify fifasetup.ini**
 
@@ -95,7 +87,7 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
@@ -113,6 +105,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -124,6 +120,10 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -186,19 +186,17 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-tomorrows-reflection-varied-solutions/"><u>[New] 2024 Approved Tomorrow’s Reflection Varied Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-consistent-viewing-automatic-youtube-video-playback-on-tv/"><u>[Updated] 2024 Approved Consistent Viewing Automatic YouTube Video Playback on TV</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-dissecting-youtubes-operational-model-post-upload/"><u>[Updated] Dissecting YouTube's Operational Model Post-Upload</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-economical-desktop-encoders-under-100/"><u>[Updated] In 2024, Top Economical Desktop Encoders Under $100</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-launch-problems-in-call-of-duty-warzone/"><u>Addressing and Repairing Launch Problems in Call of Duty: Warzone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/beginners-guide-to-video-capture-with-logitech-cam-for-2024/"><u>Beginner's Guide to Video Capture with Logitech Cam for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-stellar-video-beginnings-with-free-tools-for-2024/"><u>Crafting Stellar Video Beginnings with Free Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-logitech-c92eb-camera-functionality/"><u>Diagnosing and Restoring Your Logitech C92eb Camera Functionality</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitechs-latest-webcam-drivers-at-no-cost-compatible-with-all-windows-systems/"><u>Download Logitech's Latest Webcam Drivers at No Cost – Compatible with All Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-bootup-breakdowns-effective-fixes-for-fall-guys-not-starting-properly/"><u>Eliminating Bootup Breakdowns: Effective Fixes for Fall Guys Not Starting Properly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-in-place-for-seamless-play-grand-theft-auto-vs-gta-nv-stuttering-problem-solved/"><u>Fixes in Place for Seamless Play: Grand Theft Auto V's (GTA Nv) Stuttering Problem Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-darkness-resolving-your-halo-infinites-screen-issue/"><u>How to Overcome Darkness: Resolving Your Halo Infinite's Screen Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jest-jamboree-utilizing-comic-tools-for-free-for-2024/"><u>Jest Jamboree Utilizing Comic Tools for Free for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mohu-blade-tv-antenna-review/"><u>Mohu Blade TV Antenna Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-supercharge-youtube-traffic-with-key-hash-tags/"><u>[New] Supercharge YouTube Traffic with Key Hash Tags</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-youtube-free-convert-your-fb-videos-into-720p1080p-mp4-online-guide/"><u>[New] YouTube-Free Convert Your FB Videos Into 720P/1080p MP4 Online Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-setting-up-facebook-live-your-roku-route/"><u>[Updated] 2024 Approved Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-stepwise-instructions-enabling-or-disabling-youtubes-pip-mode-for-2024/"><u>[Updated] Stepwise Instructions Enabling or Disabling YouTube's PIP Mode for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-a-closer-look-at-luminance-and-its-hdr-achievements/"><u>2024 Approved A Closer Look at Luminance and Its HDR Achievements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-gt-neo-5-se-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from GT Neo 5 SE.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007498244-discover-cod-modern-warfare-the-latest-first-person-shooter-sensation/"><u>Discover COD: Modern Warfare - The Latest First-Person Shooter Sensation!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-warzone-glitches-a-step-by-step-solution-for-the-notorious-directx-error/"><u>Eliminate Warzone Glitches: A Step-by-Step Solution for the Notorious 'DirectX Error'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-rainbow-six-connection-error-with-these-easy-steps/"><u>Fixing Your Rainbow Six Connection Error with These Easy Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-your-bargain-priced-85-inch-tcl-smart-tv-before-its-gone-just-900-during-the-holiday-weekend-exclusive-deals-at-zdnet/"><u>Grab Your Bargain-Priced 85-Inch TCL Smart TV Before It's Gone! Just $900 During the Holiday Weekend - Exclusive Deals at ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-how-to-improve-frame-rates-and-reduce-stuttering-in-the-ascent/"><u>Optimizing Your Experience: How to Improve Frame Rates & Reduce Stuttering in The Ascent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enable-missing-thx-immersive-audio-on-windows-1110-devices/"><u>Step-by-Step Solution: Enable Missing THX Immersive Audio on Windows 11/10 Devices</u></a></li>
 </ul></div>
 

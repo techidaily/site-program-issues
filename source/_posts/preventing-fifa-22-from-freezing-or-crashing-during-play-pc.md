@@ -1,7 +1,7 @@
 ---
 title: Preventing FIFA 22 From Freezing or Crashing During Play (PC)
-date: 2024-12-11T16:42:15.372Z
-updated: 2024-12-18T22:02:09.142Z
+date: 2024-12-17T03:09:20.534Z
+updated: 2024-12-20T01:07:02.015Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ## Essential Fixes and Tips to Stop Dauntless From Freezing or Crashing on Windows
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Dauntless Crash On PC
 
@@ -57,10 +53,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,13 +67,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -90,6 +82,10 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -119,14 +115,22 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
@@ -138,10 +142,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -166,24 +166,20 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-professional-smoothness-blurring-the-video-backdrop/"><u>[Updated] 2024 Approved Professional Smoothness Blurring the Video Backdrop</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>[Updated] In 2024, 5 Key Strategies to Correct iPhone HDRI Premiere Pro Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-startup-problems-for-helldivers-2-on-steam-effective-strategies-and-fixes/"><u>Bypassing Startup Problems for Helldivers 2 on Steam: Effective Strategies and Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/downloading-and-updating-logitech-g403-keyboard-drivers-a-step-by-step-guide/"><u>Downloading and Updating Logitech G403 Keyboard Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effiziente-methode-zum-backup-von-daten-auf-ihrem-pc-mit-windows/"><u>Effiziente Methode Zum Backup Von Daten Auf Ihrem PC Mit Windows 지원</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-diablo-2-resurrected-crashes-solutions-and-tips/"><u>Fixing Diablo 2 Resurrected Crashes: Solutions and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-and-crashes-in-call-of-dutys-newest-battle-royale-update/"><u>Fixing Persistent Lag & Crashes in Call of Duty's Newest Battle Royale Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-computer-from-crashing-during-fortnite-gaming-sessions-2024-solutions/"><u>How to Prevent Your Computer From Crashing During Fortnite Gaming Sessions - 2024 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-a60s-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel A60s? Try These Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kickstarting-your-journey-in-the-field-of-prompt-engineering/"><u>Kickstarting Your Journey in the Field of Prompt Engineering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002707338-pc-players-struggle-with-everspace-ii-but-solutions-exist-learn-them-now/"><u>PC Players Struggle With Everspace II, But Solutions Exist – Learn Them Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-starfields-audio-problems-seamless-playback-no-cuts-or-jumps-anymore/"><u>Resolving Starfield's Audio Problems: Seamless Playback, No Cuts or Jumps Anymore</u></a></li>
-<li><a href="https://facebook.techidaily.com/silencing-suggested-content-on-major-platforms/"><u>Silencing Suggested Content on Major Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-and-server-sync-addressing-connectivity-problems-now-resolved/"><u>Steam and Server Sync: Addressing Connectivity Problems Now Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-ending-battlefield-1s-persistent-crash-issues/"><u>Step-by-Step Guide: Ending Battlefield 1'S Persistent Crash Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-efficiently-reducing-file-size-using-adobe-media-encoder/"><u>Step-by-Step Tutorial on Efficiently Reducing File Size Using Adobe Media Encoder</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streaming-mastery-record-hulu-playback-on-multiple-systems-for-2024/"><u>Streaming Mastery Record Hulu Playback on Multiple Systems for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-duos-journey-two-player-minecraft-on-switch/"><u>The Ultimate Duo's Journey: Two-Player Minecraft on Switch</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nail-scaling-techniques-for-youtube-for-2024/"><u>Thumbnail Scaling Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-zeo-startup-showcase-for-2024/"><u>[Updated] The Ultimate Zeo-Startup Showcase for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieving-seamless-gameplay-tips-for-fixing-lags-and-boosting-frames-in-valorant/"><u>Achieving Seamless Gameplay - Tips for Fixing Lags & Boosting Frames in Valorant</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-m14-4g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy M14 4G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-fixes-for-users-facing-non-responsive-vrchat-experiences/"><u>Complete Fixes for Users Facing Non-Responsive VRChat Experiences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-logitech-g-hub-not-responding-errors-for-windows-users/"><u>How to Resolve 'Logitech G Hub Not Responding' Errors for Windows Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lamptrons-latest-cpu-cooler-a-dual-purpose-device-with-iphone-15-screen-size-and-high-resolution-display/"><u>Introducing Lamptron's Latest CPU Cooler: A Dual-Purpose Device with iPhone 15 Screen Size & High-Resolution Display</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-unlocking-your-game-from-the-stuck-update-loop-with-ease/"><u>Microsoft Flight Simulator 2020: Unlocking Your Game From the Stuck Update Loop with Ease</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-animated-videos-like-a-pro-top-online-tools-and-makers/"><u>New 2024 Approved Make Animated Videos Like a Pro Top Online Tools and Makers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sounds-to-your-anthem-experience-on-windows-10-devices/"><u>Restoring Sounds to Your Anthem Experience on Windows 10 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-for-resolving-lols-persistent-black-screen-problem/"><u>Step-by-Step Strategy for Resolving LoL's Persistent Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-dual-forces-behind-a-successful-product-launch-insights-revealed/"><u>The Dual Forces Behind a Successful Product Launch: Insights Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-grand-theft-auto-5-stuttering-problems-fixed/"><u>Troubleshooting Guide for Grand Theft Auto 5 Stuttering Problems, Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-sound-gear-on-switch-console/"><u>Ultimate Sound Gear on Switch Console</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
 

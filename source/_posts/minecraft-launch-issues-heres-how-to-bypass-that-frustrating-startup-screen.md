@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launch Issues? Here's How to Bypass That Frustrating Startup Screen
-date: 2024-12-14T20:18:05.936Z
-updated: 2024-12-18T19:53:26.178Z
+date: 2024-12-17T03:07:42.262Z
+updated: 2024-12-19T18:37:53.123Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Launch the game in windowed mode
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 4. Close the**Properties** window and launch the game.
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
@@ -72,6 +72,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,6 +83,10 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -93,10 +101,6 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -107,11 +111,11 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
 
@@ -124,19 +128,19 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
@@ -150,10 +154,6 @@ If the issue remains, take a look at the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -180,18 +180,22 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-apex-legends-gameplay-reimagined-for-solo-devotees-without-cross-play-for-2024/"><u>[New] Apex Legends Gameplay Reimagined for Solo Devotees without Cross-Play for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-accessible-multilingual-content-on-igtv-for-2024/"><u>[New] Creating Accessible Multilingual Content on IGTV for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unleash-your-creative-potential-free-voice-effects-at-hand/"><u>[New] Unleash Your Creative Potential Free Voice Effects at Hand</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-streamline-your-playback-the-ultimate-guide-to-roblox-replays-on-a-mac-for-2024/"><u>[Updated] Streamline Your Playback The Ultimate Guide to Roblox Replays on a Mac for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-a-smooth-game-with-the-newly-fixed-pacific-server-issues-in-call-of-duty-warzone/"><u>Enjoy a Smooth Game with the Newly Fixed Pacific Server Issues in Call of Duty: Warzone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994160862-ghostwire-tokyo-on-pc-say-goodbye-to-crashes-and-enjoy-seamless-gaming/"><u>Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-no-sound-problem-while-streaming-on-twitch/"><u>How I Fixed the No Sound Problem While Streaming on Twitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-overcome-technical-glitches-in-total-war-saga-troy-for-pc-gamers/"><u>Mastering Stability: Overcome Technical Glitches in Total War Saga: Troy for PC Gamers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/motivation-on-playlist-the-leading-workout-song-picks-for-2024/"><u>Motivation on Playlist The Leading Workout Song Picks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-not-responding-heres-how-you-can-overcome-the-2024-hurdles/"><u>Steam Not Responding? Here's How You Can Overcome the 2024 Hurdles!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-pc-crashes-in-r-type-final-2-a-step-by-step-guide/"><u>Troubleshooting Persistent PC Crashes in R-Type Final 2 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-whiteboard-animation-software-for-windows-and-mac-top-10-picks/"><u>Updated In 2024, Free Whiteboard Animation Software for Windows and Mac Top 10 Picks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c55-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C55 Phone Network-Ready</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-elite-list-top-9-drone-video-editors-by-competence/"><u>[Updated] 2024 Approved The Elite List Top 9 Drone Video Editors by Competence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-behance-portfolio-image-constraints/"><u>[Updated] In 2024, Behance Portfolio Image Constraints</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-ffxiv-version-mismatch-tips-for-accurate-check-completion/"><u>Addressing FFXIV Version Mismatch – Tips for Accurate Check Completion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-oversight-four-potential-regulatory-avenues/"><u>Artificial Intelligence Oversight: Four Potential Regulatory Avenues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-fixing-the-division-2-frame-rate-issues/"><u>Boost Your Gaming Experience: Fixing The Division 2 Frame Rate Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-instructions-to-automatically-launch-apps-with-admin-authority-in-windows-11/"><u>Complete Instructions to Automatically Launch Apps with Admin Authority in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-prime-day-offers-upgrade-your-home-with-narwals-latest-innovative-robot-vacuum-and-mop-technology/"><u>Exclusive Prime Day Offers: Upgrade Your Home with Narwal's Latest Innovative Robot Vacuum & Mop Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-dauntless-pc-issues-how-to-stop-the-game-from-crashing/"><u>Fixing Dauntless PC Issues: How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-this-accessory-may-not-be-supported-on-an-iphone/"><u>How to Fix This Accessory May Not Be Supported on an iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-game-from-crashing-tips-and-fixes-for-left-4-dead-2/"><u>How to Stop Your Game From Crashing: Tips and Fixes for Left 4 Dead 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-and-use-your-graphics-card-with-cyberpunk-2077-on-windows-11/"><u>How to Troubleshoot and Use Your Graphics Card with Cyberpunk 2077 on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-nord-ce-3-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Nord CE 3 5G Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-optimizing-discord-for-minimal-cpu-impact-2024-edition/"><u>Master the Art of Optimizing Discord for Minimal CPU Impact - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-frame-rates-in-valheim-expert-advice-for-combating-lag-and-low-fps/"><u>Maximizing Frame Rates in Valheim: Expert Advice for Combating Lag and Low FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/tests-complets-sur-la-recuperation-de-fichiers-avec-windows-performe-t-il-reellement/"><u>Tests Complets Sur La Récupération De Fichiers Avec Windows - Performe-T-Il Réellement?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-future-of-editing-shines-with-magix-video-pro-x/"><u>The Future of Editing Shines with Magix Video Pro X</u></a></li>
 </ul></div>
 

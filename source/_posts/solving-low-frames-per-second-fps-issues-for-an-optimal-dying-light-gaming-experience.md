@@ -1,7 +1,7 @@
 ---
 title: Solving Low Frames Per Second (FPS) Issues for an Optimal Dying Light Gaming Experience
-date: 2024-12-16T19:08:11.357Z
-updated: 2024-12-18T16:32:06.056Z
+date: 2024-12-17T20:25:37.330Z
+updated: 2024-12-19T18:15:23.272Z
 tags:
   - win11
   - win10
@@ -26,17 +26,9 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -50,6 +42,10 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -62,10 +58,6 @@ Follow the steps below to fix the crashing issue.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -86,17 +78,9 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -110,12 +94,12 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -130,11 +114,23 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
@@ -142,13 +138,17 @@ Restart your computer for the changes to take effect.
 7. For Maximum size, you need to check your Ram of PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -169,15 +169,24 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-digging-deeper-into-uncomplicated-hdr-methods/"><u>[New] 2024 Approved Digging Deeper Into Uncomplicated HDR Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>2024 Approved Conquer the Clouds Recording and Preserving Streaming Radios</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-glitches-step-by-step-solutions-for-persistent-pc-gaming-crashes/"><u>Beat the Glitches: Step-by-Step Solutions for Persistent PC Gaming Crashes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-laserjet-p1606dn-printer-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP LaserJet P1606dn Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-boosting-sims-4-pc-performance-this-year/"><u>Expert Advice for Boosting Sims 4 PC Performance This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-ending-manor-lords-pc-gameplay-interruptions/"><u>Expert Advice: Ending Manor Lords PC Gameplay Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-stutter-and-hangs/"><u>Guide to Fixing Path of Exile Stutter and Hangs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastery-guide-for-instagrams-favorite-interrogation-icon/"><u>In 2024, Mastery Guide for Instagram's Favorite Interrogation Icon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-smart-tv-purchases-7-tips-to-make-an-informed-decision/"><u>Navigating Smart TV Purchases: 7 Tips to Make an Informed Decision</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-superior-apple-watch-series-4-analysis-surpassing-the-previous-generation/"><u>The Superior Apple Watch Series 4 Analysis: Surpassing the Previous Generation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-audio-quality-boost-for-skype-calls/"><u>[New] 2024 Approved Audio Quality Boost for Skype Calls</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-becoming-an-active-participant-in-tiktok-lives/"><u>[New] Becoming an Active Participant in TikTok Lives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-dark-art-of-night-photography-best-practices-revealed/"><u>[New] The Dark Art of Night Photography Best Practices Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-complete-breakdown-of-color-tuning-methods/"><u>[Updated] A Complete Breakdown of Color Tuning Methods</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-handbook-to-drone-video-editing/"><u>2024 Approved The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-problems-master-the-fix-with-these-proven-techniques/"><u>Code Vein Freezing Problems? Master the Fix with These Proven Techniques!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-warzone-not-using-gpu-issues-in-windows-10-systems/"><u>Diagnosing and Solving 'Warzone Not Using GPU' Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-game-time-continuity-the-complete-breakdown-and-assessment-of-a-premium-gamers-power-backup-solution/"><u>Enhancing Game-Time Continuity: The Complete Breakdown and Assessment of a Premium Gamer's Power Backup Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-conversational-agents-which-one-is-better-chatgpt-or-huggingchat/"><u>Exploring AI Conversational Agents: Which One Is Better, ChatGPT or HuggingChat?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-safeguarding-your-music-three-recording-approaches/"><u>In 2024, Safeguarding Your Music Three Recording Approaches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-solutions-to-fix-a-non-responsive-rust-application-tips-and-insights/"><u>Latest Solutions to Fix a Non-Responsive Rust Application: Tips and Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-geforce-troubleshooting-fixes-and-tips-to-keep-your-graphics-software-running-smoothly/"><u>Mastering GeForce Troubleshooting: Fixes and Tips to Keep Your Graphics Software Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-overcoming-lags-and-jitters-in-splitgates-fps/"><u>Optimize Your Gaming Experience: Overcoming Lags & Jitters in Splitgate's FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-stuck-on-loading-screen-heres-the-solution/"><u>Roblox Stuck on Loading Screen? Here's the Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sharpen-your-ais-focus-with-these-tactics-how-to-cut-down-on-hallucinations-through-expertly-crafted-prompts/"><u>Sharpen Your AI's Focus with These Tactics: How To Cut Down on Hallucinations Through Expertly Crafted Prompts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-for-maplestory-startup-error-get-back-to-adventure/"><u>Solution Found for MapleStory Startup Error – Get Back to Adventure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-immortals-fenyx-risings-release-date-went-awry-now-clarified/"><u>Why Immortals Fenyx Rising's Release Date Went Awry [Now Clarified]</u></a></li>
 </ul></div>
 

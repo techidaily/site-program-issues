@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Update Issues - Steps to Resolve a Failed Game Start
-date: 2024-08-23T17:24:43.206Z
-updated: 2024-08-24T17:24:43.206Z
+date: 2024-12-19T01:23:10.787Z
+updated: 2024-12-20T02:36:09.042Z
 tags:
   - win11
   - win10
@@ -32,17 +32,15 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type**taskmgr** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
@@ -52,31 +50,34 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type_**%AppData%**_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 5. Type_**%LocalAppData%**_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -98,10 +99,12 @@ OR
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
@@ -113,8 +116,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +123,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-breaking-boundaries-in-video-content-creation-within-limit/"><u>[New] In 2024, Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-future-of-followers-posting-in-the-wake-of-changes/"><u>[Updated] 2024 Approved The Future of Followers Posting in the Wake of Changes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nces-delighted-best-editors-to-transform-youtube-shorts-for-2024/"><u>Audiences Delighted Best Editors to Transform Youtube Shorts for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/coolmuster/products/"><u>Coolmuster's Products</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-y78-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Y78 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-ffxiv-inability-to-finalize-version-upgrade-process/"><u>Fixing FFXIV Inability to Finalize Version Upgrade Process</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-continuous-pc-crash-issues-in-arcadegeddon-fixed/"><u>How to Overcome Continuous PC Crash Issues in Arcadegeddon [FIXED]</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-fixes-for-sudden-fps-dips-in-pc-games/"><u>Mastering Stability: Fixes for Sudden FPS Dips in PC Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-issues-with-avatar-frontiers-of-pandora-a-comprehensive-guide-to-solve-pc-game-crashes/"><u>Navigating Issues with Avatar Frontiers of Pandora - A Comprehensive Guide to Solve PC Game Crashes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/on-air-innovations-code-or-circuitry-prevails-in-2024/"><u>On-Air Innovations Code or Circuitry Prevails, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-compatible-driver-or-hardware-error-in-rainbow-six-extraction-a-step-by-step-guide/"><u>Resolving 'No Compatible Driver or Hardware' Error in Rainbow Six Extraction - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989913932-stardew-valley-wont-start-follow-these-steps-to-get-it-running-again/"><u>Stardew Valley Won’t Start? Follow These Steps to Get It Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-crash-issues-in-yakuza-nthe-song-of-life-for-windows-users/"><u>Troubleshooting Guide: Resolving Crash Issues in Yakuza nThe Song of Life for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474151947-why-cant-my-iphone-get-messages-from-an-android-let-us-help-you-fix-it/"><u>Why Can't My iPhone Get Messages From an Android? Let Us Help You Fix It!</u></a></li>
+</ul></div>
 

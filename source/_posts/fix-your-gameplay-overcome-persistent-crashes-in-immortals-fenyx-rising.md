@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gameplay: Overcome Persistent Crashes in Immortals: Fenyx Rising"
-date: 2024-08-28T06:19:05.696Z
-updated: 2024-08-29T06:19:05.696Z
+date: 2024-12-16T02:23:21.006Z
+updated: 2024-12-19T16:23:25.192Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -64,9 +68,6 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -74,8 +75,9 @@ Here’s how:
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -97,16 +99,19 @@ If this method doesn’t help, you can take a look at the next one.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,9 +119,6 @@ If this method doesn’t help, you can take a look at the next one.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -126,10 +128,11 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -145,8 +148,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-circlesmiths-arsenal/"><u>[New] 2024 Approved Circlesmith's Arsenal</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ailoring-transitional-terminations/"><u>[New] Tailoring Transitional Terminations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-diablo-3-keeps-crashing/"><u>[SOLVED] Diablo 3 Keeps Crashing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>[Updated] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-infuse-rhythm-to-instagram-music-guide/"><u>[Updated] Infuse Rhythm to Instagram Music Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/free-youtube-endings-that-stand-out-ranked-in-2024/"><u>Free YouTube Endings That Stand Out - Ranked, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007829552-geforce-glitches-heres-how-to-fix-and-prevent-the-unwanted-closure-error/"><u>GeForce Glitches? Here's How to Fix and Prevent the Unwanted Closure Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-not-running-smoothly-on-pc-heres-how-to-stop-the-endless-crashes/"><u>God of War Not Running Smoothly on PC? Here's How to Stop the Endless Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-freezing-in-tormented-souls-for-pc-users/"><u>How to Fix Continuous Freezing in Tormented Souls for PC Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y100-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y100 Phone Now with These Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-edgeplus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Edge+ (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-active-state-for-windows-11-user-interface/"><u>Reinstating Active State for Windows 11 User Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-steam-streaming-glitches-quick-fix-tips-for-remote-play/"><u>Solve Your Steam Streaming Glitches - Quick Fix Tips for Remote Play</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-definitive-2024-handbook-on-managing-and-fixing-discords-cpu-drain-issues/"><u>The Definitive 2024 Handbook on Managing and Fixing Discord's CPU Drain Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-a-smooth-dota-2-experience-overcome-lag/"><u>Top Strategies for a Smooth Dota 2 Experience – Overcome Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncovering-lost-melodies-fixing-sound-problems-in-your-fallout-4-game-on-pc/"><u>Uncovering Lost Melodies: Fixing Sound Problems in Your Fallout 4 Game on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Solving Kodi Network Errors: Failed Directory Access"
-date: 2024-12-14T20:42:12.885Z
-updated: 2024-12-18T16:52:14.419Z
+date: 2024-12-18T03:30:57.988Z
+updated: 2024-12-19T18:39:38.210Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
@@ -48,20 +52,20 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -119,33 +123,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -154,10 +158,6 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -189,21 +189,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/udiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-selection-of-mac-clipping-tools-for-2024/"><u>[New] The Ultimate Selection of Mac Clipping Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-to-eliminate-background-in-picsart/"><u>[Updated] 2024 Approved How to Eliminate Background in Picsart</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-standard-youtube-vs-creative-commons-liberty-clauses/"><u>[Updated] In 2024, Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-device-not-supported-error-on-winsta/"><u>Correcting 'Device Not Supported' Error on WinSta</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discover-whats-next-for-rainbow-six-siege-free-improvements-and-additions-coming/"><u>Discover What’s Next for Rainbow Six Siege – Free Improvements and Additions Coming !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-the-stuck-load-screen-in-forza-horizon-5-a-guide-to-7-effective-remedies/"><u>Escape the Stuck Load Screen in Forza Horizon 5: A Guide to 7 Effective Remedies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006145462-fix-your-fortnite-login-issues-fast-expert-solutions/"><u>Fix Your Fortnite Login Issues Fast: Expert Solutions!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-20c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 20C to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-track-to-time-lapse-magic-on-samsung-phones/"><u>In 2024, Fast Track to Time-Lapse Magic on Samsung Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-call-of-duty-warzone-crashes/"><u>Resolved: How to Fix Call of Duty Warzone Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-resolving-undetected-gpu-problems-with-msi-afterburner-on-new-windows-versions/"><u>Step-by-Step Fixes: Resolving Undetected GPU Problems with MSI Afterburner on New Windows Versions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-artific/"><u>Understanding Artific</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unleash-your-dj-potential-using-dex-3-pro-tools-guided-by-our-featured-expert-at-pcdj-studio/"><u>Unleash Your DJ Potential Using DEX 3 Pro Tools, Guided by Our Featured Expert at PCDJ Studio!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-the-mystery-of-crashes-in-cities-skylines-with-latest-2024-solutions/"><u>Untangle the Mystery of Crashes in Cities: Skylines with Latest 2024 Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-explore-ingenious-ways-to-modify-voices-for-free/"><u>[New] Explore Ingenious Ways to Modify Voices for FREE</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-videofetcher-download-from-social-sites/"><u>[Updated] In 2024, VideoFetcher Download From Social Sites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nocturnal-nuances-essential-tips-for-moonlit-portraiture-for-2024/"><u>[Updated] Nocturnal Nuances Essential Tips for Moonlit Portraiture for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-commandments-of-eye-catching-podcast-album-imagery/"><u>10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-v30-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo V30 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-archive-to-annotation-turning-zip-into-srt/"><u>From Archive to Annotation Turning ZIP Into SRT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-12plus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on 12+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-windows-compatibility-issues-with-davinci-resolve-software/"><u>Resolving Windows Compatibility Issues with DaVinci Resolve Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-non-functional-steelseries-gg-software-on-pc-with-windows-os/"><u>Solutions for Non-Functional SteelSeries GG Software on PC with Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-the-beast-a-step-by-step-guide-to-resolving-titanfall-2-issues/"><u>Taming the Beast: A Step-by-Step Guide to Resolving Titanfall 2 Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-helldivers-2-crashes-on-pc-with-these-reliable-methods/"><u>Troubleshoot Helldivers 2 Crashes on PC with These Reliable Methods</u></a></li>
 </ul></div>
 

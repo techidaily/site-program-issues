@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips
-date: 2024-12-18T03:56:10.760Z
-updated: 2024-12-19T03:50:34.095Z
+date: 2024-12-17T19:22:44.840Z
+updated: 2024-12-19T18:58:31.489Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
@@ -66,7 +70,7 @@ If the issue remains, try the next fix.
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
@@ -81,15 +85,11 @@ If the issue remains, try the next fix.
 3. On the page that opens, select**Repair** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
@@ -105,17 +105,9 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
 
@@ -172,7 +164,7 @@ on Windows 10:
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
@@ -186,10 +178,6 @@ on Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 on Windows 11:
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -200,20 +188,20 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Other antivirus programs
@@ -249,6 +237,10 @@ Here are some gaming VPNs we recommend:
 
 If this method doesn’t solve your problem, check out the last fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Do a clean install
 
  If none of the fixes above solve your problem, try uninstalling and reinstalling the game completely. Before doing a clean install, search the[Bugs & Issue forum](https://forums.flightsimulator.com/c/bugs-and-issues/200)  in case other players shared additional troubleshooting steps.
@@ -259,6 +251,10 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
@@ -273,11 +269,15 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -307,21 +307,24 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/est-7-high-motion-dslrs-for-dynamic-live-content-creation-for-2024/"><u>[New] Best 7 High-Motion DSLRs for Dynamic Live Content Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-video-editing-tools-using-images/"><u>[New] Best Video Editing Tools Using Images</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets/"><u>[New] In 2024, Unlocking Potential How to Maximize Whiteboards in Zoom Meets</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-a-deep-dive-into-toolwiz-app-for-professional-photos/"><u>2024 Approved A Deep Dive Into Toolwiz App for Professional Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-pc-issues-modern-warfare-launch-guide-gamer-troubles/"><u>Conquer PC Issues: Modern Warfare Launch Guide Gamer Troubles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-for-pc-overcoming-performance-problems-and-bugs/"><u>Cyberpunk 2077 for PC - Overcoming Performance Problems and Bugs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-warzones-memory-error-code-0-1766-on-xbox-and-pc/"><u>Fixing Warzone's Memory Error Code 0-1766 on Xbox and PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-minecraft-graphics-card-error-updating-those-missing-drivers/"><u>Fixing Your Minecraft Graphics Card Error: Updating Those Missing Drivers</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-perform-a-step-by-step-backup-of-your-data-on-windows-10-using-a-dell-computer/"><u>How to Perform a Step-by-Step Backup of Your Data on Windows 10 Using a Dell Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stay-underwater-longer-effective-solutions-to-stop-subnautica-on-pc-from-crashing/"><u>Stay Underwater Longer: Effective Solutions to Stop Subnautica on PC From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-kodi-network-errors-failed-directory-access/"><u>Troubleshooting and Solving Kodi Network Errors: Failed Directory Access</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-game-lags-while-maintaining-maximum-fps/"><u>Ultimate Guide: Resolving Game Lags While Maintaining Maximum FPS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-techniques-for-precise-iptv-screen-imaging/"><u>Ultimate Techniques for Precise IPTV Screen Imaging</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-tier-android-and-ios-timers-unveiled-your-weddings-guardian-angels/"><u>[New] 2024 Approved Top-Tier Android & iOS Timers Unveiled Your Wedding's Guardian Angels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-strategizing-your-approach-highlight-and-story-downloads/"><u>[New] In 2024, Strategizing Your Approach Highlight & Story Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2022s-golden-age-for-ice-dancing-showcases/"><u>2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-fixing-disk-read-errors/"><u>Comprehensive Guide: Fixing 'Disk Read' Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-complication-halo-infinite-launch-issue/"><u>DirectX12 Complication: Halo Infinite Launch Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-and-freezes-in-call-of-dutys-overwatched-gameplay-on-pc-tips-for-the-modern-player/"><u>Eliminate FPS Drops & Freezes in Call of Duty's Overwatched Gameplay on PC - Tips for the Modern Player</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-dayz-gaming-experience-quick-fixes-for-fps-drops-guaranteed/"><u>Enhance DayZ Gaming Experience - Quick Fixes for FPS Drops Guaranteed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-resolving-frostpunk-stability-issues-and-preventing-crashes/"><u>Expert Tips: Resolving Frostpunk Stability Issues and Preventing Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-pc-game-from-exiting-unexpectedly-a-step-by-step-guide/"><u>How to Stop Cult of the Lamb PC Game From Exiting Unexpectedly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-pandora-in-avatar-troubleshooting-pc-crash-issues-for-a-smooth-experience/"><u>Mastering Pandora in Avatar: Troubleshooting PC Crash Issues for a Smooth Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/naraka-bloodpoint-mastering-smooth-performance-after-bug-fixes/"><u>Naraka: Bloodpoint - Mastering Smooth Performance After Bug Fixes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-complete-guide-to-transitioning-sound-elements-in-video-content/"><u>New In 2024, Complete Guide to Transitioning Sound Elements in Video Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-diablo-ii-resurrected-game-crash-issues/"><u>Resolved: Fixes for Diablo II Resurrected Game Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-server-link-restored-guide-on-how-to-stay-connected/"><u>Steam Server Link Restored - Guide on How To Stay Connected</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-16-unbeatable-christmas-season-offers-on-hewlett-packard-products-zdnet/"><u>Top 16 Unbeatable Christmas Season Offers on Hewlett Packard Products - ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivides-2-solutions-for-prevented-steam-launch/"><u>Troubleshooting Helldivides 2: Solutions for Prevented Steam Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-success-fix-tekken-8-launch-failures-in-windows-systems/"><u>Unlocking Success: Fix Tekken 8 Launch Failures in Windows Systems</u></a></li>
 </ul></div>
 

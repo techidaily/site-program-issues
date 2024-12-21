@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Smooth Gameplay: Strategies to Address Recurring Watch Dogs Legion Freezes and Shutdowns on Windows"
-date: 2024-08-23T17:21:47.150Z
-updated: 2024-08-24T17:21:47.150Z
+date: 2024-12-17T00:46:39.951Z
+updated: 2024-12-20T01:08:07.432Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -41,18 +46,16 @@ Here is how to verify the integrity of Dauntless:
 
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -96,6 +99,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -108,28 +115,23 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
 
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -139,9 +141,6 @@ Here is how to verify the integrity of Dauntless:
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
@@ -158,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +164,20 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-secrets-of-recording-video-without-distracting-noise/"><u>2024 Approved Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-transformative-colors-in-video-editing-workflows/"><u>2024 Approved Transformative Colors in Video Editing Workflows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-fortnites-challenge-fixing-the-unable-to-connect-to-party-error-code-84/"><u>Conquer Fortnite's Challenge: Fixing the Unable to Connect to Party Error Code 84</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/creative-builders-top-easy-homes-in-minecraft/"><u>Creative Builders Top Easy Homes in Minecraft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-overcoming-fps-drops-essential-strategies/"><u>Elevate Your Valorant Experience by Overcoming FPS Drops – Essential Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stuck-loading-screens-for-mgs5-cold-war-players-struggle-with-pc-and-console-crashes/"><u>Fixing Stuck Loading Screens for MGS5: Cold War Players Struggle with PC & Console Crashes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-home-cinematic-excellence-with-5-quick-tips/"><u>In 2024, Home Cinematic Excellence with 5 Quick Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-leading-spots-for-stunning-3d-metallic-type-creations/"><u>In 2024, Leading Spots for Stunning 3D Metallic Type Creations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-the-discounted-hp-victus-n15-gaming-laptop-at-just-515-during-best-buys-exclusive-prime-day-offer-detailed-review/"><u>Snag the Discounted HP Victus N15 Gaming Laptop at Just $515 During Best Buy's Exclusive Prime Day Offer - Detailed Review</u></a></li>
+<li><a href="https://solve-info.techidaily.com/step-by-step-guide-transforming-movies-into-high-quality-flac-audio/"><u>Step-by-Step Guide: Transforming Movies Into High-Quality Flac Audio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-resolving-game-hitches-with-fallout-3-on-new-windows-11-systems/"><u>Step-by-Step: Resolving Game Hitches with Fallout 3 on New Windows 11 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002668933-troubleshoot-and-overcome-pc-fails-in-halo-infinite-with-these-7-quick-fixes/"><u>Troubleshoot & Overcome PC Fails in Halo Infinite with These 7 Quick Fixes</u></a></li>
+</ul></div>
 

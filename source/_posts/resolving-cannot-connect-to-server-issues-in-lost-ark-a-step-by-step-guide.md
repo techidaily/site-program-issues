@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Cannot Connect to Server' Issues in Lost Ark: A Step-by-Step Guide"
-date: 2024-12-12T20:38:51.852Z
-updated: 2024-12-19T00:32:50.511Z
+date: 2024-12-18T03:46:02.784Z
+updated: 2024-12-19T19:33:32.286Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -54,7 +50,7 @@ Here’s how you can download and install Windows updates:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
@@ -70,7 +66,7 @@ Here’s how you can download and install Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
@@ -84,10 +80,6 @@ Here’s how you can download and install Windows updates:
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -103,14 +95,26 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -122,21 +126,17 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -170,16 +170,12 @@ To verify the integrity of game files, take these steps:
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now play Outriders to see if you can get better gaming performance.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
@@ -195,6 +191,10 @@ Now play Outriders to see if you can get better gaming performance.
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -217,21 +217,20 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unravel-multilingual-mysteries-with-these-top-35-video-translation-solutions/"><u>[Updated] 2024 Approved Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-beginner-to-expert-in-funimate-for-2024/"><u>[Updated] From Beginner to Expert in Funimate for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-valheim-vegetation-value-optimal-sapling-guidance/"><u>[Updated] In 2024, Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>2024 Approved Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-auto-tracking-cameras-for-2024/"><u>Best Auto Tracking Cameras for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-backup-configuration-error-on-windows-systems/"><u>Correcting “Backup Configuration Error” On Windows Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/customize-feeds-not-by-algorithm/"><u>Customize Feeds, Not by Algorithm</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-unreal-process-has-crashed-ue4-madness-glitch-in-outriders-gameplay/"><u>Effective Fixes for 'Unreal Process Has Crashed: UE4-Madness' Glitch in Outriders Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-diagnosing-and-repairing-apex-legends-internet-issues/"><u>Expert Guide: Diagnosing and Repairing Apex Legends Internet Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-infamous-crash-glitch-in-dragon-quest-xi-gamers-relief/"><u>Fixing the Infamous Crash Glitch in Dragon Quest XI: Gamer's Relief</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nubia-red-magic-8s-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nubia Red Magic 8S Pro Phone that is Locked?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-new-era-of-capturing-life-with-updated-lg-360-cameras/"><u>In 2024, The New Era of Capturing Life with Updated LG 360 Cameras</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-steps-for-when-multiversus-wont-start-on-your-computer/"><u>Solved: Troubleshooting Steps for When MultiVersus Won't Start on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-unable-to-reach-server-in-minecraft-step-by-step-fixes/"><u>Solving 'Unable to Reach Server' In Minecraft - Step-by-Step Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-crash-no-more-correctly-restoring-failed-steamuidll-functionality/"><u>Steam Crash No More - Correctly Restoring Failed SteamUI.DLL Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-overcome-call-of-duty-vanguard-error-code-1338-n-pc-no-more-glitches/"><u>Step-by-Step Solution to Overcome Call of Duty Vanguard Error Code 1338 N [PC] – NO MORE GLITCHES</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-captivating-creations-the-process-of-making-popular-video-memes-for-2024/"><u>[New] Captivating Creations The Process of Making Popular Video Memes for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>[Updated] In 2024, Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6/"><u>2024 Approved Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974421561-enhance-pc-speakers-and-microphone-quality-secure-newest-msi-audio-software-for-windows-today/"><u>Enhance PC Speakers & Microphone Quality - Secure Newest MSI Audio Software for Windows Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-launch-errors-demystified-the-definitive-guide-to-entry-point-fixes/"><u>Fortnite Launch Errors Demystified: The Definitive Guide to Entry Point Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-kurtzpel-crashing-issue-solved/"><u>How to Fix KurtzPel Crashing Issue [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-wwe-2k20-stability-pro-tips-to-prevent-game-crashes-on-windows-pcs/"><u>Mastering WWE 2K20 Stability: Pro Tips to Prevent Game Crashes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-patch-for-pc-gamers-days-gone-fps-improvements-unleashed-today/"><u>New Patch for PC Gamers: Days Gone FPS Improvements Unleashed Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pictureperfection-fine-tuning-image-sizes-on-insta-for-2024/"><u>PicturePerfection Fine-Tuning Image Sizes on Insta for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sea-of-thieves-game-crash-bug-fixed/"><u>Sea of Thieves Game Crash Bug Fixed!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-on-setting-up-and-using-remote-access-for-samsung-smart-tvs/"><u>Step-by-Step Tutorial on Setting Up and Using Remote Access for Samsung Smart TVs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-remedies-for-when-borderlands-3-fails-to-boot/"><u>Successful Remedies for When Borderlands 3 Fails to Boot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-modern-warfare-3-how-to-fix-launch-issues-on-pc/"><u>Troubleshooting Modern Warfare 3: How to Fix Launch Issues on PC</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-perfect-intonation-in-audacity-maintaining-high-quality-output/"><u>Updated 2024 Approved Achieving Perfect Intonation in Audacity Maintaining High-Quality Output</u></a></li>
 </ul></div>
 

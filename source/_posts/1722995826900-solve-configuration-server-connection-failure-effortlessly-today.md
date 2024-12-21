@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-12-13T18:19:38.912Z
-updated: 2024-12-18T23:50:34.519Z
+date: 2024-12-17T17:10:50.413Z
+updated: 2024-12-19T20:45:57.341Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,10 +38,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 * [4. Turn on Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [5. Enable Xbox Live Networking Service & Xbox Live Auth Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Sign in again
 
  This error might be temporary and the fix can be as easy as signing in again. Just sign out of your current account on the main menu, and sign in again. This should fix the ‘Unable to connect to the live configuration servers’.
@@ -49,6 +45,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  If you’re on Steam, the**“Sign out”** option should appear when you start the game.
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if this method doesn’t do the trick, you can try the next fix below.
 
@@ -76,15 +76,15 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **the following command** and press **Enter** .
 
 netsh interface Teredo set state disable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Teredo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows + R** key at the same time, and type**devmgmt.msc** . Then press**Ente** r.
 
@@ -95,7 +95,7 @@ netsh interface Teredo set state disable
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/show-hidden-devices.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click on **Network adapters** .
@@ -116,10 +116,6 @@ netsh interface Teredo set state type=default
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **the following command** and press **Enter** .
 
 netsh advfirewall set allprofiles state on
@@ -137,12 +133,16 @@ netsh advfirewall set allprofiles state on
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/services-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Close the window and launch your game.
 
@@ -169,21 +169,18 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-your-nocturnal-portrait-techniques-for-2024/"><u>[Updated] Perfecting Your Nocturnal Portrait Techniques for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-the-science-proven-methods-for-effective-hashtagging-on-fb/"><u>2024 Approved Mastering the Science Proven Methods for Effective Hashtagging on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-window-compatible-screen-recording-tools-to-capture-full-or-portion-of-your-screen-on-pcs-ideal-for-windows-10-8-and-cuernos/"><u>Best Window-Compatible Screen Recording Tools to Capture Full or Portion of Your Screen on PCs - Ideal for Windows 10, 8 & Cuernos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/clearing-out-personalized-content-recommendations-on-instagram-made-simple/"><u>Clearing Out Personalized Content Recommendations on Instagram Made Simple</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-gameplay-disruptions-expert-fixes-for-days-gone-crashes-in-202/"><u>Eliminate Gameplay Disruptions: Expert Fixes for Days Gone Crashes in 202([[[[[]]]]])</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-red-dead-online-troubleshooting-steps-to-resolve-pc-crashes/"><u>Fixing Red Dead Online: Troubleshooting Steps to Resolve PC Crashes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-synergy-between-desktop-and-steam-deck-with-a-barrier/"><u>Navigating the Synergy Between Desktop & Steam Deck With a Barrier</u></a></li>
-<li><a href="https://facebook.techidaily.com/oculus-expense-for-facebook-users-to-regain-access-post-hack/"><u>Oculus Expense for Facebook Users to Regain Access Post-Hack</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-anno-1800-graphics-problems-a-comprehensive-guide-on-overcoming-directx-errors/"><u>Resolving Anno 1800 Graphics Problems: A Comprehensive Guide on Overcoming DirectX Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-granblue-fantasy-problems-on-windows-overcoming-the-notorious-relink-bug/"><u>Solve Your Granblue Fantasy Problems on Windows: Overcoming the Notorious Relink Bug</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-division-2-game-optimization-tips-resolving-low-frames-per-second-issues/"><u>The Division 2 Game Optimization Tips: Resolving Low Frames Per Second Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-xs-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-no-available-camera-error-on-snap-device/"><u>Troubleshooting: Resolving 'No Available Camera' Error on Snap Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[New] In 2024, Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-upcoming-nordce-by-oneplus-what-we-know-so-far-on-price-point-release-plans-and-tech-specs/"><u>All About the Upcoming NordCE by OnePlus: What We Know So Far on Price Point, Release Plans and Tech Specs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-walkthrough-to-enable-and-use-hyper-v-in-windows-10/"><u>Complete Walkthrough to Enable and Use Hyper-V in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-black-screens-in-fallout-4-a-step-by-step-guide-for-uninterrupted-gaming/"><u>Eliminate Black Screens in Fallout 4 – A Step-by-Step Guide for Uninterrupted Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-your-computers-audio-easy-steps-to-reinstall-realtek-hd-sound-driver-for-windows-users/"><u>Enhance Your Computer's Audio: Easy Steps to Reinstall Realtek HD Sound Driver for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974828732-free-downloads-get-your-startech-usb-vga-graphics-adapter-drivers-now/"><u>Free Downloads: Get Your StarTech USB VGA Graphics Adapter Drivers Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-pair-your-samsung-galaxy-tab-2015-260ci-with-a-pc-via-usb/"><u>How to Correctly Pair Your Samsung Galaxy Tab 2015 (260Ci) With a PC via USB</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instavision-twists-the-art-of-creating-instagram-loops-for-2024/"><u>InstaVision Twists The Art of Creating Instagram Loops for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-5-best-free-mov-video-joiners/"><u>New 2024 Approved 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-made-easy-assassins-creed-valhalla-crash-troubleshooted-and-solved/"><u>PC Gaming Made Easy: Assassin’s Creed Valhalla Crash Troubleshooted and Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-issues-a-guide-to-eliminating-lag-in-the-latest-game/"><u>Solving Frame Rate Issues: A Guide to Eliminating Lag in the Latest Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-steps-when-humans-cannot-launch-happens/"><u>Solving the Issue: Steps When 'Humans Cannot Launch' Happens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-solutions-overcome-shader-troubles-in-star-wars-battlefront-ii-effortlessly/"><u>Speedy Solutions: Overcome Shader Troubles in Star Wars Battlefront II Effortlessly</u></a></li>
 </ul></div>
 

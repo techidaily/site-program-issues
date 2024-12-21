@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game"
-date: 2024-12-17T04:00:17.354Z
-updated: 2024-12-19T01:03:35.296Z
+date: 2024-12-14T00:56:41.764Z
+updated: 2024-12-20T00:55:15.847Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
  If a patch is available, install it, then run Forza Horizon 4 to see if you resolved this issue. If this issue persists, or if there was no new game patch available, move on to Fix 3, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update your drivers**
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -99,12 +107,12 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -119,16 +127,20 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap829-1.png)
 3. Extract the downloaded .zip file.**Right-click RAMMap.exe** and select**Run as administrator** . You’ll be prompted for permission. Click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap831.png)
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
 
@@ -137,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 1. On your keyboard, press **the Windows logo key**  and **I**  at the same time to open the **Windows Settings** , and then click **Privacy**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap833.png)
 2. On the left panel, click**Microphone** . Then on the right,**Turn off** the toggle next to**Forza Horizon 4** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
@@ -161,10 +169,14 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 3. Click **Reset** to reset **Forza Horizon 4**  .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Forza Horizon 4 to see if you fixed this issue. If this issue reappears, try the next fix, below.
 
@@ -196,15 +208,7 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap838.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
 
@@ -216,12 +220,12 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap840.png)
 2. Navigate to the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap841.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
@@ -229,17 +233,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
 
 **Restart** your PC and run Forza Horizon 4 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to restart  your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 11: Reinstall Forza Horizon 4**
 
@@ -252,16 +261,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap850.png)
 4. Select the game you purchased before to start installing the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
 
@@ -286,21 +287,18 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-todays-vital-views-youtubes-quick-hit-list/"><u>[New] In 2024, Today's Vital Views YouTube’s Quick Hit List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-game-stutters-with-high-fps-proven-fixes-and-tips-for-gamers-in-202-cuffing-how-to-attain-seamless-gaming-at-optimal-frames-per-second/"><u>Beat Game Stutters with High FPS: Proven Fixes and Tips for Gamers in 202 Cuffing - How to Attain Seamless Gaming at Optimal Frames Per Second</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-canon-mp280-driver-software-for-your-windows-pc-windows-1087/"><u>Get the Latest Canon MP280 Driver Software for Your Windows PC (Windows 10/8/7)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-most-out-of-subnautica-beneath-the-waves-by-fixing-pc-compatibility-issues/"><u>Get the Most Out of Subnautica Beneath The Waves by Fixing PC Compatibility Issues</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c32-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C32</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-msi-afterburners-inability-to-detect-gpu-in-windows-10-or-11-systems/"><u>How to Resolve MSI Afterburner's Inability to Detect GPU in Windows 10 or 11 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tailored-dimensions-for-captivating-videos/"><u>In 2024, Tailored Dimensions for Captivating Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>In 2024, The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-seamless-gaming-tips-to-achieve-ultra-high-fps-and-end-stuttering-for-good/"><u>Master the Art of Seamless Gaming : Tips to Achieve Ultra-High FPS and End Stuttering for Good</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-text-customization-for-video-content-with-windows-photos/"><u>Navigating Text Customization for Video Content with Windows Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-guide-tackling-sifus-fluctuating-fps-and-eliminating-stutters-for-optimal-play/"><u>PC Gaming Guide: Tackling 'Sifu's' Fluctuating FPS & Eliminating Stutters for Optimal Play</u></a></li>
-<li><a href="https://facebook.techidaily.com/real-talk-on-ruses-discerning-genuine-from-fabricated/"><u>Real-Talk on Ruses: Discerning Genuine From Fabricated</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformative-strategies-for-impartiating-patient-narratives-for-2024/"><u>Transformative Strategies for Impartiating Patient Narratives for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolving-high-ping-and-lag-in-chivalry-ii-top-strategies/"><u>Ultimate Guide to Resolving High Ping & Lag in Chivalry II: Top Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valorant-wont-start-on-pc-heres-how-to-solve-it-in-2easy-steps/"><u>Valorant Won't Start on PC? Here's How to Solve It in 2Easy Steps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-digital-diary-top-picks-for-personal-video-devices/"><u>[Updated] 2024 Approved Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-boosting-your-valheim-game-performance-and-eliminating-lag/"><u>2024 Ultimate Guide: Boosting Your Valheim Game Performance & Eliminating Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blandlands-3-stutter-and-crashes-ultimate-troubleshooting-guide/"><u>Fixing Blandlands 3 Stutter & Crashes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y200-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y200 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-sea-of-thieves-not-launching-problem-complete-solution-walkthrough/"><u>How to Fix Sea of Thieves Not Launching Problem - Complete Solution Walkthrough</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-circling-the-globe-in-one-shot-versus-layered-visuals/"><u>In 2024, Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014071385-master-the-stability-of-metro-exoduss-pc-enhanced-edition-crashes-no-more/"><u>Master the Stability of Metro Exodus's PC Enhanced Edition: Crashes No More</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-mobile-journey-to-launch-a-youtube-channel/"><u>Navigating the Mobile Journey to Launch a YouTube Channel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/selective-choice-top-cards-for-4k-videos/"><u>Selective Choice Top Cards for 4K Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
 

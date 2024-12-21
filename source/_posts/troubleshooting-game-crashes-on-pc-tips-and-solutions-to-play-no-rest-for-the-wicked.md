@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-12-15T05:43:50.861Z
-updated: 2024-12-19T08:29:31.215Z
+date: 2024-12-14T19:34:19.449Z
+updated: 2024-12-20T02:23:32.760Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -42,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -89,6 +89,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -99,13 +103,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -124,16 +128,12 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -146,7 +146,7 @@ iv. Restart your PC.
 See if this issue reappears. If not, you have fixed this issue!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
@@ -193,18 +193,20 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-a-step-by-step-to-mastering-instagram-chat-videos/"><u>[New] A Step-by-Step to Mastering Instagram Chat Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-quick-ig-post-featuring-podcast-insight/"><u>[New] In 2024, Quick IG Post Featuring Podcast Insight</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repair-tips-making-your-sound-blaster-mic-work-perfectly-once-more/"><u>DIY Repair Tips: Making Your Sound Blaster Mic Work Perfectly Once More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-an-inside-look/"><u>Elden Ring Release Delayed: An Inside Look</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/heartfelt-cinematic-experiences-for-hopeful-hearts-for-2024/"><u>Heartfelt Cinematic Experiences for Hopeful Hearts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-your-twitch-stream-up-and-running-again-with-these-groovy-7-fixes/"><u>How To Get Your Twitch Stream Up & Running Again With These Groovy 7 Fixes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>In 2024, Get Ahead in Call Capturing 20+ Techniques for Windows/Mac Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-hot-30-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Hot 30 5G FRP Without Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-windows-1n-graphics-drivers-quick-and-easy-guide-to-keep-your-visuals-flawless/"><u>Master the Art of Windows 1N Graphics Drivers: Quick and Easy Guide to Keep Your Visuals Flawless</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-fixing-dead-by-daylight-error-code-8014/"><u>Resolving the Issue: Fixing Dead by Daylight Error Code 8014</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-razer-synapse-wont-start-up/"><u>Troubleshooting Tips When Razer Synapse Won't Start Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-pick-of-best-automatic-clicker-programs-for-your-android-phone/"><u>Ultimate Pick of Best Automatic Clicker Programs for Your Android Phone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-k11x-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo K11x.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>[New] Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets-for-2024/"><u>[New] Illuminate Canon Cameras Combining Freebies and Paid LUT Sets for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/augh-loophole-ideas-for-7-hilarious-youtube-showcases-for-2024/"><u>[New] Laugh Loophole Ideas for 7 Hilarious YouTube Showcases for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-top-5-apps-for-iphone-auditory-delight/"><u>2024 Approved Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/building-a-winning-portfolio-with-windows-11-video-editing-skills-for-2024/"><u>Building a Winning Portfolio with Windows 11 Video Editing Skills for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/daily-care-routines-for-your-printer-insights-and-advice-by-yl-software-professionals/"><u>Daily Care Routines for Your Printer - Insights and Advice by YL Software Professionals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
+<li><a href="https://program-issues.techidaily.com/flawless-gaming-experience-how-to-prevent-rocket-league-crashes/"><u>Flawless Gaming Experience: How to Prevent Rocket League Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009315769-lost-ark-quiet-dilemma-solved-audio-fixes-inside/"><u>Lost Ark Quiet Dilemma Solved – Audio Fixes Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/macxdvd-brand-new-upgrade-ultimate-macx-youtube-download-tool-with-record-breaking-4k-speed-performance-for-mac-users/"><u>MacXDVD Brand New Upgrade: Ultimate MacX YouTube Download Tool with Record-Breaking 4K Speed Performance for Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-back-online-after-recent-fix-no-more-connection-troubles/"><u>Origin Back Online After Recent Fix - No More Connection Troubles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-league-of-legends-2024-connection-issue-loop-glitch/"><u>Resolved: League of Legends' 2024 Connection Issue Loop Glitch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stanley-j5c09-in-focus-unmatched-size-and-functionality-for-woodworking-projects/"><u>Stanley J5C09 in Focus: Unmatched Size & Functionality for Woodworking Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-end-of-delays-improving-server-responsiveness-in-blackwood-the-elder-scrolls-online-edition/"><u>The End of Delays: Improving Server Responsiveness in 'Blackwood' - The Elder Scrolls Online Edition</u></a></li>
 </ul></div>
 

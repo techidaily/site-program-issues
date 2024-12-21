@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Persistent Black Screen in Persona 5 Strikers"
-date: 2024-08-23T17:23:07.702Z
-updated: 2024-08-24T17:23:07.702Z
+date: 2024-12-12T16:49:58.731Z
+updated: 2024-12-20T02:13:19.366Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
 ## No More Black Screens in Fallout 4: Easy Troubleshooting Steps Inside
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-black-screen-1024x576.jpg)
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
@@ -34,21 +31,23 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
 
 1. Right-click on Fallout 4 and click **Properties** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -61,18 +60,15 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
  You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -89,9 +85,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -100,10 +93,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -123,8 +125,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-darklight-studio-lightrooms-cheap-equivalents/"><u>[New] 2024 Approved Darklight Studio Lightroom's Cheap Equivalents</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premier-digital-hubs-seamless-ringtones-acquisition/"><u>[New] In 2024, Premier Digital Hubs Seamless Ringtones Acquisition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-macs-preview-app-an-in-depth-tutorial-for-users/"><u>[New] Mastering Mac's Preview App An In-Depth Tutorial for Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-diving-into-action-how-to-shoot-impressive-underwater-gopro-videos/"><u>[Updated] Diving Into Action How to Shoot Impressive Underwater GoPro Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[Updated] In 2024, Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[Updated] Snap-Worthy Success Logging Galaxy Gaming Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-gopro-chrono-photography/"><u>2024 Approved Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-startup-problems-making-thaumaturge-crafting-applications-work-on-windows/"><u>Addressing Startup Problems: Making Thaumaturge Crafting Applications Work on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnose-and-cure-game-freeze-ups-optimizing-performance-in-valheim-for-pc-gaming/"><u>Diagnose & Cure Game Freeze-Ups: Optimizing Performance in Valheim for PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eight-essential-solutions-to-prevent-guardians-of-the-galaxy-from-freezing-on-your-pc/"><u>Eight Essential Solutions to Prevent Guardians of the Galaxy From Freezing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-for-preventing-and-fixing-infinite-warfare-battleship-pc-malfunctions/"><u>Essential Tips for Preventing and Fixing Infinite Warfare Battleship PC Malfunctions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/inshots-playlist-prowess-adding-external-music/"><u>InShot's Playlist Prowess Adding External Music</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-crashes-with-these-8-proven-fixes-for-hogwarts-legacy-on-your-computer/"><u>Resolve Game Crashes with These 8 Proven Fixes for Hogwarts Legacy on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-the-echoes-expert-tips-for-fixing-sound-errors-in-skyrim/"><u>Reviving the Echoes: Expert Tips for Fixing Sound Errors in Skyrim</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-frame-drops-and-glitches-in-deathloop-on-windows-machines/"><u>Troubleshooting Tips: Overcoming Frame Drops and Glitches in Deathloop on Windows Machines</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>Updated The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
+</ul></div>
 

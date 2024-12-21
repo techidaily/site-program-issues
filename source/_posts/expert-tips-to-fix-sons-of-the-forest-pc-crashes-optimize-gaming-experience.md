@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Fix 'Sons of the Forest' PC Crashes - Optimize Gaming Experience
-date: 2024-08-23T17:21:32.240Z
-updated: 2024-08-24T17:21:32.240Z
+date: 2024-12-18T23:52:42.391Z
+updated: 2024-12-19T19:24:04.931Z
 tags:
   - win11
   - win10
@@ -15,14 +15,15 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
 ## Deathloop Continues to Crash? Follow These Quick Steps for a Stable Gaming Experience on PC
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![deathloop crashing](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop.jpg)
 
  Deathloop is one of the most anticipated games of 2021 for its intricate and stylish elements. However, since the game was released, there have been increasing complaints about technical glitches. One of the most reported is Deathloop crashing. If you happen to have the same problem, don’t worry. Here are 6 simple fixes to get your game back to working.
 
  If you want to gain a smooth gaming experience with Deathloop, make sure your PC meets the[minimum system requirements](https://store.steampowered.com/app/1252330/DEATHLOOP/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -41,21 +42,21 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
 1. Navigate to the game’s installation folder.
 2. Right-click the**Deathloop.exe file** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Use the dedicated GPU
 
  An integrated GPU may find it hard to support graphics-intensive games. If Deathloop crashes with an_Intel GPU not supported error_ , it means you need to use a stronger GPU. If you have two GPU installed on the computer, follow the steps to choose the dedicated GPU to run the game.
@@ -81,19 +82,25 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -104,9 +111,6 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -114,8 +118,9 @@ You can also close all unnecessary apps in the background. Here is how:
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Missing or corrupted games file is one of the most known reasons for game crashes. If Deathloop keeps crashing, you can do an integrity check to see if there is anything wrong with the game files.
@@ -123,14 +128,15 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
 
@@ -142,23 +148,19 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click**Steam** at the top right and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 #### On Discord
 
 1. Launch Discord.
 2. Click the **cogwheel icon** at the bottom of the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
  Deathloop should be back to normal after you applied the settings as above.
@@ -173,8 +175,6 @@ You can also close all unnecessary apps in the background. Here is how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +182,22 @@ You can also close all unnecessary apps in the background. Here is how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/nderstanding-and-executing-essential-mukbang-elements-for-2024/"><u>[New] Understanding and Executing Essential Mukbang Elements for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[Updated] 2024 Approved Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boosting-iphone-signal-strength-expert-advice-and-effective-techniques-to-combat-weak-connectivity/"><u>Boosting iPhone Signal Strength: Expert Advice and Effective Techniques to Combat Weak Connectivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-fix-chrome-stalling-issues-on-your-windows-10-system/"><u>Effortlessly Fix Chrome Stalling Issues on Your Windows 10 System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010189071-gta-5-stability-improvements-no-more-game-crashes/"><u>GTA 5 Stability Improvements - No More Game Crashes!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-defy-2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Defy 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-phantom-v-fold-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Phantom V Fold Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-essential-choice-10-free-youtube-subtitle-extractors/"><u>In 2024, Essential Choice 10 FREE YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/la-meilleure-application-de-capture-decran-pour-les-utilisateurs-de-windows-prise-en-charge-des-versions-10-8-et-7/"><u>La Meilleure Application De Capture D'écran Pour Les Utilisateurs De Windows : Prise en Charge Des Versions 10, 8 Et 7.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-faulty-avchd-clips/"><u>Mending Faulty AVCHD Clips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-update-errors-for-a-smooth-minecraft-native-launcher-experience/"><u>Overcoming Update Errors for a Smooth Minecraft Native Launcher Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repairing-the-grayscale-crisis-in-fallout-4-gaming-experience/"><u>Repairing the Grayscale Crisis in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-eliminate-your-pcs-zoom-dark-display-problems/"><u>Ultimate Fix: Eliminate Your PC's Zoom Dark Display Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/why-does-my-photo-booth-videos-keep-freezing-for-2024/"><u>Why Does My Photo Booth Videos Keep Freezing for 2024</u></a></li>
+</ul></div>
 

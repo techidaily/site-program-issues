@@ -1,7 +1,7 @@
 ---
 title: Windows Compatibility Fixes to Prevent XCOM 2 From Crashing During Play
-date: 2024-08-23T17:23:46.839Z
-updated: 2024-08-24T17:23:46.839Z
+date: 2024-12-16T23:55:19.839Z
+updated: 2024-12-19T19:45:26.577Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/dba89d459ade8c7de3368900b426d88c278b90eb3
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -46,13 +40,18 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -63,9 +62,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -78,14 +77,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -104,8 +104,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -134,9 +135,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
@@ -159,8 +157,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +164,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-10-live-streamers-an-analytical-comparison-review/"><u>[New] 2024 Approved Top 10 Live Streamers An Analytical Comparison Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>[New] Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfect-your-content-with-top-tier-title-tactics/"><u>[Updated] 2024 Approved Perfect Your Content with Top-Tier Title Tactics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-art-of-trailer-creation-for-enhanced-income/"><u>2024 Approved Master the Art of Trailer Creation for Enhanced Income</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blues-fixing-football-manager-2021-crashes-on-your-desktop-pc/"><u>Beat the Blues: Fixing Football Manager 2021 Crashes on Your Desktop PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-remote-work-and-returning-to-offices-pros-outweigh-cons-but-challenges-may-arise-insights-by-zdnet/"><u>Comparing Remote Work and Returning to Offices: Pros Outweigh Cons, But Challenges May Arise | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-exploration-top-7-chatgpt-applications-for-instant-travel-planning/"><u>Effortless Exploration - Top 7 ChatGPT Applications For Instant Travel Planning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-and-tips-to-stop-dauntless-from-freezing-or-crashing-on-windows/"><u>Essential Fixes and Tips to Stop Dauntless From Freezing or Crashing on Windows.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-ring-of-elysiums-unexpected-system-freezes-and-crashes/"><u>Expert Guide to Overcoming Ring of Elysium's Unexpected System Freezes and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-robocop-rogue-city-pc-crash-step-by-step-solutions/"><u>How to Resolve RoboCop: Rogue City PC Crash - Step-by-Step Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-issue-of-discord-not-loading-properly/"><u>How to Resolve the Issue of Discord Not Loading Properly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review/"><u>In 2024, Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>In 2024, Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-g403-mouse-drivers-latest-downloads-and-updates-for-windows-pc/"><u>Logitech G403 Mouse Drivers - Latest Downloads & Updates for Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cyberpunk-2077-installation-tips-for-bypassing-downloading-hurdles-on-steam/"><u>Mastering Cyberpunk 2077 Installation: Tips for Bypassing Downloading Hurdles on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-division-2-issues-instantly-troubleshooting-guide/"><u>Resolve Your Division 2 Issues Instantly - Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-your-dialogues-strategic-use-of-gpt-directories/"><u>Revolutionizing Your Dialogues: Strategic Use of GPT Directories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-apex-legends-connection-issues/"><u>Troubleshooting Steps for Apex Legends Connection Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-video-blur-learn-how-to-do-it-online/"><u>Updated No-Cost Video Blur Learn How to Do It Online</u></a></li>
+</ul></div>
 

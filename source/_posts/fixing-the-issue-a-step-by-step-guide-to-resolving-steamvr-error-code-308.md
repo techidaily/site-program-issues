@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: A Step-by-Step Guide to Resolving SteamVR Error Code 308"
-date: 2024-12-11T17:25:39.793Z
-updated: 2024-12-18T21:16:31.188Z
+date: 2024-12-18T03:49:33.693Z
+updated: 2024-12-20T02:14:45.216Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7efd8a1833d85dc54a6f7c39ff569bca0287b5b56
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
@@ -96,7 +96,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -112,31 +112,35 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
@@ -151,16 +155,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -189,20 +189,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-magic-behind-luts-crafting-captivating-photos/"><u>[New] 2024 Approved The Magic Behind LUTs Crafting Captivating Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comprehensive-guide-to-sound-in-powerpoint-presentations-for-2024/"><u>[Updated] Comprehensive Guide to Sound in PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ten-practices-to-avoid-vr-motion-sickness/"><u>2024 Approved Ten Practices to Avoid VR Motion Sickness</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/externe-festplatten-effizientes-mehrfaches-speichern-von-daten-durch-automatische-backups/"><u>Externe Festplatten: Effizientes Mehrfaches Speichern Von Daten Durch Automatische Backups</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-gta-5-from-suddenly-stopping-troubleshooting-steps-revealed/"><u>How To Stop GTA 5 From Suddenly Stopping - Troubleshooting Steps Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-z50-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Z50 Ultra to Another | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-world-of-warcraft-resolving-game-crashes-effortlessly/"><u>Quick Fixes for World of Warcraft: Resolving Game Crashes Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003938501-resolved-how-to-fix-microsoft-flight-simulator-2020-update-issue/"><u>Resolved: How To Fix Microsoft Flight Simulator 2020 Update Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-sailing-in-wasteland-solving-fallout-76-frame-drops-and-lags/"><u>Smooth Sailing in Wasteland! Solving Fallout 76 Frame Drops and Lags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-with-these-proven-fixes/"><u>Stop War Thunder From Crashing with These Proven Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-fast-acting-fixes-to-restore-functionality-of-widgets-on-ios-devices/"><u>Top 10 Fast-Acting Fixes to Restore Functionality of Widgets on iOS Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tricks-for-resolving-sudden-fps-dips-and-lag-in-first-person-shooters-fps/"><u>Top Tricks for Resolving Sudden FPS Dips and Lag in First-Person Shooters (FPS)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-persistent-gameloop-freezing-problems-on-widows-oses/"><u>Troubleshooting Tips for Persistent GameLoop Freezing Problems on Widows OSes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-rtx-gpus-what-you-need-to-know-about-these-advanced-graphic-cards/"><u>Unveiling RTX GPUs: What You Need to Know About These Advanced Graphic Cards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-curating-the-best-video-game-openers-on-yt-no-money-max-impact-for-2024/"><u>[Updated] Curating the Best Video Game Openers on YT No Money, Max Impact for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-reasons-behind-warno-game-malfunctions-and-pc-instability-explained/"><u>Common Reasons Behind Warno Game Malfunctions and PC Instability Explained.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-effortless-video-recording-of-lectures-tips-and-techniques-with-movavi/"><u>Complete Guide: Effortless Video Recording of Lectures - Tips and Techniques with Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-upgrade-speed-with-steam-deck-ssd-cloning/"><u>Enhancing Upgrade Speed with Steam Deck SSD Cloning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cloud-sync-failed-on-steam-comprehensive-guide/"><u>Fixing 'Cloud Sync Failed' On Steam - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-crash-issues-in-cult-of-the-lamb-for-windows-users/"><u>Fixing Game Crash Issues in Cult of the Lamb for Windows Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-premier-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Premier 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-into-the-unknown-how-to-start-and-flourish-as-a-travel-videographer/"><u>In 2024, Into the Unknown How To Start & Flourish As a Travel Videographer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-lower-cpu-drain-in-god-of-war/"><u>Optimizing Performance for Lower CPU Drain in God of War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-fixing-red-dead-redemption-2s-incessant-loading-screen-issue/"><u>Overcoming the Hurdle: Fixing Red Dead Redemption 2'S Incessant Loading Screen Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862802943-score-the-ultimate-bargain-279-32-dell-s322dmg-monitor-perfect-for-gamers-this-memorial-day/"><u>Score the Ultimate Bargain: $279 32” Dell S322DMG Monitor, Perfect for Gamers This Memorial Day</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-football-manager-2019-game-crashes-effectively/"><u>Troubleshooting Tips: Resolving 'Football Manager 2019' Game Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-warzones-inability-to-utilize-gpu-on-windows-10/"><u>Troubleshooting: Fixing Warzone's Inability to Utilize GPU on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-potential-with-updated-amd-drivers-in-windows-11/"><u>Unleashing Potential with Updated AMD Drivers in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Improve Lost Ark's FPS & Enhance Smooth Gameplay Experience
-date: 2024-08-23T17:21:21.640Z
-updated: 2024-08-24T17:21:21.640Z
+date: 2024-12-18T20:24:27.481Z
+updated: 2024-12-20T02:26:09.920Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel yo
 
 Don’t worry, here’re fixes may help you solve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +26,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. [Change the in-game settings](https://tools.techidaily.com/drivereasy/download/)
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Change the in-game settings
 
@@ -40,9 +41,6 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
@@ -58,10 +56,11 @@ If you’re not using the controller, check the below settings.
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
@@ -75,9 +74,11 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
@@ -85,10 +86,6 @@ If this fix doesn’t work, move to the next one.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -114,16 +111,19 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -139,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-streamline-your-listening-experience-convert-spotify-to-youtube-with-these-tools/"><u>[New] In 2024, Streamline Your Listening Experience Convert Spotify to YouTube with These Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-who-skipped-my-story-unfollowers-scan/"><u>[New] Who Skipped My Story? Unfollowers Scan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] 2024 Approved Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-casual-follower-to-dedicated-subscriber-inspirational-journey/"><u>[Updated] In 2024, From Casual Follower to Dedicated Subscriber Inspirational Journey</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-disruptions-essential-strategies-for-tackling-new-world-network-hiccups/"><u>Banishing Disruptions: Essential Strategies for Tackling New World Network Hiccups</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-productivity-set-up-microsofts-bing-conversational-ai-in-the-heart-of-your-android-keyboard/"><u>Enhancing Productivity: Set Up Microsoft's Bing Conversational AI in the Heart of Your Android Keyboard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-steps-when-borderlands-3-wont-open/"><u>Essential Troubleshooting Steps When Borderlands 3 Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-to-the-basics-with-these-fixes-for-a-broken-start-button-on-windows/"><u>Get Back to the Basics with These Fixes for a Broken Start Button on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-indicators-of-a-premium-audio-tool-suitable-for-macos-environments/"><u>New Indicators of a Premium Audio Tool Suitable for macOS Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-overcoming-lag-in-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting Complete: Overcoming Lag in The Elder Scrolls Online's Blackwood Area</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-football-manager-2021-pc-bugs-comprehensive-solutions-to-stop-game-crashes/"><u>Troubleshooting Football Manager 2021 PC Bugs - Comprehensive Solutions to Stop Game Crashes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-non-responsive-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Responsive Windows 11 Taskbar Problems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-sea-snag-footage-top-5-picks-for-2024/"><u>Ultimate Sea Snag Footage - Top 5 Picks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-fixing-discord-lags/"><u>Ultimate Troubleshooting: Fixing Discord Lags</u></a></li>
+</ul></div>
 

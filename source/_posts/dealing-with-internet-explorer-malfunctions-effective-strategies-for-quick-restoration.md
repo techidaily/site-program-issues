@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Internet Explorer Malfunctions: Effective Strategies for Quick Restoration"
-date: 2024-12-11T17:05:01.376Z
-updated: 2024-12-19T04:06:09.899Z
+date: 2024-12-14T03:38:58.168Z
+updated: 2024-12-19T21:32:49.920Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Run Minecraft in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
@@ -70,12 +78,12 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -94,11 +102,15 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
@@ -106,10 +118,6 @@ If the issue remains, move on to the next fix.
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -119,10 +127,6 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -130,7 +134,7 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -141,20 +145,16 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -183,22 +183,16 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-choosing-frame-rate-wisely-is-30-or-60-fps-better/"><u>[New] 2024 Approved Choosing Frame Rate Wisely Is 30 or 60 FPS Better?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-illusions-the-art-of-time-and-space-manipulation/"><u>[New] Crafting Illusions The Art of Time & Space Manipulation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-fine-tuning-speed-settings-for-snapchat-vids/"><u>[Updated] 2024 Approved Fine-Tuning Speed Settings for Snapchat Vids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensure-smooth-sailing-with-hogwarts-legacy-2024-solutions-for-startup-failures/"><u>Ensure Smooth Sailing with Hogwarts Legacy: 2024 Solutions for Startup Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-the-evil-genius-2-unable-to-start-problem/"><u>Expert Solutions for the 'Evil Genius 2' Unable to Start Problem</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-e-ink-cellphones-a-personal-guide-on-choosing-sustainable-and-comfortable-tech/"><u>Exploring E-Ink Cellphones: A Personal Guide on Choosing Sustainable & Comfortable Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-8-must-have-macbook-wallpaper-apps/"><u>In 2024, 8 Must-Have MacBook Wallpaper Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-cutting-edge-simple-win-11-recorders/"><u>In 2024, Cutting-Edge Simple Win 11 Recorders</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-y78plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo Y78+ to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/mpeg-flv-movavi/"><u>MPEG FLV 파일을 원격으로 자유롭게 변환하는 방법 - Movavi</u></a></li>
-<li><a href="https://discover-best.techidaily.com/navigating-the-web-with-confidence-expert-tips-from-yl-software-on-utilizing-xpath-helper-for-precise-element-location/"><u>Navigating the Web with Confidence: Expert Tips From YL Software on Utilizing XPath Helper for Precise Element Location</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-ark-survival-evolved-crashes-on-windows-computers-apply-these-9-fixes-now/"><u>Overcome ARK: Survival Evolved Crashes on Windows Computers – Apply These 9 Fixes Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-stabilizing-minecraft-dungeons-gameplay-on-desktop-computers/"><u>Overcoming Technical Hurdles: Stabilizing Minecraft Dungeons Gameplay on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-why-fall-guys-wont-load-or-keeps-crashing/"><u>Resolving Issues: Why Fall Guys Won't Load or Keeps Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-thaumaturge-stability-issues-on-desktop-systems/"><u>Step-by-Step Solutions for Fixing Thaumaturge Stability Issues on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-game-crashes-now-expert-fixes-for-gameloop-problems-on-windows-11-and-10/"><u>Stop Game Crashes Now! Expert Fixes For GameLoop Problems On Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-playback-problems-with-our-ultimate-bloodhunt-fixes/"><u>Troubleshoot PC Playback Problems with Our Ultimate Bloodhunt Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-quick-tips-for-professional-adjustments-in-ps/"><u>[New] 2024 Approved Quick Tips for Professional Adjustments in PS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-composing-a-catchy-tiktok-epilogue/"><u>[Updated] 2024 Approved Composing a Catchy TikTok Epilogue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-nikon-d500-and-its-stance-on-high-quality-imaging/"><u>[Updated] Nikon D500 and Its Stance on High-Quality Imaging</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-up-fortnite-restrictions-your-step-by-step-permission-fix-tutorial/"><u>Clearing Up Fortnite Restrictions - Your Step-by-Step Permission Fix Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-sons-of-the-forest-crashes-on-pc-a-comprehensive-guide-for-players/"><u>Dealing with 'Sons of the Forest' Crashes on PC - A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-ultimate-troubleshooting-guide-for-pc-glitches/"><u>Euro Truck Simulator 2: Ultimate Troubleshooting Guide for PC Glitches</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-stream-and-enjoy-dvd-content-on-ios-devices/"><u>How To Stream and Enjoy DVD Content on iOS Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-bf4-xbox-one-not-starting-up-glitches-smoothly/"><u>Overcoming BF4: Xbox One Not Starting Up Glitches Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-online-troubleshooting-guide-resolving-pc-crashes-and-game-stability-issues/"><u>Red Dead Online Troubleshooting Guide - Resolving PC Crashes and Game Stability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-and-stop-black-desert-online-from-crashing-effective-tips-for-gamers/"><u>Solve and Stop Black Desert Online From Crashing: Effective Tips for Gamers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/step-by-step-enhancement-process-for-apples-intel-imac-models/"><u>Step-by-Step Enhancement Process for Apple's Intel iMac Models</u></a></li>
 </ul></div>
 

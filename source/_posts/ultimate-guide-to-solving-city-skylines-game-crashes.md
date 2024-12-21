@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Solving City Skylines Game Crashes
-date: 2024-12-14T06:52:31.181Z
-updated: 2024-12-18T18:45:08.603Z
+date: 2024-12-18T21:43:08.790Z
+updated: 2024-12-19T23:45:30.811Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
@@ -128,15 +128,15 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Steam
 
  1) In Steam, navigate to**the LIBRARY tab** and**right-click** on The Division 2\. Then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
@@ -151,16 +151,12 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
@@ -182,6 +178,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
@@ -190,13 +190,13 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -209,6 +209,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog, then type**control** and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
@@ -227,12 +231,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -251,7 +259,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Set**Particle Detail** to**High** .
@@ -271,7 +279,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Set**Ambient Occlusion** to**Medium** .
@@ -282,17 +290,9 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -317,22 +317,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premium-virtual-meetup-software-titles/"><u>[New] 2024 Approved Premium Virtual Meetup Software Titles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-world-of-warcraft-low-fps-2024-tips/"><u>[SOLVED] World of Warcraft Low FPS – 2024 Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-affordable-action-camera-deals-top-6-for-less-than-100-only/"><u>[Updated] Affordable Action Camera Deals Top 6 for Less Than $100 Only</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-expert-tips-for-swift-shader-tweaks-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Expert Tips for Swift Shader Tweaks in Star Wars Battlefront II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-error-why-isnt-your-nvidia-screen-capture-working/"><u>Common Error: Why Isn't Your Nvidia Screen Capture Working?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-stability-now-smooth-and-bug-free-gaming-in-assassins-creed-valhalla-pc-version/"><u>Enhanced Stability: Now Smooth and Bug-Free Gaming in Assassin's Creed Valhalla PC Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/"><u>Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002243055-fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/"><u>Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fully-functional-printers-every-page-included/"><u>Fully Functional Printers, Every Page Included</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/"><u>Getting Helldivers 2 Up & Running on Steam - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-pova-5-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Pova 5 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g22-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G22</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-discovery-bings-journey-to-ai-integration/"><u>Intelligent Discovery: Bing's Journey to AI Integration</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/problembehebung-tipps-windows-10-hotkeys-funktion-funktionsstorungen/"><u>Problembehebung Tipps: Windows 10 Hotkeys Funktion Funktionsstörungen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-converting-peppa-pig-tv-show-downloads-into-mp4avi-formats-for-offline-viewing/"><u>Step-by-Step Guide: Converting Peppa Pig TV Show Downloads Into MP4/AVI Formats for Offline Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-must-have-automated-pinning-apps-for-pinterest-success/"><u>Top 5 Must-Have Automated Pinning Apps for Pinterest Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/xbox-live-outage-current-server-status-update/"><u>Xbox Live Outage - Current Server Status Update</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crafting-perfect-slack-filmo-meeting-experiences/"><u>[Updated] 2024 Approved Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-data-protection-risks-in-using-chatgpt-technology/"><u>Assessing Data Protection Risks in Using ChatGPT Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bring-back-your-downloads-tackle-utorrent-freezing-in-7-steps/"><u>Bring Back Your Downloads: Tackle UTorrent Freezing in 7 Steps</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/creative-tims-nuxt-black-a-complimentary-admin-template-with-nuxt-and-bootstrap-3/"><u>Creative Tim's Nuxt Black: A Complimentary Admin Template with Nuxt & Bootstrap 3</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-conversion-rates-with-our-ai-driven-cookiebot-technology/"><u>Enhanced Conversion Rates with Our AI-Driven Cookiebot Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-the-depths-of-firefox-pip-feature/"><u>Exploring the Depths of Firefox PIP Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-address-anticheat-failed-errors-in-your-escape-from-tarkov-gameplay/"><u>How To Successfully Address 'Anticheat Failed' Errors in Your Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gpu-usage-for-call-of-duty-warzone-under-windows-11/"><u>Optimizing GPU Usage for Call of Duty Warzone Under Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/passo-a-passo-gravando-e-editando-filmes-em-slow-motion-no-iphone/"><u>Passo a Passo: Gravando E Editando Filmes Em Slow Motion No iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-2024-starfield-high-cpu-utilization-problem-top-strategies/"><u>Resolving the 2024 Starfield High CPU Utilization Problem: Top Strategies</u></a></li>
+<li><a href="https://win-great.techidaily.com/solving-hard-drive-malfunctions-on-your-computer-a-step-by-step-guide-by-yl-software/"><u>Solving Hard Drive Malfunctions on Your Computer: A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-list-26-free-computer-maintenance-software-for-optimal-system-health-in-202-cups/"><u>The Ultimate List: 26 FREE Computer Maintenance Software for Optimal System Health in 202 Cups</u></a></li>
 </ul></div>
 

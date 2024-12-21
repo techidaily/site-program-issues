@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide
-date: 2024-12-16T20:10:03.755Z
-updated: 2024-12-18T16:27:59.206Z
+date: 2024-12-12T23:18:58.301Z
+updated: 2024-12-19T21:02:25.096Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/lost-ark-featured-image-1.jpg)
 
  Lost Ark is one of the most anticipated MMORPGs of 2022\. However, since its release, many players have been complaining about the Lost Ark not launching issue. If you’re also stuck on the loading screen or running into a black screen, don’t worry. After reading this post, you’ll learn some easy and quick fixes to get your Lost Ark back to work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
@@ -48,20 +56,12 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
 
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
 Now see if you could start the game. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify integrity of game files
 
@@ -71,11 +71,15 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
@@ -95,12 +99,12 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -116,18 +120,10 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off unnecessary programs
 
@@ -139,10 +135,14 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
@@ -153,14 +153,14 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
@@ -175,14 +175,14 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -208,18 +208,15 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-techniques-screen-recording-in-google-meet/"><u>[New] In 2024, Efficient Techniques Screen Recording in Google Meet</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-best-practices-for-skype-in-obs/"><u>[New] Unveiling the Best Practices for Skype in OBS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-overhaul-the-2023-updates-explained/"><u>[Updated] 2024 Approved Facebook Overhaul The 2023 Updates Explained</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>[Updated] 2024 Approved The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-methods-for-properly-setting-up-your-amd-chipset-drivers/"><u>Effective Methods for Properly Setting Up Your AMD Chipset Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-sea-of-thieves-crash-woes-effective-fixes-and-tips/"><u>End Sea of Thieves Crash Woes: Effective Fixes and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stabilize-granblue-fantasy-relink-functionality-on-windows-and-mac/"><u>How to Stabilize Granblue Fantasy Relink Functionality on Windows and Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-x50-gt-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor X50 GT? Try These Fixes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-optimize-and-protect-transferring-your-camera-roll-efficiently-to-snapchat/"><u>In 2024, Optimize and Protect Transferring Your Camera Roll Efficiently to Snapchat</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instagram-tips-how-to-disable-suggested-user-profiles-and-posts/"><u>Instagram Tips: How to Disable Suggested User Profiles and Posts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-apex-legends-perpetual-launch-loop-solutions/"><u>Mastering Troubleshooting: Apex Legends' Perpetual Launch Loop Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-fortnite-warzone-crashes-on-your-pc/"><u>Ultimate Guide: Resolving Fortnite Warzone Crashes on Your PC</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-free-and-paid-imovie-alternatives-for-windows-10-a-comprehensive-guide-for-2024/"><u>Updated Free and Paid iMovie Alternatives for Windows 10 A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-become-a-pro-in-calculating-youtube-ratio-measures/"><u>[Updated] 2024 Approved Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-strategic-approach-to-increase-likes-on-your-tiktok-video-content-for-2024/"><u>A Strategic Approach to Increase 'Likes' On Your TikTok Video Content for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ace-your-shopping-ultimate-discounts-before-prime-day-2024-insights-from-zdnet/"><u>Ace Your Shopping: Ultimate Discounts Before Prime Day 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzones-pacific-map-latest-fix-for-gameplay-interruptions/"><u>COD: Warzone's Pacific Map - Latest Fix for Gameplay Interruptions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creative-minds-guide-to-preferred-mac-editors/"><u>Creative Minds' Guide to Preferred Mac Editors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/helldivers-ii-startup-issues-on-steam-comprehensive-fix-guide/"><u>Helldivers II Startup Issues on Steam – Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-that-wont-type-in-windows-1178/"><u>How to Repair Keyboards That Won't Type in Windows [11/7/8]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-detection-errors-with-your-steam-vr-headset-a-step-by-step-guide/"><u>Overcoming Detection Errors with Your Steam VR Headset: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-silent-steel-a-guide-to-restoring-audio-in-fallout-4-on-windows/"><u>Solving Silent Steel: A Guide to Restoring Audio in Fallout 4 on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/war-thunder-frame-rate-fixes-proven-tips-to-achieve-smooth-gameplay-in-the-new-update-202n/"><u>War Thunder Frame Rate Fixes - Proven Tips to Achieve Smooth Gameplay in the New Update (202N)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Age of Empires IV Launch - Common Fixes Explored
-date: 2024-08-23T17:23:49.255Z
-updated: 2024-08-24T17:23:49.255Z
+date: 2024-12-19T00:30:37.028Z
+updated: 2024-12-20T01:23:18.712Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that does the trick.
@@ -31,19 +32,12 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
 
 1. Open your Epic Games launcher.
 2. Navigate to the**LIBRARY** tab. Find**Hitman 3** and click the**three dots** icon.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-1.jpg)
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
@@ -52,9 +46,6 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -67,14 +58,12 @@ Here’s how:
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
@@ -107,7 +96,16 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -115,9 +113,6 @@ After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Aside from drivers, it’s also important to keep your system up to date, which means you should make sure all the system updates are installed, as they usually provide more than just some minor bug fixes.
@@ -127,22 +122,26 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check if it’s a server issue
 
  If you’ve tried all the methods above and none seem to work, then maybe it’s your fault at all. After the game was launched, there’re lots of complaints that the carry over server is down and the game is not connecting. So you might need to be patient before a hotfix is released. And to learn more about the Hitman 3 updates, you can check out the IOI[Twitter](https://twitter.com/iointeractive?lang=en) .
@@ -157,8 +156,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +163,22 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-expert-film-cameras-you-can-trust/"><u>[New] From Novice to Expert Film Cameras You Can Trust</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-get-to-know-discord-inside-out/"><u>[New] Get to Know Discord Inside Out</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-permanent-name-shift-on-google-meet-devices/"><u>[New] Permanent Name Shift on Google Meet Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-aerial-cinematography-drone-editing-insights/"><u>[New] The Art of Aerial Cinematography Drone Editing Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-video-quality-from-sdr-to-stunning-hdr-a-practical-handbook/"><u>2024 Approved Transforming Video Quality From SDR to Stunning HDR - A Practical Handbook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-to-eliminate-stuttering-problems-in-csglobal-offensive/"><u>Effortless Solutions to Eliminate Stuttering Problems in CS:Global Offensive</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-basics-to-high-quality-srgb-vs-rgb/"><u>From Basics to High-Quality Srgb vs Rgb</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>In 2024, Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-methods-for-device-capturing-applications/"><u>In 2024, Essential Methods for Device Capturing Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/input-lag-no-more-the-fix-that-improved-cyberpunk-2077-gameplay/"><u>Input Lag No More: The Fix that Improved Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-solution-guide-dealing-with-minecrafts-connection-failures/"><u>Master Solution Guide: Dealing with Minecraft’s Connection Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cities-skylines-prevent-and-fix-game-crashes-for-smoother-urban-planning/"><u>Mastering Cities: Skylines : Prevent and Fix Game Crashes for Smoother Urban Planning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-common-problems-in-hearts-of-iron-iv-a-comprehensive-guide/"><u>Resolving Common Problems in Hearts of Iron IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999644103-the-ultimate-solution-for-football-manager-2022-not-releasing-now-available/"><u>The Ultimate Solution for Football Manager 2022 Not Releasing - Now Available!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-doesnt-my-iphone-screen-work-exploring-7-possible-reasons/"><u>Why Doesn't My iPhone Screen Work? Exploring 7 Possible Reasons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Performance Issues: Optimizing Black Desert Online to Stop PC Crashes"
-date: 2024-12-16T18:23:05.160Z
-updated: 2024-12-18T19:11:20.475Z
+date: 2024-12-14T23:48:40.285Z
+updated: 2024-12-19T20:44:44.419Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to go through repairs. Then, relaunch your game and see if the crashing problem is solved. If not, please check out **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### If you’re on Steam
@@ -75,10 +71,6 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the repairing process is done, you can launch the game to check if it’s playable now. If not, head towards the next fix.
 
 ---
@@ -91,6 +83,10 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the application you want to close and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-1.jpg)
@@ -100,10 +96,6 @@ Lately many players are reporting the Black Desert Online crashing issue and com
  Launch Black Desert Online and see if the crashing issue goes away. If not, continue with the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -140,7 +132,7 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -153,7 +145,7 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Clear the game cache
@@ -172,17 +164,25 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Navigate to the Black Desert Online installation folder (Usually C:/Program Files(x86)/Black Desert Online). Then, delete the**Cache** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your game to test the issue. If it still persists, keep reading the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5 – Delete the xcorona file**
 
@@ -197,7 +197,7 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Perform a fresh reinstall of Black Desert Online
@@ -212,13 +212,13 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Black Desert Online** , and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you uninstall the program, make sure to clean up the remaining files. This will take a few steps:
 
@@ -231,7 +231,7 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Type**%localappdata%** in the top bar of the File Explorer and press**Enter** . Then, delete the**BlackDesertOnline** folder.
@@ -263,15 +263,21 @@ Lately many players are reporting the Black Desert Online crashing issue and com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[New] Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-hot-40-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-why-governments-must-seek-diversification-away-from-big-tech-highlighted-by-microsofts-service-interruptions/"><u>Exploring Why Governments Must Seek Diversification Away From Big Tech, Highlighted By Microsoft's Service Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-recurrent-sony-vegas-software-crashes-efficiently/"><u>Fixing Recurrent Sony Vegas Software Crashes Efficiently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-not-finding-matches-on-pc/"><u>How to Fix Warzone Not Finding Matches on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A15 4G Phone?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-b-roll-filming-techniques/"><u>Mastering the Art of B Roll Filming Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-msi-afterburner-gpu-compatibility-issues-with-windows-11/"><u>Resolving MSI Afterburner GPU Compatibility Issues with Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007350562-troubleshooting-cyberpunk-2077s-surprising-error-2024-expert-tips-inside/"><u>Troubleshooting Cyberpunk 2077'S Surprising Error 2024 - Expert Tips Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-most-impressive-all-in-one-solution-tested-featuring-an-overlooked-office-perk/"><u>Unveiling the Most Impressive All-in-One Solution Tested , Featuring an Overlooked Office Perk</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-2023s-best-device-compatible-entry-editor-solutions/"><u>[New] 2024 Approved 2023'S Best Device-Compatible Entry Editor Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y100-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y100 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-gameplay-interruptions-troubleshooting-continuous-crashes-in-frontier-for-your-computer/"><u>Fixing Gameplay Interruptions: Troubleshooting Continuous Crashes in Frontier for Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-recurring-collapses-of-f1-2021-game-on-your-computer/"><u>How to Prevent Recurring Collapses of F1 2021 Game on Your Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-low-volume-transitions-within-fl-studio/"><u>In 2024, Mastering Low-Volume Transitions Within FL Studio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitech-g29-steering-wheel-drivers-for-windows-11-windows-10-and-windows-e7/"><u>Install Logitech G29 Steering Wheel: Drivers for Windows 11, Windows 10 and Windows E7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/its-ideal-for-precision-and-control-suitable-for-high-quality-welds/"><u>It's Ideal for Precision and Control, Suitable for High-Quality Welds.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mac-methods-for-cleaner-instagram-video-edits-for-2024/"><u>Mac Methods for Cleaner Instagram Video Edits for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-optimal-performance-expert-strategies-to-combat-fps-drops-in-valorant-updated-tips-and-tricks/"><u>Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-guide-fixing-zombie-army-4-gameplay-glitches/"><u>PC Troubleshooting Guide - Fixing 'Zombie Army 4' Gameplay Glitches</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/insight-top-8-online-repositories-for-free-green-screen-scenery-for-2024/"><u>Pros' Insight Top 8 Online Repositories for Free Green Screen Scenery for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-notorious-windows-10-blue-screen-dilemma/"><u>Resolved: How to Fix the Notorious Windows 10 Blue Screen Dilemma</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-meizu-frp-by-drfone-android/"><u>The Updated Method to Bypass Meizu FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-fortnite-logins-with-these-simple-techniques-no-hassle-guaranteed/"><u>Troubleshoot Your Fortnite Logins with These Simple Techniques - No Hassle Guaranteed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-immortals-fenyx-rising-continuous-crash-issues/"><u>Troubleshooting Steps for Immortals: Fenyx Rising Continuous Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-mystery-the-postponed-launch-of-diablo-immortal-for-personal-computers/"><u>Unveiling the Mystery: The Postponed Launch of Diablo Immortal for Personal Computers</u></a></li>
 </ul></div>
 

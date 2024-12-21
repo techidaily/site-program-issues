@@ -1,7 +1,7 @@
 ---
 title: Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)
-date: 2024-08-23T17:24:02.424Z
-updated: 2024-08-24T17:24:02.424Z
+date: 2024-12-12T17:18:28.610Z
+updated: 2024-12-19T21:06:19.446Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
  If you’re having problems launching Roblox games, you’re not alone. Many Roblox gamers have reported this exact problem. But the good news is, you can fix it. Read on and try the fixes below…
 
  Below are some known fixes for the Roblox loading screen error. You may not need to try them all; just work your way down the list until you find the one that does the trick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -59,21 +63,23 @@ thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa2283373
 
 **2)** Click the **gear button** on the top-right corner of your screen, then click **Internet options** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-18.jpg)
 
 **3)** Click the **Advanced tab** , and then click **Reset** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-32.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click **Close** .
 
@@ -93,26 +99,29 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **2)** Click the **Menu** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-288.png)
 
 **3)**  Select **More tools** , and then select **Extensions** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **toggle**  to disable your extensions one by one, try relaunching your Roblox game each time to check if your problem is caused by any of these extensions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-290-1024x644.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your game still won’t load correctly, don’t fret. Try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Check your Firewall
 
@@ -124,15 +133,20 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **control**  and then press the **Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Under **View by** , select **Small icons** , then click **Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
 **4)**  Click **Allow an app or feature through Windows Defender Firewall** .
@@ -145,9 +159,6 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **6)**  Click**Allow another app** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-1.jpg)
 
 **7)** Click **Browse** , then locate the Roblox launcher file and click**Add** .
@@ -162,9 +173,6 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 If you still can’t join the game, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Temporarily close your anti-virus
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -173,9 +181,6 @@ If you still can’t join the game, move on to the next fix.
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Clear your browser cookies and cache
 
  The cache and cookies stored by your browser, if corrupted, can sometimes cause issues. Try clearing your browser cookies and cacher to see if this helped:
@@ -184,24 +189,12 @@ If you still can’t join the game, move on to the next fix.
 
 **2)**  On your keyboard, press the **Ctrl, Shift,**  and **Del**  keys at the same time. Then, click **Clear data** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-283.png)
 
 **3)**  Relaunch your browser and your Roblox game.
 
 If the game is still not opening up, try the next below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8 – Reinstall Roblox and Roblox Studio
 
  If you’re still having issues running Roblox games, try reinstalling Roblox and Roblox Studio too. This will overwrite and replace any deleted or broken files and fix any related issues.
@@ -212,9 +205,6 @@ Follow the instructions below:
 
 **2)** Type **appwiz.cpl** and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
 
 **3)** Right-click the Roblox app and click **Uninstall** . If you see**Roblox Stuido** , uninstall it, too.
@@ -225,9 +215,6 @@ Follow the instructions below:
 
 **5)** Type**%localAppdate%** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_10-59-43.jpg)
 
 **6)** Click the **Roblox folder**  and press the **Delete key**  on your keyboard.
@@ -240,9 +227,6 @@ Follow the instructions below:
 
 If not, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9 – Update your device driver
 
  A missing or outdated device driver can bring various problems to your computer, so updating your device drivers should always be your go-to option when something goes wrong with your computer.
@@ -255,16 +239,21 @@ If not, try the next fix below.
 
 **2)** Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-26-28.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the flagged driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-26-33.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -281,8 +270,6 @@ If not, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +277,26 @@ If not, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023s-leading-browser-extensions-for-video-streaming-for-2024/"><u>[New] 2023'S Leading Browser Extensions for Video Streaming for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-edits-bottom-line-pro-guide-to-tiktok-creativity-for-2024/"><u>[New] Top Edits, Bottom Line Pro Guide to TikTok Creativity for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-8-superior-mirrorless-cameras-for-video-content/"><u>[New] Unveiling 8 Superior Mirrorless Cameras for Video Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-best-6-social-media-platforms-for-business/"><u>[Updated] 2024 Approved Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-failed-texture-loads-on-call-of-duty-warzone/"><u>Addressing and Repairing Failed Texture Loads on Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-team-fortress-2s-endless-crash-problem-best-troubleshooting-techniques-and-solutions/"><u>Addressing Team Fortress 2'S Endless Crash Problem - Best Troubleshooting Techniques and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-bug-5573-explained-and-solved-enhance-your-gameplay/"><u>Call of Duty Vanguard Bug 5573 Explained and Solved - Enhance Your Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-fixing-vrchat-connectivity-issues-tips-and-tricks-to-get-you-back-online/"><u>Complete Guide: Fixing VRChat Connectivity Issues - Tips and Tricks to Get You Back Online!</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-drones-specifically-designed-for-gopros/"><u>Cutting-Edge Drones Specifically Designed for GoPros</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-pc-glitched-heres-what-you-can-do-to-uncrash-it/"><u>Dauntless PC Glitched? Here's What You Can Do to Uncrash It</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebot-technology-for-enhanced-seo-performance/"><u>Harnessing Cookiebot Technology for Enhanced SEO Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuttering-issues-in-fallout-76-for-a-smoother-gameplay-experience/"><u>How to Fix Stuttering Issues in Fallout 76 for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-11-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 11 Pro Activation Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-pairings-winning-webp-viewers-and-windows-devices/"><u>Top 4 Pairings: Winning WebP Viewers & Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fixes-no-more-problems-starting-maplestory/"><u>Troubleshoot & Fixes: No More Problems Starting MapleStory</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-the-steam-black-screen-issue-and-enjoy-gaming/"><u>Ultimate Guide: Solve the Steam Black Screen Issue and Enjoy Gaming</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-glitch-video-editors-free-paid-and-online-options-for-2024/"><u>Updated The Ultimate List of Glitch Video Editors Free, Paid, and Online Options for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-visuals-glitched-heres-how-to-resolve-the-problem/"><u>Warzone Visuals Glitched? Here's How to Resolve the Problem</u></a></li>
+</ul></div>
 

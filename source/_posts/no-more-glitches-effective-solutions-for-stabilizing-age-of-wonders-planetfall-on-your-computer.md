@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-12-12T11:42:22.958Z
-updated: 2024-12-19T04:10:34.715Z
+date: 2024-12-17T19:25:43.114Z
+updated: 2024-12-19T16:48:28.237Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -97,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -110,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -138,16 +146,12 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -193,20 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-capture-chuckles-quickly-efficient-methods-for-exciting-youtube-reaction-videos-3-tips-for-2024/"><u>[New] Capture Chuckles Quickly Efficient Methods for Exciting YouTube Reaction Videos (3 Tips) for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>[New] In 2024, The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-10-stuck-in-airplane-mode/"><u>[SOLVED] Windows 10 Stuck In Airplane Mode</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-precision-capturing-of-gameplay-with-obs-studio/"><u>[Updated] In 2024, Precision Capturing of Gameplay with OBS Studio</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-kinemaster-techniques-for-impeccable-storytelling-pace/"><u>2024 Approved Kinemaster Techniques for Impeccable Storytelling Pace</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-gameplay-handling-the-destiny-2-server-dropout/"><u>Expert Tips for Restoring Gameplay: Handling the Destiny 2 Server Dropout</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-resolve-days-gone-pc-launch-issues/"><u>Fixes Found: How To Resolve 'Days Gone' PC Launch Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-issues-and-enhance-fps-performance-in-call-of-duty-modern-warfare-3/"><u>How to Fix Freezing Issues & Enhance FPS Performance in Call of Duty: Modern Warfare 3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-https-errors-and-restore-secure-connections-in-firebox/"><u>How to Fix HTTPS Errors and Restore Secure Connections in Firebox</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-lost-information-on-your-iphone-with-stellar-recovery/"><u>How To Retrieve Lost Information on Your iPhone With Stellar Recovery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-stability-solutions-for-windows-11-users-expert-fixes-and-tips-for-the-year-2023/"><u>MapleStory Stability Solutions for Windows 11 Users: Expert Fixes and Tips for the Year 2023</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-game-glitches-stability-tips-for-tormented-souls-on-windowsmac/"><u>Overcome Game Glitches: Stability Tips for 'Tormented Souls' On Windows/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-perpetual-launch-error-on-valorant-a-step-by-step-guide/"><u>Overcoming the Perpetual Launch Error on Valorant: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-controller-malfunctions-fast-troubleshoot-and-resolve-issually/"><u>Stop Controller Malfunctions Fast - Troubleshoot and Resolve Issually</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997769688-fixed-rainbow-six-siege-wont-launch/"><u>[FIXED] Rainbow Six Siege Won't Launch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-accessible-multilingual-content-on-igtv/"><u>[New] Creating Accessible Multilingual Content on IGTV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discovering-top-5-fluids-in-virtual-playgrounds/"><u>[New] Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ioneering-youtube-fitness-ideas-for-a-movement-driven-viewership-for-2024/"><u>[New] Pioneering YouTube Fitness Ideas for a Movement-Driven Viewership for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-freeplayvid-seamless-recording-for-the-avid-player-for-2024/"><u>[Updated] FreePlayVid Seamless Recording for the Avid Player for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-your-social-media-wirecast-on-facebook-streaming/"><u>[Updated] Optimizing Your Social Media Wirecast on Facebook Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-euro-truck-simulator-2-performance-by-eliminating-pc-instability-problems/"><u>Enhancing Euro Truck Simulator 2 Performance by Eliminating PC Instability Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-solutions-for-resolving-lost-ark-not-starting-problem/"><u>Latest Solutions for Resolving Lost Ark Not Starting Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-performance-optimization-overcoming-frame-rate-issues-and-hitches-in-call-of-duty-modern-warfare-3/"><u>Mastering Performance Optimization: Overcoming Frame Rate Issues and Hitches in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-and-crash-fixes-in-naraka-edge-of-night-gameplay/"><u>Resolved Issues and Crash Fixes in Naraka: Edge of Night Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-mobile-queries-discover-how-to-use-bings-ai-driven-search-across-iphone-and-android-applications/"><u>Revolutionize Your Mobile Queries: Discover How to Use Bing’s AI-Driven Search Across iPhone & Android Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-with-avatar-frontiers-of-pandora-failure-to-load/"><u>Solving the Problem with Avatar: Frontiers of Pandora Failure to Load</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-stable-instances-of-slime-rancher-2-crashes/"><u>Troubleshooting Tips: Resolving Stable Instances of Slime Rancher 2 Crashes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-5-mp3-cutters-online/"><u>Updated In 2024, Top 5 MP3 Cutters Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-alienware-command-center-not-responding-common-fixes-explored/"><u>Why Is My Alienware Command Center Not Responding? Common Fixes Explored</u></a></li>
 </ul></div>
 

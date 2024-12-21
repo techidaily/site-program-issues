@@ -1,7 +1,7 @@
 ---
 title: Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen
-date: 2024-08-23T17:21:50.042Z
-updated: 2024-08-24T17:21:50.042Z
+date: 2024-12-16T18:37:07.067Z
+updated: 2024-12-19T23:32:48.620Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 ## Unstick Your Stuck Genshin Game: 5 Easy Remedies for Quick Playtime
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/genshin-impact-featured-image-1.jpg)
 
  Released on September 28, 2020, Genshin Impact is still one of the most popular role-playing games by now. However, many players complained that Genshin Impact won’t launch from time to time or the issue occurs after an update. If you run into the same issue, don’t worry. We’ve got some fixes for you.
@@ -41,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 1. Go to the game’s installation folder. Right-click the**GenshinImpact.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Choose the**Compatibility** tab. Then tick**Disable fullscreen optimizations** and**Run the program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
 
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  One of the most common causes of Genshin Impact not launching is a corrupted or outdated graphics driver. GPU manufacturers will keep releasing driver updates along with new game patches. So if you haven’t updated your graphics driver for a while, definitely do it now to see if that fixes your issue.
@@ -74,10 +65,11 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -85,60 +77,57 @@ There are mainly two ways you can update the graphics driver:
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
 
 1. Go to the[DirectX End-User Runtime Web Installer page](https://www.microsoft.com/en-us/download/details.aspx?id=35) and click**Download** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/directx.jpg)
 2. Open the downloaded file and follow the wizard to install DirectX runtime components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Go to the[Visual C++ download page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) and download the latest Visual C++ redistributable package for your Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-page.jpg)
 4. Once downloaded, run the exe.file and click**Repair** (or**Install** ) to initiate the setup.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Perform a clean boot
 
  The Genshin Impact not launching issue may be triggered by certain conflicting services or applications running in the background. To determine whether that’s the cause and what is exactly preventing the game, you should perform a clean boot via the following steps:
 
 1. In the Windows search box, type**system configuration** and click**System Configuration** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
@@ -154,15 +143,18 @@ There are mainly two ways you can update the graphics driver:
 1. Type**system configuration** in the Windows search box and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
 
@@ -188,8 +180,6 @@ There are mainly two ways you can update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +187,23 @@ There are mainly two ways you can update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-gopro-hero5-pro-vs-sjcam-sj7-ultra-hd/"><u>[New] In 2024, GoPro Hero5 Pro vs SJCAM SJ7 Ultra-HD</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-masterclass-guide-to-excellent-pcmac-recorders/"><u>[Updated] 2024 Approved Masterclass Guide to Excellent PC/Mac Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-boosting-your-youtube-shorts-audience/"><u>[Updated] Strategies for Boosting Your YouTube Shorts Audience</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-ultimate-list-of-quotes-for-tiktok-stars/"><u>2024 Approved The Ultimate List of Quotes for TikTok Stars</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-issues-explained-and-resolved-with-ease/"><u>Call of Duty: Warzone Display Issues Explained & Resolved with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-ai-conversations-with-siri-and-chatgpt-on-iphone/"><u>Enhanced AI Conversations with Siri and ChatGPT on iPhone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964132101-get-your-geforce-rtx-3070-win-10-8-7-drivers-now/"><u>Get Your GeForce RTX 지트리티 3070 시 - Win 10, 8, 7 Drivers Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-10-must-know-iphone-x-tricks-to-enhance-usage/"><u>In 2024, 10 Must-Know iPhone X Tricks to Enhance Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-fps-ultimate-guide-to-fixing-drops-and-accelerating-gameplay-on-pc/"><u>Maximize Your FPS: Ultimate Guide to Fixing Drops and Accelerating Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-delays-and-connection-glitches-in-the-newest-release-of-game-name/"><u>Overcoming Delays & Connection Glitches in the Newest Release of [Game Name]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-clearing-up-the-mystery-of-persona-vee-strikers-black-screen-troubleshoot/"><u>Solved: Clearing Up the Mystery of Persona Vee Strikers' Black Screen Troubleshoot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-places-to-find-background-music-for-videos/"><u>Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-six-for-a-divided-tech-community/"><u>Top Six for a Divided Tech Community</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-non-functional-logitech-g-hub-software-in-windows-environment/"><u>Ultimate Fixes for Non-Functional Logitech G Hub Software in Windows Environment</u></a></li>
+</ul></div>
 

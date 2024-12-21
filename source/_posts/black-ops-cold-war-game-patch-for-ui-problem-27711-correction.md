@@ -1,7 +1,7 @@
 ---
 title: "Black Ops: Cold War Game Patch for UI Problem 27711 Correction"
-date: 2024-12-15T18:30:49.125Z
-updated: 2024-12-18T17:14:45.768Z
+date: 2024-12-15T23:42:58.918Z
+updated: 2024-12-20T03:28:16.544Z
 tags:
   - win11
   - win10
@@ -26,19 +26,11 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -51,7 +43,7 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
@@ -87,11 +79,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -109,17 +101,25 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -144,21 +144,18 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-boosting-collaboration-mastering-real-time-photography-on-google-meet/"><u>[Updated] 2024 Approved Boosting Collaboration Mastering Real-Time Photography on Google Meet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-10-proplus-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728504375605-windows-11-10/"><u>快速指南：無成本恢復 Windows 11 / 10 系統上移除的文件</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blackout-effective-fixes-to-kickstart-your-overwatch-adventure-without-a-hitch/"><u>Beat the Blackout: Effective Fixes to Kickstart Your Overwatch Adventure Without a Hitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-steelseries-gg-mouse-engine-malfunctioning-under-windows-os/"><u>Comprehensive Solutions for SteelSeries GG Mouse Engine Malfunctioning Under Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-latest-glitch-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077'S Latest Glitch: Understanding the Impact of Error 2024!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-god-of-war-continuously-crashes-on-your-pc/"><u>Fixing the Issue: Why God of War Continuously Crashes on Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-an-english-monetary-manufacturer-converts-electronic-waste-to-precious-metals/"><u>How an English Monetary Manufacturer Converts Electronic Waste to Precious Metals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-mac-preview-with-ease-ultimate-guide/"><u>In 2024, Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/journey-through-hindi-why-mondlys-online-study-triumphs/"><u>Journey Through Hindi: Why Mondly's Online Study Triumphs</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-dxgierrordevicehung-efficient-solutions-explored/"><u>Quick Fixes for 'DXGI_ERROR_DEVICE_HUNG': Efficient Solutions Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-with-corsair-icue-on-windows-1011-a-step-by-step-guide/"><u>Resolving Issues with Corsair iCUE on Windows 10/11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-the-sounds-of-dying-light-top-tricks-to-overcome-sound-malfunctions/"><u>Revive the Sounds of Dying Light - Top Tricks to Overcome Sound Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-discord-not-starting-up/"><u>Troubleshooting Steps for Fixing 'Discord Not Starting Up'</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-identity-change-on-google-meet-via-pc-and-phone/"><u>[New] In 2024, Mastering Identity Change on Google Meet via PC & Phone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-streamline-your-content-strategy-with-youtube-movie-maker/"><u>[New] In 2024, Streamline Your Content Strategy with YouTube Movie Maker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-freezing-points-to-inviting-landscapes/"><u>[Updated] In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-splitcam-assessment-best-video-recorder-ranking/"><u>[Updated] SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-to-address-recurring-watch-dogs-legion-freezes-and-shutdowns-on-windows/"><u>Ensuring Smooth Gameplay: Strategies to Address Recurring Watch Dogs Legion Freezes and Shutdowns on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-look-at-the-high-performance-huion-inspiroy-g10t-drawing-board-stellar-construct-and-efficacy-unveiled/"><u>Expert Look at the High-Performance Huion Inspiroy G10T Drawing Board - Stellar Construct and Efficacy Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-xiaomi-civi-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Xiaomi Civi 3?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-unresponsiveness-steam-continuously-crashing-now-solved/"><u>How to Overcome Unresponsiveness: Steam Continuously Crashing - Now Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-game-software-problems-heres-how-to-get-them-working-again/"><u>Logitech Game Software Problems? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-ios-guide-to-superior-psp-emulators/"><u>The Ultimate iOS Guide to Superior PSP Emulators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-common-issues-with-halo-infinites-sound/"><u>Troubleshooting Guide: Resolving Common Issues with Halo Infinite's Sound</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-expert-advice-top-6-tricks-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Advice: Top 6 Tricks to Boost Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-tips-for-escaping-roblox-stuck-on-startup-screen/"><u>Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen</u></a></li>
 </ul></div>
 

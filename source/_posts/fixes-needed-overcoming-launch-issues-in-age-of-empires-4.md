@@ -1,7 +1,7 @@
 ---
 title: "Fixes Needed: Overcoming Launch Issues in Age of Empires 4"
-date: 2024-12-11T21:03:20.103Z
-updated: 2024-12-18T23:57:07.732Z
+date: 2024-12-12T16:19:47.660Z
+updated: 2024-12-20T03:48:25.585Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ There is nothing more frustrating than buying a video game and not being able to
 6. **[Update Windows components](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as an administrator
 
 **_BO4_** not launching issue might happen when it’s not able to access certain game files and folders under a standard user account. Although it’s rare that this causes the launching issue, you should rule out the possibility. Follow the instructions below:
@@ -46,10 +42,6 @@ There is nothing more frustrating than buying a video game and not being able to
 **2)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Relaunch_BO4_ from the Blizzard.net app to test your issue.
 
@@ -68,10 +60,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **1)**  On your keyboard, press the **Windows logo key** and **R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-30.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Type **devmgmt.msc** , then click **OK** .
 
@@ -103,6 +91,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-22_9-48-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
@@ -128,19 +120,31 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Delete game cache files
 
@@ -170,10 +174,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
  If_BO4_ still won’t launch, don’t fret. There are still 2 more fixes to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Check for software conflicts
 
  Some programs or services running on your PC may conflict with**_Black Ops 4_** , resulting in the launching error.
@@ -190,6 +190,10 @@ Here is how:
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Right-click the resource-consuming process and select **End task** .
 
@@ -223,17 +227,9 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click **Apply** .
 
@@ -242,6 +238,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **7)**  Click the **Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Uncheck the box next to the program that you want to prevent it from auto-launching, and then click **OK** .
 
@@ -271,17 +271,21 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **msconfig**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the button next to **Normal startup,**  and then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Services tab** .
 
@@ -295,15 +299,7 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If your game still won’t launch, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update Windows components
 
@@ -320,6 +316,10 @@ If your game still won’t launch, move on to the next fix.
 **3)** Restart your computer and the game after the update is complete.
 
 If the issue persists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the game
 
@@ -347,20 +347,18 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-top-10plus-instagram-content-downloaders-reviewed/"><u>[New] Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-simple-videos-top-10-youtube-projects-anyone-can-do/"><u>[Updated] 2024 Approved Creating Simple Videos Top 10 YouTube Projects Anyone Can Do</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-boost-your-view-count-this-tutorials-top-hit/"><u>[Updated] Boost Your View Count This Tutorial's Top Hit</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-rated-free-tools-for-high-res-youtube-cover-extraction/"><u>[Updated] Top-Rated Free Tools for High-Res YouTube Cover Extraction</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-and-share-the-essential-guide-to-maccasting/"><u>2024 Approved Capture and Share The Essential Guide to Maccasting</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-planning-a-dynamic-tiktok-outro-experience/"><u>2024 Approved Planning a Dynamic TikTok Outro Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arma-3-stability-fixes-top-solutions-for-common-2024-crashes/"><u>Arma 3 Stability Fixes: Top Solutions for Common 2024 Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-technical-glitches-in-ac-odyssey-easy-troubleshooting-guide-for-pc-users/"><u>Banish Technical Glitches in AC Odyssey - Easy Troubleshooting Guide for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013264375-enjoy-uninterrupted-gameplay-the-problematic-assassins-creed-odyssey-pc-bug-is-now-solved/"><u>Enjoy Uninterrupted Gameplay - The Problematic Assassin's Creed Odyssey PC Bug Is Now Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-preventing-and-repairing-phoenix-point-game-crashes/"><u>Expert Tips on Preventing and Repairing Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-overcome-call-of-duty-vanguards-issue-5573-solutions-inside/"><u>Guide to Overcome Call of Duty Vanguard's Issue #5573 – Solutions Inside</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-performance-with-pro-windows-10-skills/"><u>In 2024, Maximizing Performance with Pro Windows 10 Skills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/latest-fixes-for-phasmophobia-technical-problems-stay-updated-gaming-success/"><u>Latest Fixes for Phasmophobia Technical Problems - Stay Updated Gaming Success</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-best-green-screen-apps-for-mac-a-comprehensive-guide-for-2024/"><u>New Best Green Screen Apps for Mac A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/update-v357-for-pcdjs-dex-3-and-red-mobile-free-download/"><u>Update v3.5.7 for PCDJ's DEX 3 & RED Mobile - Free Download</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-seamless-integration-of-fb-video-on-tv-screens/"><u>[New] 2024 Approved Seamless Integration of Fb Video on TV Screens</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-unveils-enhanced-gpt-4-model-for-superior-speaking-and-dialogue-performance/"><u>ChatGPT Unveils Enhanced GPT- 4 Model for Superior Speaking and Dialogue Performance</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/vering-success-through-the-most-effective-15-youtube-themes-for-2024/"><u>Discovering Success Through the Most Effective 15 YouTube Themes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-fixing-persistent-crashes-in-fifa-21-for-windows-users-full-walkthrough/"><u>Expert Advice: Fixing Persistent Crashes in FIFA 21 for Windows Users - Full Walkthrough</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-infancy-to-manhood-watching-supermans-journey-through-cinema-chronologically/"><u>From Infancy to Manhood: Watching Superman's Journey Through Cinema Chronologically</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971033529-get-your-broadcom-bluetooth-software-for-windows-1187-systems-today/"><u>Get Your Broadcom Bluetooth Software for Windows 11/8/7 Systems Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-f5-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco F5 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unleashing-potential-in-your-channel-through-studio/"><u>In 2024, Unleashing Potential in Your Channel Through Studio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-dying-lights-volume-problem-expert-tips-and-tricks/"><u>Resolving Dying Light's Volume Problem: Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013834195-solve-microsoft-flight-simulator-2n-update-hangups-once-and-for-all-step-by-step-guide/"><u>Solve Microsoft Flight Simulator 2N Update Hangups Once and for All - Step-by-Step Guide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-windows-spotlight-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues on Windows 11</u></a></li>
 </ul></div>
 

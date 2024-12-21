@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-12-16T06:44:30.494Z
-updated: 2024-12-18T22:10:16.444Z
+date: 2024-12-17T21:33:17.132Z
+updated: 2024-12-20T03:16:46.730Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -35,10 +35,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Delete the Bitraider folder](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Rule out software conflicts
 
@@ -53,7 +49,7 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
@@ -105,7 +101,7 @@ If this doesn’t work for you, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -127,16 +123,12 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -173,13 +165,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -189,6 +181,10 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -201,6 +197,10 @@ If SWTOR is still unplayable, move on to the next fix.
 **11)** Type**appwiz.cpl** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
 
@@ -227,20 +227,21 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-rankings.techidaily.com/4-methodes-untangling-hidden-files-an-easy-guide-to-finding-secrets-with-maps/"><u>[4 Methodes] Untangling Hidden Files: An Easy Guide to Finding Secrets with Maps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-step-by-step-process-to-shoot-with-a-fisheye-lens/"><u>[New] In 2024, Step-by-Step Process to Shoot with a Fisheye Lens</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/1-sd/"><u>1. 修复具有问题分区的SD卡的答案：一个全面的指南</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-update-issue-resolving-the-infamous-leaf-bug-of-2022/"><u>Apex Legends Update Issue: Resolving the Infamous 'Leaf' Bug of 2022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989071196-defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-note-12t-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi Note 12T Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-your-complete-reference-tips-and-tricks-with-zdnets-expert-guide/"><u>Mastering Windows 11: Your Complete Reference, Tips & Tricks with ZDNet's Expert Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-pc-problems-heres-how-to-resolve-them/"><u>Sons of the Forest PC Problems? Here's How to Resolve Them!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-get-your-valorant-game-running-again/"><u>Step-by-Step Solution to Get Your Valorant Game Running Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/taming-your-windows-11s-troublesome-bluetech-quick-fix-bluetooth-not-shutting-off/"><u>Taming Your Windows 11'S Troublesome BlueTech: Quick Fix! (Bluetooth Not Shutting Off)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-eliminating-latency-in-dota-2/"><u>Top Strategies for Eliminating Latency in Dota 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-wowpc-overcoming-startup-errors-in-world-of-warcraft/"><u>Troubleshooting WoWPC: Overcoming Startup Errors in World of Warcraft</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-stable-fifa-22-gaming-experience-on-windowsmac/"><u>Ultimate Solution for Stable FIFA 22 Gaming Experience on Windows/Mac</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-camon-20-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Camon 20 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-diy-guide-to-turning-youtube-screen-time-into-a-free-screencast/"><u>[Updated] 2024 Approved DIY Guide to Turning YouTube Screen Time Into a FREE Screencast</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-strategies-for-optimal-featured-channels-in-youtubes-algorithm/"><u>[Updated] 2024 Approved Strategies for Optimal Featured Channels in YouTube's Algorithm</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-techniques-for-perfect-time-lapse-videos-on-hero-10/"><u>[Updated] Masterful Techniques for Perfect Time-Lapse Videos on Hero 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pixelpie-editor/"><u>[Updated] PixelPie Editor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-zoom-freezing-proven-solutions-for-stability-in-windows-10-and-11/"><u>End Zoom Freezing: Proven Solutions for Stability in Windows 10 and 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-essential-tips-to-overcome-sons-of-the-forest-pc-crashing-issues/"><u>Fixed! Essential Tips to Overcome Sons of the Forest PC Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-steam-from-freezing-or-crashing/"><u>Fixes & Solutions: How to Stop Steam From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-connection-refused-by-anticheat-issue-on-escape-from-tarkov/"><u>Fixing the 'Connection Refused by Anticheat' Issue on Escape From Tarkov</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speeding-up-video-in-microsoft-slides/"><u>In 2024, Speeding Up Video in Microsoft Slides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991084157-madden-20-for-pc-stability-issues-heres-how-you-can-get-things-running-smoothly-again/"><u>Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-correcting-graphic-drawbacks-a-directdraw-error-solution-guide/"><u>Mastering the Art of Correcting Graphic Drawbacks – A DirectDraw Error Solution Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-new-tongues-with-these-superior-no-internet-translation-tools/"><u>Navigate New Tongues with These Superior No-Internet Translation Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-gionee-f3-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Gionee F3 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-players-facing-team-fortress-2-failure-to-load/"><u>Troubleshooting Tips for Players Facing 'Team Fortress 2 Failure to Load'</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-elite-comprehensive-review-of-the-top-tier-gmmk-pro-mechanical-keyboard-kit-zdnet-insights/"><u>Unveiling the Elite: Comprehensive Review of the Top-Tier GMMK Pro Mechanical Keyboard Kit | ZDNET Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-path-to-your-facebook-status-video-archive-for-2024/"><u>Unveiling the Path to Your Facebook Status Video Archive for 2024</u></a></li>
 </ul></div>
 

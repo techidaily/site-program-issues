@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fallout 3: Ultimate Tips to Fix Boot-Up Glitches"
-date: 2024-08-23T17:26:26.404Z
-updated: 2024-08-24T17:26:26.404Z
+date: 2024-12-15T16:30:10.504Z
+updated: 2024-12-20T00:55:41.808Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/083891d80d305e3e5a22e685512649ae9de124749
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -44,9 +41,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -59,11 +53,12 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -74,6 +69,10 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -82,10 +81,11 @@ There are mainly two ways you can update the graphics driver:
 
 2) Click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
@@ -93,29 +93,26 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -144,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +148,22 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-dragon-ball-z-kakarot-fatal-error-crash/"><u>[FIXED] Dragon Ball Z: Kakarot Fatal Error Crash</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles/"><u>[New] 2024 Approved The Best Child-Safe Cameras For First-Time Vloggers & Puddles</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-system-insights-by-toms-hardware-specialists/"><u>Advanced System Insights by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-error-cleared-in-epic-games-launcher-solutions-inside/"><u>Black Screen Error Cleared in Epic Games Launcher - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-remedies-to-resolve-chrome-freeze-issues-on-windows-11-computers/"><u>Easy Remedies to Resolve Chrome Freeze Issues on Windows 11 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011801568-effortless-troubleshooting-resolving-the-division-2-crashes-today/"><u>Effortless Troubleshooting: Resolving The Division 2 Crashes Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-connecting-live-streamers-easily-share-from-twitch-to-fb/"><u>In 2024, Connecting Live Streamers Easily Share From Twitch to FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhancing-your-snap-with-soundtracks-without-stickers/"><u>In 2024, Enhancing Your Snap with Soundtracks (Without Stickers)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-call-recording-a-step-by-step-guide/"><u>Mastering Windows Call Recording: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/methanol-is-metabolized-to-formaldehyde-and-formic-acid-which-can-cause-severe-acidosis-and-visual-disturbances/"><u>Methanol Is Metabolized to Formaldehyde and Formic Acid, Which Can Cause Severe Acidosis and Visual Disturbances.</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-community-oversight-facebooks-latest-update/"><u>Revolutionizing Community Oversight: Facebook's Latest Update</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-crafting-youtube-splitscreen-content/"><u>Step-by-Step Guide to Crafting YouTube Splitscreen Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-to-stop-maplestory-from-crashing-on-windows-10-latest-tips/"><u>Top Strategies to Stop MapleStory From Crashing on Windows 10 [Latest Tips]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stability-issues-on-call-of-duty-warzone-avoiding-crashes-on-the-pacific-map/"><u>Ultimate Solutions for Stability Issues on Call of Duty Warzone - Avoiding Crashes on the Pacific Map</u></a></li>
+</ul></div>
 

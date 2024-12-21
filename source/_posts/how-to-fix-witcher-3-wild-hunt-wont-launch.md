@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Witcher 3: Wild Hunt Won't Launch"
-date: 2024-12-12T19:09:56.269Z
-updated: 2024-12-18T21:12:48.004Z
+date: 2024-12-13T19:56:25.849Z
+updated: 2024-12-19T16:28:54.973Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa
 Resident Evil Village is finally out. And like every AAA title, Resident Evil Village has its own issues. If you’re experiencing Resident not launching, or crashing on startup, below you’ll find every possible fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/resident.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,6 +44,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 3. Toggle the switch to disable the **Enable in-game overlay** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-overlay-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: If you want to diable it just for Resident Evil Village, you can go to**Settings** \>**Games** , and togglle**Resident Evil Village** to**Off** .
 
 #### Disabling the GeForce Experience In-Game Overlay
@@ -56,15 +56,15 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 2. From the**GENERAL** panel, toggle the**SHARE** setting to off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-share.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Disabling Steam Overlay
 
 1. Open the Steam client and navigate to the **Steam > Settings/Preferences > In-game** tab.
 2. Uncheck the box next to **Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlay_options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Other common overlay applications
 
@@ -78,6 +78,10 @@ Resident Evil Village is finally out. And like every AAA title, Resident Evil Vi
 * Plays TV
 
  Check if you’re having other common overlay applications installed and learn how to disable them. Once they’re disabled, you can launch your game and test the issue. If Resident Evil Village is still not launching, you can try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update to the latest Game Ready driver
 
@@ -100,7 +104,7 @@ There’re mainly two ways you can update your graphics drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -124,15 +128,15 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
  4) Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Disable your antivirus software temporarily
 
@@ -145,28 +149,24 @@ There’re mainly two ways you can update your graphics drivers:
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those that belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech,** and **Intel** . Then click **OK**  to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** +**Shift**  +**Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Launch the game in windowed mode
 
@@ -182,15 +182,15 @@ There’re mainly two ways you can update your graphics drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/set-launch-options-edited.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Type or paste`**-windowed -noborder**` .
 
  5) Press**OK** to exit.
 
  Now you can launch your Resident Evil Village to check if the not launching issue has been resolved by now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Run the game as an administrator
 
@@ -239,24 +239,14 @@ There’re mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-smart-strategies-to-procure-photo-and-video-borders/"><u>[New] 2024 Approved Smart Strategies to Procure Photo & Video Borders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-best-live-sound-experience-service/"><u>[New] Best Live Sound Experience Service</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unleash-the-full-potential-of-your-android-device-with-obs-studio-for-2024/"><u>[New] Unleash the Full Potential of Your Android Device with OBS Studio for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-resilience-in-the-face-of-cyber-haters-for-2024/"><u>[Updated] Fostering Resilience in the Face of Cyber Haters for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x7b-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X7b</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/combined-sound-and-sight-workstation/"><u>Combined Sound & Sight Workstation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-why-your-pacific-drive-wont-launch-and-how-to-overcome-it/"><u>Diagnose & Repair: Why Your Pacific Drive Won't Launch and How to Overcome It</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/essential-techniques-for-effective-text-entry-into-pdf-files/"><u>Essential Techniques for Effective Text Entry Into PDF Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-not-found-issue-when-trying-to-enter-fortnite/"><u>How to Fix the 'Not Found' Issue When Trying to Enter Fortnite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi K70E Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/last-epoch-wont-boot-on-your-pc-masterful-fixes-and-updates-for-a-seamless-gaming-experience-202n/"><u>Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initialization-problems-in-your-atomic-heart-app/"><u>Overcoming Initialization Problems in Your Atomic Heart App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-multiplayer-setup-tips-for-effortless-game-sessions-with-loved-ones/"><u>PS5 Multiplayer Setup: Tips for Effortless Game Sessions with Loved Ones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-black-ops-cold-war-interface-bug-27711-fixed/"><u>Resolved: Black Ops Cold War Interface Bug 27711 Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-dinosaur-adventures-ultimate-guide-to-solve-jurassic-world-evolution-crashes/"><u>Smooth Dinosaur Adventures: Ultimate Guide to Solve Jurassic World Evolution Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-fall-guys-not-starting-up-correctly-play-without-interruptions/"><u>Step-by-Step Fixes for Fall Guys Not Starting Up Correctly - Play Without Interruptions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>[New] Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unleash-creative-potential-with-top-tips-for-gopro-timelapses-for-2024/"><u>[Updated] Unleash Creative Potential with Top Tips for GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-7-disruptive-w11-design-choices/"><u>Decoding the 7 Disruptive W11 Design Choices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hogwarts-legacy-optimization-hacks-improve-your-gaming-experience-with-these-6-fixes/"><u>Hogwarts Legacy Optimization Hacks - Improve Your Gaming Experience with These 6 Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-enhance-engagement-with-effective-yt-summary-writing/"><u>In 2024, Enhance Engagement with Effective YT Summary Writing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-concept-to-completion-an-instagram-video-strategy-manual/"><u>In 2024, From Concept to Completion An Instagram Video Strategy Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-5-strikers-screen-flicker-fixes-how-to-restore-vibrant-colors-and-clear-imagery/"><u>Persona 5 Strikers Screen Flicker Fixes – How to Restore Vibrant Colors and Clear Imagery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-pathfinder-wrath-of-the-righteous-freezes-in-windows-and-mac-os-now-running-smoothly/"><u>Solution for Pathfinder: Wrath of the Righteous Freezes in Windows and Mac OS - Now Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-preventing-super-fast-applications-from-freezing-your-pc/"><u>Solutions for Preventing 'Super-Fast' Applications From Freezing Your PC</u></a></li>
 </ul></div>
 

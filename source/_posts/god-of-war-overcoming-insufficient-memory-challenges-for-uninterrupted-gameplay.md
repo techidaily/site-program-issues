@@ -1,7 +1,7 @@
 ---
 title: God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay
-date: 2024-12-16T20:47:07.505Z
-updated: 2024-12-18T23:25:33.365Z
+date: 2024-12-12T20:11:01.578Z
+updated: 2024-12-20T00:55:06.110Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -41,6 +41,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 2. Click**Verify** to start verifying the game files.  
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -85,10 +89,6 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -99,6 +99,10 @@ Or
  Launch A Total War Saga: Troy to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -122,7 +126,7 @@ Or
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
@@ -136,7 +140,7 @@ Or
  If this issue persists after you stopped overclocking, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
@@ -149,16 +153,12 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
@@ -194,19 +194,14 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-apex-creators-video-giants-in-the-making-for-2024/"><u>[New] Apex Creators Video Giants in the Making for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/6-must-have-educational-apps-to-boost-students-success-and-support-parents/"><u>6 Must-Have Educational Apps to Boost Students' Success and Support Parents</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-on-pc-how-to-ensure-smooth-game-startup-after-recent-fixes/"><u>Cod: Black Ops Cold War on PC - How to Ensure Smooth Game Startup After Recent Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/extend-your-wifi-reach-the-definitive-list-of-superior-range-routers-for-2n-24/"><u>Extend Your WiFi Reach: The Definitive List of Superior Range Routers for 2N 24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-constant-game-interruptions-in-pathfinder-wrath-of-the-righteous/"><u>Fixing Constant Game Interruptions in Pathfinder: Wrath of the Righteous</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-optimization-tips-and-tricks-to-eliminate-lag/"><u>Guilty Gear Strive Optimization: Tips and Tricks to Eliminate Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-cod-black-ops-cold-war-error-code-80070057-effectively/"><u>How to Resolve the 'Cod: Black Ops Cold War' Error Code 80070057 Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-error-code-xc0f1103f-on-geforce-now-pcs/"><u>Rectifying Error Code XC0F1103F on GeForce Now, PCs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/say-goodbye-to-filmora-watermark-free-and-paid-solutions-revealed-for-2024/"><u>Say Goodbye to Filmora Watermark Free and Paid Solutions Revealed for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-turning-onoff-location-features-on-windows-11-tips-from-yl-software/"><u>Step-by-Step Guide: Turning On/Off Location Features on Windows 11 - Tips From YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-impact-of-new-features-on-fortnite-gameplay-analyzing-fps-drops-in-season-8/"><u>The Impact of New Features on Fortnite Gameplay: Analyzing FPS Drops in Season 8</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-10-proplus-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 10 Pro+ 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ultimate-6-devices-for-flawless-film-translation/"><u>Ultimate 6 Devices for Flawless Film Translation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-when-maplestory-launching-fails-a-step-by-step-guide/"><u>Ultimate Fixes for When Maplestory Launching Fails: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-fade-techniques-to-pare-down-audio-intensity-in-logic-pro-for-2024/"><u>[New] Fade Techniques to Pare Down Audio Intensity in Logic Pro for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>2024 Approved __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-of-overcoming-packet-loss-troubles-on-discord-platform/"><u>Effective Ways of Overcoming Packet Loss Troubles on Discord Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-guides-and-steps-to-resolve-continuous-crashes-in-resident-evil-4-remake/"><u>Essential Guides & Steps To Resolve Continuous Crashes In Resident Evil 4 Remake</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mettre-a-jour-votre-portfolio-avec-movavi-photo-editor-en-ligne-pour-lachat-immediat/"><u>Mettre À Jour Votre Portfolio Avec Movavi Photo Editor - En Ligne Pour L'achat Immédiat !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-the-manor-lords-game-crashing-in-windows/"><u>Resolving Issues with the Manor Lords Game Crashing in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-step-by-step-tutorial-converting-your-movies-into-dvd-format-on-pc/"><u>Ultimate Step-by-Step Tutorial: Converting Your Movies Into DVD Format on PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-3d-animation-programs-free-trials-and-paid-favorites-for-2024/"><u>Updated Discover the Best 3D Animation Programs Free Trials and Paid Favorites for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004702641-why-isnt-diablo-iii-playing-find-out-how-to-fix-it/"><u>Why Isn't Diablo III Playing? Find Out How to Fix It!</u></a></li>
 </ul></div>
 

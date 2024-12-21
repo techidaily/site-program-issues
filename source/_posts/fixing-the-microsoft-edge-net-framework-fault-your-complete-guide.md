@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2024-12-18T03:39:20.006Z
-updated: 2024-12-19T05:50:11.146Z
+date: 2024-12-18T21:42:12.621Z
+updated: 2024-12-19T16:19:54.756Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Battle.net is your destination for playing Blizzard & Activision games. However,
 
 _Image source: battle.net_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run Battle.net as an administrator and in compatibility mode
 
  When a program fails to launch, it may due to the lack of administrative rights. All you have to do is try to open your Battle.net as an administrator. In addition, running it in compatibility mode is aslo one way to fix common issues. Simply follow the steps below.
@@ -49,6 +45,10 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode.jpg)
 
  After applying the changes, open Battle.net. When the UAC prompt shows up, simply click**Yes** . If it isn’t opening, don’t fret! Below are some other methods you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Allow Battle.net through Windows Firewall
 
@@ -63,19 +63,27 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the**Change settings** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-3.jpg)
 6. Click**Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
@@ -86,7 +94,7 @@ _Image source: battle.net_
 9. When it’s located, click**Add** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
@@ -95,10 +103,6 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Close conflicting programs running in the background
 
@@ -123,13 +127,13 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . Then it will start checking for updates. When updates are available, follow the on-screen instructions to download and install them for your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update your drivers
 
@@ -149,6 +153,10 @@ You can update your drivers via the Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then follow the on-screen instructions to get the updates.
 
 ### Option 2: Automatically update your drivers (recommended)
@@ -162,16 +170,12 @@ Then follow the on-screen instructions to get the updates.
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the Pro version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -194,12 +198,16 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type**sfc /scannow** and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
@@ -212,10 +220,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with and full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
 
  After the repair, try to launch Battle.net. If, unfortunately, it still fails to open, you’ll need to consider**uninstalling and reinstalling the Battle.net app** .
@@ -225,10 +229,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
 
@@ -253,21 +253,20 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vllo-feedback-compilation/"><u>[Updated] 2024 Approved VLLO Feedback Compilation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-circling-success-how-to-captivate-your-instagram-audience/"><u>[Updated] Circling Success How to Captivate Your Instagram Audience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cyclings-finest-gaming-experiences/"><u>[Updated] Cycling's Finest Gaming Experiences</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-exploration-guide-the-best-historical-youtube-selections-for-students/"><u>[Updated] In 2024, Channel Exploration Guide The Best Historical YouTube Selections for Students</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-solved-how-to-correctly-install-and-activate-easy-anti-cheat-on-your-computer/"><u>Error Solved: How to Correctly Install and Activate Easy Anti-Cheat on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-on-the-msi-dragon-center-a-step-by-step-guide/"><u>Fixing Errors on the MSI Dragon Center: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/get-yours-before-it-sells-out-simulavr-unveils-linux-version-with-innovative-facial-tracking-features/"><u>Get Yours Before It Sells Out: SimulaVR Unveils Linux Version with Innovative Facial Tracking Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c22-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C22 Phone Screen?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-rapid-boot-up-resolving-your-apex-legends-launch-problems/"><u>Quick Fixes for Rapid Boot-Up: Resolving Your Apex Legends Launch Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-bg3-pc-freezing-issues-a-step-by-step-guide/"><u>Solving BG3 PC Freezing Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009001833-star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-mfplatdll-errors-effective-solutions-for-windows-users/"><u>Troubleshooting 'mfplat.dll' Errors: Effective Solutions for Windows Users</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-xmedia-recode-solutions-for-non-responsive-boot-issues/"><u>Troubleshooting XMedia Recode: Solutions for Non-Responsive Boot Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-preventing-disco-elysium-disruptions-during-playtime-on-pcs/"><u>Ultimate Fix Guide for Preventing 'Disco Elysium' Disruptions During Playtime on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-cyberpunk-2e77s-pc-crashes-with-easy-fixes/"><u>Ultimate Guide: Resolving Cyberpunk 2E77's PC Crashes with Easy Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/whats-the-solution-for-contact-numbers-displayed-rather-than-names-in-chats/"><u>What's the Solution for Contact Numbers Displayed Rather Than Names in Chats?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics-for-2024/"><u>[New] Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pioneering-the-future-of-instagram-downloads/"><u>[New] In 2024, Pioneering the Future of Instagram Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-steps-to-remove-following-requests-on-instagram/"><u>[New] In 2024, Steps to Remove Following Requests on Instagram</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-stuck-top-strategies-to-get-your-windows-11-running-smoothly-again/"><u>Chrome Stuck? Top Strategies to Get Your Windows 11 Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/"><u>Effective Solutions for Preventing PC Malfunctions When Playing 'Battlefront II'</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-revolutionary-content-your-path-to-100k-views/"><u>In 2024, Revolutionary Content Your Path to 100K Views</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2 5G FRP Without Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fixes-for-palworlds-persistent-search-errors/"><u>Mastering Fixes for PalWorld's Persistent Search Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-while-playing-stray-impact-discover-6-game-saving-tweaks-for-pc/"><u>No More Crashes While Playing Stray: Impact - Discover 6 Game-Saving Tweaks for PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/overlay-images-online-come-unire-due-fotografie-con-la-tua-app-o-sul-tuo-pc/"><u>Overlay Images Online - Come Unire Due Fotografie Con La Tua App O Sul Tuo PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-conversion-how-to-transform-dts-files-into-high-quality-flac-format/"><u>Seamless Conversion: How to Transform DTS Files Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-overcoming-nvidia-geforce-error-e0x0003/"><u>Step-by-Step Solution for Overcoming NVIDIA Geforce Error: E_0X0003</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/"><u>Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included</u></a></li>
 </ul></div>
 

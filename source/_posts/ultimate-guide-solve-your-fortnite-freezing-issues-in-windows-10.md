@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solve Your Fortnite-Freezing Issues in Windows 10"
-date: 2024-12-14T23:24:31.232Z
-updated: 2024-12-18T20:24:29.478Z
+date: 2024-12-12T17:00:40.906Z
+updated: 2024-12-20T02:29:38.733Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Here’s how you can do it:
 
  2) Click**Install now**  . The .exe installation file would then be downloaded automatically. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962aea31d8c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the downloaded file. Then follow the on-screen instructions to complete the installation.
 
  4) Re-play the YouTube video to see if it plays smoothly.
@@ -53,17 +57,21 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962b812b921.jpg)
 
- 2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
 
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
 
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -84,12 +92,16 @@ You can update your video driver either manually or automatically.
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and re-play the YouTube to see if it plays smoothly.
 
@@ -108,16 +120,8 @@ Here we take Chrome as an example to giving a step-by-step guide:
 3) Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f3a665d9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Chrome will check for updates automatically.
 
@@ -136,10 +140,6 @@ Here are some tips you can try for this case:
  Option 2:**Update your network card driver**  to boost your Internet speed. Like updating your video driver shown in Fix 3, you can also update your network card driver either manually or automatically through **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b963028e2fbb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -162,22 +162,16 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-video-cover-image-with-easy-steps/"><u>[New] 2024 Approved Transform Your Video Cover Image with Easy Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-down-the-system-behind-highlighted-video-comments/"><u>[Updated] In 2024, Breaking Down the System Behind Highlighted Video Comments</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-immersive-world-of-lg-27ud68/"><u>2024 Approved Discovering the Immersive World of LG 27UD68</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-animation-styles-pack/"><u>2024 Approved Ultimate Animation Styles Pack</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-lag-woes-in-naraka-game-fix-your-play-experience-now/"><u>Beat Lag Woes in Naraka Game - Fix Your Play Experience Now!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/can-vonage-retain-its-status-as-the-leading-voip-provider-amidst-growing-alternatives/"><u>Can Vonage Retain Its Status as the Leading VoIP Provider Amidst Growing Alternatives?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-smoothness-a-guide-to-fixing-frames-per-second-in-outriders/"><u>Enhancing Gameplay Smoothness: A Guide to Fixing Frames Per Second in Outriders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/flawless-gaming-experience-how-to-prevent-rocket-league-crashes/"><u>Flawless Gaming Experience: How to Prevent Rocket League Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-smooth-gameplay-solving-low-fps-issues-in-world-of-warcraft-wow/"><u>Get Smooth Gameplay: Solving Low FPS Issues in World of Warcraft (WoW)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c300-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C300 Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-lava-blaze-2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Lava Blaze 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C55 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-lag-ultimate-guide-to-eliminating-stuttering-in-halo-infinite/"><u>No More Lag: Ultimate Guide to Eliminating Stuttering in Halo Infinite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-back-online-after-recent-fix-no-more-connection-troubles/"><u>Origin Back Online After Recent Fix - No More Connection Troubles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionizing-ring-of-elysium-playtime-proven-strategies-to-amplify-frame-rate-and-refresh-speed/"><u>Revolutionizing Ring of Elysium Playtime: Proven Strategies to Amplify Frame Rate and Refresh Speed</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-off-emergency-broadcasts-and-amber-alerts-on-iphones-step-by-step-tips/"><u>Turning Off Emergency Broadcasts & Amber Alerts on iPhones – Step-by-Step Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wsappx-explained-methods-to-tackle-high-disk-and-cpu-utilization-efficiently/"><u>WSAPPX Explained: Methods to Tackle High Disk and CPU Utilization Efficiently</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevate-your-gaming-experience-with-smart-use-of-xbox-zoom/"><u>[Updated] Elevate Your Gaming Experience with Smart Use of Xbox Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-joke-fusion-best-meme-concepts-for-special-occasions/"><u>2024 Approved Joke Fusion Best Meme Concepts for Special Occasions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-online-destinations-for-3d-shimmering-letters/"><u>2024 Approved Ultimate Online Destinations for 3D Shimmering Letters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/prehensive-walkthrough-for-embedding-youtube-plays-in-web-design-for-2024/"><u>A Comprehensive Walkthrough for Embedding YouTube Plays in Web Design for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bluestacks-hiccups-mend-your-mobile-emulator-using-easy-to-follow-techniques/"><u>BlueStacks Hiccups? Mend Your Mobile Emulator Using Easy-to-Follow Techniques!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995149814-call-of-duty-black-ops-4-wont-start-solved/"><u>Call of Duty Black Ops 4 Won't Start - Solved</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-performance-low-cost-dive-into-the-tp-link-archer-a9-router-for-less-than-a-hundred-bucks/"><u>High Performance, Low Cost: Dive Into the TP-Link Archer A9 Router for Less than a Hundred Bucks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-frame-rate-in-rainbow-six-extraction-effective-fixes-for-gamers/"><u>Maximize Frame Rate in Rainbow Six Extraction: Effective Fixes for Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/oceans-bounty-best-cameras-for-anglers/"><u>Ocean's Bounty - Best Cameras for Anglers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-solutions-for-a-smooth-gameplay-in-tiny-tinas-wonderlands-without-any-pc-glitches/"><u>Tips and Solutions for a Smooth Gameplay in Tiny Tina's Wonderlands Without Any PC Glitches</u></a></li>
 </ul></div>
 

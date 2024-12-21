@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle"
-date: 2024-12-14T21:29:11.150Z
-updated: 2024-12-18T21:15:13.621Z
+date: 2024-12-18T16:37:58.268Z
+updated: 2024-12-20T01:37:05.285Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ Recently, many players are reporting the**_STAR WARS Jedi: Fallen Order_** not l
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,15 +126,15 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try relaunching your game to see if this has resolved your issue. If this didn’t help, try **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -150,6 +154,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still can’t launch**_STAR WARS Jedi: Fallen Order_** after the reboot, read on and try fix 5, below.
 
 ### Fix 5: Stop overclocking your CPU
@@ -166,6 +174,10 @@ If your issue continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-05.jpg)
@@ -177,10 +189,6 @@ If your issue continues to occur, go to the next fix.
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -204,6 +212,10 @@ If your issue continues to occur, go to the next fix.
 
 If your issues still exist, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s likely that a recent update is causing this issue for you and a new update is needed to fix it. Follow the instructions below to check for Windows updates:
@@ -213,16 +225,12 @@ If your issues still exist, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer after the update is complete, then relaunch your game. If the issue persists, try the fix, below.
 
@@ -237,10 +245,6 @@ If your issues still exist, read on and check the fix below.
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Highlight the**STAR WARS Jedi: Fallen Order folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -293,6 +297,10 @@ If your issues still exist, read on and check the fix below.
 
  After the update, check to see if your game launches correctly now. If your problem still exists, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset your console
 
  Improper console settings can also cause game launching errors on Xbox One. If you have changed any game settings recently, try resetting your Xbox One to its default factory settings. Follow the instructions below:
@@ -300,6 +308,10 @@ If your issues still exist, read on and check the fix below.
 **1)**  On the home screen, press the **Xbox** button to open the guide.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-14-1024x671.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Select **Settings** .
 
@@ -309,10 +321,6 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-23-1024x562.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Select **Console info.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-27.jpg)
@@ -321,13 +329,13 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Select **Reset and keep my games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your game to see if this worked for you. If it didn’t, check the fix below.
 
@@ -369,10 +377,6 @@ If your issues still exist, read on and check the fix below.
 2. **[Update your PS4 system software](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Reinstall**](https://tools.techidaily.com/drivereasy/download/) **[your game](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Restore your PS4 settings to default](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PS4
 
@@ -416,6 +420,10 @@ If your problem persists, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-25-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Press the **Options button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/black-4628421_1920-1024x758.jpg)
@@ -427,10 +435,6 @@ If your problem persists, move on to the fix below.
 **4)** Download and install the game again to test your issue.
 
 If your issue still exists, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Restore your PS4 settings to default
 
@@ -458,10 +462,6 @@ If your issue still exists, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-40-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)**  Restart your game.
 
  Hopefully, one of the fixes above helped in resolving your issue! Feel free to leave a comment below if you have any questions or suggestions, and we’ll see what more we can do.
@@ -486,18 +486,21 @@ If your issue still exists, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-navigating-the-world-of-fbx-for-gamers/"><u>[New] 2024 Approved Navigating the World of FBX for Gamers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photobooth-playback-error-constant-pause-issues/"><u>[Updated] Photobooth Playback Error Constant Pause Issues</u></a></li>
-<li><a href="https://facebook.techidaily.com/adolescent-advice-alert-reconsidering-constant-instagram-engagement/"><u>Adolescent Advice Alert: Reconsidering Constant Instagram Engagement?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-and-functional-topmate-c302-cooler-for-your-pc-in-depth-review/"><u>Affordable & Functional TopMate C302 Cooler for Your PC - In-Depth Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-5-fraps-replacements-without-watermarks-for-windows-users/"><u>Discover the Leading 5 Fraps Replacements Without Watermarks for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-address-and-solve-steams-server-connection-problems/"><u>Effective Strategies to Address and Solve Steam's Server Connection Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-selected-top-cordless-devices-to-upgrade-your-home/"><u>Expertly Selected Top Cordless Devices to Upgrade Your Home</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-resolve-black-screen-on-epic-games-launcher/"><u>Fixing the Issue: How to Resolve Black Screen on Epic Games Launcher</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-what-to-do-if-humanity-faces-a-launch-failure/"><u>Guide: What to Do If Humanity Faces a Launch Failure</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/jumpstart-your-journey-essential-youtubing-skills-course/"><u>Jumpstart Your Journey Essential YouTubing Skills Course</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Navigating the Digital Landscape with Leading Sites: Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-addressing-system-crashes-during-persona-presso-gameplay/"><u>Ultimate Fix Guide for Addressing System Crashes During Persona Presso Gameplay</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-zoomed-into-the-core-of-action-films/"><u>[New] In 2024, Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-enhance-discord-conversations-a-recorders-insight/"><u>[Updated] 2024 Approved Enhance Discord Conversations A Recorder's Insight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-maximize-video-clarity-with-obs-tweaks/"><u>[Updated] 2024 Approved Maximize Video Clarity with OBS Tweaks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-video-channels-face-off-the-monetization-tale-of-two-titles/"><u>2024 Approved Video Channels Face-Off The Monetization Tale of Two Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-stuck-heres-how-you-can-resolve-non-loading-webpages/"><u>Chrome Stuck? Here's How You Can Resolve Non-Loading Webpages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-guide-picking-the-perfect-vpn-for-your-mac-in-depth-analysis-by-techradar/"><u>Exclusive Guide: Picking the Perfect VPN for Your Mac – In-Depth Analysis by TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-updated-magicard-rio-pro-driver-for-windows-os/"><u>Get Your Hands on the Updated Magicard Rio Pro Driver for Windows OS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpt-your-visuals-the-ultimate-guide-to-photo-distortion/"><u>In 2024, Sculpt Your Visuals The Ultimate Guide to Photo Distortion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-mend-your-discord-overlay-glitch-with-ease/"><u>Quick Guide to Mend Your Discord Overlay Glitch with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-performance-lags-in-rainbow-six-siege-a-comprehensive-guide/"><u>Resolving Performance Lags in Rainbow Six Siege - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reverse-network-interface-failure-on-inspiron/"><u>Reverse Network Interface Failure on Inspiron</u></a></li>
+<li><a href="https://facebook.techidaily.com/seize-share-of-facebooks-massive-725m-settlement-fund/"><u>Seize Share of Facebook's Massive $725M Settlement Fund</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-odyssey-stuttering-issues-in-pc-gaming/"><u>Solve Assassin's Creed Odyssey Stuttering Issues in PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-city-portier-problems-effective-ways-when-your-game-fails-to-start/"><u>Solving City Portier Problems: Effective Ways When Your Game Fails to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-origin-app-working-again-in-modern-windows-environments/"><u>Step-by-Step Guide to Get Your Origin App Working Again in Modern Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-resolve-twitch-stream-load-failures/"><u>Top 7 Solutions to Resolve Twitch Stream Load Failures</u></a></li>
 </ul></div>
 

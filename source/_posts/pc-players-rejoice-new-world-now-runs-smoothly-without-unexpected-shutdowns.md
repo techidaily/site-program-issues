@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2024-12-16T23:25:41.027Z
-updated: 2024-12-19T03:54:48.126Z
+date: 2024-12-15T16:36:38.323Z
+updated: 2024-12-19T21:11:43.578Z
 tags:
   - win11
   - win10
@@ -80,10 +80,6 @@ You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
@@ -91,7 +87,7 @@ You can then launch Detroit: Become Human and see if it crashes again.
 If this fix failed to solve your issue, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -127,10 +123,6 @@ If this fix failed to solve your issue, please move on to the next one.
 
  If this fix doesn’t give you any luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, targeting respectively security issues and performance boost. You should**always keep your system up-to-date** , as it could be a potential fix to your game crashing issue.
@@ -142,10 +134,14 @@ Here’s how:
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -154,7 +150,7 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
@@ -167,13 +163,17 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 If the crashing reappears, please check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
@@ -205,19 +205,18 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/solved-game-security-violation-detected-error/"><u>[SOLVED] Game Security Violation Detected Error</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elevate-your-clicking-skills-with-these-top-12-pc-titles/"><u>2024 Approved Elevate Your Clicking Skills with These Top 12 PC Titles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-flexibility-perfecting-image-reshaping/"><u>2024 Approved Photo Flexibility Perfecting Image Reshaping</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-hot-30i-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Hot 30i? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-racing-experience-fixing-forza-horizon-5-issues-by-updating-gpu-drivers/"><u>Enhance Your Racing Experience: Fixing Forza Horizon 5 Issues by Updating GPU Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-take-on-the-superior-microsoft-surface-laptop-4/"><u>Expert Take on the Superior Microsoft Surface Laptop 4</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-i-find-great-indie-games-using-itchio/"><u>How I Find Great Indie Games Using Itch.io</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-4-simplified-ways-to-screen-record-lenovo/"><u>In 2024, 4 Simplified Ways to Screen Record Lenovo</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-seamless-gameplay-eliminating-performance-hiccups-in-todays-fast-paced-games/"><u>Mastering the Art of Seamless Gameplay: Eliminating Performance Hiccups in Today’s Fast-Paced Games</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/mastering-video-chat-on-snapchat-a-3-step-guide-to-efficiency/"><u>Mastering Video Chat on Snapchat A 3-Step Guide to Efficiency</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-alert-solving-hell-let-loose-continuous-crash-problems/"><u>PC Gaming Alert: Solving 'Hell Let Loose' Continuous Crash Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fps-dips-and-lag-surges-in-call-of-duty-black-ops-iv/"><u>Resolving FPS Dips & Lag Surges in Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-frustration-expert-solutions-for-ready-or-not-game-crashes-on-pc/"><u>Stop the Frustration! Expert Solutions for 'Ready or Not' Game Crashes on PC</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-free-video-recovery-software-pour-windows-10-testez-le-nouveau-meilleur/"><u>Top Free Video Recovery Software Pour Windows 10 - Testez Le Nouveau Meilleur!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-reviving-classics-top-20-anime-concepts-for-tiktoks-for-2024/"><u>[New] Reviving Classics Top 20 Anime Concepts for TikToks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pinnacle-of-hd-recording-expertly-curated-list/"><u>[Updated] Pinnacle of HD Recording Expertly Curated List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/building-worlds-in-torment-how-tides-of-numenera-elevates-science-fiction-rpg-through-rich-storytelling/"><u>Building Worlds in Torment: How Tides of Numenera Elevates Science Fiction RPG Through Rich Storytelling</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-iii-stability-enhanced-no-more-unexpected-shuts-down/"><u>Dark Souls III Stability Enhanced: No More Unexpected Shuts Down</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-gameplay-with-these-secrets-to-maximizing-fps-in-tainted-grail-conquest/"><u>Elevate Gameplay with These Secrets to Maximizing FPS in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>In 2024, Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-troubleshooting-techniques-for-arma-3-freezing-problems-2024-edition/"><u>Latest Troubleshooting Techniques for Arma 3 Freezing Problems - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-black-screen-problem-in-fallout-4-easy-fixes-and-troubleshooting-tips/"><u>Solve the Black Screen Problem in Fallout 4 - Easy Fixes & Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-when-lost-ark-wont-open-on-your-pc-or-console/"><u>Step-by-Step Fixes for When Lost Ark Won't Open on Your PC or Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-scavengers-game-crashes-on-personal-computers-solutions-inside/"><u>Troubleshooting Scavengers Game Crashes on Personal Computers - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-slow-ubisoft-download-speeds-effective-solutions-inside/"><u>Troubleshooting Slow Ubisoft Download Speeds - Effective Solutions Inside</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-the-potential-of-your-phone-and-dslr-for-igtv-videos/"><u>Unlocking the Potential of Your Phone & DSLR for IGTV Videos</u></a></li>
 </ul></div>
 

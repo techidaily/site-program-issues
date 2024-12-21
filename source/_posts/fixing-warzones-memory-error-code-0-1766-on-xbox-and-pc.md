@@ -1,7 +1,7 @@
 ---
 title: Fixing Warzone's Memory Error Code 0-1766 on Xbox and PC
-date: 2024-12-14T19:06:32.828Z
-updated: 2024-12-18T23:33:15.066Z
+date: 2024-12-13T18:55:36.434Z
+updated: 2024-12-19T20:23:39.075Z
 tags:
   - win11
   - win10
@@ -53,12 +53,16 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  If your Internet connection is solid but you still get the Memory Error 0-1766 on Warzone, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Close running games and apps (Xbox & PC)
 
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Xbox
 
@@ -66,24 +70,20 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 2. You’ll see a list of games and apps. If a game or app is running, it’ll be highlighted. Select the games and apps you wish to close, then**press the Menu button** (the three-line button.)
 3. Select**Quit** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### On PC
 
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, you’ll see all the programs/processes that are running in the background. You can look for the processes that are CPU, memory and/or network-hogging, which is most likely to conflict with Warzone.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
  If this doesn’t resolve the Memory Error 0-1766 for you, try the fixes for Xbox below, or jump to the[fixes for PC players](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Adjust display settings (Xbox)
 
@@ -109,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 3. Scroll down to find**Network Settings** , and select**Advanced Settings** \>>**Alternate Mac Address** .
 4. **Clear the Alternate Mac Address** . Your Xbox console should restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Verify and repair your game files (PC)
 
  If you’re getting the COD Warzone Memory Error 0-1766 on PC, a quick fix you can try is to verify your game files. Damaged game files could cause the error, but you can do a quick scan and repair within the Battle.net app. Here’s how:
@@ -123,16 +119,12 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 3. Wait for the scan to complete, then re-launch Warzone to test if the error is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve been accessing Warzone from Modern Warfare, you’ll need to go to the Modern Warfare page and do as Step 2 above instructs.
 
  If verifying and repairing your game files doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot (PC)
 
@@ -147,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
@@ -156,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -185,12 +181,12 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Warzone to test if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Warzone and causing Memory Error 0-1766.
 5. Disable the problem program and reboot your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: Update the graphics driver on your PC
 
@@ -208,6 +204,10 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -241,17 +241,24 @@ Make sure to restart your PC for the new driver to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-say-hello-to-banner-creativity-with-our-curated-set-of-50-free-youtube-pieces/"><u>[New] 2024 Approved Say Hello to Banner Creativity with Our Curated Set of 50 Free YouTube Pieces</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-encore-list-top-pick-for-digital-music-tones/"><u>[New] The Encore List Top Pick for Digital Music Tones</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>[Updated] Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/adjusting-your-icons-a-step-by-step-guide-to-resizing-them-in-windows-11/"><u>Adjusting Your Icons: A Step-by-Step Guide to Resizing Them in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connectivity-problems-in-minecraft-effective-ways-to-fix-them/"><u>Connectivity Problems in Minecraft - Effective Ways to Fix Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-non-launchable-steam-titles-on-windows-10-pcs/"><u>Diagnosing and Repairing Non-Launchable Steam Titles on Windows 10 PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-7-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>In 2024, Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g403-keyboard-and-gamepad-driver-setup-guide-windows/"><u>Logitech G403 Keyboard & Gamepad Driver Setup Guide (Windows)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rocket-league-freezing-issues-solve-them-with-these-expert-tips/"><u>Rocket League Freezing Issues? Solve Them with These Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-playtime-ahead-solving-the-cod-modern-warfare-keeps-crashing-dilemma/"><u>Smooth Playtime Ahead! Solving the 'Cod: Modern Warfare Keeps Crashing' Dilemma</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-making-spherical-videos-the-iphone-way/"><u>[New] Making Spherical Videos The iPhone Way</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ensure-your-video-fits-the-instagram-aesthetic-perfectly/"><u>[Updated] Ensure Your Video Fits the Instagram Aesthetic Perfectly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-upload-and-share-your-visual-content-on-youtube/"><u>[Updated] In 2024, Upload & Share Your Visual Content on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-supremacy-clash-analyzing-the-capabilities-of-llama-3-vs-gpt-4/"><u>AI Supremacy Clash: Analyzing the Capabilities of Llama 3 Vs. GPT-4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-how-to-resolve-when-borderlands-not-launches-correctly/"><u>Effective Fixes: How to Resolve When Borderlands nOt Launches Correctly</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-connectivity-issues-in-street-fighter-6-on-windows-computers/"><u>Expert Tips for Resolving Connectivity Issues in Street Fighter 6 on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-minecraft-stutter-and-lag-issues-top-solutions/"><u>Fixing Minecraft Stutter & Lag Issues : Top Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-s23-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel S23 PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-launch-issues-and-updated-tips-release/"><u>Lego Star Wars The Skywalker Saga - Resolved PC Launch Issues & Updated Tips Release</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/age-youtube-insights-for-sustainable-channel-development/"><u>Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-updating-the-centrino-advanced-n-6235-drivers-made-simple/"><u>Master Updating: The Centrino Advanced-N 6235 Drivers Made Simple</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mount-and-blade-ii-bannerlord-stability-fixes-for-a-smoother-gaming-experience/"><u>Mount & Blade II: Bannerlord Stability Fixes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ready-your-pc-for-windows-11s-tactile-interface/"><u>Ready Your PC for Windows 11'S Tactile Interface</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-fix-dead-by-daylight-code-8014-problems/"><u>Step-by-Step Solutions to Fix Dead by Daylight Code 8014 Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/surviving-against-all-odds-how-black-history-embodies-the-principle-of-eternal-return/"><u>Surviving Against All Odds: How Black History Embodies the Principle of 'Eternal Return'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/testing-your-custom-script-to-test-your-newly-created-custom-routine-trigger-it-using-its-designated-sound-cue-or-conditions-youve-set-up-the-google-assista417/"><u>Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script</u></a></li>
 </ul></div>
 

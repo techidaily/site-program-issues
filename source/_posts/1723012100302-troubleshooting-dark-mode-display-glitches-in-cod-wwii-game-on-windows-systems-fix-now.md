@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-12-12T00:18:17.855Z
-updated: 2024-12-19T00:05:41.754Z
+date: 2024-12-12T22:42:31.999Z
+updated: 2024-12-19T18:14:45.257Z
 tags:
   - win11
   - win10
@@ -44,15 +44,15 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -61,7 +61,7 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
@@ -96,6 +96,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
@@ -109,7 +113,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
@@ -123,7 +127,7 @@ Here is how to restart your network:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _modem_
@@ -140,10 +144,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -153,6 +153,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -166,10 +170,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -177,10 +177,6 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -193,6 +189,10 @@ _wireless router_
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -208,10 +208,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -220,13 +216,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
@@ -239,6 +235,10 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -267,22 +267,24 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-virtual-microphones/"><u>[New] In 2024, Premier Virtual Microphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>[New] Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-video-bite-by-celeb-on-vimeo/"><u>[Updated] In 2024, Video Bite by Celeb on Vimeo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-11-easy-to-produce-vlog-projects-at-home/"><u>2024 Approved 11 Easy-to-Produce Vlog Projects at Home</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-for-fixing-division-2-crash-problems-fast/"><u>Effortless Solutions for Fixing Division 2 Crash Problems Fast</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-discord-screen-audio-problem-during-broadcasting/"><u>How To Resolve Discord Screen Audio Problem During Broadcasting?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-launcher-and-game-errors-fixing-crash-problems-in-the-outer-worlds-for-windowsmacos/"><u>How to Solve Launcher & Game Errors: Fixing Crash Problems in 'The Outer Worlds' For Windows/MacOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-navigating-mac-screenshot-file-type-changes/"><u>In 2024, Navigating Mac Screenshot File Type Changes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012884230-inside-look-at-cyberpunk-2077s-flatline-mishap-demystifying-error-2024/"><u>Inside Look at Cyberpunk 2077'S Flatline Mishap - Demystifying Error 2024!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/integrating-secondary-shots-a-filmmakers-blueprint-for-2024/"><u>Integrating Secondary Shots A Filmmaker's Blueprint for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-major-social-platforms-insights-on-facebook-twitter-instagram-and-youtube/"><u>Navigating the Major Social Platforms: Insights on Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-loading-error-on-your-football-manager-2021-game-step-by-step-guide/"><u>Resolving 'Loading' Error on Your Football Manager 2021 Game – Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-evil-genius-2-failed-to-start/"><u>Resolving the Issue: Why Evil Genius 2 Failed to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snapchat-troubleshooting-solving-no-input-from-camera-device/"><u>Snapchat Troubleshooting - Solving No Input From Camera Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-outlook-fails-to-launch/"><u>Solving the Issue When Your Outlook Fails to Launch</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-playlist-perfect-for-pilgrims-party-how-to-download-memorable-thanksgiving-melodies-for-the-seasonal-feast-celebration/"><u>Ultimate Playlist Perfect for Pilgrims' Party: How to Download Memorable Thanksgiving Melodies for the Seasonal Feast Celebration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] 2024 Approved Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamlessly-explore-facebooks-past-content/"><u>[New] 2024 Approved Seamlessly Explore Facebook's Past Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[New] 2024 Approved Visual Aesthetics Boost Integrating Black Bar & Box Frame for Social Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-footprints-keeping-your-twitter-vids-safe-and-sound/"><u>2024 Approved Digital Footprints Keeping Your Twitter Vids Safe and Sound</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transcendence-in-music-mixing-crossfade-unveiled/"><u>2024 Approved Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-computer-glitches-the-definitive-guide-to-a-smooth-fifa-n-experience/"><u>Conquer Computer Glitches: The Definitive Guide to a Smooth FIFA N Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477020098-dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-reborn-bug-solved-stop-the-game-from-unexpectedly-closing-now/"><u>Diablo II Reborn Bug Solved: Stop the Game From Unexpectedly Closing Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-heartstone-crashing-problem-on-desktop-computers/"><u>Expert Advice: Overcoming HeartStone Crashing Problem on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-kernelbasedll-file-not-loading-problem-instantly/"><u>Fix the KernelBase.dll File Not Loading Problem Instantly!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-muted-bluetooth-speakers-in-win11/"><u>Fixing Muted Bluetooth Speakers in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .dot file</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-resolving-fortnite-crashes-on-pc-systems-pro-advice/"><u>Mastering Stability: Resolving Fortnite Crashes on PC Systems - Pro Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correct-error-0xc19001e1-in-windows-11/"><u>Step-by-Step Guide to Correct 'Error 0Xc19001e1' In Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-transforming-your-footage-into-high-resolution-4k/"><u>Step-by-Step Tutorial: Transforming Your Footage Into High-Resolution 4K</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-my-alienware-command-center-responding/"><u>Troubleshooting Guide: Why Isn't My Alienware Command Center Responding?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-lost-arks-frame-rate-challenges-and-performance-drops/"><u>Troubleshooting Lost Ark's Frame Rate Challenges and Performance Drops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-newest-macbook-features-and-reviews/"><u>Unveiling the Newest MacBook: Features and Reviews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001774207-warped-in-ice-thaw-your-stalled-cyberpunk-2erpunk-2077-experience-now/"><u>Warped in Ice? Thaw Your Stalled Cyberpunk 2Erpunk 2077 Experience Now</u></a></li>
 </ul></div>
 

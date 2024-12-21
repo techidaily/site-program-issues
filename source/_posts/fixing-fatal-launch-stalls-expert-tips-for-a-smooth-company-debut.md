@@ -1,7 +1,7 @@
 ---
 title: Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut
-date: 2024-12-16T18:54:40.115Z
-updated: 2024-12-18T18:12:14.300Z
+date: 2024-12-16T16:55:25.422Z
+updated: 2024-12-19T18:18:16.775Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 ## Immortals: Fenyx Rising Debut Triumph - Previous Launch Hiccup Smoothed Out
 
 Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is finally[here](https://www.epicgames.com/store/en-US/p/immortals-fenyx-rising?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=4b35838425c74992ad42e1276b2161ca) , giving you a gorgeous world to explore. However, many players reported various issues with this new title, such as the game not launching or stuck on loading. If you face the same predicament, don’t worry. Here are some quick fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -52,7 +48,15 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -70,7 +74,7 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
@@ -78,7 +82,7 @@ There are mainly two ways you can do this:
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Verify the integrity of game files
@@ -89,10 +93,6 @@ There are mainly two ways you can do this:
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
@@ -112,15 +112,11 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
@@ -131,11 +127,15 @@ There are mainly two ways you can do this:
 7. After the game is added, select it and click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -160,24 +160,20 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-launching-professional-instagram-starting-an-enterprise-account/"><u>[New] 2024 Approved Launching Professional Instagram Starting an Enterprise Account</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-nostalgic-journey-through-time-with-stop-motion-classics/"><u>[Updated] 2024 Approved A Nostalgic Journey Through Time with Stop-Motion Classics</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-cut-edge-video-enhancement-merging-windows-11-and-storyremix-for-creative-edits/"><u>[Updated] In 2024, Cut-Edge Video Enhancement Merging Windows 11 & StoryRemix for Creative Edits</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-wallet-friendly-mirrorless-choices/"><u>[Updated] In 2024, Wallet-Friendly Mirrorless Choices</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/experiencing-problems-with-your-blue-yeti-microphone-discover-how-to-quickly-resolve-recognition-glitches/"><u>Experiencing Problems with Your Blue Yeti Microphone? Discover How to Quickly Resolve Recognition Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-strategies-to-recover-lost-connections-in-the-world-of-terraria/"><u>Expert Strategies to Recover Lost Connections in the World of Terraria</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-pioneer-bdr-xs06-blu-ray-disc-burner-a-comprehensive-look-at-its-mobility-and-efficiency/"><u>Exploring the Pioneer BDR-XS06 Blu-Ray Disc Burner: A Comprehensive Look at Its Mobility & Efficiency</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-pc-woes-solve-stuttering-and-frame-drop-glitches-in-call-of-duty-mw2/"><u>Fix Your PC Woes! Solve Stuttering and Frame Drop Glitches in Call of Duty: MW2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-life-is-strange-true-colors-game-crash-issues-solutions-guide/"><u>How to Fix Life Is Strange: True Colors Game Crash Issues - Solutions Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-steam-hitches-continuous-freeze-ups/"><u>How to Overcome Steam Hitches: Continuous Freeze-Ups</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/making-an-informed-decision-5-crucial-criteria-to-check-out-for-selecting-the-perfect-fitness-monitor/"><u>Making an Informed Decision: 5 Crucial Criteria to Check Out for Selecting the Perfect Fitness Monitor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-quick-fix-ending-overwatchs-troublesome-launch-blackout-issue/"><u>Master the Quick Fix: Ending Overwatch's Troublesome Launch Blackout Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/preventing-and-fixing-pc-game-crashes-during-playthroughs-call-of-duty-warzone-20-tips/"><u>Preventing and Fixing PC Game Crashes During Playthroughs - Call of Duty Warzone 2.0 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-lost-ark-gaming-optimizing-frame-rate-and-fixing-lag/"><u>Resolved: Lost Ark Gaming - Optimizing Frame Rate and Fixing Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-crashes-now-essential-tips-to-optimize-your-assassins-creed-experience-ac-mirage-2024-guide/"><u>Stop Crashes Now: Essential Tips to Optimize Your Assassin's Creed Experience (AC Mirage) - 2024 Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/stream-and-watch-in-style-why-amazon-prime-members-love-toshiba-lf711u2055-inch-fire-tv-edition/"><u>Stream and Watch in Style: Why Amazon Prime Members Love Toshiba LF711U2^055-Inch Fire TV Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-five-methods-to-troubleshoot-zooms-unresponsive-video-feature/"><u>The Ultimate Guide: Five Methods to Troubleshoot Zoom's Unresponsive Video Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-ii/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty: Modern Warfare II</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-xiaomi-13t-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Xiaomi 13T Pro fingerprint</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-scalable-techniques-for-vimeo-broadcasting/"><u>[New] 2024 Approved Scalable Techniques for Vimeo Broadcasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-gentle-guidance-to-good-slumber-top-asmr-pros-for-2024/"><u>[New] Gentle Guidance to Good Slumber Top ASMR Pros for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-value-oriented-pc-screen-recorders/"><u>[Updated] Value-Oriented PC Screen Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/ally-x-endgame-for-handheld-tech-predicaments/"><u>Ally X: Endgame for Handheld Tech Predicaments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-the-daunting-battlenet-not-opening-error-a-user-friendly-guide/"><u>Defeating the Daunting Battle.net Not Opening Error : A User-Friendly Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-on-pc-say-goodbye-to-crashes-with-latest-fixes/"><u>Destiny 2 on PC: Say Goodbye to Crashes with Latest Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-system32-windows-11-edition/"><u>Exploring System32: Windows 11 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-understanding-and-preventing-persistent-crashes-in-rust-programs/"><u>Fixed! Understanding and Preventing Persistent Crashes in Rust Programs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-gaming-experience-farming-simulator-aturinator-22-optimized-for-pc/"><u>Improving Your Gaming Experience: Farming Simulator Aturinator 22 Optimized for PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-2-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze 2 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-how-to-repair-phoenix-point-game-crashes-easily/"><u>No More Freezing - How to Repair Phoenix Point Game Crashes Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-app-wont-load-heres-how-to-fix-it/"><u>Origin App Won't Load? Here's How to Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-overcoming-failed-to-create-opengl-context-error-with-qsurfaceformat/"><u>Solving the Issue: Overcoming 'Failed to Create OpenGL Context' Error with QSurfaceFormat</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-process-of-uploading-vhs-videos-onto-your-pc-for-dvd-creation/"><u>Step-by-Step Process of Uploading VHS Videos Onto Your PC for DVD Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategic-approaches-to-merging-windows-partitions/"><u>Strategic Approaches to Merging Windows Partitions</u></a></li>
 </ul></div>
 

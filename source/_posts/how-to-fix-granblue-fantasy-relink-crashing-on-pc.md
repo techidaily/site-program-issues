@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Granblue Fantasy: Relink Crashing on PC"
-date: 2024-08-28T06:19:18.887Z
-updated: 2024-08-29T06:19:18.887Z
+date: 2024-12-17T21:18:34.679Z
+updated: 2024-12-19T18:57:58.143Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | RAM             | 4 GB                                         |
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
@@ -36,18 +37,21 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
 
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -60,15 +64,13 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 10. Select **OK** to save your changes and close the Exception List window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -84,11 +86,12 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
 
@@ -100,8 +103,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +110,26 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-changing-gender-representation-in-social-media-images/"><u>[New] 2024 Approved Changing Gender Representation in Social Media Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-essential-guide-to-downloading-and-personalizing-whatsapp-tones-for-iphonesandroids/"><u>[Updated] The Essential Guide to Downloading & Personalizing WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-can-i-peruse-friends-shared-videos-and-pics-via-messenger/"><u>2024 Approved Can I Peruse Friends' Shared Videos & Pics via Messenger?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-the-most-vexing-iphone-x-problems-expert-tips-and-tricks/"><u>Beating the Most Vexing iPhone X Problems - Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-persistent-fuser-software-malfunctions-on-personal-computers/"><u>Effective Solutions for Persistent Fuser Software Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-tips-for-smooth-csgo-performance-optimization/"><u>Effective Tips for Smooth CS:GO Performance Optimization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-code-vein-screen-flickering-a-step-by-step-guide/"><u>Fixing Code Vein Screen Flickering: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-troubleshooting-cataclysm-in-the-tribes-of-midgard/"><u>Fixing Issues: Troubleshooting Cataclysm in the Tribes of Midgard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-warzones-troublesome-memory-error-code-0-1766-on-xbox-and-pc/"><u>Fixing Warzone's Troublesome Memory Error Code 0-1766 on Xbox and PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-doubt-to-devotion-the-top-3-apple-watch-series-10-upgrades-that-sealed-the-deal/"><u>From Doubt to Devotion: The Top 3 Apple Watch Series 10 Upgrades That Sealed the Deal</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/from-pictures-to-prose-photo-text-alteration-techniques/"><u>From Pictures to Prose Photo Text Alteration Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/development-behind-the-scenes/"><u>Game Development Behind-the-Scenes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-solve-your-gta-5-frame-rate-drop-issues-instantly/"><u>Quick Fix: Solve Your GTA 5 Frame Rate Drop Issues Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-enhancing-gameplay-speed-in-the-elder-scrolls-online-blackwood-expansion/"><u>Solution Found! Enhancing Gameplay Speed in The Elder Scrolls Online - Blackwood Expansion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-12-camera-guide-for-effortless-screen-swivel-use/"><u>The Ultimate 12 Camera Guide for Effortless Screen Swivel Use</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-cost-effective-amazonbasics-6-sheets-crosscut-shredder-experience/"><u>The Ultimate Guide to the Cost-Effective AmazonBasics 6-Sheets Crosscut Shredder Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pathfinder-wrath-of-the-righteeous-update-constant-system-failures/"><u>Troubleshooting Pathfinder: Wrath of the Righteeous Update Constant System Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-mass-effect-legendary-edition-for-smooth-gameplay-across-pcs-and-xboxes/"><u>Troubleshooting the Mass Effect Legendary Edition for Smooth Gameplay Across PCs and Xboxes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95830361-9781616409159-wallace-d-wattles-trilogy/"><u>Wallace D. Wattles Trilogy | Free Book</u></a></li>
+</ul></div>
 

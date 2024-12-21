@@ -1,7 +1,7 @@
 ---
 title: Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac
-date: 2024-12-11T23:42:17.408Z
-updated: 2024-12-18T21:15:31.646Z
+date: 2024-12-16T16:04:29.656Z
+updated: 2024-12-19T18:54:54.732Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
@@ -81,16 +81,12 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -112,11 +108,19 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -133,7 +137,7 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -142,21 +146,17 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -184,18 +184,24 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-masterful-photoshop-techniques-to-anonymize-images/"><u>[New] Masterful Photoshop Techniques to Anonymize Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-leading-video-technology-of-the-year-2024/"><u>[New] The Leading Video Technology of the Year - 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-freefire-tag-collection-enhance-your-youtube-channels/"><u>[New] Ultimate FreeFire Tag Collection Enhance Your YouTube Channels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-modern-warfare-fps-issues-addressed-with-recent-game-update/"><u>Call of Duty: Modern Warfare - FPS Issues Addressed with Recent Game Update</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-insights-into-apples-ai-innovations-from-the-latest-wwdc-event/"><u>Comprehensive Insights Into Apple's AI Innovations From the Latest WWDC Event</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-glitched-graphics-a-guide-for-warzone-players-dealing-with-screen-flares/"><u>Eliminating Glitched Graphics: A Guide for Warzone Players Dealing with Screen Flares</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-assassins-creed-valhalla-low-fps/"><u>How to Fix Assassin's Creed Valhalla Low FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-10t-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 10T 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pacific-battlefront-issues-in-cod-warzone-solved-crashing-problems/"><u>Pacific Battlefront Issues in COD: Warzone - Solved Crashing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-restoring-functionality-of-the-steelseries-gg-gamepad-engine-on-windows/"><u>Step-by-Step Guide to Restoring Functionality of the SteelSeries GG Gamepad Engine on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-content-file-blocked-error-in-your-steam-library/"><u>The Ultimate Fix for 'Content File Blocked' Error in Your Steam Library</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-win-troubleshooting-toolkit/"><u>The Ultimate Win Troubleshooting Toolkit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-definitive-list-of-win10s-top-video-capture-software/"><u>[New] 2024 Approved The Definitive List of Win10's Top Video Capture Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-image-innovation-at-its-peak-8-leaders-in-photogridding/"><u>[Updated] 2024 Approved Image Innovation at Its Peak 8 Leaders in Photogridding</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-learn-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs/"><u>[Updated] Learn to Record and Save Your Watching Experience on YouTube with Zero Costs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-preparing-to-engage-in-googles-video-meetings/"><u>[Updated] Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-gopros-capabilities-for-capturing-dynamic-time-lapse-videos/"><u>[Updated] Unveiling GoPro's Capabilities for Capturing Dynamic Time-Lapse Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-leading-edge-screen-snapshot-software/"><u>2024 Approved Leading Edge Screen Snapshot Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-bugfix-top-solutions-for-game-stability/"><u>Alan Wake 2 Bugfix: Top Solutions for Game Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-blues-with-your-console-a-detailed-fixing-guide-for-frequent-ps4-freezing-issues/"><u>Beating the Blues with Your Console: A Detailed Fixing Guide for Frequent PS4 Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tips-and-solutions-addressing-and-resolving-pc-crash-issues-in-overwatch-2/"><u>Comprehensive Tips & Solutions: Addressing and Resolving PC Crash Issues in Overwatch 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-atomic-heart-catastrophe-mastering-startup-survival-tactics/"><u>Conquering the 'Atomic Heart' Catastrophe: Mastering Startup Survival Tactics</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/explore-top-rated-minneapolis-seo-experts-unleash-your-brands-potential-with-seo-powersuite/"><u>Explore Top-Rated Minneapolis SEO Experts - Unleash Your Brand's Potential with SEO PowerSuite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-crusader-kings-iii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Stop Crusader Kings III From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-5-crash-dilemma-top-techniques-for-ensuring-smooth-gaming-on-pcs/"><u>Forza Horizon 5 Crash Dilemma? Top Techniques for Ensuring Smooth Gaming on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a24-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A24 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y200-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y200 Phone Now with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-challenge-of-fixes-applied-modern-warfare-2-wont-start/"><u>Resolved: Overcoming the Challenge of [Fixes Applied] Modern Warfare 2 Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-starfield-game-stability-issues-no-more-pc-crashes/"><u>Resolved: Starfield Game Stability Issues - No More PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-enhancing-your-ark-sanctuary-defense-pc-gameplay-with-an-fps-boost/"><u>Top Tips for Enhancing Your ARK: Sanctuary Defense PC Gameplay with an FPS Boost</u></a></li>
 </ul></div>
 

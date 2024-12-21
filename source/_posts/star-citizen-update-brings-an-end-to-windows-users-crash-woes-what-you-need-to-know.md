@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!
-date: 2024-12-17T17:20:44.928Z
-updated: 2024-12-18T18:08:45.738Z
+date: 2024-12-17T20:11:16.578Z
+updated: 2024-12-20T03:02:44.580Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
@@ -55,6 +55,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
@@ -64,10 +68,6 @@ This could take several minutes. Wait for the process to be complete.
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -85,10 +85,6 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -104,7 +100,7 @@ This could take several minutes. Wait for the process to be complete.
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
@@ -124,7 +120,7 @@ This could take several minutes. Wait for the process to be complete.
 Your game still won’t work correctly? Read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
@@ -148,12 +144,16 @@ If the crashing still happens, continue with the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -182,18 +182,24 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-step-into-the-future-elevate-your-gameplay-with-fbx-recorder-for-2024/"><u>[Updated] Step Into the Future Elevate Your Gameplay with FBX Recorder for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-parents-guide-to-fun-and-educational-movies-for-kids-on-netflix/"><u>A Parent’s Guide to Fun and Educational Movies for Kids on Netflix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-flow-in-naraka-bladepoint-by-resolving-stuttering-and-low-frame-rates/"><u>Achieve Uninterrupted Flow in Naraka: Bladepoint by Resolving Stuttering and Low Frame Rates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anker-unveils-new-eco-friendly-ganprime-power-solutions-for-rapid-and-secure-device-charging-exploring-the-advances-at-zdnet/"><u>Anker Unveils New Eco-Friendly GaNPrime Power Solutions for Rapid & Secure Device Charging - Exploring the Advances at ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-webcams-for-peak-twitch-performance-for-2024/"><u>Essential Webcams for Peak Twitch Performance for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-and-freezing-problems-in-sifu-on-personal-computers/"><u>Fixes for Stuttering & Freezing Problems in Sifu on Personal Computers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-15-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 15 Pro Max Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-tips-to-increase-fps-on-rainbow-six-extraction/"><u>Optimizing Performance: Tips to Increase FPS on Rainbow Six Extraction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-errors-in-logitech-settings-on-windows-computers/"><u>Overcoming Common Errors in Logitech Settings on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-division-amoknuckles-stalled-startup-problems-latest-fixes-2024/"><u>Step-by-Step Troubleshooting for Division amoKnuckle's Stalled Startup Problems - Latest Fixes 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-update-of-canon-lbp-690b-printer-software-compatible-with-windows-os/"><u>Step-by-Step Update of Canon LBP 690B Printer Software Compatible with Windows OS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-valheim-seeds-and-growth-techniques/"><u>Top Valheim Seeds & Growth Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987820014-why-is-my-origin-not-starting-in-windows-11-find-out-why-and-how-to-fix-it/"><u>Why Is My Origin Not Starting in Windows 11? Find Out Why and How to Fix It!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-user-friendly-guide-to-board-integration-in-desktopiosandroid-zoom-meetings/"><u>[New] 2024 Approved A User-Friendly Guide to Board Integration in Desktop/iOS/Android Zoom Meetings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficient-techniques-for-youtube-shorts-revenue/"><u>[Updated] In 2024, Efficient Techniques for YouTube Shorts Revenue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syncing-sounds-to-visuals-online/"><u>[Updated] Syncing Sounds to Visuals Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-decision-must-cause-harm-to-someone/"><u>A Decision Must Cause Harm to Someone.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/adobe-application-start-up-problems-fixing-the-causes-behind-code-0xc0000022-and-ensuring-smooth-operation/"><u>Adobe Application Start-Up Problems: Fixing the Causes Behind Code 0xC0000022 and Ensuring Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-dark-screens-effective-troubleshooting-techniques/"><u>Conquering Dark Screens: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-correct-your-minecraft-crossbow-problems-today/"><u>Decode and Correct Your Minecraft Crossbow Problems Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-12-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme 12 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-non-responsive-start-button-on-windows-10-easy-solutions/"><u>Fixing the Non-Responsive Start Button on Windows 10 - Easy Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-to-playing-fifa-19-effective-fix-for-game-crashes-on-pc/"><u>Get Back to Playing FIFA 19: Effective Fix for Game Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-razer-driver-updates-a-step-by-step-tutorial-for-windows-users/"><u>Mastering Razer Driver Updates: A Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-troubleshooting-and-fixing-frequent-fps-decreases-during-gameplay/"><u>PC Gamers' Guide: Troubleshooting & Fixing Frequent FPS Decreases During Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-network-delays-in-league-of-legends/"><u>Resolved: How to Fix Network Delays in League of Legends</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-step-by-step-guide-to-fix-pacific-drive-crashes-on-your-computer/"><u>Resolving Issues: Step-by-Step Guide to Fix Pacific Drive Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-game-crashes-overcome-nba-2k23-hurdles-with-these-7-pro-tips-and-fixes/"><u>Stop PC Game Crashes: Overcome NBA 2K23 Hurdles with These 7 Pro Tips & Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-start-a-private-live-stream-on-youtube/"><u>Updated How To Start a Private Live Stream on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-voice-access-solutions-for-common-issues/"><u>Win11 Voice Access: Solutions for Common Issues</u></a></li>
 </ul></div>
 

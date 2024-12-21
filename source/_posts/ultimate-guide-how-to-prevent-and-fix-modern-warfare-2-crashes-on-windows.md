@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows"
-date: 2024-12-16T23:35:30.522Z
-updated: 2024-12-19T01:38:45.395Z
+date: 2024-12-17T20:00:22.751Z
+updated: 2024-12-20T02:38:56.772Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0
 With its new engine and gameplay mechanics adding more realism, Call of Duty®: Modern Warfare 2 is definitely an exceptional game and a worthy successor. However, this game is not problem-free, just like many other big releases. A number of players are getting massive in-game stutters and FPS drops. If you’re on the same boat, don’t fret! We’ll walk you through the simplest yet most effective steps to fix the issue you’re having.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Modern-Warfare-2-FPS-drops-and-stuttering-1200x675.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before getting started…
 
@@ -50,6 +46,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
  Remember that even players with high-end gaming rigs are suffering from FPS drops and random stutters. Therefore, it’s suggested that yours meets recommended requirements if you wish to get the most out of the game.
 
  If your computer perfectly meets the requirements but you’re still having the issue, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -83,6 +83,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
  There are mainly two ways to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  First, you’ll need to know your graphics card’s name and its manufacturer.
@@ -93,6 +97,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. Select the**Display** tab. In the Device section, you’ll see your graphics card’s name and manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
  Now go to the manufacturer’s official website of your graphics card. Find the most up-to-date driver for your system. Then all you need to do is follow the on-screen instructions to download and install it.
@@ -102,10 +110,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 * [NVIDIA](http://www.nvidia.com/drivers)
 * [AMD](http://www.amd.com/drivers)
 * [Intel](http://downloadcenter.intel.com/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -120,6 +124,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -137,11 +145,11 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
- Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
 
 ## 4\. Reset priority and affinity
 
@@ -154,6 +162,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/change-priority-to-low.jpg)
 4. Click**Change priority** to confirm the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/confirm-to-change-priority.jpg)
 
  For users who have a 6-12 core CPU, use the Task Manager and set affinity to CPU 0,1,2,3\. All you have to do is right-click your game and your game launcher, then select**Set affinity** . When the window opens, make sure**only the boxes next to CPU 0, CPU 1, CPU 2, CPU 3 are checked** .
@@ -162,19 +174,15 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/set-affinity-to-CPU-0-1-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t know how many cores your CPU has? Simply go to the**Performance** tab on the Task Manager. Then you’ll see the number of cores in your processor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/how-to-check-how-many-cores-your-CPU-has.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve applied all the changes, launch your game and see how things go. If no improvements have been seen, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware acceleration
 
@@ -195,11 +203,11 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2-high-performance.jpg)
 
- After applying the changes, launch the game and test the performance. If you can’t see many improvements, move on to the next method below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After applying the changes, launch the game and test the performance. If you can’t see many improvements, move on to the next method below.
 
 ## 6\. Verify your game files
 
@@ -214,6 +222,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
@@ -230,10 +242,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 If that doesn’t make any difference, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Tweak in-game settings
 
  Sometimes, the settings by default may not be tailored to your rigs. You can adjust them and check if that can give you a performance boost. Simply open your game settings and make the following adjustments.
@@ -242,17 +250,9 @@ If that doesn’t make any difference, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/tweak-in-game-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under the QUALITY section
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Run a full scan of your PC
 
@@ -267,7 +267,7 @@ If that doesn’t make any difference, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the repair, restart your computer and you should be able to play your game without many interruptions.
@@ -291,19 +291,15 @@ If that doesn’t make any difference, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-transforming-imagery-with-quantum-hdr/"><u>[New] 2024 Approved Transforming Imagery with Quantum HDR</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-frequent-interruptions-a-solution-for-lost-arks-pc-system-failures/"><u>Addressing Frequent Interruptions: A Solution for Lost Ark's PC System Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/demystifying-and-solving-the-persistent-black-monitor-issue-on-windows-11-computers/"><u>Demystifying and Solving the Persistent Black Monitor Issue on Windows 11 Computers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-tips-for-creating-engaging-screencasts-for-2024/"><u>Expert Tips for Creating Engaging Screencasts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-hiccups-addressing-content-warning-in-voice-chats/"><u>Fixing Voice Communication Hiccups: Addressing 'Content Warning' In Voice Chats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989065536-how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-annual-compilation-of-premium-free-lut-choices/"><u>In 2024, Annual Compilation of Premium Free LUT Choices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-13-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 13 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x50frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X50FRP Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-utorrent-downloading-and-network-issues-with-easy-to-follow-advice/"><u>Overcoming Common uTorrent Downloading and Network Issues with Easy-to-Follow Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-inserting-tracks-in-youtube-playlists/"><u>Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721266407609-top-10-leading-iphone-and-ipad-erasers-safeguard-privacy-by-removing-all-data/"><u>Top 10 Leading iPhone & iPad Erasers: Safeguard Privacy by Removing All Data!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-problems-and-hitching-performance-on-windows-cod-mow-2/"><u>Troubleshooting FPS Problems and Hitching Performance on Windows - COD: MoW 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-warcraft-slowdown-solutions-expert-tips-and-tricks-to-skyrocket-your-fps/"><u>World of Warcraft Slowdown Solutions: Expert Tips & Tricks to Skyrocket Your FPS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[New] In 2024, Unveiling Visuals Top 10 Instagram Editing Applications for Professionals</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamline-video-production-with-free-music-for-2024/"><u>[Updated] Streamline Video Production with Free Music for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/efficient-editing-for-quick-youtube-content/"><u>Efficient Editing for Quick YouTube Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-resolve-black-screen-on-epic-games-launcher/"><u>Fixing the Issue: How to Resolve Black Screen on Epic Games Launcher</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-frame-rates-strategies-to-boost-fps-in-the-world-of-ring-of-elysium/"><u>Mastering Frame Rates: Strategies to Boost FPS in the World of Ring of Elysium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-enhancing-fps-in-fallout-76-latest-fixes-and-tricks-2023/"><u>Step-by-Step Guide to Enhancing FPS in Fallout 76 (Latest Fixes and Tricks, 2023)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/swift-strategies-for-resolving-assassins-creed-valhalla-performance-lags/"><u>Swift Strategies for Resolving Assassin's Creed: Valhalla Performance Lags</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-underground-guide-5-unauthorized-uses-of-ai/"><u>The Underground Guide: 5 Unauthorized Uses of AI</u></a></li>
 </ul></div>
 

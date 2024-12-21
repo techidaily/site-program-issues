@@ -1,7 +1,7 @@
 ---
 title: "Beat the Blackout: Essential Strategies to Restore Your Steam Gameplay"
-date: 2024-08-23T17:25:13.267Z
-updated: 2024-08-24T17:25:13.267Z
+date: 2024-12-17T19:44:27.041Z
+updated: 2024-12-19T16:15:15.919Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
 ## Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/the-ascent-featured.jpg)
 
  The most awaited cyberpunk RPG, The Ascent, finally hit PC in the middle of 2021\. But the game is still at a primitive stage, and there’re already many players complaining about the**stuttering and FPS issues** . If your game lags like crazy and you’re looking for a cure, you’re in the right place. Here’re some workarounds we found that can stop, or at least mitigate the lag.
@@ -39,13 +36,23 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 1. Go to your Steam library. Right click **The Ascent** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this doesn’t fix the stuttering issue, take a look at the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -55,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -68,19 +72,17 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Make sure Windows is up to date
 
  Every once in a while, Microsoft releases Windows updates that fix bugs and offer performance boosts. To ensure the best gaming experience, besides drivers you also need to**keep your system up to date** .
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
@@ -100,33 +102,30 @@ If you don’t know how to switch, follow these steps:
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable Control Flow Guard
 
  Control Flow Guard is a Windows 10 feature designed to combat system vulnerabilities by**restricting application behavior** . According to the feedback, it appears that CFG could be causing the stuttering issue in The Ascent. To see if that’s your case, you can follow these steps to disable CFG:
 
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,8 +137,6 @@ If you don’t know how to switch, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +144,24 @@ If you don’t know how to switch, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>[New] 2024 Approved Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-utorrents-connectiondownload-malfunctions/"><u>Diagnosing and Repairing uTorrent's Connection/Download Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009321382-discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-issues-encountered-with-clownfish-sound-changers/"><u>Effective Fixes for Issues Encountered With Clownfish Sound Changers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-simple-installation-acer-predator-xb271h-monitor-drivers-download/"><u>Fast & Simple Installation: Acer Predator XB271H Monitor Drivers Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-solutions-boost-your-fps-in-elden-ring/"><u>Fast-Track Solutions: Boost Your FPS in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-crusader-kings-ii-why-it-might-not-be-loading-and-how-to-resolve/"><u>Fix Your Crusader Kings II: Why It Might Not Be Loading & How to Resolve</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-why-call-of-duty-warzone-ignores-gpu-in-windows-11-setup/"><u>Fix: Why Call of Duty Warzone Ignores GPU in Windows 11 Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-microphone-expert-tips-and-tricks/"><u>How to Repair an Unresponsive Microphone - Expert Tips & Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-transform-your-videos-easy-editing-with-microsoft-video-editor-on-windows/"><u>In 2024, Transform Your Videos Easy Editing with Microsoft Video Editor on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-landscapes-and-adventures-with-nikon-coolpix-p1000/"><u>Mastering Landscapes & Adventures with Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-making-itunes-work-with-iphones-on-windows-11/"><u>Step-by-Step Guide: Making Itunes Work with iPhones on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/twitch-trouble-here-are-7-fixes-for-when-streams-arent-loading-correctly/"><u>Twitch Trouble? Here Are 7 Fixes for When Streams Aren't Loading Correctly</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-selling-a-comprehensive-starters-guide/"><u>Updated In 2024, Live Selling A Comprehensive Starters Guide</u></a></li>
+</ul></div>
 

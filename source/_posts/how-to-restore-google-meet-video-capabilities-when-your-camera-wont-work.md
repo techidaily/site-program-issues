@@ -1,7 +1,7 @@
 ---
 title: How to Restore Google Meet Video Capabilities When Your Camera Won't Work
-date: 2024-12-16T23:03:34.412Z
-updated: 2024-12-19T00:09:41.044Z
+date: 2024-12-15T03:29:51.877Z
+updated: 2024-12-19T18:37:59.017Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 * **[Game files](https://tools.techidaily.com/drivereasy/download/)**
 * **[System files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for corrupted game files
 
  Corrupted game files may be caused by sudden shutdowns, incomplete downloads or updates, game bugs and glitches. Below are 3 methods you can try to tackle it.
@@ -43,12 +47,12 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 2. Select **Installed Files** in the left tab, and click **Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 3. Steam will verify the game’s files – this process may take several minutes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, exit Steam and open it again.
 
@@ -58,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-3.jpg)
 2. Right-click the game. Click **Repair**  in the drop-down menu.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-4.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-4.jpg)
 
  Wait for the process bar to reach 100%. Then exit Origin and open it again.
 
@@ -83,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Xbox.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Exit the app and relaunch it. However, if the programs find no corrupted files or this fix doesn’t work for you, continue to try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 — Remove broken files
 
@@ -97,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 2. Click**Open File Location** on the pop-up Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_10-36-27.png)
 3. Find the**launcher** directory, go in and delete files called**developer log** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, start the launcher from Steam, but DON’T press start. Instead go to launcher**settings** and click**repair** .
 
@@ -119,21 +119,17 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes for corrupted system files
 
  Factors resulting in corrupted system files involves power outage, system crash, hard disk problem and others. Check the following fixes to grapple with this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 — Command line repair
@@ -151,14 +147,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ` **findstr /c:"[SR]" %windir%\Logs\CBS\CBS.log >"%userprofile%\Desktop\sfcdetails.txt"** `  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-39-40.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 — Automatic system repair
 
  You may want to conducting a thorough and quick scan to check system files, malware threats, and disk space.
@@ -174,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  After the repairs, restart your computer and the game to check for improvement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 — Restore file version
 
  If you already know which file is corrupted and it has a previous version, you can restore it to the previous version directly, hoping it can work properly again. Previous versions generally come form File History or from restore points. The rollback process is easy:
@@ -182,7 +174,15 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/restore-win-11-version.jpg)
 2. Select a version and click**Restore** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -206,17 +206,17 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-no-stress-just-peaceful-pc-gaming/"><u>[New] No Stress, Just Peaceful PC Gaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerated-viewer-of-best-images-in-os/"><u>[Updated] 2024 Approved Accelerated Viewer of Best Images in OS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[Updated] Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>2024 Approved Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-fixes-resolve-steam-continuous-crashes-instantly/"><u>Fast Fixes: Resolve Steam Continuous Crashes Instantly!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-hp-universal-printing-software-on-your-pc-a-step-by-step-guide/"><u>How to Install HP Universal Printing Software on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-your-instagram-stories-with-a-blend-of-pictures-a-beginners-guide/"><u>In 2024, Enhance Your Instagram Stories with a Blend of Pictures A Beginner's Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003697175-league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-unveils-geforce-now-but-what-are-the-real-benefits/"><u>Nvidia Unveils GeForce Now, But What Are the Real Benefits?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-a-guide-to-troubleshoot-super-pc-freezing-problems/"><u>Resolving Issues: A Guide to Troubleshoot 'Super Pc' Freezing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-troubleshooting-steps-for-a-smooth-street-fighter-6-gaming-experience-on-pc/"><u>Top 6 Troubleshooting Steps for a Smooth Street Fighter 6 Gaming Experience on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-eliminating-screen-burn-in-across-all-displays/"><u>Ultimate Guide: Eliminating Screen Burn-In Across All Displays</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-cease-playback-failures-fix-facebook-videos/"><u>[Updated] In 2024, Cease Playback Failures - Fix Facebook Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamline-your-slide-show-secrets-to-excellent-ppt-recording-for-2024/"><u>[Updated] Streamline Your Slide Show Secrets to Excellent PPT Recording for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-smooth-performance-fixing-stutter-issues-for-better-fps-on-valorant/"><u>Achieve Smooth Performance: Fixing Stutter Issues for Better FPS on Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-tarkov-effective-strategies-to-correct-error-code-103003/"><u>Decoding Tarkov: Effective Strategies to Correct Error Code 103003</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-fix-resolving-centipede-error-message-effectively/"><u>Destiny 2 Fix: Resolving Centipede Error Message Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-the-launch-function-of-thaumaturge-software/"><u>Diagnosing and Restoring the Launch Function of Thaumaturge Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990448600-football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel P40 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-stop-diablo-2-re-from-crashing-expert-advice/"><u>Mastering the Fixes: Stop Diablo 2 RE From Crashing – Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/presidents-day-special-offer-save-200-on-the-latest-macbook-pro-with-apple-silicon-m3-pro-chipset-available-now-at-zdnet/"><u>President's Day Special Offer: Save $200 on the Latest MacBook Pro with Apple Silicon - M3 Pro Chipset, Available Now at ZDNet!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-t2-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo T2 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-audio-editing-essentials-two-ways-to-create-smooth-fades-in-final-cut-pro/"><u>Updated 2024 Approved Audio Editing Essentials Two Ways to Create Smooth Fades in Final Cut Pro</u></a></li>
 </ul></div>
 

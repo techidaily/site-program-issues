@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2024-12-12T23:52:49.091Z
-updated: 2024-12-18T22:52:32.666Z
+date: 2024-12-17T02:55:26.782Z
+updated: 2024-12-19T16:17:51.421Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
@@ -48,10 +48,6 @@ Here’s how you can check the file integrity on Steam:
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,10 +77,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -92,7 +84,7 @@ Here’s how you can check the file integrity on Steam:
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -103,6 +95,10 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -112,15 +108,15 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -135,6 +131,10 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -157,24 +157,19 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-high-end-cameras-for-stunning-4k-content-top-18/"><u>[New] 2024 Approved High-End Cameras for Stunning 4K Content (Top 18)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-secrets-to-more-likes-on-your-tiktok-unpacks/"><u>[Updated] In 2024, Secrets to More Likes on Your TikTok Unpacks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-the-melody-adding-audio-to-your-canva-videos/"><u>[Updated] Mastering the Melody Adding Audio to Your Canva Videos</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/aprimorando-a-seguranca-de-dados-atraves-da-solucao-integrada-do-resolvido-e-acronis-true-image-para-ato-de-clone/"><u>Aprimorando a Segurança De Dados Através Da Solução Integrada Do Resolvido E Acronis True Image Para Ato De Clone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/"><u>Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/"><u>Fix for Call of Duty Vanguard's Notorious Error 5573 Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-troubleshooting-internet-explorer-page-loading-issues/"><u>Fixing Errors: Troubleshooting Internet Explorer Page Loading Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-has-fortnites-fps-fluctuated-with-the-latest-season-8-enhancements/"><u>How Has Fortnite's FPS Fluctuated with the Latest Season 8 Enhancements?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-narzo-60-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme Narzo 60 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-v30t-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme V30T FRP</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003864206-in-depth-troubleshooting-for-star-wars-jedi-fallen-order-launch-issues-get-back-in-action/"><u>In-Depth Troubleshooting for 'Star Wars Jedi: Fallen Order' Launch Issues - Get Back in Action!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989405949-league-of-legends-connectivity-solutions-resolve-your-games-internet-problems-today/"><u>League of Legends Connectivity Solutions: Resolve Your Game's Internet Problems Today!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/mastering-windows-10-atheros-wi-fi-driver-refresh-techniques/"><u>Mastering Windows 10: Atheros Wi-Fi Driver Refresh Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/"><u>Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007709964-step-by-step-solutions-stop-nioh-2-from-crashing-on-any-device/"><u>Step-by-Step Solutions: Stop Nioh 2 From Crashing on Any Device!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-ensure-smooth-operation-of-the-thaumature-game-on-personal-computers/"><u>Steps to Ensure Smooth Operation of the Thaumature Game on Personal Computers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiency-boost-discover-the-top-5-youtube-shorteners/"><u>[New] 2024 Approved Efficiency Boost Discover the Top 5 YouTube Shorteners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-becoming-a-maestro-at-zoom-broadcasting-on-youtube/"><u>[New] In 2024, Becoming a Maestro at Zoom Broadcasting on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-playback-problem-why-cant-i-watch-video-on-sony-a6400-for-2024/"><u>[New] Playback Problem Why Can't I Watch Video on Sony A6400 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-splurging-less-with-low-cost-vr-technology-china/"><u>In 2024, Splurging Less with Low-Cost VR Technology (China)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-age-of-empires-iv-launch-common-fixes-explored/"><u>Mastering the Age of Empires IV Launch - Common Fixes Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-overcome-directx-errors-in-call-of-duty-modern-warfare-2/"><u>Mastering the Fixes to Overcome DirectX Errors in Call of Duty: Modern Warfare ^[2]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-batman-arkham-knight-crashes-expert-advice-on-resolving-critical-malfunctions/"><u>Overcome BATMAN: ARKHAM KNIGHT Crashes - Expert Advice on Resolving Critical Malfunctions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-deleted-scenes-in-macs-damaged-mov-files/"><u>Recovering Deleted Scenes in Mac's Damaged MOV Files</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210769686-9781644118856-shamanic-reiki-drumming/"><u>Shamanic Reiki Drumming | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/state-of-the-art-devices-for-online-live-shows/"><u>State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-black-ops-cold-war-overcoming-code-80070057-issue/"><u>Troubleshooting COD: Black Ops Cold War – Overcoming Code 80070057 Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-game-startup-issues-ensuring-your-system-has-easy-anti-cheat-installed-for-smooth-operation/"><u>Troubleshooting Game Startup Issues: Ensuring Your System Has Easy Anti-Cheat Installed for Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-compatibility-fixes-to-prevent-xcom-2-from-crashing-during-play/"><u>Windows Compatibility Fixes to Prevent XCOM 2 From Crashing During Play</u></a></li>
 </ul></div>
 

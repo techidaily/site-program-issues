@@ -1,7 +1,7 @@
 ---
 title: "Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC"
-date: 2024-12-12T17:59:19.620Z
-updated: 2024-12-18T23:14:48.162Z
+date: 2024-12-19T03:46:35.048Z
+updated: 2024-12-19T17:24:17.573Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b74744220589b6a906ebb663c728844a6da00413e
 If you want to enjoy a video game to the fullest, you need decent FPS and there shouldn’t be stutters and freezing during the gameplay. If there are performance issues intervening in the enjoyment of playing Splitgate, no worries. In this post, we’ll show you how to optimize your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,7 +35,7 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Close unnecessary programs
@@ -56,10 +56,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
 
 ## 2\. Delete temp files
@@ -73,6 +69,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
@@ -80,6 +80,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
@@ -120,7 +124,7 @@ Here’s how to update drivers with Driver Easy:
 2. Scroll down. Find **Graphics settings** and click on it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
@@ -131,14 +135,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
@@ -151,7 +151,7 @@ Here’s how to update drivers with Driver Easy:
 2. Under the**VIDEO** tab, adjust the following settings:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
@@ -161,7 +161,7 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
@@ -185,17 +185,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-laughter-25plus-humorous-meme-ideas-to-share-online/"><u>[New] Metaverse Laughter 25+ Humorous Meme Ideas to Share Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-crash-issues-in-doom-eternal-a-step-by-step-approach/"><u>Fixing Persistent Crash Issues in DOOM Eternal: A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-robocop-rogue-city-crashes-essential-tips-for-gamers-on-pc/"><u>Fixing RoboCop: Rogue City Crashes - Essential Tips for Gamers on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-microphone-functionality-in-windows-10/"><u>How to Repair a Broken Microphone Functionality in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722983819287-how-to-stop-your-gas-station-simulator-from-keeping-the-computer-down/"><u>How to Stop Your Gas Station Simulator From Keeping the Computer Down</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-critical-review-enhanced-parrot-ar-drone-20/"><u>In 2024, Critical Review Enhanced Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-smooth-gaming-eliminate-minecraft-freezes-with-cutting-edge-tips-for-pc-gamers/"><u>Master Smooth Gaming: Eliminate Minecraft Freezes with Cutting-Edge Tips for PC Gamers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-6/"><u>MP3の明るい声を手に入れよう! 人気フリー音量上げツールとサイトランキング6位</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-pc-disruptions-expert-tips-to-eliminate-scavengers-game-crashes/"><u>No More Pc Disruptions: Expert Tips to Eliminate Scavengers Game Crashes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/mlining-revenue-adsense-tips-for-youtubers/"><u>Streamlining Revenue AdSense Tips for YouTubers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-escalating-risks-understanding-the-deterioration-of-generative-ai-safety/"><u>The Escalating Risks: Understanding the Deterioration of Generative AI Safety</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-gpu-drivers-compatible-with-windows-7-download-now/"><u>AMD Radeon GPU Drivers Compatible with Windows 7 - Download Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-comprehensive-guide-to-fixing-your-lag-issues-today/"><u>Apex Legends: Comprehensive Guide to Fixing Your Lag Issues Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-overcoming-the-new-world-connection-error/"><u>Easy Fixes for Overcoming the New World Connection Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-setup-of-logitech-brio-usb-camera-download-latest-drivers-for-windows-10-8-and-7-users/"><u>Easy Setup of Logitech BRIO USB Camera - Download Latest Drivers for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-the-elder-scrolls-online-blackwood-performance-lags/"><u>Fixing the Issue: The Elder Scrolls Online Blackwood Performance Lags</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-hp-network-driver-for-your-pc-on-windows-10-8-or-7/"><u>How to Get the Newest HP Network Driver for Your PC on Windows 10, 8 or 7</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-perfecting-your-vocal-harmony-in-canva-projects/"><u>In 2024, Perfecting Your Vocal Harmony in Canva Projects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-geforce-rtx-2amo-driver-pack-best-version-for-windows-10-11-users/"><u>NVIDIA GeForce RTX 2Amo Driver Pack – Best Version for Windows 10, 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-performance-hiccups-in-valheim-with-these-expert-tips-and-tricks/"><u>Overcome PC Performance Hiccups in Valheim with These Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/retrofit-sounds-to-save-the-day-overcoming-silent-moments-in-pcs-fallout-4/"><u>Retrofit Sounds to Save the Day: Overcoming Silent Moments in PC's Fallout 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-stop-deathloop-from-crashing-on-your-pc-effortlessly/"><u>Simple Solutions: Stop Deathloop From Crashing on Your PC Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-libdvdcss-to-handbrake-for-macos-ventura-and-windows-11/"><u>Step-by-Step Guide: Adding Libdvdcss to Handbrake for macOS Ventura & Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-causes-of-sluggish-downloads-in-utorrent/"><u>Troubleshooting Common Causes of Sluggish Downloads in uTorrent</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webinar-video-archive-creation/"><u>Webinar Video Archive Creation</u></a></li>
 </ul></div>
 

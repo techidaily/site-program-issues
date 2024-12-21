@@ -1,7 +1,7 @@
 ---
 title: "Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes!"
-date: 2024-12-16T03:54:48.039Z
-updated: 2024-12-18T19:39:32.349Z
+date: 2024-12-18T17:53:32.659Z
+updated: 2024-12-20T02:46:29.513Z
 tags:
   - win11
   - win10
@@ -35,14 +35,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
@@ -55,6 +47,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -64,10 +60,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 [Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update your graphics driver (recommended)
 
@@ -80,20 +72,20 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Verify integrity of game files
 
@@ -106,7 +98,15 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
 
@@ -115,18 +115,18 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable overlays
 
@@ -147,10 +147,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -176,6 +172,10 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -195,24 +195,24 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-real-time-speech-processing-and-action-at-no-charge/"><u>[New] 2024 Approved Real-Time Speech Processing & Action at No Charge</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-digital-workshop-archives/"><u>[New] In 2024, Digital Workshop Archives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-robocop-rogue-city-not-launching-on-pc/"><u>[Solved] RoboCop: Rogue City Not Launching on PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-tutorial-mastering-autofill-feature-for-iphone-passwords/"><u>Comprehensive Tutorial: Mastering AutoFill Feature for iPhone Passwords</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/elevate-your-dj-skills-for-zero-cost-explore-the-magic-of-pcdj-dex-2-le-showcased-by-beat-magazine/"><u>Elevate Your DJ Skills for Zero Cost - Explore the Magic of PCDJ Dex 2 Le Showcased by Beat Magazine!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-update-your-oculus-headsets-graphics-drivers-completed-guide/"><u>How to Fix and Update Your Oculus Headset's Graphics Drivers - Completed Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/must-watch-top-10-films-the-ultimate-hollywood-blockbuster-collection/"><u>Must-Watch Top 10 Films: The Ultimate Hollywood Blockbuster Collection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994545717-no-more-pauses-in-wasteland-adventure-solve-your-fallout-3-stalling-woes-on-windows-11/"><u>No More Pauses in Wasteland Adventure - Solve Your Fallout 3 Stalling Woes on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-challenges-when-updating-final-fantasy-xiv-verify-your-game-version-successfully/"><u>Overcoming Challenges When Updating Final Fantasy XIV - Verify Your Game Version Successfully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/panoramic-portals-cutting-edge-filmscapes-for-2024/"><u>Panoramic Portals Cutting-Edge Filmscapes for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-unable-to-connect-issues-with-your-nvidia-graphics-card/"><u>Resolved: Fixing 'Unable to Connect' Issues with Your NVIDIA Graphics Card</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-graphics-glitches-a-guide-to-enhancing-gameplay-with-steady-fps-and-smooth-visuals/"><u>Resolving Graphics Glitches: A Guide to Enhancing Gameplay with Steady FPS and Smooth Visuals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-notetaking-in-action-top-ai-driven-applications-for-effective-notes/"><u>Smart Notetaking in Action: Top AI-Driven Applications for Effective Notes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-finest-choice-aptly-suited-3d-panels-for-gamers/"><u>The Finest Choice: Aptly Suited 3D Panels for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-battlefield-4-start-up-on-my-computer/"><u>Troubleshooting Guide: Why Won't Battlefield 4 Start Up on My Computer?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-a-step-by-step-guide/"><u>Troubleshooting PC Issues with Sons of the Forest: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-helldivers-2s-boot-up-black-display-problem/"><u>Troubleshooting Steps to Resolve Helldivers 2'S Boot-Up Black Display Problem</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-make-snapchat-memories-shine-2-lens-creation-methods/"><u>[New] 2024 Approved Make Snapchat Memories Shine 2 Lens-Creation Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-the-power-of-instagram-reels-with-these-strategies/"><u>[New] In 2024, Unlock the Power of Instagram Reels with These Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-twitch-live-recordings-today/"><u>[New] Streamline Your Twitch Live Recordings Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-fortnite-lag-problems-expert-advice-on-achieving-ultra-smooth-gaming/"><u>Conquer Fortnite Lag Problems - Expert Advice on Achieving Ultra-Smooth Gaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/create-a-stunning-rainbow-pc-using-hytes-nexus-link-a-game-changer-in-rgb-device-integration/"><u>Create a Stunning Rainbow PC Using Hyte's Nexus Link - A Game Changer in RGB Device Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-for-preventing-fallout-3-game-crashes-on-windows-10-operating-system/"><u>Effective Remedies for Preventing Fallout 3 Game Crashes on Windows 10 Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013239363-embrace-the-chaos-in-days-gone-the-ultimate-stealth-and-combat-pc-experience-awaits-you/"><u>Embrace the Chaos in Days Gone - The Ultimate Stealth and Combat PC Experience Awaits You</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-launching-dead-space-remake-successfully-avoiding-common-pitfalls-of-2024/"><u>Expert Tips on Launching Dead Space Remake Successfully - Avoiding Common Pitfalls of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighting-formats-face-off-controller-or-stick/"><u>Fighting Formats Face-Off: Controller or Stick?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fine-tuning-your-gameplay-choosing-mouse-sensitivity/"><u>Fine-Tuning Your Gameplay: Choosing Mouse Sensitivity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988985502-football-manager-2020-update-fixes-previous-bug-causing-crashes-play-smoothly-now/"><u>Football Manager 2020 Update Fixes Previous Bug Causing Crashes – Play Smoothly Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-alan-wake-2-running-a-step-by-step-fix-guide/"><u>How to Get Alan Wake 2 Running: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-t2-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Vivo T2 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-salt-and-surge-2023s-best-surf-cam-tech-review/"><u>In 2024, Salt & Surge 2023'S Best Surf Cam Tech Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-video-privacy-directly-share-yt-clips-using-googleid-for-2024/"><u>Mastering Video Privacy Directly Share YT Clips Using GoogleID for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-performance-issues-in-resident-evil-village-optimizing-pc-gameplay/"><u>Resolved: Performance Issues in Resident Evil Village - Optimizing PC Gameplay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solved-issue-successfully-duplicating-damaged-sony-dvds-and-copyrighted-discs-without-errors/"><u>Solved Issue: Successfully Duplicating Damaged Sony DVDs and Copyrighted Discs without Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-resolve-overwatch-2s-failed-startup-issues/"><u>Top 7 Solutions to Resolve Overwatch 2'S Failed Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-successfully-starting-saints-row-on-windowslinux-systems/"><u>Troubleshooting Steps: Successfully Starting Saints Row on Windows/Linux Systems</u></a></li>
 </ul></div>
 

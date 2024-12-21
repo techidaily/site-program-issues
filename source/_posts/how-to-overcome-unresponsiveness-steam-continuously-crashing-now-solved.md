@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Unresponsiveness: Steam Continuously Crashing - Now Solved!"
-date: 2024-08-23T17:21:46.017Z
-updated: 2024-08-24T17:21:46.017Z
+date: 2024-12-15T17:03:23.482Z
+updated: 2024-12-19T17:54:48.707Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
 NieR Replicant ver.1.22474487139… is finally online! But did you manage to play it? It could be annoying to have the game crash on startup. Don’t worry, this post could help.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Check your specs
 
 Make sure your PC meets the minimum requirement of NieR Replicant.
@@ -30,6 +27,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Memory    | 8 GB Ram                                     |
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,16 +55,16 @@ If this fix doesn’t work, move to the next fix.
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
 
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -73,17 +74,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your drivers
 
  One of the most common causes of games crashing is you’re using outdated or corrupted drivers. You need to make sure your drivers are fully up-to-date so that you’re able to enjoy one of the best AAA titles in 2021.
@@ -96,18 +100,15 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -127,19 +128,13 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -155,8 +150,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +157,21 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-master-the-airwaves-gratis-applications-to-revolutionize-your-vocal-artistry/"><u>[New] 2024 Approved Master the Airwaves Gratis Applications to Revolutionize Your Vocal Artistry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-guide-to-radiowave-plays-for-2024/"><u>[New] Ultimate Guide to Radiowave Plays for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-unregistered-friends-list/"><u>[Updated] Detecting Unregistered Friends List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masters-of-illusion-top-vr-producers/"><u>[Updated] In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easily-prevent-and-repair-bluestacks-app-crashes-with-these-5-tips/"><u>Easily Prevent and Repair BlueStacks App Crashes with These 5 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-pandoras-troubled-waters-in-avatar-frontiers-of-pandora/"><u>Effective Fixes for Pandora's Troubled Waters in 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-wwe-2k22-from-keeping-crash-down-on-your-windows-gaming-pc/"><u>How to Stop WWE 2K22 From Keeping Crash Down on Your Windows Gaming PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-10-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 10 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-text-spam-discover-how-you-can-stop-it-now/"><u>IPhone Text Spam? Discover How You Can Stop It Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-taking-screen-captures-on-a-hewlett-packard-notebook/"><u>Mastering the Art of Taking Screen Captures on a Hewlett-Packard Notebook</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-capture-your-best-self-10-top-rated-webcam-software-for-windows-10/"><u>New 2024 Approved Capture Your Best Self 10 Top-Rated Webcam Software for Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-glitches-and-slow-frames-expert-tips-to-enhance-your-naraka-bladepoint-experience/"><u>Overcoming Voice Glitches and Slow Frames: Expert Tips to Enhance Your Naraka: Bladepoint Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-how-to-troubleshoot-and-resolve-winwordexe-errors/"><u>Quick Solutions: How to Troubleshoot and Resolve WINWORD.EXE Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen
-date: 2024-12-17T16:44:50.766Z
-updated: 2024-12-18T16:06:39.928Z
+date: 2024-12-14T19:08:32.490Z
+updated: 2024-12-20T03:24:20.885Z
 tags:
   - win11
   - win10
@@ -28,17 +28,9 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 * [Fix 5: Exit full-screen mode](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Restart your computer
 
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Turn off automatic GPU switching
 
@@ -48,6 +40,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Manage 3D Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-5.jpg)
@@ -55,6 +51,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  3) Select**Program Settings** , then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Browse** .
 
@@ -64,23 +64,23 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/12-1.jpg)
 
- If this didn’t fix Zoom black screen issues for you, try the next fix below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this didn’t fix Zoom black screen issues for you, try the next fix below.
 
 ## Fix 3: Update your graphics driver
 
@@ -105,7 +105,7 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you want, but it’s partly manual.
@@ -131,13 +131,13 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Uncheck** Enable hardware acceleration to optimize video sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-hardware-acceleration.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
 
@@ -154,7 +154,7 @@ If you still have the problem, then try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the issue still exists, then move on to the next fix below.
@@ -193,20 +193,20 @@ If the issue still exists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-no-money-no-problem-the-best-free-subtitles-apps/"><u>[New] 2024 Approved No Money, No Problem The Best Free Subtitles Apps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-verify-your-youtube-account-in-2024/"><u>[New] How to Verify Your YouTube Account, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-tested-solutions-addressing-frequent-freezes-in-thunder-tier-one-gaming-on-pc/"><u>Battle-Tested Solutions: Addressing Frequent Freezes in Thunder TIER One Gaming on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-farewell-to-stutter-in-overwatch-quick-fixes-inside/"><u>Bid Farewell to Stutter in Overwatch – Quick Fixes Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-explained-fortnite-permission-issues-and-steps-to-regain-access/"><u>Error Code Explained: Fortnite Permission Issues & Steps to Regain Access</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-troubleshooting-windowss-broken-spatial-audio-feature/"><u>Expert Guide to Troubleshooting Windows's Broken Spatial Audio Feature</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-7-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 7 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-tecno-spark-go-2023-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Tecno Spark Go (2023) for Free? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/jurassic-world-evolution-stability-solutions-overcoming-game-crash-issues/"><u>Jurassic World Evolution Stability Solutions: Overcoming Game Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-fixes-clearing-up-the-black-screen-hurdle/"><u>League of Legends Fixes: Clearing Up the Black Screen Hurdle</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/izing-video-how-much-does-a-single-streamer-earn-for-2024/"><u>Monetizing Video How Much Does a Single Streamer Earn for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-wraps-for-virtual-reality-enthusiasts-for-2024/"><u>Next-Gen Wraps for Virtual Reality Enthusiasts for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/step-by-step-tech-livestream-setup-pcmaclaptop-for-fb-for-2024/"><u>Step-by-Step Tech Livestream Setup (PC/Mac/Laptop) for FB for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-league-of-legends-crashes/"><u>Troubleshooting Guide: Resolving League of Legends Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-regain-access-to-your-steam-profile/"><u>Troubleshooting Success: How to Regain Access to Your Steam Profile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[New] In 2024, Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-anonymous-fb-story-watcher-app-for-2024/"><u>[Updated] Anonymous FB Story Watcher App for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-hd-lenses-for-youtube-creators/"><u>[Updated] Top HD Lenses for YouTube Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-music-streaming-on-a-budget-securing-spotifys-educational-offer/"><u>Affordable Music Streaming on a Budget: Securing Spotify's Educational Offer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-fixing-server-connected-lost-in-the-game-of-escape-from-tarkov/"><u>Expert Advice: Fixing 'Server Connected Lost' In the Game of Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-team-fortress-2-up-and-running-a-step-by-er-guide-to-fixing-initialization-errors/"><u>Getting Team Fortress 2 Up and Running: A Step-by-Er Guide to Fixing Initialization Errors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quality-improvement-for-skype-video-calls/"><u>In 2024, Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/iphone-vs-samsung-showdown-deciding-your-perfect-mobile-device-for-optimal-performance/"><u>IPhone Vs. Samsung Showdown: Deciding Your Perfect Mobile Device for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-gaming-mouse-software-g920-for-pcs-running-windows-111087-free-download/"><u>Latest Logitech Gaming Mouse Software (G920) for PCs Running Windows 11/10/8/7 – Free Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-the-ultimate-freelancers-toolkit-for-writer-excellence/"><u>Mastering ChatGPT: The Ultimate Freelancer's Toolkit for Writer Excellence</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-sims-4-error-correction-tackling-the-troublesome-video-card-problem/"><u>Mastering The Sims 4 Error Correction: Tackling the Troublesome Video Card Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-slowdowns-overcoming-lag-in-rainbow-six-siege/"><u>Say Goodbye to Slowdowns: Overcoming Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-phoenix-points-game-crashing-glitches-now-fixed/"><u>Solution Strategies for Phoenix Point's Game-Crashing Glitches Now Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-prevent-robocop-rogue-city-from-freezing-or-crashing-during-pc-playthrough/"><u>Ultimate Guide to Prevent RoboCop: Rogue City From Freezing or Crashing During PC Playthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-tips-for-increasing-fps-performance-in-ring-of-elysium/"><u>Ultimate Tips for Increasing FPS Performance in Ring of Elysium</u></a></li>
 </ul></div>
 

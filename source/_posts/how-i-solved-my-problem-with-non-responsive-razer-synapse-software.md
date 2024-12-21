@@ -1,7 +1,7 @@
 ---
 title: How I Solved My Problem with Non-Responsive Razer Synapse Software
-date: 2024-12-14T22:39:31.587Z
-updated: 2024-12-18T16:08:14.821Z
+date: 2024-12-13T20:33:58.805Z
+updated: 2024-12-20T02:42:16.311Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
@@ -45,22 +45,18 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -84,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -98,7 +94,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -115,6 +111,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
@@ -127,13 +127,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -193,17 +193,14 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/diagnosis-and-repair-why-is-my-(span-stylecolor-0078af)halo-3(span)-game-crashing-expert-advice-for-players/"><u>[Diagnosis & Repair] Why Is My <Span Style=color: #0078AF;>Halo 3</Span> Game Crashing? Expert Advice for Players</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-game-on-mobile-funimate-apk-setup-simplified-for-2024/"><u>[New] Game On Mobile Funimate APK Setup Simplified for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-techniques-for-safe-youtube-audio-extraction-at-no-cost/"><u>[New] In 2024, Techniques for Safe YouTube Audio Extraction at No Cost</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-video-production-the-audio-edition-on-youtube-for-2024/"><u>Elevate Video Production The Audio Edition on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-hiccups-masterful-tweaks-to-fix-fallout-4-freezing-on-windows-machine/"><u>Eliminate Game Hiccups: Masterful Tweaks to Fix Fallout 4 Freezing on Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-strategies-for-overcoming-league-of-legends-launch-errors-updated-tips/"><u>Expert Strategies for Overcoming League of Legends Launch Errors - Updated Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-monochrome-to-masterpiece-pro-photo-hue-harmony-for-2024/"><u>From Monochrome to Masterpiece Pro Photo Hue Harmony for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-se-2020-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone SE (2020) and iPad</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/most-acclaimed-ipad-recording-software-3p/"><u>Most Acclaimed iPad Recording Software 3P</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistent-troubles-get-your-monster-hunter-rise-game-running-again/"><u>Persistent Troubles? Get Your Monster Hunter Rise Game Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-pc-performance-hiccups-in-assassins-creed-valhalla/"><u>Resolved: Troubleshooting PC Performance Hiccups in Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/successful-mp4-video-viewing-on-ios-devices-including-iphone-x-14-8-7-se-and-5/"><u>Successful MP4 Video Viewing on iOS Devices Including iPhone X, 14, 8, 7, SE & 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slime-rancher-2-pc-crash-fix-effective-solutions-to-ensure-smooth-gaming-experience/"><u>'Slime Rancher 2' PC Crash Fix: Effective Solutions to Ensure Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-scrutinizing-the-functionality-of-pixelrecorder-12-for-2024/"><u>[Updated] Scrutinizing the Functionality of PixelRecorder 12 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-visual-stories-select-the-best-ig-video-editors/"><u>Crafting Visual Stories Select the Best IG Video Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-y-convertir-videos-ts-a-formatos-flv-gratuitamente-mediante-movavi/"><u>Descargar Y Convertir Videos TS a Formatos FLV Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blizzards-wow-error-132-a-step-by-step-guide/"><u>Fixing Blizzard's WoW Error 132: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m34-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy M34 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-multiple-m4v-videos-into-a-single-file-without-compromising-on-clarity/"><u>Integrating Multiple M4V Videos Into a Single File Without Compromising on Clarity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-handling-minecraft-crash-with-exit-code-0/"><u>Resolved: Step-by-Step Guide on Handling Minecraft Crash with Exit Code -0</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-fix-for-failed-logins-in-fortnite-a-step-by-step-tutorial/"><u>Seamless Fix for Failed Logins in Fortnite: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Game Crashing Issues
-date: 2024-08-23T17:23:52.632Z
-updated: 2024-08-24T17:23:52.632Z
+date: 2024-12-13T19:42:38.616Z
+updated: 2024-12-19T22:42:16.234Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,13 +44,14 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 1. Right-click on the Chivalry 2 shortcut.
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -68,8 +66,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -96,24 +95,23 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -124,6 +122,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -141,8 +144,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +151,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleash-timeliness-iphone-slow-motion-filming/"><u>[New] 2024 Approved Unleash Timeliness IPhone Slow Motion Filming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-foundations-in-creating-animated-imagery-for-2024/"><u>[New] Foundations in Creating Animated Imagery for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ideal-6-economical-projector-brands-for-4k/"><u>[New] In 2024, Ideal 6 Economical Projector Brands for 4K</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-podcast-renaming-made-easy-with-these-ai-tools/"><u>[New] In 2024, Podcast Renaming Made Easy with These AI Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[Updated] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-instagram-filter-to-existing-photos-and-videos-in-2024/"><u>[Updated] How to Add Instagram Filter to Existing Photos and Videos, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-desktop-version-still-coming-no-problem-try-these-powerful-open-source-apps-instead/"><u>ChatGPT's Desktop Version Still Coming? No Problem – Try These Powerful Open Source Apps Instead!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-troubleshooting-guide-to-stop-ghost-recon-breakpoint-from-freezing/"><u>Effortless Troubleshooting Guide to Stop Ghost Recon Breakpoint From Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-gta-5-wont-open-a-comprehensive-guide-to-get-you-playing-soon/"><u>Fixes for 'GTA 5 Won't Open': A Comprehensive Guide to Get You Playing Soon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-waterfront-top-5-cameras-for-big-waters/"><u>In 2024, Master the Waterfront Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-troubles-helldivers-ii-wont-start-up-solutions-inside/"><u>Steam Troubles: Helldivers II Won't Start Up - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-nwstoreexe-error-quickly-and-efficiently/"><u>Step-by-Step Guide: Resolving NW_StoreExe Error Quickly and Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-overcoming-xdk-errors-in-cod-modern-warfare-2/"><u>Step-by-Step Troubleshooting: Overcoming XDK Errors in CoD Modern Warfare 2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-slow-motion-compendium-slomo-review-2024/"><u>The Ultimate Slow-Motion Compendium SloMo Review, 2024</u></a></li>
+</ul></div>
 

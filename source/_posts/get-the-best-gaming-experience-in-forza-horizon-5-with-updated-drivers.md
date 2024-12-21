@@ -1,7 +1,7 @@
 ---
 title: Get the Best Gaming Experience in Forza Horizon 5 with Updated Drivers
-date: 2024-12-17T06:21:14.657Z
-updated: 2024-12-19T07:27:17.895Z
+date: 2024-12-14T02:21:39.266Z
+updated: 2024-12-19T17:43:00.824Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -56,10 +56,14 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
 If the lagging issue persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Test your internet connection
@@ -82,7 +86,7 @@ If the lagging issue persists, try the next fix.
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
@@ -99,10 +103,6 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -111,6 +111,10 @@ If the lagging issue persists, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -135,18 +139,22 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
 If the lagging issue persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set the game process priority to high
 
@@ -156,11 +164,11 @@ If the lagging issue persists, try the next fix.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix doesn’t help with your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Configure your DNS settings
 
@@ -195,7 +203,7 @@ Here’s how to do it:
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
@@ -204,10 +212,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -215,10 +219,6 @@ Here’s how to do it:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -250,20 +250,21 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-covert-snapcapture-stealthy-tactics-for-unseen-picture-recording/"><u>[New] 2024 Approved Covert SnapCapture Stealthy Tactics for Unseen Picture Recording</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[New] In 2024, Skyrocketing Your Content's View Count Title & Tag Mastery</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-premier-playlist-best-of-the-music-videos/"><u>[Updated] 2024 Approved Facebook's Premier Playlist Best of the Music Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-brainy-battles-2024s-ultimate-trivia-channel-ranking/"><u>[Updated] Brainy Battles 2024'S Ultimate Trivia Channel Ranking</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-pc-malfunctions-heres-how-to-resolve-them/"><u>Cyberpunk 2077 PC Malfunctions? Here's How to Resolve Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2020-stability-improvements-no-more-crashes/"><u>Football Manager 2020 Stability Improvements – No More Crashes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-when-it-wont-start-on-your-pc-solution/"><u>How to Fix 'Days Gone' When It Won't Start on Your PC – SOLUTION!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/naraka-bladepoint-speed-optimization-a-step-by-step-guide/"><u>Naraka Bladepoint Speed Optimization: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-with-the-nier-replicant-remaster/"><u>Overcoming Launch Problems with the NieR Replicant Remaster</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamline-your-screen-captures-with-4-methods-for-2024/"><u>Streamline Your Screen Captures with 4 Methods for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-pathway-to-a-powerful-instagram-influence/"><u>The Pathway to a Powerful Instagram Influence</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-preventing-recurring-pc-game-errors-in-hell-let-loose/"><u>Ultimate Fix: Preventing Recurring PC Game Errors In 'Hell Let Loose'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722887084254-unveiling-the-best-ai-alternatives-to-chatgpt-countdown-of-10/"><u>Unveiling the Best AI Alternatives to ChatGPT - Countdown of 10!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-instantly-update-your-system-with-nahimic-audio-drivers/"><u>[NEW RELEASE]: Instantly Update Your System with Nahimic Audio Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-live-broadcast-battlefield-obs-versus-shadowplay/"><u>[New] 2024 Approved Live Broadcast Battlefield OBS Versus ShadowPlay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ultimate-stardew-upgrades-ranked-7-14/"><u>[New] 2024 Approved Ultimate Stardew Upgrades Ranked #7-14</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastery-through-snips-unveiling-macs-top-5-tools/"><u>[Updated] 2024 Approved Mastery Through Snips Unveiling Mac's Top 5 Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>[Updated] 2024 Approved Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>2024 Approved A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-the-unjoinable-party-dilemma-overcoming-fortnite-error-84/"><u>Avoiding the Unjoinable Party Dilemma - Overcoming Fortnite Error #84</u></a></li>
+<li><a href="https://program-issues.techidaily.com/curing-game-crashes-effective-remedies-for-the-persistent-issues-of-solved-the-ascent-on-pc/"><u>Curing Game Crashes: Effective Remedies for the Persistent Issues of [SOLVED] 'The Ascent' On PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-p1102w-printer-driver-for-windows-users/"><u>HP P1102w Printer Driver for Windows Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-much-will-it-cost-to-shoot-a-music-video/"><u>In 2024, How Much Will It Cost To Shoot A Music Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-troubleshooting-for-star-wars-jedi-fallen-order-launch-issues-get-back-in-action/"><u>In-Depth Troubleshooting for 'Star Wars Jedi: Fallen Order' Launch Issues - Get Back in Action</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-problems-with-the-outriders-game-on-pc-solutions-updated/"><u>Overcoming Startup Problems with the Outriders Game on PC - Solutions Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-gameplay-glitches-in-resident-evil-village-overcoming-rodent-problems/"><u>Resolved: Fixing Gameplay Glitches in Resident Evil Village - Overcoming Rodent Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-when-rainbow-six-siege-wont-load-properly/"><u>Tips & Tricks for When Rainbow Six Siege Won't Load Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-fixes-when-counter-strike-2-refuses-to-open/"><u>Tips and Fixes When Counter Strike 2 Refuses to Open</u></a></li>
 </ul></div>
 

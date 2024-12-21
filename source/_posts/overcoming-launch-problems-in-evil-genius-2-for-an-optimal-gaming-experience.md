@@ -1,7 +1,7 @@
 ---
 title: Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience
-date: 2024-12-16T02:21:36.048Z
-updated: 2024-12-19T04:30:19.601Z
+date: 2024-12-14T02:30:05.168Z
+updated: 2024-12-19T23:02:19.981Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10 simple fixes to try
@@ -41,6 +41,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 9. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Uninstall Razer Synapse](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your graphics driver**
 
  One of the most common causes of the_**Overwatch black screen issue**_ is a missing or outdated graphics driver.
@@ -57,15 +61,27 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -111,10 +127,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset your in-game settings
 
  In some cases, improper in-game settings can also trigger the black screen issue when launching Overwatch. To see if that’s the problem for you, try resetting your in-game settings to default. Here is how to do it:
@@ -129,17 +141,9 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-685.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Done** .
 
@@ -148,10 +152,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: End unwanted background programs
 
@@ -195,10 +195,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
@@ -231,6 +227,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click the**Blizzard Entertainment folder** and select **Delete** . Then delete the**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-709.png)
@@ -240,6 +240,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
  Hopefully, Overwatch runs properly now. If the black screen issue still exists, unfortunately, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Repair the game**
 
@@ -251,20 +255,20 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-713.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-716.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch Overwatch to check if this fixed your issue. If not, read on and try the fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Install the latest Overwatch patch**
@@ -301,10 +305,6 @@ If your problem persists, check the fix 10, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Uninstall Razer Synapse
 
  If you’re using Razer Synapse for your devices, chances are that the program is exactly the culprit of the Overwatch black screen issue. Many players have fixed the issue by either uninstalling Razer Synapse or updating it. Here is how to uninstall the program:
@@ -317,6 +317,10 @@ If your problem persists, check the fix 10, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-721.png)
@@ -326,10 +330,6 @@ If your problem persists, check the fix 10, below.
 If you’re prompted about permissions, select Continue
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-722.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
@@ -361,24 +361,18 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features/"><u>[New] 2024 Approved From Novice to Pro A Complete Exploration of ZD Software Recording Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-the-cycle-frontier-crashing-on-pc/"><u>[SOLVED] How to Fix The Cycle: Frontier Crashing on PC</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[Updated] 2024 Approved Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-ten-windows-phones-for-seamless-video-streaming/"><u>2024 Approved Top Ten Windows Phones for Seamless Video Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-gamers-beware-how-to-tackle-the-recent-error-2024-glitch/"><u>Cyberpunk 2077 Gamers Beware: How to Tackle the Recent Error 2024 Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-for-fixing-acrocefexeexe-malfunction-on-your-pc/"><u>Easy Solutions for Fixing acrocefexe.exe Malfunction on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-listening-experience-starfield-audio-error-corrections-for-continuous-playback/"><u>Enhanced Listening Experience - Starfield Audio Error Corrections for Continuous Playback</u></a></li>
-<li><a href="https://win-great.techidaily.com/guide-rapide-automatisation-de-la-sauvegarde-de-bureau-vers-onedrive-en-un-clic/"><u>Guide Rapide : Automatisation De La Sauvegarde De Bureau Vers OneDrive en Un Clic !</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-maintain-constant-connection-for-your-wireless-mouse/"><u>How to Maintain Constant Connection for Your Wireless Mouse</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 5 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-bingchatgpt-token-fraud-a-guide-to-recognizing-and-protecting-yourself-from-cryptocurrency-deception/"><u>Identifying BingChatGPT Token Fraud: A Guide to Recognizing & Protecting Yourself From Cryptocurrency Deception</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premium-terraria-enhancements-guide/"><u>In 2024, Premium Terraria Enhancements Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-next-step-in-virtual-reality-jaunt-vr-review/"><u>In 2024, The Next Step in Virtual Reality Jaunt VR Review</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-camera-app-error-0xa00f425d-in-windows-11/"><u>Overcoming Camera App Error 0xA00F425D in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-guide-resolving-wwe-2k20-pc-shutdown-issues-smoothly/"><u>Quick Guide: Resolving WWE 2K20 PC Shutdown Issues Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-the-ultimate-guide-to-fixing-davinci-resolve-startup-issues-in-windows-os/"><u>Resolved! The Ultimate Guide to Fixing DaVinci Resolve Startup Issues in Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-2024-launch-glitches-in-call-of-dutys-black-ops-cold-war-expert-tips-and-tricks/"><u>Resolving 2024 Launch Glitches in Call of Duty's Black Ops Cold War - Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-skydrive-issues-steps-to-resolve-city-building-not-launching/"><u>Troubleshooting SkyDrive Issues: Steps to Resolve City Building Not Launching</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-pc-compatibility-problems-with-fifa-19/"><u>Ultimate Guide to Resolve PC Compatibility Problems with FIFA 19</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>[Updated] Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-breaking-barriers-worlds-best-and-largest-shorts-downloaders/"><u>2024 Approved Breaking Barriers World’s Best & Largest Shorts Downloaders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-straightforward-remedies-for-common-winwordexe-errors/"><u>5 Straightforward Remedies for Common WINWORD.EXE Errors</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-ambiguous-speaker-setup-problems-in-your-windows-pressing-a-comprehensive-guide/"><u>Fixing Ambiguous Speaker Setup Problems in Your Windows Pressing: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-a-smooth-race-experience-with-f1-2021-no-more-pc-game-crashes/"><u>Getting a Smooth Race Experience with F1 2021: No More PC Game Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-note-13-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi Note 13 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-continuously-crashing-on-windows-1011/"><u>How to Stop Age of Wonders: Planetfall From Continuously Crashing on Windows 10/11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Phone without PIN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/loading-woes-be-gone-expert-tips-for-a-smooth-among-us-experience/"><u>Loading Woes Be Gone! Expert Tips for a Smooth Among Us Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syma-x8c-performance-breakdown-for-2024/"><u>Syma X8C Performance Breakdown for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-resolving-pubg-not-responding-and-freezing-problems/"><u>Troubleshooting PC Issues: Resolving 'PUBG Not Responding' And Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-constant-game-crashes-in-darkest-dungeon-nxt/"><u>Troubleshooting Tips for Resolving Constant Game Crashes in Darkest Dungeon Nxt</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c67-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C67 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates
-date: 2024-12-17T22:43:04.468Z
-updated: 2024-12-18T22:55:01.978Z
+date: 2024-12-18T03:56:31.358Z
+updated: 2024-12-19T18:02:00.062Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 
 Stop blaming yourself for losing your temper when the FPS (frame per second) drops in games: only saints can keep calm and cool in that situation. As luck would have it, there are some proven fixes that can help to stop or at least reduce the FPS drops in games, and we’ve gathered them here so you can try them as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for FPS drops in games
 
  You don’t have to try all 7 methods listed here: simply work your way down the list until you find the one that helps to stop the FPS drops in games for you.
@@ -30,6 +34,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 7. **[Consider hardware upgrade](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -63,15 +71,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
@@ -94,6 +98,10 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -108,14 +116,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.2 Switch to a public DNS server
 
  Then please use a public DNS server to see if helps to improve the FPS in games. Here we’ll use the Google DNS server as an example since it’s fast and secure:
@@ -127,11 +127,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -167,10 +179,6 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -182,14 +190,6 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -198,10 +198,6 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -213,11 +209,15 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -249,22 +249,16 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-delve-into-the-art-of-text-animation-14-stunning-examples/"><u>2024 Approved Delve Into the Art of Text Animation 14 Stunning Examples</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-crash-bug-in-modern-warfare-3-effective-remedies-for-a-seamless-gameplay/"><u>Beat the Crash Bug in Modern Warfare 3 - Effective Remedies for a Seamless Gameplay</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dimensions-and-edits-the-imovie-crop-enigma/"><u>Dimensions and Edits The iMovie Crop Enigma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-overcoming-game-crashes-fixing-resident-evil-village-on-pc/"><u>Expert Solutions for Overcoming Game Crashes: Fixing Resident Evil Village on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-resolving-connectivity-problems-in-new-world-game/"><u>Expert Tips on Resolving Connectivity Problems in New World Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-the-constant-crashing-of-formula-one-2021-game-on-your-pc/"><u>Fixes and Solutions: How to Stop the Constant Crashing of Formula One 2021 Game on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enable-msi-afterburner-detect-gpu-feature-for-seamless-performance-on-windows-11-systems/"><u>How to Enable MSI Afterburner Detect GPU Feature for Seamless Performance on Windows 11 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-stream-your-podcast-with-a-click/"><u>How to Stream Your Podcast with a Click</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-discover-how-to-get-sounds-from-twitter-vids/"><u>In 2024, Discover How to Get Sounds From Twitter Vids</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a1-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A1 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-incredible-virtual-room-encounters/"><u>In 2024, Incredible Virtual Room Encounters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-hot-40-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Hot 40 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/reviving-your-iphone-apple-now-approves-recycled-pieces-use-in-certain-reparations-tech-news-by-zdnet/"><u>Reviving Your iPhone? Apple Now Approves Recycled Pieces Use in Certain Reparations | Tech News by ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fifa-22s-pc-crash-issues-easily/"><u>Solution Guide: Overcoming FIFA 22'S PC Crash Issues Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-a-comprehensive-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-league-of-legends-black-screen-issue-top-tips-and-tricks/"><u>Solving the League of Legends Black Screen Issue: Top Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-getting-rid-of-the-dark-pixels-rainbow-six-siege-for-pc-users/"><u>Troubleshooting Tips: Getting Rid of the Dark Pixels – Rainbow Six Siege for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-resolving-grounded-game-crashes-on-pc/"><u>2024 Ultimate Guide: Resolving 'Grounded' Game Crashes on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/core-understanding-of-narrative-frameworks-for-2024/"><u>Core Understanding of Narrative Frameworks for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-se-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 SE Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>In 2024, Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-g403-keyboard-and-gamepad-driver-setup-guide-windows/"><u>Logitech G403 Keyboard & Gamepad Driver Setup Guide (Windows)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-gaming-performance-in-fall-guys-techniques-for-higher-fps-and-lower-latency/"><u>Maximize Gaming Performance in Fall Guys: Techniques for Higher FPS and Lower Latency</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-updating-your-minecraft-graphics-drivers/"><u>Resolved: Step-by-Step Guide on Updating Your Minecraft Graphics Drivers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sailing-across-assassins-creed-valhalla-a-riveting-review-of-the-grand-nordic-adventure/"><u>Sailing Across 'Assassin's Creed: Valhalla': A Riveting Review of the Grand Nordic Adventure</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-fifa-20-from-crashing-on-your-computer-full-step-by-step-troubleshooting-tutorial/"><u>Stop FIFA 20 From Crashing on Your Computer - Full Step-by-Step Troubleshooting Tutorial</u></a></li>
 </ul></div>
 

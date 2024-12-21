@@ -1,7 +1,7 @@
 ---
 title: Snapchat Camera Not Showing? Here's How You Can Solve It!
-date: 2024-12-14T19:59:50.756Z
-updated: 2024-12-19T05:37:28.748Z
+date: 2024-12-15T20:24:55.253Z
+updated: 2024-12-19T18:59:42.946Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)
@@ -32,6 +36,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. [Update camera driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the privacy settings
 
@@ -45,10 +53,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
@@ -66,6 +70,10 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -74,6 +82,10 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -105,14 +117,22 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -129,10 +149,6 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -145,17 +161,9 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
@@ -163,16 +171,8 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
 11. Install it on your computer and try the camera.
@@ -198,22 +198,18 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-navigating-youtubes-comprehensive-comments-section/"><u>[New] Expert Tips for Navigating YouTube's Comprehensive Comments Section</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-a-scintillating-trailer-tale/"><u>[New] In 2024, Crafting A Scintillating Trailer Tale</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instant-proportion-correction-online/"><u>2024 Approved Instant Proportion Correction Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-gameplay-woes-tackling-resident-evil-villages-mouse-issues/"><u>Banish Your Gameplay Woes - Tackling Resident Evil Village's Mouse Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/crafting-content-that-captivates-easy-to-try-videos/"><u>Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-problems-with-clownfish-microphone-modifications-a-step-by-step-guide-to-audio-restoration/"><u>Diagnosing Problems with Clownfish Microphone Modifications: A Step-by-Step Guide to Audio Restoration</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-setting-up-your-computers-startup-routines-in-win11/"><u>Efficiently Setting Up Your Computer's Startup Routines in Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/farming-simulator-22-pc-version-investigating-potential-frame-rate-drops-and-solutions/"><u>Farming Simulator 22 PC Version: Investigating Potential Frame Rate Drops and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-armored-core-vi-startup-failures-expert-advice-on-getting-fires-of-rubicon-running/"><u>Fixing Armored Core VI Startup Failures - Expert Advice on Getting Fires of Rubicon Running</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-in-deathloop-for-a-smoother-gaming-experience/"><u>Fixing Persistent Lag in Deathloop for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-lava-blaze-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Lava Blaze 2 to Another | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-proven-ways-to-cash-in-instagrams-leading-revenue-methods/"><u>In 2024, Proven Ways to Cash In Instagram's Leading Revenue Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/madden-22-persistent-load-screen-problems-solutions-and-fixes/"><u>Madden 22 Persistent Load Screen Problems - Solutions and Fixes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-microsoft-edge-malfunctions-practical-fixes-and-tips/"><u>Overcoming Microsoft Edge Malfunctions: Practical Fixes and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-to-get-your-division-2-game-running/"><u>Quick Fixes to Get Your Division 2 Game Running</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-launch-problems-in-rocket-league-game/"><u>Troubleshooting Launch Problems in Rocket League Game</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-creativity-with-exceptional-features-the-affordable-acer-laptop-thats-a-game-changer-for-media-professionals-zdnet/"><u>Unlocking Creativity with Exceptional Features: The Affordable Acer Laptop That's a Game Changer for Media Professionals | ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tml-techniques-for-youtube-playlist-web-insertion/"><u>[New] HTML Techniques for YouTube Playlist Web Insertion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-communication-to-enhance-interview-success/"><u>[Updated] Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-rapid-video-filming-techniques-for-tiktok-success/"><u>[Updated] Rapid Video Filming Techniques for TikTok Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-solving-low-fps-issues-in-the-division-2-players/"><u>Enhance Your Gaming Experience: Solving Low FPS Issues in The Division 2 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-steam-cant-sync-with-your-cloud-storage/"><u>Fixing the Issue: Why Steam Can't Sync with Your Cloud Storage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-f14-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy F14 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-techniques-correcting-critical-errors-in-ark-platform-stability/"><u>Master the Techniques: Correcting Critical Errors in ARK Platform Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hazardous-system-errors-in-ghostrunner-for-windows-11-users-tips-and-tricks/"><u>Overcoming Hazardous System Errors in Ghostrunner for Windows 11 Users - Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vlc-media-player-issues-with-wmv-files/"><u>Resolving VLC Media Player Issues with WMV Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamline-your-viewing-turn-onoff-picture-in-picture-on-iphones/"><u>Streamline Your Viewing Turn On/Off Picture in Picture on iPhones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-googles-pixel-4a-5g-power-and-savings-unite/"><u>The Ultimate Guide to Google's Pixel 4a 5G: Power and Savings Unite!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-industry-experts-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Industry Experts | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-low-fps-challenges-in-forza-horizon-5-pc/"><u>Troubleshooting: Overcoming Low FPS Challenges in Forza Horizon 5 (PC)</u></a></li>
 </ul></div>
 

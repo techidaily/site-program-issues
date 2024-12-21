@@ -1,7 +1,7 @@
 ---
 title: "Mafia: Definitive Edition Delay Clarified and Solution Found – Awaiting Launch"
-date: 2024-12-17T22:12:20.843Z
-updated: 2024-12-19T04:46:29.427Z
+date: 2024-12-17T03:10:56.490Z
+updated: 2024-12-20T03:02:21.109Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 6. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements for Mafia: Definitive Edition
@@ -69,20 +69,20 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check the info about your**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Display** tab and view your graphics’ info.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
@@ -115,15 +115,15 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -143,22 +143,22 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**Mafia: Definitive Edition** from the game list and click**Manage** . Then, click**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using Epic Games Launcher, generally you can find the game’s installation folder here:**C.\\Program Files\\Epic Games\\\[Game name\]**
 
 **3)** Double-click the**mafiadefinitiveedition.exe file** instead of the launcher.exe file to start the game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Options** .
 
@@ -168,6 +168,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Turn on**Disable Launcher** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-6.jpg)
@@ -175,10 +179,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
  Relaunch Mafia Definitive Edition and see if the not-launching issue is resolved. If this still doesn’t help, please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
@@ -193,7 +193,7 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**OK** .
@@ -229,12 +229,16 @@ You also need to grant the game launcher administrator rights as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**Mafia Definitive Edition** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Local Files** tab, and click**Verify the integrity of game files** .
 
@@ -253,10 +257,6 @@ You also need to grant the game launcher administrator rights as follows:
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Verify** .
 
@@ -297,24 +297,15 @@ You also need to grant the game launcher administrator rights as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-magix-video-pro-x-a-deep-dive/"><u>[New] 2024 Approved Magix Video Pro X - A Deep Dive</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[New] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-on-air-innovations-code-or-circuitry-prevails/"><u>[Updated] 2024 Approved On-Air Innovations Code or Circuitry Prevails?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-precision-and-professionalism-a-vr-recording-handbook-for-2024/"><u>[Updated] Precision and Professionalism A VR Recording Handbook for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-accessing-your-own-custom-designed-youtube-melodies/"><u>2024 Approved Accessing Your Own Custom-Designed Youtube Melodies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-introductory-handbook-on-video-quality-and-size/"><u>2024 Approved Introductory Handbook on Video Quality and Size</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-to-stop-your-discord-app-from-unexpectedly-quitting-during-online-gaming-broadcasts/"><u>Comprehensive Fixes to Stop Your Discord App From Unexpectedly Quitting During Online Gaming Broadcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/document-all-interactions-with-customers-in-a-timely-manner-using-the-appropriate-tracking-software-or-tools-provided-by-our-company/"><u>Document All Interactions with Customers in a Timely Manner Using the Appropriate Tracking Software or Tools Provided by Our Company</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-grove-to-success-tips-for-overcoming-launch-difficulties/"><u>Forza Horizon Grove to Success: Tips for Overcoming Launch Difficulties</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-pc-crashes-in-assassins-creed-odyssey-quick-guide/"><u>How To Fix PC Crashes In Assassin's Creed Odyssey - Quick Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-optimize-system-performance-by-fixing-wsappxs-heavy-disk-and-cpu-demands/"><u>How to Optimize System Performance by Fixing WSAPPX's Heavy Disk & CPU Demands</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-videos-free-effect-sites-ranked/"><u>In 2024, Unlock Videos Free Effect Sites Ranked</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-dpc-watchdog-violations-on-windows-10-a-comprehensive-guide/"><u>Resolving DPC Watchdog Violations on Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/samurai-warriors-5-on-pc-resolving-unexpected-crashes-and-freezes/"><u>Samurai Warriors 5 on PC - Resolving Unexpected Crashes and Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-ubisoft-connects-sluggish-downloads-expert-tips-and-tricks/"><u>Solving Ubisoft Connect's Sluggish Downloads: Expert Tips & Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/sonic-update-for-whatsapp-statues-for-2024/"><u>Sonic Update for WhatsApp Statues for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-freezing-and-crashing-problems-in-total-war-warhammer-ii-step-by-step/"><u>Troubleshooting Freezing & Crashing Problems in Total War: Warhammer II – Step by Step</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-successfully-refresh-minecrafts-primary-application/"><u>Troubleshooting Steps to Successfully Refresh Minecraft's Primary Application</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-top-hardware-choices-by-technology-authority-toms-review-site/"><u>Unveiling Top Hardware Choices by Technology Authority, Tom's Review Site</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-avi-visionary-player-compatible-with-pcmobile/"><u>[New] Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-upload-youtube-shorts-detailed-instructions-from-desktopmobile/"><u>[New] Upload YouTube Shorts Detailed Instructions From Desktop/Mobile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-biomutant-crash-on-pc-2024-tips/"><u>[SOLVED] Biomutant Crash on PC - 2024 Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/empowering-education-with-technology-the-ultimate-9-item-tech-checklist-for-every-student/"><u>Empowering Education with Technology: The Ultimate 9-Item Tech Checklist for Every Student</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-k11x-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo K11x? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/join-duckduckgos-revolutionary-ai-chat-safe-and-smart-communication-beyond-chatgpt/"><u>Join DuckDuckGo's Revolutionary AI Chat: Safe & Smart Communication Beyond ChatGPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-hitman-3-avoiding-pc-malfunctions-and-game-crashes-updated-guide/"><u>Mastering Hitman 3: Avoiding PC Malfunctions & Game Crashes (Updated Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-eliminate-the-black-screen-error-on-your-epic-games-launcher-today/"><u>Troubleshooting Tips: Eliminate the Black Screen Error on Your Epic Games Launcher Today</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-sea-clashes-overcome-crashing-wow-problems-with-these-5-swift-fixes-for-your-desktop-gaming-adventure/"><u>World of Sea Clashes - Overcome 'Crashing' WoW Problems with These 5 Swift Fixes for Your Desktop Gaming Adventure</u></a></li>
 </ul></div>
 

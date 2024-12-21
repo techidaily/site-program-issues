@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to Fix Borderlands 3 Freezing?"
-date: 2024-12-18T11:23:13.237Z
-updated: 2024-12-19T03:05:04.054Z
+date: 2024-12-15T18:30:18.312Z
+updated: 2024-12-19T21:54:21.043Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
@@ -82,12 +78,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click the name of your graphics card and select**Properties** .
@@ -103,10 +103,6 @@ Follow the instructions below to view your computer hardware information:
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -127,7 +123,7 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -143,7 +139,7 @@ Follow the instructions below to view your computer hardware information:
  If your problem continues to occur, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
@@ -158,6 +154,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-05-40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click**Apply** , then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
@@ -165,6 +165,10 @@ Follow the instructions below to view your computer hardware information:
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
 If the game still freezes, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Verify the game** files
 
@@ -202,7 +206,7 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-41-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click the program you don’t need, and select **End Process Tree** .
@@ -231,10 +235,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
 ### Fix 6: Check for Windows updates
@@ -250,6 +250,10 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Adjust your virtual memory
 
@@ -267,10 +271,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click**Advanced** \>**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
@@ -283,15 +283,15 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-43.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Click **Set** \>**OK** .
 
@@ -311,10 +311,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
@@ -322,6 +318,10 @@ If your issue persists, check the fix below.
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -356,18 +356,24 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nnovative-thumbnail-techniques-to-boost-your-youtube-visibility-for-2024/"><u>[New] Innovative Thumbnail Techniques to Boost Your YouTube Visibility for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-business-mastery-through-youtubes-top-ten-channels/"><u>[Updated] 2024 Approved Business Mastery Through YouTube's Top Ten Channels</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-audio-gear-for-active-cameras/"><u>[Updated] In 2024, Essential Audio Gear for Active Cameras</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtubes-potential-with-key-rank-tracker-software/"><u>[Updated] Unlock YouTube's Potential with Key Rank Tracker Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connectivity-error-fixes-for-minecraft-players-how-to-restore-access-to-your-gaming-realm/"><u>Connectivity Error Fixes for Minecraft Players: How to Restore Access to Your Gaming Realm</u></a></li>
-<li><a href="https://program-issues.techidaily.com/game-optimization-tips-how-to-maintain-steady-frame-rates-for-smooth-gaming-on-pcs/"><u>Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/game-saving-tips-overcoming-crashes-and-bugs-in-final-fantasy-xv-on-pc-platforms/"><u>Game-Saving Tips: Overcoming Crashes and Bugs in Final Fantasy XV on PC Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-and-install-the-newest-logitech-g403-software-on-your-computer/"><u>How to Get and Install the Newest Logitech G403 Software on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-your-gamepad-working-with-steam-on-a-windows-machine/"><u>How to Get Your Gamepad Working With Steam on a Windows Machine</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/movavi-raw-to-jpeg/"><u>Movavi RAW to JPEG免費在線轉換器 - 完美的解決方案!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unveiling-the-challenges-that-have-halted-the-ascents-release-date/"><u>Unveiling the Challenges That Have Halted 'The Ascent's Release Date</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-transform-your-3gp-videos-top-free-rotation-software-compared/"><u>Updated Transform Your 3GP Videos Top Free Rotation Software Compared</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-active-expert-tips-to-restore-its-functionality/"><u>Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essentials-for-an-alluring-video-blog-narrative/"><u>[New] 2024 Approved Essentials for an Alluring Video Blog Narrative</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-archive-adventure-revisiting-classic-facebook/"><u>[Updated] 2024 Approved Archive Adventure Revisiting Classic Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-success-with-these-top-15-youtube-introduction-techniques/"><u>[Updated] 2024 Approved Charting Success with These Top 15 YouTube Introduction Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-motorola-moto-g73-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Motorola Moto G73 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-expert-strategies-to-avoid-crashes-and-enhance-performance/"><u>Biomutant for PC: Expert Strategies to Avoid Crashes and Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-4-pc/"><u>Forza Horizon 지정치 4: PC 오류 해결 방법</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/multiplecam-ultimate-live-streaming-app-and-fake-camera-solution/"><u>MultipleCam: Ultimate Live Streaming App and Fake Camera Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-to-combat-hlalyx-latency-and-stuttering-problems-in-pc-version/"><u>Optimizing Performance to Combat HL:Alyx Latency and Stuttering Problems in PC Version</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a56s-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A56s 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-soccer-2020-game-crashing-issues/"><u>Resolved: How to Fix FIFA Soccer 2020 Game Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-video-playback-issues-stuck-audio-in-chrome-and-firefox/"><u>Resolving YouTube Video Playback Issues: Stuck Audio in Chrome and Firefox</u></a></li>
+<li><a href="https://discover-great.techidaily.com/retro-dodge-charger-classic-car-hd-backgrounds-and-image-gallery-yl-computing-graphics/"><u>Retro Dodge Charger Classic Car HD Backgrounds & Image Gallery - YL Computing Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-impact-of-new-features-on-fortnite-gameplay-analyzing-fps-drops-in-season-8/"><u>The Impact of New Features on Fortnite Gameplay: Analyzing FPS Drops in Season 8</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-reasons-why-snagging-a-discounted-apple-ipad-pro-pre-prime-day-is-a-must-expert-analysis/"><u>Top Reasons Why Snagging a Discounted Apple iPad Pro Pre-Prime Day Is A Must | Expert Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-correcting-the-error-code-0xc19001e1-on-your-windows-11-system/"><u>Troubleshooting and Correcting the 'Error Code 0XC19001e1' On Your Windows 11 System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unblocking-issues-preventing-finals-from-launching-a-comprehensive-guide-to-the-2024-problem/"><u>Unblocking Issues Preventing Finals From Launching: A Comprehensive Guide to the 2024 Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-compatibility-success-getting-the-msi-mystic-light-up-and-running-again/"><u>Windows Compatibility Success: Getting the MSI Mystic Light Up and Running Again</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728492212691-windows-server/"><u>Windows Server バックアップを使った効果的なベアメタル回復: 様々なハードウェアへの適用手順</u></a></li>
 </ul></div>
 

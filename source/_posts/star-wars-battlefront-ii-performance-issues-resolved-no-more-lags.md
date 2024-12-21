@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront II Performance Issues Resolved - No More Lags
-date: 2024-12-17T17:43:56.572Z
-updated: 2024-12-18T23:30:53.671Z
+date: 2024-12-16T17:57:44.633Z
+updated: 2024-12-19T23:56:12.844Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ## Fast Fixes for DayZ FPS Issues - Boost Your Performance Instantly
 
 **DayZ FPS drops on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for DayZ
@@ -74,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest DayZ patch
 
@@ -127,19 +127,15 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
@@ -163,10 +159,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -175,9 +167,17 @@ See if you can play the game smoothly. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -191,6 +191,10 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -200,10 +204,6 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -248,24 +248,24 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-no1-quick-capture-time-lapsing-system/"><u>[New] 2024 Approved No.1 Quick Capture Time-Lapsing System</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-quintessential-list-of-top-15-masterpieces-in-stop-motion-for-2024/"><u>[New] The Quintessential List of Top 15 Masterpieces in Stop Motion for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-vsi-vidrecorder-verdicts-in-depth-overview/"><u>[New] VSI VidRecorder Verdicts In-Depth Overview</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphones-path-to-film-retrospection/"><u>[Updated] IPhone's Path to Film Retrospection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-fixes-for-players-facing-problems-with-starting-gta-5-gameplay/"><u>DIY Fixes for Players Facing Problems with Starting GTA 5 Gameplay</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/error-no-valid-biometric-data-received/"><u>Error: No Valid Biometric Data Received</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-for-eliminating-lags-in-assassins-creed-valhalla/"><u>Fast Solutions for Eliminating Lags in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-resolve-detroit-become-human-game-crashes-on-windows/"><u>Fixes Found! How to Resolve Detroit: Become Human Game Crashes on Windows</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-v29-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo V29 Pro Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-10-essential-tools-for-pro-ig-video-editors/"><u>In 2024, Top 10 Essential Tools for Pro IG Video Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-freezing-glitches-on-steam-solutions-and-tips/"><u>Overcoming Freezing Glitches on Steam - Solutions & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-game-crashes-heres-how-to-get-multiversus-running-smoothly/"><u>PC Game Crashes? Here's How to Get Multiversus Running Smoothly!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/selecting-the-top-8-linux-screenshots-tools/"><u>Selecting the Top 8 Linux Screenshots Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-runtime-issues-stabilizing-psychonauts-2-performance-on-your-pc/"><u>Solving Runtime Issues: Stabilizing Psychonauts 2 Performance on Your PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/superior-file-sync-tools-for-windows-users-beyond-rsync/"><u>Superior File Sync Tools for Windows Users: Beyond Rsync</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-when-monster-hunter-rise-wont-start-up-correctly/"><u>Troubleshooting Fixes When Monster Hunter Rise Won't Start Up Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-problems-with-amd-radeon-software-failure-to-start/"><u>Troubleshooting Tips: Resolving Problems with AMD Radeon Software Failure to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgrade-cpu-power-why-you-need-enough-processing-strength-for-vanguard-utility/"><u>Upgrade CPU Power: Why You Need Enough Processing Strength for Vanguard Utility</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-feature-music-seamlessly-on-instagram/"><u>[New] How To Feature Music Seamlessly on Instagram</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-instagrams-hidden-filter-tools/"><u>[New] In 2024, Unlocking Instagram's Hidden Filter Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aucous-reels-crafting-7-comedy-storylines-for-social-media-stars-for-2024/"><u>[New] Raucous Reels Crafting 7 Comedy Storylines for Social Media Stars for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-x876-owners-must-have-gif-apps-guide/"><u>[Updated] IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-job-market-gems-shortlist-for-success-for-2024/"><u>[Updated] Job Market Gems - Shortlist for Success for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-next-gen-title-genius-for-online-content-creators-for-2024/"><u>[Updated] Next-Gen Title Genius for Online Content Creators for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-unlocked-potential-of-new-windows-11/"><u>[Updated] The Unlocked Potential of New Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003781149-2024s-top-tricks-for-a-smooth-dota-2-experience-stop-lag-once-and-for-good/"><u>2024'S Top Tricks for a Smooth Dota 2 Experience: Stop Lag Once and For Good</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-crashing-problem-with-nioh-2-complete-edition-a-comprehensive-solution/"><u>Fix Your Crashing Problem with Nioh 2 Complete Edition - A Comprehensive Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-speed-up-painfully-slow-loads-in-your-fallout-n4-adventure/"><u>How to Speed Up Painfully Slow Loads in Your Fallout N4 Adventure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989877310-insurgency-sandstorm-troubleshooting-fixed-crash-issues-and-more/"><u>Insurgency: Sandstorm Troubleshooting - Fixed Crash Issues and More!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-cable-modem-innovations-for-a-lightning-fast-internet/"><u>Leading Cable Modem Innovations for a Lightning-Fast Internet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-steam-launch-failures-discover-these-7-proven-methods/"><u>Master the Art of Fixing Steam Launch Failures – Discover These 7 Proven Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-obs-expert-guide-to-overcoming-your-screen-record-challenges/"><u>Mastering OBS: Expert Guide to Overcoming Your Screen Record Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-avoidance-of-common-bugs-in-arise-adventures/"><u>Optimizing Play: Avoidance of Common Bugs in Arise Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stutter-and-lag-issues-in-overwatch-a-comprehensive-guide/"><u>Overcoming Stutter & Lag Issues in Overwatch - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-playstation-plus-members-unable-to-open-origin-compatible-with-windows-1011/"><u>Solution Guide: PlayStation Plus Members Unable to Open Origin, Compatible with Windows 10/11</u></a></li>
 </ul></div>
 

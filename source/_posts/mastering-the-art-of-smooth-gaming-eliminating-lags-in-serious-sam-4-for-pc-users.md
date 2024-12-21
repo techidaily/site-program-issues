@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users"
-date: 2024-12-17T01:22:16.349Z
-updated: 2024-12-18T17:54:14.080Z
+date: 2024-12-14T01:15:04.136Z
+updated: 2024-12-20T02:45:34.345Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 | **Hard Drive**       | 40 GB free space                                                             |
 | **Additional Notes** | Laptop versions of graphics cards may work but are NOT officially supported. |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,6 +42,10 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
 6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Switch programs & move the game to SSD
 
  This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
@@ -45,6 +53,10 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
  Did you install the game in HDD or SSD? We recommend installing the game on SSD so the problem might go.
 
  Since the FPS issue varies from person to person, we can’t promise this tip is working for everyone, but it’s worth trying.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Lower video settings
 
@@ -63,10 +75,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 
 If this fix doesn’t help, move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -78,10 +86,6 @@ If this fix doesn’t help, move to the next fix.
 5. Reboot the game to check.
 
 If it doesn’t help, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your driver
 
@@ -104,11 +108,11 @@ If it doesn’t help, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 5: Change priority
 
@@ -120,15 +124,15 @@ If it doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to**Windowed Full-Screen** mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check the FPS.
 
  Next time, check the priority settings in the Task Manager before you play. Because it sometimes changes back to Normal.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Verify the game files
 
@@ -138,10 +142,6 @@ If it’s not working, move to the next fix.
 2. Right-click on Dying Light and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. When the process is finished, reboot the game to check.
@@ -169,18 +169,18 @@ Hope this post helps and you can enjoy the game. Have fun!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-viral-video-ventures-crafting-addictive-loops-on-ig-for-2024/"><u>[New] Viral Video Ventures Crafting Addictive Loops on IG for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-earnings-estimation-a-trifecta-of-tips-and-strategies-for-tracking-your-youtube-earnings/"><u>2024 Approved Earnings Estimation A Trifecta of Tips and Strategies for Tracking Your YouTube Earnings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterpieces-in-film-script-writing-by-genre/"><u>2024 Approved Masterpieces in Film Script Writing, By Genre</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-blackout-screens-in-your-mtg-arena-experience/"><u>Expert Tips to Overcome Blackout Screens in Your MTG Arena Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-frequent-crashes-of-rocket-league-top-tips-for-gamers/"><u>How to Prevent Frequent Crashes of Rocket League - Top Tips for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-9-essential-solutions-to-fix-ark-survival-evolved-game-crashes/"><u>PC Troubles? 9 Essential Solutions to Fix ARK: Survival Evolved Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regain-control-in-terraria-top-6-methods-to-restore-a-disconnected-game/"><u>Regain Control in Terraria: Top 6 Methods to Restore a Disconnected Game</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-setup-how-to-update-tp-link-adapter-drivers-in-windows/"><u>Smooth Setup: How to Update TP Link Adapter Drivers in Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-to-restore-heat-functionality-on-a-3d-printer-bed/"><u>Step by Step Guide to Restore Heat Functionality on a 3D Printer Bed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-scoring-amazing-savings-on-amazon-prime-day-2024-this-october/"><u>The Ultimate Guide to Scoring Amazing Savings on Amazon Prime Day 2024 This October</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transformare-online-rapida-si-placuta-a-videori-webm-in-formula-mp4-gratuit/"><u>Transformare Online Rapidă Și Plăcută a Videori Webm În Formulă Mp4 Gratuit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-assassins-creed-valhalla-release-issues-solutions-revealed/"><u>Troubleshooting Assassin's Creed Valhalla Release Issues – Solutions Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persistent-minecraft-game-crashes-in-6-steps/"><u>Troubleshooting Guide: Resolving Persistent Minecraft Game Crashes in 6 Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-capture-your-vision-leading-tablet-art-tools/"><u>[New] Capture Your Vision Leading Tablet Art Tools</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-enhance-spark-ar-graphics-the-importance-of-customized-lut-usage-for-2024/"><u>[Updated] Enhance Spark AR Graphics The Importance of Customized LUT Usage for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-playing-srt-files-in-windowsmac/"><u>[Updated] Playing SRT Files in Windows/MAC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-summit-selections-best-laptops-tailored-to-4k-editing/"><u>2024 Approved Summit Selections Best Laptops Tailored to 4K Editing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-se-2020-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone SE (2020) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-the-monetization-framework-of-tseries-via-youtube-for-2024/"><u>Exploring the Monetization Framework of TSeries via YouTube for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G23 Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-total-war-warhammer-ii-game-from-crashing-solutions-unveiled/"><u>How to Stop Your Total War: Warhammer II Game From Crashing – Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-discover-how-to-stop-tower-of-fantasy-from-crashing-now/"><u>PC Troubles? Discover How to Stop Tower of Fantasy From Crashing Now</u></a></li>
+<li><a href="https://win-guides.techidaily.com/securely-duplicate-your-secret-boot-sector-on-an-ssd-with-our-5-step-guide/"><u>Securely Duplicate Your Secret Boot Sector on an SSD with Our 5-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-palworlds-search-session-problems/"><u>Step-by-Step Solution: Overcoming Palworld's Search Session Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-failure-making-your-sony-vegas-experience-smooth-and-uninterrupted/"><u>Troubleshooting Continuous Failure: Making Your Sony Vegas Experience Smooth and Uninterrupted</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-stuck-boot-phase-of-watch-dogs-legion-effective-solutions/"><u>Troubleshooting the Stuck Boot Phase of Watch Dogs: Legion – Effective Solutions</u></a></li>
 </ul></div>
 

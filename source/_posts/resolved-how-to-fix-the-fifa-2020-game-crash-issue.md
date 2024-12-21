@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the FIFA 2020 Game Crash Issue"
-date: 2024-12-13T21:10:33.607Z
-updated: 2024-12-18T22:34:25.629Z
+date: 2024-12-18T03:14:46.782Z
+updated: 2024-12-20T02:53:27.696Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 
  Tower of Fantasy is finally out. We don’t know if it’s going to be the Genshin Killer, but what we do know is the launch wasn’t that smooth and many PC players are reporting**a crashing issue** . If you happen to be on the same boat, don’t worry. We’ve already got some working fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try all of them. Simply work your way down until you find the one that does the charm.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 5. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Modify config files to fix launching issues
 
  Though Tower of Fantasy is not a demanding title, it is reported to have launching issues on some low end PCs. If you can’t seem to launch the game, you can try to modify some config files to make it work.
@@ -45,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 1. On your keyboard, press**Win+R** (the Windows key and the R key) to invoke the Run box. Type or paste**%Appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
 2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
 3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
@@ -61,6 +49,10 @@ bPreferD3D12InGame=False
 Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
 
@@ -93,12 +85,16 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run in compatibility mode
 
@@ -127,22 +123,26 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -159,7 +159,7 @@ If this fix doesn’t give you luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -183,16 +183,24 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-up-close-and-personal-tips-for-sharper-videos-on-videoleap/"><u>[New] Up Close & Personal Tips for Sharper Videos on Videoleap</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>[Updated] 2024 Approved Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a78-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A78 FRP</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-farewell-to-terraria-crashing-issues-with-these-expert-strategies/"><u>Bid Farewell to Terraria Crashing Issues with These Expert Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-your-skyline-up-and-running-fixing-cities-2s-initialization-woes/"><u>Getting Your Skyline Up and Running: Fixing Cities 2'S Initialization Woes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-jokes-and-giggles-how-to-craft-your-own-laughter-inducing-memes/"><u>In 2024, Metaverse Jokes & Giggles How to Craft Your Own Laughter-Inducing Memes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-4k-with-prime-lenses-for-professionals/"><u>Mastering 4K with Prime Lenses for Professionals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k21-pc-stability-enhancements-overcoming-game-crashes-for-smooth-play/"><u>NBA 2K21 PC Stability Enhancements: Overcoming Game Crashes for Smooth Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008444194-pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-decoded-a-comprehensive-guide-to-facebook-twitter-instagram-and-youtube-strategies/"><u>Social Media Giants Decoded: A Comprehensive Guide to Facebook, Twitter, Instagram & YouTube Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-complete-azure-guide-to-speech-to-text-integration/"><u>The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>[New] 2024 Approved Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>[Updated] How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-spot-and-secure-top-monetization-potential/"><u>[Updated] How to Spot and Secure Top Monetization Potential</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-slow-motion-into-fast-action/"><u>[Updated] Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://program-issues.techidaily.com/among-us-loading-screens-fixed-a-step-by-step-guide/"><u>Among Us Loading Screens Fixed: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banking-security-under-threat-chatgpts-potential-risks-explored/"><u>Banking Security Under Threat? ChatGPT’s Potential Risks Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-game-over-5-immediate-fixes-for-world-of-warships-pc-performance-and-stability/"><u>Beat the Game Over: 5 Immediate Fixes for World of Warships PC Performance & Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-initialization-errors-for-an-optimal-experience-on-refunded-diablo-legacy-redefined/"><u>Bypassing Initialization Errors for an Optimal Experience on [REFUNDED] Diablo: Legacy Redefined</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003411247-effortless-fixes-how-to-overcome-apex-legends-load-issues-in-minutes/"><u>Effortless Fixes: How to Overcome Apex Legends Load Issues in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved!</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/forbes-insight-transitioning-from-traditional-documents-to-advanced-digital-process-analytics/"><u>Forbes Insight: Transitioning From Traditional Documents to Advanced Digital Process Analytics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-gionee-f3-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Gionee F3 Pro Phone Screen?</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/how-to-fix-and-stretch-videos-to-perfectly-fit-your-screen-the-ultimate-4-techniques/"><u>How to Fix and Stretch Videos to Perfectly Fit Your Screen: The Ultimate 4 Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 3 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-update-glitches-discord-patched-its-most-recent-software-issue/"><u>No More Update Glitches: Discord Patched Its Most Recent Software Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-problems-with-persona-3-reload-game-crashes-and-not-loading/"><u>Resolving Problems with Persona 3 Reload Game Crashes and Not Loading</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-mophies-ac-charging-station-luxury-meets-practicality/"><u>The Ultimate Guide to Mophie's AC Charging Station: Luxury Meets Practicality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009374231-troubleshoot-and-enhance-your-steam-remote-play-experience-today/"><u>Troubleshoot and Enhance Your Steam Remote Play Experience Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-csgo-steps-to-resolve-non-launch-issues/"><u>Troubleshooting CS:GO - Steps to Resolve Non-Launch Issues</u></a></li>
 </ul></div>
 

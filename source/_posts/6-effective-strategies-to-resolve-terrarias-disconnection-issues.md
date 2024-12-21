@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies to Resolve Terraria's Disconnection Issues
-date: 2024-12-12T20:00:16.494Z
-updated: 2024-12-18T18:09:54.049Z
+date: 2024-12-17T17:47:02.853Z
+updated: 2024-12-19T17:20:13.755Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
  Lost Ark players have been experiencing heavy traffic or constantly getting disconnected from the game since its launch. If you also encounter the “cannot connect to the server” error while playing Lost Ark, this post is for you. Here are some quick fixes you can try while we’re all waiting for an official fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
  Before we dive into anything advanced, make sure you[check the server status](https://www.playlostark.com/en-gb/support/server-status) first. If the server is under maintenance, you’ll need to wait till it’s done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Test your internet connection
 
@@ -69,7 +65,7 @@ If this doesn’t help, try the next fix.
 If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
@@ -83,10 +79,6 @@ If this doesn’t solve your problem, move on to the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -107,6 +99,10 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
@@ -119,19 +115,19 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Check your DNS settings
@@ -143,7 +139,7 @@ If this doesn’t solve your problem, move on to the next fix.
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1: Flush your DNS
@@ -157,16 +153,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -178,13 +166,22 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click **Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -194,6 +191,10 @@ Here are the steps:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -231,14 +232,17 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-quick-profile-retrieval-on-facebook/"><u>[Updated] 2024 Approved Mastering Quick Profile Retrieval on Facebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cost-effective-strategies-to-combine-videos-with-text/"><u>[Updated] Cost-Effective Strategies to Combine Videos with Text</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-uncovering-the-value-of-video-selfies-on-insta/"><u>[Updated] In 2024, Uncovering the Value of Video Selfies on Insta</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>2024 Approved Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-deitch-loop-game-from-crashing-on-your-computer-easy-methods-unveiled/"><u>How to Stop Deitch Loop Game From Crashing on Your Computer: Easy Methods Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/madden-22-wont-launch-here-are-fast-and-effective-fixes-to-get-back-in-the-game/"><u>Madden 22 Won't Launch? Here Are Fast and Effective Fixes to Get Back in the Game!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-overcome-stuttering-in-serious-sam-4-on-your-computer/"><u>Troubleshooting Guide: How To Overcome Stuttering in Serious Sam 4 on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-smooth-gaming-eliminate-halo-infinites-freezing-glitches-with-seven-pro-tips-for-pc-players/"><u>Unlock Smooth Gaming - Eliminate Halo Infinite's Freezing Glitches with Seven Pro Tips for PC Players</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-immediate-streams-from-obs-to-insta/"><u>[New] 2024 Approved Immediate Streams From OBS to Insta</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-educational-visuals-expertise-in-video-cutting/"><u>[Updated] 2024 Approved Educational Visuals Expertise in Video Cutting</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-aviation-tech-syma-x8cs-capabilities/"><u>[Updated] In 2024, Aviation Tech Syma X8C's Capabilities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-select-your-footage-editor-hero-or-cube-edition-in-2024/"><u>[Updated] Select Your Footage Editor Hero or Cube Edition, In 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tech-tutorial-record-on-hangouts-for-2024/"><u>[Updated] Tech Tutorial Record on Hangouts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-troubleshooting-and-fixing-crash-issues-in-outpost-infinity-siege-for-windows-users/"><u>Comprehensive Guide: Troubleshooting and Fixing Crash Issues in Outpost: Infinity Siege for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000643663-microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-effective-fixes-for-the-notorious-scavengers-game-crashing-problem/"><u>PC Gaming Relief: Effective Fixes for the Notorious Scavengers Game Crashing Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peering-into-the-past-publicly-shared-masterpieces/"><u>Peering Into the Past Publicly Shared Masterpieces</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001186968-quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-persistent-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Persistent Black Screen Issue</u></a></li>
 </ul></div>
 

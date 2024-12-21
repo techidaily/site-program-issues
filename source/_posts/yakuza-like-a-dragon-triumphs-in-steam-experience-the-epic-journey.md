@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-12-13T10:01:30.396Z
-updated: 2024-12-19T05:09:25.921Z
+date: 2024-12-17T18:00:54.900Z
+updated: 2024-12-19T16:34:40.041Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-dev-error-6328.jpg)
 
  Lately, players complained that Call of Duty Warzone became unplayable with the dev error 6328\. If you happen to be on the same boat, don’t worry. While the Warzone crashes with a fatal error have been commonplace especially after the update, there is something you can do to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
@@ -49,6 +49,10 @@ modem
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -62,10 +66,6 @@ wireless router
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -88,10 +88,14 @@ wireless router
 4. Click**Done** to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -104,12 +108,12 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
@@ -118,18 +122,14 @@ wireless router
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -176,22 +176,20 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[New] Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-guide-to-tape-twitch-streams-effectively/"><u>[Updated] In 2024, Guide to Tape Twitch Streams Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-encased-exploring-e-commerce-realms-of-mystery-boxes/"><u>[Updated] Secrets Encased Exploring E-Commerce Realms of Mystery Boxes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-dominate-tiktoks-marketplace-with-these-8-financial-techniques/"><u>2024 Approved Dominate TikTok's Marketplace with These 8 Financial Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-startup-woes-effective-fixes-for-playing-warframe-smoothly-again/"><u>Banish Startup Woes: Effective Fixes for Playing Warframe Smoothly Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-fall-guys-play-with-higher-frames-per-second-fps-and-lower-latency-solutions/"><u>Elevate Your Fall Guys Play with Higher Frames per Second (FPS) & Lower Latency Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-hunt-on-fixes-for-when-monster-hunter-rise-refuses-to-boot/"><u>Get Your Hunt On! Fixes for When Monster Hunter Rise Refuses To Boot</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-merge-audio-and-video-in-vlc-media-player/"><u>In 2024, How to Merge Audio and Video in VLC Media Player</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-video-recorders-head-on-screen-viewing/"><u>In 2024, Prime Video Recorders Head-On Screen Viewing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-video-editing-on-chromebook-here-are-the-top-android-apps/"><u>New Video Editing on Chromebook? Here Are the Top Android Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cannot-connect-to-server-issues-in-lost-ark-a-step-by-step-guide/"><u>Resolving 'Cannot Connect to Server' Issues in Lost Ark: A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/sightcast-peer-review-system/"><u>SightCast Peer Review System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-citizen-update-brings-an-end-to-windows-users-crash-woes-what-you-need-to-know/"><u>Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-your-machine-effective-solutions-to-prevent-pc-crashes/"><u>Troubleshoot Your Machine: Effective Solutions to Prevent PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-issues-in-windows-11-and-windows-10/"><u>Troubleshooting Dolby Atmos Issues in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valorants-low-framerate-solutions-unveiled-a-step-by-step-guide-to-achieving-smooth-gameplay/"><u>Valorant's Low Framerate Solutions Unveiled: A Step-by-Step Guide to Achieving Smooth Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-practices-for-apples-podcast-listings/"><u>[New] Best Practices for Apple's Podcast Listings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] 2024 Approved Master Money Makers The Best of the Top IG Earners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-consistency-rising-up-the-charts-on-youtube-for-2024/"><u>[Updated] The Power of Consistency Rising Up the Charts on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-troubleshooting-for-avatar-the-game-getting-past-startup-issues/"><u>Common Troubleshooting for 'Avatar: The Game': Getting Past Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-to-overcome-the-nwstoreexe-program-hiccups/"><u>Easy Solutions to Overcome the nw_store.exe Program Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-origin-application-failure-to-launch-in-windows-11/"><u>Fixing the Issue: 'Origin' Application Failure to Launch in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-regulatory-standards-and-client-satisfaction-in-the-finance-sector/"><u>Harmonizing Regulatory Standards and Client Satisfaction in the Finance Sector</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-20-high-ping-2024-tips/"><u>How to Fix Warzone 2.0 High Ping - 2024 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphics-initialization-issue-errgfxd3dinit-in-gta-v-gameplay/"><u>How to Resolve Graphics Initialization Issue (ERR_GFX_D3D_INIT) in GTA V Gameplay</u></a></li>
+<li><a href="https://win-web3.techidaily.com/how-to-set-up-a-two-way-sync-with-aomei-backupper-on-your-mac/"><u>How to Set Up a Two-Way Sync with AOMEI Backupper on Your Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-tool-for-no-cost-conversion-of-dng-files-into-jpg-pictures/"><u>Movavi's Web-Based Tool for No-Cost Conversion of DNG Files Into JPG Pictures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transform-dull-game-captures-into-bright-shows-with-obs-tricks-for-2024/"><u>Transform Dull Game Captures Into Bright Shows with OBS Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-users-overcome-your-battlenet-launcher-problems-with-these-tips-and-tricks/"><u>Windows Users, Overcome Your Battle.net Launcher Problems with These Tips and Tricks</u></a></li>
 </ul></div>
 

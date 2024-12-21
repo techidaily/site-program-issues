@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2024-12-14T05:16:18.755Z
-updated: 2024-12-18T16:25:09.921Z
+date: 2024-12-15T16:45:03.040Z
+updated: 2024-12-19T22:01:43.900Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -60,6 +56,10 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -77,21 +77,17 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
 
@@ -103,6 +99,10 @@ There are mainly two ways to update your device drivers:
 4. Restart the computer and see if Minecraft launches then.
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
 
@@ -118,14 +118,14 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -143,10 +143,6 @@ If this method doesn’t work for you, then try the next fix, below.
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean reinstall
 
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
@@ -158,6 +154,10 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -185,18 +185,22 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-celebrating-stop-motion-excellence-top-15-films/"><u>[New] 2024 Approved Celebrating Stop-Motion Excellence Top 15 Films</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-knowledge-for-youtubes-minute-melodies/"><u>[Updated] 2024 Approved Essential Knowledge for YouTube's Minute Melodies</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactical-video-migration-youtube-to-dailymotion-masterclass/"><u>2024 Approved Tactical Video Migration YouTube to Dailymotion Masterclass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/50-funny-apple-device-shenanigans-top-iphone-and-ipad-jokes-to-play/"><u>50 Funny Apple Device Shenanigans: Top iPhone and iPad Jokes to Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beyond-the-touchdown-resolving-your-football-manager-2019-freezing-issues/"><u>Beyond the Touchdown: Resolving Your Football Manager 2019 Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/efficient-ways-to-fix-a-non-functioning-steamvr-system/"><u>Efficient Ways to Fix a Non-Functioning SteamVR System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-when-trying-to-open-your-razer-synapse-software/"><u>Fixing Errors When Trying To Open Your Razer Synapse Software</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-7-video-joiner-software-with-no-watermark-output/"><u>In 2024, 7 Video Joiner Software with No Watermark Output</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-androids-fastest-vid-tuning-tools-reviewed/"><u>In 2024, Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsoft-teams-not-responding-determining-the-root-cause-of-your-connectivity-woes/"><u>Microsoft Teams Not Responding? Determining the Root Cause of Your Connectivity Woes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-the-game-fix-low-fps-and-smoothing-out-stutter/"><u>Solving Lag Issues in 'Avatar: The Game' - Fix Low FPS & Smoothing Out Stutter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-zoom-freezes-and-crashes-advanced-fixes-for-users-of-windows-11-and-10/"><u>Troubleshooting Zoom Freezes and Crashes: Advanced Fixes for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ce-list-of-low-cost-youtube-caption-tools-for-2024/"><u>[New] Ace List of Low-Cost YouTube Caption Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[New] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-valheim-keeps-freezing-and-stuttering-on-pc/"><u>[SOLVED] Valheim Keeps Freezing and Stuttering on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-myface-illusion-sketch-your-whimsical-profile-icon/"><u>[Updated] In 2024, MyFace Illusion Sketch Your Whimsical Profile Icon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[Updated] Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-effective-solutions-to-stop-dreamlight-valley-from-crashing-on-your-pc/"><u>6 Effective Solutions to Stop Dreamlight Valley From Crashing on Your PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decrypting-password-storage-on-mac-a-step-by-step-guide-to-access-hidden-credentials/"><u>Decrypting Password Storage on Mac: A Step-by-Step Guide to Access Hidden Credentials</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-3-wont-start-try-these-expert-troubleshooting-tips/"><u>Fallout 3 Won't Start? Try These Expert Troubleshooting Tips !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-connection-failed-glitch-in-hitman-3-expert-solutions/"><u>Fixing the 'Connection Failed' Glitch in Hitman 3 - Expert Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-smoothly-tips-to-improve-frame-rates-for-a-seamless-forza-horizon-n-experience-on-pc/"><u>Gaming Smoothly: Tips to Improve Frame Rates for a Seamless Forza Horizon N Experience on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-edge-webcams-insiders-choice-in-windows-11/"><u>Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-glitches-in-windows-system-insights-tracker/"><u>Overcoming Glitches in Windows System Insights Tracker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-pc-freezing-and-framerates-in-sifu-fps/"><u>Overcoming the Hurdle of PC Freezing and Framerates in Sifu FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-lagging-deathloop-gameplay-performance-on-pc/"><u>Resolved: Fixes for Lagging Deathloop Gameplay Performance on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-roadmap-to-establishing-your-unique-flair-for-2024/"><u>The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-expect-from-rainbow-six-siege-insights-into-the-anticipated-2024-freezing-season/"><u>What to Expect From Rainbow Six Siege: Insights Into the Anticipated 2024 Freezing Season</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ghostwire: Tokyo on PC – Say Goodbye to Crashes and Enjoy Seamless Gaming"
-date: 2024-08-28T06:20:21.616Z
-updated: 2024-08-29T06:20:21.616Z
+date: 2024-12-14T01:04:15.614Z
+updated: 2024-12-20T03:26:02.898Z
 tags:
   - win11
   - win10
@@ -22,9 +22,9 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 **Aliens: Fireteam Elite** is now out for PC! As the latest entry in the Aliens series released for Windows PC and consoles, the game has received lots of praise from critics and gamers alike. However, as is common with almost every game released on PC these days, Aliens Fireteam Elite has some known errors and issues. **If Aliens: Fireteam Elite keeps crashing on your PC, don’t worry. You’ve come to the right place.** After reading this article, you should be able to fix this issue on your own quickly & easily!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of the Aliens: Fireteam Elite crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether it crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -47,23 +47,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![download latest DirectX files](https://images.drivereasy.com/wp-content/uploads/2021/09/download-latest-DirectX-files.jpg)
 2. Once downloaded, double-click the dxwebsetup.exe file to install the latest version of DirectX files.
 3. Go to[the latest supported Visual C++ downloads page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) to download the latest Visual C++ files.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![download the latest Visual C++ files](https://images.drivereasy.com/wp-content/uploads/2021/09/download-the-latest-Visual-C-files.jpg)  
  _Note: Select “x64” if you’re running on a 64-bit Windows OS._
 4. Once downloaded, double-click the .exe file to install the latest version of Visual C++ files.
@@ -84,19 +67,17 @@ Key features:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Verify and repair the game files
 
@@ -104,14 +85,13 @@ Key features:
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **Aliens: Fireteam Elite** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -135,16 +115,25 @@ Key features:
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Aliens: Fireteam Elite_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Nvidia GeForce Experience, Discord, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Aliens: Fireteam Elite_ and see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disable real-time protection from your antivirus software
 
  The real-time protection feature in some 3rd party antivirus software would block the game files, and this may lead to the game crashing issues.
@@ -156,8 +145,9 @@ The ultimate burning program for all your needs!</a>
 If this fix didn’t work, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run the System File Checker
 
  You also need to check the system file if the game still crashes, because the corrupted system files would also crash the game.
@@ -172,18 +162,12 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
  Launch the game and see if it crashes. If this fix doesn’t work, try the next one, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 8\. Stop overclocking
 
  Some players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
 
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer specifications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 9\. Perform a clean boot
 
  If there is a certain application conflicting with Aliens: Fireteam Elite, the game would also crash. You can perform a clean boot to find out the problematic application that crashes the game. Here’s how to do it:
@@ -193,16 +177,20 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -232,8 +220,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +227,26 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/iscovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>[New] Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reviving-a-dying-twitch-stream-in-seconds/"><u>[New] Reviving a Dying Twitch Stream in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/youtubewebm/"><u>「YoutubeビデオからWebMへの変換ガイド：簡単な手順でダウンロード」</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-navigating-tiktok-copyright-rules-before-posting-videos/"><u>2024 Approved Navigating TikTok Copyright Rules Before Posting Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-unjoinable-party-dilemma-in-fortnite-mastering-error-code-84/"><u>Beat the Unjoinable Party Dilemma in Fortnite - Mastering Error Code 84</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-internet-speed-on-mac-the-ultimate-guide-to-flushing-dns-cache/"><u>Boost Internet Speed on Mac: The Ultimate Guide to Flushing DNS Cache</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-overcoming-frequent-interruptions-while-gaming-diablo-the-third/"><u>Guide: Overcoming Frequent Interruptions While Gaming Diablo the Third</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-easily-fix-the-connection-timed-out-hurdle-during-download/"><u>How to Easily Fix the 'Connection Timed Out' Hurdle During Download</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y27-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y27 5G FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-11-pro-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 11 Pro Max iCloud Lock</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210818880-9781685680190-jornada-para-a-autorrealizacao/"><u>Jornada para a Autorrealização | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-through-the-new-era-ranking-the-top-8-pc-and-laptop-makers-of-2024/"><u>Navigating Through the New Era: Ranking the Top 8 PC and Laptop Makers of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001766133-pc-version-of-days-gone-now-available-get-ready-for-action/"><u>PC Version of 'Days Gone' Now Available - Get Ready for Action</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-break-free-from-anthems-infinite-loading-screens-easily/"><u>Solved: How to Break Free From Anthem's Infinite Loading Screens Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-thaumaturge-game-crash-issues-on-your-pc/"><u>Solving the Thaumaturge Game Crash Issues on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-getting-dolby-atmos-up-and-running-in-windows-11-and-10/"><u>Step-by-Step Solution: Getting Dolby Atmos Up and Running in Windows 11 & 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-the-unyielding-midnight-hue-disruption-during-your-fortnite-sessions-on-a-windows-machine/"><u>Tackling the Unyielding Midnight Hue Disruption During Your Fortnite Sessions on a Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-enhancing-download-velocity-in-utorrent-applications/"><u>Troubleshooting and Enhancing Download Velocity in uTorrent Applications</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated In 2024, Using VN Editor To Add Luts for Video Editing</u></a></li>
+</ul></div>
 

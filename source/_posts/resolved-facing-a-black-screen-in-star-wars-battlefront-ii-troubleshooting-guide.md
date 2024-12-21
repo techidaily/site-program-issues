@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Facing a Black Screen in Star Wars Battlefront II - Troubleshooting Guide"
-date: 2024-12-14T05:16:13.069Z
-updated: 2024-12-19T01:57:06.893Z
+date: 2024-12-14T19:18:31.019Z
+updated: 2024-12-20T02:39:01.112Z
 tags:
   - win11
   - win10
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Double-click the**Local**  folder to open it.
@@ -90,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -140,7 +136,7 @@ Or
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
@@ -150,6 +146,10 @@ Or
  1) Right-click the shortcut to Origin on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
@@ -187,10 +187,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -200,12 +196,16 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
@@ -215,16 +215,12 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click**Restart** to restart your PC.
@@ -250,7 +246,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
@@ -258,6 +254,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -305,17 +305,24 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-unlocking-the-potential-of-animation-in-your-screencasts-for-2024/"><u>[New] Unlocking the Potential of Animation in Your Screencasts for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-gt-neo-5-se-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bioshock-2-the-ultimate-edition-with-game-changing-fixes-and-refreshments/"><u>BioShock 2: The Ultimate Edition with Game-Changing Fixes & Refreshments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005383441-error-2024-strikes-again-a-deep-dive-into-the-latest-hitch-in-cyberpunk-2077/"><u>Error 2024 Strikes Again! A Deep Dive Into the Latest Hitch in Cyberpunk 2077.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-getting-farming-simulator-ampler-to-start-properly/"><u>Expert Tips: Getting Farming Simulator Ampler to Start Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-playback-errors-in-microsofts-latest-operating-systems/"><u>Fixing Dolby Atmos Playback Errors in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-5-lite-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 5 Lite to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-blaze-2withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Blaze 2with/without a PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993912665-resolve-the-black-ops-cold-war-visual-bug-code-27711-with-easy-steps/"><u>Resolve the Black Ops: Cold War Visual Bug Code [27711] with Easy Steps!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-x5-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco X5 Pro FRP</u></a></li>
-<li><a href="https://win-online.techidaily.com/understanding-ntbackup-features-for-efficient-backups-on-windows-systems-windows-1087/"><u>Understanding NTBackup Features for Efficient Backups on Windows Systems (Windows 10/8/7)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-4k-video-conversion-software-2023-edition/"><u>Updated 2024 Approved Top-Rated 4K Video Conversion Software 2023 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tailoring-mac-videos-to-fit-snapchat-dimensions/"><u>[New] In 2024, Tailoring Mac Videos to Fit Snapchat Dimensions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-revolutionize-your-social-media-strategy-essential-instagram-analytics-platforms/"><u>[New] Revolutionize Your Social Media Strategy Essential Instagram Analytics Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snaptwit-sucker-snatch-social-media-vids-with-ease/"><u>[New] SnapTwit Sucker Snatch Social Media Vids with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syncopating-sounds-how-to-edit-music-effectively-in-canva/"><u>[New] Syncopating Sounds How to Edit Music Effectively in Canva</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-8-srt-translators-the-ultimate-budget-friendly-guide/"><u>[Updated] In 2024, Top 8 SRT Translators – The Ultimate Budget-Friendly Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023-ifa-spectacle-tecnos-miniature-tech-gems/"><u>2023 IFA Spectacle: Tecno's Miniature Tech Gems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-disconnection-errors-in-destiny-2-expert-tips-and-tricks-fixed/"><u>Banish Disconnection Errors in Destiny 2: Expert Tips & Tricks [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-frame-rate-essential-tricks-for-resolving-low-fps-in-war-thunder/"><u>Boost Your Frame Rate: Essential Tricks for Resolving Low FPS in War Thunder</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-resolved-handling-unauthorized-access-warnings-in-gaming-platforms/"><u>Error Resolved: Handling Unauthorized Access Warnings in Gaming Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-a-frozen-chrome-browser-quickly-on-your-windows-11-pc/"><u>Fix a Frozen Chrome Browser Quickly on Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-more-bang-for-your-buck-with-this-compact-high-performance-pc-surprisingly-budget-friendly-options-inside-digital-world-review/"><u>Get More Bang for Your Buck with This Compact, High-Performance PC - Surprisingly Budget-Friendly Options Inside! | Digital World Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-when-amazon-prime-video-wont-play-videos/"><u>How to Restore Functionality When Amazon Prime Video Won't Play Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/initiating-successfully-effective-solutions-to-prevent-dead-space-remake-from-crashing-on-startup-updated-guide/"><u>Initiating Successfully: Effective Solutions to Prevent Dead Space Remake From Crashing on Startup (Updated Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-visuals-and-minimizing-lag-tricks-for-optimizing-the-ascents-fps/"><u>Maximizing Visuals & Minimizing Lag: Tricks for Optimizing The Ascent's FPS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-samsung-tv-apps-a-complete-overview-for-users/"><u>Navigating the World of Samsung TV Apps: A Complete Overview for Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-pc-settings-for-enhanced-fps-on-counter-strike-2/"><u>Optimizing PC Settings for Enhanced FPS on Counter-Strike 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/patch-update-for-team-fortress-2-halts-persistent-crashing-issues/"><u>Patch Update for Team Fortress 2 Halts Persistent Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-problems-solved-revamping-the-minecraft-native-installer-on-any-pc/"><u>Update Problems Solved - Revamping the Minecraft Native Installer on Any PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-installing-videoleap-on-mac-a-step-by-step-guide/"><u>Updated 2024 Approved Installing Videoleap on Mac A Step-by-Step Guide</u></a></li>
 </ul></div>
 

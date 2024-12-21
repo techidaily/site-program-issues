@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-12-11T20:45:01.329Z
-updated: 2024-12-19T00:33:58.179Z
+date: 2024-12-14T01:35:21.856Z
+updated: 2024-12-20T02:12:40.622Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The system requirements of WRC 10 FIA World Rally Championship
@@ -77,17 +77,9 @@ System requirements of WRC 10 from Steam
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -104,8 +96,16 @@ System requirements of WRC 10 from Steam
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -119,10 +119,6 @@ System requirements of WRC 10 from Steam
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -133,10 +129,6 @@ System requirements of WRC 10 from Steam
 
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -146,17 +138,25 @@ System requirements of WRC 10 from Steam
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -197,19 +197,16 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-5-accessories-for-beneath-waves-shooting/"><u>[Updated] 2024 Approved Essential 5 Accessories for Beneath Waves Shooting</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/44cm5b6p5y6f5pa55rov5ryu56s677ya6kej5rg65lqu56iu5lin5yplusv6k6a5qqu5qgi5oiw55uu6yye5lif5asx55qe5oqa5ben44cn/"><u>「復原方法演示：解決五種不可讀檔案或目錄丟失的技巧」</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-yuva-2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Yuva 2 to Roku | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC - 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-microsoft-windows-bluetooth-drivers-compatible-with-windows-10-11-8-and-7/"><u>Download & Update Microsoft Windows Bluetooth Drivers: Compatible with Windows 10, 11, 8 & 7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guidelines-for-restoring-nvidia-control-saving-functionality/"><u>Guidelines for Restoring Nvidia Control Saving Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-9-proplus-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Nubia Red Magic 9 Pro+ Phone with Broken Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/recovered-cursor-from-win11-blank-screens/"><u>Recovered Cursor From Win11 Blank Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-amd-radeon-driver-problems-software-wont-launch/"><u>Resolve Your AMD Radeon Driver Problems - Software Won't Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-expert-hacks-and-advice-players/"><u>Stop War Thunder From Crashing - Expert Hacks and Advice Players</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-404-not-found-error-causes-solutions-and-prevention/"><u>Understanding the '404 Not Found' Error: Causes, Solutions & Prevention</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-top-7-crypto-creators-for-nft-conversion-for-2024/"><u>Unveiling Top 7 Crypto-Creators for NFT Conversion for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-hilarity-at-a-click-discovering-15-comical-youtubers-work/"><u>[New] In 2024, Hilarity at a Click Discovering 15 Comical YouTubers' Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-master-at-crafting-engaging-podcast-content-techniques-and-samples/"><u>2024 Approved Become a Master at Crafting Engaging Podcast Content (Techniques & Samples)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-the-launch-errors-in-world-of-warcraft-pc-troubleshooting-guide/"><u>Battle the Launch Errors in World of Warcraft – PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-how-to-fix-frequent-game-crashes/"><u>Chivalry II Troubleshooting: How to Fix Frequent Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-overcoming-borderlands-curunning-into-launch-errors-top-11-techniques/"><u>Effective Fixes for Overcoming ‘Borderlands cuRunning Into Launch Errors’ – Top 11 Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-z50-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Z50 Ultra Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-high-dpi-settings-in-windows/"><u>Navigating High DPI Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-inactive-windows-11-key-activation/"><u>Revitalizing Inactive Windows 11 Key Activation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-the-recurring-problem-of-pacific-drive-freezing-in-windows/"><u>Solutions for the Recurring Problem of Pacific Drive Freezing in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-fortnite-launch-problems-simple-solutions-here/"><u>Troubleshoot Fortnite Launch Problems: Simple Solutions Here</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-a58-4g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo A58 4G.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming the NVIDIA Geforce 0X0003 Issue"
-date: 2024-12-15T22:16:21.674Z
-updated: 2024-12-19T12:31:16.439Z
+date: 2024-12-14T03:00:38.188Z
+updated: 2024-12-19T16:42:51.504Z
 tags:
   - win11
   - win10
@@ -78,6 +78,10 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver,**launch Valorant** and see if the issue persists.
@@ -105,13 +109,13 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_9-53-24-1.jpg)  
 **If you can launch the game this way** , continue to the next step to set Valorant to always run in administrator mode.**If the problem persists** , please jump to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. On your desktop,**right click** the Valorant icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
 3. Select the**Compatibility** tab. Under**Settings** section,**check** the box before**Run this program as an Administrator** . Click**OK** to finish.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
@@ -124,12 +128,12 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-58-59.jpg)
 2. **Scroll through** all the processes and search for Riot related processes (**Those with a Riot or Valorant logo** ). If you find any, select them and click**End task** to stop them.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-17-24.jpg)  
  (Note you**should not** **stop** the**Vanguard** process. Otherwise you’ll have to restart your computer before launching Valorant again.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. When you’ve exited all the riot related processes,**launch Valorant** and see if you’re still have errors.
 
@@ -145,10 +149,6 @@ Here’s an example of how to disable Windows Security:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the left pane, click**Windows Security** . Then select**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-1.png)
 3. Scroll to the**Virus & threat protection settings**  section and click **Manage settings** .  
 
@@ -156,21 +156,21 @@ Here’s an example of how to disable Windows Security:
 4. Under the **Real-time protection**  section, click the toggle button and turn it to **Off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-3-1.png)
 5. Now test if you can launch Valorant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
 
 ## Fix 7: This game is not available on your operating system
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/game-not-available.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Recently we received reports of a Valorant startup error that reads “**This game is not available on your operating system** “. This error doesn’t seem to be system-related, since players are getting it even on Windows 10\. If you’re seeing this error, there’s one fix you can try before reinstalling.
 
@@ -190,7 +190,7 @@ Here’s an example of how to disable Windows Security:
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
@@ -199,6 +199,10 @@ Here’s an example of how to disable Windows Security:
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
@@ -211,6 +215,10 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
@@ -220,18 +228,18 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
@@ -247,10 +255,6 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9: Reinstall Valorant
 
  So this is the final solution for you: reinstalling Valorant. This is only necessary when you have inconsistent game files, which often happens when you have an**unstable network connection** . To uninstall Valorant, try these steps:
@@ -258,10 +262,6 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press the**windows logo key** and**R** at the same time to invoke the**Run** box. Type “**control** ” and click**OK** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-45-57.jpg)
 2. Select**Programs and Features** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_10-03-56.jpg)
 3. One at a time,**double click** **Valorant and Riot Vanguard** to uninstall them.  
@@ -288,19 +288,16 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>[New] 2024 Approved Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastery-in-maintaining-a-clean-feed-best-twitter-tools/"><u>[New] 2024 Approved Mastery in Maintaining a Clean Feed Best Twitter Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-disco-elysium-crashing-on-pc/"><u>[SOLVED] Disco Elysium Crashing on PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-9-expert-picked-smartphone-chat-apps-for-business-use/"><u>[Updated] In 2024, Top 9 Expert-Picked Smartphone Chat Apps for Business Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/for-beginners-top-8-point-and-shoot-and-35mm-cameras-for-2024/"><u>For Beginners Top 8 Point-and-Shoot and 35Mm Cameras for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-civi-3-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Civi 3 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-roguelike-vs-roguelite-debates-and-history/"><u>In 2024, Roguelike Vs. Roguelite Debates and History</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lag-free-racing-experience-eliminating-slowdown-issues-in-forza-horizon-5/"><u>Lag-Free Racing Experience: Eliminating Slowdown Issues in Forza Horizon 5</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-quickest-way-to-cut-videos-on-mac-top-methods/"><u>New In 2024, The Quickest Way to Cut Videos on Mac Top Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-dayz-crashes-solutions-for-a-smooth-gaming-experience/"><u>No More DayZ Crashes - Solutions for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-errgfxstate-issue-in-red-dead-redemption-2-a-comprehensive-guide/"><u>Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snapchat-camera-not-showing-heres-how-you-can-solve-it/"><u>Snapchat Camera Not Showing? Here's How You Can Solve It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-final-solution-to-rectify-visual-distortion-in-rust-programming/"><u>The Final Solution to Rectify Visual Distortion in Rust Programming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-brand-expression-made-simple-affordable-personalized-logo-templates-free-for-2024/"><u>[New] Brand Expression Made Simple Affordable Personalized Logo Templates (Free) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/vercoming-green-tint-in-youtubes-on-mac-a-guide/"><u>[New] Overcoming Green Tint in YouTubes on Mac A Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-techniques-for-high-quality-in-game-recordings/"><u>[New] Techniques for High-Quality In-Game Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-facetune-photos-app-complete-review-and-guide-2024/"><u>[Updated] Facetune Photos App Complete Review and Guide 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-strategies-for-optimal-youtube-shorts-growth/"><u>[Updated] In 2024, Strategies for Optimal YouTube Shorts Growth</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/5aac5l2v5luo5pww5o2u5ash5lu95pah5lu25lit5ogi5asn5lplush5ogv77ya5a6m5ywo5pwz56il/"><u>如何从数据备份文件中恢复信息：完全教程</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-common-fortnite-hurdles-your-complete-guide-to-fixing-error-code-84/"><u>Conquering Common Fortnite Hurdles – Your Complete Guide to Fixing Error Code 84</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-slow-load-durations-in-fallout-4-expert-hacks-and-strategies/"><u>Eliminate Slow Load Durations in Fallout 4: Expert Hacks and Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-workspace-learning-to-use-windows-11s-taskbar-search/"><u>Optimizing Your Workspace: Learning to Use Windows 11'S Taskbar Search</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolvendo-problemas-com-a-tela-de-carregamento-do-futebol-clube-em-football-manager-2021/"><u>Resolvendo Problemas Com a Tela De Carregamento Do Futebol Clube Em Football Manager 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-solving-mass-effect-legendary-edition-freezes-on-pc-and-xbox/"><u>Troubleshooting Steps: Solving Mass Effect Legendary Edition Freezes on PC and Xbox</u></a></li>
 </ul></div>
 
