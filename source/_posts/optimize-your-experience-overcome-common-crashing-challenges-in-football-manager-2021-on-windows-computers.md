@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers
-date: 2024-12-13T03:34:33.068Z
-updated: 2024-12-19T22:32:18.434Z
+date: 2024-12-17T18:01:46.340Z
+updated: 2024-12-21T22:57:00.980Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’re some working fixes for your Psychonauts 2 crashing issue. You might not need to try them all, just work down the list until you find the one that works for you.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 4. **[Launch the game in DX11 mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the minimum requirements
 
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 | Graphics Card    | Nvidia GeForce GTX 1050, AMD Radeon RX 560 |
 
  After confirming your PC is good enough for Psychonauts 2, you can move on to the advanced troubleshooting below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -74,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 If the issue persists, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
@@ -85,6 +93,10 @@ If the issue persists, go ahead with the next fix.
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
@@ -102,23 +114,11 @@ If the crashing issue remains, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your firewall and antivirus settings
 
@@ -130,12 +130,12 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
@@ -143,14 +143,14 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
@@ -181,24 +181,22 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[New] 2024 Approved From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>[Updated] In 2024, Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-quick-fixes-to-resume-paused-stream-on-facebook/"><u>2024 Approved Quick Fixes to Resume Paused Stream on Facebook</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-frustration-a-step-by-step-fix-for-the-2024-dead-by-daylight-crashing-issues/"><u>Banish Your Frustration: A Step-by-Step Fix For The 2024 Dead By Daylight Crashing Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/come-trasformare-un-file-mp4-in-mp3-senza-costi-su-windows-11-guida-facile/"><u>Come Trasformare Un File MP4 in MP3 Senza Costi Su Windows 11 - Guida Facile!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-frames-per-second-fps-performance-issues-resolved/"><u>Cyberpunk 2077'S Frames Per Second (FPS) Performance Issues Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-dealing-with-errgfxd3dinit-error-on-gta-5-platforms/"><u>Effective Solutions for Dealing with 'ERR_GFX_D3D_INIT' Error on GTA 5 Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-granblue-fantasy-pc-hitches-mastering-the-art-of-re-link-repairs/"><u>Eliminate Granblue Fantasy PC Hitches: Mastering the Art of Re-Link Repairs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-skyrim-crash-error-code-283-in-xbox-one-pc-and-nintendo-wii-u-systems/"><u>Fixing Skyrim Crash Error Code 283 in Xbox One, PC, and Nintendo Wii U Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-x5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco X5 Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-release-delay-explained-what-you-need-to-know/"><u>Immortals Fenyx Rising Release Delay Explained: What You Need To Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-pova-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Pova 5 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insurgency-update-say-goodbye-to-those-frustrating-sandstorm-game-crashes/"><u>Insurgency Update: Say Goodbye to Those Frustrating Sandstorm Game Crashes</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-top-rated-free-imovie-alternatives-for-video-editing/"><u>New In 2024, Top-Rated Free iMovie Alternatives for Video Editing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-plugins-you-should-know-for-final-cut-pro-x-for-2024/"><u>New Top 10 Free Plugins You Should Know for Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-functionality-errors-making-your-steelseries-gg-engine-work-flawlessly-in-windows/"><u>Overcoming Functionality Errors: Making Your SteelSeries GG Engine Work Flawlessly in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-with-dragons-dogma-2-how-to-overcome-low-fps-woes/"><u>Smooth Gaming with Dragon's Dogma 2: How to Overcome Low FPS Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-persistent-discord-app-malfunctions/"><u>Ultimate Guide: Resolving Persistent Discord App Malfunctions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>[Updated] 2024 Approved Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-3-ways-to-record-lectures-on-mac/"><u>[Updated] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-pathway-to-seamless-integration-of-voice-inputs-in-powerpoint-presentations/"><u>2024 Approved The Pathway to Seamless Integration of Voice Inputs in PowerPoint Presentations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-printing-new-hl-2240-driver-version-now-available-for-windows-devices/"><u>Ensure Smooth Printing: New HL-2240 Driver Version Now Available for Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage-for-2024/"><u>Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-game-crashes-solutions-for-when-modern-warfare-2-wont-open/"><u>Fix Your Game Crashes - Solutions for When 'Modern Warfare 2' Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-common-steam-issue-cant-link-with-local-steam-software/"><u>Fixing the Common Steam Issue: Can't Link With Local Steam Software?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-borderlands-3-ls-0013-error/"><u>How To Fix Borderlands 3 LS-0013 Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-no-matches-available-problem-in-fortnites-warzone-when-playing-from-a-computer/"><u>How to Fix the No Matches Available Problem in Fortnite's Warzone When Playing From a Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-stuttering-and-latency-problems-while-playing-forza-horizon-5-solutions-unveiled/"><u>How to Overcome Stuttering & Latency Problems While Playing Forza Horizon 5 - Solutions Unveiled!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-c300-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia C300 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975315343-install-the-latest-steelseries-mouse-software-download-now/"><u>Install the Latest SteelSeries Mouse Software - Download Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/scavengers-on-pc-overcoming-technical-glitches-and-ensuring-smooth-playtime/"><u>Scavengers On PC: Overcoming Technical Glitches and Ensuring Smooth Playtime</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-fixing-roblox-application-fails/"><u>Solutions for Fixing Roblox Application Fails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-high-latency-in-bless-unleashed-steps-to-reduce-lag-and-improve-pc-performance/"><u>Solving High Latency in Bless Unleashed: Steps to Reduce Lag and Improve PC Performance</u></a></li>
 </ul></div>
 

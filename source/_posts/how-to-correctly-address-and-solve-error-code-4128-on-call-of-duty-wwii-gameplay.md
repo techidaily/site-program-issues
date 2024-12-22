@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2024-12-13T22:41:24.552Z
-updated: 2024-12-19T23:21:01.488Z
+date: 2024-12-16T18:44:49.549Z
+updated: 2024-12-21T22:37:10.226Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve the dev error 5573 in Vanguard. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -32,9 +36,17 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 4. [**Close background applications**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Remove other operator skins
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -44,14 +56,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Select**Call of Duty Vanguard** from the top pane. Click the**gear icon** next to the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -70,10 +78,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
 ### Fix 4 – Close background applications
@@ -85,10 +89,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Right-click the resource-demanding process and click**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
@@ -108,11 +108,11 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
 
@@ -135,21 +135,21 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/conquering-fortnites-challenge-fixing-error-84-and-restoring-your-team-play-capability/"><u>Conquering Fortnite's Challenge: Fixing Error 84 and Restoring Your Team Play Capability</u></a></li>
-<li><a href="https://program-issues.techidaily.com/counterstrike-2-stuck-heres-how-you-can-get-it-running-smoothly-again/"><u>Counterstrike 2 Stuck? Here's How You Can Get It Running Smoothly Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-your-warzone-experience-tips-to-resolve-stuttering-and-maximize-fps/"><u>Enhancing Your Warzone Experience: Tips to Resolve Stuttering and Maximize FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-wowreforg-crashes-a-comprehensive-guide/"><u>Fixing WoWReforg Crashes : A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-s23-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel S23</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-8-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100A Phone without PIN</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>In 2024, Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/integrating-zoom-seamlessly-with-tiktok-live-streams/"><u>Integrating Zoom Seamlessly with TikTok Live Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-constant-failures-of-the-finals-software-on-personal-computers/"><u>Overcoming Constant Failures of The Finals Software on Personal Computers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209780767-9781984857811-pocket-guide-to-chakras-revised/"><u>Pocket Guide to Chakras, Revised | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-printing-fixed-hp-laserjet-on-windows/"><u>Smooth Printing: Fixed HP LaserJet on Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark 10 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-overcoming-steam-friends-not-available-problems/"><u>Solved! Overcoming 'Steam Friends Not Available' Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-mystery-how-to-repair-error-code-0xc19001e1-on-your-windows-10-device/"><u>Solving the Mystery: How to Repair Error Code 0xC19001E1 on Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-redefining-the-silver-screen-virtual-reality-cinema/"><u>[Updated] Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V29</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-correcting-the-notorious-nwstoreexe-glitch/"><u>Expert Tips for Correcting the Notorious NW_Store.exe Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-disruptions-in-sons-of-the-forest-a-guide/"><u>Fixing PC Disruptions in 'Sons of the Forest': A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-your-pc-with-playstation-vr-a-step-by-step-tutorial/"><u>Guide: Setting Up Your PC with PlayStation VR – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hassle-free-gaming-with-the-fixed-assassins-creed-odyssey-on-your-pc/"><u>Hassle-Free Gaming with the Fixed Assassin's Creed Odyssey on Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Sony ?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p55-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P55 Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973672879-qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-acrocefexe-malfunction-effective-troubleshooting-steps/"><u>Resolving Acrocef.exe Malfunction – Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-starcraft-ii-hiccups-expert-tips-on-resolving-computer-system-conflicts-and-stabilizing-your-playtime/"><u>Say Goodbye to StarCraft II Hiccups: Expert Tips on Resolving Computer System Conflicts & Stabilizing Your Playtime</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streaming-mastery-real-time-capture-of-games-via-windows-intel-hub/"><u>Streaming Mastery: Real-Time Capture of Games via Windows Intel Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-ubisoft-connect-issues/"><u>Troubleshooting Guide: How to Fix Ubisoft Connect Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steep-cpu-usage-for-optimal-performance-in-new-world/"><u>Troubleshooting Steep CPU Usage for Optimal Performance in New World</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-enhancement-software-upgrade-your-video-resolution-today-for-2024/"><u>Updated Video Enhancement Software Upgrade Your Video Resolution Today for 2024</u></a></li>
 </ul></div>
 

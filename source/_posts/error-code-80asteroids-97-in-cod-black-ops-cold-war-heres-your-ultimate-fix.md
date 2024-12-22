@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-12-14T02:42:54.598Z
-updated: 2024-12-19T19:06:48.025Z
+date: 2024-12-18T20:41:19.281Z
+updated: 2024-12-21T18:13:17.159Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
 
@@ -71,13 +67,17 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Repair your game files
 
@@ -91,12 +91,16 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4\. Play the game in DirectX 11 mode
@@ -110,16 +114,12 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -147,17 +147,22 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-regular-are-youtube-monetization-payments/"><u>[Updated] 2024 Approved How Regular Are YouTube Monetization Payments?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-world-of-fpv-drone-propellers/"><u>[Updated] 2024 Approved Navigating the World of FPV Drone Propellers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-for-continuous-gaming-say-goodbye-to-halo-infinite-freezes/"><u>Effortless Fixes for Continuous Gaming: Say Goodbye to Halo Infinite Freezes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-game-performance-update-graphics-card-driver-for-forza-horizon-5/"><u>Enhance Game Performance: Update Graphics Card Driver for Forza Horizon 5</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixed-hdr-audio-device-alert/"><u>Fixed: HDR Audio Device Alert</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gta-5-stuck-at-logo-screen-discover-fixes-for-game-not-loading/"><u>GTA 5 Stuck at Logo Screen? Discover Fixes for Game Not Loading</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 15?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/overcoming-printer-setbacks-on-pc-10/"><u>Overcoming Printer Setbacks on PC 10</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211267982-9798218272180-rise-up-and-heal/"><u>Rise Up and Heal | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-performance-drop-in-forza-horizon-5-on-pc/"><u>Troubleshooting: Resolving Performance Drop in Forza Horizon 5 on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-doom-eternal-game-crashes/"><u>Ultimate Guide: Resolving DOOM Eternal Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-tricks-for-fluid-gameplay-in-the-ascent-enhance-stutter-free-experience-and-elevate-fps/"><u>Ultimate Tricks for Fluid Gameplay in The Ascent – Enhance Stutter-Free Experience & Elevate FPS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>[New] Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-gold-selecting-top-10-powerful-hashtags-for-2024/"><u>[New] Social Media Gold Selecting Top 10 Powerful Hashtags for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716068818113-updated-2024-approved-capture-share-enjoy/"><u>[Updated] 2024 Approved Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-list-critical-6-fb-lite-downloads/"><u>[Updated] In 2024, Essential List Critical 6 FB Lite Downloads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-ai-vs-chatgpt-discovering-the-superior-conversationalist-in-4-ways/"><u>Claude AI Vs. ChatGPT: Discovering the Superior Conversationalist in 4 Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-streaming-dilemma-solving-mute-microphones-during-screen-casts/"><u>Discord Streaming Dilemma: Solving Mute Microphones During Screen Casts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-stop-house-flipper-2-from-crashing-on-pc-with-easy-fixes/"><u>Expert Guide: Stop House Flipper 2 From Crashing on PC with Easy Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/experts-choice-top-10-high-definition-screen-recorders/"><u>Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/genshin-impact-wont-start-discover-these-effortless-fixes-today/"><u>Genshin Impact Won't Start? Discover These Effortless Fixes Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-obs-audio-input-expert-solutions/"><u>How to Repair an Unresponsive OBS Audio Input - Expert Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italy-plunges-into-chaos-with-immediate-chatgpt-ban/"><u>Italy Plunges Into Chaos with Immediate ChatGPT Ban</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-blue-screen-challenge-in-helldivers-2-top-troubleshooting-tips/"><u>Overcoming the Blue Screen Challenge in HellDivers 2 - Top Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982147391-size-and-mass-of-the-colliding-objects-larger-vehicles-can-cause-significant-damage-due-to-their-size-and-momentum/"><u>Size and Mass of the Colliding Objects - Larger Vehicles Can Cause Significant Damage Due to Their Size and Momentum.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-valheim-stutters-and-hitches-on-windowspc/"><u>Ultimate Guide to Solving Valheim Stutters and Hitches on Windows/PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-launch-issues-2n-2024-identifying-causes-and-effective-solutions/"><u>Valheim Launch Issues 2N 2024: Identifying Causes and Effective Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209866193-9781999520212-why-am-i-here/"><u>Why Am I Here? | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-12-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi 12 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

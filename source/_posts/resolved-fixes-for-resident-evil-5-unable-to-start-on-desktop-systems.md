@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for 'Resident Evil 5' Unable to Start on Desktop Systems"
-date: 2024-08-28T06:23:27.426Z
-updated: 2024-08-29T06:23:27.426Z
+date: 2024-12-15T22:06:40.148Z
+updated: 2024-12-21T17:22:08.773Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,13 +45,14 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 4) Restart your computer for the changes to take effect.
@@ -55,6 +60,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -88,11 +97,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -108,8 +112,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -128,9 +133,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -140,8 +142,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -154,9 +157,6 @@ Here are the steps:
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
  4) Locate **Madden 20** and uninstall it too.
@@ -181,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +188,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-selection-of-inexpensive-web-explorers-for-remote-work/"><u>[New] 2024 Approved The Ultimate Selection of Inexpensive Web Explorers for Remote Work</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-ultimate-list-of-twitter-sensations/"><u>[New] The Ultimate List of Twitter Sensations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>[Updated] 2024 Approved Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-youtube-streams-to-local-files-audio-guide-for-2024/"><u>[Updated] From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-the-craft-essential-filmmaking-advice-from-youtube-pros-for-2024/"><u>[Updated] Master the Craft Essential Filmmaking Advice From YouTube Pros for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chest-pain-or-discomfort-that-may-feel-like-pressure-squeezing-fullness-or-pain-in-the-center-or-left-side-of-your-chest-this-can-sometimes-be-mistaken-for-609/"><u>Chest Pain or Discomfort that May Feel Like Pressure, Squeezing, Fullness, or Pain in the Center or Left Side of Your Chest. This Can Sometimes Be Mistaken for Indigestion or Heartburn and Might Even Come and Go with Activity.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clear-up-zoom-audio-troubleshoot-distortion-immediately/"><u>Clear Up Zoom Audio Troubleshoot Distortion Immediately</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-pc-release-delayed-update-insights/"><u>Diablo Immortal PC Release Delayed - Update Insights</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/discover-how-to-get-your-favorite-films-and-shows-subtitles-for-free-with-these-16-sites/"><u>Discover How to Get Your Favorite Films & Shows' Subtitles for Free with These 16 Sites!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-thaumaturge-wont-start-or-function-properly-on-windows/"><u>Effective Fixes for When Thaumaturge Won't Start or Function Properly on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-your-gopro-videos-time-lapse-guide/"><u>Enhance Your GoPro Videos Time-Lapse Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-gameplay-eight-essential-hacks-for-guardians-of-the-galaxy-running-smoothly-on-pc/"><u>Fix Your Gameplay! Eight Essential Hacks for Guardians of the Galaxy Running Smoothly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-baldurs-gate-the-third-pc-game-crashes-now-resolved/"><u>Fixing Baldur's Gate The Third: PC Game Crashes Now Resolved</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-access-a-dat-file-a-comprehensive-guide-for-windows-and-mac-users/"><u>How to Access a DAT File: A Comprehensive Guide for Windows & Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-black-screen-issue-in-resident-evil-village-on-pc/"><u>How to Fix the 'Black Screen' Issue in Resident Evil Village on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolution-reached-issues-with-death-strandings-initial-release-rectified/"><u>Resolution Reached: Issues with Death Stranding's Initial Release Rectified</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-meta-quest-3-insights-on-new-releases-pricing-info-launch-dates-and-comprehensive-device-specifications/"><u>The Next Generation Meta Quest 3: Insights on New Releases, Pricing Info, Launch Dates, and Comprehensive Device Specifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-troubleshooting-the-end-of-an-epoch-avoiding-pc-shutdowns/"><u>Top Strategies for Troubleshooting the End of an Epoch: Avoiding PC Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-guide-to-solving-msi-mystic-light-problems-on-a-pc-running-windows/"><u>Trouble-Free Guide to Solving MSI Mystic Light Problems on a PC Running Windows</u></a></li>
+</ul></div>
 

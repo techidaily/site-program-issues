@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-12-13T19:30:29.729Z
-updated: 2024-12-19T22:41:37.440Z
+date: 2024-12-16T18:42:29.914Z
+updated: 2024-12-21T18:45:01.252Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 If you’re getting this error message ‘**An Unreal process has crashed: UE4-Madness** .’, don’t worry. Usually, it means the game engine has crashed and it’s hard to troubleshoot the exact cause. Below, you will find every possible fix you can find online or in forums.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Quit MSI Afterburner](https://tools.techidaily.com/drivereasy/download/)**
@@ -35,10 +31,6 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -64,16 +56,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Verify the game integrity
 
@@ -85,13 +77,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
@@ -107,7 +99,15 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Launch the game in your game folder
 
@@ -117,17 +117,9 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -145,9 +137,17 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
@@ -179,24 +179,24 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-sharex-dissected-professional-views-and-counterparts/"><u>[Updated] In 2024, ShareX Dissected Professional Views & Counterparts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>[Updated] The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-diagnose-and-repair-freezing-errors-in-borderlands-3/"><u>Comprehensive Guide to Diagnose and Repair Freezing Errors in Borderlands 3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-stuttering-issues-in-mass-effect-trilogy-legendary-edition/"><u>Fixes for Stuttering Issues in Mass Effect Trilogy - Legendary Edition</u></a></li>
-<li><a href="https://win-net.techidaily.com/free-software-solution-complete-backup-and-restore-for-ghost-like-windows-7-hd/"><u>Free Software Solution: Complete Backup & Restore for Ghost-Like Windows 7 HD</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-common-apex-legends-engine-errors-effortlessly/"><u>How to Fix Common Apex Legends Engine Errors Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashing-in-aliens-fireteam-elite-for-pc-users/"><u>How to Resolve Continuous Crashing in Aliens: Fireteam Elite for PC Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-locked-archives-to-laymans-subtitles-the-zip-to-srt-method/"><u>In 2024, From Locked Archives to Layman's Subtitles The Zip To Srt Method</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lg-360-camera-full-review-2023-update/"><u>In 2024, LG 360 Camera Full Review -2023 Update</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-android-video-editor-app-roundup/"><u>In 2024, The Ultimate Android Video Editor App Roundup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-art-of-restoring-broken-game-data-on-windows-tips-and-tricks/"><u>Master the Art of Restoring Broken Game Data on Windows - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-graphics-stability-tips-to-resolve-frame-rate-dips-on-computers/"><u>Maximizing Graphics Stability: Tips to Resolve Frame Rate Dips on Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-replacing-missing-keys-on-your-laptop/"><u>The Ultimate Tutorial for Replacing Missing Keys on Your Laptop</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-pick-for-tech-aficionados-comprehensive-iphone-15-analysis-and-pro-user-endorsement-insight/"><u>Top Pick for Tech Aficionados: Comprehensive iPhone 15 Analysis & Pro User Endorsement Insight</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-voice-modifier-a-step-by-step-guide/"><u>Troubleshooting Your Clownfish Voice Modifier: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-efficiency-8-ingenious-applications-of-auto-gpt-technology/"><u>Unlocking Efficiency: 8 Ingenious Applications of Auto-GPT Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-winning-the-battle-against-pc-game-crashes-expert-advice/"><u>Warcraft 3 Reforged: Winning the Battle Against PC Game Crashes - Expert Advice</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-rhythm-and-reel-incorporating-tunes-on-instagram/"><u>[New] Rhythm & Reel Incorporating Tunes on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-speed-up-your-iphone-photography-with-time-lapses/"><u>2024 Approved Speed Up Your iPhone Photography with Time-Lapses</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>2024 Approved Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/face-forward-comparing-apple-and-samsungs-face-detection-capabilities/"><u>Face Forward Comparing Apple and Samsung's Face-Detection Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lost-ark-how-to-prevent-game-crashes-on-your-computer/"><u>Fixing Lost Ark: How to Prevent Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-in-the-game-with-these-crucial-tweaks-for-tiny-tinas-awesome-island-on-your-pc/"><u>Get Back in the Game with These Crucial Tweaks for Tiny Tina's Awesome Island on Your PC!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-halt-safe-screensaver-modifications/"><u>Guidelines to Halt Safe Screensaver Modifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-cod-black-ops-cold-war-issue-with-error-80070057/"><u>How to Overcome the Cod: Black Ops Cold War Issue with Error 80070057</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-a60s-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Itel A60s.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-biomutant-adventure-from-freezing-expert-tips-and-fixes-for-gamers-in-2econd-four/"><u>How to Stop Your Biomutant Adventure From Freezing: Expert Tips and Fixes for Gamers in 2Econd Four</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-fps-on-war-thunder-with-these-expert-fixes-from-2024/"><u>Improve FPS on War Thunder with These Expert Fixes From 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-graphics-quality-for-a-crisp-experience-in-the-latest-outriders-patch/"><u>Improved Graphics Quality for a Crisp Experience in the Latest Outriders Patch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-revamp-your-instagram-showcase-with-top-10-insights/"><u>In 2024, Revamp Your Instagram Showcase with Top 10 Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995698646-overcome-game-startup-errors-for-battlefield-4-on-personal-computers-now-fixed/"><u>Overcome Game Startup Errors for Battlefield 4 on Personal Computers - Now Fixed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sharpen-your-deduction-skills-through-these-engaging-ai-murder-mysteries-and-puzzles-4-best-brain-boosting-challenges/"><u>Sharpen Your Deduction Skills Through These Engaging AI Murder Mysteries & Puzzles - #4 Best Brain-Boosting Challenges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-crafted-by-musk-ai-insight/"><u>The Future Crafted by Musk: AI Insight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-your-soccer-management-game-crashes-in-2019/"><u>Troubleshooting Guide: Resolving Your Soccer Management Game Crashes in 2019</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-crashes-in-persona-4-golden-gameplay/"><u>Troubleshooting Tips: Resolving Crashes in Persona 4 Golden Gameplay</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-graphics-driver-in-windows-10/"><u>Update HP Graphics Driver in Windows 10</u></a></li>
 </ul></div>
 

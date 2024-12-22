@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Users Unable to Access Discord Application
-date: 2024-12-18T01:37:14.510Z
-updated: 2024-12-19T18:43:30.080Z
+date: 2024-12-16T20:14:38.690Z
+updated: 2024-12-21T16:01:37.786Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Dauntless Crash On PC
@@ -76,17 +76,9 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -96,6 +88,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -103,6 +99,10 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -116,10 +116,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -130,6 +126,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -138,15 +138,15 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,22 +171,15 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/09110926-new-supercharge-videos-download-premium-effs/"><u>[New] Supercharge Videos - Download Premium Effs!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-breakdown-of-payment-percentages-in-short-video-royalties/"><u>[New] The Breakdown of Payment Percentages in Short Video Royalties</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>[New] Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-capturists-for-academic-presentations-for-2024/"><u>[Updated] Ideal Capturists for Academic Presentations for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/anthem-loading-issue-resolution-no-more-hanging-screens/"><u>Anthem Loading Issue Resolution: No More Hanging Screens</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/10-free-youtube-subtitle-extractors-and-downloaders/"><u>Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-elex-ii-from-continuously-freezing-on-your-computer/"><u>Fixes & Solutions: How to Stop Elex II From Continuously Freezing on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fnaf-security-breach-patched-a-seamless-pc-gaming-experience-without-crashes-or-issues/"><u>FNAF Security Breach Patched: A Seamless PC Gaming Experience Without Crashes or Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-tutorial-resolving-chromes-unresponsive-webpage-issue/"><u>In-Depth Tutorial: Resolving Chrome's Unresponsive Webpage Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/is-rainbow-six-siege-up-for-an-overhaul-uncovering-the-truth/"><u>Is Rainbow Six Siege Up for an Overhaul ? Uncovering the Truth!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-granblue-fantasy-overcoming-relink-disruptions-and-stabilizing-performance-on-pc/"><u>Mastering Granblue Fantasy: Overcoming ReLink Disruptions and Stabilizing Performance on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-101-overcoming-intermittent-freezes-during-gray-zone-warfare-sessions/"><u>PC Troubleshooting 101: Overcoming Intermittent Freezes During Gray Zone Warfare Sessions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ess-content-curation-with-youtubes-watch-later-feature-for-2024/"><u>Seamless Content Curation with YouTube’s Watch Later Feature for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/template-transformations-build-unique-logos-for-pennies-for-2024/"><u>Template Transformations Build Unique Logos for Pennies for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-war-thunder-game-speed-top-fps-solutions/"><u>Ultimate Guide: Boosting Your War Thunder Game Speed - Top FPS Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-your-development-potential-10-ways-to-employ-chatgpt-with-visual-studio-code/"><u>Unlock Your Development Potential: 10 Ways to Employ ChatGPT with Visual Studio Code</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-compelling-iphone-photo-and-video-applications-87x/"><u>[Updated] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-vivid-tone-enhancer-app-for-2024/"><u>[Updated] Vivid Tone Enhancer App for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-c50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-youtubes-common-glitch-audiovisual-desynchronization-tips-for-chrome-and-firefox-browsers/"><u>Fixing YouTube's Common Glitch: Audiovisual Desynchronization - Tips for Chrome and Firefox Browsers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-the-sword-of-ages-running-smoothly-again-fixes-for-teso-launch-failures/"><u>Getting the Sword of Ages Running Smoothly Again - Fixes for TESO Launch Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-dauntless-pc-crash-issues-a-comprehensive-guide/"><u>How to Resolve Dauntless PC Crash Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ideal-interactive-interface-for-podcasters-for-2024/"><u>Ideal Interactive Interface for Podcasters for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-steelseries-controller-driver-update-how-to-get-started-with-windows-devices/"><u>Latest SteelSeries Controller Driver Update: How to Get Started with Windows Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-hurdles-civilization-vi-running-smoothly-on-windows-11/"><u>Overcoming Startup Hurdles: Civilization VI Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-and-paid-imovie-alternatives-for-windows-10-a-comprehensive-list-for-2024/"><u>Updated Free and Paid iMovie Alternatives for Windows 10 A Comprehensive List for 2024</u></a></li>
 </ul></div>
 

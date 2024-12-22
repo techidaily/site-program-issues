@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2024-12-14T19:08:43.009Z
-updated: 2024-12-19T23:02:43.817Z
+date: 2024-12-19T16:28:23.179Z
+updated: 2024-12-21T19:54:16.339Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -104,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -129,27 +133,23 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
- Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,18 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-tackling-massed-up-tiktoks-expert-edits-for-less-chaos/"><u>[New] In 2024, Tackling Massed-Up TikToks Expert Edits for Less Chaos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tickletech-design-easy-entertaining-visuals/"><u>[Updated] TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-destiny-2s-centipede-glitch/"><u>Comprehensive Guide to Overcoming Destiny 2'S Centipede Glitch</u></a></li>
-<li><a href="https://windows11.techidaily.com/custom-windows-11-taskbar-placement-hacks/"><u>Custom Windows 11 Taskbar Placement Hacks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fixing-noisy-audio-issues-in-cctv-feeds/"><u>Fixing Noisy Audio Issues in CCTV Feeds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-pc-freezes-how-to-fix-and-get-back-in-the-game/"><u>Football Manager 2021 PC Freezes: How to Fix and Get Back in the Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immortal-fixes-addressing-and-rectifying-recurring-breakdowns-of-immortals-fenyx-rising/"><u>Immortal Fixes: Addressing and Rectifying Recurring Breakdowns of Immortals Fenyx Rising</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/lrvgopromp4/"><u>LRVファイルからの高画質ビデオ変換：GoProカメラでmp4へ</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msi-implements-intel-recommended-power-specifications-for-i9-processors-aiming-to-resolve-stability-issues-during-continuous-investigation-by-intel/"><u>MSI Implements Intel Recommended Power Specifications for I9 Processors, Aiming to Resolve Stability Issues During Continuous Investigation by Intel</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/preserving-visual-content-how-to-secure-photos-in-word-docs-effectively/"><u>Preserving Visual Content: How to Secure Photos in Word Docs Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-constant-team-fortress-2-game-crashes/"><u>Resolved: Fixes for Constant Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-teso-game-launch-issues/"><u>Troubleshooting: How to Resolve TESO Game Launch Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-preventing-the-outer-worlds-from-crashing-on-your-pc/"><u>Ultimate Troubleshooting Tips for Preventing The Outer Worlds From Crashing on Your PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>[New] 2024 Approved Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/urning-screen-time-into-cash-the-youtube-way-for-2024/"><u>[New] Turning Screen Time Into Cash The YouTube Way for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-choosing-and-utilizing-cc-license-types/"><u>[Updated] The Art of Choosing and Utilizing CC License Types</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/windows-11-winx-video-converter-mpeg-avi-mp4-wmv-mov-flv/"><u>無料で動画フォーマットの変換機能: Windows 11向け WinX Video Converter - MPEG, AVI, MP4, WMV, MOV, FLVへの対応</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-top-techniques-for-optimizing-dota-2-in-2e24/"><u>Beat the Lag: Top Techniques for Optimizing Dota 2 in 2E24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-2e4-gameplay-glitches-how-to-stabilize-days-gone/"><u>Dealing with 2E4 Gameplay Glitches: How To Stabilize 'Days Gone'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gaming-how-the-persistent-crashing-of-assassins-creed-valhalla-on-pc-is-no-longer-an-issue/"><u>Enjoy Uninterrupted Gaming: How the Persistent Crashing of Assassin’s Creed Valhalla on PC Is No Longer an Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-achieve-seamless-play-with-high-fps-and-no-stuttering-in-naraka-bladepoint/"><u>How To Achieve Seamless Play with High FPS and No Stuttering in Naraka: Bladepoint</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-8-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 8 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/masterclass-unboxing-and-testing-lgs-usb-c-hdr-display-for-2024/"><u>Masterclass Unboxing and Testing LG's USB-C HDR Display for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-video-stuttering-audio-lingers-on-solutions-for-chrome-and-firefox-users/"><u>Resolving YouTube Video Stuttering: Audio Lingers On - Solutions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-xlivedll-couldnt-be-loaded-dilemma-step-by-step-guide/"><u>Solving the 'Xlive.dll Couldn't Be Loaded' Dilemma - Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mystery-solved-accessing-the-missing-la-noire-pc-edition-explained/"><u>The Mystery Solved: Accessing the Missing L.A. Noire PC Edition Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-resolving-baldurs-gate-3-crashes-on-desktop-pcs/"><u>Trouble-Free Gaming: Resolving Baldur's Gate 3 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-serious-sam-4-fixes-for-pc-performance-issues/"><u>Troubleshooting Serious Sam 4: Fixes for PC Performance Issues</u></a></li>
 </ul></div>
 

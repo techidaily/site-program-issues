@@ -1,7 +1,7 @@
 ---
 title: "Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps"
-date: 2024-12-13T23:47:06.487Z
-updated: 2024-12-20T01:55:39.838Z
+date: 2024-12-14T22:29:16.496Z
+updated: 2024-12-21T16:48:08.183Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you have GeForce Experience installed, and you find that you can’t record y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Restart NVIDIA Streamer service
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
@@ -48,11 +52,11 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -65,14 +69,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -100,24 +100,17 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-health-communication-winning-on-social-networks-for-2024/"><u>[New] Health Communication Winning on Social Networks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-optimal-outlooks-ideal-laptops-to-render-hd-videos-quickly/"><u>[Updated] In 2024, Optimal Outlooks Ideal Laptops to Render HD Videos Quickly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unleashing-the-power-of-obs-macos-install-and-usage-tips-for-2024/"><u>[Updated] Unleashing the Power of OBS MacOS Install & Usage Tips for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/come-cancellare-i-backup-aggiuntivi-con-il-pannello-di-controllo-seagate/"><u>Come Cancellare I Backup Aggiuntivi Con Il Pannello Di Controllo Seagate</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dial-down-dynamic-range-with-ease/"><u>Dial Down Dynamic Range with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722983115690-elden-ring-cooperative-mode-hitches-solutions-inside/"><u>Elden Ring Cooperative Mode Hitches - Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-frame-rate-fluctuations-and-smooth-out-gameplay-in-battlefield-2042-for-pc-players/"><u>How to Resolve Frame Rate Fluctuations and Smooth Out Gameplay in Battlefield 2042 for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-speed-up-your-steam-gameplay/"><u>How to Speed Up Your Steam Gameplay?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-solve-the-application-startup-failure-error-code-0xc000007b-on-windows/"><u>How To Troubleshoot and Solve the Application Startup Failure Error Code 0xC000007B on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-alleviate-problem-buffering-tweets-in-chromebook/"><u>In 2024, Alleviate Problem Buffering Tweets in Chromebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamless-video-editing-on-windows-11-platform/"><u>In 2024, Seamless Video Editing on Windows 11 Platform</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-13-pro-max-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 13 Pro Max on MetroPCS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/masterclass-fixing-steam-games-not-working-problems-for-users-of-windows-nx/"><u>Masterclass: Fixing 'Steam Games Not Working' Problems for Users of Windows nX</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-formula-1-2021-on-your-pc-techniques-to-avoid-disruptive-crashes-and-play-smoothly/"><u>Mastering Formula 1 2021 on Your PC: Techniques to Avoid Disruptive Crashes & Play Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us598/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra</u></a></li>
-<li><a href="https://program-issues.techidaily.com/repair-guide-restoring-server-link-in-fallout-76-on-desktop-computers/"><u>Repair Guide: Restoring Server Link in Fallout 76 on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-cs2-gameplay-interruptions-boost-your-pcs-frame-rate/"><u>Solving CS2 Gameplay Interruptions: Boost Your PC's Frame Rate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-to-resolve-barcode-reading-issues/"><u>Top Strategies to Resolve Barcode Reading Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastery-of-spotify-ad-formats-and-best-practices/"><u>[New] In 2024, Mastery of Spotify Ad Formats and Best Practices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-premier-stop-motion-works-the-ultimate-15-selection/"><u>2024 Approved Premier Stop-Motion Works The Ultimate 15 Selection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-graphics-problems-for-a-smoother-warzone-experience/"><u>How to Address Graphics Problems for a Smoother Warzone Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-razr-40-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Razr 40 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-guide-to-altering-windows-files-timestamps/"><u>Insightful Guide to Altering Windows Files' Timestamps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-black-screen-glitches-on-your-halo-infinite-gameplay/"><u>Overcoming Black Screen Glitches on Your Halo Infinite Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-s17-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo S17 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-gameloop-malfunctions-on-pc-windows-11-and-10/"><u>Resolved: Fixing GameLoop Malfunctions on PC (Windows 11 & 10)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-persistent-pc-issues-with-thunder-tier-one/"><u>Troubleshooting the Persistent PC Issues with Thunder Tier One</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-football-manager-2022-released-solutions-unveiled/"><u>Why Isn't Football Manager 2022 Released? Solutions Unveiled</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/wiederherstellung-verlorener-festplattenlaufwerke-unter-windows-10-mehr-erfolg-mit-myrecover/"><u>Wiederherstellung Verlorener Festplattenlaufwerke Unter Windows 10 - Mehr Erfolg Mit MyRecover</u></a></li>
 </ul></div>
 

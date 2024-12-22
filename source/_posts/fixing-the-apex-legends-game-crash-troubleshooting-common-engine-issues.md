@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2024-12-12T23:33:56.722Z
-updated: 2024-12-20T02:13:32.270Z
+date: 2024-12-19T20:39:05.937Z
+updated: 2024-12-21T19:08:48.397Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -67,10 +63,6 @@ Here is how to grant administrative privileges to Apex Legends:
  1) On your keyboard, press the Windows logo key and type Apex Legends. Once the game shows up as a result, right-click on**Apex Legends** and select **Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
@@ -93,27 +85,27 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
@@ -129,7 +121,7 @@ Here are the steps to add the command line:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Add the following command to the text document.
@@ -140,6 +132,10 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
@@ -147,6 +143,10 @@ Windows Registry Editor Version 5.00
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -174,16 +174,21 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-leveraging-youtube-for-seamless-facebook-sharing/"><u>[New] Leveraging YouTube for Seamless Facebook Sharing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-precision-tools-for-gif-to-video-conversion-best-5/"><u>2024 Approved Precision Tools for GIF to Video Conversion (Best 5)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/biomutant-pc-overcome-lag-and-faults-with-these-proven-tips-for-a-seamless-gaming-session/"><u>Biomutant (PC): Overcome Lag and Faults with These Proven Tips for a Seamless Gaming Session</u></a></li>
-<li><a href="https://facebook.techidaily.com/connectors-guide-to-facebooks-emerging-zones/"><u>Connectors' Guide to Facebook’s Emerging Zones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-phantoms-reverse-video-capabilities/"><u>Navigating Phantom's Reverse Video Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-suggestions-top-10-sports-binge-watching-apps-soccer-focus/"><u>Premier Suggestions Top 10 Sports Binge-Watching Apps, Soccer Focus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-runtime-issues-stabilizing-psychonauts-2-performance-on-your-pc/"><u>Solving Runtime Issues: Stabilizing Psychonauts 2 Performance on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-double-errors-in-windows-operating-systems/"><u>Troubleshooting Double Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-metro-exodus-pc-version-crashes-solutions-unveiled/"><u>Troubleshooting Metro Exodus PC Version Crashes – Solutions Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-problems-with-amd-radeon-software-failure-to-start/"><u>Troubleshooting Tips: Resolving Problems with AMD Radeon Software Failure to Start</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vrs-essentials-the-trending-gear-list/"><u>VR's Essentials The Trending Gear List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>[New] 2024 Approved Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-achieving-professional-results-radial-effects-in-ps-for-2024/"><u>[Updated] Achieving Professional Results Radial Effects in PS for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[Updated] In 2024, Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities-for-2024/"><u>[Updated] Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-excellence-started-with-quality-cameras-and-lenses/"><u>2024 Approved Video Excellence Started with Quality Cameras and Lenses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-on-pc-resolving-persistent-stability-issues-and-crashes/"><u>Assassin's Creed Valhalla on PC - Resolving Persistent Stability Issues & Crashes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-game-protection-violation-notifications/"><u>Deciphering And Fixing Game Protection Violation Notifications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-legal-paths-for-free-c-span-videos/"><u>Discover Legal Paths for Free C-Span Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-loading-error-expert-tips-to-get-you-playing-sooner/"><u>Football Manager 2021 Loading Error: Expert Tips to Get You Playing Sooner</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/losungsansatze-fur-einen-sehr-langsamen-oder-nicht-reagierenden-microsoft-outlook-was-tun/"><u>Lösungsansätze Für Einen Sehr Langsamen Oder Nicht Reagierenden Microsoft Outlook - Was Tun?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-solve-the-battlefield-5-wont-start-problem-a-step-by-step-guide/"><u>Quick Solution: How to Solve the 'Battlefield 5 Won't Start' Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-mastering-fixes-for-minecraft-error-with-exit-code-0/"><u>Resolving the Issue: Mastering Fixes for Minecraft Error with Exit Code 0</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000440225-stop-paladins-from-crashing-with-these-proven-fixes/"><u>Stop Paladins From Crashing with These Proven Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-libeay32dll-error-find-out-why-its-gone-and-how-to-restore-it/"><u>Troubleshooting libeay32.dll Error: Find Out Why It's Gone and How to Restore It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-dota-2s-frame-rate-decreases-in-windows-11-and-how-to-fix-it/"><u>Troubleshooting: Why Dota 2'S Frame Rate Decreases in Windows 11 and How to Fix It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Constant Crashing in 'Remnant: From the Ashes'?"
-date: 2024-12-18T03:11:22.777Z
-updated: 2024-12-20T02:32:14.393Z
+date: 2024-12-15T23:21:38.977Z
+updated: 2024-12-21T18:01:10.873Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -42,10 +42,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Delete “DataPC\_TGT\_WorldMap.forge”
 
  You can try deleting the game file “_DataPC\_TGT\_WorldMap.forge_ ” if Ghost Recon Breakpoint crashes at launch on your computer. Here’s how to do it:
@@ -60,10 +56,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  Launch the game again to see if you can play it without crashes. If not, don’t worry. Please read on and try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics drivers
 
@@ -84,12 +76,12 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-2.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -97,10 +89,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  If you need assistance,[please send us an email via Driver Easy Feedback tool](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest game patches
 
@@ -119,6 +107,10 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 1. In Uplay, navigate to **the Games tab** and move your mouse cursor to the game tile of Ghost Recon Breakpoint. Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
 2. Select **Verify files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
 
@@ -142,6 +134,10 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  If this issue persists after you reset the CPU or graphics card to its manufacturer specifications, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower in-game settings
 
@@ -186,6 +182,10 @@ Here are the system requirements for Ghost Recon Breakpoint:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall the game
 
  If none of the fixes works for you, it’s time to reinstall the game. Usually after reinstalling, you should be able to play Ghost Recon Breakpoint smoothly.
@@ -212,15 +212,20 @@ Here are the system requirements for Ghost Recon Breakpoint:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-digital-darling-list-top-viewed-on-fb/"><u>[Updated] 2024 Approved Digital Darling List Top Viewed on FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-finding-perfect-music-for-unpack-videos/"><u>[Updated] Guide Finding Perfect Music For Unpack Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>2024 Approved From Silence to Soundscape Step-by-Step in Audition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-iphone-call-audio-clarity-top-tips-and-tricks-sourcezdnet/"><u>Enhancing iPhone Call Audio Clarity: Top Tips & Tricks - SourceZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-to-overcome-phasmophobia-vr-performance-issues/"><u>Essential Tips to Overcome Phasmophobia VR Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-runescape-game-crashes-with-these-proven-tips/"><u>Fix Your RuneScape Game Crashes with These Proven Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo K11 5G Phone Without Password?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-beat-of-branding-mixing-music-into-your-instareel/"><u>In 2024, The Beat of Branding Mixing Music Into Your InstaReel</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-league-of-legends-solutions-for-eliminating-black-screens/"><u>Mastering League of Legends: Solutions for Eliminating Black Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-baldurs-gate-iii-for-a-seamless-pc-gaming-experience/"><u>Overcoming Technical Hurdles in Baldur’s Gate III for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-highest-quality-capture-options/"><u>[New] 2024 Approved Highest Quality Capture Options</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-ways-to-earn-on-snapchat/"><u>[New] In 2024, Innovative Ways to Earn on Snapchat</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-sdr-upgrade-manual-unveiling-the-secrets-of-hdr-transformation/"><u>[Updated] 2024 Approved SDR Upgrade Manual Unveiling the Secrets of HDR Transformation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-first-flight-fun-best-easy-to-use-drones/"><u>[Updated] First Flight Fun Best Easy-to-Use Drones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs-in-2024/"><u>[Updated] Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977336899-amd-gpio-device-drivers-secure-your-free-download-now/"><u>AMD GPIO Device Drivers - Secure Your Free Download Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009585133-battlefront-iis-shader-woes-master-quick-tweaks-for-smoother-gameplay/"><u>Battlefront II's Shader Woes? Master Quick Tweaks for Smoother Gameplay</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-build-a-showstopper-iphone-photomosaic-with-ease-and-fun-for-2024/"><u>How to Build a Showstopper iPhone Photomosaic with Ease and Fun for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-apex-legends-engine-issues-comprehensive-troubleshooting-guide/"><u>How to Fix Apex Legends Engine Issues: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-fast-gaming-with-these-tips-lag-fixes-and-fps-enhancements-in-watch-dogs-legion/"><u>Master Fast Gaming with These Tips: Lag Fixes and FPS Enhancements in Watch Dogs: Legion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-stable-gaming-no-more-crashes-with-hitman-3-on-your-pc/"><u>Master the Art of Stable Gaming: No More Crashes with Hitman 3 on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-automata-replica-wont-start-troubleshooting-guide/"><u>NieR: Automata Replica Won't Start - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-latest.techidaily.com/sudden-drop-in-gpu-efficiency-uncovering-the-causes-insights-from-yl-computing/"><u>Sudden Drop in GPU Efficiency: Uncovering the Causes - Insights From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-portable-player-in-sound-a35/"><u>The Best Portable Player in Sound, A35</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-definitive-fixes-to-iron-out-game-hiccups-and-secure-steady-fast-frame-rates-2024-update/"><u>The Definitive Fixes to Iron Out Game Hiccups and Secure Steady, Fast Frame Rates - 2024 Update</u></a></li>
 </ul></div>
 

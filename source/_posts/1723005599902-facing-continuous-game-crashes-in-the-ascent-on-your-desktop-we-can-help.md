@@ -1,7 +1,7 @@
 ---
 title: Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help
-date: 2024-12-17T02:14:04.301Z
-updated: 2024-12-19T17:54:50.599Z
+date: 2024-12-18T18:26:28.082Z
+updated: 2024-12-21T20:00:55.769Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ The Ascent
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of The Ascent
 
  You should ensure that your PC meets the system requirements of The Ascent. Just take a quick glance at the system requirements of The Ascent and check if your PC meets its system requirements:
@@ -45,10 +49,6 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -64,6 +64,10 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -78,6 +82,10 @@ The Ascent
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch the game again and check if this fix works. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -95,23 +103,15 @@ The Ascent
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -120,6 +120,10 @@ The Ascent
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run The Ascent with DirectX 11
 
@@ -133,6 +137,10 @@ The Ascent
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the game still crashes, try the next fix, below.
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
@@ -145,6 +153,10 @@ If the game still crashes, try the next fix, below.
 **`%LOCALAPPDATA%\TheAscent\Saved\Config\WindowsNoEditor`**  
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. To disble Moive / Film Grain, add the following and save the file:  
 
@@ -166,10 +178,6 @@ If the game still crashes, try the next fix, below.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Update MS Visual C++ Redistributables
 
  To ensure compatibility, you may also need to update your Microsoft Visual C++ redistributables, because the outdated Visual C++ redistributables may also trigger The Ascent crashing issues.
@@ -182,10 +190,6 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -196,10 +200,6 @@ If the game still crashes, try the next fix, below.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  The Ascent may also crash if there is a certain program conflicting with the game. To find out the problematic program that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -207,10 +207,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
@@ -225,6 +221,10 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -260,22 +260,17 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-spatial-realities-compared-the-meta-and-omni-experience/"><u>[New] 2024 Approved Spatial Realities Compared The Meta and Omni Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[Updated] 2024 Approved Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-discover-how-to-fine-tune-game-audio-on-ps-console/"><u>[Updated] Discover How to Fine-Tune Game Audio on PS Console</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/3-gadgets-and-devices-ready-today-discover-the-latest-at-zdnet/"><u>3 Gadgets and Devices Ready Today - Discover the Latest at ZDNet!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-common-errors-with-corsairs-icue-software-in-modern-windows-environments/"><u>Diagnosing and Fixing Common Errors with Corsair's iCUE Software in Modern Windows Environments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repairs-easily-correcting-common-tv-malfunctions/"><u>DIY Repairs: Easily Correcting Common TV Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-half-life-alyx-performance-tackling-latency-and-frame-rate-issues-on-windows/"><u>Enhance Your Half-Life: Alyx Performance - Tackling Latency & Frame Rate Issues on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-libxmln2dll-file-not-found-warnings-comprehensive-solutions-and-steps/"><u>Handling libxmln2.dll File Not Found Warnings: Comprehensive Solutions and Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-baldurs-gate-3-from-freezing-or-crashing-on-windows-computers/"><u>How to Stop Baldur's Gate 3 From Freezing or Crashing on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-recurrent-breakdowns-of-ghostwire-tokyo-in-your-gaming-session/"><u>How to Stop Recurrent Breakdowns of Ghostwire: Tokyo in Your Gaming Session</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Note 30? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gameplay-achieved-eradicating-stuttering-in-assassins-creed-valhalla-on-personal-computers/"><u>Seamless Gameplay Achieved: Eradicating Stuttering in Assassin's Creed Valhalla on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-stable-gameplay-overcoming-granblue-fantasy-link-errors-on-pc/"><u>Step-by-Step Solution for Stable Gameplay: Overcoming Granblue Fantasy Link Errors on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-struggling-with-the-game-resolve-ready-or-not-consistent-crashes-on-your-pc/"><u>Stop Struggling with the Game - Resolve 'Ready or Not' Consistent Crashes on Your PC!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-solution-to-cyberpunk-2077s-input-lag-challenge/"><u>Understanding the Solution to Cyberpunk ⁣2077'S Input Lag Challenge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>[New] Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-snapshots-on-android-for-2024/"><u>[New] Maximize Your Snapshots on Android for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-youtube-to-webm-unveiling-the-premium-converters/"><u>[Updated] From YouTube to WebM Unveiling the Premium Converters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-speedy-scripts-top-1-written-game-experiences-on-devices/"><u>[Updated] Speedy Scripts Top 1 Written Game Experiences on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-key-finder-gadgets-secure-and-smart-options-reviewed/"><u>Discover the Ultimate Key Finder Gadgets : Secure & Smart Options Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/edge-browser-troubleshooting-fix-for-recent-windows-11-crashes/"><u>Edge Browser Troubleshooting: Fix for Recent Windows 11 Crashes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-video-quality-with-gopro-knowledge/"><u>Elevate Your Video Quality with GoPro Knowledge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-issue-troubleshooting-everspace-2-pc-instability-problems/"><u>Fix Your Issue: Troubleshooting Everspace 2 PC Instability Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/newbies-netflix-nook-deciphering-resolution-ratings-for-2024/"><u>Newbie's Netflix Nook Deciphering Resolution Ratings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-fortnite-from-freezing-on-your-computer-a-comprehensive-guide/"><u>Resolved: How to Stop Fortnite From Freezing on Your Computer - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-alan-wake-2-release-stuck-tips-and-solutions/"><u>Solving the Puzzle: Alan Wake 2 Release Stuck – Tips & Solutions</u></a></li>
 </ul></div>
 

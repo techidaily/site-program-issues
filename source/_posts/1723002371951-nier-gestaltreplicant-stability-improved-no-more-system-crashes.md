@@ -1,7 +1,7 @@
 ---
 title: "NieR: Gestalt/Replicant Stability Improved - No More System Crashes"
-date: 2024-12-14T17:51:43.528Z
-updated: 2024-12-19T22:20:14.655Z
+date: 2024-12-19T19:07:03.414Z
+updated: 2024-12-21T18:18:48.164Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ A screenshot of Ghostwire: Tokyo from Steam
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,6 +43,10 @@ A screenshot of Ghostwire: Tokyo from Steam
 7. **[Disable Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable third-party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  Game file corruption are usually the culprit for the game crashing issues. If you’re not sure if any game files are missing or corrupted on your PC, you can follow the instructions below to verify integrity of game files:
@@ -53,6 +57,10 @@ A screenshot of Ghostwire: Tokyo from Steam
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -69,7 +77,7 @@ A screenshot of Ghostwire: Tokyo from Steam
 There’re mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually
@@ -138,16 +146,12 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with 24/7 Technical Support. If you need any assistance, you can use one of the following:  
 **Email:** <support@fortect.com>  
 **Submit a ticket:** _[https://www.fortect.com/company/contacts/](https://www.reimageplus.com/submit-ticket/)_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -168,16 +172,12 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and launch the game.
 
  See if Ghostwire: Tokyo crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -189,10 +189,6 @@ Or
  If you’re using the software like MSI Afterburner, AMD Overdrive, GIGABYTE Easy Tune, etc., you may need to disable them first.
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Disable Steam Overlay
 
@@ -209,6 +205,10 @@ Or
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch Ghostwire: Tokyo and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Disable third-party antivirus software
 
@@ -241,19 +241,16 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-deep-dive-into-du-recorders-design-and-functionality/"><u>[New] In 2024, Deep Dive Into Du Recorder's Design and Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722983382845-solved-assassins-creed-valhalla-keeps-crashing-on-pc/"><u>[SOLVED] Assassin’s Creed: Valhalla Keeps Crashing on PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-artisans-approach-expert-color-alteration-tactics/"><u>[Updated] 2024 Approved The Artisan's Approach Expert Color Alteration Tactics</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-360-camera-buying-guide-how-to-choose-a-suitable-360-camera/"><u>[Updated] In 2024, 360 Camera Buying Guide How to Choose a Suitable 360 Camera</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/androids-premier-gaming-application-decoding-the-kinemaster-experience-for-2024/"><u>Android's Premier Gaming Application - Decoding the KineMaster Experience for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-the-blues-fixing-continuous-kinect-xbox-f1-2021-pc-game-crashes/"><u>Banish the Blues: Fixing Continuous Kinect Xbox F1 2021 PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-oculus-display-problems-updating-your-graphics-card-software/"><u>Fixing Oculus Display Problems - Updating Your Graphics Card Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-call-recording-guide-methods-and-legality-by-state-zdnet/"><u>IPhone Call Recording Guide: Methods & Legality by State - ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-release-alert-abbyys-3m-360-encompass-suite-adds-advanced-text-recognition-features/"><u>New Release Alert: ABBYY's 3M 360 Encompass Suite Adds Advanced Text Recognition Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-assassins-creed-mirage-crash-issues-expert-fixes-and-tricks/"><u>Solve Assassin's Creed Mirage Crash Issues | Expert Fixes & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-the-infamous-crossbow-glitch-in-minecraft/"><u>Step-by-Step Fix for the Infamous Crossbow Glitch in Minecraft</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tips-for-fixing-broken-samsung-blu-ray-players/"><u>Step-by-Step Tips for Fixing Broken Samsung Blu Ray Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-solution-uncovered-bypassing-overwatchs-initial-black-screen-glitch/"><u>The Solution Uncovered: Bypassing Overwatch's Initial Black Screen Glitch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-free-music-anytime-facebook-app-for-2024/"><u>Unlock Free Music, Anytime - Facebook App for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-maximizing-video-reach-through-title-and-tag-synergy/"><u>[New] 2024 Approved Maximizing Video Reach Through Title & Tag Synergy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-screenplay-foundations-a-guide/"><u>[New] Screenplay Foundations A Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>[Updated] Astro-Bio Revolution Crafting Signature WhatsApp Identities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-speech-logging-for-mac-our-top-5-list-unveiled-for-2024/"><u>[Updated] Ultimate Speech Logging for Mac Our Top 5 List Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-reality-of-youtubes-fast-subscribe-technique/"><u>2024 Approved The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-smoother-visuals-in-ring-of-elysium-improve-your-frame-rate-now/"><u>Achieve Smoother Visuals in Ring of Elysium - Improve Your Frame Rate Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-black-screen-error-thats-plaguing-your-persona-amoji-gameplay/"><u>How to Resolve the Black Screen Error That's Plaguing Your Persona Amoji Gameplay</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-new-earnings-threshold-youtubes-500-rule/"><u>In 2024, The New Earnings Threshold YouTube's $500 Rule</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/midland-gxt1000vp4-review/"><u>Midland GXT1000VP4 Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operation-translate-all-instances-of-inflammation-into-a-series-of-musical-notes-that-follow-the-pattern-found-in-beethovens-symphony-no5-first-movement-all485/"><u>Operation: Translate All Instances of Inflammation Into a Series of Musical Notes that Follow the Pattern Found in Beethoven's Symphony No.5, First Movement (Allegro Con Brio)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-error-6634/"><u>Ultimate Guide: Resolving Call of Duty: Warzone's Error 6634</u></a></li>
 </ul></div>
 

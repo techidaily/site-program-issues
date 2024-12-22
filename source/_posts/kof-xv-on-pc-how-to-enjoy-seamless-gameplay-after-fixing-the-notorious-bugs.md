@@ -1,7 +1,7 @@
 ---
 title: "'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs"
-date: 2024-12-17T22:03:39.449Z
-updated: 2024-12-20T02:12:17.605Z
+date: 2024-12-16T21:57:25.254Z
+updated: 2024-12-21T18:43:25.065Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 Recently, many players have reported that**A Total War Saga: Troy keeps crashing** on their PC. If you’re running into the same issue, don’t worry, you’ve come to the right place. Here we’ve gathered the fixes for the crashing issue. After reading this article, you’ll be able to fix this issue on your own quickly and easily!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,6 +32,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 5. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
 
@@ -69,7 +73,7 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -92,10 +96,6 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -103,10 +103,6 @@ Or
  Launch A Total War Saga: Troy to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -125,13 +121,13 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -142,6 +138,10 @@ Or
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  If this issue persists after you stopped overclocking, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
 
@@ -158,7 +158,7 @@ Or
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
@@ -194,24 +194,15 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-evaluating-fraps-as-a-screen-grab-pro/"><u>[New] Evaluating Fraps as a Screen Grab Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-premier-10-layouts-ae-text-edition-for-2024/"><u>[New] Premier 10 Layouts AE Text Edition for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube/"><u>[New] Streamlining the Process of Finding Your Own Musical Compilation on Youtube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-understanding-the-core-of-asmr-media/"><u>[New] Understanding the Core of ASMR Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-wwe-2k22-keeps-crashing-on-pc/"><u>[SOLVED] WWE 2K22 Keeps Crashing on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-video-twisting-techniques-boost-your-instagram-media-presentation/"><u>[Updated] In 2024, Video Twisting Techniques Boost Your Instagram Media Presentation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-6-software-for-audiovisual-translation/"><u>Elite 6 Software for Audio/Visual Translation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-mending-your-corsair-icue-setup-issues-under-windows-1011-environments/"><u>Expert Advice: Mending Your Corsair iCUE Setup Issues Under Windows 10/11 Environments</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-s23-ultra-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy S23 Ultra to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transition-your-tunes-transferring-collections-between-services/"><u>In 2024, Transition Your Tunes Transferring Collections Between Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-issues-with-swtor-starting-up-expert-advice-and-fixes/"><u>Overcoming Issues with SWTOR Starting Up: Expert Advice and Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-for-your-new-scansnap-s1100-scanner-drivers/"><u>Quick Setup Guide for Your New Scansnap S1100 Scanner Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-a-guide-to-troubleshoot-super-pc-freezing-problems/"><u>Resolving Issues: A Guide to Troubleshoot 'Super Pc' Freezing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-accelerate-download-rates-in-utorrent/"><u>Solution Found: How to Accelerate Download Rates in uTorrent</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-effective-strategies-when-your-discord-app-keeps-crashing/"><u>Solving the Problem: Effective Strategies When Your Discord App Keeps Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008453311-steam-connection-error-resolved-back-online-and-better-than-ever/"><u>Steam Connection Error Resolved - Back Online and Better Than Ever</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-msi-afterburner-not-detecting-your-gpu-in-windows-11/"><u>Troubleshooting Steps for MSI Afterburner Not Detecting Your GPU in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-lava-blaze-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Lava Blaze Pro 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/win-the-battle-against-warcrafts-unstable-visuals-proven-techniques-for-fixing-flicker-issues/"><u>Win the Battle Against Warcraft's Unstable Visuals: Proven Techniques for Fixing Flicker Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-the-issue-with-msi-z790-boards-cracked-chipsets-and-affected-units-amid-possible-assembly-fault-new-developments/"><u>Breaking Down the Issue with MSI Z790 Boards: Cracked Chipsets & Affected Units Amid Possible Assembly Fault (New Developments)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-for-a-seamless-experience-of-tiny-tinas-stirring-adventures-on-pc-fixed/"><u>Easy Troubleshooting Steps for a Seamless Experience of Tiny Tina's Stirring Adventures on PC [Fixed]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-pop-8-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Pop 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-steams-content-file-unlocking-problem-quickly/"><u>How to Fix Steam's Content File Unlocking Problem Quickly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-13-pro-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 13 Pro without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-efficient-discord-use-minimizing-high-cpu-consumption/"><u>Mastering Efficient Discord Use: Minimizing High CPU Consumption</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-video-edits-in-youtube-studios-editor-for-2024/"><u>Mastering Video Edits in YouTube Studio's Editor for 2024</u></a></li>
+<li><a href="https://win-special.techidaily.com/risolvi-i-tuoi-problemi-di-partizione-con-windows-11-utilizzando-questi-due-modi-migliori-su-misurini/"><u>Risolvi I Tuoi Problemi Di Partizione Con Windows 11 Utilizzando Questi Due Modi Migliori Su Misurini!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-for-the-newly-updated-dota-2-anti-cheat-ban-glitches-of-2022/"><u>The Ultimate Solution for the Newly Updated Dota 2 Anti-Cheat Ban Glitches of 2022</u></a></li>
 </ul></div>
 

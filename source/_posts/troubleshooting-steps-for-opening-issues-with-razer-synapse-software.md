@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-12-16T20:00:42.311Z
-updated: 2024-12-20T01:26:57.041Z
+date: 2024-12-17T17:36:18.187Z
+updated: 2024-12-21T17:42:23.729Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -35,7 +31,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
@@ -53,6 +49,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
  Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
 
 You can fix it by uninstalling the multiplayer HD texture packs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
 
@@ -73,6 +73,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,27 +92,15 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -128,7 +120,15 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -155,20 +155,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2023s-prime-divers-top-tier-aquatic-camera-choices-for-2024/"><u>[New] 2023'S Prime Divers Top-Tier Aquatic Camera Choices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-aesthetic-alchemy-grading-with-colors/"><u>[Updated] 2024 Approved Aesthetic Alchemy Grading with Colors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-5-low-cost-solar-panels-powering-your-tech/"><u>[Updated] 2024 Approved Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[Updated] In 2024, ScreenSnapper Revisited Apowersoft's Latest PC Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-budget-friendly-tips-for-acquiring-high-end-gopros/"><u>2024 Approved Budget-Friendly Tips for Acquiring High-End GoPros</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-your-amd-gpu-software-not-initializing-properly/"><u>Fixing Issues with Your AMD GPU Software Not Initializing Properly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-collapsing-tower-of-fantasy-solving-pc-game-crashes/"><u>Fixing the Collapsing Tower of Fantasy: Solving PC Game Crashes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/guide-to-seamlessly-share-your-igtv-story-for-2024/"><u>Guide to Seamlessly Share Your IGTV Story for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-crashes-in-forza-horizon-4-for-pc-players/"><u>How to Fix and Prevent Crashes in Forza Horizon 4 for PC Players</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-20-anime-song-intros/"><u>In 2024, Superior 20 Anime Song Intros</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-minecraft-troubleshooting-a-step-by-step-guide-to-fixing-error-code-0/"><u>Mastering Minecraft Troubleshooting - A Step-by-Step Guide to Fixing Error 'Code 0'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-freeze-frustration-in-microsoft-flight-simulator-2020-with-solutions-for-update-errors/"><u>Overcome Freeze Frustration in Microsoft Flight Simulator 2020 with Solutions for Update Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pro-gamers-secrets-achieve-higher-fps-in-escape-from-tarkov-with-our-six-essential-hacks/"><u>Pro Gamers' Secrets: Achieve Higher FPS in Escape From Tarkov With Our Six Essential Hacks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-acrocefexe-errors-expert-strategies-revealed/"><u>Troubleshooting AcroCEF.exe Errors: Expert Strategies Revealed</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-confusion-understanding-digital-rights-management-drm/"><u>[New] 2024 Approved Clearing Up Confusion Understanding Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pave-your-path-to-popularity-secure-1000-fansmonth-on-instagram/"><u>[New] In 2024, Pave Your Path to Popularity Secure 1,000 Fans/Month on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-sleep-well-with-asmr-techniques-and-tips/"><u>[New] In 2024, Sleep Well with ASMR Techniques and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-total-war-three-kingdoms-crash-issue/"><u>[Solved] Total War: Three Kingdoms Crash Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[Updated] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-in-call-of-duty-modern-warfare-a-complete-guide/"><u>Eliminate FPS Drops in Call of Duty: Modern Warfare - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expedited-recover-lost-logildadll/"><u>Expedited: Recover Lost LogiLDA.dll</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-battlenet-not-responding-error-a-comprehensive-2-growers-guide/"><u>Fixing the Battle.net Not Responding Error: A Comprehensive 2 Grower's Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>In 2024, Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-nba-2k23-crashing-issues-on-pc-top-7-tips-and-tricks/"><u>Solved: How to Fix NBA 2K23 Crashing Issues on PC - Top 7 Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gobi-fatal-error-in-back-4-blood-ue4-comprehensive-guide/"><u>Solving Gobi Fatal Error in Back 4 Blood (UE4) - Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-to-overcome-rusts-graphical-anomalies/"><u>The Solution to Overcome Rust's Graphical Anomalies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-cropped-video-content-on-instagram/"><u>The Ultimate Guide to Cropped Video Content on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-msi-afterburners-inability-to-recognize-gpu-under-windows-11/"><u>Troubleshooting Guide: Addressing MSI Afterburner's Inability to Recognize GPU Under Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-safe-methods-to-rip-burn-and-duplicate-your-dvdcd-content/"><u>Ultimate Guide: Safe Methods to Rip, Burn & Duplicate Your DVD/CD Content</u></a></li>
 </ul></div>
 

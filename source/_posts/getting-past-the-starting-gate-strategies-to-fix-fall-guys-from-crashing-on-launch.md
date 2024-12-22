@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-12-12T21:22:05.271Z
-updated: 2024-12-19T20:02:49.113Z
+date: 2024-12-14T20:45:14.799Z
+updated: 2024-12-21T16:15:53.947Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
@@ -43,10 +43,6 @@ Here is how to verify the integrity of Dauntless:
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
@@ -62,7 +58,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -79,9 +75,17 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -99,6 +103,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -111,10 +119,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -122,10 +126,6 @@ Here is how to verify the integrity of Dauntless:
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
@@ -166,16 +166,21 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-no-8-advanced-online-photographic-merge-suite/"><u>[New] In 2024, No. 8 Advanced Online Photographic Merge Suite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10plus-sites-accessible-free-visuals-for-everyone/"><u>10+ Sites Accessible, Free Visuals for Everyone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/enhancing-media-workflow-the-rise-of-magix-vpx-for-2024/"><u>Enhancing Media Workflow The Rise of Magix VPX for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-fixes-resolve-steam-continuous-crashes-instantly/"><u>Fast Fixes: Resolve Steam Continuous Crashes Instantly!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-performance-issues-in-jurasspresson-world-evolution/"><u>Fixing Performance Issues in Jurasspresson World Evolution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 6s Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003697175-league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pricing-framework-music-video-filming-costs/"><u>Pricing Framework Music Video Filming Costs</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-dotnet-top-5-reparations-for-pcs-max-156/"><u>Reviving DotNet: Top 5 Reparations for PCs (Max 156)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-ai-realm-utilizing-quoras-poe/"><u>Tapping Into AI Realm: Utilizing Quora's PoE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-troubleshooting-steps-for-a-smooth-street-fighter-6-gaming-experience-on-pc/"><u>Top 6 Troubleshooting Steps for a Smooth Street Fighter 6 Gaming Experience on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-essential-audio-transforming-software-for-streamers/"><u>[New] 2024 Approved Essential Audio Transforming Software for Streamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-art-of-live-discord-recording/"><u>[New] Discover the Art of Live Discord Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>[New] Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-audio-treasures-to-amplify-youtube/"><u>[Updated] Free Audio Treasures to Amplify YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-gamers-dream-best-2024-round-and-flat-screens-with-advanced-refresh-rate-tech/"><u>Budget-Friendly Gamer's Dream: Best 2024 Round and Flat Screens with Advanced Refresh Rate Tech</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x7-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X7 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-game-freezes-in-far-cry-6-on-personal-computers/"><u>Eliminating Game Freezes in Far Cry 6 on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-visual-clarity-fixes-previously-blurry-screenshots-of-outriders/"><u>Enhanced Visual Clarity Fixes Previously Blurry Screenshots of Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dreamlight-valley-game-crashes-6-proven-fixes/"><u>How to Stop Dreamlight Valley Game Crashes: 6 Proven Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-g54-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola G54 5G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-tecno-spark-go-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Tecno Spark Go (2023) Data? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gtfo-crashes-a-step-by-step-solution-approach/"><u>Overcoming GTFO Crashes: A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-obs-mic-issues-top-6-remedies-available/"><u>Solve Your OBS Mic Issues: Top 6 Remedies Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-optimize-warframe-performance-to-prevent-freezing-episodes/"><u>Troubleshoot & Optimize Warframe Performance to Prevent Freezing Episodes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-for-missing-d3dx940-dynamic-link-library-dll-file/"><u>Troubleshooting Steps for Missing D3dx9_40 Dynamic Link Library (DLL) File</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-the-black-screen-issue-on-steam-in-just-7-easy-steps/"><u>Ultimate Guide: Solve the Black Screen Issue on Steam in Just 7 Easy Steps</u></a></li>
 </ul></div>
 

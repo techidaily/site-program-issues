@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-12-12T22:42:31.999Z
-updated: 2024-12-19T18:14:45.257Z
+date: 2024-12-18T21:05:54.366Z
+updated: 2024-12-21T19:10:04.914Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
  Here are seven fixes that have helped other users resolve the Fallout 76 Disconnected From Server problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,6 +38,10 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -43,10 +51,6 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -61,7 +65,7 @@ Here is how to reset Winsock data:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
@@ -97,12 +101,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -111,10 +119,6 @@ Here is how to do it:
 5) Run Fallout 76 again and see if the**Fallout 76 disconnected from server** is resolved. If yes, then congrats and enjoy the game! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
 
@@ -125,10 +129,6 @@ Here is how to restart your network:
  1) Unplug your modem (and your wireless router, if it’s a separate device) from the power socket.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _modem_
 
@@ -154,10 +154,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -170,6 +166,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -177,6 +177,10 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -189,10 +193,6 @@ _wireless router_
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -212,17 +212,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
@@ -235,10 +239,6 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -267,24 +267,22 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-imovies-capabilities-for-youtube-video-perfection/"><u>[New] 2024 Approved Harnessing iMovie's Capabilities for YouTube Video Perfection</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seamlessly-explore-facebooks-past-content/"><u>[New] 2024 Approved Seamlessly Explore Facebook's Past Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[New] 2024 Approved Visual Aesthetics Boost Integrating Black Bar & Box Frame for Social Media</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-digital-footprints-keeping-your-twitter-vids-safe-and-sound/"><u>2024 Approved Digital Footprints Keeping Your Twitter Vids Safe and Sound</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transcendence-in-music-mixing-crossfade-unveiled/"><u>2024 Approved Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-computer-glitches-the-definitive-guide-to-a-smooth-fifa-n-experience/"><u>Conquer Computer Glitches: The Definitive Guide to a Smooth FIFA N Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477020098-dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-ii-reborn-bug-solved-stop-the-game-from-unexpectedly-closing-now/"><u>Diablo II Reborn Bug Solved: Stop the Game From Unexpectedly Closing Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-heartstone-crashing-problem-on-desktop-computers/"><u>Expert Advice: Overcoming HeartStone Crashing Problem on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-the-kernelbasedll-file-not-loading-problem-instantly/"><u>Fix the KernelBase.dll File Not Loading Problem Instantly!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-muted-bluetooth-speakers-in-win11/"><u>Fixing Muted Bluetooth Speakers in Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .dot file</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-resolving-fortnite-crashes-on-pc-systems-pro-advice/"><u>Mastering Stability: Resolving Fortnite Crashes on PC Systems - Pro Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correct-error-0xc19001e1-in-windows-11/"><u>Step-by-Step Guide to Correct 'Error 0Xc19001e1' In Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-transforming-your-footage-into-high-resolution-4k/"><u>Step-by-Step Tutorial: Transforming Your Footage Into High-Resolution 4K</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-my-alienware-command-center-responding/"><u>Troubleshooting Guide: Why Isn't My Alienware Command Center Responding?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lost-arks-frame-rate-challenges-and-performance-drops/"><u>Troubleshooting Lost Ark's Frame Rate Challenges and Performance Drops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-newest-macbook-features-and-reviews/"><u>Unveiling the Newest MacBook: Features and Reviews</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001774207-warped-in-ice-thaw-your-stalled-cyberpunk-2erpunk-2077-experience-now/"><u>Warped in Ice? Thaw Your Stalled Cyberpunk 2Erpunk 2077 Experience Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-fast-and-easy-photovideo-exchange-between-ios-gear/"><u>[Updated] In 2024, Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-avoid-a-snapbreak-ways-to-maintain-your-snapstreaks/"><u>2024 Approved Avoid a Snapbreak Ways to Maintain Your Snapstreaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-glitches-solved-fixing-the-perplexing-freeze-problems-for-good/"><u>Call of Duty: Vanguard Glitches Solved: Fixing the Perplexing Freeze Problems for Good</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-correct-the-0xc191e1-compatibility-issue-on-windows-10-devices/"><u>Comprehensive Tips to Correct the '0xC19^1E1' Compatibility Issue on Windows 10 Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crafting-a-perfect-paradise-the-top-stardew-valley-mods-7-14/"><u>Crafting a Perfect Paradise The Top Stardew Valley Mods (#7-14)</u></a></li>
+<li><a href="https://facebook.techidaily.com/fast-tracking-access-to-multiple-user-ids-in-facebook/"><u>Fast-Tracking Access to Multiple User IDs in Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-groundbreiting-recording-solutions-for-environmental-films/"><u>In 2024, Groundbreiting Recording Solutions for Environmental Films</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-fixated-overcome-the-hurdle-of-screen-capture-failure/"><u>OBS Fixated! Overcome the Hurdle of Screen Capture Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-errors-for-armored-core-vi-fires-of-rubicon-expert-fixes-and-tips/"><u>Overcoming Initialization Errors for Armored Core VI: Fires of Rubicon - Expert Fixes and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-crashes-in-total-war-three-kingdoms-a-comprehensive-guide/"><u>Resolved: Fixing Crashes in Total War: Three Kingdoms - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-trick-for-starting-windows-7-vista-and-xp-in-safe-mode-safely/"><u>The Ultimate Trick for Starting Windows 7, Vista, and XP in Safe Mode Safely</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/transformar-audio-aiff-em-formatos-compativeis-gratuitamente-com-o-movavi/"><u>Transformar Áudio AIFF Em Formatos Compatíveis Gratuitamente Com O Movavi!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-baldurs-gate-3-pc-malfunctions/"><u>Troubleshooting and Solutions for Baldur's Gate 3 PC Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-remote-play-essential-fixes-for-connectivity-issues/"><u>Troubleshooting Steam's Remote Play: Essential Fixes for Connectivity Issues</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-power-of-social-platforms-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Understanding the Power of Social Platforms: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://facebook.techidaily.com/unearth-friendship-saga-journey-through-fb-timeline/"><u>Unearth Friendship Saga: Journey Through FB Timeline</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-against-delays-fixing-input-lag-for-a-smoother-valorant-experience/"><u>Victory Against Delays: Fixing Input Lag for a Smoother Valorant Experience</u></a></li>
 </ul></div>
 

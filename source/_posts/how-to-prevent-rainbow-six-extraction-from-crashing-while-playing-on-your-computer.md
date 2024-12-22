@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer
-date: 2024-12-17T23:05:40.284Z
-updated: 2024-12-19T17:29:02.561Z
+date: 2024-12-18T22:54:22.165Z
+updated: 2024-12-21T22:31:45.867Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 
  After confirming that your computer is powerful enough to run the game, read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest game patch
@@ -67,15 +63,11 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, relaunch the game and check if your problem is resolved.
@@ -91,7 +83,7 @@ If the crashing issue persists, continue to the next fix.
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
@@ -99,10 +91,6 @@ If the crashing issue persists, continue to the next fix.
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -117,18 +105,22 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
 
@@ -149,6 +141,10 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
 
@@ -157,6 +153,10 @@ If the crashing issue remains, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Gas Station Simulator to check if the game crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -183,24 +183,16 @@ If the crashing issue remains, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-maximize-view-count-responsibly-legal-avenues-to-a-million-fans/"><u>[New] 2024 Approved Maximize View Count Responsibly Legal Avenues to a Million Fans</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-best-drone-selections-for-young-pilots-and-rookie-flyers-for-2024/"><u>[New] Best Drone Selections for Young Pilots and Rookie Flyers for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-gameplay-with-optimized-ram-assignment-for-minecraft/"><u>[New] Elevating Gameplay with Optimized Ram Assignment for Minecraft</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-undead-universe-discover-the-top-8-zombie-games-for-2024/"><u>[New] Undead Universe Discover the Top 8 Zombie Games for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-time-travel-adventures-for-unique-anime-inspired-tiktoks/"><u>[Updated] 2024 Approved Time Travel Adventures for Unique Anime-Inspired TikToks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-velocity-video-tape-echoes-included/"><u>[Updated] 2024 Approved Velocity Video Tape Echoes Included</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>[Updated] In 2024, Direct Connection Navigating Desktop Display Integration on Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-display-error-solved-end-of-the-dark-screen-woes/"><u>Cyberpunk 2077 Display Error Solved: End of the Dark Screen Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-handling-the-asset-not-found-mistake-error-4201-in-genshin-impact/"><u>Expert Advice on Handling the 'Asset Not Found' Mistake (Error #4201) in Genshin Impact</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-black-screen-problem-when-playing-overwatch/"><u>Fixing the Mysterious Black Screen Problem When Playing Overwatch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-ghostrunner-crashes-in-windows-11-a-step-by-step-guide/"><u>Resolving Ghostrunner Crashes in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-playback-lags-in-obs-advanced-strategies-for-stable-recording-and-streaming/"><u>Resolving Playback Lags in OBS: Advanced Strategies for Stable Recording and Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simplify-the-numerator-by-combining-like-terms-4x-and-5x/"><u>Simplify the Numerator by Combining Like Terms (4X and 5X):</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000799950-stop-that-minecraft-outdated-drivers-error-easy-fix-inside/"><u>Stop That 'Minecraft Outdated Drivers' Error! Easy Fix Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tactical-strategies-to-combat-the-0xc0000005-error-code-in-black-ops-cold-war/"><u>Tactical Strategies to Combat the 0xC0000005 Error Code in Black Ops Cold War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-valorants-pc-latency-techniques-to-improve-your-gameplay/"><u>The Ultimate Fix for Valorant's PC Latency : Techniques to Improve Your Gameplay</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-mapi3ndll-missing-error-effective-fixes-to-try-now/"><u>Troubleshooting Mapi3nDll Missing Error – Effective Fixes to Try Now!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-theta-s-features/"><u>2024 Approved The Ultimate Guide to Theta S Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-htc-u23-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For HTC U23 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-remedies-for-palworld-not-opening-correctly-tips-and-tricks/"><u>Easy Remedies for Palworld Not Opening Correctly - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-palworld-search-errors-in-your-sessions-with-these-fixes/"><u>Eliminate PalWorld Search Errors in Your Sessions with These Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-2023-fb-live-stream-mp4-conversion-tool/"><u>In 2024, 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-comprehensively-understanding-azure-speech-to-text/"><u>In 2024, Comprehensively Understanding Azure Speech to Text</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-6-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 6 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-transform-your-ig-story-with-melodic-elements-without/"><u>In 2024, Transform Your IG Story with Melodic Elements (Without)</u></a></li>
+<li><a href="https://discover-community.techidaily.com/movavi-slideshow-creator-simplify-your-photo-presentations/"><u>Movavi Slideshow Creator: Simplify Your Photo Presentations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-death-stranding-pc-crashes-a-comprehensive-guide/"><u>Resolving Death Stranding PC Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-with-dragons-dogma-2-troubleshooting-guide/"><u>Solving PC Issues with Dragon's Dogma 2: Troubleshooting Guide</u></a></li>
 </ul></div>
 

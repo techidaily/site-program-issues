@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-12-12T22:04:50.764Z
-updated: 2024-12-19T17:18:18.613Z
+date: 2024-12-18T17:24:08.622Z
+updated: 2024-12-21T17:14:09.925Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ FIFA 20 DirectX Error
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For FIFA 20 DirectX Error
@@ -59,7 +59,7 @@ FIFA 20 DirectX Error
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
@@ -78,6 +78,10 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:**Modify fifasetup.ini**
 
  Another effective fix for the DirectX game crash error is modify**fifasetup.ini** .
@@ -87,10 +91,14 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -105,10 +113,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -120,10 +124,6 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -186,17 +186,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-supercharge-youtube-traffic-with-key-hash-tags/"><u>[New] Supercharge YouTube Traffic with Key Hash Tags</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-youtube-free-convert-your-fb-videos-into-720p1080p-mp4-online-guide/"><u>[New] YouTube-Free Convert Your FB Videos Into 720P/1080p MP4 Online Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-setting-up-facebook-live-your-roku-route/"><u>[Updated] 2024 Approved Setting Up Facebook LIVE Your Roku Route</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-stepwise-instructions-enabling-or-disabling-youtubes-pip-mode-for-2024/"><u>[Updated] Stepwise Instructions Enabling or Disabling YouTube's PIP Mode for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-a-closer-look-at-luminance-and-its-hdr-achievements/"><u>2024 Approved A Closer Look at Luminance and Its HDR Achievements</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-gt-neo-5-se-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from GT Neo 5 SE.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007498244-discover-cod-modern-warfare-the-latest-first-person-shooter-sensation/"><u>Discover COD: Modern Warfare - The Latest First-Person Shooter Sensation!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-warzone-glitches-a-step-by-step-solution-for-the-notorious-directx-error/"><u>Eliminate Warzone Glitches: A Step-by-Step Solution for the Notorious 'DirectX Error'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-rainbow-six-connection-error-with-these-easy-steps/"><u>Fixing Your Rainbow Six Connection Error with These Easy Steps</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/grab-your-bargain-priced-85-inch-tcl-smart-tv-before-its-gone-just-900-during-the-holiday-weekend-exclusive-deals-at-zdnet/"><u>Grab Your Bargain-Priced 85-Inch TCL Smart TV Before It's Gone! Just $900 During the Holiday Weekend - Exclusive Deals at ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-how-to-improve-frame-rates-and-reduce-stuttering-in-the-ascent/"><u>Optimizing Your Experience: How to Improve Frame Rates & Reduce Stuttering in The Ascent</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enable-missing-thx-immersive-audio-on-windows-1110-devices/"><u>Step-by-Step Solution: Enable Missing THX Immersive Audio on Windows 11/10 Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/08069826-new-boost-your-content-access-free-vocal-sfx/"><u>[New] Boost Your Content Access Free Vocal SFX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>[New] PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dji-aerial-innovation-packs-starter-pro-upgrade-high-definition-ultra/"><u>[Updated] 2024 Approved DJI Aerial Innovation Packs Starter, Pro Upgrade, High-Definition Ultra</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-30-quick-steps-to-metaverse-humor-from-copycat-to-creator/"><u>2024 Approved 30 Quick Steps to Metaverse Humor From Copycat to Creator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>2024 Approved Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-shooter-downloader-fast-and-simple-installation-guide/"><u>DayZ Shooter Downloader: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-rogue-company-game-crash-issues-on-windows-computers/"><u>Fixing the Rogue Company Game Crash Issues on Windows Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-logitech-g29-racing-controller-setup-for-windows-7-8-and-10-users/"><u>Free Download: Logitech G29 Racing Controller Setup for Windows 7, 8 & 10 Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-100-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 100 Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-silencing-sounds-a-deep-dive-into-audacitys-features-for-sound-reduction/"><u>New Silencing Sounds A Deep Dive Into Audacitys Features for Sound Reduction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-get-your-iphone-detected-by-itunes-in-windows-11/"><u>Resolved: How to Get Your iPhone Detected by iTunes in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-continuous-freezing-and-crashing-problems-with-the-world-of-tanks-blitz-app/"><u>Resolving Continuous Freezing and Crashing Problems with the World of Tanks Blitz App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-must-close-due-to-an-error-in-geforce-experience-for-smooth-gaming/"><u>Resolving the 'Must Close Due to an Error' In GeForce Experience for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-mysterious-black-display-problems-with-zoom-on-your-computer-the-2024-how-to-manual/"><u>Resolving the Mysterious Black Display Problems with Zoom on Your Computer - The 2024 How-To Manual</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-asus-pce-ac56-drivers-compatibility-solutions-for-windows-10-8-and-7/"><u>Troubleshooting ASUS PCE-AC56 Drivers: Compatibility Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-setup-issues-fixing-closure-errors-effectively/"><u>Troubleshooting GeForce Setup Issues - Fixing Closure Errors Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-fix-boosting-your-pc-gameplay-and-avoiding-crashes-in-2eryears-tech-guide/"><u>Warzone Fix: Boosting Your PC Gameplay & Avoiding Crashes in 2erYear's Tech Guide</u></a></li>
 </ul></div>
 

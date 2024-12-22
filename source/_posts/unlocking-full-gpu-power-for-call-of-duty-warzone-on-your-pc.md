@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2024-12-18T21:12:50.318Z
-updated: 2024-12-20T00:34:40.297Z
+date: 2024-12-16T19:40:16.868Z
+updated: 2024-12-21T18:59:35.297Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -43,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -72,10 +84,6 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -98,44 +106,28 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -146,6 +138,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -154,6 +150,10 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -181,17 +181,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pureaiediting-refined-photo-craftsmanship/"><u>[Updated] 2024 Approved PureAiEditing Refined Photo Craftsmanship</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dmmwmpapple-musicdrm/"><u>「すべてのプレーヤー（DMM・WMP・Apple Music）に対応したDRM解除手順ガイドの紹介」</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-the-glitch-essential-strategies-to-fix-e6068-in-modern-warfare-warzone/"><u>Bypass the Glitch: Essential Strategies to Fix E6068 in Modern Warfare Warzone</u></a></li>
-<li><a href="https://win11.techidaily.com/facing-browser-blockades-top-tactics-to-reach-sites-on-your-system/"><u>Facing Browser Blockades: Top Tactics to Reach Sites on Your System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-endless-loop-resolving-anthems-perpetual-load-screen-issue/"><u>Fixing the Endless Loop: Resolving Anthem's Perpetual Load Screen Issue</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-note-30-vip-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-low-fps-problems-on-rainbow-six-extraction-top-tips-and-tricks/"><u>Troubleshooting Low FPS Problems on Rainbow Six Extraction - Top Tips & Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimatives-benutzer-gebrauchsanweisung-fur-macx-dvd-ripper-pro-unter-windows-transkodieren-von-dvds-zu-mp4-avi-and-flv-fur-pc-und-mobile-gerate/"><u>Ultimatives Benutzer-Gebrauchsanweisung Für MacX DVD Ripper Pro Unter Windows – Transkodieren Von DVDs Zu MP4, AVI & FLV Für PC Und Mobile Geräte</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-players-fixing-the-mysterious-missing-matches-glitch-on-pc/"><u>Warzone Players: Fixing the Mysterious Missing Matches Glitch on PC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplifying-video-clarity-on-youtube/"><u>[New] 2024 Approved Amplifying Video Clarity on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughlens-quickly-create-social-memes-and-gifs/"><u>[New] LaughLens Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-your-signature-starts-here-free-modifiable-logos-to-define-brands/"><u>[Updated] 2024 Approved Your Signature Starts Here Free, Modifiable Logos to Define Brands</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquering-vietnamese-a-beginners-phrasebook/"><u>Conquering Vietnamese: A Beginner's Phrasebook</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-dynamic-content-with-youtube-playlist-embedding/"><u>Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xis-endgame-bug-fix-a-step-by-step-solution-to-prevent-game-crashes/"><u>Dragon Quest XI's Endgame Bug Fix - A Step-by-Step Solution to Prevent Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-the-hurdle-expert-tips-to-fix-dev-error-6034-on-pc-and-xbox-console-call-of-duty-fans-guide/"><u>Eliminating the Hurdle: Expert Tips to Fix Dev Error 6034 on PC and Xbox Console – Call of Duty Fans Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-crashes-in-total-war-three-kingdoms-a-comprehensive-guide/"><u>Fixing Crashes in Total War - Three Kingdoms: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mute-button-on-pubg-tips-to-restore-your-sound-experience/"><u>Fixing the Mute Button on PUBG - Tips to Restore Your Sound Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/g9-x-ii-review-embracing-vintage-aesthetics-in-modern-photography-for-the-wandering-soul/"><u>G9 X II Review: Embracing Vintage Aesthetics in Modern Photography for the Wandering Soul</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuite-garantie-transformez-votre-video-tga-en-ligne-avec-movavi/"><u>Gratuité Garantie : Transformez Votre Vidéo TGA en Ligne Avec Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-connection-errors-successfully/"><u>How to Overcome League of Legends Internet Connection Errors Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-stutter-and-crash-problems-in-cult-of-the-lamb-on-windows-1011/"><u>How to Overcome Stutter and Crash Problems in Cult of The Lamb on Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/primeval-deals-discover-the-ultimate-pre-prime-sales/"><u>Primeval Deals : Discover the Ultimate Pre-Prime Sales</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008981062-resolving-instant-issues-with-the-sims-3-for-pc-quick-solutions-inside/"><u>Resolving Instant Issues with The Sims 3 for PC – Quick Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-minecraft-crashes-in-6-easy-steps-a-step-by-step-troubleshooting-guide/"><u>Stop Minecraft Crashes in 6 Easy Steps: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-incorporating-songs-in-your-fb-story-for-2024/"><u>Tips for Incorporating Songs in Your FB Story for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-recurring-freezes-and-crashes-in-age-of-empires-4-pc-version/"><u>Troubleshooting Recurring Freezes and Crashes in Age of Empires 4 PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-solving-lag-and-hiccups-in-outriders-for-pc-players/"><u>Troubleshooting Techniques: Solving Lag and Hiccups in Outriders for PC Players</u></a></li>
 </ul></div>
 

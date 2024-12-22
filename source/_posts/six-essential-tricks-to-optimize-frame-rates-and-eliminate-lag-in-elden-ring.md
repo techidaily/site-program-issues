@@ -1,7 +1,7 @@
 ---
 title: Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring
-date: 2024-12-14T01:32:22.302Z
-updated: 2024-12-19T23:43:45.299Z
+date: 2024-12-18T22:38:17.010Z
+updated: 2024-12-21T23:06:21.160Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -68,23 +64,19 @@ To do so:
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -102,6 +94,10 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -111,14 +107,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -131,28 +135,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -190,10 +194,6 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -214,7 +214,7 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -249,24 +249,20 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-captivate-viewers-adding-animation-to-instagram-text/"><u>[New] 2024 Approved Captivate Viewers Adding Animation to Instagram Text</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs/"><u>[New] Battlefield Brilliance Unleashed A Guide to Top 7 Total War Triumphs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-does-image-smoothing-streamline-the-creative-process/"><u>[New] Does Image Smoothing Streamline the Creative Process?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-minecraft-recording-on-mac-a-step-by-step-guide-for-2024/"><u>[New] Mastering Minecraft Recording on Mac A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform/"><u>[Updated] 2024 Approved Transform Your Virtual Meetings Using Zoom Within the Gmail Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-poco-x5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Poco X5 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinema-in-editing-10-snippet-selections/"><u>Cinema in Editing 10 Snippet Selections</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-diablo-2-resurrected-crashes-solutions-and-tips/"><u>Fixing Diablo 2 Resurrected Crashes: Solutions and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-and-crashes-in-call-of-dutys-newest-battle-royale-update/"><u>Fixing Persistent Lag & Crashes in Call of Duty's Newest Battle Royale Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-computer-from-crashing-during-fortnite-gaming-sessions-2024-solutions/"><u>How to Prevent Your Computer From Crashing During Fortnite Gaming Sessions - 2024 Solutions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/re-distractions-expert-guide-to-removing-youtube-ads/"><u>No More Distractions - Expert Guide to Removing YouTube Ads</u></a></li>
-<li><a href="https://article-posts.techidaily.com/optimizing-living-area-for-oculus-virtual-reality-for-2024/"><u>Optimizing Living Area for Oculus Virtual Reality for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002707338-pc-players-struggle-with-everspace-ii-but-solutions-exist-learn-them-now/"><u>PC Players Struggle With Everspace II, But Solutions Exist – Learn Them Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-starfields-audio-problems-seamless-playback-no-cuts-or-jumps-anymore/"><u>Resolving Starfield's Audio Problems: Seamless Playback, No Cuts or Jumps Anymore</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-in-windows-10-comprehensive-fixes/"><u>Resolving svchost.exe's Excessive CPU Drain in Windows 10 - Comprehensive Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-persistent-minecraft-crashes-a-step-by-step-guide/"><u>Solving the Issue of Persistent Minecraft Crashes - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-and-server-sync-addressing-connectivity-problems-now-resolved/"><u>Steam and Server Sync: Addressing Connectivity Problems Now Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-ending-battlefield-1s-persistent-crash-issues/"><u>Step-by-Step Guide: Ending Battlefield 1'S Persistent Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lost-ark-on-your-computer-no-more-unwanted-shutdowns/"><u>Troubleshooting Lost Ark on Your Computer: No More Unwanted Shutdowns!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-craft-memes-with-kapwings-design-toolkit/"><u>[New] 2024 Approved Craft Memes with Kapwing's Design Toolkit</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boost-engagement-with-quick-unique-coverage-options-on-shorts/"><u>[Updated] Boost Engagement with Quick, Unique Coverage Options on Shorts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/brighten-up-your-gameplay-expert-solutions-to-the-2ndraftblocked-screen-problem-minecraft/"><u>Brighten Up Your Gameplay: Expert Solutions to the 2nDraftblocked Screen Problem (Minecraft)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-the-dreaded-directx-glitch-in-your-favorite-game-anno-erable/"><u>Conquer the Dreaded DirectX Glitch in Your Favorite Game, Anno Erable</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-how-to-install-and-use-the-newest-epson-wf-2750-printer-driver/"><u>Easy Setup: How to Install and Use the Newest Epson WF-2750 Printer Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-things-you-should-know-about-youtube-live-thumbnails/"><u>In 2024, Things You Should Know About YouTube Live Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-not-started-challenges-on-your-windows-11-device/"><u>Overcoming 'Hosted Network Not Started' Challenges on Your Windows 11 Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-how-to-resolve-issues-with-genshin-impact-failing-to-start/"><u>Quick Solutions: How to Resolve Issues with Genshin Impact Failing to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-why-is-immortals-fenyx-rising-failing-to-load-and-how-to-fix-it/"><u>Solved! Why Is Immortals Fenyx Rising Failing to Load & How To Fix It?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-essential-user-manual-for-music-licensing-on-insta/"><u>The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-stop-gears-of-war-4-from-crashing-on-pc/"><u>Ultimate Fixes to Stop Gears of War 4 From Crashing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-alan-wake-2s-2024-game-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Alan Wake 2'S 2024 Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-future-on-windows-empower-your-pc-with-vivetool/"><u>Unlocking the Future on Windows: Empower Your PC with ViVeTool</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/windows-10web/"><u>Windows 10上でシームレスなWeb会議を捉え続ける方法：全面的なガイドブック</u></a></li>
 </ul></div>
 

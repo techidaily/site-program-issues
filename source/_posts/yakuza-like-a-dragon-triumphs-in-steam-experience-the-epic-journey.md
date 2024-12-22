@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-12-17T18:00:54.900Z
-updated: 2024-12-19T16:34:40.041Z
+date: 2024-12-16T17:38:25.154Z
+updated: 2024-12-21T22:08:40.986Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 modem
@@ -51,7 +51,7 @@ wireless router
  Now check if the error goes away. If not, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -84,18 +84,14 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -109,7 +105,7 @@ wireless router
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
@@ -118,19 +114,15 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -141,6 +133,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -149,6 +145,10 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -176,20 +176,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-best-practices-for-apples-podcast-listings/"><u>[New] Best Practices for Apple's Podcast Listings</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-master-money-makers-the-best-of-the-top-ig-earners/"><u>[Updated] 2024 Approved Master Money Makers The Best of the Top IG Earners</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-consistency-rising-up-the-charts-on-youtube-for-2024/"><u>[Updated] The Power of Consistency Rising Up the Charts on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-troubleshooting-for-avatar-the-game-getting-past-startup-issues/"><u>Common Troubleshooting for 'Avatar: The Game': Getting Past Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-to-overcome-the-nwstoreexe-program-hiccups/"><u>Easy Solutions to Overcome the nw_store.exe Program Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-origin-application-failure-to-launch-in-windows-11/"><u>Fixing the Issue: 'Origin' Application Failure to Launch in Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-regulatory-standards-and-client-satisfaction-in-the-finance-sector/"><u>Harmonizing Regulatory Standards and Client Satisfaction in the Finance Sector</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-20-high-ping-2024-tips/"><u>How to Fix Warzone 2.0 High Ping - 2024 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphics-initialization-issue-errgfxd3dinit-in-gta-v-gameplay/"><u>How to Resolve Graphics Initialization Issue (ERR_GFX_D3D_INIT) in GTA V Gameplay</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-set-up-a-two-way-sync-with-aomei-backupper-on-your-mac/"><u>How to Set Up a Two-Way Sync with AOMEI Backupper on Your Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-androids-ear-4-easy-unrooted-ways/"><u>In 2024, Capture Android's Ear 4 Easy, Unrooted Ways</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavis-web-based-tool-for-no-cost-conversion-of-dng-files-into-jpg-pictures/"><u>Movavi's Web-Based Tool for No-Cost Conversion of DNG Files Into JPG Pictures</u></a></li>
-<li><a href="https://video-capture.techidaily.com/transform-dull-game-captures-into-bright-shows-with-obs-tricks-for-2024/"><u>Transform Dull Game Captures Into Bright Shows with OBS Tricks for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-users-overcome-your-battlenet-launcher-problems-with-these-tips-and-tricks/"><u>Windows Users, Overcome Your Battle.net Launcher Problems with These Tips and Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/"><u>[Updated] 2024 Approved Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-advice-on-iphone-7-display-recording/"><u>[Updated] Expert Advice on iPhone 7 Display Recording</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-full-potential-of-echo-dot-3rd-generation-a-deep-dive-into-alexas-capabilities-in-a-compact-design/"><u>Discover the Full Potential of Echo Dot (3Rd Generation): A Deep Dive Into Alexa's Capabilities in a Compact Design</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-security/"><u>Enhanced Security</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-why-is-elex-ii-experiencing-frequent-crashes-on-your-pc/"><u>Fix: Why Is Elex II Experiencing Frequent Crashes on Your PC?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-your-corsair-icue-interface-when-it-wont-work-on-windows/"><u>How to Repair Your Corsair iCUE Interface when It Won't Work on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-12-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone 12 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/secure-macx-dvd-ripper-pro-at-low-costs-exclusive-online-offer-with-savings/"><u>Secure MacX DVD Ripper Pro at Low Costs - Exclusive Online Offer With Savings!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-division-2-wont-start-a-step-by-step-guide/"><u>Solving 'Division 2 Won't Start' : A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999503431-solving-persona-5-strikers-display-problems-black-screen-solutions-available/"><u>Solving Persona 5 Strikers Display Problems: Black Screen Solutions Available!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-enlarging-content-on-youtube-platform-for-2024/"><u>Techniques for Enlarging Content on YouTube Platform for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-biggest-breakthroughs-in-technology-youve-missed-out-on/"><u>The Biggest Breakthroughs in Technology You've Missed Out On</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-itunes-doesnt-recognize-iphone-in-widows-10/"><u>Troubleshooting Steps for When iTunes Doesn't Recognize iPhone in Widows 10</u></a></li>
 </ul></div>
 

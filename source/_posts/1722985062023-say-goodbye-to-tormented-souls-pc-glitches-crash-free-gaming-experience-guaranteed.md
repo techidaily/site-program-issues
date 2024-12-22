@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!
-date: 2024-12-13T01:00:09.685Z
-updated: 2024-12-20T02:49:00.988Z
+date: 2024-12-18T16:28:56.851Z
+updated: 2024-12-21T23:47:50.435Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  And just like what happened with the release of[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) , many gamers start reporting the**constant crashes with AC Valhalla** . But don’t worry if you happen to be one of them. After some diggings on Reddit and YouTube, we’ve gathered several fixes that worked for many Vikings. Try them and get back to Valhalla right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You might not need to try all of them; simply work your way down until you find the one that gives you luck.
@@ -31,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 3. Select **Verify files** . Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
@@ -98,6 +102,10 @@ You can use these steps to check for Windows updates manually:
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -128,19 +136,11 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -156,7 +156,7 @@ If the crash happens again, you can take a look at the next fix.
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -170,7 +170,7 @@ If the crash happens again, you can take a look at the next fix.
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
@@ -196,16 +196,22 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>[New] From Flash Photography to Sustained Videography Your Pixiz Adventure</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-influential-facebook-video-marketing/"><u>[New] The Art of Influential Facebook Video Marketing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-the-art-of-motion-without-contact-sensors/"><u>2024 Approved Mastering the Art of Motion Without Contact Sensors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-blackout-screens-in-your-mtg-arena-experience/"><u>Expert Tips to Overcome Blackout Screens in Your MTG Arena Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-frequent-crashes-of-rocket-league-top-tips-for-gamers/"><u>How to Prevent Frequent Crashes of Rocket League - Top Tips for Gamers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-money-with-periscope-a-newcomers-manual-for-2024/"><u>Master Money with Periscope A Newcomer's Manual for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-9-essential-solutions-to-fix-ark-survival-evolved-game-crashes/"><u>PC Troubles? 9 Essential Solutions to Fix ARK: Survival Evolved Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regain-control-in-terraria-top-6-methods-to-restore-a-disconnected-game/"><u>Regain Control in Terraria: Top 6 Methods to Restore a Disconnected Game</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/0-youtube-music-how-toes-2023-edition-for-2024/"><u>Top 10 YouTube Music How-Toes, 2023 Edition for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-assassins-creed-valhalla-release-issues-solutions-revealed/"><u>Troubleshooting Assassin's Creed Valhalla Release Issues – Solutions Revealed!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-videopad-video-editor-review-does-it-live-up-to-the-hype/"><u>Updated Videopad Video Editor Review Does It Live Up to the Hype?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>[New] Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/treamlining-sound-systems-uploads-for-your-youtube-hub/"><u>[New] Streamlining Sound Systems Uploads for Your Youtube Hub</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-discovering-top-30-steadicam-models-for-premium-dslr-cinematography/"><u>[Updated] 2024 Approved Discovering Top 30 Steadicam Models for Premium DSLR Cinematography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-spectral-synchronization-kit/"><u>[Updated] In 2024, Spectral Synchronization Kit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-brilliant-barrage-essential-gadgets-for-clips/"><u>2024 Approved Brilliant Barrage Essential Gadgets for Clips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-asmr-can-boost-your-health-and-happiness/"><u>2024 Approved How ASMR Can Boost Your Health & Happiness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-free-victory-overcoming-total-war-three-kingdoms-stability-issues/"><u>Bug-Free Victory: Overcoming Total War: Three Kingdoms Stability Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-your-iphone-15-pro-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-tekken-8-not-launching-on-pc/"><u>How to Fix Tekken 8 Not Launching on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-halo-infinites-persistent-black-screen-glitch-easily/"><u>How to Resolve Halo Infinite's Persistent Black Screen Glitch Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-now-working-seamlessly-on-your-xbox-one-heres-how-we-fixed-it/"><u>Netflix Now Working Seamlessly on Your Xbox One – Here's How We Fixed It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-optimize-your-pc-for-a-smooth-witcher-n-experience/"><u>No More Freezing: Optimize Your PC for a Smooth 'Witcher N Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/play-avatar-the-last-airbender-seamlessly-in-high-definition-on-desktop-systems/"><u>Play Avatar: The Last Airbender Seamlessly in High Definition on Desktop Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-openais-powerful-api-for-cutting-edge-applications/"><u>The Ultimate Guide to Leveraging OpenAI's Powerful API for Cutting-Edge Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stable-gameplay-in-armored-core-6-overcoming-pc-version-hiccups/"><u>Troubleshooting Steps for Stable Gameplay in Armored Core 6 – Overcoming PC Version Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/utorrent-not-working-heres-how-to-fix-your-torrent-clients-peer-connections-and-downloads-successfully/"><u>UTorrent Not Working? Here's How to Fix Your Torrent Client’s Peer Connections & Downloads Successfully!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme 12+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

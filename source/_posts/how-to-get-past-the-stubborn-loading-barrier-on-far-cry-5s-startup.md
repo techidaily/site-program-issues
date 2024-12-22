@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2024-12-15T16:45:03.040Z
-updated: 2024-12-19T22:01:43.900Z
+date: 2024-12-16T21:16:07.543Z
+updated: 2024-12-21T23:16:23.373Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,12 +56,16 @@ The known problematic software are:
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Don’t use free VPNs
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -76,10 +84,6 @@ There are mainly two ways to update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -101,7 +105,7 @@ There are mainly two ways to update your device drivers:
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
@@ -118,14 +122,14 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -155,10 +159,6 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -185,22 +185,22 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ce-list-of-low-cost-youtube-caption-tools-for-2024/"><u>[New] Ace List of Low-Cost YouTube Caption Tools for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-picks-recommended-portals-for-tapping-snapchat-tunes/"><u>[New] Premium Picks Recommended Portals for Tapping Snapchat Tunes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-valheim-keeps-freezing-and-stuttering-on-pc/"><u>[SOLVED] Valheim Keeps Freezing and Stuttering on PC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-myface-illusion-sketch-your-whimsical-profile-icon/"><u>[Updated] In 2024, MyFace Illusion Sketch Your Whimsical Profile Icon</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[Updated] Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
-<li><a href="https://program-issues.techidaily.com/6-effective-solutions-to-stop-dreamlight-valley-from-crashing-on-your-pc/"><u>6 Effective Solutions to Stop Dreamlight Valley From Crashing on Your PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decrypting-password-storage-on-mac-a-step-by-step-guide-to-access-hidden-credentials/"><u>Decrypting Password Storage on Mac: A Step-by-Step Guide to Access Hidden Credentials</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-3-wont-start-try-these-expert-troubleshooting-tips/"><u>Fallout 3 Won't Start? Try These Expert Troubleshooting Tips !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-connection-failed-glitch-in-hitman-3-expert-solutions/"><u>Fixing the 'Connection Failed' Glitch in Hitman 3 - Expert Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-smoothly-tips-to-improve-frame-rates-for-a-seamless-forza-horizon-n-experience-on-pc/"><u>Gaming Smoothly: Tips to Improve Frame Rates for a Seamless Forza Horizon N Experience on PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/leading-edge-webcams-insiders-choice-in-windows-11/"><u>Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-glitches-in-windows-system-insights-tracker/"><u>Overcoming Glitches in Windows System Insights Tracker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-pc-freezing-and-framerates-in-sifu-fps/"><u>Overcoming the Hurdle of PC Freezing and Framerates in Sifu FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-lagging-deathloop-gameplay-performance-on-pc/"><u>Resolved: Fixes for Lagging Deathloop Gameplay Performance on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-roadmap-to-establishing-your-unique-flair-for-2024/"><u>The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-expect-from-rainbow-six-siege-insights-into-the-anticipated-2024-freezing-season/"><u>What to Expect From Rainbow Six Siege: Insights Into the Anticipated 2024 Freezing Season</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-google-trends-for-video-concept-generation/"><u>[New] 2024 Approved Harnessing Google Trends for Video Concept Generation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-branding-beats-technicalities-focus-on-your-streams-signature-style-for-2024/"><u>[New] Branding Beats Technicalities Focus on Your Stream's Signature Style for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pro-level-insights-for-perfectly-crafted-snaps/"><u>[Updated] In 2024, Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>2024 Approved Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosted-f1-2021-gameplay-smoothness-fixing-the-frame-rate-drop-on-desktop-systems/"><u>Boosted F1 2021 Gameplay Smoothness: Fixing the Frame Rate Drop on Desktop Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/clearing-up-past-browsing-a-facebook-method/"><u>Clearing Up Past Browsing: A Facebook Method</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-stream-stuck-no-more-winning-strategies-to-resolve-persistent-buffering/"><u>Discord Stream Stuck No More – Winning Strategies to Resolve Persistent Buffering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-minecrafts-persistent-black-screen-glitch/"><u>Expert Advice on Fixing Minecraft's Persistent Black Screen Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-essential-tips-for-troubleshooting-wows-crashes-on-personal-computers/"><u>Five Essential Tips for Troubleshooting WoWs Crashes on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-blur-resolving-call-of-duty-warzone-screen-shimmer/"><u>Fixing the Blur: Resolving Call of Duty Warzone Screen Shimmer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-initiating-instagram-live-shows/"><u>In 2024, Step-by-Step Initiating Instagram Live Shows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-plan-for-profit-from-instagram-content/"><u>In 2024, The Ultimate Plan for Profit From Instagram Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-to-2024s-leading-tv-streaming-services-for-an-exceptional-viewing-experience/"><u>Navigate to 2024'S Leading TV Streaming Services for an Exceptional Viewing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-to-prevent-phoenix-point-game-crashes/"><u>Resolved: Troubleshooting Steps to Prevent Phoenix Point Game Crashes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-free-and-up-to-date-iptv-streaming-extensions-for-kodi-19-and-18-enhancing-your-viewing-experience/"><u>Top Free & Up-to-Date IPTV Streaming Extensions for Kodi 19 & 18: Enhancing Your Viewing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-top-8-methods-to-resolve-multiversus-game-crashes/"><u>Ultimate Guide: Top 8 Methods to Resolve MultiVersus Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unleash-your-inner-adventurer-with-fixed-and-optimized-tiny-tinas-wonderlands-on-pc/"><u>Unleash Your Inner Adventurer with Fixed and Optimized Tiny Tina's Wonderlands on PC</u></a></li>
 </ul></div>
 

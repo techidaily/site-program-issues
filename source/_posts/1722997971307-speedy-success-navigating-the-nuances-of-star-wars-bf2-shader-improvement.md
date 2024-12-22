@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2024-12-14T21:02:34.570Z
-updated: 2024-12-19T21:13:43.198Z
+date: 2024-12-19T17:46:24.607Z
+updated: 2024-12-21T17:01:12.264Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -32,7 +36,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Inside of it, open the folder**settings** .
@@ -41,35 +45,31 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.  
   
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -79,11 +79,11 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
- 5) Click**File > Save** to save the changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) Click**File > Save** to save the changes.
 
 ## Why disabling DirectX 12 works
 
@@ -106,20 +106,18 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-the-archive-navigating-social-media-live-recordings-for-2024/"><u>[Updated] Master the Archive Navigating Social Media Live Recordings for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-guide-transforming-viewers-into-profit/"><u>[Updated] Step-By-Step Guide Transforming Viewers Into Profit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/biomutant-pc-stability-issues-top-solutions-for-seamless-gaming-experience/"><u>Biomutant PC Stability Issues? Top Solutions for Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/display-settings-a-change-in-display-settings-could-result-in-a-black-screen-if-theres-an-error-or-incorrect-configuration-checking-and-adjusting-your-displ438/"><u>Display Settings: A Change in Display Settings Could Result in a Black Screen if There's an Error or Incorrect Configuration. Checking and Adjusting Your Display Settings Might Help</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-13-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 13</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-restoring-missing-game-noises-in-minecraft-for-desktop-users/"><u>Expert Guide to Restoring Missing Game Noises in Minecraft for Desktop Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/gamers-choice-top-software-for-live-scenes/"><u>Gamers' Choice Top Software for Live Scenes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-gears-up-and-running-solving-modern-warfare-3-mw3-game-crashes-and-startup-problems/"><u>Getting Gears up & Running: Solving Modern Warfare 3 (MW3) Game Crashes & Startup Problems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s18-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S18 Phones with/without a PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-everspace-2-from-freezing-or-crashing-on-your-pc/"><u>How to Stop Everspace 2 From Freezing or Crashing on Your PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterful-approaches-to-live-sports-video-capture/"><u>In 2024, Masterful Approaches to Live Sports Video Capture</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-efficient-system-administration-save-16-on-automation-using-windows-powershell-insights-from-zdnet/"><u>Master Efficient System Administration: Save $16 on Automation Using Windows PowerShell - Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-baldurs-gate-iii-startup-issues/"><u>Resolved: Troubleshooting Baldur's Gate III Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-eliminating-stuttering-in-the-starfield-audio-experience/"><u>Troubleshooting Success: Eliminating Stuttering in the Starfield Audio Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncover-hidden-android-contacts-a-guide-to-retrieving-lost-phone-numbers/"><u>Uncover Hidden Android Contacts: A Guide to Retrieving Lost Phone Numbers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-msi-audio-drivers-for-windows/"><u>[Download] MSI Audio Drivers for Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/borderlands-3-play-smoother-no-more-unexpected-pauses-a-comprehensive-guide/"><u>Borderlands 3 Play Smoother, No More Unexpected Pauses – A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decoding-the-difficulties-a-comprehensive-guide-to-fixing-arise-ue4-catastrophes/"><u>Decoding the Difficulties: A Comprehensive Guide to Fixing Arise UE4 Catastrophes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-asset-ownership-claims/"><u>Demystifying AI Asset Ownership Claims</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-top-5-besten-gratisk-mp3aac-player-fur-windows-und-macos-fuhrende-auswahl/"><u>Die Top 5 Besten Gratisk MP3/AAC-Player Für Windows Und macOS - Führende Auswahl</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-common-world-of-warcraft-wow-system-errors-a-players-handbook/"><u>Easy Fixes for Common World of Warcraft (WoW) System Errors: A Player's Handbook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2e020-fix-guide-for-unexpected-shutdowns-and-errors/"><u>Football Manager 2E020 Fix Guide for Unexpected Shutdowns and Errors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/m-powered-mac-users-rejoice-the-upcoming-arrival-of-fedora-linux-coverage-by-zdnet/"><u>M-Powered Mac Users Rejoice: The Upcoming Arrival of Fedora Linux Coverage by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-simple-techniques-transform-your-avi-videos-into-mpeg-with-these-5-steps/"><u>Quick & Simple Techniques: Transform Your AVI Videos Into MPEG with These 5 Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-devilishly-complex-bugs-in-call-of-duty-mobile-modern-warfare-and-codz/"><u>Step-by-Step Guide: Resolving Devilishly Complex Bugs in Call of Duty Mobile, Modern Warfare & CoDZ</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-repair-dreamlight-valley-pc-bugs-a-comprehastoverview-of-six-fixes/"><u>Troubleshoot and Repair Dreamlight Valley PC Bugs: A Comprehastoverview of Six Fixes</u></a></li>
 </ul></div>
 

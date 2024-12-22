@@ -1,7 +1,7 @@
 ---
 title: "Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!"
-date: 2024-12-13T19:21:32.437Z
-updated: 2024-12-19T22:06:34.443Z
+date: 2024-12-19T18:46:46.187Z
+updated: 2024-12-21T16:00:42.311Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
  If you’re also one of them, you’re no doubt very frustrated. But don’t worry. This issue is fixable. The following are the fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 3. **[Completely reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Discord as administrator
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
  This is the first thing you should try when your Discord update has failed. To run discord as administrator, simply right click the Discord icon, then select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-802.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now check to see if this fixed your Discord update issue. Hopefully it did, but if not there are still other fixes you can try.
 
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Completely reinstall Discord
 
  If none of the fixes above worked for you, then you should completely reinstall your Discord program. Here is how to do it, completely:
@@ -62,12 +66,12 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-806.png)
 3. Right click**Discord** and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-807.png)
 4. Follow the on-screen instructions to complete the uninstall process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
 6. Type “%appdata%” and press**Enter** on your keyboard.  
@@ -77,15 +81,11 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 8. Type “%localappdata%” and press**Enter** on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-809.png)
 9. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
@@ -114,24 +114,22 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-advanced-text-dynamics-presets-collection/"><u>[New] 2024 Approved Advanced Text Dynamics Presets Collection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>[New] 2024 Approved Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-assassins-creed-valhalla-stuttering-on-pc/"><u>[SOLVED] Assassin’s Creed Valhalla Stuttering on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-examination-for-straightforward-hdr/"><u>[Updated] Comprehensive Examination for Straightforward HDR</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-animatedapp-full-guide-24-edition/"><u>[Updated] In 2024, AnimatedApp Full Guide '24 Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-4k-display-lgs-31mu97-b-model/"><u>[Updated] In 2024, The Ultimate Guide to the 4K Display - LG's 31MU97-B Model</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-endorses-national-legislation-supporting-consumers-right-to-repair-electronics/"><u>Apple Endorses National Legislation Supporting Consumer's Right to Repair Electronics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-apple-watch-battery-by-optimizing-these-key-features-gizmodo/"><u>Boost Apple Watch Battery by Optimizing These Key Features | Gizmodo</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-step-by-step-solution-resolving-fifa-21-pc-game-crashes/"><u>Complete Step-by-Step Solution: Resolving FIFA 21 PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-address-rainbow-six-siege-network-problems/"><u>Effective Solutions to Address Rainbow Six Siege Network Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-why-your-nvidia-graphics-overlay-might-be-malfunctioning/"><u>Fixing Issues: Why Your Nvidia Graphics Overlay Might Be Malfunctioning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-far-cry-5-endlessly-looping-on-launch/"><u>Fixing: Far Cry 5 Endlessly Looping on Launch</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gadget-analysis-by-toms-technology-hub-your-ultimate-guide/"><u>Gadget Analysis by Tom’s Technology Hub - Your Ultimate Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-rid-of-freezing-frustrations-expert-advice-to-keep-chrome-running-smoothly-in-windows-11/"><u>Get Rid of Freezing Frustrations: Expert Advice to Keep Chrome Running Smoothly in Windows 11</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/ricodifica-swf-in-formato-3gp-gratuita-online-guida-passo-passo-con-movavi/"><u>Ricodifica SWF in Formato 3GP Gratuita Online: Guida Passo-Passo Con Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-starcraft-amoled-on-computer-errors-and-solutions/"><u>Troubleshooting Common Starcraft Amoled on Computer Errors and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-sudden-declines-in-frame-rates-solving-persistent-lags/"><u>Understanding Sudden Declines in Frame Rates - Solving Persistent Lags</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-battle-against-installer-error-messages-on-pcs/"><u>Winning the Battle Against Installer Error Messages on PCs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-simplified-techniques-for-using-the-io-screener/"><u>[New] 2024 Approved Simplified Techniques for Using the IO Screener</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-recorder-showdown-apowersoft-vs-others/"><u>2024 Approved Screen Recorder Showdown Apowersoft vs Others</u></a></li>
+<li><a href="https://program-issues.techidaily.com/are-there-any-connectivity-issues-with-xbox-live-today/"><u>Are There Any Connectivity Issues with Xbox Live Today?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/banish-fps-dip-and-stutters-from-your-csgo-matches-with-these-simple-steps/"><u>Banish FPS Dip and Stutters From Your CS:GO Matches with These Simple Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compare-30fps-vs-60fps-in-gaming-watch-high-frame-rate-gameplay/"><u>Compare 30Fps Vs. 60Fps in Gaming - Watch High-Frame Rate Gameplay</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/complete-control-over-your-youtube-viewing-experience/"><u>Complete Control Over Your YouTube Viewing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-house-flipper-2-game-crash-on-your-computer/"><u>Effective Fixes to Stop House Flipper 2 Game Crash on Your Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-accurate-prints-9-steps-with-powerpoint-and-windows/"><u>Ensuring Accurate Prints: 9 Steps with PowerPoint & Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-praey-for-the-overlord-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Praey for the Overlord From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gas-station-simulator-windows-errors-heres-a-solution/"><u>Gas Station Simulator Windows Errors? Here's a Solution!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-minecraft-expert-advice-for-eliminating-lag-and-enhancing-pc-gaming-experience/"><u>Mastering Minecraft: Expert Advice for Eliminating Lag and Enhancing PC Gaming Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-pip-navigating-netflixs-floating-screen-functionality-for-2024/"><u>Mastering PIP Navigating Netflix's Floating Screen Functionality for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-resolve-continuous-freezing-and-crashing-issues-in-escape-from-tarkov-on-computer-systems/"><u>Solution Guide: Resolve Continuous Freezing and Crashing Issues in Escape From Tarkov on Computer Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-valheim-lag-issues-optimize-gameplay-on-your-windows-pc/"><u>Solving Valheim Lag Issues: Optimize Gameplay on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/stop-the-pop-play-smoothly-advanced-fixes-for-logitech-g-pro-x-pc-noise-latest-techniques-202n/"><u>Stop the Pop, Play Smoothly: Advanced Fixes for Logitech G Pro X PC Noise - Latest Techniques (202N)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
 

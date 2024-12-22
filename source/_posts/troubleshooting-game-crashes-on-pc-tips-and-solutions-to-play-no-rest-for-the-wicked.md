@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-12-14T19:34:19.449Z
-updated: 2024-12-20T02:23:32.760Z
+date: 2024-12-17T21:52:36.351Z
+updated: 2024-12-21T22:54:01.355Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -46,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
- Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
 
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -90,7 +94,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -103,13 +107,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -127,10 +131,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
@@ -146,7 +146,7 @@ iv. Restart your PC.
 See if this issue reappears. If not, you have fixed this issue!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
@@ -193,20 +193,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>[New] Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets-for-2024/"><u>[New] Illuminate Canon Cameras Combining Freebies and Paid LUT Sets for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/augh-loophole-ideas-for-7-hilarious-youtube-showcases-for-2024/"><u>[New] Laugh Loophole Ideas for 7 Hilarious YouTube Showcases for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-top-5-apps-for-iphone-auditory-delight/"><u>2024 Approved Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/building-a-winning-portfolio-with-windows-11-video-editing-skills-for-2024/"><u>Building a Winning Portfolio with Windows 11 Video Editing Skills for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/daily-care-routines-for-your-printer-insights-and-advice-by-yl-software-professionals/"><u>Daily Care Routines for Your Printer - Insights and Advice by YL Software Professionals</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
-<li><a href="https://program-issues.techidaily.com/flawless-gaming-experience-how-to-prevent-rocket-league-crashes/"><u>Flawless Gaming Experience: How to Prevent Rocket League Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009315769-lost-ark-quiet-dilemma-solved-audio-fixes-inside/"><u>Lost Ark Quiet Dilemma Solved – Audio Fixes Inside</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macxdvd-brand-new-upgrade-ultimate-macx-youtube-download-tool-with-record-breaking-4k-speed-performance-for-mac-users/"><u>MacXDVD Brand New Upgrade: Ultimate MacX YouTube Download Tool with Record-Breaking 4K Speed Performance for Mac Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-back-online-after-recent-fix-no-more-connection-troubles/"><u>Origin Back Online After Recent Fix - No More Connection Troubles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-league-of-legends-2024-connection-issue-loop-glitch/"><u>Resolved: League of Legends' 2024 Connection Issue Loop Glitch</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stanley-j5c09-in-focus-unmatched-size-and-functionality-for-woodworking-projects/"><u>Stanley J5C09 in Focus: Unmatched Size & Functionality for Woodworking Projects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-end-of-delays-improving-server-responsiveness-in-blackwood-the-elder-scrolls-online-edition/"><u>The End of Delays: Improving Server Responsiveness in 'Blackwood' - The Elder Scrolls Online Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-vlc-versus-mx-video-choice-showdown/"><u>[New] 2024 Approved VLC Versus MX Video Choice Showdown</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stealthy-styles-easy-color-corrections-techniques/"><u>[New] Stealthy Styles Easy Color Corrections Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlined-screencasting-steps-ultimate-tutorial/"><u>[Updated] 2024 Approved Streamlined Screencasting Steps - Ultimate Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-top-methods-of-video-and-screenshots-for-2024/"><u>[Updated] Unveiling the Top Methods of Video & Screenshots for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-video-sizing-anomalies-what-causes-imovie-to-crop-in-2024/"><u>[Updated] Video Sizing Anomalies What Causes iMovie to Crop, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-guide-to-reinstating-voice-chat-on-pc-tips-and-solutions-for-among-us-players/"><u>A Guide to Reinstating Voice Chat on PC - Tips and Solutions for Among Us Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-gaming-experience-enshrouded-now-stable-for-pc-users/"><u>Crash-Free Gaming Experience - Enshrouded Now Stable for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-stuck-start-of-alan-wake-2-essential-troubleshooting-steps/"><u>Fixing the Stuck Start of Alan Wake 2 – Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/interactive-presenters-synopsis-update-8/"><u>Interactive Presenter's Synopsis, Update 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/james-bond-cinematic-journey-a-step-by-step-guide-to-watch-them-all-in-order/"><u>James Bond Cinematic Journey: A Step-by-Step Guide to Watch Them All in Order</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-lag-reduction-in-chivalry-2-latest-fixes/"><u>Step-by-Step Troubleshooting for Lag Reduction in Chivalry 2 - Latest Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tactics-ensuring-your-computer-recognizes-the-steam-virtual-reality-experience/"><u>Troubleshooting Tactics: Ensuring Your Computer Recognizes the Steam Virtual Reality Experience</u></a></li>
 </ul></div>
 

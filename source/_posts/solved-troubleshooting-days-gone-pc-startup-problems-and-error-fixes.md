@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2024-12-18T16:33:38.275Z
-updated: 2024-12-20T03:23:56.450Z
+date: 2024-12-17T18:03:01.819Z
+updated: 2024-12-21T16:19:26.185Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 7. **[Uninstall your antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Allow TCP Network Port Access](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1\. End the Resolve process
 
@@ -53,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 No luck? Don’t worry. We have a few more fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Unplug USB devices
 
  According to what many Resolve users have suggested, USB devices can cause your Resolve to not open so you can unplug these devices to check if your Resolve works again.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
@@ -70,6 +66,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
@@ -92,13 +92,17 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
 
@@ -115,6 +119,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
 
@@ -141,7 +149,7 @@ No luck? Don’t worry. We have a few more fixes for you.
 4. Save and exit the BIOS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7\. Uninstall your antivirus software
@@ -152,10 +160,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -165,10 +169,6 @@ Here’s how to troubleshoot this issue quickly:
 1. On your keyboard, press the Windows + R key at the same time, and enter**powershell** .  
 ![open powershell](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1.jpg)
 2. Enter the following command line:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _**Get-NetTCPConnection | Where-Object { $\_.State -eq “Listen” -and $\_.LocalPort -eq 1144 } | ForEach-Object { (get-process -id $\_.OwningProcess).Description }**_
 3. If nothing pops up in the next entry, there’s nothing wrong with your TCP network. But if it does, you might need to contact the**Blackmagic Design** support team with your log file.  
@@ -203,16 +203,24 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-from-ground-to-heavens-a-mobile-panorama-journey-for-2024/"><u>[Updated] From Ground to Heavens A Mobile Panorama Journey for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-reviving-old-memories-posting-them-via-your-camera-roll/"><u>[Updated] Reviving Old Memories Posting Them via Your Camera Roll</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-glitches-step-by-step-solutions-for-persistent-pc-gaming-crashes/"><u>Beat the Glitches: Step-by-Step Solutions for Persistent PC Gaming Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discover-whats-next-for-rainbow-six-siege-free-improvements-and-additions-coming/"><u>Discover What’s Next for Rainbow Six Siege – Free Improvements and Additions Coming !</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences/"><u>Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-ending-manor-lords-pc-gameplay-interruptions/"><u>Expert Advice: Ending Manor Lords PC Gameplay Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006145462-fix-your-fortnite-login-issues-fast-expert-solutions/"><u>Fix Your Fortnite Login Issues Fast: Expert Solutions!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/origins-and-evolution-of-the-netherlands-vernacular/"><u>Origins & Evolution of the Netherlands Vernacular</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-smart-gamers-guide-to-timely-ps5-controller-resets/"><u>The Smart Gamer's Guide to Timely PS5 Controller Resets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-the-mystery-of-crashes-in-cities-skylines-with-latest-2024-solutions/"><u>Untangle the Mystery of Crashes in Cities: Skylines with Latest 2024 Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>[New] 2024 Approved Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-simplified-video-transferring-techniques-for-youtube-enthusiasts-for-2024/"><u>[Updated] Simplified Video Transferring Techniques for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-reset-and-refresh-fixing-common-issues-in-final-cut-pro-x/"><u>2024 Approved Reset and Refresh Fixing Common Issues in Final Cut Pro X</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/avoidance-and-remedy-of-live-video-interruption-issues-fb/"><u>Avoidance & Remedy of Live Video Interruption Issues (FB)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210971289-9781088237236-cadenas-del-destino/"><u>Cadenas del Destino | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-persistent-errors-and-crashes-in-world-of-tanks-blitz-gameplay/"><u>Effective Fixes for Persistent Errors & Crashes in World of Tanks Blitz Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-why-arent-the-2024-game-finals-launching-expert-advice-inside/"><u>Fixing the Problem: Why Aren't The 2024 Game Finals Launching? Expert Advice Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007990149-fortnite-access-denied-bypass-the-hassle-with-these-tips/"><u>Fortnite Access Denied? Bypass the Hassle with These Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-starfield-from-overheating-and-shutting-down-on-your-computer/"><u>How to Prevent Starfield From Overheating and Shutting Down on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-baldurs-gate-gameplay-top-six-tactics-to-overcome-stuttering-and-freezing-challenges/"><u>Improve Your Baldur's Gate Gameplay: Top Six Tactics to Overcome Stuttering and Freezing Challenges</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/key-methods-for-silent-screen-imaging-for-2024/"><u>Key Methods for Silent Screen Imaging for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-crashing-problems-in-nba-k23-for-pc-learn-our-best-solutions/"><u>Overcome Crashing Problems in NBA ^K23 for PC – Learn Our Best Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-framerate-drops-how-to-optimize-deathloop-on-your-pc/"><u>Overcoming Framerate Drops: How to Optimize Deathloop on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-reducing-chromes-high-system-resource-usage/"><u>Solution Strategies for Reducing Chrome's High System Resource Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-battlefield-2042-and-directx-interaction-challenges/"><u>Step-by-Step Solution to Fix Battlefield 2042 and DirectX Interaction Challenges</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-your-digital-space-with-ease-using-ms-store-themes/"><u>Tailoring Your Digital Space with Ease Using MS Store Themes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-game-security-compromise-warning-message/"><u>Troubleshooting the 'Game Security Compromise' Warning Message</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/yahoo-mail-saving-techniques-a-step-by-step-process-for-hard-disk-storage/"><u>Yahoo Mail Saving Techniques: A Step-by-Step Process for Hard Disk Storage</u></a></li>
 </ul></div>
 

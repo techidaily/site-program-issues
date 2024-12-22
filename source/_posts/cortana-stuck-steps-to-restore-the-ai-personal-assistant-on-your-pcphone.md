@@ -1,7 +1,7 @@
 ---
 title: Cortana Stuck? Steps to Restore the AI Personal Assistant on Your PC/Phone
-date: 2024-12-15T23:14:30.459Z
-updated: 2024-12-19T17:22:52.077Z
+date: 2024-12-15T21:31:54.190Z
+updated: 2024-12-21T21:19:37.397Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29f
 
  Before you proceed to the advanced troubleshooting steps below, make sure your setup meets the[system requirements of Biomutant](https://store.steampowered.com/app/597820/BIOMUTANT/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Stop overclocking
 
  If you’ve overclocked the CPU and GPU for better graphics performance, you may find it doesn’t work as expected and can cause incompatibility issues with Biomutant. To see if that’s the case, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** .
@@ -44,10 +40,6 @@ If Biomutant still crashes, there are more fixes below.
 ### Fix 2 – Restart your computer and Steam
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -60,12 +52,20 @@ If Biomutant still crashes, there are more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
@@ -87,20 +87,16 @@ There are two ways to do this:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Disable overlays
 
@@ -112,6 +108,10 @@ There are two ways to do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
@@ -137,24 +137,24 @@ There are two ways to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-subscriber-threshold-raised-for-profits/"><u>2024 Approved Subscriber Threshold Raised for Profits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/an-intuitive-approach-to-easily-observing-loved-youtube-feedback-for-2024/"><u>An Intuitive Approach to Easily Observing Loved YouTube Feedback for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ark-survival-ascended-debugging-the-persistent-pc-crash-issues-fix-1-9/"><u>ARK: Survival Ascended - Debugging the Persistent PC Crash Issues (Fix #1-9)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-buy-launches-epic-gaming-audio-experience-top-ranked-speakers-go-on-sale-insights/"><u>Best Buy Launches Epic Gaming Audio Experience: Top-Ranked Speakers Go On Sale - Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-in-valheim-top-strategies-to-achieve-smooth-gameplay/"><u>Boost Your Frame Rate in Valheim: Top Strategies to Achieve Smooth Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-optimization-overcoming-high-cpu-usage-issues-successfully/"><u>Chrome Optimization - Overcoming High CPU Usage Issues Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013885752-consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-get-your-thaumaturge-app-running-smoothly-again-on-your-computer/"><u>Easy Fixes: Get Your Thaumaturge App Running Smoothly Again on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-your-conversations-advanced-prompting-strategies-for-ai/"><u>Elevating Your Conversations: Advanced Prompting Strategies for AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-your-gaming-experience-solutions-for-smoothing-out-stuttering-and-boosting-fps-on-call-of-duty-warzone/"><u>Elevating Your Gaming Experience: Solutions for Smoothing Out Stuttering & Boosting Fps on Call of Duty: Warzone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-value-of-apples-airpods-pro-a-review-from-launch-to-present/"><u>Evaluating the Value of Apple’s AirPods Pro - A Review From Launch to Present</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722185838595-exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-brother-hl-l2300d-printer-up-to-date-with-these-updated-drivers/"><u>Get Your Brother HL-L2300D Printer Up to Date with These Updated Drivers!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-rogue-company-addresses-and-corrects-pc-stability-glitches/"><u>No More Freezing: Rogue Company Addresses and Corrects PC Stability Glitches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Infinix Hot 40i</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/reaching-peak-youtube-potential-through-strategic-creator-studio-usage/"><u>Reaching Peak YouTube Potential Through Strategic Creator Studio Usage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cod-black-ops-fortress-fixing-lag-spikes-and-improving-frame-rate/"><u>Resolving Cod: Black Ops Fortress - Fixing Lag Spikes & Improving Frame Rate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-resolving-the-ascent-pc-performance-issues/"><u>Troubleshooting Made Easy: Resolving 'The Ascent' PC Performance Issues</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wie-man-iphone-fotos-mithilfe-von-bluetooth-auf-windows-und-mac-os-x-computer-ubertragen/"><u>Wie Man iPhone-Fotos Mithilfe Von Bluetooth Auf Windows Und Mac OS X Computer Übertragen</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement/"><u>[Updated] 2024 Approved The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-crashing-games-a-step-by-step-guide-to-stop-halo-infinite-freezing-issues-7-quick-fixes/"><u>Battle Against Crashing Games: A Step-by-Step Guide to Stop Halo Infinite Freezing Issues (7 Quick Fixes)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-challenge-of-error-code-103003-in-your-arma-tarkov-gameplay/"><u>Beat the Challenge of Error Code 103003 in Your ARMA Tarkov Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-managing-high-cpu-usage-on-starfield-latest-techniques/"><u>Comprehensive Guide to Managing High CPU Usage on Starfield - Latest Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/des-astuces-rapides-pour-convertir-webm-en-mp3-sans-cout-cote-reseau-ou-pc/"><u>Des Astuces Rapides Pour Convertir WEBM en MP3 Sans Coût - Côté Réseau Ou PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-how-to-stop-the-surge-2-from-continuously-crashing/"><u>Effective Solutions: How to Stop The Surge 2 From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-effective-methods-to-stop-roblox-from-crashing-on-windows-and-mac/"><u>Enhance Your Gaming Experience: Effective Methods to Stop Roblox From Crashing on Windows and Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-the-right-software-brother-mfc-j480dw-printer-drivers-enhanced-for-windows-users/"><u>Find the Right Software: Brother MFC-J480DW Printer Drivers Enhanced for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-rainbow-six-extraction-crash-issues-in-pc-gaming/"><u>Fixes for Rainbow Six Extraction Crash Issues in PC Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unfixable-overcoming-baldurs-gate-3-launch-problems/"><u>Fixing the Unfixable? Overcoming Baldur's Gate 3 Launch Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/groundbreaking-photo-editor-photonshift-tech/"><u>Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-poptoons-pro-analysis-and-guide-2s24/"><u>In 2024, PopToons Pro Analysis and Guide 2S24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-psp-emulator-ios-top-5-picks-on-2023/"><u>In 2024, PSP Emulator iOS Top 5 Picks on 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/porcelain-or-earthenware-tiles-smooth-and-unglazed/"><u>Porcelain or Earthenware Tiles (Smooth and Unglazed)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successful-fix-for-mir4-performance-issues-in-pc-environments/"><u>Successful Fix for MIR4 Performance Issues in PC Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-nokia-c12-plus-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Nokia C12 Plus Phone Hassle-Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-dead-by-daylight-crashes-pro-tips-for-a-smooth-2-cuppy-sized-5-expert-fixes-for-uninterrupted-dead-by-daylight-gameplay/"><u>Troubleshooting Guide for Dead by Daylight Crashes - Pro Tips for a Smooth 2 Cuppy-Sized, 5) Expert Fixes for Uninterrupted Dead by Daylight Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-gas-station-simulator-from-crashing-on-windows/"><u>Troubleshooting Guide: How to Stop 'Gas Station Simulator' From Crashing on Windows</u></a></li>
 </ul></div>
 
