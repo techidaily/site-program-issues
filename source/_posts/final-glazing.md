@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-12-18T17:24:08.622Z
-updated: 2024-12-21T17:14:09.925Z
+date: 2024-12-23T00:29:42.304Z
+updated: 2024-12-27T11:32:01.789Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ FIFA 20 DirectX Error
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes For FIFA 20 DirectX Error
 
  Here are 5 fixes that have helped other users resolve the DirectX error on FIFA 20 issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +35,10 @@ FIFA 20 DirectX Error
 3. **[Modify fifasetup.ini](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -58,10 +58,6 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -69,6 +65,10 @@ FIFA 20 DirectX Error
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Unplug ccontrollers
 
@@ -78,10 +78,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:**Modify fifasetup.ini**
 
  Another effective fix for the DirectX game crash error is modify**fifasetup.ini** .
@@ -90,14 +86,10 @@ Here is how to do it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
@@ -155,9 +147,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -186,24 +186,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/08069826-new-boost-your-content-access-free-vocal-sfx/"><u>[New] Boost Your Content Access Free Vocal SFX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>[New] PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dji-aerial-innovation-packs-starter-pro-upgrade-high-definition-ultra/"><u>[Updated] 2024 Approved DJI Aerial Innovation Packs Starter, Pro Upgrade, High-Definition Ultra</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-30-quick-steps-to-metaverse-humor-from-copycat-to-creator/"><u>2024 Approved 30 Quick Steps to Metaverse Humor From Copycat to Creator</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>2024 Approved Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dayz-shooter-downloader-fast-and-simple-installation-guide/"><u>DayZ Shooter Downloader: Fast and Simple Installation Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-rogue-company-game-crash-issues-on-windows-computers/"><u>Fixing the Rogue Company Game Crash Issues on Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-logitech-g29-racing-controller-setup-for-windows-7-8-and-10-users/"><u>Free Download: Logitech G29 Racing Controller Setup for Windows 7, 8 & 10 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-100-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 100 Phone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Passcode without a Computer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-silencing-sounds-a-deep-dive-into-audacitys-features-for-sound-reduction/"><u>New Silencing Sounds A Deep Dive Into Audacitys Features for Sound Reduction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-get-your-iphone-detected-by-itunes-in-windows-11/"><u>Resolved: How to Get Your iPhone Detected by iTunes in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-continuous-freezing-and-crashing-problems-with-the-world-of-tanks-blitz-app/"><u>Resolving Continuous Freezing and Crashing Problems with the World of Tanks Blitz App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-must-close-due-to-an-error-in-geforce-experience-for-smooth-gaming/"><u>Resolving the 'Must Close Due to an Error' In GeForce Experience for Smooth Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-mysterious-black-display-problems-with-zoom-on-your-computer-the-2024-how-to-manual/"><u>Resolving the Mysterious Black Display Problems with Zoom on Your Computer - The 2024 How-To Manual</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-asus-pce-ac56-drivers-compatibility-solutions-for-windows-10-8-and-7/"><u>Troubleshooting ASUS PCE-AC56 Drivers: Compatibility Solutions for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-setup-issues-fixing-closure-errors-effectively/"><u>Troubleshooting GeForce Setup Issues - Fixing Closure Errors Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-fix-boosting-your-pc-gameplay-and-avoiding-crashes-in-2eryears-tech-guide/"><u>Warzone Fix: Boosting Your PC Gameplay & Avoiding Crashes in 2erYear's Tech Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-your-big-day-with-these-leading-countdown-clock-apps-androidios/"><u>[New] Master Your Big Day with These Leading Countdown Clock Apps (Android/iOS)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-tactics-eliminate-fbs-intrusive-video-ads/"><u>[New] Top Tactics Eliminate FB's Intrusive Video Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-high-quality-8-cam-transformations-for-streaming/"><u>2024 Approved High-Quality 8 Cam Transformations for Streaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ultimate-guide-top-free-youtube-video-openers/"><u>2024 Approved Ultimate Guide Top Free YouTube Video Openers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-cursor-end-your-wait-with-these-fixes-for-anthems-infinite-loading-challenge/"><u>Conquering the Cursor: End Your Wait with These Fixes for Anthem's Infinite Loading Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-unresponsive-logitech-settings-on-your-pc-running-windows/"><u>How to Repair Unresponsive Logitech Settings on Your PC Running Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-se-2022ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone SE (2022)/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-gaming-and-graphics-with-the-newest-amd-driver-update-for-windows-oses/"><u>Improve Gaming and Graphics with the Newest AMD Driver Update for Windows OSes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ntdlldll-failures-corrected-a-guide-for-stabilizing-your-windows-11-or-windows-10/"><u>ntdll.dll Failures Corrected: A Guide for Stabilizing Your Windows 11 or Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-battery-life-select-ps5-dualsense-controllers-chargers/"><u>Optimized Battery Life: Select PS5 DualSense Controllers Chargers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-problems-resolved-stabilizing-your-world-of-tanks-blitz-experience/"><u>Persistent Problems Resolved: Stabilizing Your World of Tanks Blitz Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008472535-rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-content-securely-unlocked-overcoming-file-access-problems/"><u>Steam Content Securely Unlocked - Overcoming File Access Problems</u></a></li>
 </ul></div>
 

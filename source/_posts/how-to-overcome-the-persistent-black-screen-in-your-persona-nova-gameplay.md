@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2024-12-15T22:59:05.003Z
-updated: 2024-12-21T16:15:12.128Z
+date: 2024-12-22T11:27:11.920Z
+updated: 2024-12-27T01:57:02.908Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ There’re things you can do before trying complicated fixes:
 * Make sure Enlisted are not blocked from your firewall
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -59,17 +59,21 @@ If it’s not working, move to the next fix.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -90,15 +94,11 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -124,20 +124,15 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools/"><u>[New] The Ultimate Guide to Scouting for Best Free SRT Translation Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-dial-up-your-visual-storytelling-with-animated-texts-no-cost-for-2024/"><u>[Updated] Dial up Your Visual Storytelling with Animated Texts, No Cost for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mixing-made-easy-free-luts-bundle-includes-dji-miniair-2/"><u>[Updated] In 2024, Mixing Made Easy Free LUTS Bundle Includes DJI Mini/Air 2</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfecting-the-instagram-story-format-with-youtube-integration/"><u>[Updated] In 2024, Perfecting the Instagram Story Format with YouTube Integration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-update-issue-resolving-the-infamous-leaf-bug-of-2022/"><u>Apex Legends Update Issue: Resolving the Infamous 'Leaf' Bug of 2022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989071196-defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-windows-cmd-as-superuser-mode/"><u>Initiating Windows CMD as Superuser Mode</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mp3-vs-aac-una-comparacion-completa-para-optimizar-la-experiencia-de-escucha-movavi/"><u>MP3 vs AAC: Una Comparación Completa Para Optimizar La Experiencia De Escucha - Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sons-of-the-forest-pc-problems-heres-how-to-resolve-them/"><u>Sons of the Forest PC Problems? Here's How to Resolve Them!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-get-your-valorant-game-running-again/"><u>Step-by-Step Solution to Get Your Valorant Game Running Again</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-5-malwarefox-adblockers-compatible-with-microsoft-edge-enhancing-your-web-security/"><u>Top 5 MalwareFox AdBlockers Compatible with Microsoft Edge: Enhancing Your Web Security</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-experience-overcoming-closure-errors-efficiently/"><u>Troubleshooting GeForce Experience: Overcoming Closure Errors Efficiently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-wowpc-overcoming-startup-errors-in-world-of-warcraft/"><u>Troubleshooting WoWPC: Overcoming Startup Errors in World of Warcraft</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-cyberpunk-2077-computer-freezing-issues/"><u>Ultimate Solution for Cyberpunk 2077 Computer Freezing Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-investigating-the-effectiveness-of-vsdcs-screen-capture-tech/"><u>[New] Investigating the Effectiveness of VSDC's Screen Capture Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-method-to-delete-wsl/"><u>Comprehensive Method to Delete WSL</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-driver-software-update-for-windows-to-enhance-your-hp-officejet-pro-4650-printer-functionality/"><u>Free Driver Software Update for Windows to Enhance Your HP Officejet Pro 4650 Printer Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-halo-n-from-halting-on-windows-quick-fixes-and-guides/"><u>How to Stop Halo N From Halting on Windows - Quick Fixes & Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-biomutant-gaming-expert-tips-to-prevent-your-pc-from-freezing/"><u>Master Biomutant Gaming : Expert Tips to Prevent Your PC From Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-compatibility-ensuring-seamless-gameplay-of-age-of-empires-ii-on-windows-10-systems/"><u>Mastering Compatibility: Ensuring Seamless Gameplay of Age of Empires II on Windows 10 Systems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-modern-communication-channels-a-deep-dive-into-facebook-twitter-instagram-and-youtube/"><u>Mastering Modern Communication Channels: A Deep Dive Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-lag-and-hiccups-in-dragons-dogma-2-optimize-your-experience/"><u>Resolving Lag & Hiccups in Dragon's Dogma 2 - Optimize Your Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/spontaneous-shopping-a-detailed-account-of-how-and-why-i-bought-an-apple-watch-from-amazon-against-my-initial-intentions/"><u>Spontaneous Shopping: A Detailed Account of How and Why I Bought an Apple Watch From Amazon (Against My Initial Intentions)</u></a></li>
 </ul></div>
 

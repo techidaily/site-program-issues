@@ -1,7 +1,7 @@
 ---
 title: Why Is My Outlook Not Opening? Expert Fixes & Tips for Users
-date: 2024-12-18T21:05:58.776Z
-updated: 2024-12-21T17:11:36.818Z
+date: 2024-12-23T12:12:43.770Z
+updated: 2024-12-27T09:03:39.997Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 
  Before trying any fixes below, please check your camera doesn’t have any physical problem and is working fine on another computer or application.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)
@@ -31,6 +27,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. [Update camera driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the privacy settings
 
@@ -44,10 +44,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
@@ -75,7 +71,7 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -110,8 +106,16 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -121,20 +125,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -149,7 +153,7 @@ If your camera is still not working on Discord, move to the next fix.
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
@@ -158,10 +162,6 @@ If your camera is still not working on Discord, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
@@ -193,18 +193,22 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed/"><u>[New] 2024 Approved From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-logitech-g-hub-not-working-on-windows/"><u>[SOLVED] Logitech G HUB Not Working on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor-for-2024/"><u>Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/blackwood-connectivity-enhanced-the-elder-scrolls-online-lag-fixed-by-latest-update/"><u>Blackwood Connectivity Enhanced: The Elder Scrolls Online Lag Fixed by Latest Update</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fix-webview-issues-for-fb-videos-in-chrome/"><u>In 2024, Fix WebView Issues for FB Videos in Chrome</u></a></li>
-<li><a href="https://program-issues.techidaily.com/medium-application-malfunction-on-desktop-solutions-unveiled/"><u>Medium Application Malfunction on Desktop: Solutions Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-multilingualism-with-chatgpt-premium-tools/"><u>Navigating Multilingualism with ChatGPT Premium Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/overcoming-aol-mail-problems-on-the-iphone-6-proven-methods/"><u>Overcoming AOL Mail Problems on the iPhone: 6 Proven Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-connection-to-server-lost-errors-in-escape-from-tarkov/"><u>Resolving Connection To Server Lost Errors in Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-among-us-persistent-load-error-fix-and-troubleshooting-guide/"><u>Solving the 'Among Us' Persistent Load Error - Fix & Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-persistent-issues-with-among-us-avoid-downtime/"><u>Step-by-Step Fixes for Persistent Issues with Among Us - Avoid Downtime</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-lg-24lh4830-hdtv-the-best-budget-friendly-option-with-advanced-features/"><u>Top Rated LG 24LH4830 HDTV - The Best Budget-Friendly Option with Advanced Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-xcom-2-crash-on-windows/"><u>[SOLVED] XCOM 2 Crash on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>[Updated] In 2024, Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-selection-your-guide-to-best-tv-streaming-choices-for-2024/"><u>[Updated] Prime Selection Your Guide to Best TV Streaming Choices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-into-engaging-animation-projects/"><u>[Updated] Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722983846853-boost-your-dayz-gaming-experience-with-fast-fps-recovery-tips/"><u>Boost Your DayZ Gaming Experience with Fast FPS Recovery Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-fall-guys-experience-by-minimizing-lag-and-increasing-frames-per-second-fps/"><u>Elevate Your Fall Guys Experience by Minimizing Lag and Increasing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-silent-void-resolving-audio-issues-in-skyrim/"><u>Fixing the Silent Void: Resolving Audio Issues in Skyrim</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211013579-9781644118917-healing-wisdom-from-the-afterlife/"><u>Healing Wisdom from the Afterlife | Free Book</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapstreak-savvy-guidance-to-prevent-interruptions/"><u>In 2024, Snapstreak Savvy Guidance to Prevent Interruptions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-class-overcoming-dead-by-daylights-crashes-in-202-cups/"><u>Master Class: Overcoming Dead By Daylight's Crashes in 202 Cups</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/resolving-obs-fullscreen-not-functional-for-2024/"><u>Resolving OBS Fullscreen Not Functional for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-critical-dev-errors-in-call-of-duty-modern-warfare-and-warzone/"><u>Solutions for Critical Dev Errors in Call of Duty: Modern Warfare & Warzone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-administrative-tasks-a-new-approach-to-windows-uac/"><u>Streamlining Administrative Tasks: A New Approach to Windows UAC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-how-to-resolve-marvels-guardians-of-the-galaxy-pc-crashes/"><u>Top 8 Solutions: How to Resolve Marvel's Guardians of the Galaxy PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-repeated-game-crashes-in-the-finals-pc-edition/"><u>Troubleshooting Repeated Game Crashes in The Finals: PC Edition</u></a></li>
 </ul></div>
 

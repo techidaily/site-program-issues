@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-12-19T20:22:54.003Z
-updated: 2024-12-21T18:07:51.620Z
+date: 2024-12-21T20:38:55.800Z
+updated: 2024-12-26T22:25:28.308Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,16 +59,12 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
 
@@ -77,7 +77,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **the following command** and press **Enter** .
@@ -86,13 +86,13 @@ netsh interface Teredo set state disable
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Teredo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On your keyboard, press the**Windows + R** key at the same time, and type**devmgmt.msc** . Then press**Ente** r.
 
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click **View** \> **Show hidden devices** .
 
@@ -116,10 +116,6 @@ netsh interface Teredo set state type=default
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **the following command** and press **Enter** .
 
 netsh advfirewall set allprofiles state on
@@ -127,6 +123,10 @@ netsh advfirewall set allprofiles state on
 3) Close the Command Prompt.
 
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
 
@@ -137,7 +137,7 @@ netsh advfirewall set allprofiles state on
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
@@ -169,20 +169,16 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-updated-insights-sonys-s3700-blu-ray-box-player/"><u>[New] In 2024, Updated Insights Sony's S3700 Blu-Ray Box Player</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-leading-tech-review-the-top-10-screen-recorders/"><u>[Updated] In 2024, Leading Tech Review The Top 10 Screen Recorders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchat-pins-a-complete-guide-for-2024/"><u>[Updated] Mastering Snapchat Pins A Complete Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-phantom-3-vs-phantom-4-for-2024/"><u>[Updated] Phantom 3 Vs Phantom 4 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/baldurs-gate-iii-fixes-how-you-can-now-successfully-start-your-game/"><u>Baldur's Gate III Fixes - How You Can Now Successfully Start Your Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-sons-of-the-forest-gameplay-disruptions-on-pc-effective-solutions-and-advice/"><u>Dealing with 'Sons of the Forest' Gameplay Disruptions on PC - Effective Solutions and Advice</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-instructions-for-modifying-time-configuration-on-kindle-paperwhite/"><u>Easy Instructions for Modifying Time Configuration on Kindle Paperwhite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-problem-of-non-opening-amd-radeon-driver-applications/"><u>Effective Solutions for the Problem of Non-Opening AMD Radeon Driver Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-dragon-quest-xi-how-to-resolve-the-games-crash-problem/"><u>Fixing Dragon Quest XI: How to Resolve the Game's Crash Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-easily-solve-palworlds-search-function-malfunctions/"><u>How to Easily Solve PalWorld's Search Function Malfunctions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-gt-3-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme GT 3 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenovo-thinkpad-x12-detachable-assessment-exceptional-convertible-tablet-with-top-notch-typing-experience/"><u>Lenovo ThinkPad X12 Detachable Assessment: Exceptional Convertible Tablet with Top-Notch Typing Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-discord-performance-strategies-to-curb-cpu-overuse/"><u>Mastering Discord Performance : Strategies to Curb CPU Overuse</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-obs-studio-audio-issue-on-windows-11/"><u>Resolving OBS Studio Audio Issue on Windows 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solucion-paso-a-paso-para-cambiar-la-ubicacion-de-tu-particion-reservada-en-el-equipo/"><u>Solución Paso a Paso Para Cambiar La Ubicación De Tu Partición Reservada en El Equipo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nshakeable-video-quality-best-stabilizers/"><u>[New] Unshakeable Video Quality - Best Stabilizers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-experience-professional-video-calling-explore-the-top-5-devices-for-2024/"><u>[Updated] Experience Professional Video Calling - Explore The Top 5 Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-foundations-selecting-the-right-equipment/"><u>2024 Approved YouTube Foundations Selecting the Right Equipment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-5-app-tools-to-expand-your-circle-of-friends/"><u>Discover the Ultimate 5 App Tools to Expand Your Circle of Friends</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-tribes-of-midgard-from-crashing-down/"><u>Effective Solutions for Preventing Tribes of Midgard From Crashing Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixes for 'Black Screen' Problems in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-chaos-to-clarity-mastering-xiaomis-screen-recording-for-2024/"><u>From Chaos to Clarity Mastering Xiaomi's Screen Recording for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-launch-dota-navigate-around-a-stuck-loading-screen-and-get-back-into-gameplay/"><u>How to Successfully Launch Dota Navigate Around a Stuck Loading Screen and Get Back Into Gameplay</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-130-music-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia 130 Music Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-to-eliminate-lag-and-stutter-in-your-cyberpunk-2077-gameplay/"><u>Troubleshooting Complete: How to Eliminate Lag & Stutter in Your Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-my-beat-saber-experience-frequent-interruptions-fix-now/"><u>Why Does My Beat Saber Experience Frequent Interruptions? Fix Now!</u></a></li>
 </ul></div>
 

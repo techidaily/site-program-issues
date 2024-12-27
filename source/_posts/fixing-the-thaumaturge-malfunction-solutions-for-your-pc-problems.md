@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2024-12-15T22:09:54.881Z
-updated: 2024-12-21T16:32:31.471Z
+date: 2024-12-20T02:39:06.522Z
+updated: 2024-12-27T04:54:37.975Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -55,7 +55,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Region & language.**
@@ -63,7 +63,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -79,6 +79,10 @@ Check your region and language settings on your computer:
  1) Type **update**  in the search box from **Start** . Then click**Check for updates** on the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -114,11 +118,11 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -128,21 +132,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -164,20 +164,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-quick-tips-for-professional-adjustments-in-ps/"><u>[Updated] Quick Tips for Professional Adjustments in PS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-high-end-drones-expert-buyers-choices-top-5/"><u>2024 Approved High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-through-samsungs-comprehensive-picture-editing-2023/"><u>2024 Approved Navigating Through Samsung's Comprehensive Picture Editing, 2023</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-correcting-magic-the-gathering-digital-versions-dark-screen-setback/"><u>Diagnosing and Correcting Magic: The Gathering Digital Version's Dark Screen Setback</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-ready-the-action-packed-god-of-war-fps-is-officially-out-for-pc-gaming-enthusiasts/"><u>Get Ready! The Action-Packed God of War FPS Is Officially Out for PC Gaming Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-launching-challenges-with-helldivers-2-on-steam/"><u>How to Overcome Launching Challenges with Helldivers 2 on Steam</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-105-classic-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia 105 Classic</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximizing-pc-speed-effective-strategies-for-clearing-up-your-hard-drive-insights-from-yl-computing/"><u>Maximizing PC Speed: Effective Strategies for Clearing Up Your Hard Drive - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/snapshots-and-snickers-the-art-of-memery/"><u>Snapshots and Snickers The Art of Memery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-restoring-damaged-video-games-on-your-computer-2024-edition/"><u>Step-by-Step Solutions for Restoring Damaged Video Games on Your Computer - 2024 Edition</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media/"><u>The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wallpaper-engine-malfunctions-in-windows-1110-diagnosis-fixes-and-best-practices/"><u>Wallpaper Engine Malfunctions in Windows 11/10: Diagnosis, Fixes, and Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-against-the-crash-bug-stable-playthroughs-of-tower-of-fantasy-on-pc/"><u>Winning Against the Crash Bug: Stable Playthroughs of Tower of Fantasy on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-efficient-and-essential-top-23-tools-to-downgrade-youtube-audios-for-2024/"><u>[New] Easy, Efficient, and Essential Top 23 Tools to Downgrade YouTube Audios for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insight-screening-sweet-indulgences-for-2024/"><u>[Updated] Expert Insight Screening Sweet Indulgences for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cultivating-commitment-gentle-subscription-strategies/"><u>2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990374190-black-ops-cold-war-update-clearing-stubborn-shader-compilation-glitches-successfully/"><u>Black Ops Cold War Update - Clearing Stubborn Shader Compilation Glitches Successfully!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experience-smooth-gaming-top-6-fixes-for-recurring-minecraft-crashes/"><u>Experience Smooth Gaming: Top 6 Fixes for Recurring Minecraft Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-repair-and-restart-a-crashed-nvidia-control-center/"><u>Expert Tips to Repair and Restart a Crashed NVIDIA Control Center</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-of-non-launching-in-grand-theft-auto-5/"><u>How To Resolve The Problem Of Non-Launching In Grand Theft Auto 5?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-smart-8-hd-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Smart 8 HD to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y77t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y77t Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-landscape-an-app-by-app-analysis-with-tiktok-and-snap/"><u>Navigating The Digital Landscape An App-by-App Analysis with TikTok & Snap</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-total-war-warhammer-ii-game-crashing-effective-strategies-and-solutions/"><u>Tackling Total War: Warhammer II Game Crashing – Effective Strategies and Solutions</u></a></li>
 </ul></div>
 

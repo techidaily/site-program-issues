@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-12-18T20:24:42.509Z
-updated: 2024-12-19T20:05:21.900Z
+date: 2024-12-22T04:23:08.127Z
+updated: 2024-12-26T18:43:04.583Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
@@ -46,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -84,10 +88,14 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -100,15 +108,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -149,18 +149,24 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-captivating-your-network-streamlining-content-via-wirecast-to-facebook-for-2024/"><u>[New] Captivating Your Network Streamlining Content via Wirecast to Facebook for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-8-software-linux-friendly-editing-tools/"><u>[New] In 2024, Top 8 Software Linux-Friendly Editing Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-picks-in-affordable-home-cinema-setups-with-4k/"><u>[New] Top Picks in Affordable Home Cinema Setups with 4K</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[Updated] In 2024, Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-ultimate-canon-sequence-crafts/"><u>[Updated] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-and-trust-issues-understanding-6-major-red-flags/"><u>Artificial Intelligence and Trust Issues: Understanding 6 Major Red Flags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-ios-file-explorer-apps-for-windows-1011-top-picks/"><u>Best Free iOS File Explorer Apps for Windows 10/11: Top Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/helldivers-2-crashing-on-pc-proven-fixes/"><u>Helldivers 2 Crashing on PC: Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-download-progress-timeout-issues-for-seamless-transfers/"><u>How to Address Download Progress 'Timeout' Issues for Seamless Transfers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>In 2024, Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-samsung-galaxy-a05s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Samsung Galaxy A05s</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fast-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>Troubleshooting Fast Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-mass-effect-legendary-edition-start/"><u>Troubleshooting Guide: Why Won't My Mass Effect Legendary Edition Start?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlock-the-power-of-online-interaction-essential-tips-for-successful-zoom-chats/"><u>[New] Unlock the Power of Online Interaction Essential Tips for Successful Zoom Chats</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-tips-top-8-verified-video-marketing-strategies/"><u>[Updated] In 2024, Expert Tips Top 8 Verified Video Marketing Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vibrant-voices-energizing-conversations-with-subscribers/"><u>[Updated] In 2024, Vibrant Voices Energizing Conversations With Subscribers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>2024 Approved Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-boosting-your-valheim-game-performance-and-eliminating-lag/"><u>2024 Ultimate Guide: Boosting Your Valheim Game Performance & Eliminating Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-solutions-for-players-experiencing-stalled-load-screens-during-dota-2-startup/"><u>Detailed Solutions for Players Experiencing Stalled Load Screens During Dota 2 Startup</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-dell-network-adapter-drivers-for-windows-7/"><u>Download the Latest Dell Network Adapter Drivers for Windows 7</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-gaming-experience-with-updated-nvidia-geforce-rtx-3060-ti-drivers-for-windows-1110/"><u>Enhance Your Gaming Experience with Updated NVIDIA GeForce RTX 3060 Ti Drivers for Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blandlands-3-stutter-and-crashes-ultimate-troubleshooting-guide/"><u>Fixing Blandlands 3 Stutter & Crashes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fix-continuous-game-crashes-in-crusader-kings-iii-for-windows-gamers/"><u>Guide to Fix Continuous Game Crashes in Crusader Kings III for Windows Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-sea-of-thieves-not-launching-problem-complete-solution-walkthrough/"><u>How to Fix Sea of Thieves Not Launching Problem - Complete Solution Walkthrough</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-nuances-of-snapchat-high-visibility/"><u>In 2024, Navigating the Nuances of Snapchat High-Visibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014071385-master-the-stability-of-metro-exoduss-pc-enhanced-edition-crashes-no-more/"><u>Master the Stability of Metro Exodus's PC Enhanced Edition: Crashes No More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-troubleshooting-guide-resolving-deathloops-pc-crashes/"><u>Simple Troubleshooting Guide: Resolving Deathloop's PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-tips-to-prevent-stray-games-from-crashing-on-windows-systems/"><u>Six Essential Tips to Prevent Stray Games From Crashing on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-real-reason-behind-the-late-arrival-of-assassins-creed-valhalla/"><u>The Real Reason Behind the Late Arrival of Assassin’s Creed: Valhalla</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-ps4-dualshock-controller-charging-issues/"><u>Troubleshooting Guide: Fixing PS4 DualShock Controller Charging Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2024-12-16T18:44:49.549Z
-updated: 2024-12-21T22:37:10.226Z
+date: 2024-12-21T00:01:24.889Z
+updated: 2024-12-27T06:43:07.396Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,17 +36,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 4. [**Close background applications**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Remove other operator skins
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -57,10 +49,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -78,6 +66,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
 ### Fix 4 – Close background applications
@@ -88,11 +80,19 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-8.jpg)
 2. Right-click the resource-demanding process and click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
 
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Repair corrupt system files
 
@@ -111,7 +111,7 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
@@ -135,21 +135,24 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-redefining-the-silver-screen-virtual-reality-cinema/"><u>[Updated] Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V29</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-correcting-the-notorious-nwstoreexe-glitch/"><u>Expert Tips for Correcting the Notorious NW_Store.exe Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-disruptions-in-sons-of-the-forest-a-guide/"><u>Fixing PC Disruptions in 'Sons of the Forest': A Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-your-pc-with-playstation-vr-a-step-by-step-tutorial/"><u>Guide: Setting Up Your PC with PlayStation VR – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hassle-free-gaming-with-the-fixed-assassins-creed-odyssey-on-your-pc/"><u>Hassle-Free Gaming with the Fixed Assassin's Creed Odyssey on Your PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Sony ?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p55-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P55 Phones? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973672879-qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-acrocefexe-malfunction-effective-troubleshooting-steps/"><u>Resolving Acrocef.exe Malfunction – Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-starcraft-ii-hiccups-expert-tips-on-resolving-computer-system-conflicts-and-stabilizing-your-playtime/"><u>Say Goodbye to StarCraft II Hiccups: Expert Tips on Resolving Computer System Conflicts & Stabilizing Your Playtime</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streaming-mastery-real-time-capture-of-games-via-windows-intel-hub/"><u>Streaming Mastery: Real-Time Capture of Games via Windows Intel Hub</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-ubisoft-connect-issues/"><u>Troubleshooting Guide: How to Fix Ubisoft Connect Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steep-cpu-usage-for-optimal-performance-in-new-world/"><u>Troubleshooting Steep CPU Usage for Optimal Performance in New World</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-enhancement-software-upgrade-your-video-resolution-today-for-2024/"><u>Updated Video Enhancement Software Upgrade Your Video Resolution Today for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-to-subtitles-subc-practical-steps-for-conversion/"><u>[New] SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-superior-screen-quality-10-in-4ks-for-2024/"><u>[New] Superior Screen Quality – #10 in 4Ks for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-concept-to-classroom-a-guide-to-creating-engaging-edu-videos-on-youtube/"><u>[Updated] 2024 Approved From Concept to Classroom A Guide to Creating Engaging Edu-Videos on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-facing-the-reality-of-content-monetization/"><u>2024 Approved Facing the Reality of Content Monetization</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-guide-to-premium-google-pixel-tones/"><u>2024 Approved Guide to Premium Google Pixel Tones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-relentless-hunger-crashes-on-windows-pcs-expert-solutions-revealed/"><u>Bid Farewell to Relentless Hunger Crashes on Windows PCs: Expert Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-builders-dilemma-overcoming-the-challenges-of-cities-skylines-2-pc-stability-and-crash-fixes/"><u>City Builders' Dilemma: Overcoming the Challenges of Cities: Skylines 2 PC Stability and Crash Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-addressing-constant-game-crashes/"><u>Cod: Modern Warfare Troubleshooting - Addressing Constant Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-cod-modern-warfare-game-crashes/"><u>Effective Solutions for Preventing Cod: Modern Warfare Game Crashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-camera-roll-to-feed-adding-photos-on-instagram-for-2024/"><u>From Camera Roll to Feed Adding Photos on Instagram for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unlocking-gameplay-success-with-ps3-screen-recording/"><u>In 2024, Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-lenovos-innovative-yoga-book-9i-the-game-changer-for-dual-display-laptops-insights-from-zdnet/"><u>Is Lenovo's Innovative Yoga Book 9I the Game Changer for Dual-Display Laptops? Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-entry-not-detected-hurdles-in-fortnite-effective-solutions/"><u>Overcoming 'Entry Not Detected' Hurdles in Fortnite: Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-dark-display-issue-in-fortnite-on-windows/"><u>Resolved: Fixing the Persistent Dark Display Issue in Fortnite on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-pc-gameplay-issues-in-helldivers-2-proven-fix-techniques/"><u>Resolving PC Gameplay Issues in Helldivers 2: Proven Fix Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-light-on-the-battlefield-dealing-with-black-screens-in-halo-infinite/"><u>Restoring Light on the Battlefield: Dealing with Black Screens in Halo Infinite</u></a></li>
+<li><a href="https://some-skills.techidaily.com/step-by-step-guide-launching-admin-command-prompt-on-windows-10/"><u>Step-by-Step Guide: Launching Admin Command Prompt on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-call-of-duty-modern-warfare-2-for-seamless-gaming/"><u>Troubleshooting DirectX Issues in Call of Duty: Modern Warfare 2 for Seamless Gaming</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/ultimate-guide-maintaining-high-quality-video-while-compressing-mp4-files/"><u>Ultimate Guide: Maintaining High-Quality Video While Compressing MP4 Files</u></a></li>
 </ul></div>
 

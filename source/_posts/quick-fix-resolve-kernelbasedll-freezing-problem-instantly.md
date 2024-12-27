@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-12-17T21:25:40.335Z
-updated: 2024-12-21T21:46:38.258Z
+date: 2024-12-26T07:20:52.702Z
+updated: 2024-12-27T06:38:26.947Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -49,10 +53,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -66,16 +66,20 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -99,10 +103,6 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
@@ -116,21 +116,21 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,22 +159,24 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-of-professional-rl-broadcasts/"><u>[New] 2024 Approved Secrets of Professional RL Broadcasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-expanding-textual-arsenal-in-after-effects-for-2024/"><u>[New] Expanding Textual Arsenal in After Effects for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-league-of-legends-lag-issue/"><u>[SOLVED] League of Legends Lag Issue</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-raw-footage-to-final-cut-youtube-edition/"><u>2024 Approved From Raw Footage to Final Cut YouTube Edition</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/6-users/"><u>6 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Infinix Note 30 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-overcoming-connectivity-and-functionality-issues-in-tiktok/"><u>Expert Advice: Overcoming Connectivity and Functionality Issues in TikTok.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-deleting-images-a-user-friendly-approach-for-facebook-users/"><u>Guide to Deleting Images: A User-Friendly Approach for Facebook Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-ascent-game-continuously-crashing-on-your-computer/"><u>How to Fix the 'Ascent' Game Continuously Crashing on Your Computer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>In 2024, Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
-<li><a href="https://program-issues.techidaily.com/invest-in-memories-at-a-cost-you-love-the-akaso-ek7000/"><u>Invest in Memories at a Cost You Love - The AKASO EK7000</u></a></li>
-<li><a href="https://techidaily.com/next-summer-release-anticipated-launch-of-the-ford-explorer-electric-vehicle/"><u>Next Summer Release: Anticipated Launch of the Ford Explorer Electric Vehicle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-first-time-load-problems-fixing-the-black-screen-on-launch-for-helldivers-ii/"><u>Overcoming First-Time Load Problems: Fixing the Black Screen on Launch for Helldivers II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-heart-of-iron-iv-common-errors-a-comprehensive-guide/"><u>Resolving Heart of Iron IV Common Errors: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-razer-synapse-cannot-open/"><u>Troubleshooting Tips: Overcoming 'Razer Synapse Cannot Open'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-the-hiccups-in-age-of-empires-4-gameplay/"><u>Troubleshooting Tips: Stop the Hiccups in Age of Empires 4 Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-scavengers-keeping-you-from-gaming-on-your-computer/"><u>Ultimate Fix for Scavengers Keeping You From Gaming On Your Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] 2024 Approved How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-propel-your-social-impact-with-strategic-facebook-video-ads-for-2024/"><u>[New] Propel Your Social Impact with Strategic Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-up-your-snapchat-game-with-three-simple-steps/"><u>[Updated] 2024 Approved Step Up Your Snapchat Game with Three Simple Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>[Updated] In 2024, Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-rapid-performance-with-our-comprehensive-motorola-mg7700-testing-review/"><u>Experience Rapid Performance with Our Comprehensive Motorola MG^7700 Testing Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-not-launching-error-on-hogwarts-legacy-comprehensive-guide-for-players/"><u>Fixing the 'Not Launching' Error on Hogwarts Legacy: Comprehensive Guide for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-3-pc-freezing-problems-heres-how-you-can-overcome-them/"><u>Halo 3 PC Freezing Problems? Here's How You Can Overcome Them!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-deep-dive-into-fraps-recording-capabilities/"><u>In 2024, A Deep Dive Into Fraps Recording Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/"><u>In 2024, Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-cycle-of-rebirth-strategies-for-black-resilience-and-triumph/"><u>Mastering the Cycle of Rebirth: Strategies for Black Resilience and Triumph</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-expert-techniques-for-crafting-complex-audio-edits-with-keyframes-in-premiere-pro-mac-edition/"><u>New Expert Techniques for Crafting Complex Audio Edits with Keyframes in Premiere Pro, Mac Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-flip-spin-and-rotate-16-best-free-avi-video-rotators-for-all-devices/"><u>New In 2024, Flip, Spin, and Rotate 16 Best Free AVI Video Rotators for All Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-new-world-server-delays-and-connectivity-problems/"><u>Solving 'New World' Server Delays & Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tactics-for-fortnite-players-fixing-error-code-84-and-more/"><u>Troubleshooting Tactics for Fortnite Players – Fixing Error Code 84 and More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-high-latency-and-lag-in-chivalry-2/"><u>Ultimate Guide: Solving High Latency & Lag in Chivalry 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-repairing-cryptic-pc-malfunctions-and-crashes/"><u>Understanding & Repairing Cryptic PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-solutions-for-previous-steam-server-access-issues/"><u>Understanding Solutions for Previous Steam Server Access Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-pixels-on-windows-1011-screens/"><u>Unlock the Power of Pixels on Windows 10/11 Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-can-happen-if-there-is-an-imbalance-between-photoautotrophs-and-heterotrophs-in-agricultural-systems/"><u>What Can Happen if There Is an Imbalance Between Photoautotrophs and Heterotrophs in Agricultural Systems?</u></a></li>
 </ul></div>
 

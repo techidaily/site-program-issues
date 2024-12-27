@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2024-12-20T23:19:14.373Z
-updated: 2024-12-21T17:08:07.198Z
+date: 2024-12-24T00:02:51.710Z
+updated: 2024-12-26T16:43:57.730Z
 tags:
   - win11
   - win10
@@ -76,6 +76,10 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
@@ -85,6 +89,10 @@ You can then launch Detroit: Become Human and see if it crashes again.
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -110,22 +118,18 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -138,13 +142,13 @@ Here’s how:
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
@@ -152,10 +156,6 @@ Here’s how:
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -171,7 +171,7 @@ For example, you can follow these steps to disable Steam overlay:
 3. Launch Detroit: Become Human and test your gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
@@ -205,16 +205,21 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-insiders-look-at-the-most-effective-instagram-tags-for-growth/"><u>[New] In 2024, The Insider's Look at the Most Effective Instagram Tags for Growth</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-skillful-use-of-skypes-screen-share-capabilities-in-telecommuting/"><u>2024 Approved Skillful Use of Skype's Screen Share Capabilities in Telecommuting</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo V27? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-blunders-permanent-end-to-rapid-riot-games-crashes/"><u>Banish Blunders: Permanent End to Rapid Riot Games Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-solution-how-to-fix-godfall-game-crashes-on-your-computer-full-tutorial/"><u>Complete Solution: How to Fix Godfall Game Crashes on Your Computer - Full Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-server-disconnect-issues-efficiently-for-escape-from-tarkov-gamers/"><u>Fixing Server Disconnect Issues Efficiently for Escape From Tarkov Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-drivereasy-on-your-phone-or-tablet-a-step-by-step-tutorial/"><u>Mastering DriverEasy on Your Phone or Tablet – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-hidden-realms-of-windows-protection-zones/"><u>Navigating the Hidden Realms of Windows Protection Zones</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/re-engage-withprinter-online-troubleshooting-steps/"><u>Re-Engage Withprinter: Online Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcoming-the-elder-scrolls-online-loading-errors/"><u>Step-by-Step Guide to Overcoming The Elder Scrolls Online Loading Errors</u></a></li>
-<li><a href="https://facebook.techidaily.com/uk-sport-groups-pledge-no-online-presence/"><u>UK Sport Groups Pledge No Online Presence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-advanced-screen-recording-suite-for-windows-and-macos/"><u>[New] 2024 Approved Advanced Screen Recording Suite for Windows & macOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-android-pixel-perfect-techniques/"><u>[New] Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convert-audio-files-from-wav-to-m4a-for-free-with-movavi-online-tool/"><u>Convert Audio Files From WAV to M4A for Free with Movavi Online Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-performance-and-fix-for-star-citizen-windows-instability-issues/"><u>Enhanced Performance & Fix for Star Citizen Windows Instability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-call-of-duty-wwii-black-screen-glitch-on-a-windows-system/"><u>Fix Your Call of Duty: WWII Black Screen Glitch on a Windows System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-dauntless-pc-crashes-for-a-smooth-gaming-experience/"><u>How to Resolve Dauntless PC Crashes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-game-from-freezing-resolving-cod-warzone-pc-problems/"><u>How to Stop Your Game From Freezing: Resolving COD Warzone PC Problems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://fox-search.techidaily.com/maximizing-your-income-with-digital-coins-insights-from-yl-software-experts/"><u>Maximizing Your Income with Digital Coins: Insights From YL Software Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005953143-quick-fixes-for-when-your-oculus-link-goes-dark-actionable-tips-inside/"><u>Quick Fixes for When Your Oculus Link Goes Dark - Actionable Tips Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-obs-streaming-and-recording-latency-problems/"><u>Resolved: Fixes for OBS Streaming and Recording Latency Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-your-lg-devices-usb-connection-problem-on-windows-11-8-and-7/"><u>Solving Your LG Device's USB Connection Problem on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-civi-3-disney-100th-anniversary-edition-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Civi 3 Disney 100th Anniversary Edition ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminate-lag-and-stutter-when-enjoying-assassins-creed-odyssey-pc-edition/"><u>Ultimate Guide: Eliminate Lag and Stutter When Enjoying Assassin's Creed Odyssey (PC Edition)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/uncover-the-reasons-behind-your-scanners-blurred-output-a-guide-by-yl-computing/"><u>Uncover the Reasons Behind Your Scanner's Blurred Output: A Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-creation-simplified-boosting-windows-11-setup-in-just-three-ways/"><u>USB Creation Simplified – Boosting Windows 11 Setup in Just Three Ways</u></a></li>
 </ul></div>
 

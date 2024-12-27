@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-12-17T17:36:18.187Z
-updated: 2024-12-21T17:42:23.729Z
+date: 2024-12-25T18:36:17.428Z
+updated: 2024-12-26T18:45:40.133Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -51,7 +47,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 You can fix it by uninstalling the multiplayer HD texture packs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphic driver
@@ -74,7 +70,7 @@ There are mainly two ways you can update the graphics driver:
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -91,6 +87,10 @@ There are mainly two ways you can update the graphics driver:
 2) Click**SETTINGS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
@@ -110,6 +110,10 @@ There are mainly two ways you can update the graphics driver:
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -120,14 +124,10 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
@@ -155,22 +155,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-clearing-up-confusion-understanding-digital-rights-management-drm/"><u>[New] 2024 Approved Clearing Up Confusion Understanding Digital Rights Management (DRM)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pave-your-path-to-popularity-secure-1000-fansmonth-on-instagram/"><u>[New] In 2024, Pave Your Path to Popularity Secure 1,000 Fans/Month on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-sleep-well-with-asmr-techniques-and-tips/"><u>[New] In 2024, Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-total-war-three-kingdoms-crash-issue/"><u>[Solved] Total War: Three Kingdoms Crash Issue</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[Updated] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-in-call-of-duty-modern-warfare-a-complete-guide/"><u>Eliminate FPS Drops in Call of Duty: Modern Warfare - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expedited-recover-lost-logildadll/"><u>Expedited: Recover Lost LogiLDA.dll</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-battlenet-not-responding-error-a-comprehensive-2-growers-guide/"><u>Fixing the Battle.net Not Responding Error: A Comprehensive 2 Grower's Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>In 2024, Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-nba-2k23-crashing-issues-on-pc-top-7-tips-and-tricks/"><u>Solved: How to Fix NBA 2K23 Crashing Issues on PC - Top 7 Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-gobi-fatal-error-in-back-4-blood-ue4-comprehensive-guide/"><u>Solving Gobi Fatal Error in Back 4 Blood (UE4) - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-solution-to-overcome-rusts-graphical-anomalies/"><u>The Solution to Overcome Rust's Graphical Anomalies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-cropped-video-content-on-instagram/"><u>The Ultimate Guide to Cropped Video Content on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-msi-afterburners-inability-to-recognize-gpu-under-windows-11/"><u>Troubleshooting Guide: Addressing MSI Afterburner's Inability to Recognize GPU Under Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-safe-methods-to-rip-burn-and-duplicate-your-dvdcd-content/"><u>Ultimate Guide: Safe Methods to Rip, Burn & Duplicate Your DVD/CD Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-nextgen-editing-best-4k-displays-to-watch/"><u>[New] 2024 Approved NextGen Editing Best 4K Displays to Watch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fortnite-not-loading-issues-quickly-and-easily/"><u>[Solved] Fortnite Not Loading Issues | Quickly & Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vcs-vidcapture-review-full-examination/"><u>[Updated] In 2024, VCS VidCapture Review Full Examination</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-audio-compilations-for-video-production/"><u>[Updated] Ultimate Audio Compilations for Video Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-path-to-virtual-reality-tips-and-tricks/"><u>2024 Approved Android's Path to Virtual Reality Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-4-common-issues-and-how-to-fix-not-launching-problems/"><u>Age of Empires 4 - Common Issues and How to Fix Not Launching Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-game-crashes-in-dauntless-for-pc-users-a-step-by-step-guide/"><u>Ending Game Crashes in Dauntless for PC Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-getting-call-of-dutys-modern-warfare-3-mw3-up-and-running-without-glitches-or-delays/"><u>Expert Tips: Getting Call of Duty's Modern Warfare 3 MW3 Up and Running Without Glitches or Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cs-go-launch-issue-a-step-by-step-approach/"><u>Fixing the CS: GO Launch Issue - A Step-by-Step Approach</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210188829-9781913479770-love-over-fear/"><u>Love Over Fear | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-implementation-minimizes-cpu-usage-spikes/"><u>Optimized WDF Implementation Minimizes CPU Usage Spikes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-audio-records-with-our-step-by-step-guide-for-2024/"><u>Perfecting Audio Records with Our Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premium-gadgets-for-less-discover-superior-tech-on-a-budget/"><u>Premium Gadgets for Less: Discover Superior Tech on a Budget</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-mystery-effective-ways-to-eliminate-packet-loss-in-discord/"><u>Solving the Mystery: Effective Ways to Eliminate Packet Loss in Discord</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/versatile-and-compact-moco-universal-portable-keyboard-with-secure-bluetooth-technology/"><u>Versatile and Compact MOCO Universal Portable Keyboard with Secure Bluetooth Technology</u></a></li>
 </ul></div>
 

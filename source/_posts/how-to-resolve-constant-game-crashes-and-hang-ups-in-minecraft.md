@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2024-12-14T17:40:56.711Z
-updated: 2024-12-21T17:09:12.298Z
+date: 2024-12-25T17:11:29.610Z
+updated: 2024-12-26T19:10:55.889Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -97,14 +89,10 @@ You can use these steps to check for Windows updates manually:
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -138,18 +126,22 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -162,7 +154,15 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
 
@@ -171,7 +171,7 @@ If the crash happens again, you can take a look at the next fix.
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Check the launcher log
@@ -201,22 +201,24 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-seamlessslide-visual-harmony-on-macsierra/"><u>[New] SeamlessSlide Visual Harmony on MacSierra</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[Updated] In 2024, Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-laughter-library-selecting-witty-content-for-short-youtube-videos/"><u>[Updated] In 2024, Laughter Library Selecting Witty Content for Short YouTube Videos</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/1728471544760-aomei/"><u>AOMEI云恢复软件逆向还原方法的全面指南</u></a></li>
-<li><a href="https://facebook.techidaily.com/cutting-the-cord-deletion-steps-for-virtual-communities/"><u>Cutting the Cord: Deletion Steps for Virtual Communities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-game-hiccups-in-borderlands-3-pro-tips-for-smooth-playtime/"><u>Eliminate Game Hiccups in Borderlands 3: Pro Tips for Smooth Playtime</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-utorrents-not-responding-situation-with-7-key-solutions/"><u>Expert Advice on Resolving UTorrent's Not Responding Situation with 7 Key Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cyberpunk-2077-pc-game-crashes-comprehensive-solutions/"><u>Fixing Cyberpunk 2077 PC Game Crashes: Comprehensive Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-gameplay-interruptions-solutions-for-starfield-pc-stability/"><u>Fixing Persistent Gameplay Interruptions: Solutions for Starfield PC Stability</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo Y36i? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/no-more-pages-left-how-to-handle-a-low-ink-printer-scenario-insights-from-yl-software/"><u>No More Pages Left: How to Handle a Low-Ink Printer Scenario, Insights From YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009729174-smooth-sailing-for-fallout-4-tackle-stutter-problems-today/"><u>Smooth Sailing for Fallout 4: Tackle Stutter Problems Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-maplestorys-initialization-errors-successfully/"><u>Troubleshooting Guide: Fixing Maplestory's Initialization Errors Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-persistent-loading-hurdle-in-among-us-gameplay/"><u>Troubleshooting Tips: Overcoming the Persistent Loading Hurdle in Among Us Gameplay</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-livestreaming-a-comprehensive-guide-for-2024/"><u>Twitter Livestreaming A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-secrets-behind-star-wars-battlefront-2s-notorious-pitch-black-display-fault-fixes/"><u>Unraveling the Secrets Behind Star Wars Battlefront 2'S Notorious Pitch-Black Display Fault Fixes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fix-chrome-error-with-fb-videos/"><u>[New] Fix Chrome Error with FB Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-formulating-attractive-instagram-story-captions-for-2024/"><u>[New] Formulating Attractive Instagram Story Captions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-negative-space-how-to-flip-vids-on-instagram-for-2024/"><u>[New] Navigating Negative Space How to Flip Vids on Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chip-harmony-editors-reap-the-benefits-of-syncopated-precision-for-2024/"><u>Chip Harmony Editors Reap the Benefits of Syncopated Precision for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-update-failures-in-minecrafts-original-launcher-platform/"><u>Comprehensive Solution for Update Failures in Minecraft's Original Launcher Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/double-your-reach-youtube-and-facebook-cross-promotion-for-2024/"><u>Double Your Reach YouTube & Facebook Cross-Promotion for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-overcoming-installation-hiccups-with-fighting-networks-tekken-8-on-desktop-computers/"><u>Easy Fixes: Overcoming Installation Hiccups with Fighting Network's Tekken 8 on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-stray-application-crashes-6-proven-techniques-for-a-smooth-pc-experience/"><u>End Stray Application Crashes: 6 Proven Techniques for a Smooth PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cold-war-game-crash-on-both-pc-and-console-comprehensive-troubleshooting-guide/"><u>Fixing the 'Cold War' Game Crash on Both PC and Console: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-war-thunders-constant-crashes-proven-techniques-and-best-practices/"><u>Fixing War Thunder's Constant Crashes: Proven Techniques and Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-lengthy-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>How to Fix Lengthy Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-cod-modern-warfare-error-6-issue-for-a-smooth-pc-gaming-experience/"><u>How to Resolve COD: Modern Warfare Error 6 Issue for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y78plus-t1-edition-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y78+ (T1) Edition to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-overcoming-fifa-19-crashing-problems-on-your-pc-machine/"><u>Master the Art of Overcoming FIFA 19 Crashing Problems on Your PC Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-visual-glitches-the-errgraphicsstate-issue-in-red-dead-redemption-2/"><u>Overcoming Visual Glitches: The ERR_GRAPHICS_STATE Issue in Red Dead Redemption 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-windows-missing-press-enter-action/"><u>Rectifying Windows' Missing Press Enter Action</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-comprehensive-guide-to-correcting-the-d3dxtk9dll-not-found-issue/"><u>Resolved: Comprehensive Guide to Correcting the d3dxtk9.dll Not Found Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users/"><u>Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-free-disk-defragmentation-tools-of-july-2024/"><u>Top 12 Free Disk Defragmentation Tools of July 2024</u></a></li>
 </ul></div>
 

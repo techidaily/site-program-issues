@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2024-12-19T17:46:24.607Z
-updated: 2024-12-21T17:01:12.264Z
+date: 2024-12-19T16:20:39.894Z
+updated: 2024-12-27T02:46:27.082Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable DirectX 12 mode
@@ -36,7 +36,7 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Inside of it, open the folder**settings** .
@@ -45,16 +45,12 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![disable DirectX 12 mode in BootOptions](https://images.drivereasy.com/wp-content/uploads/2021/01/bootoptions.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.  
@@ -80,10 +76,14 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -106,18 +106,24 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-msi-audio-drivers-for-windows/"><u>[Download] MSI Audio Drivers for Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/borderlands-3-play-smoother-no-more-unexpected-pauses-a-comprehensive-guide/"><u>Borderlands 3 Play Smoother, No More Unexpected Pauses – A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decoding-the-difficulties-a-comprehensive-guide-to-fixing-arise-ue4-catastrophes/"><u>Decoding the Difficulties: A Comprehensive Guide to Fixing Arise UE4 Catastrophes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-asset-ownership-claims/"><u>Demystifying AI Asset Ownership Claims</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/die-top-5-besten-gratisk-mp3aac-player-fur-windows-und-macos-fuhrende-auswahl/"><u>Die Top 5 Besten Gratisk MP3/AAC-Player Für Windows Und macOS - Führende Auswahl</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-common-world-of-warcraft-wow-system-errors-a-players-handbook/"><u>Easy Fixes for Common World of Warcraft (WoW) System Errors: A Player's Handbook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2e020-fix-guide-for-unexpected-shutdowns-and-errors/"><u>Football Manager 2E020 Fix Guide for Unexpected Shutdowns and Errors</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/m-powered-mac-users-rejoice-the-upcoming-arrival-of-fedora-linux-coverage-by-zdnet/"><u>M-Powered Mac Users Rejoice: The Upcoming Arrival of Fedora Linux Coverage by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-simple-techniques-transform-your-avi-videos-into-mpeg-with-these-5-steps/"><u>Quick & Simple Techniques: Transform Your AVI Videos Into MPEG with These 5 Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-devilishly-complex-bugs-in-call-of-duty-mobile-modern-warfare-and-codz/"><u>Step-by-Step Guide: Resolving Devilishly Complex Bugs in Call of Duty Mobile, Modern Warfare & CoDZ</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-repair-dreamlight-valley-pc-bugs-a-comprehastoverview-of-six-fixes/"><u>Troubleshoot and Repair Dreamlight Valley PC Bugs: A Comprehastoverview of Six Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-depths-of-ifunnys-meme-experience/"><u>[New] Exploring the Depths of iFunny's Meme Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>[New] Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>[Updated] In 2024, The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-pathway-to-online-success-building-a-new-youtube-channel/"><u>[Updated] The Pathway to Online Success Building a New YouTube Channel</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss/"><u>2024 Approved Revealed The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-top-tips-and-tricks-becoming-a-pro-at-roller-champions-pc-crossplay/"><u>2024'S Top Tips and Tricks: Becoming a Pro at Roller Champions PC Crossplay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-s23-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy S23 FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-ubisoft-connect-downloads-proven-strategies-and-solutions/"><u>Accelerate Ubisoft Connect Downloads: Proven Strategies and Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-gt-neo-5-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme GT Neo 5 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-roblox-launch-delays-a-step-by-step-guide/"><u>Overcoming Roblox Launch Delays: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-on-pc-effective-fixes-for-when-youre-staring-at-a-blank-screen/"><u>Rainbow Six Siege on PC - Effective Fixes for When You're Staring at a Blank Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-dying-light-auditory-glitch-easily-with-our-troubleshooting-steps/"><u>Resolve Your Dying Light Auditory Glitch Easily with Our Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Overcoming 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-vanguard-not-loaded-glitch-in-riots-popular-fps-game-valorant/"><u>Resolving 'Vanguard Not Loaded' Glitch in Riot's Popular FPS Game, Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-warzone-directx-error-in-just-four-simple-steps/"><u>Resolving Warzone DirectX Error in Just Four Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionizing-your-ssd-optimize-with-fresh-for-windows-users/"><u>Revolutionizing Your SSD: Optimize with Fresh for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectacular-scenes-from-snowspeedcross-22/"><u>Spectacular Scenes From Snowspeedcross '22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-improve-valheims-stuttering-and-freezing-on-pc/"><u>Troubleshooting Steps to Improve Valheim's Stuttering & Freezing on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-game-installation-with-xbox-app-tips/"><u>Winning at Game Installation with Xbox App Tips</u></a></li>
 </ul></div>
 

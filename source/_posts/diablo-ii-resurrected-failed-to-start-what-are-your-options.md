@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2024-12-19T20:42:49.679Z
-updated: 2024-12-21T19:35:13.693Z
+date: 2024-12-26T11:44:14.994Z
+updated: 2024-12-26T17:30:22.345Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 _Image source: bethesda.net_
 
  Starfield is definitely one of the most anticipated games these days. And now it’s been out! However, the issue of**Starfield not launching** is driving some users up the wall. Some also**receive some error codes** , preventing them from enjoying the gameplay. If you’re one of them, don’t fret! We’ve gathered some methods for you to identify the root cause and resolve your problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before going any further…
 
@@ -63,7 +67,7 @@ If you don’t know how to find your PC specs, take the steps below.
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-check-your-system-specs.png)
@@ -71,7 +75,7 @@ If you don’t know how to find your PC specs, take the steps below.
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -91,6 +95,10 @@ If you don’t know how to find your PC specs, take the steps below.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -107,15 +115,7 @@ If you have no idea what kind of graphics card your PC is packing,
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-open-task-manager.png)
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update graphics drivers (recommended)
 
@@ -158,7 +158,7 @@ To download and install the latest Windows updates, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable antivirus and firewall
@@ -175,6 +175,10 @@ To temporarily disable the Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
@@ -185,10 +189,6 @@ To temporarily turn off your antivirus software:
 1. In the system tray, look for your antivirus.
 2. Right-click it and find an option to disable or pause protection.
 3. Then launch Starfield and see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of game files (Steam users)
 
@@ -204,10 +204,6 @@ To temporarily turn off your antivirus software:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update the Xbox and Gaming Services apps
 
  Keeping your Xbox and Gaming Services apps updated should significantly enhance your overall gaming experience.
@@ -220,6 +216,10 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Starfield-on-the-game-launcher-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For Xbox users, you should also check if the services are up and running. Sometimes the issue is not on your end.
 
  To do this, simply[go to this page](https://support.xbox.com/en-US/xbox-live-status) . If it says**Limited** or**Major outage** , maybe you need to patiently wait for the repair.
@@ -227,7 +227,7 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
@@ -255,7 +255,7 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -289,24 +289,24 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[New] 2024 Approved Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-echo-chamber-new-tech-insights/"><u>[New] In 2024, Echo Chamber New Tech Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-directory-of-cost-free-online-resources-for-superior-vector-graphics/"><u>[New] Leading Directory of Cost-Free Online Resources for Superior Vector Graphics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-master-list-of-best-mp4-players/"><u>[Updated] 2024 Approved Master List of Best MP4 Players</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earning-by-critiquing-goodies-a-youtube-guide/"><u>[Updated] In 2024, Earning by Critiquing Goodies A YouTube Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-launch-fb-video-campaigns-utilize-the-gratis-creation-kit/"><u>[Updated] In 2024, Launch FB Video Campaigns Utilize the Gratis Creation Kit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-method-for-stunning-igtv-backgrounds/"><u>2024 Approved Step-By-Step Method for Stunning IGTV Backgrounds</u></a></li>
-<li><a href="https://win-blog.techidaily.com/come-converti-i-tuoi-file-flac-in-formato-mp3-gratuitamente-usando-movavi-scopri-il-processo-facile/"><u>Come Converti I Tuoi File FLAC in Formato MP3 Gratuitamente Usando Movavi - Scopri Il Processo Facile!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-frequent-freezes-and-crashes-while-playing-watch-dogs-legion-on-desktops/"><u>Effective Solutions to Stop Frequent Freezes & Crashes While Playing Watch Dogs: Legion on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993012072-end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/exhaustive-solutions-to-the-persistent-relink-not-launching-error-in-granblue-fantasy-gaming/"><u>Exhaustive Solutions to the Persistent 'Relink Not Launching' Error in Granblue Fantasy Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-resident-evil-village-stutteringcrashing-on-pc-detailed-guide/"><u>Expert Tips to Resolve Resident Evil Village Stuttering/Crashing on PC - Detailed Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-crashing-on-pc-solved/"><u>Football Manager 2021 Crashing on PC [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-constant-crashing-issue-in-beat-saber-expert-guide/"><u>How to Fix the Constant Crashing Issue in Beat Saber: Expert Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-camera-not-working-on-discord-a-step-by-step-guide/"><u>How to Resolve 'Camera Not Working' On Discord: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-armored-core-cu-6-on-pc-resolving-the-fires-of-rubicon-crash-scenario/"><u>Mastering Fixes for Armored Core Cu 6 on PC: Resolving the 'Fires of Rubicon' Crash Scenario</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-absence-of-football-manager-2e2-where-to-find-and-download-today/"><u>Solving the Absence of Football Manager 2E2: Where to Find & Download Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-finding-and-installing-logitech-g403-mouse-drivers-on-desktopslaptops/"><u>Step-by-Step Guide to Finding and Installing Logitech G403 Mouse Drivers on Desktops/Laptops</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-recurring-paper-jam-messages-in-print-devices-expert-advice-by-yl-software/"><u>Understanding Recurring Paper Jam Messages in Print Devices - Expert Advice by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-stability-issues-how-to-ensure-your-game-runs-without-interruption-on-windows-or-mac/"><u>'New World' Stability Issues: How to Ensure Your Game Runs Without Interruption on Windows or Mac</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-media-subtitles-transformation/"><u>[New] 2024 Approved Mastering Media Subtitles Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>[New] Boost Your Visual Impact Essential Tricks for Pixlr Pros</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-share-screen-on-zoom-meeting-guide/"><u>[Updated] 2024 Approved Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>[Updated] Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-frustration-8-effective-ways-to-keep-vrchat-running-smoothly-on-your-desktop/"><u>Avoid Frustration: 8 Effective Ways to Keep VRChat Running Smoothly on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-gaming-with-pathfinder-wrath-of-the-righteeus-updated-fixes-released/"><u>Crash-Free Gaming with Pathfinder: Wrath of the Righteeus Updated Fixes Released</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-the-frequent-pc-freezes-during-your-f1-2021-gaming-sessions/"><u>Expert Advice: Resolving the Frequent PC Freezes During Your F1 2021 Gaming Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-blackout-6-rapid-solutions-for-your-non-functional-oculus-link/"><u>Fixing the Blackout: 6 Rapid Solutions for Your Non-Functional Oculus Link</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-red-dead-redemption-2-graphics-glitch-errgfxstate-resolved/"><u>Fixing the Red Dead Redemption 2 Graphics Glitch: ERR_GFX_STATE Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-with-non-responsive-razer-synapse-application/"><u>How to Resolve the Problem with Non-Responsive Razer Synapse Application</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-making.techidaily.com/repair-guide-steps-to-restore-your-malfunctioning-video-card-tips-from-yl-computing/"><u>Repair Guide: Steps to Restore Your Malfunctioning Video Card - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/resolution-de-problemes-dautorisation-des-fichiers-sans-internet-sur-windows-11/"><u>Résolution De Problèmes D’Autorisation Des Fichiers Sans Internet Sur Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-fixing-your-smartphones-lagging-wi-fi-connection-7-key-points/"><u>The Ultimate Guide to Fixing Your Smartphone's Lagging Wi-Fi Connection (7 Key Points)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001157288-the-unavailability-of-football-manager-2n-workarounds-to-kick-start-your-game-today/"><u>The Unavailability of Football Manager 2N: Workarounds to Kick-Start Your Game Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-witcher-ngame-crashes-and-how-to-get-it-running/"><u>Troubleshooting Tips - Witcher nGame Crashes & How to Get It Running</u></a></li>
 </ul></div>
 

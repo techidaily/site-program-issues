@@ -1,7 +1,7 @@
 ---
 title: Quickly End WOW Freezing Problems with These Simple Troubleshooting Steps
-date: 2024-12-17T18:23:30.556Z
-updated: 2024-12-20T03:48:21.832Z
+date: 2024-12-23T21:40:29.098Z
+updated: 2024-12-26T19:15:13.433Z
 tags:
   - win11
   - win10
@@ -61,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Scan and Repair for your game
 
@@ -74,20 +82,16 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once finish, restart your game and see if it works properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable DVR app in Xbox
 
@@ -101,16 +105,16 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -121,15 +125,11 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
@@ -154,22 +154,24 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-render-and-upload-youtube-videos-faster-for-2024/"><u>[New] How to Render and Upload YouTube Videos Faster for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-free-youtube-endings-that-stand-out-ranked/"><u>[Updated] Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-loom-screen-recorder-downloader/"><u>[Updated] Loom Screen Recorder Downloader</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-hot-40-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Hot 40 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-gameplay-professional-techniques-for-overcoming-low-fps-in-eft/"><u>Enhance Gameplay: Professional Techniques for Overcoming Low FPS in EFT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-23-in-apex-legends-demystified-the-ultimate-fix-guide/"><u>Error Code 23 in Apex Legends Demystified: The Ultimate Fix Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-avoid-maplestory-disruptions-in-windows-10-with-our-2023-best-practices/"><u>Expert Advice: Avoid MapleStory Disruptions in Windows 10 with Our 2023 Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/finding-a-stable-playthrough-solutions-to-overcome-wolcens-pc-issues/"><u>Finding a Stable Playthrough: Solutions to Overcome Wolcen's PC Issues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ag-mastery-enhancing-freefire-gameplay-videos-for-2024/"><u>Hashtag Mastery Enhancing FreeFire Gameplay Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-error-code-6-glitches-in-pc-versions-of-warzone-and-modern-combat-series/"><u>How to Resolve 'Error Code 6' Glitches in PC Versions of Warzone and Modern Combat Series</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/msi-dragon-center-woes-heres-how-to-get-it-working-again/"><u>MSI Dragon Center Woes? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-your-gaming-experience-with-these-solutions-to-call-of-duty-black-ops-ivs-frame-rate-and-latency-issues/"><u>Optimizing Your Gaming Experience with These Solutions to Call of Duty: Black Ops IV's Frame Rate & Latency Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-your-madden-nfl-20-from-crashing-on-pc/"><u>Solved: How To Stop Your Madden NFL 20 From Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-cod-vanguards-pc-crash-issues-for-smooth-gaming/"><u>Solving CoD Vanguard's PC Crash Issues for Smooth Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-elite-choices-for-augmented-reality-eyewear-insights-from-zdnet/"><u>Unveiling the Elite Choices for Augmented Reality Eyewear - Insights From ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android-for-2024/"><u>Updated Streamlining Your Audio Setup Efficiently Manage M4A Files on Android for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/"><u>[New] 2024 Approved Maximizing Viewability & Engagement Understanding Facebook Video Ratios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-productivity-with-auditory-storytelling/"><u>[New] Maximizing Productivity with Auditory Storytelling</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-capture-8-latency-free-tools/"><u>[Updated] In 2024, Cutting-Edge Capture 8 Latency-Free Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[Updated] IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-incorporate-your-podcast-into-app-store/"><u>2024 Approved How To Incorporate Your Podcast Into App Store</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-device-rugged-accessories-for-apple-watch-and-samsung-galaxy-z-fold-top-picks-by-gadgetflow/"><u>Enhance Your Device: Rugged Accessories for Apple Watch and Samsung Galaxy Z Fold - Top Picks by GadgetFlow</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lost-ark-errors-and-reconnect-successfully/"><u>How to Overcome Lost Ark Errors and Reconnect Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-age-of-wonders-planetfall-from-crashing-during-gameplay-on-your-computer/"><u>How to Prevent 'Age of Wonders: Planetfall' From Crashing During Gameplay on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-dayz-gameplay-quick-solutions-to-enhance-fps-efficiently/"><u>Improve DayZ Gameplay: Quick Solutions to Enhance FPS Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-graphics-quality-fixes-for-blurry-screenshots-from-cod-warzone-on-pc/"><u>Improving Graphics Quality: Fixes for Blurry Screenshots From COD: Warzone on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x7b-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X7b FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/installing-microsoft-office-365-seamlessly-a-step-by-step-process-for-windows-and-mac-users/"><u>Installing Microsoft Office 365 Seamlessly - A Step-by-Step Process for Windows and Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-black-ops-cold-war-interface-mistake-code-27711/"><u>Resolved: Black Ops Cold War Interface Mistake - Code 27711</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-ps5-vs-microsofts-xbox-sx-showdown/"><u>Sony's PS5 vs Microsoft's Xbox SX Showdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/"><u>Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/"><u>Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC's Performance Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnites-pogo-sticking-issues/"><u>Ultimate Guide: Solving Fortnite's Pogo Sticking Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/"><u>Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/what-gamers-must-know-about-bandicam-for-2024/"><u>What Gamers Must Know About Bandicam for 2024</u></a></li>
 </ul></div>
 

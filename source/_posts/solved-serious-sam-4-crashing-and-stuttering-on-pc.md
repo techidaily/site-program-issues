@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Serious Sam 4 Crashing & Stuttering on PC"
-date: 2024-12-19T22:16:32.452Z
-updated: 2024-12-21T23:22:27.109Z
+date: 2024-12-22T21:54:33.351Z
+updated: 2024-12-26T18:19:00.671Z
 tags:
   - win11
   - win10
@@ -89,26 +89,18 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap379.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**
  . You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap380.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest game patch
 
@@ -117,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  After you installed the latest game patch, run PUBG to check if this issue reappears. If not, you’ve fixed this issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Modify the graphics settings of your PUBG
@@ -128,9 +120,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap382-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. In the **ADVANCED SETTINGS** , set the **Overall Quality to the lowest**  and click **APPLY**  to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap389-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game again to see if the PUBG stuttering issue persists. This this annoying issue remains, try the fix below.
 
@@ -142,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap384.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. In the pop-up window, expand **Hide additional plans** and select **High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap385.jpg)
@@ -150,16 +154,12 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap386.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. In the pop-up window, click **Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap387-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Select **Adjust for best performance**  and click **OK** .
@@ -188,22 +188,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-how-to-avoid-crashes-and-enjoy-gaming-without-hiccups-updated-guide-2024/"><u>Biomutant for PC: How to Avoid Crashes and Enjoy Gaming Without Hiccups (Updated Guide 2024)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/bridgexboxonetowin11controllerdrivers/"><u>BridgeXboxOneToWin11ControllerDrivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-camera-malfunction-heres-how-you-can-resolve-it-now/"><u>Discord Camera Malfunction? Here's How You Can Resolve It Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-troubleshooting-strategies/"><u>Division 2 Won't Start? Top Troubleshooting Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-dandd-experience-how-to-employ-chatgpt-and-dall-e-in-character-design-processes/"><u>Enhancing Your D&D Experience: How to Employ ChatGPT and DALL-E in Character Design Processes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-maintaining-a-fresh-look-on-your-macbook-pro-a-guide-from-zdnet/"><u>Expert Tips for Maintaining a Fresh Look on Your MacBook Pro: A Guide From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-guide-restoring-your-right-to-play-after-a-blockage-notice/"><u>Fortnite Troubleshooting Guide: Restoring Your Right to Play After a Blockage Notice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-hacks-addressing-and-repairing-continuous-crash-issues-in-cod-modern-warfare-2/"><u>Gaming Hacks: Addressing and Repairing Continuous Crash Issues in COD: Modern Warfare 2</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-crafting-a-revenue-driven-approach-to-youtube-content-creation/"><u>In 2024, Crafting a Revenue-Driven Approach to YouTube Content Creation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-complete-guide-to-edit-your-video-with-youtube-studio-editor/"><u>In 2024, The Complete Guide to Edit Your Video with YouTube Studio Editor</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-vrs-8-best-equipment-choices-guidebook/"><u>In 2024, VR's 8 Best Equipment Choices Guidebook</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/mastering-the-apowerrec-keyboard-command-quick-reference-for-windows-users/"><u>Mastering the ApowerREC Keyboard Command Quick Reference for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-3-understanding-the-common-causes-behind-2024-frame-rate-hiccups/"><u>Modern Warfare 3: Understanding the Common Causes Behind 2024 Frame Rate Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-pc-game-glitches-fixed-guide-to-no-more-dauntless-crashes/"><u>Overcome PC Game Glitches: Fixed Guide to No More Dauntless Crashes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-ultimate-checklist-for-twitter-video-posts/"><u>The Ultimate Checklist for Twitter Video Posts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tutorial-for-steady-game-execution-preventing-game-crashes-in-win-10win-11-environments/"><u>Tutorial for Steady Game Execution: Preventing Game Crashes in Win 10/Win 11 Environments</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-3-effective-methods-to-archive-itunes-videos/"><u>[New] In 2024, 3 Effective Methods to Archive iTunes Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/data-havens-smart-savers-cloud-choices-for-24/"><u>Data Havens Smart Savers' Cloud Choices for '24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-how-to-prevent-vrchat-pc-applications-from-suddenly-shutting-down/"><u>Effective Ways: How to Prevent VRChat PC Applications From Suddenly Shutting Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-your-discord-installation-errors-with-these-simple-tips/"><u>Effortlessly Resolve Your Discord Installation Errors with These Simple Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-early-loops-addressing-stability-issues-in-final-fantasy-xv-for-pc-gamers/"><u>Ending Early Loops: Addressing Stability Issues in Final Fantasy XV for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-dreaded-diablo-ncrashing-problem-what-you-need-to-know/"><u>Fixing the Dreaded Diablo nCrashing Problem - What You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-11x-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme 11X 5G Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a1-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A1 5G FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-a-smooth-experience-in-age-of-empires-4/"><u>Optimizing Performance for a Smooth Experience in Age of Empires 4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-battlenet-opening-problems-a-comprehensive-guide/"><u>Overcoming Battle.net Opening Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-troubleshooting-guide/"><u>Resolving 'Cannot Reach Live Config Servers': Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-win32-exception-error-code-0xc0000098-in-windows/"><u>Troubleshooting Guide: Resolving the Win32 Exception Error (Code 0xC0000098) in Windows</u></a></li>
 </ul></div>
 

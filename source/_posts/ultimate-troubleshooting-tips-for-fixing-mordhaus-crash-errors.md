@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-12-19T23:07:30.507Z
-updated: 2024-12-21T16:45:13.201Z
+date: 2024-12-23T02:04:49.586Z
+updated: 2024-12-27T06:11:08.465Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether It Takes Two crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -32,10 +36,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 4. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update or reinstall DirectX files](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
 
@@ -49,6 +49,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -58,10 +62,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
  The latest graphics driver will**enhance your graphics card performance** and**unlock the full potential of your graphics card** , which will give you an edge in PC video games.
 
 There are mainly two ways you can update your graphics drivers:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -97,7 +97,7 @@ There are mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -109,10 +109,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -122,7 +118,7 @@ There are mainly two ways you can update your graphics drivers:
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
@@ -134,6 +130,10 @@ There are mainly two ways you can update your graphics drivers:
  You can try adding both the game and Steam as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking / turbo boosting
 
@@ -179,17 +179,18 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-viral-video-ventures-crafting-addictive-loops-on-ig/"><u>[New] 2024 Approved Viral Video Ventures Crafting Addictive Loops on IG</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prodigious-cameras-for-slow-motion-delight/"><u>[New] Prodigious Cameras for Slow-Motion Delight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveil-windows-xps-essential-movie-making-features/"><u>[New] Unveil Windows XP’s Essential Movie Making Features</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] 2024 Approved Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>[Updated] Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-stalling-or-freezing-on-windows-11-heres-how-to-smoothly-resolve-it/"><u>Chrome Stalling or Freezing on Windows 11? Here's How to Smoothly Resolve It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-stop-football-manager-2020-from-crashing-on-pc/"><u>Effective Ways to Stop Football Manager 2020 From Crashing on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-7-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 7 Easily?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-chrome-loading-errors-a-step-by-step-guide/"><u>Overcoming Chrome Loading Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/turning-off-subtitles-in-amazons-streaming-service-easy-steps-explained/"><u>Turning Off Subtitles in Amazon's Streaming Service: Easy Steps Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-lag-problems-with-avatar-game-on-pandoras-frontier-adventure/"><u>Ultimate Guide: Resolving Lag Problems with Avatar Game on Pandora’s Frontier Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991603015-update-error-in-discord-problem-solved-with-latest-fix/"><u>Update Error in Discord? Problem Solved with Latest Fix</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-joyful-hours-essential-list-of-best-offline-ios-titles/"><u>[New] 2024 Approved Unlock Joyful Hours - Essential List of Best Offline iOS Titles</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-speedy-downloads-for-tiktok-hits/"><u>[New] Navigating Speedy Downloads for TikTok Hits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-exquisite-airplay-scripts-for-listeners/"><u>[Updated] In 2024, Exquisite Airplay Scripts for Listeners</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20 Pro+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-dota-2-wont-start-and-loading-screen-fixes/"><u>Effective Solutions for Dota 2 Won’t Start & Loading Screen Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-performance-monitor-dashboard-errors-a-step-by-step-approach/"><u>Fixing Performance Monitor Dashboard Errors: A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-to-play-uninterrupted-solving-the-endless-crashing-problems-of-solved-the-ascent-in-windows-environments/"><u>Getting to Play Uninterrupted: Solving the Endless Crashing Problems of [SOLVED] 'The Ascent' In Windows Environments</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-loading-player-no-sources-available-issue-on-pc/"><u>How to Fix the 'Error Loading Player: No Sources Available' Issue on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-xcover-6-pro-tactical-edition-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy XCover 6 Pro Tactical Edition Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-chivalry-ii-resolving-game-crashes/"><u>Troubleshooting Chivalry II: Resolving Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-apex-legends-engine-issues/"><u>Troubleshooting Guide: Fixing Apex Legends Engine Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/user-friendly-guide-stop-frequent-outriders-game-crashes/"><u>User-Friendly Guide: Stop Frequent Outriders Game Crashes</u></a></li>
 </ul></div>
 
